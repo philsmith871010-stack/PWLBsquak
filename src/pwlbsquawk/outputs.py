@@ -57,7 +57,8 @@ def write_outputs(
     append_ndjson(settings.squawks_ndjson_path, new_squawks)
 
 
-def read_ndjson(path: Path) -> list[Squawk]:
+def read_ndjson(path: str | Path) -> list[Squawk]:
+    path = Path(path)
     if not path.exists():
         return []
     out: list[Squawk] = []
