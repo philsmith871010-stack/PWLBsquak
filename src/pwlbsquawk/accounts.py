@@ -138,10 +138,25 @@ def resolve_file(
     statuses = check_accounts(accounts, api_base, inactive_days=inactive_days)
     if write:
         updated = apply_statuses(accounts, statuses, disable_inactive=disable_inactive)
+        with open(path, encoding="utf-8") as fh:
+            header = leading_comments(fh.read())
         with open(path, "w", encoding="utf-8") as fh:
-            fh.write(dump_accounts(updated))
+            fh.write(header + dump_accounts(updated))
         log.info("updated %s", path)
     return statuses
+
+
+def leading_comments(text: str) -> str:
+    """The comment block at the top of accounts.yaml, kept when the file is rewritten."""
+    lines: list[str] = []
+    for line in text.splitlines():
+        if line.startswith("#") or not line.strip():
+            lines.append(line)
+        else:
+            break
+    while lines and not lines[-1].strip():
+        lines.pop()
+    return "\n".join(lines) + "\n" if lines else ""
 
 
 def check_handles(handles: list[str], api_base: str, *, inactive_days: int = 14) -> list[AccountStatus]:

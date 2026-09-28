@@ -78,10 +78,11 @@ short replay window.
 
 Every writer call logs `in/out/cache_read/cache_write` tokens and an estimated USD figure
 (`writer/cost.py` has the price table; `squawk stats` sums the `runs` table). A pass with
-no new events makes no call. With the current 12 accounts (about 600 events a day, two
-thirds of them from the FinTwitter aggregator) and a 5-minute cadence, expect roughly
-150 calls and ~$1-3 a day on `claude-opus-5-5`; hourly windows over the two-day sample
-came to an estimated $0.65.
+no new events makes no call. With the 12 seed accounts (about 600 events a day, two thirds
+of them from the FinTwitter aggregator) and a 5-minute cadence, expect roughly 150 calls
+and ~$1-3 a day on `claude-opus-5-5`; hourly windows over the two-day sample came to an
+estimated $0.65. The 32 accounts added on 28 September are mostly low-volume institutions
+and journalists, so expect perhaps 100-200 more events a day.
 
 ## Notes and known limits
 

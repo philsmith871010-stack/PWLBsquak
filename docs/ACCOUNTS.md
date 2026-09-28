@@ -31,7 +31,7 @@ Volume note: in the captured 27-28 Sep sample, fintwitter accounted for 831 of 1
 (two thirds). It is the main driver of token cost and of noise the writer has to reject. If
 cost matters more than coverage, demote it to a separate poll cadence or drop it.
 
-## Proposed additions (need your approval; not in accounts.yaml yet)
+## Additions from the rates and economics search (approved and added 2026-09-28)
 
 Method: (1) `app.bsky.feed.searchPosts` on api.bsky.app for 25 UK rates/fiscal terms
 (gilts, Bank Rate, MPC, OBR, DMO, PWLB, SONIA, UK CPI, fiscal rules, ...); (2) the follow
@@ -59,7 +59,8 @@ in the last 30.
 | 14 | resolutionfoundation.org | Resolution Foundation | 4 | 10/28 | 28 Sep | 27-28 Sep: labour market (NEETs) analysis; regular fiscal event analysis |
 | 15 | tonytassell.bsky.social | Tony Tassell, FT financial opinion editor | 6 | 6/26 | 28 Sep | 28 Sep: Treasury appointment; 1976 IMF bailout retrospective |
 
-Alternates if any of the above are declined: beeboileau.bsky.social (IFS economist; active
+All 15 were approved on 2026-09-28 and are now in `config/accounts.yaml` with DIDs (tiers as
+marked). Alternates not added: beeboileau.bsky.social (IFS economist; active
 but relevant posts are older), chris-williamson.bsky.social (S&P Global PMI economist;
 global), soumayakeynes.ft.com (FT economics columnist; more trade than rates),
 carsjung.bsky.social (IPPR, ex-BoE; last post 13 days ago), pdonovan-econ.bsky.social
@@ -72,8 +73,8 @@ aggregators with no editorial filter.
 ## Adding an approved account
 
 Append to the right tier in `config/accounts.yaml` (handle only is fine) and run
-`uv run scripts/resolve_dids.py --write` to fill in the DID. Jetstream picks up the new
-DID on the next start of `squawk run`/`squawk listen`.
+`uv run scripts/resolve_dids.py --write` to fill in the DID; the file's comment header is
+kept. Jetstream picks up the new DID on the next start of `squawk run`/`squawk listen`.
 
 ## Local government coverage (checked 2026-09-28)
 
@@ -126,8 +127,8 @@ Inside Croydon (one council), Sam Freedman (public services commentary, 91k foll
 council-finance density), several Local Democracy Reporters (Somerset, Doncaster, London,
 Brighton: useful only if you want individual councils).
 
-Recommendation: if you want a local-government stream in the feed, approve 1-6 as a start;
-they are institutional, post daily, and the writer prompt already knows how to frame
-settlement, reorganisation and audit news for treasury teams. The council-finance
-conversation itself (CIPFA, Room151, LGC, The MJ) still lives on X and LinkedIn, so an X
-adapter would be the way to get it, not more Bluesky accounts.
+All 17 handles in the table were approved and added to `config/accounts.yaml` on
+2026-09-28 with the tiers shown (INLOGOV was exactly on the 14-day inactivity boundary at
+the time). The council-finance conversation itself (CIPFA, Room151, LGC, The MJ) still
+lives on X and LinkedIn, so an X adapter would be the way to get it, not more Bluesky
+accounts.

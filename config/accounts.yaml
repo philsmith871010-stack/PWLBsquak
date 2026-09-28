@@ -1,67 +1,197 @@
 # Curated Bluesky accounts for the squawk feed, grouped by tier.
 #
-# tier 1: UK economics / gilt / BoE specialists (keyword triggers for event mode apply here)
-# tier 2: broader macro and markets commentators
-# tier 3: wires and aggregators (high volume; the writer filters hard)
+# tier 1: specialists on UK economics, gilts, the BoE and local government finance
+#         (event-mode keyword triggers apply to this tier)
+# tier 2: institutions, macro and markets commentators
+# tier 3: wires, aggregators and sector news (high volume; the writer filters hard)
 #
-# Verified with `squawk resolve` on 2026-09-28 (all handles resolved; last post within 14 days
-# unless listed under `disabled`). Re-run `uv run scripts/resolve_dids.py --write` to refresh DIDs.
+# 12 seed accounts verified 2026-09-28; 32 more added the same day after approval (see
+# docs/ACCOUNTS.md). Re-run `uv run scripts/resolve_dids.py --write` to refresh DIDs and
+# activity flags; INLOGOV was on the 14-day inactivity boundary when added.
 tiers:
   1:
-    label: UK economics, gilts and the Bank of England
+    label: 'Specialists: UK economics, gilts, the Bank of England and local government finance'
     accounts:
-      - handle: bruceandy.bsky.social
-        did: did:plc:zpgmsa7eo63jbc57nd5gbr2c
-        name: Andy Bruce (Reuters)
-        note: Reuters senior correspondent, UK economy
-      - handle: tobyn.bsky.social
-        did: did:plc:n7qmptitg3fcep3mo7uecwb7
-        name: Toby Nangle
-        note: FT Alphaville; ex fund manager, gilts and pensions
-      - handle: iankmsmith.ft.com
-        did: did:plc:xbzge44ocelaiqhwia6sns3l
-        name: Ian Smith
-        note: FT senior markets correspondent (gilts)
-      - handle: domw.bsky.social
-        did: did:plc:ysurxzi2odawdywedcdwyz5z
-        name: Dom White
-        note: Chief economist, Absolute Strategy Research
-      - handle: matthewholehouse.bsky.social
-        did: did:plc:phrwhxykvoi3zwiasdcaijyi
-        name: Matthew Holehouse
-        note: The Economist, UK public policy
+    - handle: benzaranko.bsky.social
+      did: did:plc:kehpugaokgf2xoovbavfsnad
+      name: Ben Zaranko
+      note: Economics editor, The Observer; ex-IFS public finances
+    - handle: bruceandy.bsky.social
+      did: did:plc:zpgmsa7eo63jbc57nd5gbr2c
+      name: Andy Bruce (Reuters)
+      note: Reuters senior correspondent, UK economy
+    - handle: davidmilliken.bsky.social
+      did: did:plc:cnkav2txgxnskbjf2f564bjl
+      name: David Milliken (Reuters)
+      note: Reuters economics reporter covering the BoE and HM Treasury
+    - handle: domw.bsky.social
+      did: did:plc:ysurxzi2odawdywedcdwyz5z
+      name: Dom White
+      note: Chief economist, Absolute Strategy Research
+    - handle: dsmitheconomics.bsky.social
+      did: did:plc:iuybbwnqdkd44fxvrsgdueuq
+      name: David Smith
+      note: Economics editor, The Sunday Times
+    - handle: iankmsmith.ft.com
+      did: did:plc:xbzge44ocelaiqhwia6sns3l
+      name: Ian Smith
+      note: FT senior markets correspondent (gilts)
+    - handle: jamessmithrf.bsky.social
+      did: did:plc:dexo2jmyeby7i3tljuqjzbjg
+      name: James Smith
+      note: Chief economist, Resolution Foundation; ex-BoE
+    - handle: kirstyweakley.bsky.social
+      did: did:plc:wohkrl7gcearfeyjo6u5a4pv
+      name: Kirsty Weakley
+      note: Local Government Chronicle journalist
+    - handle: matthewholehouse.bsky.social
+      did: did:plc:phrwhxykvoi3zwiasdcaijyi
+      name: Matthew Holehouse
+      note: The Economist, UK public policy
+    - handle: philaldrick.bsky.social
+      did: did:plc:izljvq2jlmv7tyix54lxhek5
+      name: Phil Aldrick
+      note: Senior economics reporter, Bloomberg
+    - handle: rjpartington.bsky.social
+      did: did:plc:7gxgy7wfvg4tdsspy32rcvvw
+      name: Richard Partington
+      note: Guardian senior economics correspondent
+    - handle: robwoodecon.bsky.social
+      did: did:plc:elmw6ozilomgz5lluswqo7gt
+      name: Rob Wood
+      note: Chief UK economist, Pantheon Macroeconomics
+    - handle: tobyn.bsky.social
+      did: did:plc:n7qmptitg3fcep3mo7uecwb7
+      name: Toby Nangle
+      note: FT Alphaville; ex fund manager, gilts and pensions
   2:
-    label: Macro and markets commentators
+    label: Institutions, macro and markets commentators
     accounts:
-      - handle: robin-j-brooks.bsky.social
-        did: did:plc:ud2qlpa2iyw2yamklvfl246q
-        name: Robin Brooks
-        note: Brookings; global rates and FX
-      - handle: hermgamma.bsky.social
-        did: did:plc:fw7eon3etdgx7fcjx437it44
-        name: Holger Binding
-        note: Former fixed income options trader; posts are mostly reposts
+    - handle: antbreach.bsky.social
+      did: did:plc:nhvpttgooe4ysqxqqq7rz2hh
+      name: Ant Breach
+      note: Centre for Cities policy director; fiscal devolution
+    - handle: centreforcities.bsky.social
+      did: did:plc:opnnmgvzba7l7symuar4hnk7
+      name: Centre for Cities
+      note: Fiscal devolution and council housebuilding
+    - handle: chriswhittall.bsky.social
+      did: did:plc:mw33frnll5jjux3vvkfyyrdt
+      name: Chris Whittall
+      note: IFR, derivatives and secondary markets
+    - handle: gilesyb.bsky.social
+      did: did:plc:cdklqekun5o7gvz4sbujp3b3
+      name: Giles Wilkes
+      note: Institute for Government; ex-No 10 economic adviser
+    - handle: hermgamma.bsky.social
+      did: did:plc:fw7eon3etdgx7fcjx437it44
+      name: Holger Binding
+      note: Former fixed income options trader; posts are mostly reposts
+    - handle: jenwilliamsft.bsky.social
+      did: did:plc:dkpxtsmr5aq35plgm64cqrqr
+      name: Jennifer Williams (FT)
+      note: FT northern correspondent; devolution and mayors
+    - handle: julianhjessop.bsky.social
+      did: did:plc:wwxpsnwpv52qup3qdzrgacop
+      name: Julian Jessop
+      note: Independent economist (IEA); gilts and fiscal commentary
+    - handle: local.gov.uk
+      did: did:plc:xktc34svc3aeeovgbigfwg2d
+      name: Local Government Association
+      note: Daily; funding, settlement and reorganisation statements
+    - handle: meganisaac.bsky.social
+      did: did:plc:3wxbohjqryt3ct34kadf7xuc
+      name: Megan Isaac
+      note: Institute for Government, devolution
+    - handle: nao.org.uk
+      did: did:plc:zl6coddye75giblpxli7r7zr
+      name: National Audit Office
+      note: Local authority financial sustainability and audit reports
+    - handle: niesrorg.bsky.social
+      did: did:plc:6s7n3h2jcntzuvlw2movrget
+      name: NIESR
+      note: National Institute of Economic and Social Research
+    - handle: robin-j-brooks.bsky.social
+      did: did:plc:ud2qlpa2iyw2yamklvfl246q
+      name: Robin Brooks
+      note: Brookings; global rates and FX
+    - handle: robinwigglesworth.ft.com
+      did: did:plc:k7wfpfm3ava6krd3esmcwavs
+      name: Robin Wigglesworth
+      note: Editor, FT Alphaville
+    - handle: ruthcurtice.bsky.social
+      did: did:plc:ffrh7p7xrakuhb7blkrsvlig
+      name: Ruth Curtice
+      note: Chief executive, Resolution Foundation; ex-HMT
+    - handle: theifs.bsky.social
+      did: did:plc:migxim34fyw7yvdbzw5maym5
+      name: Institute for Fiscal Studies
+      note: Public finance analysis incl. local government finance
+    - handle: tonytassell.bsky.social
+      did: did:plc:36jf3cibx5co5hmiknqtw7dd
+      name: Tony Tassell
+      note: FT financial opinion editor
   3:
-    label: Wires and aggregators (high volume)
+    label: Wires, aggregators and sector news (high volume)
     accounts:
-      - handle: reuters.com
-        did: did:plc:jbvnehrrdqoulco4rf5gxg5r
-        name: Reuters
-      - handle: financialtimes.com
-        did: did:plc:5u54z2qgkq43dh2nzwzdbbhb
-        name: Financial Times
-      - handle: cityam.com.web.brid.gy
-        did: did:plc:nnaxwirbqywidimahadp42bj
-        name: City A.M. (Bridgy Fed mirror)
-        note: posts are link cards with empty text; the title/description is used
-      - handle: semafor.com
-        did: did:plc:2jwxoziacifmtqa5felhqms6
-        name: Semafor
-      - handle: fintwitter.bsky.social
-        did: did:plc:43fdk46qa5gsokzygzildsaq
-        name: FinTwitter
-        note: headline aggregator, ~500k posts; expect a lot of US noise
+    - handle: cityam.com.web.brid.gy
+      did: did:plc:nnaxwirbqywidimahadp42bj
+      name: City A.M. (Bridgy Fed mirror)
+      note: posts are link cards with empty text; the title/description is used
+    - handle: edjennings.bsky.social
+      did: did:plc:xlmnfwxzcr34edbfajhcprnm
+      name: Ed Jennings
+      note: Editor, Kent Current and Local Authority
+    - handle: financialtimes.com
+      did: did:plc:5u54z2qgkq43dh2nzwzdbbhb
+      name: Financial Times
+    - handle: fintwitter.bsky.social
+      did: did:plc:43fdk46qa5gsokzygzildsaq
+      name: FinTwitter
+      note: headline aggregator, ~500k posts; expect a lot of US noise
+    - handle: inlogov.bsky.social
+      did: did:plc:ukdnkft333mmj6sfbtwjg55b
+      name: INLOGOV
+      note: University of Birmingham local government institute; posts sporadically
+    - handle: insidehousing.bsky.social
+      did: did:plc:4crnjat2gafdo4ezfzxgd3gg
+      name: Inside Housing
+      note: Social housing sector news; HRA and grant funding
+    - handle: instituteforgovernment.org.uk
+      did: did:plc:d656x5rt365ylfpbzpwgpl4i
+      name: Institute for Government
+      note: Mostly Whitehall; devolution events
+    - handle: jessmccabe.bsky.social
+      did: did:plc:rhp4ewnam6yfz4qn5d3ijzoa
+      name: Jess McCabe
+      note: Deputy editor, Inside Housing
+    - handle: localauthority.news
+      did: did:plc:dycqhgkno6mpic5nf6caahfi
+      name: Local Authority (Medway)
+      note: Independent council news; Medway only
+    - handle: mhclg-answers.bsky.social
+      did: did:plc:mj64b2iria7wjafa3nho636r
+      name: MHCLG Answers (bot)
+      note: Posts every MHCLG written parliamentary answer
+    - handle: monadohle.bsky.social
+      did: did:plc:u2mbtrvrrpin26vxalqjo7jk
+      name: Mona Dohle
+      note: LGPS editor at Room151 (pensions, net zero)
+    - handle: resolutionfoundation.org
+      did: did:plc:v2gvr3pl2uwqxues3xqs7ycj
+      name: Resolution Foundation
+      note: Institutional account
+    - handle: reuters.com
+      did: did:plc:jbvnehrrdqoulco4rf5gxg5r
+      name: Reuters
+    - handle: se13ed.bsky.social
+      did: did:plc:zf5u3mgiezdsl22ra442djug
+      name: Ed Hammond
+      note: Centre for Governance and Scrutiny; council governance
+    - handle: semafor.com
+      did: did:plc:2jwxoziacifmtqa5felhqms6
+      name: Semafor
 disabled:
-  - handle: bankofengland.bsky.social
-    did: did:plc:5ucsszonytyeh55sfrycr72h
-    reason: "inactive: account exists but has never posted (checked 2026-09-28)"
+- handle: bankofengland.bsky.social
+  did: did:plc:5ucsszonytyeh55sfrycr72h
+  reason: 'inactive: account exists but has never posted (checked 2026-09-28)'

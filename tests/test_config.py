@@ -56,3 +56,25 @@ def _write(tmp_path, text):
     p = tmp_path / "again.yaml"
     p.write_text(text)
     return p
+
+
+def test_resolve_write_keeps_header_comments(tmp_path, monkeypatch):
+    from pwlbsquawk import accounts as acc_mod
+    from pwlbsquawk.accounts import AccountStatus, leading_comments
+
+    text = "# curated accounts\n# second line\n\ntiers:\n  1:\n    label: Core\n    accounts:\n      - handle: a.bsky.social\n"
+    p = tmp_path / "accounts.yaml"
+    p.write_text(text)
+    assert leading_comments(text) == "# curated accounts\n# second line\n"
+    monkeypatch.setattr(
+        acc_mod,
+        "check_accounts",
+        lambda accounts, api_base, inactive_days=14, client=None: [
+            AccountStatus(handle="a.bsky.social", tier=1, did="did:plc:abc", name="A", status="active")
+        ],
+    )
+    acc_mod.resolve_file(str(p), "https://api.bsky.app", write=True)
+    out = p.read_text()
+    assert out.startswith("# curated accounts\n# second line\n")
+    again = load_accounts(p)
+    assert again.active[0].did == "did:plc:abc" and again.active[0].name == "A"
