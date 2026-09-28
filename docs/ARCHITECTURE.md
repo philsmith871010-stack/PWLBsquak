@@ -111,7 +111,7 @@ pwlbsquawk/
 1. Exact: `uri` is unique (re-delivered Jetstream messages and overlapping polls are dropped).
 2. Near-duplicate across accounts: text is normalised (lower-case, URLs/handles/
    punctuation stripped, whitespace collapsed). Identical normalised text is a
-   duplicate. Otherwise word 3-gram shingles are compared with Jaccard similarity
+   duplicate. Otherwise word bigram shingles are compared with Jaccard similarity
    against events from the last 6 hours; >= 0.6 marks a duplicate. Duplicates are
    still stored (the log is complete) but carry `dedupe_of`, and the writer only
    sees canonical events.
