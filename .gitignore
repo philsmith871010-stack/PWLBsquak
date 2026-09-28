@@ -1,0 +1,30 @@
+# Python / uv
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.ruff_cache/
+
+# Secrets and local config
+.env
+.env.*
+!.env.example
+
+# Runtime data (outputs are regenerated; samples are committed)
+data/*.sqlite
+data/*.sqlite-journal
+data/*.sqlite-wal
+data/*.sqlite-shm
+data/recordings/
+data/replay/
+data/squawks.json
+data/squawks.ndjson
+!data/samples/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
