@@ -1,0 +1,34 @@
+# Example scheduled-job deployment: one polling pass + one writer pass, then commit the
+# outputs back to the repo. Disabled by default (no `schedule` trigger); run it by hand from
+# the Actions tab, or uncomment the cron. Needs an ANTHROPIC_API_KEY repository secret.
+name: squawk poll+write (example)
+
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "*/15 7-19 * * 1-5"   # every 15 min, UK working hours (UTC)
+
+permissions:
+  contents: write
+
+jobs:
+  squawk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - run: uv sync --frozen
+      - name: Poll Bluesky and write squawks
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SQUAWK_DB_PATH: data/squawk.sqlite
+        run: |
+          uv run squawk poll
+          uv run squawk write
+      - name: Commit outputs
+        run: |
+          git config user.name "squawk-bot"
+          git config user.email "squawk-bot@users.noreply.github.com"
+          git add -f data/squawks.json data/squawks.ndjson data/squawk.sqlite
+          git diff --cached --quiet || git commit -m "squawk: update outputs"
+          git push

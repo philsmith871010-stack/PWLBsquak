@@ -41,6 +41,7 @@ pwlbsquawk/
 ├── README.md                     setup in <10 steps, commands, tuning loop
 ├── pyproject.toml / uv.lock      Python 3.12, uv; console script `squawk`
 ├── .env.example                  every env var with defaults
+├── .github/workflows/squawk-poll.yml   example scheduled job (manual trigger; cron commented out)
 ├── config/accounts.yaml          handles grouped by tier (+ resolved DIDs)
 ├── prompts/squawk_writer.md      the writer system prompt (edit this to tune)
 ├── src/pwlbsquawk/
@@ -71,14 +72,14 @@ pwlbsquawk/
 │   ├── squawks.ndjson            append-only history                 (generated)
 │   ├── squawk.sqlite             event log                           (generated)
 │   ├── recordings/               `squawk record` output              (generated)
-│   └── samples/                  a committed captured sample for `squawk replay`
+│   └── samples/                  committed capture (27-28 Sep 2026, 1,241 events) for `squawk replay`
 ├── web/ticker.html               self-contained demo ticker
 ├── docs/
 │   ├── ARCHITECTURE.md           this file
 │   ├── INTEGRATION.md            the contract: JSON schema, cadence, service vs job, env vars
 │   ├── PORTING.md                Cloudflare Worker / Durable Object / VPS notes
 │   └── ACCOUNTS.md               seed verification + proposed additions (need approval)
-└── tests/                        pytest: dedupe, schema, thresholds, store, sources, writer, outputs
+└── tests/                        pytest: dedupe, schema, thresholds, store, sources, writer, outputs, runner
 ```
 
 ## Data model

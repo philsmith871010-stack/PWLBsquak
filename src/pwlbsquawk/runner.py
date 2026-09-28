@@ -90,6 +90,7 @@ class Runner:
         self.monitor = MarketMonitor(source, detector, store)
         self.writer = SquawkWriter(settings, store, backend, mode="run") if backend is not None else None
         self.listener: JetstreamListener | None = None
+        self.writer_slice_s = 5.0  # how often the writer wait re-checks event mode
 
     # -- event plumbing ----------------------------------------------------------
 
@@ -179,15 +180,20 @@ class Runner:
             await self._sleep(self.settings.market_poll_interval)
 
     async def _writer_task(self) -> None:
+        """Sleep in short slices so a switch into event mode shortens the current wait."""
         assert self.writer is not None
+        waited = 0.0
         while not self.stop.is_set():
             interval = self.event_mode.interval(
                 self.settings.write_interval, self.settings.event_mode_interval, utcnow()
             )
-            await self._sleep(interval)
-            if self.stop.is_set():
-                break
-            await self._writer_pass()
+            if waited >= interval:
+                waited = 0.0
+                await self._writer_pass()
+                continue
+            step = min(self.writer_slice_s, interval - waited)
+            await self._sleep(step)
+            waited += step
 
     async def _writer_pass(self) -> None:
         assert self.writer is not None

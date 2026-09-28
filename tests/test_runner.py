@@ -141,3 +141,36 @@ def test_cli_global_options_before_or_after_subcommand():
     assert c.duration == dt.timedelta(minutes=10) and c.backend == "mock" and c.market_jump == 8.0
     d = p.parse_args(["replay", "day.ndjson", "--window", "1w"])
     assert d.window == dt.timedelta(weeks=1)
+
+
+def test_writer_wait_shortens_when_event_mode_starts(store, tmp_path):
+    """A market alert 6s into a 300s wait must bring the next pass forward to the 60s cadence."""
+    settings = Settings(output_dir=tmp_path, writer_backend="mock", write_interval=300, event_mode_interval=1)
+    passes = []
+
+    class Spy(MockBackend):
+        def complete(self, system, user):
+            passes.append(dt.datetime.now(dt.UTC))
+            return super().complete(system, user)
+
+    runner = Runner(
+        settings,
+        store,
+        Accounts(active=[Account(handle="x", did=DID, tier=1)]),
+        backend=Spy(),
+        duration=dt.timedelta(seconds=4),
+        ingest=False,
+        market=False,
+    )
+    runner.writer_slice_s = 0.2
+    store.insert_event(make_event("Bank Rate held", rkey="k", ts=dt.datetime.now(dt.UTC)))
+
+    async def go():
+        task = asyncio.create_task(runner.run())
+        await asyncio.sleep(0.5)
+        runner.event_mode.trigger("test", dt.datetime.now(dt.UTC))
+        return await task
+
+    summary = asyncio.run(go())
+    assert summary.writer_passes >= 1 and len(passes) >= 1
+    assert passes[0] - summary.started_at < dt.timedelta(seconds=3)

@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PWLB Squawk</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='3' fill='%230b5fff'/%3E%3Cpath d='M3 10l3-4 3 3 4-5' stroke='white' stroke-width='2' fill='none'/%3E%3C/svg%3E">
+<meta name="description" content="Demo ticker for the pwlbsquawk feed: reads data/squawks.json and shows the latest squawks on UK rates and PWLB borrowing.">
+<style>
+  :root {
+    --bg: #f6f7f9; --panel: #ffffff; --text: #16202a; --muted: #5d6b7a; --line: #e3e7ec;
+    --accent: #0b5fff; --tape-bg: #16202a; --tape-text: #f6f7f9;
+    --boe: #7c3aed; --data: #0284c7; --fiscal: #b45309; --supply: #047857;
+    --geopolitics: #be123c; --energy: #c2410c; --global_rates: #4338ca;
+    --imp3: #d92d20; --imp2: #f79009; --imp1: #98a2b3;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0f151c; --panel: #171f28; --text: #e8edf2; --muted: #9aa8b6; --line: #273240;
+      --accent: #6ea0ff; --tape-bg: #050810; --tape-text: #e8edf2;
+      --boe: #b794f6; --data: #5cc0f2; --fiscal: #f2b264; --supply: #4ade80;
+      --geopolitics: #fb7185; --energy: #fb923c; --global_rates: #a5b4fc;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0f151c; --panel: #171f28; --text: #e8edf2; --muted: #9aa8b6; --line: #273240;
+    --accent: #6ea0ff; --tape-bg: #050810; --tape-text: #e8edf2;
+    --boe: #b794f6; --data: #5cc0f2; --fiscal: #f2b264; --supply: #4ade80;
+    --geopolitics: #fb7185; --energy: #fb923c; --global_rates: #a5b4fc;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body { background: var(--bg); color: var(--text); font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  header { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 12px 16px; border-bottom: 1px solid var(--line); background: var(--panel); position: sticky; top: 0; z-index: 2; }
+  header h1 { font-size: 16px; margin: 0; letter-spacing: .02em; }
+  header .meta { color: var(--muted); font-size: 12px; }
+  header button { background: transparent; color: var(--text); border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px; cursor: pointer; font-size: 13px; }
+  .tape { background: var(--tape-bg); color: var(--tape-text); overflow: hidden; white-space: nowrap; border-bottom: 1px solid var(--line); }
+  .tape-inner { display: inline-block; padding: 8px 0; animation: scroll 60s linear infinite; }
+  .tape:hover .tape-inner { animation-play-state: paused; }
+  .tape span.item { margin-right: 48px; font-size: 14px; }
+  .tape span.item b { color: var(--imp2); margin-right: 6px; }
+  @keyframes scroll { from { transform: translateX(100vw); } to { transform: translateX(-100%); } }
+  @media (prefers-reduced-motion: reduce) { .tape-inner { animation: none; padding-left: 16px; white-space: normal; } }
+  main { max-width: 860px; margin: 0 auto; padding: 16px; }
+  .filters { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+  .filters button { border: 1px solid var(--line); background: var(--panel); color: var(--text); border-radius: 999px; padding: 4px 10px; font-size: 12px; cursor: pointer; }
+  .filters button[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
+  article { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; margin-bottom: 10px; }
+  article .top { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; font-size: 12px; color: var(--muted); margin-bottom: 6px; }
+  .cat { padding: 1px 8px; border-radius: 999px; font-weight: 600; letter-spacing: .03em; text-transform: uppercase; font-size: 11px; color: #fff; }
+  .cat.boe { background: var(--boe); } .cat.data { background: var(--data); } .cat.fiscal { background: var(--fiscal); }
+  .cat.supply { background: var(--supply); } .cat.geopolitics { background: var(--geopolitics); } .cat.energy { background: var(--energy); } .cat.global_rates { background: var(--global_rates); }
+  .imp { display: inline-block; width: 8px; height: 8px; border-radius: 50%; }
+  .imp.i3 { background: var(--imp3); box-shadow: 0 0 0 3px color-mix(in srgb, var(--imp3) 25%, transparent); } .imp.i2 { background: var(--imp2); } .imp.i1 { background: var(--imp1); }
+  h2 { font-size: 16px; margin: 0 0 6px; line-height: 1.35; }
+  p { margin: 0; color: var(--text); }
+  .sources { margin-top: 8px; font-size: 12px; color: var(--muted); }
+  .sources a { color: var(--accent); text-decoration: none; }
+  .empty, .error { text-align: center; color: var(--muted); padding: 40px 0; }
+  .error { color: var(--imp3); }
+  footer { text-align: center; color: var(--muted); font-size: 12px; padding: 20px; }
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>PWLB Squawk <span class="meta">demo ticker</span></h1>
+    <div class="meta" id="status">loading…</div>
+  </div>
+  <button id="theme" type="button" aria-label="Toggle light/dark">☾ / ☀</button>
+</header>
+<div class="tape" aria-label="Latest squawks"><div class="tape-inner" id="tape"></div></div>
+<main>
+  <div class="filters" id="filters" role="group" aria-label="Filter by category"></div>
+  <div id="list"></div>
+</main>
+<footer>Reads <code id="src"></code> · refreshes every 60s · categories: BoE, data, fiscal, supply, geopolitics, energy, global rates · importance: <span class="imp i3"></span> 3 <span class="imp i2"></span> 2 <span class="imp i1"></span> 1</footer>
+<script>
+(function () {
+  const params = new URLSearchParams(location.search);
+  const SRC = params.get('src') || '../data/squawks.json';
+  const REFRESH_MS = 60000;
+  const CATS = ['boe', 'data', 'fiscal', 'supply', 'geopolitics', 'energy', 'global_rates'];
+  const LABELS = { boe: 'BoE', data: 'Data', fiscal: 'Fiscal', supply: 'Supply', geopolitics: 'Geopolitics', energy: 'Energy', global_rates: 'Global rates' };
+  let active = new Set(CATS);
+  let squawks = [];
+  document.getElementById('src').textContent = SRC;
+
+  // theme toggle (system default; remembered per browser)
+  const root = document.documentElement;
+  try { const t = localStorage.getItem('squawk-theme'); if (t) root.dataset.theme = t; } catch (e) {}
+  document.getElementById('theme').addEventListener('click', () => {
+    const dark = root.dataset.theme ? root.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+    root.dataset.theme = dark ? 'light' : 'dark';
+    try { localStorage.setItem('squawk-theme', root.dataset.theme); } catch (e) {}
+  });
+
+  const filters = document.getElementById('filters');
+  CATS.forEach(c => {
+    const b = document.createElement('button');
+    b.type = 'button'; b.textContent = LABELS[c]; b.dataset.cat = c; b.setAttribute('aria-pressed', 'true');
+    b.addEventListener('click', () => {
+      if (active.size === CATS.length) { active = new Set([c]); }
+      else if (active.has(c)) { active.delete(c); if (!active.size) active = new Set(CATS); }
+      else { active.add(c); }
+      filters.querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', String(active.has(x.dataset.cat))));
+      render();
+    });
+    filters.appendChild(b);
+  });
+
+  function ago(iso) {
+    const s = Math.max(0, (Date.now() - new Date(iso).getTime()) / 1000);
+    if (s < 60) return 'just now';
+    if (s < 3600) return Math.floor(s / 60) + ' min ago';
+    if (s < 86400) return Math.floor(s / 3600) + ' h ago';
+    return new Date(iso).toLocaleDateString('en-GB', { day: 'numeric', month: 'short' });
+  }
+  function esc(t) { return String(t).replace(/[&<>"']/g, m => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[m])); }
+
+  function render() {
+    const list = document.getElementById('list');
+    const shown = squawks.filter(s => active.has(s.category));
+    if (!shown.length) { list.innerHTML = '<div class="empty">No squawks yet. Run <code>squawk run</code> or <code>squawk write</code>.</div>'; }
+    else {
+      list.innerHTML = shown.map(s => {
+        const srcs = (s.sources || []).map(x => x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">@${esc(x.author)}</a>` : `@${esc(x.author)}`).join(' · ');
+        return `<article>
+          <div class="top"><span class="imp i${s.importance}" title="importance ${s.importance}"></span>
+            <span class="cat ${esc(s.category)}">${LABELS[s.category] || esc(s.category)}</span>
+            <time datetime="${esc(s.ts)}" title="${esc(s.ts)}">${ago(s.ts)}</time></div>
+          <h2>${esc(s.headline)}</h2>
+          <p>${esc(s.la_angle)}</p>
+          ${srcs ? `<div class="sources">via ${srcs}</div>` : ''}
+        </article>`;
+      }).join('');
+    }
+    const tape = document.getElementById('tape');
+    const top = squawks.slice(0, 12);
+    tape.innerHTML = top.length ? top.map(s => `<span class="item"><b>${s.importance === 3 ? '●' : s.importance === 2 ? '◐' : '○'}</b>${esc(s.headline)}</span>`).join('') : '<span class="item">Waiting for squawks…</span>';
+  }
+
+  async function load() {
+    const status = document.getElementById('status');
+    try {
+      const r = await fetch(SRC + (SRC.includes('?') ? '&' : '?') + 't=' + Date.now(), { cache: 'no-store' });
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      const doc = await r.json();
+      squawks = Array.isArray(doc) ? doc : (doc.squawks || []);
+      status.textContent = `${squawks.length} squawks · updated ${doc.generated_at ? ago(doc.generated_at) : 'n/a'} · next refresh in 60s`;
+      render();
+    } catch (e) {
+      status.textContent = 'could not load ' + SRC;
+      document.getElementById('list').innerHTML = `<div class="error">Could not load <code>${esc(SRC)}</code> (${esc(e.message)}). Serve the repo over HTTP: <code>squawk serve</code>, then open <code>http://127.0.0.1:8765/web/ticker.html</code>.</div>`;
+    }
+  }
+  load();
+  setInterval(load, REFRESH_MS);
+})();
+</script>
+</body>
+</html>
