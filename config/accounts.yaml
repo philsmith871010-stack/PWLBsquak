@@ -1,0 +1,67 @@
+# Curated Bluesky accounts for the squawk feed, grouped by tier.
+#
+# tier 1: UK economics / gilt / BoE specialists (keyword triggers for event mode apply here)
+# tier 2: broader macro and markets commentators
+# tier 3: wires and aggregators (high volume; the writer filters hard)
+#
+# Verified with `squawk resolve` on 2026-09-28 (all handles resolved; last post within 14 days
+# unless listed under `disabled`). Re-run `uv run scripts/resolve_dids.py --write` to refresh DIDs.
+tiers:
+  1:
+    label: UK economics, gilts and the Bank of England
+    accounts:
+      - handle: bruceandy.bsky.social
+        did: did:plc:zpgmsa7eo63jbc57nd5gbr2c
+        name: Andy Bruce (Reuters)
+        note: Reuters senior correspondent, UK economy
+      - handle: tobyn.bsky.social
+        did: did:plc:n7qmptitg3fcep3mo7uecwb7
+        name: Toby Nangle
+        note: FT Alphaville; ex fund manager, gilts and pensions
+      - handle: iankmsmith.ft.com
+        did: did:plc:xbzge44ocelaiqhwia6sns3l
+        name: Ian Smith
+        note: FT senior markets correspondent (gilts)
+      - handle: domw.bsky.social
+        did: did:plc:ysurxzi2odawdywedcdwyz5z
+        name: Dom White
+        note: Chief economist, Absolute Strategy Research
+      - handle: matthewholehouse.bsky.social
+        did: did:plc:phrwhxykvoi3zwiasdcaijyi
+        name: Matthew Holehouse
+        note: The Economist, UK public policy
+  2:
+    label: Macro and markets commentators
+    accounts:
+      - handle: robin-j-brooks.bsky.social
+        did: did:plc:ud2qlpa2iyw2yamklvfl246q
+        name: Robin Brooks
+        note: Brookings; global rates and FX
+      - handle: hermgamma.bsky.social
+        did: did:plc:fw7eon3etdgx7fcjx437it44
+        name: Holger Binding
+        note: Former fixed income options trader; posts are mostly reposts
+  3:
+    label: Wires and aggregators (high volume)
+    accounts:
+      - handle: reuters.com
+        did: did:plc:jbvnehrrdqoulco4rf5gxg5r
+        name: Reuters
+      - handle: financialtimes.com
+        did: did:plc:5u54z2qgkq43dh2nzwzdbbhb
+        name: Financial Times
+      - handle: cityam.com.web.brid.gy
+        did: did:plc:nnaxwirbqywidimahadp42bj
+        name: City A.M. (Bridgy Fed mirror)
+        note: posts are link cards with empty text; the title/description is used
+      - handle: semafor.com
+        did: did:plc:2jwxoziacifmtqa5felhqms6
+        name: Semafor
+      - handle: fintwitter.bsky.social
+        did: did:plc:43fdk46qa5gsokzygzildsaq
+        name: FinTwitter
+        note: headline aggregator, ~500k posts; expect a lot of US noise
+disabled:
+  - handle: bankofengland.bsky.social
+    did: did:plc:5ucsszonytyeh55sfrycr72h
+    reason: "inactive: account exists but has never posted (checked 2026-09-28)"

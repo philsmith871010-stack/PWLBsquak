@@ -94,6 +94,7 @@ class SquawkWriter:
         system_prompt: str | None = None,
         write_files: bool = True,
         stale_after: dt.timedelta = dt.timedelta(hours=12),
+        persist: bool = True,
     ):
         self.settings = settings
         self.store = store
@@ -102,6 +103,7 @@ class SquawkWriter:
         self.system_prompt = system_prompt or load_system_prompt(settings.prompt_file)
         self.write_files = write_files
         self.stale_after = stale_after
+        self.persist = persist  # False = dry run: call the model, keep nothing
 
     # -- selection -------------------------------------------------------------
 
@@ -118,7 +120,8 @@ class SquawkWriter:
                 fresh.append(e)
         if stale:
             log.info("skipping %d stale events older than %s", len(stale), self.stale_after)
-            self.store.mark_processed(stale, now)
+            if self.persist:
+                self.store.mark_processed(stale, now)
         return fresh
 
     # -- validation ------------------------------------------------------------

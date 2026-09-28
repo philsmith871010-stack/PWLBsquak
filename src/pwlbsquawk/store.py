@@ -6,6 +6,7 @@ import datetime as dt
 import json
 import os
 import sqlite3
+import threading
 from collections.abc import Iterable
 from dataclasses import dataclass
 from pathlib import Path
@@ -138,15 +139,25 @@ class Store:
         self.path = str(path)
         if self.path != ":memory:":
             Path(self.path).parent.mkdir(parents=True, exist_ok=True)
+        self.lock = threading.RLock()  # the runner calls the writer from a worker thread
         self.conn = sqlite3.connect(self.path, isolation_level=None, check_same_thread=False)
         self.conn.row_factory = sqlite3.Row
         if self.path != ":memory:":
-            self.conn.execute("PRAGMA journal_mode=WAL")
-        self.conn.execute("PRAGMA foreign_keys=ON")
+            self._execute("PRAGMA journal_mode=WAL")
+        self._execute("PRAGMA foreign_keys=ON")
         self.conn.executescript(SCHEMA)
 
     def close(self) -> None:
-        self.conn.close()
+        with self.lock:
+            self.conn.close()
+
+    def _execute(self, sql: str, params: tuple | list = ()) -> sqlite3.Cursor:
+        with self.lock:
+            return self.conn.execute(sql, params)
+
+    def _executemany(self, sql: str, rows: list[tuple]) -> None:
+        with self.lock:
+            self.conn.executemany(sql, rows)
 
     def __enter__(self) -> Store:
         return self
@@ -165,7 +176,13 @@ class Store:
     ) -> InsertResult:
         """Store an event. Exact URI duplicates are ignored; near-duplicates are
         stored with `dedupe_of` pointing at the canonical event."""
-        existing = self.conn.execute("SELECT id FROM events WHERE uri = ?", (event.uri,)).fetchone()
+        with self.lock:
+            return self._insert_event(event, dedupe_window_hours, dedupe_threshold)
+
+    def _insert_event(
+        self, event: Event, dedupe_window_hours: float, dedupe_threshold: float
+    ) -> InsertResult:
+        existing = self._execute("SELECT id FROM events WHERE uri = ?", (event.uri,)).fetchone()
         if existing:
             return InsertResult("duplicate_uri", existing["id"])
         norm = dedupe.normalise(event.text)
@@ -174,7 +191,7 @@ class Store:
         if event.source != "market" and norm:
             since = to_iso(event.ts - dt.timedelta(hours=dedupe_window_hours))
             until = to_iso(event.ts + dt.timedelta(hours=dedupe_window_hours))
-            rows = self.conn.execute(
+            rows = self._execute(
                 "SELECT id, norm_text FROM events WHERE source != 'market' AND dedupe_of IS NULL "
                 "AND ts BETWEEN ? AND ? ORDER BY ts DESC LIMIT 2000",
                 (since, until),
@@ -182,7 +199,7 @@ class Store:
             dup = dedupe.find_duplicate(
                 norm, ((r["id"], r["norm_text"]) for r in rows), threshold=dedupe_threshold
             )
-        self.conn.execute(
+        self._execute(
             "INSERT INTO events (id, source, author, author_did, ts, text, uri, raw_json, is_reply, "
             "tier, norm_text, fingerprint, dedupe_of, dedupe_score, ingested_at) "
             "VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
@@ -214,19 +231,19 @@ class Store:
         if not include_replies:
             sql += " AND is_reply = 0"
         sql += " ORDER BY ts ASC LIMIT ?"
-        return [_row_to_event(r) for r in self.conn.execute(sql, (limit,)).fetchall()]
+        return [_row_to_event(r) for r in self._execute(sql, (limit,)).fetchall()]
 
     def count_unprocessed(self, *, include_replies: bool = False) -> int:
         sql = "SELECT COUNT(*) FROM events WHERE processed_at IS NULL AND dedupe_of IS NULL"
         if not include_replies:
             sql += " AND is_reply = 0"
-        return int(self.conn.execute(sql).fetchone()[0])
+        return int(self._execute(sql).fetchone()[0])
 
     def mark_processed(self, ids: Iterable[str], when: dt.datetime | None = None) -> None:
         stamp = to_iso(when or utcnow())
-        self.conn.executemany("UPDATE events SET processed_at = ? WHERE id = ?", [(stamp, i) for i in ids])
+        self._executemany("UPDATE events SET processed_at = ? WHERE id = ?", [(stamp, i) for i in ids])
         # duplicates of processed events are processed too
-        self.conn.execute(
+        self._execute(
             "UPDATE events SET processed_at = ? WHERE processed_at IS NULL AND dedupe_of IN "
             "(SELECT id FROM events WHERE processed_at IS NOT NULL)",
             (stamp,),
@@ -237,23 +254,23 @@ class Store:
         if not ids:
             return {}
         marks = ",".join("?" * len(ids))
-        rows = self.conn.execute(f"SELECT * FROM events WHERE id IN ({marks})", ids).fetchall()
+        rows = self._execute(f"SELECT * FROM events WHERE id IN ({marks})", ids).fetchall()
         return {r["id"]: _row_to_event(r) for r in rows}
 
     def all_events(self, *, since: dt.datetime | None = None) -> list[Event]:
         if since:
-            rows = self.conn.execute(
+            rows = self._execute(
                 "SELECT * FROM events WHERE ts >= ? ORDER BY ts ASC", (to_iso(since),)
             ).fetchall()
         else:
-            rows = self.conn.execute("SELECT * FROM events ORDER BY ts ASC").fetchall()
+            rows = self._execute("SELECT * FROM events ORDER BY ts ASC").fetchall()
         return [_row_to_event(r) for r in rows]
 
     def count_events(self) -> int:
-        return int(self.conn.execute("SELECT COUNT(*) FROM events").fetchone()[0])
+        return int(self._execute("SELECT COUNT(*) FROM events").fetchone()[0])
 
     def event_stats(self) -> dict[str, int]:
-        row = self.conn.execute(
+        row = self._execute(
             "SELECT COUNT(*) AS total, SUM(dedupe_of IS NOT NULL) AS dupes, "
             "SUM(processed_at IS NULL AND dedupe_of IS NULL) AS pending, "
             "SUM(source = 'market') AS market FROM events"
@@ -265,7 +282,7 @@ class Store:
     def insert_squawks(self, squawks: Iterable[Squawk]) -> int:
         n = 0
         for s in squawks:
-            self.conn.execute(
+            self._execute(
                 "INSERT OR IGNORE INTO squawks (id, ts, headline, la_angle, category, importance, "
                 "source_event_ids, sources_json, model, run_id, created_at) VALUES (?,?,?,?,?,?,?,?,?,?,?)",
                 (
@@ -287,13 +304,13 @@ class Store:
 
     def latest_squawks(self, limit: int = 200) -> list[Squawk]:
         """Newest first by publication time, then by squawk timestamp."""
-        rows = self.conn.execute(
+        rows = self._execute(
             "SELECT * FROM squawks ORDER BY created_at DESC, ts DESC LIMIT ?", (limit,)
         ).fetchall()
         return [_row_to_squawk(r) for r in rows]
 
     def recent_headlines(self, limit: int = 12) -> list[str]:
-        rows = self.conn.execute(
+        rows = self._execute(
             "SELECT headline FROM squawks ORDER BY created_at DESC LIMIT ?", (limit,)
         ).fetchall()
         return [r["headline"] for r in rows]
@@ -301,11 +318,11 @@ class Store:
     # -- cursors ------------------------------------------------------------
 
     def get_cursor(self, key: str) -> str | None:
-        row = self.conn.execute("SELECT value FROM cursors WHERE key = ?", (key,)).fetchone()
+        row = self._execute("SELECT value FROM cursors WHERE key = ?", (key,)).fetchone()
         return row["value"] if row else None
 
     def set_cursor(self, key: str, value: str) -> None:
-        self.conn.execute(
+        self._execute(
             "INSERT INTO cursors (key, value) VALUES (?, ?) "
             "ON CONFLICT(key) DO UPDATE SET value = excluded.value",
             (key, value),
@@ -314,7 +331,7 @@ class Store:
     # -- runs ---------------------------------------------------------------
 
     def insert_run(self, run: RunRecord) -> None:
-        self.conn.execute(
+        self._execute(
             "INSERT OR REPLACE INTO runs (id, started_at, finished_at, mode, backend, model, n_events, "
             "n_squawks, material, input_tokens, output_tokens, cache_read_tokens, cache_write_tokens, "
             "cost_usd, error) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
@@ -338,7 +355,7 @@ class Store:
         )
 
     def run_totals(self) -> dict[str, Any]:
-        row = self.conn.execute(
+        row = self._execute(
             "SELECT COUNT(*) AS runs, COALESCE(SUM(input_tokens),0) AS input_tokens, "
             "COALESCE(SUM(output_tokens),0) AS output_tokens, "
             "COALESCE(SUM(cache_read_tokens),0) AS cache_read_tokens, "
@@ -351,7 +368,7 @@ class Store:
     # -- market -------------------------------------------------------------
 
     def insert_market_snapshot(self, snap: MarketSnapshot) -> None:
-        self.conn.execute(
+        self._execute(
             "INSERT OR REPLACE INTO market_snapshots (ts, source, gilt_2y, gilt_5y, gilt_10y, gilt_30y, "
             "sonia, ois_json) VALUES (?,?,?,?,?,?,?,?)",
             (
@@ -368,12 +385,12 @@ class Store:
 
     def latest_market_snapshot(self, *, at_or_before: dt.datetime | None = None) -> MarketSnapshot | None:
         if at_or_before:
-            row = self.conn.execute(
+            row = self._execute(
                 "SELECT * FROM market_snapshots WHERE ts <= ? ORDER BY ts DESC LIMIT 1",
                 (to_iso(at_or_before),),
             ).fetchone()
         else:
-            row = self.conn.execute("SELECT * FROM market_snapshots ORDER BY ts DESC LIMIT 1").fetchone()
+            row = self._execute("SELECT * FROM market_snapshots ORDER BY ts DESC LIMIT 1").fetchone()
         if not row:
             return None
         return MarketSnapshot(

@@ -8,13 +8,14 @@ from __future__ import annotations
 
 import datetime as dt
 import logging
+from collections.abc import Callable
 from dataclasses import dataclass, field
 from typing import Any
 
 import httpx
 
 from ..config import Account, Accounts
-from ..models import parse_ts, utcnow
+from ..models import Event, parse_ts, utcnow
 from ..store import Store
 from .bluesky import USER_AGENT, feed_item_to_event
 
@@ -58,6 +59,7 @@ class BlueskyPoller:
         dedupe_window_hours: float = 6.0,
         dedupe_threshold: float = 0.6,
         client: httpx.Client | None = None,
+        on_new: Callable[[Event], None] | None = None,
     ):
         self.api_base = api_base.rstrip("/")
         self.accounts = accounts
@@ -68,6 +70,7 @@ class BlueskyPoller:
         self.dedupe_window_hours = dedupe_window_hours
         self.dedupe_threshold = dedupe_threshold
         self.client = client or httpx.Client(timeout=30, headers={"User-Agent": USER_AGENT})
+        self.on_new = on_new
 
     def _fetch_page(self, did: str, cursor: str | None) -> dict[str, Any]:
         params: dict[str, Any] = {"actor": did, "limit": self.page_size}
@@ -120,6 +123,8 @@ class BlueskyPoller:
                 )
                 if result.status == "inserted":
                     stats.inserted += 1
+                    if self.on_new:
+                        self.on_new(event)
                 elif result.status == "near_duplicate":
                     stats.near_duplicates += 1
                 else:
