@@ -20,7 +20,10 @@ Account verification and proposed additions: [`docs/ACCOUNTS.md`](docs/ACCOUNTS.
 
 1. Install [uv](https://docs.astral.sh/uv/) and clone this repo.
 2. `uv sync` (creates `.venv` with Python 3.12 and the `squawk` command).
-3. `cp .env.example .env` and set `ANTHROPIC_API_KEY`. Everything else has a default.
+3. `cp .env.example .env`. Then either set `ANTHROPIC_API_KEY` (Claude API, pay per token) or,
+   if you already use Claude Code on this machine, set `SQUAWK_WRITER_BACKEND=claude-cli` and
+   `SQUAWK_CLAUDE_CLI=/opt/homebrew/bin/claude` to write squawks on your subscription with
+   no key. Everything else has a default.
 4. `uv run scripts/resolve_dids.py` to confirm the accounts in `config/accounts.yaml`
    still resolve and are active (`--write` refreshes DIDs).
 5. `uv run pytest` (68 tests, no network, no key).
@@ -93,6 +96,9 @@ and journalists, so expect perhaps 100-200 more events a day.
   default), a strict JSON schema via `output_config.format`, a cached system prompt, and
   server-side refusal fallbacks enabled (`SQUAWK_FALLBACKS=off` disables them). A refusal
   is treated as "not material" and logged.
+- The `claude-cli` backend runs `claude -p` with the same system prompt and JSON schema,
+  tools disabled and one turn; token counts come from the CLI's JSON result. It is slower
+  per call than the API (a process start each time) but needs no key.
 - The mock writer (`--backend mock`) is keyword-based and only proves the plumbing; its
   headlines are obviously placeholders.
 - Replies are stored but not sent to the writer (`SQUAWK_INCLUDE_REPLIES=true` changes that).

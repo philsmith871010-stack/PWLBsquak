@@ -321,3 +321,55 @@ def test_make_backend_requires_key_for_anthropic(tmp_path):
     with pytest.raises(WriterError):
         make_backend(Settings(writer_backend="anthropic", anthropic_api_key=None))
     assert isinstance(make_backend(Settings(writer_backend="mock")), MockBackend)
+
+
+def test_claude_cli_backend_parses_json_output(tmp_path):
+    from pwlbsquawk.writer.backends import ClaudeCliBackend
+
+    fake = tmp_path / "claude"
+    fake.write_text(
+        "#!/bin/sh\n"
+        "# echo the args and stdin to a file, then print a Claude Code json result\n"
+        'printf "%s\\n" "$@" > "$0.args"\n'
+        'cat > "$0.stdin"\n'
+        "cat <<EOT\n"
+        '{"type":"result","is_error":false,"result":"{\\"material\\": false, \\"squawks\\": []}",'
+        '"session_id":"sess1","total_cost_usd":0.01,'
+        '"usage":{"input_tokens":1200,"output_tokens":20,"cache_read_input_tokens":900,"cache_creation_input_tokens":0}}\n'
+        "EOT\n"
+    )
+    fake.chmod(0o755)
+    backend = ClaudeCliBackend(model="claude-opus-5-5", command=str(fake))
+    res = backend.complete("SYSTEM PROMPT", "USER MESSAGE")
+    assert json.loads(res.text) == {"material": False, "squawks": []}
+    assert res.usage == Usage(1200, 20, 900, 0) and res.request_id == "sess1"
+    args = (tmp_path / "claude.args").read_text().splitlines()
+    assert args[:4] == ["-p", "--output-format", "json", "--model"]
+    assert "--json-schema" in args and "--system-prompt" in args and args[args.index("--tools") + 1] == ""
+    assert (tmp_path / "claude.stdin").read_text() == "USER MESSAGE"
+
+
+def test_claude_cli_backend_prefers_structured_output_and_reports_errors(tmp_path):
+    from pwlbsquawk.writer.backends import ClaudeCliBackend
+
+    fake = tmp_path / "claude"
+    fake.write_text(
+        '#!/bin/sh\ncat >/dev/null\necho \'{"is_error":false,"result":"ignored","structured_output":{"material":true,"squawks":[]},"usage":{}}\'\n'
+    )
+    fake.chmod(0o755)
+    res = ClaudeCliBackend(model="m", command=str(fake)).complete("s", "u")
+    assert json.loads(res.text) == {"material": True, "squawks": []}
+    bad = tmp_path / "bad"
+    bad.write_text("#!/bin/sh\ncat >/dev/null\necho boom >&2\nexit 1\n")
+    bad.chmod(0o755)
+    with pytest.raises(WriterError):
+        ClaudeCliBackend(model="m", command=str(bad)).complete("s", "u")
+    with pytest.raises(WriterError):
+        ClaudeCliBackend(model="m", command=str(tmp_path / "missing")).complete("s", "u")
+
+
+def test_make_backend_claude_cli():
+    from pwlbsquawk.writer.backends import ClaudeCliBackend
+
+    b = make_backend(Settings(writer_backend="claude-cli", claude_cli="/opt/homebrew/bin/claude"))
+    assert isinstance(b, ClaudeCliBackend) and b.command == "/opt/homebrew/bin/claude"

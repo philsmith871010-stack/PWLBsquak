@@ -26,7 +26,8 @@ class Settings(BaseModel):
     anthropic_api_key: str | None = None  # from ANTHROPIC_API_KEY (no prefix)
     model: str = "claude-opus-5-5"
     effort: str = "medium"
-    writer_backend: str = "anthropic"  # anthropic | mock
+    writer_backend: str = "anthropic"  # anthropic | claude-cli | mock
+    claude_cli: str = "claude"  # command used by the claude-cli backend
     fallbacks: str = "default"  # default | off
     max_tokens: int = 8000
     max_events_per_call: int = 60

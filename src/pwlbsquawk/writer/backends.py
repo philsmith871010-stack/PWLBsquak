@@ -118,6 +118,73 @@ class AnthropicBackend:
         return BackendResult(text, usage, response.model, stop, request_id)
 
 
+# --- claude command line (Claude Code subscription, no API key) --------------
+
+
+class ClaudeCliBackend:
+    """Runs `claude -p` (Claude Code) with a JSON schema, so a Claude subscription can
+    write squawks without an API key. Tools are disabled and one turn is allowed."""
+
+    name = "claude-cli"
+
+    def __init__(self, *, model: str, command: str = "claude", timeout: float = 300.0):
+        self.model = model
+        self.command = command
+        self.timeout = timeout
+
+    def _args(self, system: str) -> list[str]:
+        return [
+            self.command,
+            "-p",
+            "--output-format",
+            "json",
+            "--model",
+            self.model,
+            "--system-prompt",
+            system,
+            "--json-schema",
+            json.dumps(WRITER_OUTPUT_SCHEMA),
+            "--tools",
+            "",
+            "--max-turns",
+            "1",
+        ]
+
+    def complete(self, system: str, user: str) -> BackendResult:
+        import subprocess
+
+        try:
+            proc = subprocess.run(
+                self._args(system), input=user, capture_output=True, text=True, timeout=self.timeout
+            )
+        except FileNotFoundError as exc:
+            raise WriterError(
+                f"{self.command!r} not found; install Claude Code or set SQUAWK_CLAUDE_CLI"
+            ) from exc
+        except subprocess.TimeoutExpired as exc:
+            raise WriterError(f"{self.command} timed out after {self.timeout:.0f}s") from exc
+        if proc.returncode != 0:
+            raise WriterError(f"{self.command} exited {proc.returncode}: {proc.stderr.strip()[:300]}")
+        try:
+            payload = json.loads(proc.stdout)
+        except json.JSONDecodeError as exc:
+            raise WriterError(f"{self.command} returned non-JSON output: {proc.stdout[:200]!r}") from exc
+        if payload.get("is_error"):
+            raise WriterError(f"{self.command} reported an error: {str(payload.get('result'))[:300]}")
+        structured = payload.get("structured_output")
+        text = json.dumps(structured) if structured is not None else str(payload.get("result") or "")
+        if not text.strip():
+            raise WriterError(f"{self.command} returned no result")
+        u = payload.get("usage") or {}
+        usage = Usage(
+            input_tokens=int(u.get("input_tokens") or 0),
+            output_tokens=int(u.get("output_tokens") or 0),
+            cache_read_tokens=int(u.get("cache_read_input_tokens") or 0),
+            cache_write_tokens=int(u.get("cache_creation_input_tokens") or 0),
+        )
+        return BackendResult(text, usage, self.model, "end_turn", payload.get("session_id"))
+
+
 # --- mock -------------------------------------------------------------------
 
 _KEYWORDS: list[tuple[re.Pattern[str], Category, int, str]] = [
@@ -226,8 +293,10 @@ def make_backend(settings: Any, *, client: Any | None = None) -> WriterBackend:
     """Build the backend named by settings.writer_backend."""
     if settings.writer_backend == "mock":
         return MockBackend()
+    if settings.writer_backend == "claude-cli":
+        return ClaudeCliBackend(model=settings.model, command=settings.claude_cli)
     if settings.writer_backend != "anthropic":
-        raise ValueError("SQUAWK_WRITER_BACKEND must be 'anthropic' or 'mock'")
+        raise ValueError("SQUAWK_WRITER_BACKEND must be 'anthropic', 'claude-cli' or 'mock'")
     if not settings.anthropic_api_key and client is None:
         raise WriterError("ANTHROPIC_API_KEY is not set (or use SQUAWK_WRITER_BACKEND=mock)")
     return AnthropicBackend(

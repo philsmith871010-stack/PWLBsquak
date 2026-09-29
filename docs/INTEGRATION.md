@@ -126,7 +126,8 @@ Copy `.env.example` to `.env`. Everything has a default except the API key.
 | `ANTHROPIC_API_KEY` | (none) | required for the real writer |
 | `SQUAWK_MODEL` | `claude-opus-5-5` | any current Claude model id |
 | `SQUAWK_EFFORT` | `medium` | `low`/`medium`/`high`/`xhigh`/`max` |
-| `SQUAWK_WRITER_BACKEND` | `anthropic` | `mock` runs without a key (tests, demos, dry replays) |
+| `SQUAWK_WRITER_BACKEND` | `anthropic` | `claude-cli` uses the `claude` command on a Claude Code subscription (no key); `mock` runs free (tests, demos, dry replays) |
+| `SQUAWK_CLAUDE_CLI` | `claude` | command for the `claude-cli` backend, e.g. `/opt/homebrew/bin/claude` |
 | `SQUAWK_FALLBACKS` | `default` | server-side refusal fallbacks; `off` to disable |
 | `SQUAWK_MAX_TOKENS` | `8000` | output cap per call |
 | `SQUAWK_MAX_EVENTS_PER_CALL` | `60` | batch size; older events wait for the next pass |
