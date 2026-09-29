@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T20:12:41Z",
+ "generated_at": "2026-09-29T20:15:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5ffb7fcdf292",
+   "ts": "2026-09-29T20:15:42Z",
+   "headline": "US bank regulators find no deficiencies in resolution plans of 15 banks with more than $250bn in assets",
+   "detail": "US bank regulators reported on 29 September that their review found no deficiencies in the 'living wills' filed by 15 banks, each with assets above $250bn.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1361e0b2ce71010c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwonghpmlq2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwonghpmlq2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c10deba13f1e",
+   "created_at": "2026-09-29T20:15:54Z"
+  },
   {
    "id": "f2756a09d000",
    "ts": "2026-09-29T20:07:36Z",
@@ -6287,33 +6308,6 @@
    "model": "opus",
    "run_id": "0ece26f9e0a6",
    "created_at": "2026-09-29T10:26:28Z"
-  },
-  {
-   "id": "e461748c16f5",
-   "ts": "2026-09-28T12:48:41Z",
-   "headline": "Chancellor Healey tells Labour conference there is no spare money for extra public service spending",
-   "detail": "In his Labour conference speech on 28 September, the Chancellor said the public finances have less room than in the Blair years because growth is lower and debt is higher. The FT reported that the speech was preparing the party for possible tax rises in the Budget.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "b44980a0d0441953",
-    "970c76b1cc82bbd1"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mwljwiv2knh2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mwljwiv2knh2"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwlf26zoqk2o",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwlf26zoqk2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "91b1e5d57cc8",
-   "created_at": "2026-09-29T10:26:08Z"
   }
  ]
 }
