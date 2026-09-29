@@ -139,9 +139,11 @@ to a second, public repo:
 
 1. Create an empty public repo, e.g. `pwlb-squawk-feed`, and turn on Pages for it
    (Settings → Pages → Deploy from a branch → `main`, `/ (root)`).
-2. Create a fine-grained personal access token (GitHub → Settings → Developer settings →
-   Personal access tokens → Fine-grained) scoped to that one repo with **Contents:
-   read and write**. Add it to the private repo as the secret `PAGES_REPO_TOKEN`.
+2. Give the workflow write access to that repo, either with a deploy key (no browser
+   needed; `ssh-keygen -t ed25519 -N "" -f pages_key`, add `pages_key.pub` as a
+   write-enabled deploy key on the public repo, add `pages_key` as the secret
+   `PAGES_DEPLOY_KEY` on the private repo) or with a fine-grained personal access token
+   scoped to that one repo with **Contents: read and write**, stored as `PAGES_REPO_TOKEN`.
 3. In the private repo, Settings → Secrets and variables → Actions → **Variables**: add
    `PAGES_REPO` = `owner/pwlb-squawk-feed`.
 
