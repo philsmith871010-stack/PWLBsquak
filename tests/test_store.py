@@ -79,3 +79,30 @@ def test_market_snapshots(store):
     assert latest and latest.gilt_10y == 4.56 and latest.ois == {"3m": 3.90, "1y": 3.70}
     earlier = store.latest_market_snapshot(at_or_before=t0 + dt.timedelta(minutes=2))
     assert earlier and earlier.gilt_10y == 4.50
+
+
+def test_import_squawks_from_ndjson(store, tmp_path):
+    from pwlbsquawk.outputs import append_ndjson
+
+    base = dt.datetime(2026, 9, 28, 9, 0, tzinfo=dt.UTC)
+    p = tmp_path / "h.ndjson"
+    sq = [
+        Squawk(
+            id=f"s{i}",
+            ts=base,
+            headline=f"h{i}",
+            la_angle="a",
+            category="boe",
+            importance=1,
+            source_event_ids=["e"],
+            model="m",
+            run_id="r",
+            created_at=base,
+        )
+        for i in range(3)
+    ]
+    append_ndjson(p, sq)
+    assert store.count_squawks() == 0
+    assert store.import_squawks_ndjson(p) == 3
+    assert store.count_squawks() == 3
+    assert store.import_squawks_ndjson(p) == 3 and store.count_squawks() == 3  # idempotent

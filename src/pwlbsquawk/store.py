@@ -302,6 +302,15 @@ class Store:
             n += 1
         return n
 
+    def count_squawks(self) -> int:
+        return int(self._execute("SELECT COUNT(*) FROM squawks").fetchone()[0])
+
+    def import_squawks_ndjson(self, path: str | os.PathLike[str]) -> int:
+        """Load squawks from an append-only history file (used when the SQLite file was lost)."""
+        from .outputs import read_ndjson
+
+        return self.insert_squawks(read_ndjson(Path(path)))
+
     def latest_squawks(self, limit: int = 200) -> list[Squawk]:
         """Newest first by publication time, then by squawk timestamp."""
         rows = self._execute(

@@ -231,8 +231,18 @@ def cmd_poll(args: argparse.Namespace, settings: Settings) -> int:
     return 0 if not stats.errors or stats.inserted else 1
 
 
+def _restore_history(store: Store, settings: Settings) -> None:
+    """A fresh database (e.g. a CI runner whose cache expired) gets the squawk history back
+    from the committed ndjson so squawks.json keeps its 'latest 200' and repeats are avoided."""
+    if store.count_squawks() == 0 and settings.squawks_ndjson_path.exists():
+        n = store.import_squawks_ndjson(settings.squawks_ndjson_path)
+        if n:
+            log.info("restored %d squawks from %s", n, settings.squawks_ndjson_path)
+
+
 def cmd_write(args: argparse.Namespace, settings: Settings) -> int:
     store = Store(settings.db_path)
+    _restore_history(store, settings)
     backend = make_backend(settings)
     if args.market_tick:
         from .sources.market import MarketMonitor, ThresholdDetector, load_market_source
@@ -263,6 +273,7 @@ def cmd_write(args: argparse.Namespace, settings: Settings) -> int:
 
 def cmd_run(args: argparse.Namespace, settings: Settings) -> int:
     store = Store(settings.db_path)
+    _restore_history(store, settings)
     accounts = load_accounts(settings.accounts_file)
     backend = make_backend(settings)
     recorder = Recorder(args.record) if args.record else None

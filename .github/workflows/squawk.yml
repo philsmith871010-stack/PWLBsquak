@@ -1,0 +1,69 @@
+# Cloud deployment: poll Bluesky, write squawks, commit the outputs. GitHub Pages (set to
+# serve this branch's root) then publishes web/ticker.html and data/squawks.json.
+#
+# Secrets (one of):
+#   ANTHROPIC_API_KEY        - Claude API, pay per token
+#   CLAUDE_CODE_OAUTH_TOKEN  - Claude subscription via Claude Code (run `claude setup-token`
+#                              on your Mac and paste the token as this secret)
+name: squawk
+
+on:
+  schedule:
+    - cron: "*/5 6-20 * * 1-5"    # every 5 min (GitHub's floor; often delayed a few min), 06:00-20:59 UTC, Mon-Fri
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: squawk
+  cancel-in-progress: false
+
+jobs:
+  squawk:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - run: uv sync --frozen --no-dev
+
+      - name: Restore event log
+        uses: actions/cache/restore@v4
+        with:
+          path: data/squawk.sqlite
+          key: squawk-db-${{ github.run_id }}
+          restore-keys: squawk-db-
+
+      - name: Install Claude Code (subscription mode)
+        if: env.CLAUDE_CODE_OAUTH_TOKEN != ''
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Poll and write
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          SQUAWK_WRITER_BACKEND: ${{ secrets.ANTHROPIC_API_KEY != '' && 'anthropic' || 'claude-cli' }}
+          SQUAWK_DB_PATH: data/squawk.sqlite
+        run: |
+          uv run squawk poll
+          uv run squawk write --market-tick
+
+      - name: Save event log
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: data/squawk.sqlite
+          key: squawk-db-${{ github.run_id }}
+
+      - name: Commit outputs
+        run: |
+          git config user.name "squawk-bot"
+          git config user.email "squawk-bot@users.noreply.github.com"
+          git add data/squawks.json data/squawks.ndjson
+          if git diff --cached --quiet; then echo "no new squawks"; exit 0; fi
+          git commit -m "squawk: $(date -u +'%Y-%m-%d %H:%M') update"
+          git pull --rebase
+          git push

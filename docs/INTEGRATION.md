@@ -111,8 +111,32 @@ squawk poll && squawk write
 
 `poll` tracks the last seen post per account in the SQLite `cursors` table, so each run
 only ingests new posts; `write` handles whatever is unprocessed. The SQLite file
-(`SQUAWK_DB_PATH`) must persist between runs. See `.github/workflows/squawk-poll.yml`
-for a worked example that commits the outputs back to the repo.
+(`SQUAWK_DB_PATH`) should persist between runs; if it is lost, `write` rebuilds the squawk
+history from `data/squawks.ndjson` so the outputs stay consistent (only the poll cursors are
+lost, and the next poll backfills `SQUAWK_POLL_BACKFILL_HOURS`).
+
+### GitHub Actions + GitHub Pages (the hosted setup)
+
+`.github/workflows/squawk.yml` runs poll + write every 5 minutes on weekdays 06:00-20:59
+UTC, keeps the SQLite file in the Actions cache, and commits `data/squawks.json` and
+`data/squawks.ndjson` back to the branch. With GitHub Pages set to serve that branch's root,
+the ticker is at `https://<owner>.github.io/<repo>/` (the root `index.html` redirects to
+`web/ticker.html`) and the feed at `https://<owner>.github.io/<repo>/data/squawks.json`.
+
+Setup, once:
+
+1. Repository → Settings → Secrets and variables → Actions: add **either**
+   `ANTHROPIC_API_KEY` (Claude API) **or** `CLAUDE_CODE_OAUTH_TOKEN` (run `claude setup-token`
+   on a machine where Claude Code is logged in and paste the token). The workflow picks the
+   API when the key is present, otherwise the subscription via Claude Code.
+2. Settings → Pages → Source: "Deploy from a branch", branch = the one the workflow commits
+   to, folder = `/ (root)`.
+3. Actions tab → "squawk" → Run workflow, to seed the first outputs.
+
+Notes: GitHub delays scheduled runs by a few minutes under load; a 5-minute cron on a
+private repository uses about 6 hours of Actions minutes a day (the free allowance is 2,000
+minutes a month), so use `*/15` there or make the repo public. There is no event mode or
+Jetstream in this mode; that needs the `squawk run` service (a small VPS, see PORTING.md).
 
 Both modes share one database, so you can start with the scheduled job and switch to the
 service later without migrating anything.

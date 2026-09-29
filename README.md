@@ -49,8 +49,10 @@ Account verification and proposed additions: [`docs/ACCOUNTS.md`](docs/ACCOUNTS.
 | `squawk stats` | event-log counts and token/cost totals |
 
 Global options (`--db`, `--accounts`, `--output-dir`, `--env`, `-v`) go before or after the
-subcommand. Scheduled-job deployment is `squawk poll && squawk write`; see
-`.github/workflows/squawk-poll.yml` for a GitHub Actions example.
+subcommand. Scheduled-job deployment is `squawk poll && squawk write`;
+`.github/workflows/squawk.yml` runs it every 5 minutes and, with GitHub Pages serving the
+branch, publishes the ticker at `https://<owner>.github.io/<repo>/` (setup in
+`docs/INTEGRATION.md`).
 
 ## Tuning the writer without waiting for news
 
