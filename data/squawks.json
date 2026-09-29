@@ -1,8 +1,92 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T18:55:54Z",
+ "generated_at": "2026-09-29T19:13:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fbbdee854c3e",
+   "ts": "2026-09-29T19:11:04Z",
+   "headline": "Iran warns regional states of consequences over Netanyahu's visit to the UAE",
+   "detail": "Fars News reported that Iran's Foreign Ministry warned countries in the region of the consequences of Israeli Prime Minister Netanyahu's visit to the United Arab Emirates.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6e6ca69a2a8f9d54"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwojsve3y52z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwojsve3y52z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "202a2a90c07a",
+   "created_at": "2026-09-29T19:13:03Z"
+  },
+  {
+   "id": "d315fdb073b0",
+   "ts": "2026-09-29T19:10:23Z",
+   "headline": "BoE's Taylor doubts a single rate hike is practical without fuelling market bets on further increases",
+   "detail": "Reuters reported on Tuesday that Bank of England MPC member Alan Taylor said it was unclear whether the Bank could make a single rate hike to curb inflation without prompting unwarranted market speculation of further hikes. At the time of the snapshot the 2-year gilt yield was 3.92% and 1-year SONIA OIS was 3.661%.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "dfded6c6bc68cc77"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwojrnuszg2z",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwojrnuszg2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "202a2a90c07a",
+   "created_at": "2026-09-29T19:13:03Z"
+  },
+  {
+   "id": "22c1d9dc3b1f",
+   "ts": "2026-09-29T19:10:08Z",
+   "headline": "US consumer confidence falls to near 12-1/2-year low in September",
+   "detail": "Reuters reported that US consumer confidence dropped sharply in September to its lowest in nearly 12-1/2 years. Households expect business and labour market conditions to worsen over the next six months, against a backdrop of the Middle East conflict and rising interest rates.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "e125255af49ee042"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwojr7test2f",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwojr7test2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "202a2a90c07a",
+   "created_at": "2026-09-29T19:13:03Z"
+  },
+  {
+   "id": "57075946feb6",
+   "ts": "2026-09-29T19:02:00Z",
+   "headline": "Euro falls to 16-month low against the dollar at $1.13415",
+   "detail": "The euro was last down 0.26% at $1.13415, its lowest level against the US dollar in 16 months.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "86b44a24adef59c5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwojco7yie2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwojco7yie2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "202a2a90c07a",
+   "created_at": "2026-09-29T19:13:03Z"
+  },
   {
    "id": "0af79ef2df59",
    "ts": "2026-09-29T18:54:50Z",
@@ -6362,150 +6446,6 @@
    "model": "opus",
    "run_id": "9b3955f0a2c9",
    "created_at": "2026-09-29T10:25:01Z"
-  },
-  {
-   "id": "c899ca072704",
-   "ts": "2026-09-28T05:50:45Z",
-   "headline": "FT reports the Bank of England's balance sheet has grown over the past year despite quantitative tightening",
-   "detail": "The Financial Times reported on 28 September that the Bank of England's balance sheet has stopped shrinking and is larger than it was a year ago. The report gave no figures.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "058ddfbeed4ee4f8"
-   ],
-   "sources": [
-    {
-     "author": "tobyn.bsky.social",
-     "uri": "at://did:plc:n7qmptitg3fcep3mo7uecwb7/app.bsky.feed.post/3mwkmmup24c2z",
-     "url": "https://bsky.app/profile/tobyn.bsky.social/post/3mwkmmup24c2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "af75c67c4e2d",
-   "created_at": "2026-09-29T10:24:53Z"
-  },
-  {
-   "id": "71dac02a7e61",
-   "ts": "2026-09-28T04:46:52Z",
-   "headline": "Brent trades above $106 a barrel as 10-year US Treasury yields reach 5.2%, adding pressure on government bonds",
-   "detail": "The Financial Times reported early on 28 September that Brent was above $106 a barrel and 10-year Treasury yields had reached 5.2%. Wire headlines also reported higher Japanese government bond yields, citing concerns over the Iran conflict and inflation.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "3f19b9b796a38fb5",
-    "2b7a0aa1bf99b3f9",
-    "0abe437faef1fed4",
-    "c732f7c102cb1cf7",
-    "98717b0fd44197bc"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwkj2nkjxd24",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwkj2nkjxd24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwkj7ypsvx2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwkj7ypsvx2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwkjvtuyxg27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwkjvtuyxg27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwkjha476s2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwkjha476s2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwkjyrhjdx2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwkjyrhjdx2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "af75c67c4e2d",
-   "created_at": "2026-09-29T10:24:53Z"
-  },
-  {
-   "id": "cc762b7867a2",
-   "ts": "2026-09-27T23:16:05Z",
-   "headline": "Chancellor Healey to set out a £6bn Royal Navy plan in his Labour conference speech",
-   "detail": "The FT reported that the Chancellor will pledge that British firms will build three new floating docks on the Clyde as part of a £6bn Royal Navy plan. The speech is due on Tuesday.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "387562f34da93b55",
-    "e2a5fa7dbc2666f3"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwjwl5thse2o",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwjwl5thse2o"
-    },
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mwjxt43g6zu2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mwjxt43g6zu2"
-    }
-   ],
-   "model": "opus",
-   "run_id": "89063ef1c6e4",
-   "created_at": "2026-09-29T10:24:31Z"
-  },
-  {
-   "id": "9ad4fef46653",
-   "ts": "2026-09-27T23:03:17Z",
-   "headline": "UK Business Secretary calls a possible US diesel export ban a significant concern; UK gets about a sixth of its diesel from the US",
-   "detail": "US President Trump said he is seriously considering a diesel export ban, with a 90-day ban or more limited voluntary restrictions reported to be under consideration. UK Business Secretary Jonathan Reynolds said a full ban would be a significant concern for Britain but noted that UK fuel supply is diverse.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "6a0784ec813ba2c9",
-    "9389b8fde9044ca6",
-    "b0523480d9e1b131",
-    "1c1cdd7d1ce491e4",
-    "c19374c636fc99de",
-    "5a18c2d99183d863"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwjvubupfs2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwjvubupfs2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwjvugrfci2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwjvugrfci2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwjr7q7ppb26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwjr7q7ppb26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwjra2sxea27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwjra2sxea27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwjra77fsy2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwjra77fsy2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwjr7mp2dn2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwjr7mp2dn2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "89063ef1c6e4",
-   "created_at": "2026-09-29T10:24:31Z"
   }
  ]
 }
