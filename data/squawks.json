@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T18:35:51Z",
+ "generated_at": "2026-09-29T18:40:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8a0dd1d0906a",
+   "ts": "2026-09-29T18:40:12Z",
+   "headline": "BP offers six-year labour contract at its 440,000 bpd Whiting refinery as union talks go on",
+   "detail": "Reuters reports that BP on Tuesday proposed a six-year labour contract for workers at its 440,000-barrel-per-day Whiting refinery in Indiana. Negotiations with United Steelworkers Local 7-1 are continuing.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "4537666a713acff6"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwoi3p5joi2m",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwoi3p5joi2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6c8cf57dab30",
+   "created_at": "2026-09-29T18:40:54Z"
+  },
   {
    "id": "78bbb90b96ec",
    "ts": "2026-09-29T18:32:18Z",
@@ -6486,39 +6507,6 @@
      "author": "financialtimes.com",
      "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwgkdzbenx2x",
      "url": "https://bsky.app/profile/financialtimes.com/post/3mwgkdzbenx2x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "04c34d955c6c",
-   "created_at": "2026-09-29T10:24:02Z"
-  },
-  {
-   "id": "96e2444f8273",
-   "ts": "2026-09-26T17:14:23Z",
-   "headline": "US President Trump rejects Iran's proposal for a week-long ceasefire to reopen the Strait of Hormuz",
-   "detail": "The FT reported on 26 September that Tehran had offered a one-week pause in hostilities to start peace talks on the seven-month conflict. Reuters later reported that Iran still wants a diplomatic solution and that mediators had not formally passed on a US rejection.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "4bc75c2ab75fcf47",
-    "b298167ed8eff107",
-    "590b614fbc9a4ffd"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwgrvhnwkt2o",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwgrvhnwkt2o"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwhg2jsaxk2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwhg2jsaxk2e"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwgp5efp4d2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwgp5efp4d2e"
     }
    ],
    "model": "opus",
