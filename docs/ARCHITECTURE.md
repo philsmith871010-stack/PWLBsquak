@@ -72,7 +72,7 @@ pwlbsquawk/
 │   ├── squawks.ndjson            append-only history                 (generated)
 │   ├── squawk.sqlite             event log                           (generated)
 │   ├── recordings/               `squawk record` output              (generated)
-│   └── samples/                  committed capture (27-28 Sep 2026, 1,241 events) for `squawk replay`
+│   └── samples/                  committed captures (27-28 Sep seeds; 28 Sep all 44 accounts) for `squawk replay`
 ├── web/ticker.html               self-contained demo ticker
 ├── docs/
 │   ├── ARCHITECTURE.md           this file

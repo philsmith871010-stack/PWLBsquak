@@ -65,9 +65,12 @@ uv run squawk replay data/samples/2026-09-27_28-seed-accounts.ndjson --window 5m
 ```
 
 Each replay writes `squawks.json`, `squawks.ndjson` and `report.json` (per-window headlines,
-tokens, estimated cost) into `data/replay/<name>/`. The committed sample holds 1,241 real
-events from the seed accounts over 27-28 September 2026; it has no market ticks, so replay
-synthesises a mock gilt series (labelled `mock` in the prompt).
+tokens, estimated cost) into `data/replay/<name>/`. Two real captures are committed under `data/samples/`:
+`2026-09-27_28-seed-accounts.ndjson` (1,241 events, the 12 seed accounts over two days) and
+`2026-09-28-all-accounts.ndjson` (1,175 events, all 44 accounts on 28 September, a day
+with an oil-driven bond sell-off, a BoE rate-rise hint and the Chancellor's conference
+speech). Neither has market ticks, so replay synthesises a mock gilt series (labelled
+`mock` in the prompt).
 
 Weekly commentary and historical annotation work the same way: `squawk poll --since 30d`
 (or `record --poll --since 30d`), then `replay --window 1w`. Bluesky's `getAuthorFeed`
