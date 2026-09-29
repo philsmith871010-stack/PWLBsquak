@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T21:10:55Z",
+ "generated_at": "2026-09-29T21:15:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8781d1ec247d",
+   "ts": "2026-09-29T21:15:06Z",
+   "headline": "Fed's Williams says there is time to assess data before the next hike and expects one more rise before year-end",
+   "detail": "New York Fed President John Williams said on Tuesday that the Federal Reserve has time to weigh incoming economic data before deciding when to raise rates again. He added that one more increase is likely before the end of the year, Reuters reported.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "33338688c1493630"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwoqqoskey2n",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwoqqoskey2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d6325b80d02e",
+   "created_at": "2026-09-29T21:15:56Z"
+  },
   {
    "id": "e4447a4ed96e",
    "ts": "2026-09-29T21:10:09Z",
@@ -6107,75 +6128,6 @@
    "model": "opus",
    "run_id": "d892ebb8a9f3",
    "created_at": "2026-09-29T10:27:40Z"
-  },
-  {
-   "id": "b1b9c6c45713",
-   "ts": "2026-09-28T17:27:40Z",
-   "headline": "Fed's Cook sees broadening US inflation pressure from AI and the Middle East conflict, and warns rate cuts could fuel inflation",
-   "detail": "Federal Reserve Governor Lisa Cook said in a speech on 28 September that she sees signs of broadening pressure in inflation data and expects continued inflation pressure in the coming months from AI-driven demand and the Middle East conflict. She said lowering rates to offset any AI-related rise in unemployment could fuel inflation, and that future rate adjustments will depend on inflation and labour market data.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "5506f6bc3b5ef0a2",
-    "3e9d1466d02e675b",
-    "be04ec58ec7030a0",
-    "96ebe1a6ed00b27d",
-    "d5fce77f6aa3c339",
-    "bc25bb9b029c1d9b",
-    "fdcf74b1cee60991",
-    "d605f794ae3a14e7",
-    "cb9e5eee6038f68c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwltixweap2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwltixweap2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwltjsa6o42d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwltjsa6o42d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwltjvoibj2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwltjvoibj2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwltjxzsra2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwltjxzsra2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwltl2wswt2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwltl2wswt2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwltlf7qua2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwltlf7qua2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwltlnkj322m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwltlnkj322m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwltmrlfbz2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwltmrlfbz2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlu77awju2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlu77awju2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3846281281f3",
-   "created_at": "2026-09-29T10:27:32Z"
   }
  ]
 }
