@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T19:13:03Z",
+ "generated_at": "2026-09-29T19:27:12Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6125d625c310",
+   "ts": "2026-09-29T19:22:47Z",
+   "headline": "OPEC+ delegates signal the group is likely to keep its planned steady output quotas",
+   "detail": "Delegates say OPEC+ is expected to stay with its existing plan of steady production quotas. No figures were given.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "fb34b264cfdb963f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwokhu6luh26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwokhu6luh26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "08742ee6be80",
+   "created_at": "2026-09-29T19:27:12Z"
+  },
+  {
+   "id": "3df170e5a5df",
+   "ts": "2026-09-29T19:21:31Z",
+   "headline": "Somali pirates kill five crew of hijacked tanker MT Honour 25 before security forces rescue it, Puntland says",
+   "detail": "Authorities in Puntland say pirates killed five crew members on board the hijacked tanker MT Honour 25. Security forces then rescued the vessel.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "c14a0e4a1ef21d90"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwokfl2yvv2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwokfl2yvv2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "08742ee6be80",
+   "created_at": "2026-09-29T19:27:12Z"
+  },
   {
    "id": "fbbdee854c3e",
    "ts": "2026-09-29T19:11:04Z",
@@ -6404,48 +6446,6 @@
    "model": "opus",
    "run_id": "261be09fa46d",
    "created_at": "2026-09-29T10:25:12Z"
-  },
-  {
-   "id": "28ad7cd3c8c4",
-   "ts": "2026-09-28T08:43:31Z",
-   "headline": "Defence Secretary Streeting signals further defence spending announcements in the October Budget",
-   "detail": "UK Defence Secretary Wes Streeting said more on defence spending will come at the Budget. He gave no figures.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "656dae947929bcf8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwkwbsy46f2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwkwbsy46f2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "261be09fa46d",
-   "created_at": "2026-09-29T10:25:12Z"
-  },
-  {
-   "id": "41df29038ae1",
-   "ts": "2026-09-28T06:49:18Z",
-   "headline": "BoE MPC member Dhingra flags concern that elevated interest rates could weigh on investment and reduce supply capacity",
-   "detail": "Bank of England external MPC member Swati Dhingra said she is concerned that high rates could damage business investment and cut the economy's supply capacity, according to a newswire headline on 28 September. The inputs report no market reaction.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "efe6f7d59d61d932"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwkpvld7hr2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwkpvld7hr2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9b3955f0a2c9",
-   "created_at": "2026-09-29T10:25:01Z"
   }
  ]
 }
