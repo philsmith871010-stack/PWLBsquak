@@ -1,8 +1,131 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T15:25:46Z",
- "count": 142,
+ "generated_at": "2026-09-29T15:35:51Z",
+ "count": 145,
  "squawks": [
+  {
+   "id": "c82ed33db049",
+   "ts": "2026-09-29T15:32:59Z",
+   "headline": "US 52-week bill auction clears at 4.4%, up from 3.98%, with bid-to-cover falling to 3.07",
+   "detail": "The US Treasury sold $54bn of 52-week bills at a high rate of 4.4%, against 3.980% at the previous sale. Bid-to-cover was 3.07, down from 3.61, and 70.21% of bids were allotted at the high.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8656c2b7c190c025",
+    "bd9fc93387490a6f",
+    "2b2b2143d3f1733f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5mw6wlp2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5mw6wlp2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5myeiqb2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5myeiqb2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5oz2hyn2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5oz2hyn2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "10642b1bd3b5",
+   "created_at": "2026-09-29T15:35:51Z"
+  },
+  {
+   "id": "2dd8f9a0c515",
+   "ts": "2026-09-29T15:32:19Z",
+   "headline": "Russia says it struck a dry cargo ship in the north-western Black Sea",
+   "detail": "Russia's defence ministry said its forces hit a cargo vessel it said was carrying military supplies for Ukraine's armed forces in the north-western Black Sea, according to Interfax.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "071e8721d54d3ec0",
+    "57ad3118641ab13d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5lq3bu52l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5lq3bu52l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5nqjenr22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5nqjenr22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "10642b1bd3b5",
+   "created_at": "2026-09-29T15:35:51Z"
+  },
+  {
+   "id": "90c07f4950c5",
+   "ts": "2026-09-29T15:32:06Z",
+   "headline": "BoE's Taylor says the case for further rate rises is not compelling unless energy costs stay high and feed wider inflation",
+   "detail": "MPC member Alan Taylor said policy should not respond mechanically to energy price moves that stay mainly relative-price shocks, and that further tightening would need evidence that second-round effects are taking hold. He described a non-trivial risk to inflation, said the economy has so far proved less prone to a repeat of 2022, and said policy will at some point need to move the other way once energy risks fade, calling for a response that is vigilant but disciplined.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "6a503d0579fd2cc0",
+    "e9c49bb9d5c9f231",
+    "63f8181f98e9119a",
+    "9ac1a4ee5abbc769",
+    "90835affe32e81ae",
+    "c686636ea79f03ee",
+    "23a6b9cf2e266727",
+    "4d4b89ef4105d14d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5le76rb2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5le76rb2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5mj5bfj2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5mj5bfj2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5mq5mfo27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5mq5mfo27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5msf6go26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5msf6go26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5o473nb22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5o473nb22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5oumnvs2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5oumnvs2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5qcq5j226",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5qcq5j226"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5rugtn32z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5rugtn32z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "10642b1bd3b5",
+   "created_at": "2026-09-29T15:35:51Z"
+  },
   {
    "id": "16403c2596c2",
    "ts": "2026-09-29T15:21:11Z",
