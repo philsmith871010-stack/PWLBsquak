@@ -176,6 +176,7 @@ Copy `.env.example` to `.env`. Everything has a default except the API key.
 | `SQUAWK_MAX_TOKENS` | `8000` | output cap per call |
 | `SQUAWK_MAX_EVENTS_PER_CALL` | `60` | batch size; older events wait for the next pass |
 | `SQUAWK_INCLUDE_REPLIES` | `false` | replies are stored but not sent to the writer |
+| `SQUAWK_WRITER_STALE_AFTER_HOURS` | `12` | events older than this are dropped unwritten; raise it (or pass `squawk write --stale-after-hours`) to backfill history |
 | `SQUAWK_WRITE_INTERVAL` | `300` | seconds between passes |
 | `SQUAWK_EVENT_MODE_INTERVAL` | `60` | seconds between passes in event mode |
 | `SQUAWK_EVENT_MODE_DURATION` | `1800` | how long event mode lasts |

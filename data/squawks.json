@@ -1,8 +1,1790 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T09:34:37Z",
- "count": 1,
+ "generated_at": "2026-09-29T10:29:28Z",
+ "count": 50,
  "squawks": [
+  {
+   "id": "d6be9a13d9be",
+   "ts": "2026-09-29T09:25:28Z",
+   "headline": "UK sells £4.25bn of 10-year gilts at 5.383% average yield, the highest for new 10-year issuance since 1999",
+   "detail": "The DMO sold £4.25bn of 10-year gilts at auction on the morning of 29 September at an average yield of 5.383%. That is the highest cost for newly issued 10-year debt since 1999. Secondary-market yields were higher in 2007, but no 10-year gilts were issued that year.",
+   "category": "supply",
+   "importance": 3,
+   "source_event_ids": [
+    "43b626fc7e2259fa"
+   ],
+   "sources": [
+    {
+     "author": "davidmilliken.bsky.social",
+     "uri": "at://did:plc:cnkav2txgxnskbjf2f564bjl/app.bsky.feed.post/3mwnj3qxtes2n",
+     "url": "https://bsky.app/profile/davidmilliken.bsky.social/post/3mwnj3qxtes2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f1a162e91fbe",
+   "created_at": "2026-09-29T10:29:28Z"
+  },
+  {
+   "id": "024e298ad0f2",
+   "ts": "2026-09-29T08:31:12Z",
+   "headline": "UK mortgage approvals fall to 54,918, below the 56,100 forecast; consumer credit rises £2.464bn against £1.9bn expected",
+   "detail": "Bank of England money and credit data show mortgage approvals at 54,918, down from 56,053, and net mortgage lending of £4.41bn against a £4.4bn forecast, with the previous month revised to £4.082bn. Consumer credit rose £2.464bn, up from £2.006bn, and M4 money supply grew 0.4% after falling 0.3% the previous month.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "da11051286bdfb89",
+    "93955bb0ff7ba3f6",
+    "515e59cb11008f54",
+    "d135408c457e8baa"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwng2ptfll2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwng2ptfll2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwng2xoyr22l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwng2xoyr22l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwng3akuk527",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwng3akuk527"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwng3jxojf27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwng3jxojf27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4f7ba56ed3cf",
+   "created_at": "2026-09-29T10:29:12Z"
+  },
+  {
+   "id": "48964268cdda",
+   "ts": "2026-09-29T08:29:05Z",
+   "headline": "ECB's Kazimir says the rate hike could not be avoided and names January as crucial for repricing",
+   "detail": "ECB Governing Council member Kazimir said energy prices remain a key factor for policy. He also said flexibility matters and there is plenty of time.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "60c4a5f3dfcedca0",
+    "52f71a0a25388d26",
+    "c75b6fc93186df46",
+    "9a0655fe7e1a7683",
+    "9c6260aa3ed910c5",
+    "0af4846347c36f84",
+    "7b6e5842848feebf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnfwwinjo27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnfwwinjo27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnfxqakae2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnfxqakae2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnfxtkviw2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnfxtkviw2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwng2l555o26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwng2l555o26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwng2tnolk2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwng2tnolk2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwng33x3xb2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwng33x3xb2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwng3fec332m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwng3fec332m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4f7ba56ed3cf",
+   "created_at": "2026-09-29T10:29:12Z"
+  },
+  {
+   "id": "0940a775b7d6",
+   "ts": "2026-09-29T07:48:26Z",
+   "headline": "IEA chief calls Europe highly exposed on diesel and says further strategic reserve releases would be discussed with members",
+   "detail": "IEA head Birol said Europe currently gets 50% of its diesel from the United States and that the agency is in talks with countries on the situation. The EU energy commissioner said she had told her US counterpart that restricting energy flows helps no one, and Ireland's energy minister said a US diesel export ban would hit the EU significantly but looks unlikely.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "39470c5f5a384566",
+    "9514430ccc1e5a32",
+    "3fda4301260991b3",
+    "a2403bdca2dba2ce",
+    "8e2b58889e4b8098",
+    "78158c93979e5ee5",
+    "1fec76a0dd093bb7",
+    "4ae8bb007390dab3",
+    "d197c2cb1e1e447f",
+    "e00e0a2ecc88ebd2",
+    "675c787b8eeaed7c",
+    "e22fb8b4cc07043c",
+    "f1925f77d7fd398c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwndoa6yn62r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwndoa6yn62r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwndod3zjp2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwndod3zjp2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwndofxluu2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwndofxluu2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwndpwz4wk2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwndpwz4wk2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwndqsleb32c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwndqsleb32c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwndroc2bt2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwndroc2bt2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwndt7ji7r27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwndt7ji7r27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnek4dfhp2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnek4dfhp2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwneod4xvg26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwneod4xvg26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnf4h6qf22m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnf4h6qf22m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnf5bjyny2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnf5bjyny2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnf673izv22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnf673izv22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnf6dy2kz2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnf6dy2kz2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4f7ba56ed3cf",
+   "created_at": "2026-09-29T10:29:12Z"
+  },
+  {
+   "id": "07bdef09cb0e",
+   "ts": "2026-09-29T07:40:27Z",
+   "headline": "Iran's parliament speaker warns no regional oil will be sold and regional infrastructure will not be safe if Iran cannot sell its oil",
+   "detail": "According to Iranian state media, Speaker Qalibaf said that if Iran cannot sell its oil, no one in the region should, and that no regional infrastructure would be safe if Iran lacks security. Separately, a Revolutionary Guards spokesperson said the US has no choice but to declare failure and leave the region.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "21097f70649cf749",
+    "31b02c12dd999e92",
+    "11eeb7f1b82400f9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnd7xa75x27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnd7xa75x27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwncfruvss2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwncfruvss2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwncgt3sn727",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwncgt3sn727"
+    }
+   ],
+   "model": "opus",
+   "run_id": "835c60841877",
+   "created_at": "2026-09-29T10:29:00Z"
+  },
+  {
+   "id": "82118dedfb5d",
+   "ts": "2026-09-29T07:00:41Z",
+   "headline": "Spain's September flash CPI rises to 4.9% y/y, above the 4.6% forecast; HICP reaches 5.0%",
+   "detail": "Spain's flash September CPI came in at 4.9% y/y, up from 4.3% and above the 4.6% forecast, with a monthly rise of 0.3% against a 0.1% forecast. HICP was 5.0% y/y (forecast 4.9%, previous 4.6%) and core CPI was 3.1% (forecast 3.0%, previous 2.9%).",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "39ffdb7e6a1f652d",
+    "8b0042267638cd78",
+    "8ea924ec97b72a05",
+    "b54540485e613d23",
+    "fb3c344722bb2db0",
+    "88ff86e28273acf3",
+    "df82a9ff2c34b12b",
+    "dc26219c8a494eb4",
+    "a58ae2dfa1357d79",
+    "3ac8e7164f1cf424"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnayuugln22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnayuugln22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnazr4njv27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnazr4njv27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnazy7fqc2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnazy7fqc2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnb2ds3iv2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnb2ds3iv2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnb4e5yin2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnb4e5yin2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnb4tq4wg2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnb4tq4wg2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnb4xrvoo2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnb4xrvoo2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnb5yrmop26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnb5yrmop26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnb65hawk2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnb65hawk2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnb7bp45m2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnb7bp45m2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "835c60841877",
+   "created_at": "2026-09-29T10:29:00Z"
+  },
+  {
+   "id": "293987dbb8ec",
+   "ts": "2026-09-29T05:21:57Z",
+   "headline": "Brent crude gains more than 2% to $107.44 a barrel in Asian trading; December contract rises to $99.87",
+   "detail": "Brent futures rose more than 2% to $107.44 a barrel early on 29 September, and the December contract climbed to $99.87. Brent had settled at $105.28 in the previous session.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "52ae0b8a4c650d19",
+    "291639757259609a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwn3idas4c2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwn3idas4c2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwn3jwl2qu2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwn3jwl2qu2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e6ea7f456bf0",
+   "created_at": "2026-09-29T10:28:53Z"
+  },
+  {
+   "id": "d67a93c5d15c",
+   "ts": "2026-09-28T22:48:55Z",
+   "headline": "Trump denies offering Iran sanctions relief or frozen funds and calls the Axios report untrue",
+   "detail": "On Truth Social, President Trump said he had offered Iran nothing and demanded that Axios withdraw its report that he had offered sanctions relief and the release of frozen funds. His denial came as the US 10-year Treasury yield stood at levels last seen in 2007, with the sell-off attributed to faltering US-Iran diplomacy and concerns about oil prices.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "3cf33a7e7454919d",
+    "fabe69d7cae1acfb",
+    "f3dfa0e4c8642eff"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwmfjj2gok27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwmfjj2gok27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwmfjno62o2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwmfjno62o2z"
+    },
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mwmhwllpxy2n",
+     "url": "https://bsky.app/profile/semafor.com/post/3mwmhwllpxy2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0bc2818aba58",
+   "created_at": "2026-09-29T10:28:20Z"
+  },
+  {
+   "id": "46de10836226",
+   "ts": "2026-09-28T21:54:56Z",
+   "headline": "Iran's foreign minister says Qatari mediators will take Tehran's proposals to the US and hopes for a final US reply by Tuesday",
+   "detail": "Iranian state news agency IRNA reported that Foreign Minister Araqchi said the Strait of Hormuz will reopen only if the supreme leader's conditions are met. Separately, President Trump said he had not given Iran any sanctions relief.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "86a1cf3d905f9146",
+    "be132fe3b90364dc",
+    "867e50bee84366f4",
+    "73c6a9ab3f7a91e0",
+    "df7a07c3247c5f3b",
+    "7d631e23b16abb59",
+    "411e9942c9ae4c2b",
+    "d3fc140fd92a9559",
+    "0028f68d42ebfa6f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwmciyp56d2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwmciyp56d2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwmck4uj4j27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwmck4uj4j27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwmcn25b4q2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwmcn25b4q2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwmcp7jfi622",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwmcp7jfi622"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwmdv64ofs2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwmdv64ofs2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwmdvxke4h2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwmdvxke4h2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwmdwyezxs2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwmdwyezxs2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwmbeypmh62l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwmbeypmh62l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwmbhohazf27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwmbhohazf27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7d8c43f50615",
+   "created_at": "2026-09-29T10:28:09Z"
+  },
+  {
+   "id": "bb29d649932d",
+   "ts": "2026-09-28T19:29:46Z",
+   "headline": "Iranian official denies reports that Iran has softened its nuclear stance and says no nuclear talks are under way",
+   "detail": "Fars News reported an Iranian official as saying Iran's nuclear position is unchanged and that reports of flexibility are wrong. Separately, Al Jazeera reported that a new Iranian proposal puts off nuclear commitments until a first phase is implemented, and a senior Iranian security committee official said the Strait of Hormuz, not the nuclear issue, is now the focus of negotiations.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "3a565a6624c0b2fb",
+    "29cc288b9a6c4647",
+    "9c08ae25446a7513",
+    "e888fdd43f655066",
+    "18b7b1128e50705a",
+    "435a0716f35f2bd0",
+    "1b215f482a933bbd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwm2ffvae32l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwm2ffvae32l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwm2hwu7a42f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwm2hwu7a42f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwm2lvulbd2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwm2lvulbd2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwm3tzbmyf2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwm3tzbmyf2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwm3yq5spo2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwm3yq5spo2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwm4ihp4os27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwm4ihp4os27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwm4iigc3s2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwm4iigc3s2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "45ec17795bd3",
+   "created_at": "2026-09-29T10:27:53Z"
+  },
+  {
+   "id": "544a17ffb7e7",
+   "ts": "2026-09-28T19:19:01Z",
+   "headline": "Iran's parliament considers a bill to leave the Nuclear Non-Proliferation Treaty, Fars reports",
+   "detail": "Fars News cited an Iranian lawmaker as saying parliament is weighing a bill for Iran to exit the NPT. No timing for a vote was given.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "404bb1fe2a2e18f8",
+    "266c3ebce8ff88d2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlzs6fdqr2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlzs6fdqr2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlzvkhdze2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlzvkhdze2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "45ec17795bd3",
+   "created_at": "2026-09-29T10:27:53Z"
+  },
+  {
+   "id": "204e880d1b9c",
+   "ts": "2026-09-28T18:49:27Z",
+   "headline": "Brent crude settles up 96 cents at $105.28 a barrel; WTI closes at $92.60",
+   "detail": "Brent futures ended 28 September 0.92% higher at $105.28 a barrel, while NYMEX WTI November futures settled 19 cents higher at $92.60. NYMEX diesel settled at $4.7553 a gallon and natural gas at $3.00/MMBtu.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "d28bd2c66fea7d58",
+    "8e37832dcfe8f1ec",
+    "423b333703b8c8c6",
+    "43f4f86f6dd3d8d0",
+    "1dab5ca9535bdf91"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwly5d3efr2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwly5d3efr2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlx62fwum2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlx62fwum2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlxcdv4uo2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlxcdv4uo2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlx7xymxg2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlx7xymxg2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlxa4fmea2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlxa4fmea2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d892ebb8a9f3",
+   "created_at": "2026-09-29T10:27:40Z"
+  },
+  {
+   "id": "4a1cb1641912",
+   "ts": "2026-09-28T18:32:00Z",
+   "headline": "Trump again threatens to ban US diesel exports to bring down domestic prices",
+   "detail": "Semafor reported on 28 September that the US president repeated his threat to halt diesel exports from the US, the world's largest diesel producer and exporter. Separately, he said the US would win the Iran war very soon and that fuel prices would then fall sharply.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "f41f65e20e525bb5",
+    "5fd9b5d1cbe091ce",
+    "990a6c34cc3e95fe",
+    "b205ae2c74afe8ab"
+   ],
+   "sources": [
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mwlx64sf4e2g",
+     "url": "https://bsky.app/profile/semafor.com/post/3mwlx64sf4e2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwly66djdn27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwly66djdn27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwly7kcaab2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwly7kcaab2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlyarvjwu2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlyarvjwu2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d892ebb8a9f3",
+   "created_at": "2026-09-29T10:27:40Z"
+  },
+  {
+   "id": "c2cde23364ed",
+   "ts": "2026-09-28T18:22:35Z",
+   "headline": "Italian and French 10y10y forward yields rise about 10bp in a single session as the long end sells off",
+   "detail": "A market economist reported on 28 September that 10-year-10-year forward yields for both Italy and France had risen by around 10bp during the day. No gilt market reaction was given.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d5dd9f5abc58caa3"
+   ],
+   "sources": [
+    {
+     "author": "robin-j-brooks.bsky.social",
+     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3mwlwnbdktc27",
+     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3mwlwnbdktc27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d892ebb8a9f3",
+   "created_at": "2026-09-29T10:27:40Z"
+  },
+  {
+   "id": "b1b9c6c45713",
+   "ts": "2026-09-28T17:27:40Z",
+   "headline": "Fed's Cook sees broadening US inflation pressure from AI and the Middle East conflict, and warns rate cuts could fuel inflation",
+   "detail": "Federal Reserve Governor Lisa Cook said in a speech on 28 September that she sees signs of broadening pressure in inflation data and expects continued inflation pressure in the coming months from AI-driven demand and the Middle East conflict. She said lowering rates to offset any AI-related rise in unemployment could fuel inflation, and that future rate adjustments will depend on inflation and labour market data.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "5506f6bc3b5ef0a2",
+    "3e9d1466d02e675b",
+    "be04ec58ec7030a0",
+    "96ebe1a6ed00b27d",
+    "d5fce77f6aa3c339",
+    "bc25bb9b029c1d9b",
+    "fdcf74b1cee60991",
+    "d605f794ae3a14e7",
+    "cb9e5eee6038f68c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwltixweap2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwltixweap2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwltjsa6o42d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwltjsa6o42d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwltjvoibj2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwltjvoibj2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwltjxzsra2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwltjxzsra2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwltl2wswt2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwltl2wswt2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwltlf7qua2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwltlf7qua2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwltlnkj322m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwltlnkj322m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwltmrlfbz2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwltmrlfbz2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlu77awju2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlu77awju2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3846281281f3",
+   "created_at": "2026-09-29T10:27:32Z"
+  },
+  {
+   "id": "303faac52138",
+   "ts": "2026-09-28T17:14:10Z",
+   "headline": "Al Hadath reports Iran agrees to suspend uranium enrichment for US sanctions relief; US source puts deal chances as extremely slim",
+   "detail": "Al Hadath, citing sources, reported that Iran has agreed to halt uranium enrichment in exchange for easing of US sanctions. Shortly afterwards, a US source involved in the negotiations told Al Arabiya that the gaps remain wide and the chances of an agreement are extremely slim, and Iranian officials were separately reported to be pessimistic about a deal before the US midterms.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "6a3bcb4131d1d8ce",
+    "d1d02e6e186c107a",
+    "4b89ddb24c772b00",
+    "0d47a66deb818a87",
+    "aa752b697b7f831b",
+    "6aed97d65efbf812",
+    "b1d5f8ded2100f95",
+    "ab2da11ea07efb55"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlsswjc7p26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlsswjc7p26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlsufu3mr2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlsufu3mr2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlt4phmbs27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlt4phmbs27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlt6g3mkm22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlt6g3mkm22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlqttpgj227",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlqttpgj227"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlqwjno3322",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlqwjno3322"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlsj34tmp2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlsj34tmp2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlr7erky22t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlr7erky22t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2033dd987984",
+   "created_at": "2026-09-29T10:27:18Z"
+  },
+  {
+   "id": "8282bc9308b3",
+   "ts": "2026-09-28T16:40:44Z",
+   "headline": "Saudi Arabia resumes oil exports via East-West pipeline at about 3.5m bpd as US crude gives up gains near $92",
+   "detail": "Sources said Saudi Arabia has resumed oil exports through the East-West pipeline after repairs, with Aramco running it at a throughput of around 3.5 million barrels a day. US crude was reported to have reversed its earlier gains and to be trading near $92 a barrel.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "dd040a7a15b2aaed",
+    "d456ef118c74bee2",
+    "aa129fc935b5b16e",
+    "e8067cb97a5f658f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlqx65oj227",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlqx65oj227"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlqyp54ru27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlqyp54ru27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlqyy3cye27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlqyy3cye27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlqgggdjs2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlqgggdjs2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2033dd987984",
+   "created_at": "2026-09-29T10:27:18Z"
+  },
+  {
+   "id": "911be7b27930",
+   "ts": "2026-09-28T16:21:11Z",
+   "headline": "US official says Trump is prepared to ease Iran sanctions and release frozen assets in return for nuclear progress",
+   "detail": "A US official told Al Jazeera on 28 September that indirect talks with Iran through intermediaries are positive, but no deal is possible unless the nuclear issue is addressed. None of the posts reported a market reaction.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "4fef24bb659353dd",
+    "ef52b90ee6006b12",
+    "e3f06bc43c24ac81"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlpoglqtm2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlpoglqtm2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlpu76bth2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlpu76bth2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlq2nj6cs22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlq2nj6cs22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "24600f44ca25",
+   "created_at": "2026-09-29T10:27:09Z"
+  },
+  {
+   "id": "605920565d73",
+   "ts": "2026-09-28T15:09:50Z",
+   "headline": "UK 10-year gilt yield rises to 5.441%, its highest level since July 2007",
+   "detail": "A market newswire reported on 28 September that the 10-year gilt yield had climbed to 5.441%, the highest since July 2007. The move came as the global bond sell-off continued.",
+   "category": "global_rates",
+   "importance": 3,
+   "source_event_ids": [
+    "e1d1b945c5eb6249"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwllum4qkk2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwllum4qkk2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ded5c93c70ec",
+   "created_at": "2026-09-29T10:27:00Z"
+  },
+  {
+   "id": "ef2ffe9ea469",
+   "ts": "2026-09-28T14:59:10Z",
+   "headline": "US 10-year Treasury yield climbs 10bp to 5.27%; 2-year hits 4.952%, highest since May 2024",
+   "detail": "Market newswires reported on 28 September that the US 10-year Treasury yield had risen by 10bp to 5.27%. The 2-year yield reached 4.952%, its highest since May 2024.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "24acfc714e29e2c6",
+    "b12c71335b8f6cbc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwllbjryzc2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwllbjryzc2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlmhcfn5d2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlmhcfn5d2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ded5c93c70ec",
+   "created_at": "2026-09-29T10:27:00Z"
+  },
+  {
+   "id": "536df460ae6e",
+   "ts": "2026-09-28T14:32:10Z",
+   "headline": "ECB's Lagarde puts rates at the upper end of the neutral range as traders cut October hike odds below 40%",
+   "detail": "ECB President Lagarde said euro area rates are at the upper end of the neutral range but that policy is not being set by reference to the neutral rate. Market pricing reported on 28 September showed less than a 40% chance of an ECB rate rise in October.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4c61da33e8275c8d",
+    "07152c4a2fd86b8a",
+    "fb148995b9cc7e1f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwljrayjcs2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwljrayjcs2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwljsuuksv22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwljsuuksv22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlj3qjdsl2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlj3qjdsl2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c6488fa58b5e",
+   "created_at": "2026-09-29T10:26:48Z"
+  },
+  {
+   "id": "4b9875f3434a",
+   "ts": "2026-09-28T14:13:08Z",
+   "headline": "PM Burnham says the defence investment plan will be fully funded at the Budget; social care funding details due tomorrow",
+   "detail": "Prime Minister Burnham said in an LBC Radio interview on 28 September that the defence investment plan will be fully funded at the Budget. He also said details of social care funding will be published the following day.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "2143a368ad4cf51d",
+    "adc4406d8eff7c6b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlipabuz22z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlipabuz22z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlj567jtt2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlj567jtt2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c6488fa58b5e",
+   "created_at": "2026-09-29T10:26:48Z"
+  },
+  {
+   "id": "327e9eadd6a6",
+   "ts": "2026-09-28T13:50:10Z",
+   "headline": "US and Iran to hold separate talks with Qatari mediators, with no US officials at Iran's New York meeting",
+   "detail": "An official told Reuters that Qatari mediators are expected to meet Iranian Foreign Minister Araqchi in New York and the US side separately on Monday or Tuesday. Iran's ISNA reported that no US representatives will attend Araqchi's meeting.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "db4df1be8c69f973",
+    "8e1752c214150176",
+    "0aa24b6ef2f1d60c",
+    "f42e5c0046d9350b",
+    "bb61bbd7eeeb89f6",
+    "526272f6537aec8b",
+    "6b3393e117c10c30"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwlhg5qzwq2t",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwlhg5qzwq2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlhf2mtdp27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlhf2mtdp27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlhgs7dlf2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlhgs7dlf2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlhgxosn22f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlhgxosn22f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlhj4gdij2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlhj4gdij2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlhkazd4y27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlhkazd4y27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlhl4kjzy2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlhl4kjzy2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0ece26f9e0a6",
+   "created_at": "2026-09-29T10:26:28Z"
+  },
+  {
+   "id": "6a56708825b4",
+   "ts": "2026-09-28T13:38:01Z",
+   "headline": "Citi/YouGov: UK public year-ahead inflation expectations rise to 4.5% in September, long-term measure up to 4.3%",
+   "detail": "The Citi/YouGov survey puts UK year-ahead public inflation expectations at 4.5% in September, compared with 3.9% previously. The longer-term measure rose to 4.3% from 4.1% in August.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "953748cb5107a935",
+    "2ff1af400e6b9579"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgqg5xt327",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgqg5xt327"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgu2hlag2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgu2hlag2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0ece26f9e0a6",
+   "created_at": "2026-09-29T10:26:28Z"
+  },
+  {
+   "id": "aa62f92a1722",
+   "ts": "2026-09-28T13:33:39Z",
+   "headline": "ECB's Lagarde says the inflation outlook for 2027 and 2028 is higher than expected and backs a measured policy response",
+   "detail": "In a speech to the European Parliament, ECB President Lagarde said the inflation shock is too large to look through and that a measured response is appropriate. She said she sees no sign yet that inflation is becoming embedded, and that risks remain to the upside for inflation and to the downside for growth.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "449acd5e6ac33375",
+    "9ddb2b8e3d1d15bd",
+    "38f19fa7adefdbf9",
+    "98e351300945f232",
+    "f143c26831204d9f",
+    "401787ca83ec4fa1",
+    "22daee20a7ecc4a0",
+    "ef9728f8f5451ced",
+    "9e9b6eccfdb55290",
+    "e660be21dab08c64",
+    "42c0a917033ce7d0",
+    "09cc571383af45c7",
+    "dc46553c4b5f2119"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgin55sz2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgin55sz2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgih73vt27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgih73vt27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgk2gyak26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgk2gyak26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgkb5yuv2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgkb5yuv2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgjv3te52m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgjv3te52m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgkgoflj2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgkgoflj2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgiryxsv2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgiryxsv2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlggl2nut27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlggl2nut27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgixepvv2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgixepvv2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgfhpbd32t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgfhpbd32t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlggdjn4x2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlggdjn4x2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgiosw6v2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgiosw6v2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgkif5jz2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgkif5jz2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0ece26f9e0a6",
+   "created_at": "2026-09-29T10:26:28Z"
+  },
+  {
+   "id": "e461748c16f5",
+   "ts": "2026-09-28T12:48:41Z",
+   "headline": "Chancellor Healey tells Labour conference there is no spare money for extra public service spending",
+   "detail": "In his Labour conference speech on 28 September, the Chancellor said the public finances have less room than in the Blair years because growth is lower and debt is higher. The FT reported that the speech was preparing the party for possible tax rises in the Budget.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "b44980a0d0441953",
+    "970c76b1cc82bbd1"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mwljwiv2knh2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mwljwiv2knh2"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwlf26zoqk2o",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwlf26zoqk2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "91b1e5d57cc8",
+   "created_at": "2026-09-29T10:26:08Z"
+  },
+  {
+   "id": "166c2206905c",
+   "ts": "2026-09-28T12:12:49Z",
+   "headline": "UK diesel prices hit a record 199.18p per litre, according to RAC data",
+   "detail": "City AM reported on 28 September that RAC figures showed diesel reaching a record 199.18p per litre. The report said UK borrowing costs were also rising ahead of the Budget.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "1b8bd551e7ecd55a"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mwld6rrzmk32",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mwld6rrzmk32"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cf6a60e28e17",
+   "created_at": "2026-09-29T10:26:00Z"
+  },
+  {
+   "id": "d4dd5e1d37e6",
+   "ts": "2026-09-28T11:29:08Z",
+   "headline": "Global bond sell-off deepens as Brent rises above $108 and 10-year US Treasury yield tops 5.2%",
+   "detail": "The FT reports that Brent crude has climbed above $108 a barrel and the 10-year US Treasury yield has passed 5.2% as hopes of a US-Iran deal fade. The latest snapshot shows the 10-year gilt yield at 4.602% and the 30-year at 5.329%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "07db7a327d980998"
+   ],
+   "sources": [
+    {
+     "author": "iankmsmith.ft.com",
+     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3mwl7jxxw7c2s",
+     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3mwl7jxxw7c2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7a0488b6a4b9",
+   "created_at": "2026-09-29T10:25:47Z"
+  },
+  {
+   "id": "b61c9c4cd1db",
+   "ts": "2026-09-28T11:18:17Z",
+   "headline": "Chancellor Healey pledges to meet the fiscal rules and says fiscal discipline will be at the core of his Budget",
+   "detail": "In his Labour conference speech, Chancellor Healey said the government will stick to its fiscal rules and keep control of the public finances. He called current debt levels an affront to the party's values and said the government must act to cut the welfare bill.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "2eb7fdac971b84e4",
+    "cf63f48e9c68a221",
+    "6cee883a9bbe2fc9",
+    "37720c115d4a2ba7",
+    "6992e8aa55f2ac50",
+    "273ba9e7c91da5f1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl6wknqz526",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl6wknqz526"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl6wepl6a2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl6wepl6a2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl6xi7cop2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl6xi7cop2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl74y5tgx2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl74y5tgx2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl7ds6ent2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl7ds6ent2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl7eq2v2c26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl7eq2v2c26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7a0488b6a4b9",
+   "created_at": "2026-09-29T10:25:47Z"
+  },
+  {
+   "id": "f14139ade5df",
+   "ts": "2026-09-28T10:15:45Z",
+   "headline": "BoE's Ramsden says Bank's gilt sales will start with the longest maturities, reported as 2033 to 2049",
+   "detail": "Deputy Governor Dave Ramsden said the Bank of England's gilt sales will begin at the long end of the maturity range. One report gave the range as 2033 to 2049 and another as 2035 to 2049. In the same remarks he said he wanted QT pushed further into the background and that a period of higher, longer-lasting headline inflation is shaping his thinking.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "76c62cbae146b853",
+    "b4d0e407e169b674",
+    "f1663f05ed6a6bdb",
+    "9a29c9c2c1d87300",
+    "5931ff63353ab058"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl3gqomed27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl3gqomed27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl3hldtxz22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl3hldtxz22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl57iujat2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl57iujat2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl63nsxml2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl63nsxml2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl66s23fq2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl66s23fq2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "eea2e9c7dd26",
+   "created_at": "2026-09-29T10:25:35Z"
+  },
+  {
+   "id": "2965e78aa07f",
+   "ts": "2026-09-28T10:14:13Z",
+   "headline": "US crude futures rise more than 4% to a session high of $96.44 a barrel as US-Iran peace efforts stall",
+   "detail": "US crude futures rose more than 4% to a session high of $96.44 a barrel after peace talks between the US and Iran stalled.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "f3f599cb99e4a8d8",
+    "39c7895e63bcad33"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl3dz3ovt26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl3dz3ovt26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl3gq4aet26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl3gq4aet26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "eea2e9c7dd26",
+   "created_at": "2026-09-29T10:25:35Z"
+  },
+  {
+   "id": "77a3e5a872dc",
+   "ts": "2026-09-28T10:02:12Z",
+   "headline": "BoE's Ramsden says inflation risks have tilted to the upside and a Bank Rate rise could be warranted if pressures keep building",
+   "detail": "BoE Deputy Governor Dave Ramsden said the current policy stance remains restrictive, and named energy prices, food prices and wage settlements as his main focus. He said he does not expect further QE to be considered soon, and described the QT plan and its September changes as credible and well received by markets.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "cc2d62365ed509f4",
+    "39f6109077acda87",
+    "ae8d424ed96d8e16",
+    "884a2fa5d49c6a19",
+    "320168aea34b71d7",
+    "aefa02f3036b47fa",
+    "4e2943a68d41eca0",
+    "4b600ca1a6842074",
+    "654cea409351dc3e",
+    "34d415e2aa21f00c",
+    "2a8862bff13ede0f",
+    "f678868158660259",
+    "e8ebcc7bdc05a45b",
+    "c437c92e0d2dce75",
+    "9f48fb1be09ce71c",
+    "5e70795bb9fa3a5f",
+    "b643959c6b2e6ff4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl2oj2brt2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl2oj2brt2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl2sg73kk2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl2sg73kk2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl2tgkqck27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl2tgkqck27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl2tiwbkm2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl2tiwbkm2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl2tlkhej2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl2tlkhej2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl2umifap2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl2umifap2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl2un3sk42f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl2un3sk42f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl2uxeomx22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl2uxeomx22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl2vbpby527",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl2vbpby527"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl2w2oab72r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl2w2oab72r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl2wex77r2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl2wex77r2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl2xouq7326",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl2xouq7326"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl37vcrdd2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl37vcrdd2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl37xaafd27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl37xaafd27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl37z76n22m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl37z76n22m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl37znyn22q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl37znyn22q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl3b2jtij2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl3b2jtij2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f97419210566",
+   "created_at": "2026-09-29T10:25:21Z"
+  },
+  {
+   "id": "337908c49716",
+   "ts": "2026-09-28T09:16:53Z",
+   "headline": "ONS publishes revised Labour Force Survey series adjusted with PAYE data, showing a larger recent fall in employment",
+   "detail": "The ONS has reworked its Labour Force Survey data using HMRC PAYE figures to correct for the drop in survey responses since the pandemic. The revised series shows a deeper fall in employment early in the pandemic, a stronger recovery afterwards and a bigger decline in recent months.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "986efb621b000dd7"
+   ],
+   "sources": [
+    {
+     "author": "davidmilliken.bsky.social",
+     "uri": "at://did:plc:cnkav2txgxnskbjf2f564bjl/app.bsky.feed.post/3mwky5iazf22a",
+     "url": "https://bsky.app/profile/davidmilliken.bsky.social/post/3mwky5iazf22a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "261be09fa46d",
+   "created_at": "2026-09-29T10:25:12Z"
+  },
+  {
+   "id": "28ad7cd3c8c4",
+   "ts": "2026-09-28T08:43:31Z",
+   "headline": "Defence Secretary Streeting signals further defence spending announcements in the October Budget",
+   "detail": "UK Defence Secretary Wes Streeting said more on defence spending will come at the Budget. He gave no figures.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "656dae947929bcf8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwkwbsy46f2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwkwbsy46f2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "261be09fa46d",
+   "created_at": "2026-09-29T10:25:12Z"
+  },
+  {
+   "id": "41df29038ae1",
+   "ts": "2026-09-28T06:49:18Z",
+   "headline": "BoE MPC member Dhingra flags concern that elevated interest rates could weigh on investment and reduce supply capacity",
+   "detail": "Bank of England external MPC member Swati Dhingra said she is concerned that high rates could damage business investment and cut the economy's supply capacity, according to a newswire headline on 28 September. The inputs report no market reaction.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "efe6f7d59d61d932"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwkpvld7hr2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwkpvld7hr2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9b3955f0a2c9",
+   "created_at": "2026-09-29T10:25:01Z"
+  },
+  {
+   "id": "c899ca072704",
+   "ts": "2026-09-28T05:50:45Z",
+   "headline": "FT reports the Bank of England's balance sheet has grown over the past year despite quantitative tightening",
+   "detail": "The Financial Times reported on 28 September that the Bank of England's balance sheet has stopped shrinking and is larger than it was a year ago. The report gave no figures.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "058ddfbeed4ee4f8"
+   ],
+   "sources": [
+    {
+     "author": "tobyn.bsky.social",
+     "uri": "at://did:plc:n7qmptitg3fcep3mo7uecwb7/app.bsky.feed.post/3mwkmmup24c2z",
+     "url": "https://bsky.app/profile/tobyn.bsky.social/post/3mwkmmup24c2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "af75c67c4e2d",
+   "created_at": "2026-09-29T10:24:53Z"
+  },
+  {
+   "id": "71dac02a7e61",
+   "ts": "2026-09-28T04:46:52Z",
+   "headline": "Brent trades above $106 a barrel as 10-year US Treasury yields reach 5.2%, adding pressure on government bonds",
+   "detail": "The Financial Times reported early on 28 September that Brent was above $106 a barrel and 10-year Treasury yields had reached 5.2%. Wire headlines also reported higher Japanese government bond yields, citing concerns over the Iran conflict and inflation.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "3f19b9b796a38fb5",
+    "2b7a0aa1bf99b3f9",
+    "0abe437faef1fed4",
+    "c732f7c102cb1cf7",
+    "98717b0fd44197bc"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwkj2nkjxd24",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwkj2nkjxd24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwkj7ypsvx2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwkj7ypsvx2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwkjvtuyxg27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwkjvtuyxg27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwkjha476s2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwkjha476s2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwkjyrhjdx2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwkjyrhjdx2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "af75c67c4e2d",
+   "created_at": "2026-09-29T10:24:53Z"
+  },
+  {
+   "id": "cc762b7867a2",
+   "ts": "2026-09-27T23:16:05Z",
+   "headline": "Chancellor Healey to set out a £6bn Royal Navy plan in his Labour conference speech",
+   "detail": "The FT reported that the Chancellor will pledge that British firms will build three new floating docks on the Clyde as part of a £6bn Royal Navy plan. The speech is due on Tuesday.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "387562f34da93b55",
+    "e2a5fa7dbc2666f3"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwjwl5thse2o",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwjwl5thse2o"
+    },
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mwjxt43g6zu2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mwjxt43g6zu2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "89063ef1c6e4",
+   "created_at": "2026-09-29T10:24:31Z"
+  },
+  {
+   "id": "9ad4fef46653",
+   "ts": "2026-09-27T23:03:17Z",
+   "headline": "UK Business Secretary calls a possible US diesel export ban a significant concern; UK gets about a sixth of its diesel from the US",
+   "detail": "US President Trump said he is seriously considering a diesel export ban, with a 90-day ban or more limited voluntary restrictions reported to be under consideration. UK Business Secretary Jonathan Reynolds said a full ban would be a significant concern for Britain but noted that UK fuel supply is diverse.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "6a0784ec813ba2c9",
+    "9389b8fde9044ca6",
+    "b0523480d9e1b131",
+    "1c1cdd7d1ce491e4",
+    "c19374c636fc99de",
+    "5a18c2d99183d863"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwjvubupfs2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwjvubupfs2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwjvugrfci2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwjvugrfci2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwjr7q7ppb26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwjr7q7ppb26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwjra2sxea27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwjra2sxea27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwjra77fsy2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwjra77fsy2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwjr7mp2dn2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwjr7mp2dn2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "89063ef1c6e4",
+   "created_at": "2026-09-29T10:24:31Z"
+  },
+  {
+   "id": "b9bfd7dfae87",
+   "ts": "2026-09-27T22:07:20Z",
+   "headline": "Oil rises more than 1% after Trump rejects Iran proposal to reopen the Strait of Hormuz",
+   "detail": "A wire reported that oil prices climbed more than 1% after US President Trump rejected Iran's peace proposal. US stock futures were reported slightly lower.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "34905d4297c3f1d5",
+    "f6a8b5ff61f0568c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwjsqac5pz2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwjsqac5pz2m"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwjubu3ns42j",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwjubu3ns42j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "89063ef1c6e4",
+   "created_at": "2026-09-29T10:24:31Z"
+  },
+  {
+   "id": "d96291f7251c",
+   "ts": "2026-09-27T10:00:37Z",
+   "headline": "PM Burnham says social care reform will be funded by new taxes and put to voters at the next general election",
+   "detail": "On 27 September, Prime Minister Andy Burnham said his plan for a national care service would be free at the point of use, with the cost shared across the population through new taxes. He said the reform would be hard to deliver in the current parliament, and the next election may not come until 2029.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "2ebafa204be00b97",
+    "c172197ffc7b325b",
+    "e42a74b3a916c17a"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwik4rbkps2f",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwik4rbkps2f"
+    },
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mwjxtaesomj2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mwjxtaesomj2"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwikpf3fmc23",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwikpf3fmc23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "15ade208611b",
+   "created_at": "2026-09-29T10:24:15Z"
+  },
+  {
+   "id": "3f8ef241ee7b",
+   "ts": "2026-09-27T08:37:17Z",
+   "headline": "Chancellor Healey says UK capital gains tax is the lowest of any major European economy, ahead of the October Budget",
+   "detail": "Chancellor John Healey made the comment on Sunday 27 September while discussing business confidence and competitiveness on capital taxes, City AM reported. The report said the remarks raise the prospect of another capital gains tax increase at the Budget.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "980bb6c89cc02f1c"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mwjxtjs4yjx2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mwjxtjs4yjx2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "15ade208611b",
+   "created_at": "2026-09-29T10:24:15Z"
+  },
+  {
+   "id": "b0a20c501f75",
+   "ts": "2026-09-26T17:40:08Z",
+   "headline": "Government says its 'Your First Home' equity loan scheme will be confirmed in the October Budget",
+   "detail": "On 26 September the government said the new homebuying equity loan scheme would be confirmed in next month's Budget, according to Reuters. The FT reported that the scheme revives Help to Buy, with the stated aim of boosting housebuilding.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "0469bc39c1f7d3b4",
+    "4f734ec942889e5f"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwgtdjqhyt2f",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwgtdjqhyt2f"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwgkdzbenx2x",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwgkdzbenx2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "04c34d955c6c",
+   "created_at": "2026-09-29T10:24:02Z"
+  },
+  {
+   "id": "96e2444f8273",
+   "ts": "2026-09-26T17:14:23Z",
+   "headline": "US President Trump rejects Iran's proposal for a week-long ceasefire to reopen the Strait of Hormuz",
+   "detail": "The FT reported on 26 September that Tehran had offered a one-week pause in hostilities to start peace talks on the seven-month conflict. Reuters later reported that Iran still wants a diplomatic solution and that mediators had not formally passed on a US rejection.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "4bc75c2ab75fcf47",
+    "b298167ed8eff107",
+    "590b614fbc9a4ffd"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwgrvhnwkt2o",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwgrvhnwkt2o"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwhg2jsaxk2e",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwhg2jsaxk2e"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwgp5efp4d2e",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwgp5efp4d2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "04c34d955c6c",
+   "created_at": "2026-09-29T10:24:02Z"
+  },
   {
    "id": "3e3e0e6b1eae",
    "ts": "2026-09-29T04:31:43Z",
@@ -143,6 +1925,117 @@
    "model": "opus",
    "run_id": "6bcebb8f20c9",
    "created_at": "2026-09-29T09:34:37Z"
+  },
+  {
+   "id": "a03d18bbd9fb",
+   "ts": "2026-09-29T09:19:24Z",
+   "headline": "Bank of England money and credit data show broad money growth still subdued at around 4%",
+   "detail": "Subdued money growth argues against a further aggressive tightening leg, which is mildly supportive at the short end where SONIA OIS already prices easing (1y 3.673%, 2y 3.610%). It is not weak enough on its own to pull long gilts down, so PWLB certainty rates off a 10-year gilt at 4.606% and a 30-year at 5.335% are unlikely to shift on this alone.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "b395d7222d141668"
+   ],
+   "sources": [
+    {
+     "author": "julianhjessop.bsky.social",
+     "uri": "at://did:plc:wwxpsnwpv52qup3qdzrgacop/app.bsky.feed.post/3mwniqvxgkk2x",
+     "url": "https://bsky.app/profile/julianhjessop.bsky.social/post/3mwniqvxgkk2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4c38f3631d35",
+   "created_at": "2026-09-29T09:20:00Z"
+  },
+  {
+   "id": "f4e00e1b3f4f",
+   "ts": "2026-09-29T09:15:11Z",
+   "headline": "Airline flags a bigger jet fuel bill than forecast as the Iran conflict drags on and oil prices spike",
+   "detail": "A sustained oil spike would lift headline inflation and keep the market cautious about the pace of Bank Rate cuts, which would hold gilt yields and therefore PWLB certainty rates (gilts plus 80bp) higher for longer. Authorities with borrowing planned in the coming weeks should watch energy prices as a two-way risk to the rate they fix at.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "b03105090bc6dc14"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwnijevkyo2e",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwnijevkyo2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4c38f3631d35",
+   "created_at": "2026-09-29T09:20:00Z"
+  },
+  {
+   "id": "5eff936f80bc",
+   "ts": "2026-09-29T09:15:09Z",
+   "headline": "Think tank presses case for reforming the triple lock, with state pension driving nearly half the rise in social security spending to…",
+   "detail": "Renewed pressure on the triple lock feeds the pre-Budget debate about where the Chancellor finds durable savings; credible spending restraint would ease the long-end supply premium that sits in 30-year gilts at 5.335% and hence in PWLB maturity loans. Treat it as commentary rather than policy for now, but it is a signpost for the autumn fiscal event that will set your borrowing window.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "dd2d8b429aa885a1"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mwnijcwy7f2e",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mwnijcwy7f2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4c38f3631d35",
+   "created_at": "2026-09-29T09:20:00Z"
+  },
+  {
+   "id": "9f519955c26f",
+   "ts": "2026-09-29T09:03:40Z",
+   "headline": "Wire reports 10-year gilt auction covered 3.34 times, down from 3.65 at the previous sale, pointing to slightly softer demand",
+   "detail": "A thinner cover ratio suggests investors are demanding a little more concession to absorb long conventional supply, which tends to nudge the 10-year part of the curve and therefore PWLB certainty rates (gilts plus 80bp) higher at the margin. Treat as colour for now rather than a trigger: the yield figure carried on the wire sits well above our 10-year snapshot of 4.574%, so confirm against DMO results before timing any drawdown around it.",
+   "category": "supply",
+   "importance": 2,
+   "source_event_ids": [
+    "dcc77f89484a1c6d",
+    "b4ffddbe0d67611a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnhurap3u2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnhurap3u2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnhunnr6j26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnhunnr6j26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cecfc27a6b48",
+   "created_at": "2026-09-29T09:04:21Z"
+  },
+  {
+   "id": "306c7e068a2c",
+   "ts": "2026-09-29T08:56:24Z",
+   "headline": "BRC survey shows shop price inflation easing in September, including food, but retailers flag building cost pressures",
+   "detail": "A softer September shop price reading supports the case for disinflation feeding through to CPI, which is mildly helpful for gilt yields and therefore PWLB certainty rate (gilts plus 80bp) pricing. With pipeline cost pressures still building, treasury teams should treat this as colour rather than a reason to change borrowing timing ahead of the next official CPI print.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "f25cc1d95b8b5c2d"
+   ],
+   "sources": [
+    {
+     "author": "julianhjessop.bsky.social",
+     "uri": "at://did:plc:wwxpsnwpv52qup3qdzrgacop/app.bsky.feed.post/3mwnhhrroy22s",
+     "url": "https://bsky.app/profile/julianhjessop.bsky.social/post/3mwnhhrroy22s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0a9a9138ccf4",
+   "created_at": "2026-09-29T08:58:35Z"
   }
  ]
 }

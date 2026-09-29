@@ -97,6 +97,11 @@ def build_parser() -> argparse.ArgumentParser:
     backend_args(sp)
     sp.add_argument("--dry-run", action="store_true", help="call the model but store nothing; print the JSON")
     sp.add_argument("--market-tick", action="store_true", help="take one market snapshot first")
+    sp.add_argument(
+        "--stale-after-hours",
+        type=float,
+        help="write events up to this old (SQUAWK_WRITER_STALE_AFTER_HOURS, default 12); raise it to backfill",
+    )
 
     sp = sub.add_parser("run", help="listener + market monitor + writer loop (local service)")
     backend_args(sp)
@@ -177,6 +182,8 @@ def _settings(args: argparse.Namespace) -> Settings:
         overrides["write_interval"] = args.write_interval
     if getattr(args, "backfill_hours", None):
         overrides["poll_backfill_hours"] = args.backfill_hours
+    if getattr(args, "stale_after_hours", None):
+        overrides["writer_stale_after_hours"] = args.stale_after_hours
     if args.verbose:
         overrides["log_level"] = "DEBUG"
     return s.model_copy(update=overrides)

@@ -172,6 +172,9 @@
       if (!r.ok) throw new Error('HTTP ' + r.status);
       const doc = await r.json();
       squawks = Array.isArray(doc) ? doc : (doc.squawks || []);
+      // The file is ordered by publication time; a backfill publishes days of events at
+      // once, so order the tape by when each thing actually happened.
+      squawks.sort((a, b) => String(b.ts).localeCompare(String(a.ts)));
       status.textContent = `${squawks.length} squawks · updated ${doc.generated_at ? ago(doc.generated_at) : 'n/a'} · next refresh in 60s`;
       render();
     } catch (e) {

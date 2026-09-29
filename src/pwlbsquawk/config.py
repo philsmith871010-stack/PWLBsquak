@@ -34,6 +34,7 @@ class Settings(BaseModel):
     max_events_per_call: int = 60
     include_replies: bool = False
     recent_squawks_in_prompt: int = 12
+    writer_stale_after_hours: float = 12.0  # events older than this are dropped unwritten; raise to backfill
 
     # cadence (seconds)
     write_interval: int = 300
