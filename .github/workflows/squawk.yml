@@ -80,7 +80,7 @@ jobs:
         run: |
           rm -rf site && mkdir -p site/web site/data
           cp index.html .nojekyll site/
-          cp web/ticker.html site/web/
+          cp web/ticker.html web/squawk-embed.js web/embed-demo.html site/web/
           cp data/squawks.json data/squawks.ndjson site/data/
       - name: Publish to the public Pages repo (deploy key)
         if: vars.PAGES_REPO != '' && env.HAS_KEY == 'true'

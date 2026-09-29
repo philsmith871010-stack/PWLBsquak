@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Squawk embed preview</title>
+<meta name="description" content="A mock host page showing the squawk ticker embedded as it would be on an existing site.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='3' fill='%230b5fff'/%3E%3Cpath d='M3 10l3-4 3 3 4-5' stroke='white' stroke-width='2' fill='none'/%3E%3C/svg%3E">
+<style>
+  /* Deliberately opinionated host styles: the widget must survive them untouched. */
+  :root { --ink: #1a2230; --soft: #64748b; --rule: #e2e8f0; --page: #f8fafc; --brand: #134e4a; }
+  @media (prefers-color-scheme: dark) {
+    :root { --ink: #e6edf5; --soft: #93a3b5; --rule: #2a3542; --page: #0e141b; --brand: #5eead4; }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--page); color: var(--ink);
+    font: 16px/1.6 Georgia, "Times New Roman", serif;
+  }
+  h1, h2, h3, .ui { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .bar { background: var(--brand); color: #fff; padding: 10px 0; }
+  .bar .wrap { display: flex; align-items: center; justify-content: space-between; }
+  .bar strong { font-family: system-ui, sans-serif; letter-spacing: .04em; }
+  .wrap { max-width: 900px; margin: 0 auto; padding: 0 16px; }
+  .note { font-size: 13px; color: var(--soft); font-family: system-ui, sans-serif; }
+  .ticker-slot { margin: 18px 0 26px; }
+  table { border-collapse: collapse; width: 100%; font-family: system-ui, sans-serif; font-size: 14px; }
+  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--rule); }
+  th { color: var(--soft); font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: .05em; }
+  td.num { text-align: right; font-variant-numeric: tabular-nums; }
+  section { margin: 32px 0; }
+  footer { border-top: 1px solid var(--rule); margin-top: 40px; padding: 20px 0 50px; color: var(--soft); font-size: 13px; font-family: system-ui, sans-serif; }
+  code { background: rgba(127,127,127,.14); padding: 1px 5px; border-radius: 4px; font-size: 13px; }
+</style>
+</head>
+<body>
+
+<div class="bar"><div class="wrap"><strong>PWLB<span style="opacity:.6">today</span></strong><span class="note" style="color:#cdeee8">mock host page</span></div></div>
+
+<div class="wrap">
+
+  <div class="ticker-slot">
+    <!-- This is the whole embed. -->
+    <div data-squawk-ticker data-src="../data/squawks.json"></div>
+  </div>
+
+  <p class="note">
+    Hover the strip to pause it. Click any headline to open the blotter at that item; the
+    button on the right opens it at the top of today. <code>Esc</code> or a click outside closes it.
+  </p>
+
+  <section>
+    <h2>PWLB certainty rates</h2>
+    <p class="note">Placeholder content, here only to prove the widget does not disturb the page around it.</p>
+    <table>
+      <thead><tr><th>Maturity</th><th>Type</th><th class="num">Rate</th><th class="num">Change</th></tr></thead>
+      <tbody>
+        <tr><td>10 years</td><td>Maturity</td><td class="num">5.46%</td><td class="num">+4bp</td></tr>
+        <tr><td>20 years</td><td>Maturity</td><td class="num">5.92%</td><td class="num">+6bp</td></tr>
+        <tr><td>30 years</td><td>Maturity</td><td class="num">6.14%</td><td class="num">+7bp</td></tr>
+        <tr><td>50 years</td><td>Annuity</td><td class="num">6.08%</td><td class="num">+6bp</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Embedding it</h2>
+    <p class="note">Two lines anywhere in the page:</p>
+<pre class="note" style="overflow:auto"><code>&lt;div data-squawk-ticker&gt;&lt;/div&gt;
+&lt;script src="https://philsmith871010-stack.github.io/pwlb-squawk-feed/web/squawk-embed.js" defer&gt;&lt;/script&gt;</code></pre>
+    <p class="note">
+      Optional attributes on the div: <code>data-theme="light|dark"</code> to pin the theme,
+      <code>data-label</code> to change the badge text, <code>data-src</code> to point at a
+      different feed. Colours follow <code>--squawk-accent</code>, <code>--squawk-strip-bg</code>
+      and friends if you set them on the div.
+    </p>
+  </section>
+
+  <section>
+    <h2>Pinned to dark, custom accent</h2>
+    <div data-squawk-ticker data-src="../data/squawks.json" data-theme="dark" data-label="Rates wire"
+         style="--squawk-accent:#5eead4; --squawk-strip-bg:#04231f; --squawk-strip-hover:#0a3b34;"></div>
+  </section>
+
+  <footer>Mock page for previewing the embed. The live blotter is the <a href="ticker.html">demo ticker</a>.</footer>
+</div>
+
+<script src="squawk-embed.js" defer></script>
+</body>
+</html>

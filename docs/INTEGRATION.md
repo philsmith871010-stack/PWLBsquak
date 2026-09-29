@@ -81,6 +81,43 @@ JSON schema (draft 2020-12) for the squawk object, if you want to validate:
 
 The same schema is what `pwlbsquawk.models.Squawk` enforces before anything is written.
 
+## Embedding the ticker in an existing page
+
+`web/squawk-embed.js` is a drop-in widget for a page you already have, for sites that want the
+ticker but have nowhere to put a full list of articles. Two lines:
+
+```html
+<div data-squawk-ticker></div>
+<script src="https://<owner>.github.io/<pages-repo>/web/squawk-embed.js" defer></script>
+```
+
+The strip carries **today's squawks only**, so it always reads as live. Hovering pauses the
+scroll; clicking a headline opens a modal at that item, and the button at the right opens it at
+the top of today. The modal starts on today and scrolls back through earlier days, so nothing in
+`squawks.json` is unreachable. `Esc` or a click outside closes it.
+
+Everything renders in a shadow root, so the host page's CSS and the widget's cannot reach each
+other, and the modal is a `<dialog>` in the top layer, so it overlays the page whatever the
+host's stacking contexts look like. The feed is fetched cross-origin; GitHub Pages serves
+`Access-Control-Allow-Origin: *`, so no proxy is needed.
+
+| attribute on the div | default | meaning |
+|---|---|---|
+| `data-src` | `../data/squawks.json` beside the script | feed URL |
+| `data-theme` | follow the viewer's system setting | `light` or `dark` to pin it |
+| `data-label` | `PWLB Squawk` | badge text on the left of the strip |
+
+Colours follow `--squawk-accent`, `--squawk-strip-bg`, `--squawk-strip-hover`, `--squawk-bg`,
+`--squawk-text`, `--squawk-muted` and `--squawk-line` if you set them on the div; custom
+properties inherit through the shadow boundary.
+
+The strip shows the 12 most recent of today's squawks, with a `+N more today` item at the end
+when there are more. That is a deliberate cap: a busy day runs past 40 squawks, and a strip
+carrying all of them takes ten minutes to come round, so an item you glance away from is gone
+for the afternoon. The modal holds the full day.
+
+`web/embed-demo.html` is a mock host page showing it in place, published alongside the ticker.
+
 ## Update cadence
 
 - Writer passes run every `SQUAWK_WRITE_INTERVAL` seconds (default 300). In **event mode**
