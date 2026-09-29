@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T18:50:56Z",
+ "generated_at": "2026-09-29T18:55:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0af79ef2df59",
+   "ts": "2026-09-29T18:54:50Z",
+   "headline": "Oil futures settle lower: Brent down 2.56% at $102.59/bbl, US crude down 3.48% at $89.38/bbl",
+   "detail": "Brent crude futures settled $2.69 lower at $102.59 a barrel. US crude futures settled $3.22 lower at $89.38 a barrel.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "3a7291a6e6e42170",
+    "6eabd5f161cd2076"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoivu2c4e2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoivu2c4e2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoiuxc5no2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoiuxc5no2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a179353545b3",
+   "created_at": "2026-09-29T18:55:54Z"
+  },
   {
    "id": "386f38ca9032",
    "ts": "2026-09-29T18:50:11Z",
@@ -6474,33 +6501,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwjr7mp2dn2v",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwjr7mp2dn2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "89063ef1c6e4",
-   "created_at": "2026-09-29T10:24:31Z"
-  },
-  {
-   "id": "b9bfd7dfae87",
-   "ts": "2026-09-27T22:07:20Z",
-   "headline": "Oil rises more than 1% after Trump rejects Iran proposal to reopen the Strait of Hormuz",
-   "detail": "A wire reported that oil prices climbed more than 1% after US President Trump rejected Iran's peace proposal. US stock futures were reported slightly lower.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "34905d4297c3f1d5",
-    "f6a8b5ff61f0568c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwjsqac5pz2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwjsqac5pz2m"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwjubu3ns42j",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwjubu3ns42j"
     }
    ],
    "model": "opus",
