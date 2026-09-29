@@ -1,8 +1,110 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T20:01:20Z",
+ "generated_at": "2026-09-29T20:12:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f2756a09d000",
+   "ts": "2026-09-29T20:07:36Z",
+   "headline": "US stocks and bonds fall as inflation concerns keep yields elevated",
+   "detail": "A US market wrap reported that equities and Treasuries both fell on Tuesday, with inflation concerns keeping yields high.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9622a7c2ff7e1f99"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwomxy3qcu27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwomxy3qcu27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "de70c8ac5a2e",
+   "created_at": "2026-09-29T20:12:41Z"
+  },
+  {
+   "id": "ddb98cd469c8",
+   "ts": "2026-09-29T20:06:39Z",
+   "headline": "Fed's Williams says rising bond yields tighten financial conditions at the margin",
+   "detail": "New York Fed President Williams said higher yields tighten financial conditions at the margin, but he does not see them as a sign of changing longer-run inflation expectations. He also said AI has not so far caused big changes in job levels.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "20dbb15500d6ff2e",
+    "37901b879e55ddf2",
+    "bd1e72f3050092c9",
+    "50c51ae3bbfed845"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwomwccvzn2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwomwccvzn2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwomws2vzg2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwomws2vzg2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwomwwuwgw26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwomwwuwgw26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwomx523io2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwomx523io2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "de70c8ac5a2e",
+   "created_at": "2026-09-29T20:12:41Z"
+  },
+  {
+   "id": "208074ba4620",
+   "ts": "2026-09-29T20:05:03Z",
+   "headline": "Russian glide bomb attack on Ukraine's Sumy kills two, officials say",
+   "detail": "Officials said Russian glide bombs hit homes and a school in the northern Ukrainian city of Sumy on Tuesday, killing two people and injuring six, Reuters reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "cae7a4a126ac4451"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwomtgafdp2e",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwomtgafdp2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "de70c8ac5a2e",
+   "created_at": "2026-09-29T20:12:41Z"
+  },
+  {
+   "id": "d2f8726ef2de",
+   "ts": "2026-09-29T20:02:01Z",
+   "headline": "Kpler: Middle East oil shipments rise to nearly 80% of prewar levels despite US-Iran tensions",
+   "detail": "Research firm Kpler found that oil shipments through the Strait of Hormuz and on routes bypassing it reached nearly 80% of prewar levels last week, Semafor reported.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "bae9b19893018da1"
+   ],
+   "sources": [
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mwomnysca32i",
+     "url": "https://bsky.app/profile/semafor.com/post/3mwomnysca32i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "de70c8ac5a2e",
+   "created_at": "2026-09-29T20:12:41Z"
+  },
   {
    "id": "d00592984b6b",
    "ts": "2026-09-29T20:00:51Z",
@@ -6212,144 +6314,6 @@
    "model": "opus",
    "run_id": "91b1e5d57cc8",
    "created_at": "2026-09-29T10:26:08Z"
-  },
-  {
-   "id": "166c2206905c",
-   "ts": "2026-09-28T12:12:49Z",
-   "headline": "UK diesel prices hit a record 199.18p per litre, according to RAC data",
-   "detail": "City AM reported on 28 September that RAC figures showed diesel reaching a record 199.18p per litre. The report said UK borrowing costs were also rising ahead of the Budget.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "1b8bd551e7ecd55a"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mwld6rrzmk32",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mwld6rrzmk32"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cf6a60e28e17",
-   "created_at": "2026-09-29T10:26:00Z"
-  },
-  {
-   "id": "d4dd5e1d37e6",
-   "ts": "2026-09-28T11:29:08Z",
-   "headline": "Global bond sell-off deepens as Brent rises above $108 and 10-year US Treasury yield tops 5.2%",
-   "detail": "The FT reports that Brent crude has climbed above $108 a barrel and the 10-year US Treasury yield has passed 5.2% as hopes of a US-Iran deal fade. The latest snapshot shows the 10-year gilt yield at 4.602% and the 30-year at 5.329%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "07db7a327d980998"
-   ],
-   "sources": [
-    {
-     "author": "iankmsmith.ft.com",
-     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3mwl7jxxw7c2s",
-     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3mwl7jxxw7c2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7a0488b6a4b9",
-   "created_at": "2026-09-29T10:25:47Z"
-  },
-  {
-   "id": "b61c9c4cd1db",
-   "ts": "2026-09-28T11:18:17Z",
-   "headline": "Chancellor Healey pledges to meet the fiscal rules and says fiscal discipline will be at the core of his Budget",
-   "detail": "In his Labour conference speech, Chancellor Healey said the government will stick to its fiscal rules and keep control of the public finances. He called current debt levels an affront to the party's values and said the government must act to cut the welfare bill.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "2eb7fdac971b84e4",
-    "cf63f48e9c68a221",
-    "6cee883a9bbe2fc9",
-    "37720c115d4a2ba7",
-    "6992e8aa55f2ac50",
-    "273ba9e7c91da5f1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl6wknqz526",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl6wknqz526"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl6wepl6a2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl6wepl6a2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl6xi7cop2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl6xi7cop2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl74y5tgx2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl74y5tgx2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl7ds6ent2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl7ds6ent2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl7eq2v2c26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl7eq2v2c26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7a0488b6a4b9",
-   "created_at": "2026-09-29T10:25:47Z"
-  },
-  {
-   "id": "f14139ade5df",
-   "ts": "2026-09-28T10:15:45Z",
-   "headline": "BoE's Ramsden says Bank's gilt sales will start with the longest maturities, reported as 2033 to 2049",
-   "detail": "Deputy Governor Dave Ramsden said the Bank of England's gilt sales will begin at the long end of the maturity range. One report gave the range as 2033 to 2049 and another as 2035 to 2049. In the same remarks he said he wanted QT pushed further into the background and that a period of higher, longer-lasting headline inflation is shaping his thinking.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "76c62cbae146b853",
-    "b4d0e407e169b674",
-    "f1663f05ed6a6bdb",
-    "9a29c9c2c1d87300",
-    "5931ff63353ab058"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl3gqomed27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl3gqomed27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl3hldtxz22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl3hldtxz22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl57iujat2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl57iujat2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl63nsxml2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl63nsxml2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwl66s23fq2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwl66s23fq2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "eea2e9c7dd26",
-   "created_at": "2026-09-29T10:25:35Z"
   }
  ]
 }
