@@ -1,8 +1,83 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T18:40:54Z",
+ "generated_at": "2026-09-29T18:50:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "386f38ca9032",
+   "ts": "2026-09-29T18:50:11Z",
+   "headline": "US sanctions 10 individuals and entities accused of procuring weapons for Iran's defence ministry",
+   "detail": "The US Treasury Department said on Tuesday that the 10 individuals and entities it has sanctioned include some based in China, Hong Kong and Pakistan. It said they helped Iran's Ministry of Defence obtain weapons and components.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "bbd1de02dd64e4ac"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwoinjrwn72e",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwoinjrwn72e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ff0065bd1be6",
+   "created_at": "2026-09-29T18:50:56Z"
+  },
+  {
+   "id": "f176a56febc5",
+   "ts": "2026-09-29T18:49:47Z",
+   "headline": "Traders scale back bets on an October Fed hike and now price one more hike by year-end after Williams remarks",
+   "detail": "Market pricing moved after New York Fed President Williams said there was no urgency for further action following September's hike. Traders now expect only one more Fed rate hike by the end of the year.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "802ebc9fdfdfb07d",
+    "d6d889347e27f8f3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoimthaiw2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoimthaiw2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoimx2vox2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoimx2vox2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ff0065bd1be6",
+   "created_at": "2026-09-29T18:50:56Z"
+  },
+  {
+   "id": "9d95597171fd",
+   "ts": "2026-09-29T18:47:53Z",
+   "headline": "Fed's Williams says AI is pushing up asset valuations and early data show it lifting productivity",
+   "detail": "New York Fed President Williams said AI is raising asset market valuations, which strengthens the wealth effect. He added that some data are beginning to show AI supporting productivity gains.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f9381a2fa5bb0cdb",
+    "b062b60ff574d893"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoijgvmun2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoijgvmun2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoil4egam2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoil4egam2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ff0065bd1be6",
+   "created_at": "2026-09-29T18:50:56Z"
+  },
   {
    "id": "8a0dd1d0906a",
    "ts": "2026-09-29T18:40:12Z",
@@ -6431,87 +6506,6 @@
    "model": "opus",
    "run_id": "89063ef1c6e4",
    "created_at": "2026-09-29T10:24:31Z"
-  },
-  {
-   "id": "d96291f7251c",
-   "ts": "2026-09-27T10:00:37Z",
-   "headline": "PM Burnham says social care reform will be funded by new taxes and put to voters at the next general election",
-   "detail": "On 27 September, Prime Minister Andy Burnham said his plan for a national care service would be free at the point of use, with the cost shared across the population through new taxes. He said the reform would be hard to deliver in the current parliament, and the next election may not come until 2029.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "2ebafa204be00b97",
-    "c172197ffc7b325b",
-    "e42a74b3a916c17a"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwik4rbkps2f",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwik4rbkps2f"
-    },
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mwjxtaesomj2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mwjxtaesomj2"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwikpf3fmc23",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwikpf3fmc23"
-    }
-   ],
-   "model": "opus",
-   "run_id": "15ade208611b",
-   "created_at": "2026-09-29T10:24:15Z"
-  },
-  {
-   "id": "3f8ef241ee7b",
-   "ts": "2026-09-27T08:37:17Z",
-   "headline": "Chancellor Healey says UK capital gains tax is the lowest of any major European economy, ahead of the October Budget",
-   "detail": "Chancellor John Healey made the comment on Sunday 27 September while discussing business confidence and competitiveness on capital taxes, City AM reported. The report said the remarks raise the prospect of another capital gains tax increase at the Budget.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "980bb6c89cc02f1c"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mwjxtjs4yjx2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mwjxtjs4yjx2"
-    }
-   ],
-   "model": "opus",
-   "run_id": "15ade208611b",
-   "created_at": "2026-09-29T10:24:15Z"
-  },
-  {
-   "id": "b0a20c501f75",
-   "ts": "2026-09-26T17:40:08Z",
-   "headline": "Government says its 'Your First Home' equity loan scheme will be confirmed in the October Budget",
-   "detail": "On 26 September the government said the new homebuying equity loan scheme would be confirmed in next month's Budget, according to Reuters. The FT reported that the scheme revives Help to Buy, with the stated aim of boosting housebuilding.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "0469bc39c1f7d3b4",
-    "4f734ec942889e5f"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwgtdjqhyt2f",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwgtdjqhyt2f"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwgkdzbenx2x",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwgkdzbenx2x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "04c34d955c6c",
-   "created_at": "2026-09-29T10:24:02Z"
   }
  ]
 }
