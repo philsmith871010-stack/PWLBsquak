@@ -326,8 +326,10 @@ class Store:
         return [_row_to_squawk(r) for r in rows]
 
     def recent_headlines(self, limit: int = 12) -> list[str]:
+        """Newest by event time: after a history restore every row shares a created_at,
+        so ordering by that hides the very stories the writer is about to see again."""
         rows = self._execute(
-            "SELECT headline FROM squawks ORDER BY created_at DESC LIMIT ?", (limit,)
+            "SELECT headline FROM squawks ORDER BY ts DESC, created_at DESC LIMIT ?", (limit,)
         ).fetchall()
         return [r["headline"] for r in rows]
 

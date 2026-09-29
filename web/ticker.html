@@ -119,13 +119,31 @@
   }
   function esc(t) { return String(t).replace(/[&<>"']/g, m => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[m])); }
 
+  const SOURCE_LIMIT = 6;
+
+  // One link per author: a squawk routinely cites twenty posts from the same account,
+  // and repeating the handle twenty times is noise.
+  function sourceLinks(sources) {
+    const byAuthor = new Map();
+    for (const x of sources || []) {
+      const prev = byAuthor.get(x.author);
+      if (!prev || (!prev.url && x.url)) byAuthor.set(x.author, x);
+    }
+    const all = [...byAuthor.values()];
+    const shown = all.slice(0, SOURCE_LIMIT).map(x => x.url
+      ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">@${esc(x.author)}</a>`
+      : `@${esc(x.author)}`).join(' \u00b7 ');
+    const extra = all.length - SOURCE_LIMIT;
+    return extra > 0 ? `${shown} +${extra} more` : shown;
+  }
+
   function render() {
     const list = document.getElementById('list');
     const shown = squawks.filter(s => active.has(s.category));
     if (!shown.length) { list.innerHTML = '<div class="empty">No squawks yet. Most batches are not material; the first one appears when the writer finds something that moves UK rates. To preview with a replay, add <code>?src=../data/replay/&lt;name&gt;/squawks.json</code> to the address.</div>'; }
     else {
       list.innerHTML = shown.map(s => {
-        const srcs = (s.sources || []).map(x => x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">@${esc(x.author)}</a>` : `@${esc(x.author)}`).join(' · ');
+        const srcs = sourceLinks(s.sources);
         return `<article>
           <div class="top"><span class="imp i${s.importance}" title="importance ${s.importance}"></span>
             <span class="cat ${esc(s.category)}">${LABELS[s.category] || esc(s.category)}</span>
@@ -154,6 +172,9 @@
       if (!r.ok) throw new Error('HTTP ' + r.status);
       const doc = await r.json();
       squawks = Array.isArray(doc) ? doc : (doc.squawks || []);
+      // The file is ordered by publication time; a backfill publishes days of events at
+      // once, so order the tape by when each thing actually happened.
+      squawks.sort((a, b) => String(b.ts).localeCompare(String(a.ts)));
       status.textContent = `${squawks.length} squawks · updated ${doc.generated_at ? ago(doc.generated_at) : 'n/a'} · next refresh in 60s`;
       render();
     } catch (e) {

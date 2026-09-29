@@ -93,7 +93,7 @@ class SquawkWriter:
         mode: str = "write",
         system_prompt: str | None = None,
         write_files: bool = True,
-        stale_after: dt.timedelta = dt.timedelta(hours=12),
+        stale_after: dt.timedelta | None = None,
         persist: bool = True,
     ):
         self.settings = settings
@@ -102,7 +102,9 @@ class SquawkWriter:
         self.mode = mode
         self.system_prompt = system_prompt or load_system_prompt(settings.prompt_file)
         self.write_files = write_files
-        self.stale_after = stale_after
+        self.stale_after = (
+            stale_after if stale_after is not None else dt.timedelta(hours=settings.writer_stale_after_hours)
+        )
         self.persist = persist  # False = dry run: call the model, keep nothing
 
     # -- selection -------------------------------------------------------------
