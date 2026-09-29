@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T19:27:12Z",
+ "generated_at": "2026-09-29T19:41:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4c89669f4516",
+   "ts": "2026-09-29T19:24:58Z",
+   "headline": "Iran's presidency says Tehran will make no concessions on its nuclear rights",
+   "detail": "Iran's President's Office said the country would not compromise on its nuclear rights and called this a central point of the President's speech, according to state broadcaster IRIB News.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "45865e4b2c3d0ab3",
+    "d882430fe7ae3c5f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoklqkzll2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoklqkzll2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoktun3m22v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoktun3m22v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cb4e56c15595",
+   "created_at": "2026-09-29T19:41:42Z"
+  },
   {
    "id": "6125d625c310",
    "ts": "2026-09-29T19:22:47Z",
@@ -6425,27 +6452,6 @@
    "model": "opus",
    "run_id": "f97419210566",
    "created_at": "2026-09-29T10:25:21Z"
-  },
-  {
-   "id": "337908c49716",
-   "ts": "2026-09-28T09:16:53Z",
-   "headline": "ONS publishes revised Labour Force Survey series adjusted with PAYE data, showing a larger recent fall in employment",
-   "detail": "The ONS has reworked its Labour Force Survey data using HMRC PAYE figures to correct for the drop in survey responses since the pandemic. The revised series shows a deeper fall in employment early in the pandemic, a stronger recovery afterwards and a bigger decline in recent months.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "986efb621b000dd7"
-   ],
-   "sources": [
-    {
-     "author": "davidmilliken.bsky.social",
-     "uri": "at://did:plc:cnkav2txgxnskbjf2f564bjl/app.bsky.feed.post/3mwky5iazf22a",
-     "url": "https://bsky.app/profile/davidmilliken.bsky.social/post/3mwky5iazf22a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "261be09fa46d",
-   "created_at": "2026-09-29T10:25:12Z"
   }
  ]
 }
