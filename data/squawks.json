@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T20:35:48Z",
+ "generated_at": "2026-09-29T20:40:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "efe1f0219e21",
+   "ts": "2026-09-29T20:40:11Z",
+   "headline": "UAE vice president visits Saudi Arabia, the first senior UAE visit since the rift between the two Gulf states last year",
+   "detail": "Reuters reports that UAE Vice President Sheikh Mansour bin Zayed Al Nahyan met Saudi Crown Prince Mohammed bin Salman and the Saudi defence minister on Tuesday. It is the first visit to the kingdom by a senior UAE official since a deep rift opened between the two countries last year.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d632a6ab2e5cd726"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwoosakauu24",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwoosakauu24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8e52e84a9f58",
+   "created_at": "2026-09-29T20:40:58Z"
+  },
   {
    "id": "47e6d3061232",
    "ts": "2026-09-29T20:35:01Z",
@@ -6173,63 +6194,6 @@
    "model": "opus",
    "run_id": "c6488fa58b5e",
    "created_at": "2026-09-29T10:26:48Z"
-  },
-  {
-   "id": "327e9eadd6a6",
-   "ts": "2026-09-28T13:50:10Z",
-   "headline": "US and Iran to hold separate talks with Qatari mediators, with no US officials at Iran's New York meeting",
-   "detail": "An official told Reuters that Qatari mediators are expected to meet Iranian Foreign Minister Araqchi in New York and the US side separately on Monday or Tuesday. Iran's ISNA reported that no US representatives will attend Araqchi's meeting.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "db4df1be8c69f973",
-    "8e1752c214150176",
-    "0aa24b6ef2f1d60c",
-    "f42e5c0046d9350b",
-    "bb61bbd7eeeb89f6",
-    "526272f6537aec8b",
-    "6b3393e117c10c30"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwlhg5qzwq2t",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwlhg5qzwq2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlhf2mtdp27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlhf2mtdp27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlhgs7dlf2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlhgs7dlf2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlhgxosn22f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlhgxosn22f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlhj4gdij2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlhj4gdij2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlhkazd4y27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlhkazd4y27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlhl4kjzy2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlhl4kjzy2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0ece26f9e0a6",
-   "created_at": "2026-09-29T10:26:28Z"
   }
  ]
 }
