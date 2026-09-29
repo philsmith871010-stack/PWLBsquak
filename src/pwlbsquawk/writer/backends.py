@@ -308,10 +308,7 @@ class MockBackend:
                     {
                         "ts": item.get("ts"),
                         "headline": headline[:140],
-                        "la_angle": (
-                            f"Mock analysis: a {label.lower()} item was flagged; PWLB certainty rates "
-                            "move one-for-one with gilt yields, so watch the 10-year before fixing."
-                        ),
+                        "detail": f"Mock entry: a {label.lower()} item was flagged by keyword.",
                         "category": category.value,
                         "importance": importance,
                         "source_event_ids": [item["id"]],

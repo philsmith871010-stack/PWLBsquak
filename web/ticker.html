@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>PWLB Squawk</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='3' fill='%230b5fff'/%3E%3Cpath d='M3 10l3-4 3 3 4-5' stroke='white' stroke-width='2' fill='none'/%3E%3C/svg%3E">
-<meta name="description" content="Demo ticker for the pwlbsquawk feed: reads data/squawks.json and shows the latest squawks on UK rates and PWLB borrowing.">
+<meta name="description" content="Demo ticker for the pwlbsquawk feed: reads data/squawks.json and shows the latest UK rates squawks.">
 <style>
   :root {
     --bg: #f6f7f9; --panel: #ffffff; --text: #16202a; --muted: #5d6b7a; --line: #e3e7ec;
@@ -131,7 +131,7 @@
             <span class="cat ${esc(s.category)}">${LABELS[s.category] || esc(s.category)}</span>
             <time datetime="${esc(s.ts)}" title="${esc(s.ts)}">${ago(s.ts)}</time></div>
           <h2>${esc(s.headline)}</h2>
-          <p>${esc(s.la_angle)}</p>
+          <p>${esc(s.detail)}</p>
           ${srcs ? `<div class="sources">via ${srcs}</div>` : ''}
         </article>`;
       }).join('');

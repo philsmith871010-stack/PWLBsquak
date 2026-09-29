@@ -11,7 +11,7 @@ def _sq(i, base):
         id=f"s{i:03d}",
         ts=base + dt.timedelta(minutes=i),
         headline=f"headline {i}",
-        la_angle="a",
+        detail="a",
         category="fiscal",
         importance=1,
         source_event_ids=["e"],

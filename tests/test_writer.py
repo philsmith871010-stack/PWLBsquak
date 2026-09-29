@@ -69,7 +69,7 @@ def test_mock_writer_pass_end_to_end(store, tmp_path):
         "id",
         "ts",
         "headline",
-        "la_angle",
+        "detail",
         "category",
         "importance",
         "source_event_ids",
@@ -146,7 +146,7 @@ def test_anthropic_backend_request_shape_and_usage():
             {
                 "ts": "2026-09-28T09:00:00Z",
                 "headline": "h",
-                "la_angle": "a",
+                "detail": "a",
                 "category": "boe",
                 "importance": 3,
                 "source_event_ids": ["x"],
@@ -210,7 +210,7 @@ def test_writer_drops_invalid_and_unknown_source_ids(store, tmp_path):
                     {
                         "ts": "2026-09-28T09:00:00Z",
                         "headline": "Valid squawk on Bank Rate",
-                        "la_angle": "x",
+                        "detail": "x",
                         "category": "boe",
                         "importance": 3,
                         "source_event_ids": [e1.id, "not-an-id"],
@@ -218,7 +218,7 @@ def test_writer_drops_invalid_and_unknown_source_ids(store, tmp_path):
                     {
                         "ts": "2026-09-28T09:00:00Z",
                         "headline": "Unknown ids only",
-                        "la_angle": "x",
+                        "detail": "x",
                         "category": "boe",
                         "importance": 3,
                         "source_event_ids": ["nope"],
@@ -226,7 +226,7 @@ def test_writer_drops_invalid_and_unknown_source_ids(store, tmp_path):
                     {
                         "ts": "bad-ts",
                         "headline": "Long " * 40,
-                        "la_angle": "x",
+                        "detail": "x",
                         "category": "data",
                         "importance": 2,
                         "source_event_ids": [e1.id],
@@ -275,12 +275,12 @@ def test_stale_events_are_skipped_without_a_call(store, tmp_path):
         ('{"material": false}', False, 0),
         ('{"material": false, "squawks": []}', False, 0),
         (
-            '[{"ts": null, "headline": "h", "la_angle": "a", "category": "data", "importance": 1, "source_event_ids": ["e"]}]',
+            '[{"ts": null, "headline": "h", "detail": "a", "category": "data", "importance": 1, "source_event_ids": ["e"]}]',
             True,
             1,
         ),
         (
-            '```json\n{"material": true, "squawks": [{"ts": null, "headline": "h", "la_angle": "a", "category": "data", "importance": 1, "source_event_ids": ["e"]}]}\n```',
+            '```json\n{"material": true, "squawks": [{"ts": null, "headline": "h", "detail": "a", "category": "data", "importance": 1, "source_event_ids": ["e"]}]}\n```',
             True,
             1,
         ),

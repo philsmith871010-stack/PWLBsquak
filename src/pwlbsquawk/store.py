@@ -42,7 +42,7 @@ CREATE TABLE IF NOT EXISTS squawks (
     id               TEXT PRIMARY KEY,
     ts               TEXT NOT NULL,
     headline         TEXT NOT NULL,
-    la_angle         TEXT NOT NULL,
+    detail         TEXT NOT NULL,
     category         TEXT NOT NULL,
     importance       INTEGER NOT NULL,
     source_event_ids TEXT NOT NULL,
@@ -121,7 +121,7 @@ def _row_to_squawk(row: sqlite3.Row) -> Squawk:
         id=row["id"],
         ts=row["ts"],
         headline=row["headline"],
-        la_angle=row["la_angle"],
+        detail=row["detail"],
         category=row["category"],
         importance=row["importance"],
         source_event_ids=json.loads(row["source_event_ids"]),
@@ -145,7 +145,14 @@ class Store:
         if self.path != ":memory:":
             self._execute("PRAGMA journal_mode=WAL")
         self._execute("PRAGMA foreign_keys=ON")
+        self._migrate()
         self.conn.executescript(SCHEMA)
+
+    def _migrate(self) -> None:
+        """Rename the pre-blotter `la_angle` column on databases created before the change."""
+        cols = [r[1] for r in self.conn.execute("PRAGMA table_info(squawks)").fetchall()]
+        if "la_angle" in cols and "detail" not in cols:
+            self.conn.execute("ALTER TABLE squawks RENAME COLUMN la_angle TO detail")
 
     def close(self) -> None:
         with self.lock:
@@ -283,13 +290,13 @@ class Store:
         n = 0
         for s in squawks:
             self._execute(
-                "INSERT OR IGNORE INTO squawks (id, ts, headline, la_angle, category, importance, "
+                "INSERT OR IGNORE INTO squawks (id, ts, headline, detail, category, importance, "
                 "source_event_ids, sources_json, model, run_id, created_at) VALUES (?,?,?,?,?,?,?,?,?,?,?)",
                 (
                     s.id,
                     to_iso(s.ts),
                     s.headline,
-                    s.la_angle,
+                    s.detail,
                     s.category.value,
                     s.importance,
                     json.dumps(s.source_event_ids),

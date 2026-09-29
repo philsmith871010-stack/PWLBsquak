@@ -1,8 +1,8 @@
 # pwlbsquawk
 
 Prototype live squawk feed for [PWLBtoday](https://pwlbtoday.com): curated Bluesky posts
-plus market data go in, short original squawks on what each event means for UK rates and
-PWLB borrowing come out. Outputs are two files (`data/squawks.json`, `data/squawks.ndjson`)
+plus market data go in, short factual squawks on UK rates and gilt market events come out.
+It is a blotter of facts: no interpretation, no advice, no forecasts. Outputs are two files (`data/squawks.json`, `data/squawks.ndjson`)
 and a demo ticker; the contract for integrating them into the site is in
 [`docs/INTEGRATION.md`](docs/INTEGRATION.md).
 

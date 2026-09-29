@@ -7,7 +7,7 @@ import hashlib
 from enum import StrEnum
 from typing import Any
 
-from pydantic import BaseModel, ConfigDict, Field, field_validator
+from pydantic import AliasChoices, BaseModel, ConfigDict, Field, field_validator
 
 HEADLINE_MAX = 140
 
@@ -147,12 +147,12 @@ class SquawkDraft(BaseModel):
 
     ts: str | None = None
     headline: str = Field(min_length=1, max_length=HEADLINE_MAX)
-    la_angle: str = Field(min_length=1)
+    detail: str = Field(min_length=1)
     category: Category
     importance: int = Field(ge=1, le=3)
     source_event_ids: list[str] = Field(min_length=1)
 
-    @field_validator("headline", "la_angle", mode="before")
+    @field_validator("headline", "detail", mode="before")
     @classmethod
     def _strip(cls, v: Any) -> Any:
         return v.strip() if isinstance(v, str) else v
@@ -178,12 +178,12 @@ class SquawkSource(BaseModel):
 class Squawk(BaseModel):
     """A published squawk: the integration contract (see docs/INTEGRATION.md)."""
 
-    model_config = ConfigDict(extra="forbid")
+    model_config = ConfigDict(extra="forbid", populate_by_name=True)
 
     id: str
     ts: dt.datetime
     headline: str = Field(min_length=1, max_length=HEADLINE_MAX)
-    la_angle: str = Field(min_length=1)
+    detail: str = Field(min_length=1, validation_alias=AliasChoices("detail", "la_angle"))
     category: Category
     importance: int = Field(ge=1, le=3)
     source_event_ids: list[str]

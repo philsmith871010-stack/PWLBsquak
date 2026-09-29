@@ -103,7 +103,7 @@ pwlbsquawk/
 
 **Squawk** (`squawks` table, and the JSON outputs)
 
-`id, ts, headline (<=140), la_angle, category, importance (1-3), source_event_ids[], sources[] (handle + web link), model, run_id, created_at`
+`id, ts, headline (<=140), detail (facts only), category, importance (1-3), source_event_ids[], sources[] (handle + web link), model, run_id, created_at`
 
 **Run** (`runs` table): one row per writer call with token counts and estimated cost.
 

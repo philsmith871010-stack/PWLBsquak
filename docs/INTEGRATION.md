@@ -25,7 +25,7 @@ is told about recent headlines to avoid repeats instead).
       "id": "a1b2c3d4e5f6",
       "ts": "2026-09-28T10:31:00Z",
       "headline": "MPC holds Bank Rate at 4%; two members vote for a cut",
-      "la_angle": "Gilts are little changed, so PWLB certainty rates should open close to yesterday's levels; the split vote keeps a November cut in play.",
+      "detail": "The MPC voted 7-2 to keep Bank Rate at 4%, with two members preferring a 25bp cut; gilt yields were reported little changed after the decision.",
       "category": "boe",
       "importance": 3,
       "source_event_ids": ["1f2e3d4c5b6a7980"],
@@ -47,7 +47,7 @@ is told about recent headlines to avoid repeats instead).
 | `id` | string | stable, unique (12 hex chars) |
 | `ts` | ISO 8601 UTC (`Z`) | time of the underlying event (post or market move) |
 | `headline` | string, 1-140 chars | UK English, present tense, no hashtags/emojis |
-| `la_angle` | string | 1-2 sentences: impact on gilt yields and PWLB borrowing |
+| `detail` | string | 1-2 factual sentences: source, figures, timing, reported reaction; no interpretation |
 | `category` | enum | `boe`, `data`, `fiscal`, `supply`, `geopolitics`, `energy`, `global_rates` |
 | `importance` | integer 1-3 | 3 = moves PWLB rates now / rate decision / key data print; 2 = notable; 1 = colour |
 | `source_event_ids` | string[] | ids in the `events` table; at least one |
@@ -61,13 +61,13 @@ JSON schema (draft 2020-12) for the squawk object, if you want to validate:
 ```json
 {
   "type": "object",
-  "required": ["id", "ts", "headline", "la_angle", "category", "importance", "source_event_ids", "sources", "model", "run_id", "created_at"],
+  "required": ["id", "ts", "headline", "detail", "category", "importance", "source_event_ids", "sources", "model", "run_id", "created_at"],
   "additionalProperties": false,
   "properties": {
     "id": {"type": "string"},
     "ts": {"type": "string", "format": "date-time"},
     "headline": {"type": "string", "minLength": 1, "maxLength": 140},
-    "la_angle": {"type": "string", "minLength": 1},
+    "detail": {"type": "string", "minLength": 1},
     "category": {"enum": ["boe", "data", "fiscal", "supply", "geopolitics", "energy", "global_rates"]},
     "importance": {"type": "integer", "minimum": 1, "maximum": 3},
     "source_event_ids": {"type": "array", "items": {"type": "string"}, "minItems": 1},

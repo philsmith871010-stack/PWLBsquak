@@ -18,7 +18,7 @@ def test_material_with_valid_squawk():
             {
                 "ts": "2026-09-28T09:00:00Z",
                 "headline": "Bank Rate held at 4%; MPC signals gradual cuts",
-                "la_angle": "PWLB certainty rates track gilts, so a steady Bank Rate keeps borrowing costs range-bound for now.",
+                "detail": "PWLB certainty rates track gilts, so a steady Bank Rate keeps borrowing costs range-bound for now.",
                 "category": "boe",
                 "importance": 3,
                 "source_event_ids": ["abc123"],
@@ -34,25 +34,25 @@ def test_material_with_valid_squawk():
     [
         {
             "headline": "x" * 141,
-            "la_angle": "y",
+            "detail": "y",
             "category": "boe",
             "importance": 2,
             "source_event_ids": ["a"],
         },
         {
             "headline": "ok",
-            "la_angle": "y",
+            "detail": "y",
             "category": "equities",
             "importance": 2,
             "source_event_ids": ["a"],
         },
-        {"headline": "ok", "la_angle": "y", "category": "boe", "importance": 4, "source_event_ids": ["a"]},
-        {"headline": "ok", "la_angle": "y", "category": "boe", "importance": 0, "source_event_ids": ["a"]},
-        {"headline": "ok", "la_angle": "y", "category": "boe", "importance": 2, "source_event_ids": []},
-        {"headline": "", "la_angle": "y", "category": "boe", "importance": 2, "source_event_ids": ["a"]},
+        {"headline": "ok", "detail": "y", "category": "boe", "importance": 4, "source_event_ids": ["a"]},
+        {"headline": "ok", "detail": "y", "category": "boe", "importance": 0, "source_event_ids": ["a"]},
+        {"headline": "ok", "detail": "y", "category": "boe", "importance": 2, "source_event_ids": []},
+        {"headline": "", "detail": "y", "category": "boe", "importance": 2, "source_event_ids": ["a"]},
         {
             "headline": "ok",
-            "la_angle": "y",
+            "detail": "y",
             "category": "boe",
             "importance": 2,
             "source_event_ids": ["a"],
@@ -75,7 +75,7 @@ def test_invalid_squawk_rejected(bad):
 
 
 def test_headline_exactly_140_ok():
-    d = SquawkDraft(headline="h" * 140, la_angle="a", category="data", importance=1, source_event_ids=["a"])
+    d = SquawkDraft(headline="h" * 140, detail="a", category="data", importance=1, source_event_ids=["a"])
     assert len(d.headline) == 140
 
 
@@ -84,7 +84,7 @@ def test_public_dict_is_json_serialisable_with_z_timestamps():
         id="sq1",
         ts="2026-09-28T09:00:00+00:00",
         headline="h",
-        la_angle="a",
+        detail="a",
         category="fiscal",
         importance=2,
         source_event_ids=["e1"],

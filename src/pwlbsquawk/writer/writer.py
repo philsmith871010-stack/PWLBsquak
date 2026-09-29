@@ -153,7 +153,7 @@ class SquawkWriter:
                     id=sid,
                     ts=ts,
                     headline=draft.headline,
-                    la_angle=draft.la_angle,
+                    detail=draft.detail,
                     category=draft.category,
                     importance=draft.importance,
                     source_event_ids=ids,

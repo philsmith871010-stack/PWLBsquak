@@ -19,9 +19,9 @@ SQUAWK_ITEM_SCHEMA: dict = {
             "type": "string",
             "description": "At most 140 characters. Present tense, UK English, your own words.",
         },
-        "la_angle": {
+        "detail": {
             "type": "string",
-            "description": "One or two sentences on the impact for gilt yields and PWLB borrowing.",
+            "description": "One or two factual sentences: source, figures, timing, reported reaction.",
         },
         "category": {"type": "string", "enum": [c.value for c in Category]},
         "importance": {"type": "integer", "enum": [1, 2, 3]},
@@ -31,7 +31,7 @@ SQUAWK_ITEM_SCHEMA: dict = {
             "description": "Ids of the input events this squawk is based on (at least one).",
         },
     },
-    "required": ["ts", "headline", "la_angle", "category", "importance", "source_event_ids"],
+    "required": ["ts", "headline", "detail", "category", "importance", "source_event_ids"],
     "additionalProperties": False,
 }
 
@@ -40,7 +40,7 @@ WRITER_OUTPUT_SCHEMA: dict = {
     "properties": {
         "material": {
             "type": "boolean",
-            "description": "false when nothing in the batch matters for UK rates or PWLB borrowing",
+            "description": "false when nothing in the batch is a material fact for UK rates or gilts",
         },
         "squawks": {"type": "array", "items": SQUAWK_ITEM_SCHEMA},
     },

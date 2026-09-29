@@ -47,6 +47,6 @@ def build_user_message(
     }
     body = json.dumps(payload, ensure_ascii=False, indent=1)
     return (
-        "Here is the latest batch. Decide whether anything is material for UK rates and PWLB "
-        "borrowing and reply with JSON only.\n\n" + body
+        "Here is the latest batch. Decide whether anything is a material fact for UK rates and "
+        "the gilt market and reply with JSON only.\n\n" + body
     )
