@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T13:51:02Z",
- "count": 114,
+ "generated_at": "2026-09-29T13:55:58Z",
+ "count": 115,
  "squawks": [
+  {
+   "id": "3c0dec1b63e5",
+   "ts": "2026-09-29T13:51:22Z",
+   "headline": "US 30-year Treasury yield rises to 5.587%, its highest level since May 2004",
+   "detail": "A market newswire reported the US 30-year Treasury yield at 5.587% on 29 September, its highest since May 2004. At the same time the UK 30-year gilt yield stood at 5.307% and the 10-year at 4.578%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c1ab7e103ba8bd9a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnxx7z5vu2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnxx7z5vu2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d6dda9706cd9",
+   "created_at": "2026-09-29T13:55:58Z"
+  },
   {
    "id": "e1a2dd367a57",
    "ts": "2026-09-29T13:47:36Z",
