@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T15:35:51Z",
- "count": 145,
+ "generated_at": "2026-09-29T15:41:01Z",
+ "count": 146,
  "squawks": [
+  {
+   "id": "ff00bff40bbf",
+   "ts": "2026-09-29T15:37:36Z",
+   "headline": "US 30-year Treasury yield extends rise to 5.612%, highest since June 2002",
+   "detail": "The US 30-year Treasury yield reached 5.612%, above the 5.595% reported earlier in the session, according to a market post. The 10-year gilt yield stood at 4.578% and the 30-year gilt yield at 5.307% in the latest snapshot.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "675525b46295e514"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5v6jfvu2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5v6jfvu2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "95e16b875c02",
+   "created_at": "2026-09-29T15:41:01Z"
+  },
   {
    "id": "c82ed33db049",
    "ts": "2026-09-29T15:32:59Z",
