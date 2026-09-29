@@ -13,9 +13,9 @@
 #   PAGES_REPO_TOKEN         - fine-grained personal access token, Contents: read/write
 name: squawk
 
+# Triggered externally (a scheduler calling `gh workflow run` / the API), so there is no
+# `schedule:` here: GitHub's own cron would double-run the job against the same branch.
 on:
-  schedule:
-    - cron: "*/15 6-20 * * 1-5"   # every 15 min, 06:00-20:59 UTC, Mon-Fri (often delayed a few min under load)
   workflow_dispatch:
 
 permissions:
