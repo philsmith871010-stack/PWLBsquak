@@ -1,8 +1,119 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T17:31:16Z",
- "count": 176,
+ "generated_at": "2026-09-29T17:35:50Z",
+ "count": 179,
  "squawks": [
+  {
+   "id": "45713ae3ba23",
+   "ts": "2026-09-29T17:35:07Z",
+   "headline": "UK PM Burnham's social care plan would scrap the pensions triple lock to fund free care in England",
+   "detail": "The Financial Times reports that the Prime Minister's plan would end the triple lock on state pensions. The savings would pay for social care in England that is free at the point of use.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "452bf13fd2936034"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwoehcncdp2t",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwoehcncdp2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d2f200154ef5",
+   "created_at": "2026-09-29T17:35:50Z"
+  },
+  {
+   "id": "cc567769536a",
+   "ts": "2026-09-29T17:35:04Z",
+   "headline": "White House presses EU to release emergency diesel stocks to bring down global fuel prices, sources say",
+   "detail": "Reuters, citing two sources, reports that the White House has asked the EU to draw down its emergency diesel inventories. The request is one of several options the Trump administration is pursuing to ease fuel costs before November's midterm elections.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "f50e67d97ed7311b"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwoeha523t2z",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwoeha523t2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d2f200154ef5",
+   "created_at": "2026-09-29T17:35:50Z"
+  },
+  {
+   "id": "7414f2110221",
+   "ts": "2026-09-29T17:31:16Z",
+   "headline": "Fed's Musalem says the Fed should explain its policy framework but its framework does not promise a set rate path",
+   "detail": "St Louis Fed President Musalem said central banks should tell the public how and why they make policy decisions. He said a framework that is understood brings private expectations into line with the Fed's aims, and that stepping back from communication altogether would pose inflation risks.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "40a8d94214be5840",
+    "3408bfd593d56423",
+    "ab85ee0508f02795",
+    "dbee629eef203cdc",
+    "87b2068849774ec2",
+    "da22b08176693ba0",
+    "772be930c83b87fa",
+    "3bef75dd3ce79c51",
+    "190682266c91ddcf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoeag73rm2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoeag73rm2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoebdksox27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoebdksox27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoecatz5j2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoecatz5j2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoeckqtob26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoeckqtob26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoecpfbzv2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoecpfbzv2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoedrckgo2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoedrckgo2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoeduo3jk27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoeduo3jk27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoeebzi6k22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoeebzi6k22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoeeygr6j2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoeeygr6j2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d2f200154ef5",
+   "created_at": "2026-09-29T17:35:50Z"
+  },
   {
    "id": "77abd566e41e",
    "ts": "2026-09-29T17:29:06Z",
