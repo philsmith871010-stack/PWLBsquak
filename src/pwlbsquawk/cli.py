@@ -100,7 +100,7 @@ def build_parser() -> argparse.ArgumentParser:
     sp.add_argument(
         "--stale-after-hours",
         type=float,
-        help="write events up to this old (SQUAWK_WRITER_STALE_AFTER_HOURS, default 12); raise it to backfill",
+        help="write events up to this old (SQUAWK_WRITER_STALE_AFTER_HOURS, default 12); raise to backfill",
     )
 
     sp = sub.add_parser("run", help="listener + market monitor + writer loop (local service)")
