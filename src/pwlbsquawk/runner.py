@@ -13,6 +13,7 @@ from .accounts import resolve_missing_dids
 from .config import Accounts, Settings
 from .eventmode import EventMode
 from .models import Event, utcnow
+from .outputs import write_squawks_json
 from .recording import Recorder
 from .sources.bluesky_poll import BlueskyPoller
 from .sources.jetstream import JetstreamListener
@@ -222,6 +223,10 @@ class Runner:
             self.accounts = resolve_missing_dids(self.accounts, self.settings.bsky_api)
             if not self.accounts.active:
                 raise RuntimeError("no active accounts with DIDs; check config/accounts.yaml")
+        if self.writer is not None and not self.settings.squawks_json_path.exists():
+            write_squawks_json(
+                self.settings.squawks_json_path, self.store.latest_squawks(self.settings.squawks_json_limit)
+            )
         loop = asyncio.get_running_loop()
         for sig in (signal.SIGINT, signal.SIGTERM):
             with contextlib.suppress(NotImplementedError, RuntimeError):

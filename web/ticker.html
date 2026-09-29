@@ -122,7 +122,7 @@
   function render() {
     const list = document.getElementById('list');
     const shown = squawks.filter(s => active.has(s.category));
-    if (!shown.length) { list.innerHTML = '<div class="empty">No squawks yet. Run <code>squawk run</code> or <code>squawk write</code>.</div>'; }
+    if (!shown.length) { list.innerHTML = '<div class="empty">No squawks yet. Most batches are not material; the first one appears when the writer finds something that moves UK rates. To preview with a replay, add <code>?src=../data/replay/&lt;name&gt;/squawks.json</code> to the address.</div>'; }
     else {
       list.innerHTML = shown.map(s => {
         const srcs = (s.sources || []).map(x => x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">@${esc(x.author)}</a>` : `@${esc(x.author)}`).join(' · ');
@@ -145,6 +145,12 @@
     const status = document.getElementById('status');
     try {
       const r = await fetch(SRC + (SRC.includes('?') ? '&' : '?') + 't=' + Date.now(), { cache: 'no-store' });
+      if (r.status === 404) {
+        squawks = [];
+        status.textContent = 'waiting for the first squawk (no squawks.json yet) · next refresh in 60s';
+        render();
+        return;
+      }
       if (!r.ok) throw new Error('HTTP ' + r.status);
       const doc = await r.json();
       squawks = Array.isArray(doc) ? doc : (doc.squawks || []);
