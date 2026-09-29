@@ -153,7 +153,17 @@
   color: inherit; background: none; border: 0; padding: 2px 4px;
   border-radius: 5px; cursor: pointer; white-space: nowrap;
 }
-.item:hover, .item:focus-visible { background: var(--strip-hover); outline: none; text-decoration: underline; text-underline-offset: 3px; }
+.item .hl {
+  text-decoration: underline; text-decoration-style: dotted; text-underline-offset: 4px;
+  text-decoration-color: color-mix(in srgb, currentColor 40%, transparent);
+  transition: text-decoration-color .12s ease, color .12s ease;
+}
+.item:hover, .item:focus-visible { background: var(--strip-hover); outline: none; }
+.item:hover .hl, .item:focus-visible .hl {
+  text-decoration-style: solid; text-decoration-color: currentColor;
+}
+.item .go { opacity: 0; margin-left: -4px; transition: opacity .12s ease, transform .12s ease; transform: translateX(-2px); }
+.item:hover .go, .item:focus-visible .go { opacity: .8; transform: translateX(0); }
 .item .mark { font-size: 10px; }
 .item .mark.i3 { color: var(--imp3); } .item .mark.i2 { color: var(--imp2); } .item .mark.i1 { color: var(--imp1); }
 .item .at { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 12px; }
@@ -327,7 +337,7 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
       openBtn.hidden = false;
       openBtn.setAttribute('aria-label',
         today.length ? 'Open today\u2019s squawks (' + today.length + ')' : 'Open the squawk blotter');
-      openBtn.querySelector('.txt').textContent = today.length ? 'Today \u00b7 ' + today.length : 'Blotter';
+      openBtn.querySelector('.txt').textContent = today.length ? 'Read all \u00b7 ' + today.length : 'Blotter';
 
       if (!today.length) {
         track.style.animation = 'none';
@@ -339,10 +349,12 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
       // Rendered twice so the loop is seamless: the animation travels exactly half the track.
       var shown = today.slice(0, STRIP_MAX);
       var once = shown.map(function (s) {
-        return '<button class="item" type="button" tabindex="-1" data-id="' + esc(s.id) + '">' +
+        return '<button class="item" type="button" tabindex="-1" title="Read this squawk"' +
+          ' data-id="' + esc(s.id) + '">' +
           '<span class="mark i' + s.importance + '">' + impMark(s.importance) + '</span>' +
           '<span class="at">' + esc(timeFmt.format(new Date(s.ts))) + '</span>' +
-          '<span>' + esc(s.headline) + '</span></button>';
+          '<span class="hl">' + esc(s.headline) + '</span>' +
+          '<span class="go" aria-hidden="true">\u203a</span></button>';
       }).join('');
       var rest = today.length - shown.length;
       if (rest > 0) {
@@ -419,6 +431,7 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
       renderModal();
       if (typeof dlg.showModal === 'function') { if (!dlg.open) dlg.showModal(); }
       else { dlg.setAttribute('open', ''); }
+      strip.classList.add('paused');   // hold the tape where the reader left it
       body.scrollTop = 0;
       if (focusId) {
         var el = body.querySelector('[data-id="' + cssEscape(focusId) + '"]');
@@ -442,6 +455,15 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
       if (btn) openModal(btn.dataset.id || null);
     });
     root.querySelector('.close').addEventListener('click', function () { dlg.close(); });
+    // The browser returns focus to whatever opened the dialog. When that is a strip item it
+    // sits inside .viewport, and :focus-within would keep the marquee paused for good, so
+    // park focus on the button instead: still visible, still keyboard-sane, outside the tape.
+    dlg.addEventListener('close', function () {
+      strip.classList.remove('paused');
+      var a = root.activeElement;
+      if (a && a.closest && a.closest('.viewport')) a.blur();
+      openBtn.focus({ preventScroll: true });
+    });
     // Clicking the backdrop closes: the dialog element itself is the backdrop hit area.
     dlg.addEventListener('click', function (e) { if (e.target === dlg) dlg.close(); });
 
