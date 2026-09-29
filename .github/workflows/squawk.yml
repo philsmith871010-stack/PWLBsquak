@@ -5,6 +5,10 @@
 #   ANTHROPIC_API_KEY        - Claude API, pay per token
 #   CLAUDE_CODE_OAUTH_TOKEN  - Claude subscription via Claude Code (run `claude setup-token`
 #                              on your Mac and paste the token as this secret)
+# Optional, to publish the ticker from a PRIVATE runner repo to a PUBLIC Pages repo:
+#   PAGES_REPO_TOKEN         - fine-grained personal access token with Contents: read/write
+#                              on the public repo
+#   PAGES_REPO (variable)    - the public repo, e.g. philsmith871010-stack/pwlb-squawk-feed
 name: squawk
 
 on:
@@ -67,3 +71,24 @@ jobs:
           git commit -m "squawk: $(date -u +'%Y-%m-%d %H:%M') update"
           git pull --rebase
           git push
+
+      # Public Pages repo: only the ticker page and the two output files leave this repo.
+      - name: Build site
+        if: vars.PAGES_REPO != ''
+        run: |
+          rm -rf site && mkdir -p site/web site/data
+          cp index.html .nojekyll site/
+          cp web/ticker.html site/web/
+          cp data/squawks.json data/squawks.ndjson site/data/
+      - name: Publish to the public Pages repo
+        if: vars.PAGES_REPO != ''
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.PAGES_REPO_TOKEN }}
+          external_repository: ${{ vars.PAGES_REPO }}
+          publish_branch: main
+          publish_dir: ./site
+          user_name: squawk-bot
+          user_email: squawk-bot@users.noreply.github.com
+          commit_message: "squawk update"
+          force_orphan: true

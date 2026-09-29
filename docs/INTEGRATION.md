@@ -133,6 +133,23 @@ Setup, once:
    to, folder = `/ (root)`.
 3. Actions tab → "squawk" → Run workflow, to seed the first outputs.
 
+**Private code, public page.** GitHub Pages on a free plan needs a public repository. Keep
+this repo private (code, prompt, accounts, token) and publish only the page and the outputs
+to a second, public repo:
+
+1. Create an empty public repo, e.g. `pwlb-squawk-feed`, and turn on Pages for it
+   (Settings → Pages → Deploy from a branch → `main`, `/ (root)`).
+2. Create a fine-grained personal access token (GitHub → Settings → Developer settings →
+   Personal access tokens → Fine-grained) scoped to that one repo with **Contents:
+   read and write**. Add it to the private repo as the secret `PAGES_REPO_TOKEN`.
+3. In the private repo, Settings → Secrets and variables → Actions → **Variables**: add
+   `PAGES_REPO` = `owner/pwlb-squawk-feed`.
+
+Every run then overwrites the public repo with `index.html`, `web/ticker.html`,
+`data/squawks.json` and `data/squawks.ndjson` (history is kept in the private repo; the
+public repo is a single-commit snapshot). The ticker is at
+`https://<owner>.github.io/pwlb-squawk-feed/`.
+
 Notes: GitHub delays scheduled runs by a few minutes under load; a 5-minute cron on a
 private repository uses about 6 hours of Actions minutes a day (the free allowance is 2,000
 minutes a month), so use `*/15` there or make the repo public. There is no event mode or
