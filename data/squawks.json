@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T14:31:22Z",
- "count": 127,
+ "generated_at": "2026-09-29T14:35:45Z",
+ "count": 128,
  "squawks": [
+  {
+   "id": "7b373afcc6a2",
+   "ts": "2026-09-29T14:35:02Z",
+   "headline": "US single-family house prices rise in July, according to the FHFA",
+   "detail": "The US Federal Housing Finance Agency reports that single-family home prices increased in July, as higher mortgage rates add to affordability pressures. The report does not give a figure for the rise.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "359ea63b94da1d97"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwo2fcror62e",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwo2fcror62e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "129575958105",
+   "created_at": "2026-09-29T14:35:45Z"
+  },
   {
    "id": "02c6b2fa7f75",
    "ts": "2026-09-29T14:28:11Z",
