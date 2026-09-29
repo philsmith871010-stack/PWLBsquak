@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T16:20:57Z",
- "count": 158,
+ "generated_at": "2026-09-29T16:25:51Z",
+ "count": 160,
  "squawks": [
+  {
+   "id": "b12ec63e57b4",
+   "ts": "2026-09-29T16:25:01Z",
+   "headline": "White House urges EU to release emergency diesel inventories to bring down global prices, sources say",
+   "detail": "Sources say the White House has asked the European Union to draw down its emergency diesel stocks to lower global prices. This follows the US offer of up to 40 million barrels of oil from its Strategic Petroleum Reserve.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "c20d63f1a782b8ff",
+    "4eb8192815b8bf8a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoajy7vvu27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoajy7vvu27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoak37x2727",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoak37x2727"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0604c7284971",
+   "created_at": "2026-09-29T16:25:51Z"
+  },
+  {
+   "id": "ceb0349e6834",
+   "ts": "2026-09-29T16:21:54Z",
+   "headline": "BoE's Taylor questions whether OIS rates clearly signal market expectations for Bank Rate",
+   "detail": "MPC member Alan Taylor said he is not convinced that OIS rates give a clear read of what markets expect for Bank Rate, and that he is not a fan of using them that way. At the time, the market snapshot showed 1y SONIA OIS at 3.661% and SONIA at 3.949%.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "79de359856642802"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoaeff2gb2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoaeff2gb2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0604c7284971",
+   "created_at": "2026-09-29T16:25:51Z"
+  },
   {
    "id": "f00acba60f83",
    "ts": "2026-09-29T16:20:32Z",
