@@ -1,8 +1,137 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T13:25:50Z",
- "count": 100,
+ "generated_at": "2026-09-29T13:31:16Z",
+ "count": 105,
  "squawks": [
+  {
+   "id": "a3c8a29e1cc1",
+   "ts": "2026-09-29T13:12:59Z",
+   "headline": "Lithuania's prime minister says the country is ready to pay for a permanent US troop deployment",
+   "detail": "Lithuania's prime minister said the country is willing to meet the cost of permanently stationing US forces there.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "cb214626242083b9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnvsm2bf52c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnvsm2bf52c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a6cfb440678b",
+   "created_at": "2026-09-29T13:31:16Z"
+  },
+  {
+   "id": "94a7b4ec5eab",
+   "ts": "2026-09-29T13:07:19Z",
+   "headline": "EU plans no talks to renegotiate Ukraine's export quotas, reports say",
+   "detail": "According to reports, the EU has no plans to reopen negotiations on export quotas for Ukrainian goods.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6418c89a57adf67d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnvih552v27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnvih552v27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a6cfb440678b",
+   "created_at": "2026-09-29T13:31:16Z"
+  },
+  {
+   "id": "dcbbd3f45c1c",
+   "ts": "2026-09-29T13:01:06Z",
+   "headline": "US house prices rise faster than expected in July, with FHFA up 0.3% on the month and Case-Shiller 20 up 2.47% on the year",
+   "detail": "The FHFA house price index rose 0.3% month on month in July, against forecasts of 0.1% and 0.0% previously, and was up 2.6% on the year. The Case-Shiller 20-city index rose 2.47% year on year, against forecasts of 2.2% and 2.1% previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "96303524962072bd",
+    "1f369b434451555a",
+    "ceb5056c07323464",
+    "2fe8a764bf47a012",
+    "237c342d6e743229"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnv53jx7b2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnv53jx7b2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnv55rt3n2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnv55rt3n2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnv5alsdj2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnv5alsdj2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnv5daml327",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnv5daml327"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnvayrrqt2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnvayrrqt2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a6cfb440678b",
+   "created_at": "2026-09-29T13:31:16Z"
+  },
+  {
+   "id": "fbdc8807216a",
+   "ts": "2026-09-29T12:59:05Z",
+   "headline": "Markets price a 70% chance of a Fed hike on 28 October and 100bp of hikes by end-2027",
+   "detail": "An economist's note puts market odds of a Federal Reserve rate rise at the 28 October meeting at 70%, with 100bp of tightening priced by the end of 2027.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "76480642e171fd7c"
+   ],
+   "sources": [
+    {
+     "author": "robin-j-brooks.bsky.social",
+     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3mwnuzpxuvc2e",
+     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3mwnuzpxuvc2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a6cfb440678b",
+   "created_at": "2026-09-29T13:31:16Z"
+  },
+  {
+   "id": "ca5ca17642f3",
+   "ts": "2026-09-29T12:41:49Z",
+   "headline": "Saudi oil exports are back near 6 mb/d, their pre-war level, but at much higher prices",
+   "detail": "An economist's note says Saudi Arabian crude exports have returned to about 6 million barrels a day, roughly where they were before the war, while prices are much higher and Iran remains under blockade.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "e4f2359e9d550697"
+   ],
+   "sources": [
+    {
+     "author": "robin-j-brooks.bsky.social",
+     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3mwnu2tqfps2e",
+     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3mwnu2tqfps2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a6cfb440678b",
+   "created_at": "2026-09-29T13:31:16Z"
+  },
   {
    "id": "c16318881783",
    "ts": "2026-09-29T12:02:50Z",
