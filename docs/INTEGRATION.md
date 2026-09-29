@@ -117,7 +117,7 @@ lost, and the next poll backfills `SQUAWK_POLL_BACKFILL_HOURS`).
 
 ### GitHub Actions + GitHub Pages (the hosted setup)
 
-`.github/workflows/squawk.yml` runs poll + write every 5 minutes on weekdays 06:00-20:59
+`.github/workflows/squawk.yml` runs poll + write every 15 minutes on weekdays 06:00-20:59
 UTC, keeps the SQLite file in the Actions cache, and commits `data/squawks.json` and
 `data/squawks.ndjson` back to the branch. With GitHub Pages set to serve that branch's root,
 the ticker is at `https://<owner>.github.io/<repo>/` (the root `index.html` redirects to
