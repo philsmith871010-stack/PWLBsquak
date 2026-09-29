@@ -309,6 +309,16 @@ class Store:
             n += 1
         return n
 
+    def prune_squawks_not_in(self, keep_ids: Iterable[str]) -> int:
+        """Drop squawks the committed history no longer contains, so a cached database
+        cannot keep republishing rows that were removed from squawks.ndjson."""
+        keep = set(keep_ids)
+        have = {r["id"] for r in self._execute("SELECT id FROM squawks").fetchall()}
+        gone = have - keep
+        for sid in gone:
+            self._execute("DELETE FROM squawks WHERE id = ?", (sid,))
+        return len(gone)
+
     def count_squawks(self) -> int:
         return int(self._execute("SELECT COUNT(*) FROM squawks").fetchone()[0])
 
