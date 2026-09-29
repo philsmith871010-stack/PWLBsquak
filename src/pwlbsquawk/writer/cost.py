@@ -67,9 +67,10 @@ def estimate_cost(model: str, usage: Usage) -> float:
     return round(usd, 6)
 
 
-def format_usage(model: str, usage: Usage) -> str:
+def format_usage(model: str, usage: Usage, *, cost_usd: float | None = None, note: str = "") -> str:
+    cost = cost_usd if cost_usd is not None else estimate_cost(model, usage)
     return (
         f"model={model} in={usage.input_tokens} out={usage.output_tokens} "
         f"cache_read={usage.cache_read_tokens} cache_write={usage.cache_write_tokens} "
-        f"est_cost=${estimate_cost(model, usage):.4f}"
+        f"cost=${cost:.4f}{note}"
     )

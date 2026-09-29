@@ -388,3 +388,18 @@ def test_claude_cli_backend_strips_api_key_from_subprocess(tmp_path, monkeypatch
     fake.chmod(0o755)
     res = ClaudeCliBackend(model="opus", command=str(fake)).complete("s", "u")
     assert res.text == "unset"
+
+
+def test_claude_cli_backend_retries_once_and_reports_cli_cost(tmp_path):
+    from pwlbsquawk.writer.backends import ClaudeCliBackend
+
+    fake = tmp_path / "claude"
+    marker = tmp_path / "first"
+    fake.write_text(
+        "#!/bin/sh\ncat >/dev/null\n"
+        f'if [ ! -f "{marker}" ]; then touch "{marker}"; exit 1; fi\n'
+        'echo \'{"is_error":false,"result":"{\\"material\\": false}","usage":{"input_tokens":5},"total_cost_usd":0.0123}\'\n'
+    )
+    fake.chmod(0o755)
+    res = ClaudeCliBackend(model="opus", command=str(fake)).complete("s", "u")
+    assert res.cost_usd == 0.0123 and marker.exists()

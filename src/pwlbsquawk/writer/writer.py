@@ -208,7 +208,9 @@ class SquawkWriter:
         try:
             reply = self.backend.complete(self.system_prompt, user)
             result.usage = reply.usage
-            result.cost_usd = estimate_cost(reply.model, reply.usage)
+            result.cost_usd = (
+                reply.cost_usd if reply.cost_usd is not None else estimate_cost(reply.model, reply.usage)
+            )
             material_flag, raw_squawks = parse_writer_output(reply.text)
         except (WriterError, ValueError) as exc:
             result.error = f"{type(exc).__name__}: {exc}"[:500]
@@ -239,7 +241,12 @@ class SquawkWriter:
             result.material,
             len(squawks),
             result.dropped,
-            format_usage(reply.model, reply.usage),
+            format_usage(
+                reply.model,
+                reply.usage,
+                cost_usd=result.cost_usd,
+                note=getattr(self.backend, "cost_note", ""),
+            ),
         )
         return result
 

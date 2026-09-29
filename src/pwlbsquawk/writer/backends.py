@@ -29,11 +29,13 @@ class BackendResult:
     model: str
     stop_reason: str
     request_id: str | None = None
+    cost_usd: float | None = None  # set when the backend reports its own figure
 
 
 class WriterBackend(Protocol):
     name: str
     model: str
+    cost_note: str  # appended to the cost in log lines, e.g. " (API-equivalent, not billed)"
 
     def complete(self, system: str, user: str) -> BackendResult: ...
 
@@ -47,6 +49,7 @@ class AnthropicBackend:
     """
 
     name = "anthropic"
+    cost_note = " (estimated)"
 
     def __init__(
         self,
@@ -127,11 +130,13 @@ class ClaudeCliBackend:
     `model` is a Claude Code model name (`opus`, `sonnet`), not an API model id."""
 
     name = "claude-cli"
+    cost_note = " (API-equivalent; billed to your subscription, not per call)"
 
-    def __init__(self, *, model: str, command: str = "claude", timeout: float = 300.0):
+    def __init__(self, *, model: str, command: str = "claude", timeout: float = 300.0, retries: int = 1):
         self.model = model
         self.command = command
         self.timeout = timeout
+        self.retries = retries
 
     def _args(self, system: str) -> list[str]:
         return [
@@ -152,6 +157,19 @@ class ClaudeCliBackend:
         ]
 
     def complete(self, system: str, user: str) -> BackendResult:
+        last: WriterError | None = None
+        for attempt in range(self.retries + 1):
+            try:
+                return self._complete_once(system, user)
+            except WriterError as exc:
+                last = exc
+                if attempt < self.retries and "exited" in str(exc):
+                    log.warning("%s; retrying once", exc)
+                    continue
+                raise
+        raise last  # pragma: no cover
+
+    def _complete_once(self, system: str, user: str) -> BackendResult:
         import os
         import subprocess
 
@@ -173,7 +191,8 @@ class ClaudeCliBackend:
         except subprocess.TimeoutExpired as exc:
             raise WriterError(f"{self.command} timed out after {self.timeout:.0f}s") from exc
         if proc.returncode != 0:
-            raise WriterError(f"{self.command} exited {proc.returncode}: {proc.stderr.strip()[:300]}")
+            detail = (proc.stderr.strip() or proc.stdout.strip())[:300]
+            raise WriterError(f"{self.command} exited {proc.returncode}: {detail or 'no output'}")
         try:
             payload = json.loads(proc.stdout)
         except json.JSONDecodeError as exc:
@@ -191,7 +210,15 @@ class ClaudeCliBackend:
             cache_read_tokens=int(u.get("cache_read_input_tokens") or 0),
             cache_write_tokens=int(u.get("cache_creation_input_tokens") or 0),
         )
-        return BackendResult(text, usage, self.model, "end_turn", payload.get("session_id"))
+        cost = payload.get("total_cost_usd")
+        return BackendResult(
+            text,
+            usage,
+            self.model,
+            "end_turn",
+            payload.get("session_id"),
+            cost_usd=float(cost) if cost is not None else None,
+        )
 
 
 # --- mock -------------------------------------------------------------------
@@ -251,6 +278,7 @@ class MockBackend:
     """
 
     name = "mock"
+    cost_note = " (mock estimate at Opus rates)"
 
     def __init__(self, model: str = "mock-writer", max_squawks: int = 6):
         self.model = model
