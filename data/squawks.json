@@ -1,8 +1,83 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T20:46:01Z",
+ "generated_at": "2026-09-29T20:50:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4f6e4049fe50",
+   "ts": "2026-09-29T20:50:05Z",
+   "headline": "Trump is set to announce a $54bn Alaska LNG plan, with funding reported to come from a South Korea investment deal",
+   "detail": "President Trump is due to set out a $54bn liquefied natural gas project in Alaska. People familiar with the plan say the money will come from an investment agreement with South Korea.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "242e42eefc26d7a5",
+    "3d2216ab2ac163ce"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwopdwwsrp26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwopdwwsrp26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwopeo2nac2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwopeo2nac2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "034764864edd",
+   "created_at": "2026-09-29T20:50:59Z"
+  },
+  {
+   "id": "ce7d12c955a8",
+   "ts": "2026-09-29T20:48:00Z",
+   "headline": "US 30-year Treasury yield hits its highest level since 2002 as inflation and borrowing concerns weigh",
+   "detail": "Treasury yields rose on concerns over persistent inflation, government spending and rising corporate borrowing, with the 30-year yield at its highest since 2002. The S&P 500 closed down 0.2%, the Dow down 0.3% and the Nasdaq 100 up 0.2%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "f6c240cd200df6a3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwopaaej4v2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwopaaej4v2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "034764864edd",
+   "created_at": "2026-09-29T20:50:59Z"
+  },
+  {
+   "id": "67ab5f81affa",
+   "ts": "2026-09-29T20:46:21Z",
+   "headline": "API data show US crude stocks up 1.019m barrels, against a forecast draw of 1.9m",
+   "detail": "The American Petroleum Institute reported a weekly US crude inventory build of 1.019m barrels, against a forecast 1.9m draw and a previous build of 1.786m. The gasoline and distillate figures were reported earlier.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "e2be431684d81cb0",
+    "df2ae54d92b21704"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwop5b76gd2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwop5b76gd2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwop633l2i2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwop633l2i2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "034764864edd",
+   "created_at": "2026-09-29T20:50:59Z"
+  },
   {
    "id": "63de190d8875",
    "ts": "2026-09-29T20:44:29Z",
@@ -6113,87 +6188,6 @@
    "model": "opus",
    "run_id": "24600f44ca25",
    "created_at": "2026-09-29T10:27:09Z"
-  },
-  {
-   "id": "605920565d73",
-   "ts": "2026-09-28T15:09:50Z",
-   "headline": "UK 10-year gilt yield rises to 5.441%, its highest level since July 2007",
-   "detail": "A market newswire reported on 28 September that the 10-year gilt yield had climbed to 5.441%, the highest since July 2007. The move came as the global bond sell-off continued.",
-   "category": "global_rates",
-   "importance": 3,
-   "source_event_ids": [
-    "e1d1b945c5eb6249"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwllum4qkk2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwllum4qkk2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ded5c93c70ec",
-   "created_at": "2026-09-29T10:27:00Z"
-  },
-  {
-   "id": "ef2ffe9ea469",
-   "ts": "2026-09-28T14:59:10Z",
-   "headline": "US 10-year Treasury yield climbs 10bp to 5.27%; 2-year hits 4.952%, highest since May 2024",
-   "detail": "Market newswires reported on 28 September that the US 10-year Treasury yield had risen by 10bp to 5.27%. The 2-year yield reached 4.952%, its highest since May 2024.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "24acfc714e29e2c6",
-    "b12c71335b8f6cbc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwllbjryzc2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwllbjryzc2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlmhcfn5d2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlmhcfn5d2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ded5c93c70ec",
-   "created_at": "2026-09-29T10:27:00Z"
-  },
-  {
-   "id": "536df460ae6e",
-   "ts": "2026-09-28T14:32:10Z",
-   "headline": "ECB's Lagarde puts rates at the upper end of the neutral range as traders cut October hike odds below 40%",
-   "detail": "ECB President Lagarde said euro area rates are at the upper end of the neutral range but that policy is not being set by reference to the neutral rate. Market pricing reported on 28 September showed less than a 40% chance of an ECB rate rise in October.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4c61da33e8275c8d",
-    "07152c4a2fd86b8a",
-    "fb148995b9cc7e1f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwljrayjcs2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwljrayjcs2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwljsuuksv22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwljsuuksv22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlj3qjdsl2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlj3qjdsl2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c6488fa58b5e",
-   "created_at": "2026-09-29T10:26:48Z"
   }
  ]
 }
