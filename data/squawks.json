@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T20:15:54Z",
+ "generated_at": "2026-09-29T20:31:12Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e5d2ec785ac3",
+   "ts": "2026-09-29T20:26:23Z",
+   "headline": "Grynspan reportedly leads fourth UN Security Council straw poll for next UN Secretary-General",
+   "detail": "Reports say Rebeca Grynspan won the most votes in the fourth straw poll to choose the next UN Secretary-General. The reports gave no vote counts.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4670cc06366b1988"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwonzkyj652r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwonzkyj652r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cd79c6006d53",
+   "created_at": "2026-09-29T20:31:12Z"
+  },
   {
    "id": "5ffb7fcdf292",
    "ts": "2026-09-29T20:15:42Z",
@@ -6210,99 +6231,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgu2hlag2t",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgu2hlag2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0ece26f9e0a6",
-   "created_at": "2026-09-29T10:26:28Z"
-  },
-  {
-   "id": "aa62f92a1722",
-   "ts": "2026-09-28T13:33:39Z",
-   "headline": "ECB's Lagarde says the inflation outlook for 2027 and 2028 is higher than expected and backs a measured policy response",
-   "detail": "In a speech to the European Parliament, ECB President Lagarde said the inflation shock is too large to look through and that a measured response is appropriate. She said she sees no sign yet that inflation is becoming embedded, and that risks remain to the upside for inflation and to the downside for growth.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "449acd5e6ac33375",
-    "9ddb2b8e3d1d15bd",
-    "38f19fa7adefdbf9",
-    "98e351300945f232",
-    "f143c26831204d9f",
-    "401787ca83ec4fa1",
-    "22daee20a7ecc4a0",
-    "ef9728f8f5451ced",
-    "9e9b6eccfdb55290",
-    "e660be21dab08c64",
-    "42c0a917033ce7d0",
-    "09cc571383af45c7",
-    "dc46553c4b5f2119"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgin55sz2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgin55sz2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgih73vt27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgih73vt27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgk2gyak26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgk2gyak26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgkb5yuv2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgkb5yuv2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgjv3te52m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgjv3te52m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgkgoflj2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgkgoflj2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgiryxsv2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgiryxsv2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlggl2nut27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlggl2nut27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgixepvv2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgixepvv2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgfhpbd32t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgfhpbd32t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlggdjn4x2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlggdjn4x2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgiosw6v2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgiosw6v2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlgkif5jz2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlgkif5jz2v"
     }
    ],
    "model": "opus",
