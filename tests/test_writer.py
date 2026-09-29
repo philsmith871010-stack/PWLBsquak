@@ -372,4 +372,19 @@ def test_make_backend_claude_cli():
     from pwlbsquawk.writer.backends import ClaudeCliBackend
 
     b = make_backend(Settings(writer_backend="claude-cli", claude_cli="/opt/homebrew/bin/claude"))
-    assert isinstance(b, ClaudeCliBackend) and b.command == "/opt/homebrew/bin/claude"
+    assert isinstance(b, ClaudeCliBackend) and b.command == "/opt/homebrew/bin/claude" and b.model == "opus"
+
+
+def test_claude_cli_backend_strips_api_key_from_subprocess(tmp_path, monkeypatch):
+    from pwlbsquawk.writer.backends import ClaudeCliBackend
+
+    monkeypatch.setenv("ANTHROPIC_API_KEY", "sk-ant-placeholder")
+    fake = tmp_path / "claude"
+    # the fake echoes whatever key it sees into the result text
+    fake.write_text(
+        "#!/bin/sh\ncat >/dev/null\n"
+        'printf \'{"is_error":false,"result":"%s","usage":{}}\' "${ANTHROPIC_API_KEY:-unset}"\n'
+    )
+    fake.chmod(0o755)
+    res = ClaudeCliBackend(model="opus", command=str(fake)).complete("s", "u")
+    assert res.text == "unset"

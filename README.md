@@ -20,7 +20,7 @@ Account verification and proposed additions: [`docs/ACCOUNTS.md`](docs/ACCOUNTS.
 
 1. Install [uv](https://docs.astral.sh/uv/) and clone this repo.
 2. `uv sync` (creates `.venv` with Python 3.12 and the `squawk` command).
-3. `cp .env.example .env`. Then either set `ANTHROPIC_API_KEY` (Claude API, pay per token) or,
+3. `cp .env.example .env`. Then either uncomment and set `ANTHROPIC_API_KEY` (Claude API, pay per token) or,
    if you already use Claude Code on this machine, set `SQUAWK_WRITER_BACKEND=claude-cli` and
    `SQUAWK_CLAUDE_CLI=/opt/homebrew/bin/claude` to write squawks on your subscription with
    no key. Everything else has a default.

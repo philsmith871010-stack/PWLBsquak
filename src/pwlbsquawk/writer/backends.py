@@ -123,7 +123,8 @@ class AnthropicBackend:
 
 class ClaudeCliBackend:
     """Runs `claude -p` (Claude Code) with a JSON schema, so a Claude subscription can
-    write squawks without an API key. Tools are disabled and one turn is allowed."""
+    write squawks without an API key. Tools are disabled and one turn is allowed.
+    `model` is a Claude Code model name (`opus`, `sonnet`), not an API model id."""
 
     name = "claude-cli"
 
@@ -151,11 +152,19 @@ class ClaudeCliBackend:
         ]
 
     def complete(self, system: str, user: str) -> BackendResult:
+        import os
         import subprocess
 
+        # an API key in .env would override the claude.ai login inside the subprocess
+        env = {k: v for k, v in os.environ.items() if k not in ("ANTHROPIC_API_KEY", "ANTHROPIC_AUTH_TOKEN")}
         try:
             proc = subprocess.run(
-                self._args(system), input=user, capture_output=True, text=True, timeout=self.timeout
+                self._args(system),
+                input=user,
+                capture_output=True,
+                text=True,
+                timeout=self.timeout,
+                env=env,
             )
         except FileNotFoundError as exc:
             raise WriterError(
@@ -294,7 +303,7 @@ def make_backend(settings: Any, *, client: Any | None = None) -> WriterBackend:
     if settings.writer_backend == "mock":
         return MockBackend()
     if settings.writer_backend == "claude-cli":
-        return ClaudeCliBackend(model=settings.model, command=settings.claude_cli)
+        return ClaudeCliBackend(model=settings.claude_cli_model, command=settings.claude_cli)
     if settings.writer_backend != "anthropic":
         raise ValueError("SQUAWK_WRITER_BACKEND must be 'anthropic', 'claude-cli' or 'mock'")
     if not settings.anthropic_api_key and client is None:
