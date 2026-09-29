@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T21:15:56Z",
+ "generated_at": "2026-09-29T21:45:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9942940c8afe",
+   "ts": "2026-09-29T21:43:31Z",
+   "headline": "UK chief executives back pensions triple lock action but prepare for possible tax rises in next month's Budget, FT reports",
+   "detail": "The Financial Times reports that business leaders welcomed the government's action on the pensions triple lock. They are preparing for possible tax rises in the Budget due next month and say the focus from Burnham and Healey on the cost of business has left them unclear.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "427e0edc0114a351"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwosdioikx2q",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwosdioikx2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f7e34d844478",
+   "created_at": "2026-09-29T21:45:59Z"
+  },
   {
    "id": "8781d1ec247d",
    "ts": "2026-09-29T21:15:06Z",
@@ -6102,27 +6123,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlyarvjwu2p",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlyarvjwu2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d892ebb8a9f3",
-   "created_at": "2026-09-29T10:27:40Z"
-  },
-  {
-   "id": "c2cde23364ed",
-   "ts": "2026-09-28T18:22:35Z",
-   "headline": "Italian and French 10y10y forward yields rise about 10bp in a single session as the long end sells off",
-   "detail": "A market economist reported on 28 September that 10-year-10-year forward yields for both Italy and France had risen by around 10bp during the day. No gilt market reaction was given.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "d5dd9f5abc58caa3"
-   ],
-   "sources": [
-    {
-     "author": "robin-j-brooks.bsky.social",
-     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3mwlwnbdktc27",
-     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3mwlwnbdktc27"
     }
    ],
    "model": "opus",
