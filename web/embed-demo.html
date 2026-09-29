@@ -3,88 +3,251 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Squawk embed preview</title>
-<meta name="description" content="A mock host page showing the squawk ticker embedded as it would be on an existing site.">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' rx='3' fill='%230b5fff'/%3E%3Cpath d='M3 10l3-4 3 3 4-5' stroke='white' stroke-width='2' fill='none'/%3E%3C/svg%3E">
+<title>Squawk ticker on PWLBpredict — mock-up</title>
+<meta name="description" content="Mock-up of the squawk ticker in place on the PWLBtoday predictor page, for review.">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
 <style>
-  /* Deliberately opinionated host styles: the widget must survive them untouched. */
-  :root { --ink: #1a2230; --soft: #64748b; --rule: #e2e8f0; --page: #f8fafc; --brand: #134e4a; }
-  @media (prefers-color-scheme: dark) {
-    :root { --ink: #e6edf5; --soft: #93a3b5; --rule: #2a3542; --page: #0e141b; --brand: #5eead4; }
+  /* Tokens copied from pwlbtoday.org/tokens.css so this mock matches the real page. */
+  :root {
+    --pt-navy: #0a2540; --pt-navy-mid: #143659; --pt-navy-light: #1a4775;
+    --pt-orange: #fd7e14; --pt-orange-hover: #e06b00; --pt-orange-soft: #fff5e9;
+    --pt-text: #243240; --pt-muted: #6c757d; --pt-line: #e9ecef; --pt-line-soft: #f1f3f5;
+    --pt-bg: #f7f8fa; --pt-white: #ffffff; --pt-green: #28a745;
+    --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --shell-header-h: 60px; --shell-sidebar-w: 220px;
+    --radius-md: 10px; --radius-pill: 999px;
   }
   * { box-sizing: border-box; }
-  body {
-    margin: 0; background: var(--page); color: var(--ink);
-    font: 16px/1.6 Georgia, "Times New Roman", serif;
+  body { margin: 0; background: var(--pt-bg); color: var(--pt-text); font-family: var(--font-sans); font-size: .95rem; }
+  a { color: inherit; }
+
+  /* ---- header ---- */
+  .site-header {
+    height: var(--shell-header-h); background: #fff;
+    border-bottom: 1px solid rgba(10,37,64,.18);
+    position: sticky; top: 0; z-index: 30;
   }
-  h1, h2, h3, .ui { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
-  .bar { background: var(--brand); color: #fff; padding: 10px 0; }
-  .bar .wrap { display: flex; align-items: center; justify-content: space-between; }
-  .bar strong { font-family: system-ui, sans-serif; letter-spacing: .04em; }
-  .wrap { max-width: 900px; margin: 0 auto; padding: 0 16px; }
-  .note { font-size: 13px; color: var(--soft); font-family: system-ui, sans-serif; }
-  .ticker-slot { margin: 18px 0 26px; }
-  table { border-collapse: collapse; width: 100%; font-family: system-ui, sans-serif; font-size: 14px; }
-  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--rule); }
-  th { color: var(--soft); font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: .05em; }
-  td.num { text-align: right; font-variant-numeric: tabular-nums; }
-  section { margin: 32px 0; }
-  footer { border-top: 1px solid var(--rule); margin-top: 40px; padding: 20px 0 50px; color: var(--soft); font-size: 13px; font-family: system-ui, sans-serif; }
-  code { background: rgba(127,127,127,.14); padding: 1px 5px; border-radius: 4px; font-size: 13px; }
+  .site-header-inner { height: 100%; display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 0 1rem; }
+  .site-brand { display: inline-flex; align-items: center; gap: .55rem; text-decoration: none; color: var(--pt-text); min-width: calc(var(--shell-sidebar-w) - 1rem); }
+  .site-brand-text { font-size: 1.15rem; font-weight: 600; letter-spacing: -.01em; }
+  .site-brand-text-accent { color: var(--pt-orange); font-weight: 600; }
+  .site-header-context { display: flex; align-items: center; gap: 1rem; flex: 1 1 auto; min-width: 0; }
+  .site-page-title-bar { font-size: 1.15rem; font-weight: 700; white-space: nowrap; }
+  .site-page-strap { color: var(--pt-muted); font-size: .84rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .pt-asof-strip { margin-left: auto; display: flex; align-items: center; gap: .5rem; font-size: .8rem; color: var(--pt-muted); white-space: nowrap; }
+  .pt-asof-strip .live { width: 8px; height: 8px; border-radius: 50%; background: var(--pt-green); }
+  .pt-asof-strip b { color: var(--pt-text); letter-spacing: .06em; font-weight: 600; font-size: .74rem; }
+  .site-header-actions { display: flex; align-items: center; gap: .5rem; }
+  .site-btn { border-radius: var(--radius-pill); border: 1px solid var(--pt-line); background: #fff; color: var(--pt-text);
+              font-size: .84rem; font-weight: 600; padding: .42rem 1rem; cursor: pointer; font-family: inherit; }
+  .site-btn:hover { filter: brightness(.97); }
+  .user-chip { display: flex; align-items: center; gap: .5rem; border: 1px solid var(--pt-line); border-radius: var(--radius-pill); padding: .2rem .6rem .2rem .2rem; }
+  .user-chip .av { width: 28px; height: 28px; border-radius: 50%; background: var(--pt-orange); color: #fff; display: grid; place-items: center; font-size: .72rem; font-weight: 700; }
+  .user-chip span { font-size: .84rem; font-weight: 600; }
+
+  /* ---- layout + sidebar ---- */
+  .site-layout { display: grid; grid-template-columns: var(--shell-sidebar-w) 1fr; min-height: calc(100vh - var(--shell-header-h)); }
+  aside#site-sidebar {
+    background: linear-gradient(180deg, #0a2540 0%, #143659 60%, #1a4775 100%);
+    padding: .1rem .55rem 1rem; color: #fff; position: sticky; top: var(--shell-header-h);
+    align-self: start; height: calc(100vh - var(--shell-header-h)); overflow: hidden auto;
+  }
+  .site-nav-group-label { font-size: .75rem; letter-spacing: .16em; text-transform: uppercase; color: rgba(255,255,255,.42); padding: .7rem .75rem .35rem; font-weight: 700; white-space: nowrap; overflow: hidden; }
+  .site-nav > .site-nav-group-label:first-child { padding-top: 1.4rem; }
+  .site-nav-list { list-style: none; margin: 0 0 .4rem; padding: 0; }
+  .site-nav-list a {
+    display: flex; align-items: center; gap: .7rem; padding: .42rem .7rem; margin: .08rem 0;
+    border-radius: 7px; font-size: .82rem; font-weight: 500; color: rgba(255,255,255,.78);
+    text-decoration: none; white-space: nowrap;
+  }
+  .site-nav-list a i { color: rgba(255,255,255,.55); font-size: 1rem; width: 1.1rem; flex: 0 0 1.1rem; text-align: center; }
+  .site-nav-list a .lbl { flex: 1 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; }
+  .site-nav-list a:hover { background: rgba(255,255,255,.06); color: #fff; }
+  .site-nav-list a.active { background: rgba(253,126,20,.14); color: #fff; font-weight: 600; box-shadow: inset 3px 0 0 var(--pt-orange); }
+  .site-nav-list a .site-brand-text-accent { color: var(--pt-orange); }
+  .site-nav-sublist { list-style: none; margin: 1px 0 8px 1.55rem; padding-left: .55rem; border-left: 1px solid rgba(255,255,255,.12); }
+  .new-badge { font-size: .6rem; font-weight: 800; letter-spacing: .08em; background: var(--pt-orange); color: #fff; border-radius: 4px; padding: 1px 5px; margin-left: auto; }
+  .site-nav-live { width: 7px; height: 7px; border-radius: 50%; background: #23c552; margin-left: auto; }
+
+  /* ---- main ---- */
+  main { padding: 1rem 1.25rem 3rem; min-width: 0; }
+
+  /* the host's own banner row (academy-crosslink.css .axl-strip) */
+  .axl-strip {
+    display: flex; align-items: center; flex-wrap: wrap; gap: 8px 16px;
+    padding: 8px 14px; margin-bottom: 1rem;
+    background: rgba(253,126,20,.05); border: 1px solid rgba(253,126,20,.18);
+    border-left: 3px solid var(--pt-orange); border-radius: var(--radius-md);
+  }
+  .axl-strip-brand { font-size: .9rem; font-weight: 700; color: var(--pt-navy); white-space: nowrap; }
+  .axl-strip-brand .accent { color: var(--pt-orange); }
+  .axl-strip-tag { font-size: .82rem; color: var(--pt-muted); }
+  .axl-q { font-size: .82rem; font-weight: 600; color: var(--pt-orange); background: #fff;
+           border: 1px solid rgba(253,126,20,.35); border-radius: var(--radius-pill); padding: .3rem .8rem; cursor: pointer; font-family: inherit; }
+  .bi-mortarboard-fill { color: var(--pt-orange); }
+
+  .panel { background: #fff; border: 1px solid var(--pt-line); border-radius: var(--radius-md); padding: 14px 16px; margin-bottom: 1rem; }
+  .panel h2 { margin: 0 0 .35rem; font-size: 1rem; }
+  .panel p { margin: 0; color: var(--pt-muted); font-size: .86rem; line-height: 1.55; }
+  .omitted { border: 1px dashed var(--pt-line); border-radius: var(--radius-md); background: #fff;
+             color: var(--pt-muted); font-size: .84rem; text-align: center; padding: 34px 16px; margin-bottom: 1rem; }
+  .callout { background: #fff; border: 1px solid var(--pt-line); border-left: 3px solid var(--pt-navy);
+             border-radius: var(--radius-md); padding: 12px 14px; margin-bottom: 1rem; font-size: .86rem; color: var(--pt-muted); }
+  .callout b { color: var(--pt-text); }
+  code { background: var(--pt-line-soft); border-radius: 4px; padding: 1px 5px; font-size: .8rem; }
+  pre { background: var(--pt-line-soft); border-radius: 8px; padding: 10px 12px; overflow: auto; margin: .5rem 0 0; }
+  pre code { background: none; padding: 0; }
+  @media (max-width: 900px) { .site-layout { grid-template-columns: 1fr; } aside#site-sidebar { display: none; } .site-page-strap, .pt-asof-strip { display: none; } }
 </style>
 </head>
 <body>
 
-<div class="bar"><div class="wrap"><strong>PWLB<span style="opacity:.6">today</span></strong><span class="note" style="color:#cdeee8">mock host page</span></div></div>
-
-<div class="wrap">
-
-  <div class="ticker-slot">
-    <!-- This is the whole embed. -->
-    <div data-squawk-ticker data-src="../data/squawks.json"></div>
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="site-brand" href="#">
+      <svg width="30" height="30" viewBox="0 0 32 32" aria-hidden="true">
+        <rect x="2" y="18" width="5" height="11" rx="1.5" fill="#fd7e14"/>
+        <rect x="9.5" y="13" width="5" height="16" rx="1.5" fill="#fd7e14" opacity=".75"/>
+        <rect x="17" y="8" width="5" height="21" rx="1.5" fill="#fd7e14" opacity=".55"/>
+        <path d="M4 14 L12 8 L19 12 L29 3" stroke="#0a2540" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="29" cy="3" r="2.6" fill="#0a2540"/>
+      </svg>
+      <span class="site-brand-text">PWLB<span class="site-brand-text-accent">today</span></span>
+    </a>
+    <div class="site-header-context">
+      <div class="site-page-title-bar">PWLB<span class="site-brand-text-accent">predict</span></div>
+      <div class="site-page-strap">Live implied PWLB rates — before the official fix</div>
+      <div class="pt-asof-strip">
+        <span class="live"></span><b>AS OF</b> <span id="asof">29 Sep 2026 · 12:25</span>
+        · Source: <a href="#">UK Debt Management Office</a>
+      </div>
+    </div>
+    <div class="site-header-actions">
+      <button class="site-btn" type="button">About us</button>
+      <button class="site-btn" type="button">Contact</button>
+      <div class="user-chip"><span class="av">PS</span><span>Phil Smith</span><i class="bi bi-chevron-down" style="font-size:.7rem;color:var(--pt-muted)"></i></div>
+    </div>
   </div>
+</header>
 
-  <p class="note">
-    Hover the strip to pause it. Click any headline to open the blotter at that item; the
-    button on the right opens it at the top of today. <code>Esc</code> or a click outside closes it.
-  </p>
+<div class="site-layout">
+  <aside id="site-sidebar">
+    <nav class="site-nav">
+      <div class="site-nav-group-label">Market data</div>
+      <ul class="site-nav-list">
+        <li><a class="active" href="#"><i class="bi bi-broadcast-pin"></i><span class="lbl">PWLB<span class="site-brand-text-accent">predict</span></span></a></li>
+        <li><a href="#"><i class="bi bi-bar-chart"></i>Rates</a></li>
+        <li><a href="#"><i class="bi bi-graph-up"></i>SONIA</a></li>
+      </ul>
+      <div class="site-nav-group-label">Market intelligence</div>
+      <ul class="site-nav-list">
+        <li><a href="#"><i class="bi bi-activity"></i><span class="lbl">PWLB<span class="site-brand-text-accent">pulse</span></span><span class="new-badge">NEW</span></a></li>
+        <li><a href="#"><i class="bi bi-file-earmark-text"></i><span class="lbl">PWLB<span class="site-brand-text-accent">brief</span></span></a></li>
+      </ul>
+      <div class="site-nav-group-label">Metrics</div>
+      <ul class="site-nav-list">
+        <li><a href="#"><i class="bi bi-speedometer2"></i><span class="lbl">PWLB<span class="site-brand-text-accent">benchmark</span></span></a></li>
+        <li><ul class="site-nav-sublist">
+          <li><a href="#">— Sector activity</a></li>
+          <li><a href="#">— Loan book</a></li>
+        </ul></li>
+      </ul>
+      <div class="site-nav-group-label">Learn</div>
+      <ul class="site-nav-list">
+        <li><a href="#"><i class="bi bi-mortarboard"></i><span class="lbl">PWLB<span class="site-brand-text-accent">academy</span></span></a></li>
+      </ul>
+      <div class="site-nav-group-label">Macro</div>
+      <ul class="site-nav-list">
+        <li><a href="#"><i class="bi bi-calendar3"></i>Economic Calendar</a></li>
+      </ul>
+    </nav>
+  </aside>
 
-  <section>
-    <h2>PWLB certainty rates</h2>
-    <p class="note">Placeholder content, here only to prove the widget does not disturb the page around it.</p>
-    <table>
-      <thead><tr><th>Maturity</th><th>Type</th><th class="num">Rate</th><th class="num">Change</th></tr></thead>
-      <tbody>
-        <tr><td>10 years</td><td>Maturity</td><td class="num">5.46%</td><td class="num">+4bp</td></tr>
-        <tr><td>20 years</td><td>Maturity</td><td class="num">5.92%</td><td class="num">+6bp</td></tr>
-        <tr><td>30 years</td><td>Maturity</td><td class="num">6.14%</td><td class="num">+7bp</td></tr>
-        <tr><td>50 years</td><td>Annuity</td><td class="num">6.08%</td><td class="num">+6bp</td></tr>
-      </tbody>
-    </table>
-  </section>
+  <main>
+    <!-- the site's existing academy row, for comparison -->
+    <div class="axl-strip">
+      <span style="display:inline-flex;align-items:center;gap:7px">
+        <i class="bi bi-mortarboard-fill"></i>
+        <span class="axl-strip-brand">PWLB<span class="accent">academy</span></span>
+        <span class="axl-strip-tag">Learn as you go, with live data:</span>
+      </span>
+      <span style="display:inline-flex;flex-wrap:wrap;gap:6px">
+        <button class="axl-q" type="button">What's driving today's move?</button>
+        <button class="axl-q" type="button">How do I read this chart?</button>
+        <button class="axl-q" type="button">What it means for borrowing</button>
+      </span>
+    </div>
 
-  <section>
-    <h2>Embedding it</h2>
-    <p class="note">Two lines anywhere in the page:</p>
-<pre class="note" style="overflow:auto"><code>&lt;div data-squawk-ticker&gt;&lt;/div&gt;
+    <!-- the site's existing pulse row, for comparison -->
+    <div class="axl-strip">
+      <span style="display:inline-flex;align-items:center;gap:7px">
+        <span class="site-nav-live" style="margin:0"></span>
+        <span class="axl-strip-brand">PWLB<span class="accent">pulse</span></span>
+      </span>
+      <b style="font-size:.9rem">The whole curve has swung back the other way this afternoon</b>
+    </div>
+
+    <!-- ============ THE NEW BIT ============ -->
+    <div data-squawk-ticker
+         data-src="../data/squawks.json"
+         data-variant="banner"
+         data-label="PWLB" data-label-accent="wire"
+         data-title="Today on the wire"
+         style="
+           --squawk-accent:#fd7e14;
+           --squawk-text:#243240;
+           --squawk-muted:#6c757d;
+           --squawk-line:#e9ecef;
+           --squawk-bg:#ffffff;
+           margin-bottom:1rem;"></div>
+    <!-- ===================================== -->
+
+    <div class="callout">
+      <b>How it behaves.</b> The strip carries today's items only. Hover to pause it; click any
+      headline to open the blotter at that item, or use the button on the right to open at the top
+      of today. The panel scrolls back through earlier days. <code>Esc</code> or a click outside closes it.
+      Everything is inside a shadow root, so it cannot inherit from — or leak into — the page's CSS.
+    </div>
+
+    <div class="omitted">Charts and rate tiles omitted from this mock-up — this page is only about where the wire sits and how it behaves.</div>
+
+    <div class="panel">
+      <h2>Adding it to a page</h2>
+      <p>Two lines, anywhere in the template:</p>
+<pre><code>&lt;div data-squawk-ticker data-variant="banner"
+     data-label="PWLB" data-label-accent="wire"
+     style="--squawk-accent:#fd7e14"&gt;&lt;/div&gt;
 &lt;script src="https://philsmith871010-stack.github.io/pwlb-squawk-feed/web/squawk-embed.js" defer&gt;&lt;/script&gt;</code></pre>
-    <p class="note">
-      Optional attributes on the div: <code>data-theme="light|dark"</code> to pin the theme,
-      <code>data-label</code> to change the badge text, <code>data-src</code> to point at a
-      different feed. Colours follow <code>--squawk-accent</code>, <code>--squawk-strip-bg</code>
-      and friends if you set them on the div.
-    </p>
-  </section>
+      <p style="margin-top:.6rem">
+        <code>data-variant="banner"</code> is the house pattern above — the same tint, orange left rule
+        and radius as the academy and pulse rows. Leave it off for the dark tape treatment below.
+        <code>data-title</code> sets the panel heading, <code>data-label</code>/<code>data-label-accent</code>
+        the two-tone wordmark. The rest of the palette follows the <code>--squawk-*</code> variables.
+      </p>
+    </div>
 
-  <section>
-    <h2>Pinned to dark, custom accent</h2>
-    <div data-squawk-ticker data-src="../data/squawks.json" data-theme="dark" data-label="Rates wire"
-         style="--squawk-accent:#5eead4; --squawk-strip-bg:#04231f; --squawk-strip-hover:#0a3b34;"></div>
-  </section>
-
-  <footer>Mock page for previewing the embed. The live blotter is the <a href="ticker.html">demo ticker</a>.</footer>
+    <div class="panel">
+      <h2>The dark alternative</h2>
+      <p>Same widget without <code>data-variant</code>, if the wire should read as a separate object rather than another house banner.</p>
+      <div data-squawk-ticker data-src="../data/squawks.json" data-label="PWLB Squawk"
+           data-title="Today on the wire"
+           style="--squawk-accent:#fd7e14; --squawk-strip-bg:#0a2540; --squawk-strip-hover:#1a4775; margin-top:.75rem"></div>
+    </div>
+  </main>
 </div>
 
 <script src="squawk-embed.js" defer></script>
+<script>
+  // Keep the mock's "as of" clock plausible while colleagues are looking at it.
+  (function () {
+    var el = document.getElementById('asof');
+    function tick() {
+      var d = new Date();
+      el.textContent = d.getDate() + ' ' + ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][d.getMonth()] + ' ' + d.getFullYear() +
+        ' · ' + d.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
+    }
+    tick(); setInterval(tick, 30000);
+  })();
+</script>
 </body>
 </html>

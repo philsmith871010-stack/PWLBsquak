@@ -88,6 +88,7 @@
   --geopolitics: #be123c; --energy: #c2410c; --global_rates: #4338ca;
   --imp3: #d92d20; --imp2: #f79009; --imp1: #98a2b3;
   --radius: 10px;
+  --fade: var(--strip-bg);
   display: block;
   font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
   color: var(--text);
@@ -173,8 +174,36 @@
 .viewport::before, .viewport::after {
   content: ''; position: absolute; top: 0; bottom: 0; width: 28px; pointer-events: none; z-index: 1;
 }
-.viewport::before { left: 0; background: linear-gradient(to right, var(--strip-bg), transparent); }
-.viewport::after { right: 0; background: linear-gradient(to left, var(--strip-bg), transparent); }
+.viewport::before { left: 0; background: linear-gradient(to right, var(--fade), transparent); }
+.viewport::after { right: 0; background: linear-gradient(to left, var(--fade), transparent); }
+
+/* -- banner variant ---------------------------------------------------------
+   The light, orange-ruled strip used by the host site's own banner rows, for
+   pages where a black tape would read as an advert dropped into the layout. */
+:host([data-variant="banner"]) {
+  --fade: var(--squawk-banner-bg, rgba(253, 126, 20, .05));
+}
+:host([data-variant="banner"]) .strip {
+  background: var(--squawk-banner-bg, rgba(253, 126, 20, .05));
+  border: 1px solid var(--squawk-banner-border, rgba(253, 126, 20, .18));
+  border-left: 3px solid var(--accent);
+  color: var(--text);
+}
+:host([data-variant="banner"]) .badge {
+  background: transparent; border-right: 0; color: var(--text);
+  font-size: 14px; font-weight: 700; letter-spacing: 0; text-transform: none;
+  padding-right: 10px;
+}
+:host([data-variant="banner"]) .badge .accent { color: var(--accent); }
+:host([data-variant="banner"]) .pulse { background: var(--squawk-live, #23c552); }
+:host([data-variant="banner"]) .item:hover,
+:host([data-variant="banner"]) .item:focus-visible { background: rgba(253, 126, 20, .10); }
+:host([data-variant="banner"]) .open {
+  background: transparent; border-left: 1px solid var(--squawk-banner-border, rgba(253, 126, 20, .18));
+  color: var(--accent);
+}
+:host([data-variant="banner"]) .open:hover { background: rgba(253, 126, 20, .10); }
+:host([data-variant="banner"]) .item .at { color: var(--muted); }
 
 /* -- modal ------------------------------------------------------------------ */
 dialog {
@@ -247,6 +276,7 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
   function mount(host) {
     var src = host.getAttribute('data-src') || defaultSrc();
     var label = host.getAttribute('data-label') || 'PWLB Squawk';
+    var labelAccent = host.getAttribute('data-label-accent') || '';
     var root = host.attachShadow({ mode: 'open' });
     var sheet = document.createElement('style');
     sheet.textContent = STYLES;
@@ -255,12 +285,13 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
     var wrap = document.createElement('div');
     wrap.innerHTML = [
       '<div class="strip" part="strip">',
-      '  <div class="badge"><span class="pulse"></span><span class="txt">', esc(label), '</span></div>',
+      '  <div class="badge"><span class="pulse"></span><span class="txt">', esc(label),
+        labelAccent ? '<span class="accent">' + esc(labelAccent) + '</span>' : '', '</span></div>',
       '  <div class="viewport"><div class="track"></div></div>',
       '  <button class="open" type="button"><span class="txt">Today</span><span class="chev" aria-hidden="true">\u2303</span></button>',
       '</div>',
       '<dialog part="dialog"><div class="sheet">',
-      '  <div class="head"><div><h2>Today\u2019s squawks</h2><div class="sub"></div></div>',
+      '  <div class="head"><div><h2></h2><div class="sub"></div></div>',
       '    <button class="close" type="button" aria-label="Close">\u2715</button></div>',
       '  <div class="body"></div>',
       '  <div class="foot"><span class="updated"></span><span>UK rates blotter</span></div>',
@@ -276,6 +307,8 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
     var body = root.querySelector('.body');
     var sub = root.querySelector('.sub');
     var updated = root.querySelector('.updated');
+    root.querySelector('.head h2').textContent =
+      (host.getAttribute('data-title') || 'Today\u2019s squawks');
 
     var all = [];          // every squawk, newest event first
     var today = [];        // today's only

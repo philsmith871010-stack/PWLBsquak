@@ -104,8 +104,11 @@ host's stacking contexts look like. The feed is fetched cross-origin; GitHub Pag
 | attribute on the div | default | meaning |
 |---|---|---|
 | `data-src` | `../data/squawks.json` beside the script | feed URL |
+| `data-variant` | dark tape | `banner` for the host site's tinted, orange-ruled strip |
 | `data-theme` | follow the viewer's system setting | `light` or `dark` to pin it |
 | `data-label` | `PWLB Squawk` | badge text on the left of the strip |
+| `data-label-accent` | (none) | second half of a two-tone wordmark, in the accent colour |
+| `data-title` | `Today's squawks` | heading on the panel |
 
 Colours follow `--squawk-accent`, `--squawk-strip-bg`, `--squawk-strip-hover`, `--squawk-bg`,
 `--squawk-text`, `--squawk-muted` and `--squawk-line` if you set them on the div; custom
@@ -116,7 +119,9 @@ when there are more. That is a deliberate cap: a busy day runs past 40 squawks, 
 carrying all of them takes ten minutes to come round, so an item you glance away from is gone
 for the afternoon. The modal holds the full day.
 
-`web/embed-demo.html` is a mock host page showing it in place, published alongside the ticker.
+`web/embed-demo.html` mocks up the PWLBtoday predictor page - real header, sidebar and the
+site's own academy and pulse banner rows, charts left out - with the ticker in place, so the
+look and the behaviour can be reviewed without touching the live site.
 
 ## Update cadence
 
