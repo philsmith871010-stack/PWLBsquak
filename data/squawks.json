@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T13:55:58Z",
- "count": 115,
+ "generated_at": "2026-09-29T14:01:32Z",
+ "count": 116,
  "squawks": [
+  {
+   "id": "d777128eae91",
+   "ts": "2026-09-29T14:00:42Z",
+   "headline": "US Conference Board consumer confidence falls to 81.9 in September, below the 89.0 forecast",
+   "detail": "The Conference Board's US consumer confidence index came in at 81.9 for September. That compares with a forecast of 89.0 and a previous reading of 89.4.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "91308d081302842f",
+    "c59addbc9b837d5d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnyhvr2yh2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnyhvr2yh2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnyj2jn5w27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnyj2jn5w27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "617cf4684c82",
+   "created_at": "2026-09-29T14:01:32Z"
+  },
   {
    "id": "3c0dec1b63e5",
    "ts": "2026-09-29T13:51:22Z",
