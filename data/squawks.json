@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T20:50:59Z",
+ "generated_at": "2026-09-29T21:01:32Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c909032f6178",
+   "ts": "2026-09-29T20:56:52Z",
+   "headline": "API data show crude stocks at the Cushing hub up 0.233m barrels",
+   "detail": "American Petroleum Institute weekly data show Cushing crude inventories rose by 0.233m barrels, following a 2.082m-barrel rise in the previous week; no forecast was given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "a3c22ee8e7903012"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwopq324we2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwopq324we2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6a93a2f9b6f2",
+   "created_at": "2026-09-29T21:01:32Z"
+  },
   {
    "id": "4f6e4049fe50",
    "ts": "2026-09-29T20:50:05Z",
@@ -6155,39 +6176,6 @@
    "model": "opus",
    "run_id": "2033dd987984",
    "created_at": "2026-09-29T10:27:18Z"
-  },
-  {
-   "id": "911be7b27930",
-   "ts": "2026-09-28T16:21:11Z",
-   "headline": "US official says Trump is prepared to ease Iran sanctions and release frozen assets in return for nuclear progress",
-   "detail": "A US official told Al Jazeera on 28 September that indirect talks with Iran through intermediaries are positive, but no deal is possible unless the nuclear issue is addressed. None of the posts reported a market reaction.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "4fef24bb659353dd",
-    "ef52b90ee6006b12",
-    "e3f06bc43c24ac81"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlpoglqtm2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlpoglqtm2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlpu76bth2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlpu76bth2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlq2nj6cs22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlq2nj6cs22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "24600f44ca25",
-   "created_at": "2026-09-29T10:27:09Z"
   }
  ]
 }
