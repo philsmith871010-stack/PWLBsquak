@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-29T20:40:58Z",
+ "generated_at": "2026-09-29T20:46:01Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "63de190d8875",
+   "ts": "2026-09-29T20:44:29Z",
+   "headline": "API data show US gasoline stocks up 2.991m barrels and distillate stocks down 0.286m barrels",
+   "detail": "Weekly American Petroleum Institute figures show gasoline inventories rose by 2.991m barrels, after a 2.16m draw the previous week. Distillate stocks fell by 0.286m barrels, compared with a 2.164m draw previously.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "d43acb3836c77f1e",
+    "bdd035596d309278"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoozwsumt2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoozwsumt2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwop2rt2jr27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwop2rt2jr27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2d971d9142c0",
+   "created_at": "2026-09-29T20:46:01Z"
+  },
   {
    "id": "efe1f0219e21",
    "ts": "2026-09-29T20:40:11Z",
@@ -6162,33 +6189,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlj3qjdsl2v",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlj3qjdsl2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c6488fa58b5e",
-   "created_at": "2026-09-29T10:26:48Z"
-  },
-  {
-   "id": "4b9875f3434a",
-   "ts": "2026-09-28T14:13:08Z",
-   "headline": "PM Burnham says the defence investment plan will be fully funded at the Budget; social care funding details due tomorrow",
-   "detail": "Prime Minister Burnham said in an LBC Radio interview on 28 September that the defence investment plan will be fully funded at the Budget. He also said details of social care funding will be published the following day.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "2143a368ad4cf51d",
-    "adc4406d8eff7c6b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlipabuz22z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlipabuz22z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwlj567jtt2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwlj567jtt2v"
     }
    ],
    "model": "opus",
