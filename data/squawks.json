@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T09:45:55Z",
+ "generated_at": "2026-09-30T09:50:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a4187d3de043",
+   "ts": "2026-09-30T09:50:49Z",
+   "headline": "Kremlin dismisses reports of sanctions relief in return for freeing political prisoners, saying Russia holds none",
+   "detail": "The Kremlin calls reports of a possible easing of sanctions in exchange for prisoner releases irrelevant and says Russia has no political prisoners. It also says Putin will address the newly elected parliament later on Wednesday.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e0373f2559952f36",
+    "09a03d037bd9d75a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwq2xz3las27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwq2xz3las27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwq2xwydgp2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwq2xwydgp2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b1272013e027",
+   "created_at": "2026-09-30T09:50:52Z"
+  },
+  {
+   "id": "7994e3815db0",
+   "ts": "2026-09-30T09:48:05Z",
+   "headline": "Japan's PM pledges to strengthen supply capacity as prices and rates rise, and to review revenue and spending",
+   "detail": "Japan's prime minister says the government will boost supply capacity amid rising prices and interest rates. The PM also says it will assess trends in tax receipts and review revenue and spending.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "edb7ea4f26b78853",
+    "d12c48317ed6d7ee"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwq2t55a5x27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwq2t55a5x27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwq2tbrd3y27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwq2tbrd3y27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b1272013e027",
+   "created_at": "2026-09-30T09:50:52Z"
+  },
   {
    "id": "e23228a2ac7c",
    "ts": "2026-09-30T09:45:06Z",
@@ -5636,48 +5690,6 @@
    "model": "opus",
    "run_id": "6d851de270e1",
    "created_at": "2026-09-29T14:46:00Z"
-  },
-  {
-   "id": "2fe9ac119f74",
-   "ts": "2026-09-29T14:38:48Z",
-   "headline": "Iran's army says it could strike first if it judges an enemy attack to be imminent",
-   "detail": "Iran's army said it could launch a pre-emptive strike if it concluded that an attack by an enemy was imminent. The inputs report no market reaction.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "d97bf9c4d21ff289"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo2m23sxw2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo2m23sxw2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6ec3e69e4cac",
-   "created_at": "2026-09-29T14:40:56Z"
-  },
-  {
-   "id": "7b373afcc6a2",
-   "ts": "2026-09-29T14:35:02Z",
-   "headline": "US single-family house prices rise in July, according to the FHFA",
-   "detail": "The US Federal Housing Finance Agency reports that single-family home prices increased in July, as higher mortgage rates add to affordability pressures. The report does not give a figure for the rise.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "359ea63b94da1d97"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwo2fcror62e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwo2fcror62e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "129575958105",
-   "created_at": "2026-09-29T14:35:45Z"
   }
  ]
 }
