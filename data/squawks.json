@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T06:50:53Z",
+ "generated_at": "2026-09-30T07:06:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "18cd29bb3dfd",
+   "ts": "2026-09-30T07:01:33Z",
+   "headline": "Russia extends its ban on diesel exports to the end of October",
+   "detail": "Interfax reported on 30 September that Russia has extended its diesel export ban through October. The report gave no market reaction.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "2be64c3109e74000"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwprjdf3hn2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwprjdf3hn2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "728f737363f9",
+   "created_at": "2026-09-30T07:06:04Z"
+  },
   {
    "id": "f6b47465a50a",
    "ts": "2026-09-30T06:50:28Z",
@@ -5952,27 +5973,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnnsfvrs62c",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnnsfvrs62c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0bcd9e3f1340",
-   "created_at": "2026-09-29T13:21:16Z"
-  },
-  {
-   "id": "6d2a4334ab74",
-   "ts": "2026-09-29T10:47:37Z",
-   "headline": "EU declares full solidarity with Estonia after an attack blamed on Russia",
-   "detail": "An EU spokesman said the bloc stands in full solidarity with Estonia after an attack that has been blamed on Russia.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "56116b7badea99ba"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnnonqgmy2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnnonqgmy2z"
     }
    ],
    "model": "opus",
