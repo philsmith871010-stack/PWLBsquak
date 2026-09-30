@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T08:40:54Z",
+ "generated_at": "2026-09-30T09:01:24Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c22594871cd5",
+   "ts": "2026-09-30T09:00:25Z",
+   "headline": "Australian private credit firm Metrics Credit Partners freezes redemptions from some funds and delays its financial reports",
+   "detail": "Reuters reports that Metrics Credit Partners, one of Australia's largest private credit firms, has frozen investor redemptions from some funds and delayed the release of its financial reports. Reuters describes this as the latest sign of stress among non-bank lenders.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e1e40354f7f0f768"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpy5uqp7t2z",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwpy5uqp7t2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "866aa643b78c",
+   "created_at": "2026-09-30T09:01:24Z"
+  },
   {
    "id": "b1b2765187ae",
    "ts": "2026-09-30T06:58:05Z",
@@ -5681,45 +5702,6 @@
    "model": "opus",
    "run_id": "d6dda9706cd9",
    "created_at": "2026-09-29T13:55:58Z"
-  },
-  {
-   "id": "e1a2dd367a57",
-   "ts": "2026-09-29T13:47:36Z",
-   "headline": "Gilt futures give back about 10 ticks as PM Burnham links triple lock savings to social care and calls for welfare rethink",
-   "detail": "UK gilt futures gave back about 10 ticks of earlier gains after PM Burnham said savings from ending the pensions triple lock would pay for social care. In the same speech he said the welfare system needs a fundamental rethink.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "cc10495a5065ef3c",
-    "fbd919c30529be99",
-    "fef053c4cc4fd50d",
-    "f626de55bd5420fd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnxqimjxo2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnxqimjxo2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnxro6bzr2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnxro6bzr2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnxrskygt2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnxrskygt2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnxrunclu2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnxrunclu2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "61b80a97adcf",
-   "created_at": "2026-09-29T13:51:02Z"
   }
  ]
 }
