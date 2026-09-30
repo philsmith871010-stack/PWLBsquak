@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T07:40:54Z",
+ "generated_at": "2026-09-30T07:45:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0e0c92c31355",
+   "ts": "2026-09-30T07:45:03Z",
+   "headline": "Resolution Foundation backs proposed changes to the state pension triple lock, citing lower long-run fiscal cost",
+   "detail": "The Resolution Foundation says the proposed changes to the triple lock take significant uncertainty and long-run cost out of the public finances while keeping pensioner incomes rising. The post does not give details of the proposals.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "c8468b3f7fa9eb8c"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mwptx4qfz72e",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mwptx4qfz72e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0129def79b22",
+   "created_at": "2026-09-30T07:45:58Z"
+  },
   {
    "id": "bf5b48d44e6f",
    "ts": "2026-09-30T07:40:18Z",
@@ -5886,39 +5907,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnst5hpg227",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnst5hpg227"
-    }
-   ],
-   "model": "opus",
-   "run_id": "840e7ced2d18",
-   "created_at": "2026-09-29T13:25:50Z"
-  },
-  {
-   "id": "bb358f6a6ae9",
-   "ts": "2026-09-29T11:54:38Z",
-   "headline": "ECB's Escriva says high energy prices could become embedded in inflation but sees no second-round effects so far",
-   "detail": "Bank of Spain Governor and ECB Governing Council member José Luis Escrivá said elevated energy prices might anchor in inflation, but that second-round effects are not yet visible. He also said Spain is not considering moving its gold reserves.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "fcd4d02e300e747a",
-    "56348e6d7d6f0a53",
-    "7c1466a45b2bc8a5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnrgi4g332r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnrgi4g332r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnrncrchm2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnrncrchm2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnsbnk2vw2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnsbnk2vw2q"
     }
    ],
    "model": "opus",
