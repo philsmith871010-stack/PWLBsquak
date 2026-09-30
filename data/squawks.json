@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T13:25:54Z",
+ "generated_at": "2026-09-30T13:51:01Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5a49d2cfc323",
+   "ts": "2026-09-30T13:46:05Z",
+   "headline": "US September Chicago PMI jumps to 58.8 from 47.1, well above 51.0 forecast",
+   "detail": "The MNI Chicago business barometer for September came in at 58.8, against a consensus of 51.0 and a previous reading of 47.1.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "33692387b7f8a112",
+    "f1cb742fd00233d8",
+    "0aac8fcac65d4880"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqi4p5gfw2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqi4p5gfw2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqi4xbh4w27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqi4xbh4w27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqi5tykmp2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqi5tykmp2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7b3f3d6e379e",
+   "created_at": "2026-09-30T13:51:01Z"
+  },
   {
    "id": "42d127088b9d",
    "ts": "2026-09-30T13:24:56Z",
@@ -5753,27 +5786,6 @@
    "model": "opus",
    "run_id": "10642b1bd3b5",
    "created_at": "2026-09-29T15:35:51Z"
-  },
-  {
-   "id": "16403c2596c2",
-   "ts": "2026-09-29T15:21:11Z",
-   "headline": "Kremlin aide says work has not started on a possible Putin-Trump meeting at the November APEC summit",
-   "detail": "Kremlin foreign policy aide Yuri Ushakov said preparations have not yet begun for a possible meeting between President Putin and President Trump at the APEC summit in November.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f4b2592e2f56b9d9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo4xtj6tr26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo4xtj6tr26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "488835c44f98",
-   "created_at": "2026-09-29T15:25:46Z"
   }
  ]
 }
