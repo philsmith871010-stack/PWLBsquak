@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T19:55:50Z",
+ "generated_at": "2026-09-30T20:20:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "38b84b34a67b",
+   "ts": "2026-09-30T20:16:11Z",
+   "headline": "UK and EU agree to hold November summit, pushing talks on industrial subsidies into next year",
+   "detail": "The Financial Times reports that the UK and Brussels will go ahead with a key summit in November. The two sides have agreed to defer negotiations on industrial subsidies until next year.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fc3886a28a0d2a24"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwr5waoawv23",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwr5waoawv23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2043faf05f0d",
+   "created_at": "2026-09-30T20:20:58Z"
+  },
   {
    "id": "c81c981627e7",
    "ts": "2026-09-30T19:52:20Z",
@@ -5753,33 +5774,6 @@
    "model": "opus",
    "run_id": "7bed0c906407",
    "created_at": "2026-09-29T16:01:24Z"
-  },
-  {
-   "id": "2bf636755172",
-   "ts": "2026-09-29T15:53:42Z",
-   "headline": "Iran links nuclear talks to resolving the Strait of Hormuz issue and a lifting of the US blockade, diplomatic source says",
-   "detail": "RIA, citing an Iranian diplomatic source, reported that Iran will discuss its nuclear programme only once several conditions are met, including a resolution of the Strait of Hormuz issue and Washington lifting its blockade.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "d466f350c3bb5c04",
-    "fd4564bb3269e778"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo6rxi5yb2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo6rxi5yb2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo6s3eevl2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo6s3eevl2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "04c8ae99ae9b",
-   "created_at": "2026-09-29T15:55:43Z"
   }
  ]
 }
