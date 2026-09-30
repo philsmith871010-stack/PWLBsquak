@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T06:01:22Z",
+ "generated_at": "2026-09-30T06:05:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "742c0f7045cf",
+   "ts": "2026-09-30T06:05:25Z",
+   "headline": "German real retail sales rise 1.3% m/m, below the 1.5% forecast, after a 3.4% fall",
+   "detail": "German real retail sales rose 1.3% month on month, against a forecast of 1.5%. The previous reading was a 3.4% fall.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "468a9355e65c796a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpoexur6n2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpoexur6n2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a1d3daa36155",
+   "created_at": "2026-09-30T06:05:46Z"
+  },
+  {
+   "id": "ca23b790d5d1",
+   "ts": "2026-09-30T06:05:02Z",
+   "headline": "PM Burnham says the UK should consider options for its EU relationship, including eventually rejoining",
+   "detail": "Reuters reports that Prime Minister Andy Burnham said on Wednesday that Britain should weigh options for its future relationship with the European Union, including rejoining the bloc in the longer run. He is stepping up efforts to rebuild ties with Europe.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "c3fcf6386c8fe548"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpoeazvni2r",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwpoeazvni2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a1d3daa36155",
+   "created_at": "2026-09-30T06:05:46Z"
+  },
+  {
+   "id": "975781141d38",
+   "ts": "2026-09-30T06:02:42Z",
+   "headline": "German import prices rise 8.3% y/y and 1% m/m, both above forecasts",
+   "detail": "German import prices rose 8.3% year on year, against a forecast of 8% and 6.8% previously. On the month they rose 1%, against a forecast of 0.7% and 0.2% previously.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "315014272321e377",
+    "54fdcecf86ed660b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpoa4ig7e2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpoa4ig7e2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpoa6ifrj27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpoa6ifrj27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a1d3daa36155",
+   "created_at": "2026-09-30T06:05:46Z"
+  },
   {
    "id": "39f7a5e9fd38",
    "ts": "2026-09-30T06:01:04Z",
@@ -5975,93 +6044,6 @@
    "model": "opus",
    "run_id": "b14a3a34a979",
    "created_at": "2026-09-29T13:11:09Z"
-  },
-  {
-   "id": "8078d1061d0a",
-   "ts": "2026-09-29T09:10:05Z",
-   "headline": "Saudi Arabia resumes oil loadings at Red Sea port of Yanbu after East-West Pipeline restarts",
-   "detail": "Trade sources and shipping data show that Saudi Arabia has restarted loadings at Yanbu after bringing the East-West Pipeline back into operation, Reuters reports.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "04d6696fa8d47912"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwniaasepm2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwniaasepm2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b14a3a34a979",
-   "created_at": "2026-09-29T13:11:09Z"
-  },
-  {
-   "id": "228acd47a32e",
-   "ts": "2026-09-29T09:08:03Z",
-   "headline": "RBA raises cash rate by 25bp to 4.60%, its fourth increase this year",
-   "detail": "The Reserve Bank of Australia's Monetary Policy Board raised the cash rate target by 25bp to 4.60% at its meeting overnight. This is the fourth hike in 2026.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "b545e2c8fc6396bf"
-   ],
-   "sources": [
-    {
-     "author": "julianhjessop.bsky.social",
-     "uri": "at://did:plc:wwxpsnwpv52qup3qdzrgacop/app.bsky.feed.post/3mwni4mhqgk26",
-     "url": "https://bsky.app/profile/julianhjessop.bsky.social/post/3mwni4mhqgk26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b14a3a34a979",
-   "created_at": "2026-09-29T13:11:09Z"
-  },
-  {
-   "id": "01fca22d6df1",
-   "ts": "2026-09-29T08:54:01Z",
-   "headline": "NATO's Rutte accuses Russia of a reckless campaign of hostile acts against allies and pledges more support for Ukraine",
-   "detail": "The NATO secretary general spoke at a joint press conference with Lithuania's prime minister and said Russia is failing.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4970b43c269910a3",
-    "e3436127b65a75c8",
-    "8c5d27a6a4bc2547",
-    "aea5243c4bc896ff",
-    "53f0b23818eefc38"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnhdjcgjq26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnhdjcgjq26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnhdxlea722",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnhdxlea722"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnh4lsfqx22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnh4lsfqx22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnh5eem3c2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnh5eem3c2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwngwngihs2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwngwngihs2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c28dc95b7bf4",
-   "created_at": "2026-09-29T13:05:58Z"
   }
  ]
 }
