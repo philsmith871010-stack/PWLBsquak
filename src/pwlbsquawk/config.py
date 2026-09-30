@@ -33,7 +33,12 @@ class Settings(BaseModel):
     max_tokens: int = 8000
     max_events_per_call: int = 60
     include_replies: bool = False
-    recent_squawks_in_prompt: int = 12
+    recent_squawks_in_prompt: int = 60  # headlines shown to the writer to stop repeats
+    max_squawks_per_batch: int = 5
+    category_caps: dict[str, int] = Field(default_factory=lambda: {"geopolitics": 2, "energy": 2})
+    repeat_threshold: float = (
+        0.75  # near-identical headline to a recent squawk; rewordings are left to the prompt
+    )
     writer_stale_after_hours: float = 12.0  # events older than this are dropped unwritten; raise to backfill
 
     # cadence (seconds)
@@ -82,6 +87,18 @@ class Settings(BaseModel):
                     continue
                 key, _, val = part.partition("=")
                 out[key.strip()] = float(val)
+            return out
+        return v
+
+    @field_validator("category_caps", mode="before")
+    @classmethod
+    def _parse_caps(cls, v: Any) -> Any:
+        if isinstance(v, str):
+            out: dict[str, int] = {}
+            for part in v.split(","):
+                key, _, val = part.strip().partition("=")
+                if key:
+                    out[key.strip()] = int(val)
             return out
         return v
 

@@ -403,3 +403,86 @@ def test_claude_cli_backend_retries_once_and_reports_cli_cost(tmp_path):
     fake.chmod(0o755)
     res = ClaudeCliBackend(model="opus", command=str(fake)).complete("s", "u")
     assert res.cost_usd == 0.0123 and marker.exists()
+
+
+def _canned(squawks):
+    from pwlbsquawk.writer.backends import BackendResult
+
+    class Canned:
+        name, model, cost_note = "canned", "m", ""
+
+        def complete(self, system, user):
+            return BackendResult(
+                json.dumps({"material": True, "squawks": squawks}), Usage(1, 1), "m", "end_turn"
+            )
+
+    return Canned()
+
+
+def test_writer_enforces_category_caps_keeping_highest_importance(store, tmp_path):
+    e1, _, _ = _seed(store)
+    geo = [
+        {
+            "ts": None,
+            "headline": f"Geopolitical item number {i} about a distinct place {i}",
+            "detail": "d",
+            "category": "geopolitics",
+            "importance": imp,
+            "source_event_ids": [e1.id],
+        }
+        for i, imp in enumerate([1, 2, 1, 2])
+    ]
+    result = SquawkWriter(_settings(tmp_path), store, _canned(geo), system_prompt="s").run_once(now=NOW)
+    assert [s.importance for s in result.squawks] == [2, 2]
+    assert result.dropped == 2
+
+
+def test_writer_drops_repeat_of_recent_squawk(store, tmp_path):
+    e1, _, _ = _seed(store)
+    first = [
+        {
+            "ts": None,
+            "headline": "US offers up to 40 million barrels of oil from the Strategic Petroleum Reserve",
+            "detail": "d",
+            "category": "energy",
+            "importance": 2,
+            "source_event_ids": [e1.id],
+        }
+    ]
+    SquawkWriter(_settings(tmp_path), store, _canned(first), system_prompt="s").run_once(now=NOW)
+    store.insert_event(make_event("SPR again", rkey="z", ts="2026-09-28T09:20:00Z"))
+    again = [
+        {
+            "ts": None,
+            "headline": "US offers to lend up to 40 million barrels of oil from the Strategic Petroleum Reserve",
+            "detail": "d",
+            "category": "energy",
+            "importance": 2,
+            "source_event_ids": [store.unprocessed_events()[0].id],
+        }
+    ]
+    result = SquawkWriter(_settings(tmp_path), store, _canned(again), system_prompt="s").run_once(now=NOW)
+    assert result.squawks == [] and result.dropped == 1
+
+
+def test_writer_total_cap(store, tmp_path):
+    e1, _, _ = _seed(store)
+    many = [
+        {
+            "ts": None,
+            "headline": f"Distinct data release number {i} on topic {i * 7}",
+            "detail": "d",
+            "category": "data",
+            "importance": 2,
+            "source_event_ids": [e1.id],
+        }
+        for i in range(7)
+    ]
+    result = SquawkWriter(_settings(tmp_path), store, _canned(many), system_prompt="s").run_once(now=NOW)
+    assert len(result.squawks) == 5 and result.dropped == 2
+
+
+def test_category_caps_from_env(monkeypatch, tmp_path):
+    monkeypatch.setenv("SQUAWK_CATEGORY_CAPS", "geopolitics=1, energy=3")
+    s = Settings.from_env(dotenv=tmp_path / "none.env")
+    assert s.category_caps == {"geopolitics": 1, "energy": 3}

@@ -218,6 +218,10 @@ Copy `.env.example` to `.env`. Everything has a default except the API key.
 | `SQUAWK_FALLBACKS` | `default` | server-side refusal fallbacks; `off` to disable |
 | `SQUAWK_MAX_TOKENS` | `8000` | output cap per call |
 | `SQUAWK_MAX_EVENTS_PER_CALL` | `60` | batch size; older events wait for the next pass |
+| `SQUAWK_MAX_SQUAWKS_PER_BATCH` | `5` | hard cap on squawks kept from one writer pass (highest importance first) |
+| `SQUAWK_CATEGORY_CAPS` | `geopolitics=2,energy=2` | per-category cap within one pass |
+| `SQUAWK_RECENT_SQUAWKS_IN_PROMPT` | `60` | recent headlines shown to the writer so it can avoid repeats |
+| `SQUAWK_REPEAT_THRESHOLD` | `0.75` | headline similarity to a recent squawk above which a new one is dropped |
 | `SQUAWK_INCLUDE_REPLIES` | `false` | replies are stored but not sent to the writer |
 | `SQUAWK_WRITER_STALE_AFTER_HOURS` | `12` | events older than this are dropped unwritten; raise it (or pass `squawk write --stale-after-hours`) to backfill history |
 | `SQUAWK_WRITE_INTERVAL` | `300` | seconds between passes |

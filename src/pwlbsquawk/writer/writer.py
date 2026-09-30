@@ -11,6 +11,7 @@ from dataclasses import dataclass, field
 
 from pydantic import ValidationError
 
+from .. import dedupe
 from ..config import Settings
 from ..models import (
     HEADLINE_MAX,
@@ -134,7 +135,13 @@ class SquawkWriter:
         squawks: list[Squawk] = []
         dropped = 0
         seen_headlines: set[str] = set()
-        for draft in drafts:
+        recent = [
+            dedupe.normalise(h) for h in self.store.recent_headlines(self.settings.recent_squawks_in_prompt)
+        ]
+        per_category: dict[str, int] = {}
+        caps = self.settings.category_caps
+        # highest importance first so caps keep the strongest items; stable within a level
+        for draft in sorted(drafts, key=lambda d: -d.importance):
             ids = [i for i in draft.source_event_ids if i in events]
             if not ids:
                 log.warning("dropping squawk with unknown source ids: %r", draft.headline[:80])
@@ -144,6 +151,22 @@ class SquawkWriter:
             if key in seen_headlines:
                 dropped += 1
                 continue
+            norm = dedupe.normalise(draft.headline)
+            match = dedupe.find_duplicate(norm, enumerate(recent), threshold=self.settings.repeat_threshold)
+            if match is not None:
+                log.info("dropping repeat of a recent squawk: %r", draft.headline[:80])
+                dropped += 1
+                continue
+            cat = draft.category.value
+            if cat in caps and per_category.get(cat, 0) >= caps[cat]:
+                log.info("dropping %s squawk over the per-batch cap: %r", cat, draft.headline[:80])
+                dropped += 1
+                continue
+            if len(squawks) >= self.settings.max_squawks_per_batch:
+                log.info("dropping squawk over the per-batch limit: %r", draft.headline[:80])
+                dropped += 1
+                continue
+            per_category[cat] = per_category.get(cat, 0) + 1
             seen_headlines.add(key)
             try:
                 ts = parse_ts(draft.ts) if draft.ts else max(events[i].ts for i in ids)
