@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T17:35:51Z",
+ "generated_at": "2026-09-30T19:55:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c81c981627e7",
+   "ts": "2026-09-30T19:52:20Z",
+   "headline": "Trump says Fed Chair Powell should be forced to resign and asks the Attorney General to review a Fed report",
+   "detail": "US President Trump said Federal Reserve Chair Powell should be forced out and asked Attorney General Blanche to review a Fed report. The inputs report no market reaction.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "bfa224c2104481c1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwr4lmaw5l27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwr4lmaw5l27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a81ffdbe3085",
+   "created_at": "2026-09-30T19:55:50Z"
+  },
   {
    "id": "7f411b9d2b9e",
    "ts": "2026-09-30T17:31:11Z",
@@ -5754,33 +5775,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo6s3eevl2v",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo6s3eevl2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "04c8ae99ae9b",
-   "created_at": "2026-09-29T15:55:43Z"
-  },
-  {
-   "id": "230548df8d0b",
-   "ts": "2026-09-29T15:53:13Z",
-   "headline": "ECB's DeMarco does not rule out an October rate hike and says firmer core inflation could justify action",
-   "detail": "ECB policymaker DeMarco said stronger core inflation could be a reason for the ECB to act and that a rate rise in October should not be excluded. The remarks were reported on 29 September.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "0b7ceaef9b4ebd58",
-    "03265f6659ea4e6c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo6r45rt32v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo6r45rt32v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo6tsoh5r2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo6tsoh5r2q"
     }
    ],
    "model": "opus",
