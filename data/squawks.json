@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T06:46:08Z",
+ "generated_at": "2026-09-30T06:50:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f6b47465a50a",
+   "ts": "2026-09-30T06:50:28Z",
+   "headline": "UK energy price cap forecast to rise to nearly £2,000 from January as the Iran war lifts prices",
+   "detail": "The Financial Times reports a forecast that the household energy price cap will rise to nearly £2,000 for January to March. That would be the biggest increase in four years, driven by higher prices linked to the Iran war.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "cf8bd89253b0f9d2"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwpqviy6ul2f",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwpqviy6ul2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2875ace87b02",
+   "created_at": "2026-09-30T06:50:53Z"
+  },
+  {
+   "id": "b712812eb820",
+   "ts": "2026-09-30T06:46:45Z",
+   "headline": "French September flash HICP rises to 3.4% y/y against a 3.2% forecast; CPI rises to 3.0% y/y",
+   "detail": "France's preliminary September HICP rose to 3.4% y/y, above the 3.2% forecast and up from 2.6%. National CPI rose to 3.0% y/y against a 2.8% forecast, up from 2.4%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "fed9bbe086dd574c",
+    "ae0739057684f60c",
+    "22985224a866651a",
+    "a890407b9b1e5b56",
+    "c5ecacf1687e26a8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpqoukmh22r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpqoukmh22r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpqowelw22r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpqowelw22r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpqtgvkzx22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpqtgvkzx22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpqtqnl572c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpqtqnl572c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpquljujp2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpquljujp2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2875ace87b02",
+   "created_at": "2026-09-30T06:50:53Z"
+  },
   {
    "id": "01a92b7a4f92",
    "ts": "2026-09-30T06:45:48Z",
@@ -5912,48 +5978,6 @@
    "model": "opus",
    "run_id": "0bcd9e3f1340",
    "created_at": "2026-09-29T13:21:16Z"
-  },
-  {
-   "id": "a44e2c839174",
-   "ts": "2026-09-29T10:43:30Z",
-   "headline": "Italy's energy minister is to raise a possible US diesel export ban with the US Energy Secretary on Tuesday",
-   "detail": "Italy's energy minister said he will speak with US Energy Secretary Wright later on 29 September and will ask about a potential US ban on diesel exports.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "6999c46ba60039a4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnnhbzys72m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnnhbzys72m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "df45ee8646d7",
-   "created_at": "2026-09-29T13:16:08Z"
-  },
-  {
-   "id": "1ddb79593747",
-   "ts": "2026-09-29T10:41:48Z",
-   "headline": "Iran says it sent a seven-point plan to the US via Qatar and is awaiting an official reply",
-   "detail": "Iran's foreign minister said Tehran's seven-point plan had been passed to Washington through Qatar and that Iran is waiting for a formal US response.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "c52265b2a133923b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnneagttk2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnneagttk2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "df45ee8646d7",
-   "created_at": "2026-09-29T13:16:08Z"
   }
  ]
 }
