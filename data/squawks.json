@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T09:35:42Z",
+ "generated_at": "2026-09-30T09:45:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e23228a2ac7c",
+   "ts": "2026-09-30T09:45:06Z",
+   "headline": "Suspected plot against UK airbase used by US forces for Iran strikes was foiled after a suspect called police, Times reports",
+   "detail": "The Times reported on Wednesday that one of the men later arrested at the British airbase had alerted police, which led to the suspected plot being thwarted. Reuters carried the report.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "75b39280058d383d"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwq2nsvdso2n",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwq2nsvdso2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c04e29ee5c32",
+   "created_at": "2026-09-30T09:45:55Z"
+  },
   {
    "id": "ad7b651c3a94",
    "ts": "2026-09-30T09:33:08Z",
@@ -5657,33 +5678,6 @@
    "model": "opus",
    "run_id": "129575958105",
    "created_at": "2026-09-29T14:35:45Z"
-  },
-  {
-   "id": "02c6b2fa7f75",
-   "ts": "2026-09-29T14:28:11Z",
-   "headline": "European Commission says it plans no talks with Ukraine to renegotiate export quotas under the DCFTA",
-   "detail": "A European Commission spokesperson said no discussions are planned with Ukraine on renegotiating export quotas under the current trade agreement. The spokesperson added that trade data so far show the revised tariff-rate quota amounts are fair and balanced.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "010284b69dd856d6",
-    "3d6b89adbe38c3e6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnzz25yoa2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnzz25yoa2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnzza654c2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnzza654c2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "438c930edbaf",
-   "created_at": "2026-09-29T14:31:22Z"
   }
  ]
 }
