@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T16:35:48Z",
+ "generated_at": "2026-09-30T17:35:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7f411b9d2b9e",
+   "ts": "2026-09-30T17:31:11Z",
+   "headline": "US 10-year Treasury yield hits 5.304%, its highest level since May 2002",
+   "detail": "The US 10-year Treasury yield touched 5.304%, rising from the 5.29% level reported earlier in the session and reaching its highest since May 2002. The UK 10-year gilt yield stands at 4.578% in the latest snapshot.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "f55bd01ec1b8099a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqup7mbu42t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqup7mbu42t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3bac6f20a115",
+   "created_at": "2026-09-30T17:35:51Z"
+  },
   {
    "id": "95d79f0f6350",
    "ts": "2026-09-30T16:33:47Z",
@@ -5765,27 +5786,6 @@
    "model": "opus",
    "run_id": "04c8ae99ae9b",
    "created_at": "2026-09-29T15:55:43Z"
-  },
-  {
-   "id": "37ff01906564",
-   "ts": "2026-09-29T15:50:11Z",
-   "headline": "Czech PM Babis says Czechia would honour NATO commitments if Russia attacked a Baltic state",
-   "detail": "Czech Prime Minister Andrej Babis told a Czech news website on Tuesday that the Czech Republic would be ready to respond to a Russian attack on a Baltic country, according to Reuters.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0d477d4726c4b66d"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwo6lo5pje27",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwo6lo5pje27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "df8d81b63636",
-   "created_at": "2026-09-29T15:50:59Z"
   }
  ]
 }
