@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T09:15:50Z",
+ "generated_at": "2026-09-30T09:25:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bf964a75d748",
+   "ts": "2026-09-30T09:21:02Z",
+   "headline": "Witness reports a loud explosion in central Kyiv",
+   "detail": "A witness reported hearing a loud explosion in central Kyiv on 30 September. No further details on the cause or damage were given, and no market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1b4c667ddef3f10f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpzcqivq62q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpzcqivq62q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "636f29b1fa2a",
+   "created_at": "2026-09-30T09:25:46Z"
+  },
   {
    "id": "773c41b68593",
    "ts": "2026-09-30T09:15:11Z",
@@ -5621,27 +5642,6 @@
    "model": "opus",
    "run_id": "d4d0cbc1d106",
    "created_at": "2026-09-29T14:16:05Z"
-  },
-  {
-   "id": "37eab47f6514",
-   "ts": "2026-09-29T14:10:50Z",
-   "headline": "UN Security Council extends the mandate of Haiti's Gang Suppression Force by six months to 31 March 2027",
-   "detail": "The UN Security Council adopted a resolution renewing the mandate of the Gang Suppression Force in Haiti for a further six months.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "78bdc9d832a7e7e2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnyzzijm62p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnyzzijm62p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "de3b6d2764ec",
-   "created_at": "2026-09-29T14:10:58Z"
   }
  ]
 }
