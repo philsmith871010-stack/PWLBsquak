@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T12:35:48Z",
+ "generated_at": "2026-09-30T12:55:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6481d453f981",
+   "ts": "2026-09-30T12:54:28Z",
+   "headline": "EU says it is open to discussing whatever relationship options the UK proposes",
+   "detail": "The EU said it is willing to engage on options the UK may put forward for their relationship. This follows PM Burnham's review of UK relations with the bloc, which he said could include rejoining.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1764a2661205b712"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqfafomhw2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqfafomhw2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b6bb17ae9546",
+   "created_at": "2026-09-30T12:55:50Z"
+  },
   {
    "id": "c0e1046773a1",
    "ts": "2026-09-30T12:33:38Z",
@@ -5736,33 +5757,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo437r6i32f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo437r6i32f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4bb2ec91c42e",
-   "created_at": "2026-09-29T15:05:45Z"
-  },
-  {
-   "id": "62c157043711",
-   "ts": "2026-09-29T15:04:05Z",
-   "headline": "PM Burnham's spokesman does not rule out the UK rejoining the EU",
-   "detail": "On 29 September, Prime Minister Burnham's spokesman declined to rule out the UK rejoining the European Union.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "ce359046e3482761",
-    "c8da93244994f518"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo3zagxhd26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo3zagxhd26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo43hal6t22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo43hal6t22"
     }
    ],
    "model": "opus",
