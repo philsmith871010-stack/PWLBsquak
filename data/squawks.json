@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T08:05:55Z",
+ "generated_at": "2026-09-30T08:10:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cc83b938b933",
+   "ts": "2026-09-30T08:10:53Z",
+   "headline": "Germany to set up a strategic gas reserve from 2027",
+   "detail": "A German Economy Ministry spokesperson said the government will set up a strategic natural gas reserve from 2027. The spokesperson also said the economy minister told state-owned SEFE to raise gas storage because of ongoing geopolitical risks.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "38abf7c2e896322c",
+    "9f899c7f37b47b90"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpvfcw44q26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpvfcw44q26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpvazxad727",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpvazxad727"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d9398e979f72",
+   "created_at": "2026-09-30T08:10:57Z"
+  },
+  {
+   "id": "87d408d5e05c",
+   "ts": "2026-09-30T08:07:53Z",
+   "headline": "UAE energy minister backs OPEC+ and says demand for additional oil output is rising",
+   "detail": "UAE Energy Minister Mazrouei said the country supports the OPEC+ group and will keep coordinating with partners and consumers. He also said demand for extra oil production is increasing.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "25079d3f0cf3f267",
+    "7ef93b67727eee52",
+    "cf0c74e17bcc19ed"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpv7x2l4e2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpv7x2l4e2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpv7zytvc2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpv7zytvc2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpva4vvyr2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpva4vvyr2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d9398e979f72",
+   "created_at": "2026-09-30T08:10:57Z"
+  },
   {
    "id": "b8ec9da2fd3a",
    "ts": "2026-09-30T08:03:56Z",
@@ -5768,48 +5828,6 @@
    "model": "opus",
    "run_id": "7463ce356de6",
    "created_at": "2026-09-29T13:40:58Z"
-  },
-  {
-   "id": "8600f57cd51c",
-   "ts": "2026-09-29T13:40:09Z",
-   "headline": "China opens a joint military support and training centre in Laos",
-   "detail": "China's Ministry of National Defence said on Tuesday that it has opened a new military support and training centre in Laos, Reuters reports. Reuters describes it as a rare overseas expansion for China.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "53efd7de7d5f8187"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwnxd62v6w2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwnxd62v6w2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7463ce356de6",
-   "created_at": "2026-09-29T13:40:58Z"
-  },
-  {
-   "id": "4264a9501a7c",
-   "ts": "2026-09-29T13:33:01Z",
-   "headline": "South Korea demands an apology from Ukraine for disclosing the transfer of North Korean prisoners of war to Seoul",
-   "detail": "South Korea has objected to Kyiv revealing that it transferred North Korean soldiers, who were captured while fighting for Russia, to Seoul, Semafor reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b46f4ca5589ce09d"
-   ],
-   "sources": [
-    {
-     "author": "semafor.com",
-     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mwnwwfxkr523",
-     "url": "https://bsky.app/profile/semafor.com/post/3mwnwwfxkr523"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7701639087b4",
-   "created_at": "2026-09-29T13:35:56Z"
   }
  ]
 }
