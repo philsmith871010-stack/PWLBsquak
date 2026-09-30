@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T06:40:59Z",
+ "generated_at": "2026-09-30T06:46:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "01a92b7a4f92",
+   "ts": "2026-09-30T06:45:48Z",
+   "headline": "French flash HICP falls 0.4% m/m against -0.5% forecast; consumer spending drops 0.5% and PPI rises to 4.8% y/y",
+   "detail": "Preliminary French HICP fell 0.4% m/m against a forecast of -0.5%, after a 0.7% rise the month before. Consumer spending fell 0.5% m/m against a flat forecast, after a 0.5% rise, and producer prices rose 4.8% y/y, up from 3.4%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "8a9f2ce147aab4a5",
+    "b202abde0a6ef4c1",
+    "c619640dbfb21906"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpqn5zuoo27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpqn5zuoo27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpqnakws42d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpqnakws42d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpqne5omw2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpqne5omw2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ae0ee0886c54",
+   "created_at": "2026-09-30T06:46:08Z"
+  },
+  {
+   "id": "cbaa22df3a33",
+   "ts": "2026-09-30T06:41:35Z",
+   "headline": "Drone attacks in Russia's Bryansk region kill one person and injure another, says regional governor",
+   "detail": "The governor of Russia's Bryansk region said drone attacks had killed one person and injured another. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "31b3329d15c440b9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpqfmuhey2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpqfmuhey2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ae0ee0886c54",
+   "created_at": "2026-09-30T06:46:08Z"
+  },
   {
    "id": "0cbf93b3a408",
    "ts": "2026-09-30T06:38:46Z",
@@ -5895,54 +5949,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnneagttk2v",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnneagttk2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "df45ee8646d7",
-   "created_at": "2026-09-29T13:16:08Z"
-  },
-  {
-   "id": "7e630d301b53",
-   "ts": "2026-09-29T10:34:40Z",
-   "headline": "Vessel is struck by a projectile in the Strait of Hormuz on 28 September, UK maritime authorities report",
-   "detail": "The UK Maritime Trade Operations centre said it had received a late report of an incident in Hormuz, in which a vessel was hit by a projectile on 28 September.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "7d8e79000f831b67",
-    "7fab63d3255f7ea1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnmxiqzzc2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnmxiqzzc2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnmyqnvji2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnmyqnvji2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "df45ee8646d7",
-   "created_at": "2026-09-29T13:16:08Z"
-  },
-  {
-   "id": "bfec23a1cced",
-   "ts": "2026-09-29T10:25:06Z",
-   "headline": "EU Court of Justice rejects Poland's bid to suspend provisional application of the EU-Mercosur trade deal",
-   "detail": "The EU Court of Justice dismissed Poland's application to suspend the EU Council decision authorising provisional application of the EU-Mercosur agreement.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1f6f75f5479066c8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnmgfeyeq27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnmgfeyeq27"
     }
    ],
    "model": "opus",
