@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T12:55:50Z",
+ "generated_at": "2026-09-30T13:05:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b2ed0497a655",
+   "ts": "2026-09-30T13:03:48Z",
+   "headline": "French 10-year yield spread over Germany widens 5bp to 124bp",
+   "detail": "The gap between French and German 10-year government bond yields widened by 5bp to 124bp on Wednesday afternoon.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e5ac3d4d77c09813"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqfr3t7jf2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqfr3t7jf2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2b86db4afc9e",
+   "created_at": "2026-09-30T13:05:51Z"
+  },
+  {
+   "id": "48d7e2e80daa",
+   "ts": "2026-09-30T13:02:45Z",
+   "headline": "Fed finalises stress test changes, saying they will not materially change aggregate bank capital requirements",
+   "detail": "The Federal Reserve says its changes should cut the year-on-year volatility of bank capital requirements by roughly 50%. Governor Barr voted against the final rule, saying it will weaken the stress test.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "73c4fd954ced718a",
+    "7038ef49b4cd7716"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqfp77oa72l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqfp77oa72l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqfoue6fe27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqfoue6fe27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2b86db4afc9e",
+   "created_at": "2026-09-30T13:05:51Z"
+  },
   {
    "id": "6481d453f981",
    "ts": "2026-09-30T12:54:28Z",
@@ -5714,54 +5762,6 @@
    "model": "opus",
    "run_id": "3f8b84683c38",
    "created_at": "2026-09-29T15:10:54Z"
-  },
-  {
-   "id": "ac3c9827ef42",
-   "ts": "2026-09-29T15:06:33Z",
-   "headline": "China says it will respond if the EU goes ahead with discriminatory trade measures and calls for dialogue",
-   "detail": "China said it would take countermeasures if the EU adopts measures it regards as discriminatory, and urged the bloc to settle disputes through dialogue. This follows reports that EU members are drafting Section 301-style trade tools.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2b6597c57970ee82",
-    "7de93e5c6cd58819"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo45nxiir27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo45nxiir27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo45fmjo62t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo45fmjo62t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3f8b84683c38",
-   "created_at": "2026-09-29T15:10:54Z"
-  },
-  {
-   "id": "cf63448ba21d",
-   "ts": "2026-09-29T15:05:11Z",
-   "headline": "China says EU members' reported drafting of Section 301-style trade tools would disrupt supply chain stability",
-   "detail": "China responded to reports that EU member states are drafting trade tools similar to Section 301 and said such measures would disrupt the stability of supply chains.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ffdc89d087b9e423"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo437r6i32f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo437r6i32f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4bb2ec91c42e",
-   "created_at": "2026-09-29T15:05:45Z"
   }
  ]
 }
