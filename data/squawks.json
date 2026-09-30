@@ -1,8 +1,212 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T05:15:56Z",
+ "generated_at": "2026-09-30T05:20:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "addbf354d31e",
+   "ts": "2026-09-30T05:16:29Z",
+   "headline": "Russia says it struck a Kyiv communications centre and energy facilities in the Kyiv region overnight",
+   "detail": "Interfax, citing Russia's Defence Ministry, reported an overnight strike on a communications centre in Kyiv. The ministry also said energy system facilities in the Kyiv region were hit in what it called a massive strike.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "bdce425522826f33",
+    "fdc40ae2d150d47d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwplnh5uqv2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwplnh5uqv2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwplpdrct522",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwplpdrct522"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ee3c3f537116",
+   "created_at": "2026-09-30T05:20:57Z"
+  },
+  {
+   "id": "e7081e7c4bf7",
+   "ts": "2026-09-30T04:42:12Z",
+   "headline": "Vanguard says France's credit is degrading as French borrowing costs rise sharply",
+   "detail": "The FT reports the warning from Vanguard. It says the Iran war has added to fiscal pressures on Paris ahead of a budget battle.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "5ab5f93ad77597b2"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwpjq5onff2u",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwpjq5onff2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ee3c3f537116",
+   "created_at": "2026-09-30T05:20:57Z"
+  },
+  {
+   "id": "650d03a34f31",
+   "ts": "2026-09-30T04:42:10Z",
+   "headline": "Experts put the cost of a fully funded social care model for England at £18.7bn",
+   "detail": "The FT reports experts saying the prime minister's planned national care service would still leave some elderly people selling their homes to pay for care. They said a model covering all costs would cost £18.7bn and would probably need tax rises.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "79436e78fb9d5620",
+    "dc348f71c2aed17e"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwpjq3gstd2o",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwpjq3gstd2o"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwpjvegssp2m",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwpjvegssp2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ee3c3f537116",
+   "created_at": "2026-09-30T05:20:57Z"
+  },
+  {
+   "id": "bd823bd73a01",
+   "ts": "2026-09-30T04:40:05Z",
+   "headline": "Dollar is on course for its largest monthly gain against the euro in 14 months",
+   "detail": "Reuters reports that the dollar is near this year's high against the euro. It cites US growth and rising US interest rates, set against energy and debt concerns in Europe.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "3353e8429421923b"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpjmf2hem2n",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwpjmf2hem2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ee3c3f537116",
+   "created_at": "2026-09-30T05:20:57Z"
+  },
+  {
+   "id": "1cf4d4ed421d",
+   "ts": "2026-09-30T04:34:21Z",
+   "headline": "Oil prices stay elevated even as Persian Gulf exports recover",
+   "detail": "The WSJ reports that oil prices remain high despite a recovery in exports from the Persian Gulf. The report gave no price figures.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "85adc568d89fb2b0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpjc55iaq2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpjc55iaq2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ee3c3f537116",
+   "created_at": "2026-09-30T05:20:57Z"
+  },
+  {
+   "id": "a3dc4db2c464",
+   "ts": "2026-09-30T04:30:14Z",
+   "headline": "China imposes an extra 55% tariff on Brazilian beef imports from 1 October",
+   "detail": "China's commerce ministry said the additional 55% tariff will be charged on top of the rate that currently applies.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5b1bd60bfabb6ee8"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpj2qmost2m",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwpj2qmost2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ee3c3f537116",
+   "created_at": "2026-09-30T05:20:57Z"
+  },
+  {
+   "id": "bd49c30460b2",
+   "ts": "2026-09-30T04:12:41Z",
+   "headline": "Poland temporarily shuts Rzeszow and Lublin airports as military aircraft operate; air defences put on readiness",
+   "detail": "Polish authorities said the two airports were closed temporarily because of military aviation activity. The Polish army said its ground-based air defence and radar reconnaissance systems had reached readiness and that its operational command was monitoring the situation.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "094cee6d55375921",
+    "2056bfc2182a8f99",
+    "118a4aa19e8bfe3f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpi3ewqsf2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpi3ewqsf2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpi5b5zc22f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpi5b5zc22f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpi63fnsv2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpi63fnsv2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ee3c3f537116",
+   "created_at": "2026-09-30T05:20:57Z"
+  },
+  {
+   "id": "a8c72a13240f",
+   "ts": "2026-09-30T04:02:34Z",
+   "headline": "White House holds talks on a possible diesel export ban ahead of the US midterms",
+   "detail": "The FT reports that the White House is weighing a ban on diesel exports. The report describes a lobbying fight involving President Trump, with oil majors on one side and senior Republicans on the other, who warn of voter anger over high fuel prices.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "6e7ce7ad9074445a",
+    "4aaa429dce808c3e",
+    "ff63005fde37a96f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwphjbjtj22z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwphjbjtj22z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwphov3fps2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwphov3fps2p"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwpj7udki62n",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwpj7udki62n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ee3c3f537116",
+   "created_at": "2026-09-30T05:20:57Z"
+  },
   {
    "id": "840f0d5f6af0",
    "ts": "2026-09-30T03:37:40Z",
@@ -5840,240 +6044,6 @@
    "model": "opus",
    "run_id": "c28dc95b7bf4",
    "created_at": "2026-09-29T13:05:58Z"
-  },
-  {
-   "id": "fbd1fa4e03af",
-   "ts": "2026-09-29T08:16:00Z",
-   "headline": "EU energy ministers to meet in October on winter energy security; Irish minister says Europe's reserves are ample",
-   "detail": "Ireland's energy minister said EU countries can make temporary tax changes to ease high energy costs and that ministers will discuss winter supply at an October meeting.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "32614d0bb932c597",
-    "257521c30086b488",
-    "ebf970ebe33dc029",
-    "78d4f2003c66941f",
-    "47cd5d83eb1c21e3",
-    "5816eefe3d96682d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnf7jmzm32v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnf7jmzm32v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnfaldok62c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnfaldok62c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnf7gisbu2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnf7gisbu2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnfahe7if2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnfahe7if2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnfapl6ac2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnfapl6ac2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnfatnvvg26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnfatnvvg26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c28dc95b7bf4",
-   "created_at": "2026-09-29T13:05:58Z"
-  },
-  {
-   "id": "3a4d8d14dc94",
-   "ts": "2026-09-29T12:48:03Z",
-   "headline": "Italy completes the withdrawal of its troops from Iraq",
-   "detail": "A market newswire reported on 29 September that Italy has completed the withdrawal of its troops from Iraq.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "dd1f38fc24c9e2c2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnufyljqc2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnufyljqc2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9bd38c32119b",
-   "created_at": "2026-09-29T12:59:19Z"
-  },
-  {
-   "id": "6cf0955a4380",
-   "ts": "2026-09-29T12:39:07Z",
-   "headline": "Wells Fargo Investment Institute lifts its end-2027 forecasts for the Fed funds rate and the 10-year Treasury yield",
-   "detail": "The institute now forecasts the Fed policy rate at 4.75%-5.00% by the end of 2027, up from 4.00%-4.25%. Its forecast for the 10-year US Treasury yield rises to 5.25%-5.75%, from 4.50%-5.00%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6b7707e2eae3eb35",
-    "9318aafc1acef31e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwntw25kp52r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwntw25kp52r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnuejnll52q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnuejnll52q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9bd38c32119b",
-   "created_at": "2026-09-29T12:59:19Z"
-  },
-  {
-   "id": "78f37e71fc69",
-   "ts": "2026-09-29T12:36:22Z",
-   "headline": "Average UK diesel price reported to be close to £2 per litre, with the level expected within days",
-   "detail": "A market newswire reported on 29 September that the average UK pump price of diesel is set to hit £2 a litre within days. The post gave no current price.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "22d5aff7b3c39f91"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwntr4cidh2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwntr4cidh2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9bd38c32119b",
-   "created_at": "2026-09-29T12:59:19Z"
-  },
-  {
-   "id": "d9396f73f262",
-   "ts": "2026-09-29T12:32:05Z",
-   "headline": "Russian economy minister Reshetnikov is to attend a G20 meeting in the US, Interfax reports",
-   "detail": "Interfax reported on 29 September that Russian Economy Minister Maxim Reshetnikov will take part in a G20 meeting being held in the United States.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9119f98127154146",
-    "461f4f08a13b1ee7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwntjgyb4h2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwntjgyb4h2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwntkbf3ck27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwntkbf3ck27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9bd38c32119b",
-   "created_at": "2026-09-29T12:59:19Z"
-  },
-  {
-   "id": "29603e00db23",
-   "ts": "2026-09-29T12:31:34Z",
-   "headline": "Netanyahu says there are signs Israel's enemies may try attacks ahead of elections and warns Israel can strike anywhere",
-   "detail": "Israeli Prime Minister Benjamin Netanyahu said on 29 September that there are indications of possible attacks on Israel as its elections approach. He said Israel is able to strike its enemies at any place and time.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "855845bb68ff21cf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwntijgu5f26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwntijgu5f26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9bd38c32119b",
-   "created_at": "2026-09-29T12:59:19Z"
-  },
-  {
-   "id": "7584496f47d5",
-   "ts": "2026-09-29T12:31:33Z",
-   "headline": "Canadian GDP is flat in July, in line with forecasts, after 0.3% growth in June",
-   "detail": "Statistics Canada's monthly GDP for July came in at 0.0% m/m, matching the 0.0% consensus. The previous month's reading was 0.3%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8bf115fb88ab2a56",
-    "22fae334f1216dab",
-    "e5c939ff2aedec14"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwntiivj5t2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwntiivj5t2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwntii5qg32q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwntii5qg32q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwntjcxgup2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwntjcxgup2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9bd38c32119b",
-   "created_at": "2026-09-29T12:59:19Z"
-  },
-  {
-   "id": "204f0f1c6c7b",
-   "ts": "2026-09-29T12:25:01Z",
-   "headline": "Oman's OQ considers buying two supertankers for floating storage and plans to more than double Duqm oil storage",
-   "detail": "Oman state energy company OQ SAOC is reported to be evaluating buying two supertankers to lease out for floating storage at the port of Duqm. Oman also plans to more than double oil storage capacity at Duqm.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "be57eb338c16178e",
-    "d7c32730f42366ee",
-    "89765c6e05a2a53a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnt4t4jpt2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnt4t4jpt2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnth6fuph2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnth6fuph2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwntie3vhn2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwntie3vhn2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9bd38c32119b",
-   "created_at": "2026-09-29T12:59:19Z"
   }
  ]
 }
