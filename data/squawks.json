@@ -1,8 +1,98 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T08:01:35Z",
+ "generated_at": "2026-09-30T08:05:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b8ec9da2fd3a",
+   "ts": "2026-09-30T08:03:56Z",
+   "headline": "Germany orders state-owned energy company SEFE to store gas",
+   "detail": "The German government has told SEFE to put gas supply into storage, according to a market newswire report. No volumes or timing were given.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "0e6bc7ba5e59c17a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpuyuxwos2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpuyuxwos2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "96619575e52e",
+   "created_at": "2026-09-30T08:05:55Z"
+  },
+  {
+   "id": "929a866536e4",
+   "ts": "2026-09-30T08:02:29Z",
+   "headline": "Flydubai flight bound for Israel is diverted to Saudi Arabia",
+   "detail": "A Flydubai flight heading to Israel was diverted to Saudi Arabia, Reuters reported. No reason for the diversion was given.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "11e5f6ec28fc7739"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpuwbg4622y",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwpuwbg4622y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "96619575e52e",
+   "created_at": "2026-09-30T08:05:55Z"
+  },
+  {
+   "id": "45711d7583b4",
+   "ts": "2026-09-30T08:01:58Z",
+   "headline": "North Rhine-Westphalia September CPI rises to 3.3% y/y from 2.9%",
+   "detail": "The annual inflation rate in Germany's most populous state rose to 3.3% in September from 2.9% the previous month. No forecast was given.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "f6e08a023bac52f8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpuve3rvb2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpuve3rvb2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "96619575e52e",
+   "created_at": "2026-09-30T08:05:55Z"
+  },
+  {
+   "id": "8c7e568e426e",
+   "ts": "2026-09-30T08:01:47Z",
+   "headline": "Italian consumer confidence falls to 91.2, missing 94.4 forecast; manufacturing confidence rises to 91.9",
+   "detail": "Italy's consumer confidence index fell to 91.2 in September from 94.5, against a forecast of 94.4. Manufacturing business confidence rose to 91.9 from a revised 90.2, beating the forecast of 90.5.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "32e7a792d858534d",
+    "f1cdfcd49f92da9f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpuuzs5b426",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpuuzs5b426"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpuv6cl6w27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpuv6cl6w27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "96619575e52e",
+   "created_at": "2026-09-30T08:05:55Z"
+  },
   {
    "id": "23c045f86b66",
    "ts": "2026-09-30T08:00:58Z",
@@ -5720,198 +5810,6 @@
    "model": "opus",
    "run_id": "7701639087b4",
    "created_at": "2026-09-29T13:35:56Z"
-  },
-  {
-   "id": "8663fa287502",
-   "ts": "2026-09-29T13:32:02Z",
-   "headline": "PM Burnham pledges to stick to fiscal rules, says VAT comes off electricity bills on Thursday and plans to allow public water ownership",
-   "detail": "In his conference speech, UK Prime Minister Burnham said the government will keep to the fiscal rules and must be honest about what the country can afford within them. He said VAT will be removed from electricity bills on Thursday, and set out a national energy plan, energy market reform, a Great British grid, an aim to bring energy costs in line with neighbouring countries within 10 years, and legislation to repeal the ban on public ownership of water companies.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "082da38625e23c43",
-    "90325f90c16a172e",
-    "dc80298408769ad4",
-    "f02fc5ae9d84c10e",
-    "888d9fa4e4e60392",
-    "d09aa1901c89af87",
-    "31f0e839aa27e303",
-    "656eac2577a351ee",
-    "316fcc01401262ad",
-    "edaab701a1280339",
-    "47366a1bfec456b0",
-    "7c14733651e0cc89",
-    "7a7087767f6e4054",
-    "d6cb8588dc5f92cc",
-    "2f0f3cb8d3fdc70e",
-    "c804c32ee8947e2a",
-    "beeba57321815ed4",
-    "baeffaa7a42a4964"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwwrspcv2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwwrspcv2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwxtcl3i2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwxtcl3i2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwxwlmat2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwxwlmat2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwunnk3527",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwunnk3527"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwjw2dr52m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwjw2dr52m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwjyf62f2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwjyf62f2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwjyvbja27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwjyvbja27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwmaea4z27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwmaea4z27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwnr27ml26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwnr27ml26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwqijeu627",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwqijeu627"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwsd4cvt26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwsd4cvt26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwnuyziq2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwnuyziq2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwos6erc2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwos6erc2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwpmx5r22m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwpmx5r22m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwppz5xp2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwppz5xp2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwqkoyny2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwqkoyny2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwrryez32l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwrryez32l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwh2ad4k2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwh2ad4k2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7701639087b4",
-   "created_at": "2026-09-29T13:35:56Z"
-  },
-  {
-   "id": "0f68f33c6b77",
-   "ts": "2026-09-29T13:29:47Z",
-   "headline": "GeoPark plans to begin operations at Venezuela's Bare oilfield in December",
-   "detail": "GeoPark's chief executive said operations at the Bare field will start in December. He added that the company has found about 80 opportunities for horizontal drilling in Venezuela.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "b472001a6abcb05f",
-    "82d50aba64a23b98"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnwqmndjd26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnwqmndjd26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnx2ltxy32l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnx2ltxy32l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7701639087b4",
-   "created_at": "2026-09-29T13:35:56Z"
-  },
-  {
-   "id": "a3c8a29e1cc1",
-   "ts": "2026-09-29T13:12:59Z",
-   "headline": "Lithuania's prime minister says the country is ready to pay for a permanent US troop deployment",
-   "detail": "Lithuania's prime minister said the country is willing to meet the cost of permanently stationing US forces there.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "cb214626242083b9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnvsm2bf52c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnvsm2bf52c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a6cfb440678b",
-   "created_at": "2026-09-29T13:31:16Z"
-  },
-  {
-   "id": "94a7b4ec5eab",
-   "ts": "2026-09-29T13:07:19Z",
-   "headline": "EU plans no talks to renegotiate Ukraine's export quotas, reports say",
-   "detail": "According to reports, the EU has no plans to reopen negotiations on export quotas for Ukrainian goods.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6418c89a57adf67d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnvih552v27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnvih552v27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a6cfb440678b",
-   "created_at": "2026-09-29T13:31:16Z"
   }
  ]
 }
