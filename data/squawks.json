@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T12:01:25Z",
+ "generated_at": "2026-09-30T12:15:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0efc83c57adb",
+   "ts": "2026-09-30T12:15:39Z",
+   "headline": "US ADP private payrolls rise by 90,000 in September, above forecasts",
+   "detail": "The ADP employment change for September came in at 90,000. The posts give different figures for the forecast and the previous reading, but both put the result above consensus.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "64715a040e7d24c4",
+    "529c791133138053"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqd2yiac62z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqd2yiac62z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqd33m3us2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqd33m3us2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fa6b136c3606",
+   "created_at": "2026-09-30T12:15:58Z"
+  },
   {
    "id": "51323ba23b87",
    "ts": "2026-09-30T12:01:05Z",
@@ -5670,27 +5697,6 @@
      "author": "benzaranko.bsky.social",
      "uri": "at://did:plc:kehpugaokgf2xoovbavfsnad/app.bsky.feed.post/3mwo3u6m53s2f",
      "url": "https://bsky.app/profile/benzaranko.bsky.social/post/3mwo3u6m53s2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5ba17b5ffcb4",
-   "created_at": "2026-09-29T15:01:24Z"
-  },
-  {
-   "id": "cf7f6d1c5e35",
-   "ts": "2026-09-29T15:01:08Z",
-   "headline": "US 30-year Treasury yield rises to 5.595%, its highest level since 2002",
-   "detail": "A market newswire reports that the US 30-year Treasury yield has reached 5.595%, the highest since 2002. The UK 30-year gilt yield stands at 5.307% in the latest snapshot.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "28628b2fc008671c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo3txxv2x2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo3txxv2x2c"
     }
    ],
    "model": "opus",
