@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T10:40:52Z",
+ "generated_at": "2026-09-30T12:01:25Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "51323ba23b87",
+   "ts": "2026-09-30T12:01:05Z",
+   "headline": "German September flash HICP rises to 3.3% y/y from 2.9%, above 3.2% forecast; CPI also 3.3% against 3.1% expected",
+   "detail": "Preliminary German figures put September HICP at 3.3% y/y and 0.6% m/m, against forecasts of 3.2% and 0.5% (previous 2.9% and 0.2%). CPI rose to 3.3% y/y from 2.9%, above the 3.1% forecast.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d4b9b5ff1c410503",
+    "2ed1861ea1c5f574",
+    "cbcdf67752ee6259"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqcawhapk2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqcawhapk2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqcb52ufv2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqcb52ufv2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqcbf626e27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqcbf626e27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1b887ca9a26d",
+   "created_at": "2026-09-30T12:01:25Z"
+  },
   {
    "id": "ca9abe9d367c",
    "ts": "2026-09-30T10:28:59Z",
@@ -5658,33 +5691,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo3txxv2x2c",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo3txxv2x2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5ba17b5ffcb4",
-   "created_at": "2026-09-29T15:01:24Z"
-  },
-  {
-   "id": "01800c433fc9",
-   "ts": "2026-09-29T15:00:12Z",
-   "headline": "EU oil coordination group says supply is stable for now but raises concerns over prices",
-   "detail": "The EU's oil coordination group has found oil supply stable for the time being, according to market newswire reports. The group also noted concerns about prices.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "c504aaa778cfbfa5",
-    "b8bd7d52e6e0e3d4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo3scz2o42m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo3scz2o42m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo3tlfx5p2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo3tlfx5p2q"
     }
    ],
    "model": "opus",
