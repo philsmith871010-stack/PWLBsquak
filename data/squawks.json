@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T09:55:42Z",
+ "generated_at": "2026-09-30T10:01:37Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "52341dc29ce2",
+   "ts": "2026-09-30T10:00:26Z",
+   "headline": "Satellite imagery shows China has built a new military support centre in Laos, Reuters reports",
+   "detail": "Reuters reports that satellite imagery shows China built the facility on farmland in Laos over the past year, extending its overseas military presence into Southeast Asia.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d16053158fe105d5"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwq3j73viu27",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwq3j73viu27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bfc3a25367a4",
+   "created_at": "2026-09-30T10:01:37Z"
+  },
+  {
+   "id": "d0766cebbc3c",
+   "ts": "2026-09-30T09:58:35Z",
+   "headline": "Japan's economy minister says government and BoJ share the same view on the economy and prices",
+   "detail": "Japan's economy minister Kiuchi said there was no difference in understanding between the government and the Bank of Japan on the economy and prices.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "cb57e06316590183"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwq3fvd3rl2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwq3fvd3rl2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bfc3a25367a4",
+   "created_at": "2026-09-30T10:01:37Z"
+  },
   {
    "id": "3de1f473c6bd",
    "ts": "2026-09-30T09:50:51Z",
@@ -5648,60 +5690,6 @@
    "model": "opus",
    "run_id": "f6d84ae21a71",
    "created_at": "2026-09-29T14:50:56Z"
-  },
-  {
-   "id": "c137af608a59",
-   "ts": "2026-09-29T14:46:58Z",
-   "headline": "PM Burnham announces the state pension triple lock will move to a smoothed version from April 2030",
-   "detail": "The Resolution Foundation says the triple lock will be adjusted from April 2030 under the 'smoothed' version the Prime Minister announced this afternoon. Commentators note that the savings are intended to help fund a new social care offer and will not improve the overall public finances.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "4467ed032dea7c3b",
-    "25aaf75509b53fa5",
-    "6f30d4e7716ed924"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mwo32n6oz22v",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mwo32n6oz22v"
-    },
-    {
-     "author": "theifs.bsky.social",
-     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3mwo2zorqak2a",
-     "url": "https://bsky.app/profile/theifs.bsky.social/post/3mwo2zorqak2a"
-    },
-    {
-     "author": "benzaranko.bsky.social",
-     "uri": "at://did:plc:kehpugaokgf2xoovbavfsnad/app.bsky.feed.post/3mwo2zbvcy22t",
-     "url": "https://bsky.app/profile/benzaranko.bsky.social/post/3mwo2zbvcy22t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f6d84ae21a71",
-   "created_at": "2026-09-29T14:50:56Z"
-  },
-  {
-   "id": "2df05a24520d",
-   "ts": "2026-09-29T14:44:58Z",
-   "headline": "Wells Fargo raises its 2027 oil forecasts to $80-$90 for Brent and $75-$85 for WTI",
-   "detail": "Wells Fargo lifted its 2027 price targets to $75-$85 a barrel for WTI and $80-$90 for Brent, pointing to ongoing supply risks and the need to rebuild depleted inventories. The bank expects prices to come off recent highs but stay elevated through 2027.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "2eb765afb786adfb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo2x2xjwo2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo2x2xjwo2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6d851de270e1",
-   "created_at": "2026-09-29T14:46:00Z"
   }
  ]
 }
