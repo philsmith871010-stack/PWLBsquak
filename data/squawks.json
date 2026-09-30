@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T09:01:24Z",
+ "generated_at": "2026-09-30T09:05:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e86bac804a42",
+   "ts": "2026-09-30T09:05:02Z",
+   "headline": "OPEC+ expected to hold November output targets steady at Sunday meeting, sources tell Reuters",
+   "detail": "Two sources with knowledge of the matter told Reuters that OPEC+ producers are likely to leave production targets for November unchanged when they meet on Sunday.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "3ff53dbc769a07d5"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpyg534qd2e",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwpyg534qd2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2b62209c86fb",
+   "created_at": "2026-09-30T09:05:55Z"
+  },
+  {
+   "id": "8406082f1eb2",
+   "ts": "2026-09-30T09:01:54Z",
+   "headline": "Italian September flash CPI rises to 4.2% y/y and HICP to 4.1%, both above 3.7% forecasts",
+   "detail": "Italy's preliminary September CPI is up 4.2% y/y (previous 3.3%) and 0.7% m/m (forecast 0.3%). HICP is up 4.1% y/y (previous 3.2%) and 2.0% m/m (forecast 1.7%).",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "4f20f69fb3a90f8c",
+    "bf4ddf36c61f33bf",
+    "b35b0d890f87a129",
+    "65bc0cac2def5919",
+    "33a6bff9caf7d99e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpyafllko2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpyafllko2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpyahrnj72t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpyahrnj72t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpyak75eo2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpyak75eo2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpyamey2j22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpyamey2j22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpybiwvpg2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpybiwvpg2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2b62209c86fb",
+   "created_at": "2026-09-30T09:05:55Z"
+  },
   {
    "id": "c22594871cd5",
    "ts": "2026-09-30T09:00:25Z",
@@ -5654,54 +5720,6 @@
    "model": "opus",
    "run_id": "6e66cd88eee4",
    "created_at": "2026-09-29T14:06:00Z"
-  },
-  {
-   "id": "d777128eae91",
-   "ts": "2026-09-29T14:00:42Z",
-   "headline": "US Conference Board consumer confidence falls to 81.9 in September, below the 89.0 forecast",
-   "detail": "The Conference Board's US consumer confidence index came in at 81.9 for September. That compares with a forecast of 89.0 and a previous reading of 89.4.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "91308d081302842f",
-    "c59addbc9b837d5d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnyhvr2yh2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnyhvr2yh2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnyj2jn5w27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnyj2jn5w27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "617cf4684c82",
-   "created_at": "2026-09-29T14:01:32Z"
-  },
-  {
-   "id": "3c0dec1b63e5",
-   "ts": "2026-09-29T13:51:22Z",
-   "headline": "US 30-year Treasury yield rises to 5.587%, its highest level since May 2004",
-   "detail": "A market newswire reported the US 30-year Treasury yield at 5.587% on 29 September, its highest since May 2004. At the same time the UK 30-year gilt yield stood at 5.307% and the 10-year at 4.578%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "c1ab7e103ba8bd9a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnxx7z5vu2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnxx7z5vu2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d6dda9706cd9",
-   "created_at": "2026-09-29T13:55:58Z"
   }
  ]
 }
