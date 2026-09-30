@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T15:50:58Z",
+ "generated_at": "2026-09-30T16:05:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d23e9aa02846",
+   "ts": "2026-09-30T16:01:23Z",
+   "headline": "PM Burnham says fuel duty is under review ahead of the Budget and rules out unfunded plans",
+   "detail": "The Prime Minister said everything is being looked at before the Budget, including fuel duty, and that the Budget cannot contain unfunded plans. He also said the government will do what it can despite difficult public finances.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "43d1a884dad17c60",
+    "208bcaec3af24e07",
+    "1170af559591ad75"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqpon632k2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqpon632k2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqpqdqrw727",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqpqdqrw727"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqpqnzdgm2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqpqnzdgm2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "94786b54d6dd",
+   "created_at": "2026-09-30T16:05:50Z"
+  },
   {
    "id": "d3ee03c4aeeb",
    "ts": "2026-09-30T15:48:38Z",
@@ -5765,27 +5798,6 @@
    "model": "opus",
    "run_id": "5f90f564a303",
    "created_at": "2026-09-29T15:45:54Z"
-  },
-  {
-   "id": "ff00bff40bbf",
-   "ts": "2026-09-29T15:37:36Z",
-   "headline": "US 30-year Treasury yield extends rise to 5.612%, highest since June 2002",
-   "detail": "The US 30-year Treasury yield reached 5.612%, above the 5.595% reported earlier in the session, according to a market post. The 10-year gilt yield stood at 4.578% and the 30-year gilt yield at 5.307% in the latest snapshot.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "675525b46295e514"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5v6jfvu2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5v6jfvu2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "95e16b875c02",
-   "created_at": "2026-09-29T15:41:01Z"
   }
  ]
 }
