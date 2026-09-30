@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T08:15:57Z",
+ "generated_at": "2026-09-30T08:31:13Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d3d35c5dbea2",
+   "ts": "2026-09-30T08:27:23Z",
+   "headline": "BBC reports UK energy bills set to rise 16% in January, below the 24% rise the BoE assumed a couple of weeks ago",
+   "detail": "A Resolution Foundation economist cited the BBC report and put the smaller rise down to a slight fall in wholesale gas prices. The Resolution Foundation separately said energy prices will also rise next month.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "2e07304feda9f09f",
+    "7c425a716cd5dd84"
+   ],
+   "sources": [
+    {
+     "author": "jamessmithrf.bsky.social",
+     "uri": "at://did:plc:dexo2jmyeby7i3tljuqjzbjg/app.bsky.feed.post/3mwpwcsrfos2l",
+     "url": "https://bsky.app/profile/jamessmithrf.bsky.social/post/3mwpwcsrfos2l"
+    },
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mwpwi6dsnw2k",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mwpwi6dsnw2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "49880694fbe5",
+   "created_at": "2026-09-30T08:31:13Z"
+  },
+  {
+   "id": "61933f63418e",
+   "ts": "2026-09-30T08:26:36Z",
+   "headline": "Egypt says eight Egyptian crew members from tanker MT Honour 25, hijacked off Somalia, have been released",
+   "detail": "Egypt's foreign ministry announced the release of the eight crew members who had been on the hijacked tanker in Somalia.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "861bc1d6ad0e3f3f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpwbfyguu2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpwbfyguu2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "49880694fbe5",
+   "created_at": "2026-09-30T08:31:13Z"
+  },
   {
    "id": "655ae7107673",
    "ts": "2026-09-30T08:14:48Z",
@@ -5768,60 +5816,6 @@
    "model": "opus",
    "run_id": "49326c427d5b",
    "created_at": "2026-09-29T13:46:02Z"
-  },
-  {
-   "id": "97d10a6e183f",
-   "ts": "2026-09-29T13:41:20Z",
-   "headline": "IRGC says US Navy ships have pulled back to 500km from the Strait of Hormuz",
-   "detail": "A spokesman for Iran's Islamic Revolutionary Guard Corps made the claim, according to Tasnim News. The US has not been reported confirming it.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "42bfc80ecdda7859"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnxfbqm6h2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnxfbqm6h2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "49326c427d5b",
-   "created_at": "2026-09-29T13:46:02Z"
-  },
-  {
-   "id": "d9e55a97dd67",
-   "ts": "2026-09-29T13:40:26Z",
-   "headline": "PM Burnham pledges to build a national care service",
-   "detail": "The UK Prime Minister said a dedicated social care service is the only real answer on social care and pledged to create a national care service. No costings or funding details were reported.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "dee363203c169783",
-    "211325f993f590ab",
-    "f7997425d9ee80ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnxbyuqms2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnxbyuqms2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnxdjtzsh2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnxdjtzsh2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnxdoitsp2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnxdoitsp2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7463ce356de6",
-   "created_at": "2026-09-29T13:40:58Z"
   }
  ]
 }
