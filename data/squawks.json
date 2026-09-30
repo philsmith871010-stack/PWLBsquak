@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T07:06:04Z",
+ "generated_at": "2026-09-30T07:16:01Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "735d2c0b4e3c",
+   "ts": "2026-09-30T07:15:13Z",
+   "headline": "PM Burnham says rejoining the EU is an option as the government reviews UK relations with the bloc",
+   "detail": "The Financial Times reports that the prime minister said full EU membership is an option under consideration. The comments come as the government carries out a review of Britain's relationship with the 27-member bloc.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "dbfce9b671a7ab92"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwpsbr3jtw27",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwpsbr3jtw27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8d1505cef109",
+   "created_at": "2026-09-30T07:16:01Z"
+  },
   {
    "id": "18cd29bb3dfd",
    "ts": "2026-09-30T07:01:33Z",
@@ -5952,27 +5973,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwno5zro5522",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwno5zro5522"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0bcd9e3f1340",
-   "created_at": "2026-09-29T13:21:16Z"
-  },
-  {
-   "id": "d1ad4e5ad76e",
-   "ts": "2026-09-29T10:49:43Z",
-   "headline": "IMF projects a $54bn funding gap for Ukraine by 2029, reports say",
-   "detail": "Reports say the IMF expects Ukraine to face a financing shortfall of $54bn by 2029.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c742158ace2242ad"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnnsfvrs62c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnnsfvrs62c"
     }
    ],
    "model": "opus",
