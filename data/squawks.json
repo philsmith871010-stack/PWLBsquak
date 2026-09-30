@@ -1,8 +1,284 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T05:01:28Z",
+ "generated_at": "2026-09-30T05:05:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "708f3f2651f9",
+   "ts": "2026-09-30T01:16:27Z",
+   "headline": "PBOC sets yuan midpoint at 6.7351 per dollar, weaker than the 6.7025 estimate",
+   "detail": "The People's Bank of China sets the daily yuan reference rate at 6.7351 to the dollar. Market estimates had been 6.7025.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ad595113eac8b588",
+    "8aedeaa4865d8111"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6aao3sg2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6aao3sg2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3bwic4426",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3bwic4426"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bdb17c8c1190",
+   "created_at": "2026-09-30T05:05:53Z"
+  },
+  {
+   "id": "ec3fea78edf5",
+   "ts": "2026-09-30T00:47:07Z",
+   "headline": "10-year JGB yield rises 1.0bp to 3.095%",
+   "detail": "The 10-year Japanese government bond yield is up 1.0bp at 3.095% in Asian trading. WSJ reports short-dated JGBs gaining alongside shorter US Treasurys.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "7e8cc90dd8289c2d",
+    "e4758a2e6295acae"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp4lro72k2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp4lro72k2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp55bkyq42r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp55bkyq42r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bdb17c8c1190",
+   "created_at": "2026-09-30T05:05:53Z"
+  },
+  {
+   "id": "66eed2165aec",
+   "ts": "2026-09-30T00:42:48Z",
+   "headline": "Russian missile strike on Kyiv hits homes and energy sites, cutting power to parts of the capital",
+   "detail": "Witnesses reported explosions in Kyiv from about 00:25 UTC. Later reports described a heavy ballistic missile attack that hit residential areas and energy infrastructure, with outages in parts of the city.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "3843c6732499397b",
+    "f6d35c242079e5e0",
+    "a4b816bd7d978205",
+    "98b4ac4e5cc36de9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3dnd7fq2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3dnd7fq2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3vcahb52m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3vcahb52m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp4e2y6422l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp4e2y6422l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp4uskmrt2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp4uskmrt2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bdb17c8c1190",
+   "created_at": "2026-09-30T05:05:53Z"
+  },
+  {
+   "id": "e8bcdc7b3ecf",
+   "ts": "2026-09-30T00:40:10Z",
+   "headline": "US states act to curb diesel and petrol prices after months of supply disruption",
+   "detail": "Reuters reports that US states are taking steps to hold down fuel prices, which have risen sharply in recent months. It links the rise to disruption from the US war on Iran, Ukrainian strikes on Russian refineries and low global inventories.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "9b8c6d5770112bf3"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwp47ec2iu2c",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwp47ec2iu2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bdb17c8c1190",
+   "created_at": "2026-09-30T05:05:53Z"
+  },
+  {
+   "id": "fe76d8ba0582",
+   "ts": "2026-09-30T00:34:19Z",
+   "headline": "South Korea may use surplus tax revenue to cut bond issuance and buy back bonds if yields rise too far",
+   "detail": "South Korea's finance minister says the ministry is watching the bond market closely and may use excess tax revenue to reduce issuance. He adds that treasury bond buybacks and other steps are possible if yields rise too sharply.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "5d4bb62b577e3084",
+    "c376b5281e8c49a3",
+    "c73e226b17fb7184",
+    "3b2aa9e4c6f42570",
+    "83c1eb01fedc73f7",
+    "b26a81c0d90e253b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3sxqc7r2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3sxqc7r2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3tvwrxc2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3tvwrxc2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3uvz7q52m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3uvz7q52m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3v2jycv2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3v2jycv2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3xihbxj2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3xihbxj2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp44jh43x2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp44jh43x2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bdb17c8c1190",
+   "created_at": "2026-09-30T05:05:53Z"
+  },
+  {
+   "id": "073ae9d7d218",
+   "ts": "2026-09-30T00:20:06Z",
+   "headline": "US forces leave their remaining bases in Iraq",
+   "detail": "Reuters reports that US troops leave their last bases in Iraq on Wednesday. It says the move raises fears of a security vacuum that could help Iranian-backed militias and Islamic State.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "b6d0622ba9235c37"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwp33imnjj2m",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwp33imnjj2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bdb17c8c1190",
+   "created_at": "2026-09-30T05:05:53Z"
+  },
+  {
+   "id": "ea5da3bf4d19",
+   "ts": "2026-09-30T00:10:54Z",
+   "headline": "Israel's finance minister calls for Gaza-style operations in the West Bank and a large arms build-up",
+   "detail": "Israeli Finance Minister Bezalel Smotrich calls for the approach used in Gaza to be applied in the West Bank, including flattening a neighbourhood in Qalqilya where a tunnel was found. He also calls for an arms build-up larger than the army is seeking and for Israel to expand defence exports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5be86af00f5e4820",
+    "538daedc8b7cf858",
+    "26d59585f3405e26",
+    "c11b2e082840386f",
+    "0416c927ee3720de",
+    "958855cdf9394099"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp2knichv2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp2knichv2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp2kq37nt2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp2kq37nt2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp2kuhjtw2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp2kuhjtw2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp2kxsqmf2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp2kxsqmf2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp2kzzahw2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp2kzzahw2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp2l3w2mh27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp2l3w2mh27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bdb17c8c1190",
+   "created_at": "2026-09-30T05:05:53Z"
+  },
+  {
+   "id": "5335474c32b3",
+   "ts": "2026-09-30T00:01:55Z",
+   "headline": "ANZ survey: New Zealand business confidence falls to 51.9 in September from 53.7",
+   "detail": "ANZ's September survey shows business confidence at 51.9, down from 53.7. Its own-activity outlook slips to 47.9 from 48.2.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "1606cd8fa84597ee",
+    "c3f0f68bba4f3023",
+    "e09e1245db8dfc8f",
+    "4757c99a8f0d45e1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwozzepzrg2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwozzepzrg2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwozzsrcby2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwozzsrcby2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp226yewq2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp226yewq2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp22xqgna2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp22xqgna2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bdb17c8c1190",
+   "created_at": "2026-09-30T05:05:53Z"
+  },
   {
    "id": "b5be9478d7eb",
    "ts": "2026-09-29T23:51:06Z",
@@ -5588,354 +5864,6 @@
    "model": "opus",
    "run_id": "7f0ad18a5339",
    "created_at": "2026-09-29T12:58:34Z"
-  },
-  {
-   "id": "abba2adf8357",
-   "ts": "2026-09-29T08:56:24Z",
-   "headline": "BRC survey shows shop price and food inflation easing in September while pipeline cost pressures build",
-   "detail": "The British Retail Consortium's September shop price survey showed overall shop price inflation and food inflation both easing. The BRC said retailers still face rising cost pressures. The post gave no figures.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "f25cc1d95b8b5c2d"
-   ],
-   "sources": [
-    {
-     "author": "julianhjessop.bsky.social",
-     "uri": "at://did:plc:wwxpsnwpv52qup3qdzrgacop/app.bsky.feed.post/3mwnhhrroy22s",
-     "url": "https://bsky.app/profile/julianhjessop.bsky.social/post/3mwnhhrroy22s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7f0ad18a5339",
-   "created_at": "2026-09-29T12:58:34Z"
-  },
-  {
-   "id": "717c47fc4355",
-   "ts": "2026-09-29T08:31:40Z",
-   "headline": "UK consumer credit rises £2.464bn, above £1.9bn forecast and £2.006bn previously",
-   "detail": "Bank of England figures put net consumer credit at £2.464bn, against a forecast of £1.9bn and £2.006bn in the previous month.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "d135408c457e8baa"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwng3jxojf27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwng3jxojf27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7f0ad18a5339",
-   "created_at": "2026-09-29T12:58:34Z"
-  },
-  {
-   "id": "a192d8d482ca",
-   "ts": "2026-09-29T08:31:12Z",
-   "headline": "UK mortgage approvals fall to 54,918 against 56,100 expected; mortgage lending £4.41bn",
-   "detail": "Bank of England data showed mortgage approvals below the 56,053 previous reading and the 56,100 forecast. Net mortgage lending was £4.410bn against £4.4bn expected (previous revised to £4.082bn), and M4 money supply rose 0.4% after -0.3%.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "da11051286bdfb89",
-    "93955bb0ff7ba3f6",
-    "515e59cb11008f54"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwng2ptfll2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwng2ptfll2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwng2xoyr22l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwng2xoyr22l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwng3akuk527",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwng3akuk527"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a47a69f81f1b",
-   "created_at": "2026-09-29T12:58:00Z"
-  },
-  {
-   "id": "72df9c4d779e",
-   "ts": "2026-09-29T08:29:05Z",
-   "headline": "ECB's Kazimir says rate hike was unavoidable and January repricing will be key, with energy prices still a major factor",
-   "detail": "ECB Governing Council member Kazimir also stressed the need for flexibility and said there is plenty of time.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "60c4a5f3dfcedca0",
-    "52f71a0a25388d26",
-    "c75b6fc93186df46",
-    "9a0655fe7e1a7683",
-    "9c6260aa3ed910c5",
-    "0af4846347c36f84",
-    "7b6e5842848feebf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnfwwinjo27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnfwwinjo27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnfxqakae2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnfxqakae2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnfxtkviw2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnfxtkviw2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwng2l555o26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwng2l555o26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwng2tnolk2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwng2tnolk2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwng33x3xb2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwng33x3xb2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwng3fec332m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwng3fec332m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a47a69f81f1b",
-   "created_at": "2026-09-29T12:58:00Z"
-  },
-  {
-   "id": "a370e1d10a6b",
-   "ts": "2026-09-29T08:04:01Z",
-   "headline": "EU energy commissioner tells US counterpart that restricting energy flows helps no one; Irish minister calls diesel ban unlikely",
-   "detail": "The EU energy commissioner said the message was sent to the US following threats of a US diesel export ban. Ireland's energy minister said such a ban would significantly affect the EU but did not appear likely to happen.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "4ae8bb007390dab3",
-    "d197c2cb1e1e447f",
-    "e00e0a2ecc88ebd2",
-    "675c787b8eeaed7c",
-    "e22fb8b4cc07043c",
-    "f1925f77d7fd398c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnek4dfhp2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnek4dfhp2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwneod4xvg26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwneod4xvg26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnf4h6qf22m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnf4h6qf22m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnf5bjyny2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnf5bjyny2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnf673izv22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnf673izv22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnf6dy2kz2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnf6dy2kz2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a47a69f81f1b",
-   "created_at": "2026-09-29T12:58:00Z"
-  },
-  {
-   "id": "e254ccd695cf",
-   "ts": "2026-09-29T07:48:26Z",
-   "headline": "IEA's Birol says Europe gets 50% of its diesel from the US and further strategic reserve releases would be discussed if needed",
-   "detail": "The International Energy Agency's executive director said Europe is among the regions most exposed in the diesel market and that the agency is in talks with countries about the situation.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "39470c5f5a384566",
-    "9514430ccc1e5a32",
-    "3fda4301260991b3",
-    "a2403bdca2dba2ce",
-    "8e2b58889e4b8098",
-    "78158c93979e5ee5",
-    "1fec76a0dd093bb7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwndoa6yn62r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwndoa6yn62r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwndod3zjp2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwndod3zjp2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwndofxluu2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwndofxluu2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwndpwz4wk2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwndpwz4wk2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwndqsleb32c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwndqsleb32c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwndroc2bt2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwndroc2bt2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwndt7ji7r27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwndt7ji7r27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a47a69f81f1b",
-   "created_at": "2026-09-29T12:58:00Z"
-  },
-  {
-   "id": "522228d0675a",
-   "ts": "2026-09-29T07:40:27Z",
-   "headline": "Iran's parliament speaker warns no regional state will sell oil if Iran cannot, and says regional infrastructure would not be safe",
-   "detail": "Parliament speaker Qalibaf made the remarks according to Iranian state media. Separately, an IRGC spokesperson said the US has no option but to admit failure and leave the region.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "21097f70649cf749",
-    "31b02c12dd999e92",
-    "11eeb7f1b82400f9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnd7xa75x27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnd7xa75x27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwncfruvss2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwncfruvss2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwncgt3sn727",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwncgt3sn727"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a47a69f81f1b",
-   "created_at": "2026-09-29T12:58:00Z"
-  },
-  {
-   "id": "12b785e23e9a",
-   "ts": "2026-09-29T07:00:41Z",
-   "headline": "Spanish September flash CPI rises to 4.9% y/y against 4.6% expected; HICP at 5.0%",
-   "detail": "Spain's flash CPI rose to 4.9% y/y in September from 4.3% (forecast 4.6%), and 0.3% m/m against 0.1% expected. HICP was 5.0% y/y (forecast 4.9%, previous 4.6%) and core CPI 3.1% y/y (forecast 3.0%, previous 2.9%).",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "39ffdb7e6a1f652d",
-    "8b0042267638cd78",
-    "8ea924ec97b72a05",
-    "b54540485e613d23",
-    "fb3c344722bb2db0",
-    "88ff86e28273acf3",
-    "df82a9ff2c34b12b",
-    "dc26219c8a494eb4",
-    "a58ae2dfa1357d79",
-    "3ac8e7164f1cf424"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnayuugln22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnayuugln22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnazr4njv27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnazr4njv27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnazy7fqc2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnazy7fqc2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnb2ds3iv2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnb2ds3iv2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnb4e5yin2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnb4e5yin2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnb4tq4wg2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnb4tq4wg2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnb4xrvoo2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnb4xrvoo2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnb5yrmop26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnb5yrmop26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnb65hawk2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnb65hawk2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnb7bp45m2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnb7bp45m2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a47a69f81f1b",
-   "created_at": "2026-09-29T12:58:00Z"
   }
  ]
 }
