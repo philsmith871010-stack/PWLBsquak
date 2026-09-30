@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T10:01:37Z",
+ "generated_at": "2026-09-30T10:40:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ca9abe9d367c",
+   "ts": "2026-09-30T10:28:59Z",
+   "headline": "BoE Governor Bailey urges governments to step up testing of frontier AI models before public release",
+   "detail": "In the first of a series of letters on artificial intelligence, the Bank of England governor warned that advanced AI poses sophisticated threats to banking, markets and payments systems, City AM reports.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "fac0ee14f8c58b60"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mwq5lart24h2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mwq5lart24h2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f8a1e294c415",
+   "created_at": "2026-09-30T10:40:52Z"
+  },
   {
    "id": "52341dc29ce2",
    "ts": "2026-09-30T10:00:26Z",
@@ -5669,27 +5690,6 @@
    "model": "opus",
    "run_id": "5ba17b5ffcb4",
    "created_at": "2026-09-29T15:01:24Z"
-  },
-  {
-   "id": "87cb40bb7462",
-   "ts": "2026-09-29T14:50:09Z",
-   "headline": "China announces a rate cut and mortgage subsidies to support its slowing economy",
-   "detail": "Reuters reports that China announced measures on Tuesday to direct cheaper credit to sectors including infrastructure and technology, alongside more support for home buyers.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "8780f2cb170ef3ea"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwo3adansn27",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwo3adansn27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f6d84ae21a71",
-   "created_at": "2026-09-29T14:50:56Z"
   }
  ]
 }
