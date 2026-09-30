@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T09:25:46Z",
+ "generated_at": "2026-09-30T09:31:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2e0d3d6aa204",
+   "ts": "2026-09-30T09:30:25Z",
+   "headline": "Russia extends its diesel export ban for fuel producers to the end of October",
+   "detail": "Reports on Wednesday said the Russian government has kept its ban on diesel exports by fuel producers in place until the end of October.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "4c833d71cf28ee0b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpztjjvpa2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpztjjvpa2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6315d5d82795",
+   "created_at": "2026-09-30T09:31:15Z"
+  },
+  {
+   "id": "0cfb63713f8f",
+   "ts": "2026-09-30T09:29:48Z",
+   "headline": "US formally ends Operation Inherent Resolve in Iraq, reports say",
+   "detail": "Reports say the United States has officially concluded Operation Inherent Resolve, its military mission in Iraq.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9db87c39c8a0bb09"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpzsgizti27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpzsgizti27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6315d5d82795",
+   "created_at": "2026-09-30T09:31:15Z"
+  },
   {
    "id": "bf964a75d748",
    "ts": "2026-09-30T09:21:02Z",
@@ -5600,48 +5642,6 @@
    "model": "opus",
    "run_id": "d1fc1008a4d6",
    "created_at": "2026-09-29T14:21:07Z"
-  },
-  {
-   "id": "975fff56ca27",
-   "ts": "2026-09-29T14:16:01Z",
-   "headline": "IFS calls triple lock change a significant improvement but says it will not cover the cost of universal social care",
-   "detail": "The Institute for Fiscal Studies responded on 29 September to the Prime Minister's triple lock announcement at Labour Conference. Its deputy director said better reform options existed and that the change would not be enough to fund universal social care.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "24320319eeb7a7e6"
-   ],
-   "sources": [
-    {
-     "author": "theifs.bsky.social",
-     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3mwnzdc6sz222",
-     "url": "https://bsky.app/profile/theifs.bsky.social/post/3mwnzdc6sz222"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d1fc1008a4d6",
-   "created_at": "2026-09-29T14:21:07Z"
-  },
-  {
-   "id": "b2b7ccf822a0",
-   "ts": "2026-09-29T14:15:13Z",
-   "headline": "Resolution Foundation says ONS productivity revisions make the OBR's productivity growth assumption look more pessimistic",
-   "detail": "In a new note, the Resolution Foundation says the ONS's revised productivity estimates raise questions for the OBR's latest productivity growth assumption. It adds that the OBR probably did not receive the data in time to take it into account at the Budget.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "b58c1f7cb8ecebc2"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mwnzbuqal42k",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mwnzbuqal42k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d4d0cbc1d106",
-   "created_at": "2026-09-29T14:16:05Z"
   }
  ]
 }
