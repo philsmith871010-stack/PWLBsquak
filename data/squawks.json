@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T09:05:55Z",
+ "generated_at": "2026-09-30T09:10:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b750dbdb15fe",
+   "ts": "2026-09-30T09:10:06Z",
+   "headline": "Trump may unveil plan as soon as Wednesday to use about $54bn of South Korean investment for Alaska LNG project",
+   "detail": "Reuters reports that President Trump could set out plans as soon as Wednesday to fund an Alaska liquefied natural gas project from about $54bn of South Korea's pledged strategic investment package. The project faces doubts, according to Reuters.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "d9fdcec818bb3bdf"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpyp76wce2e",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwpyp76wce2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b3ddaba12563",
+   "created_at": "2026-09-30T09:10:57Z"
+  },
+  {
+   "id": "bc13c608a337",
+   "ts": "2026-09-30T09:08:20Z",
+   "headline": "Israeli official calls incident on diverted Israel-bound Flydubai flight a terrorist attack, i24 reports",
+   "detail": "An Israeli official told broadcaster i24 that the incident on the Flydubai flight bound for Israel, which was diverted to Saudi Arabia, was a terrorist attack. No further details were given.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "7d880dcecb8f1282"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpym2m73h2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpym2m73h2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b3ddaba12563",
+   "created_at": "2026-09-30T09:10:57Z"
+  },
   {
    "id": "e86bac804a42",
    "ts": "2026-09-30T09:05:02Z",
@@ -5666,60 +5708,6 @@
    "model": "opus",
    "run_id": "de3b6d2764ec",
    "created_at": "2026-09-29T14:10:58Z"
-  },
-  {
-   "id": "f73fc2de8ead",
-   "ts": "2026-09-29T14:04:31Z",
-   "headline": "Irish plant supplying alumina to Russia may be targeted in the EU's next sanctions package",
-   "detail": "Semafor reports that an Irish factory supplying alumina to Russia could face penalties in the EU's upcoming package of sanctions against Russia.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7ffec426774c0af1"
-   ],
-   "sources": [
-    {
-     "author": "semafor.com",
-     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mwnyoqhr3l2b",
-     "url": "https://bsky.app/profile/semafor.com/post/3mwnyoqhr3l2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6e66cd88eee4",
-   "created_at": "2026-09-29T14:06:00Z"
-  },
-  {
-   "id": "fc7187960f89",
-   "ts": "2026-09-29T14:01:36Z",
-   "headline": "US JOLTS job openings fall to 7.079m in August, below the 7.228m forecast",
-   "detail": "US job openings for August came in at 7.079m, compared with a forecast of about 7.228m and 7.271m the previous month.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "f6e2ed93279789d8",
-    "eee6f21d1ebc8820",
-    "af45d56ef433ad6c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnyjjladl2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnyjjladl2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnylbkllu27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnylbkllu27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnykzgtsu22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnykzgtsu22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6e66cd88eee4",
-   "created_at": "2026-09-29T14:06:00Z"
   }
  ]
 }
