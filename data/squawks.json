@@ -1,8 +1,95 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T05:40:54Z",
+ "generated_at": "2026-09-30T06:01:22Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "39f7a5e9fd38",
+   "ts": "2026-09-30T06:01:04Z",
+   "headline": "UK GDP grows 0.5% q/q and 1.4% y/y, above forecasts of 0.4% and 1.2%",
+   "detail": "UK GDP grew 0.5% quarter on quarter against a forecast of 0.4% and a previous reading of 0.4%, and 1.4% year on year against a forecast and previous reading of 1.2%. Business investment rose 1.75% q/q, against a forecast of 1.7% and a previous reading of 1.7%.",
+   "category": "data",
+   "importance": 3,
+   "source_event_ids": [
+    "5bcae4711fac013a",
+    "c25a85ce9b1d956f",
+    "871ba59d14578e3b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpo56qokt27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpo56qokt27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpo5bmvpp22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpo5bmvpp22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpo53vp5g2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpo53vp5g2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3c4af52b85bb",
+   "created_at": "2026-09-30T06:01:22Z"
+  },
+  {
+   "id": "96136e1e06fb",
+   "ts": "2026-09-30T06:00:59Z",
+   "headline": "UK current account deficit narrows to 19.932bn, smaller than the 25.5bn forecast",
+   "detail": "The UK current account showed a deficit of 19.932bn, against a forecast of 25.5bn and 22.134bn previously.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "411202ef09eb8ab4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpo4zpjjd26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpo4zpjjd26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3c4af52b85bb",
+   "created_at": "2026-09-30T06:01:22Z"
+  },
+  {
+   "id": "5ef2cbc3b1d9",
+   "ts": "2026-09-30T05:59:56Z",
+   "headline": "Iran's foreign minister takes US feedback on seven-day proposal to Tehran after Doha talks with Qatari mediators",
+   "detail": "Foreign Minister Araghchi met Qatari mediators in Doha on Tuesday night and received the US response to the seven-day proposal, which he is due to discuss in Tehran on Wednesday, according to an official briefed on the talks. The official said the main disagreement between the US and Iran concerns sequencing rather than the plan's elements.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "3de750bd2c4b483a",
+    "74b91c97db75b191",
+    "21848438b12bdec7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpo2ejzsi2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpo2ejzsi2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpo35m7mf2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpo35m7mf2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpo4b5tfh2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpo4b5tfh2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3c4af52b85bb",
+   "created_at": "2026-09-30T06:01:22Z"
+  },
   {
    "id": "88bcedb61337",
    "ts": "2026-09-30T05:40:17Z",
@@ -5970,75 +6057,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwngwngihs2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwngwngihs2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c28dc95b7bf4",
-   "created_at": "2026-09-29T13:05:58Z"
-  },
-  {
-   "id": "a54215476332",
-   "ts": "2026-09-29T08:41:46Z",
-   "headline": "Merz and five other EU leaders threaten to block the EU's next seven-year budget without large spending cuts",
-   "detail": "The FT reports that the German chancellor and five other leaders want spending cuts running into hundreds of billions of euros as a condition of agreeing the budget.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "18e030318657e852"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwngnm4o7d27",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwngnm4o7d27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c28dc95b7bf4",
-   "created_at": "2026-09-29T13:05:58Z"
-  },
-  {
-   "id": "61ecdead9a5c",
-   "ts": "2026-09-29T08:41:15Z",
-   "headline": "Zelenskiy says Russia attacked two foreign ships in the Odesa area",
-   "detail": "Ukraine's president said Russian forces struck two foreign vessels near the Black Sea port of Odesa.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "ddeeb3a7e52bbf07"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwngmonu3x2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwngmonu3x2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c28dc95b7bf4",
-   "created_at": "2026-09-29T13:05:58Z"
-  },
-  {
-   "id": "2991a1bc1b7c",
-   "ts": "2026-09-29T08:30:18Z",
-   "headline": "South Korea says North Korean mines caused a DMZ blast that broke the armistice and calls for talks",
-   "detail": "South Korea's defence minister said last week's blast injured two South Korean personnel, warranted a response and that Seoul will urge Pyongyang to hold talks to verify the facts.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3a475094ab671595",
-    "54085ea6af8ed75b"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwnfz47eu52e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwnfz47eu52e"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnglniuuu2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnglniuuu2l"
     }
    ],
    "model": "opus",
