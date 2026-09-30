@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T13:51:01Z",
+ "generated_at": "2026-09-30T14:40:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dd7ba2ba681f",
+   "ts": "2026-09-30T14:39:40Z",
+   "headline": "US diesel futures rise 4.5% and gasoline futures 2.9% after weekly EIA storage data",
+   "detail": "US diesel futures added to earlier gains after the Energy Information Administration's weekly storage report. They were up 4.5%, while gasoline futures held a 2.9% rise.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "e8226be9eb831fcf",
+    "ccf06a30ce61e957"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwql4jkzas2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwql4jkzas2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwql4mws662m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwql4mws662m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9098fbee2c2e",
+   "created_at": "2026-09-30T14:40:58Z"
+  },
   {
    "id": "5a49d2cfc323",
    "ts": "2026-09-30T13:46:05Z",
@@ -5718,69 +5745,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5nqjenr22",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5nqjenr22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "10642b1bd3b5",
-   "created_at": "2026-09-29T15:35:51Z"
-  },
-  {
-   "id": "90c07f4950c5",
-   "ts": "2026-09-29T15:32:06Z",
-   "headline": "BoE's Taylor says the case for further rate rises is not compelling unless energy costs stay high and feed wider inflation",
-   "detail": "MPC member Alan Taylor said policy should not respond mechanically to energy price moves that stay mainly relative-price shocks, and that further tightening would need evidence that second-round effects are taking hold. He described a non-trivial risk to inflation, said the economy has so far proved less prone to a repeat of 2022, and said policy will at some point need to move the other way once energy risks fade, calling for a response that is vigilant but disciplined.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "6a503d0579fd2cc0",
-    "e9c49bb9d5c9f231",
-    "63f8181f98e9119a",
-    "9ac1a4ee5abbc769",
-    "90835affe32e81ae",
-    "c686636ea79f03ee",
-    "23a6b9cf2e266727",
-    "4d4b89ef4105d14d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5le76rb2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5le76rb2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5mj5bfj2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5mj5bfj2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5mq5mfo27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5mq5mfo27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5msf6go26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5msf6go26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5o473nb22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5o473nb22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5oumnvs2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5oumnvs2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5qcq5j226",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5qcq5j226"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwo5rugtn32z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwo5rugtn32z"
     }
    ],
    "model": "opus",
