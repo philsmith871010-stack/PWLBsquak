@@ -81,6 +81,48 @@ JSON schema (draft 2020-12) for the squawk object, if you want to validate:
 
 The same schema is what `pwlbsquawk.models.Squawk` enforces before anything is written.
 
+## Embedding the ticker in an existing page
+
+`web/squawk-embed.js` is a drop-in widget for a page you already have, for sites that want the
+ticker but have nowhere to put a full list of articles. Two lines:
+
+```html
+<div data-squawk-ticker></div>
+<script src="https://<owner>.github.io/<pages-repo>/web/squawk-embed.js" defer></script>
+```
+
+The strip carries **today's squawks only**, so it always reads as live. Hovering pauses the
+scroll; clicking a headline opens a modal at that item, and the button at the right opens it at
+the top of today. The modal starts on today and scrolls back through earlier days, so nothing in
+`squawks.json` is unreachable. `Esc` or a click outside closes it.
+
+Everything renders in a shadow root, so the host page's CSS and the widget's cannot reach each
+other, and the modal is a `<dialog>` in the top layer, so it overlays the page whatever the
+host's stacking contexts look like. The feed is fetched cross-origin; GitHub Pages serves
+`Access-Control-Allow-Origin: *`, so no proxy is needed.
+
+| attribute on the div | default | meaning |
+|---|---|---|
+| `data-src` | `../data/squawks.json` beside the script | feed URL |
+| `data-variant` | dark tape | `banner` for the host site's tinted, orange-ruled strip |
+| `data-theme` | follow the viewer's system setting | `light` or `dark` to pin it |
+| `data-label` | `PWLB Squawk` | badge text on the left of the strip |
+| `data-label-accent` | (none) | second half of a two-tone wordmark, in the accent colour |
+| `data-title` | `Today's squawks` | heading on the panel |
+
+Colours follow `--squawk-accent`, `--squawk-strip-bg`, `--squawk-strip-hover`, `--squawk-bg`,
+`--squawk-text`, `--squawk-muted` and `--squawk-line` if you set them on the div; custom
+properties inherit through the shadow boundary.
+
+The strip shows the 12 most recent of today's squawks, with a `+N more today` item at the end
+when there are more. That is a deliberate cap: a busy day runs past 40 squawks, and a strip
+carrying all of them takes ten minutes to come round, so an item you glance away from is gone
+for the afternoon. The modal holds the full day.
+
+`web/embed-demo.html` mocks up the PWLBtoday predictor page - real header, sidebar and the
+site's own academy and pulse banner rows, charts left out - with the ticker in place, so the
+look and the behaviour can be reviewed without touching the live site.
+
 ## Update cadence
 
 - Writer passes run every `SQUAWK_WRITE_INTERVAL` seconds (default 300). In **event mode**
@@ -117,8 +159,9 @@ lost, and the next poll backfills `SQUAWK_POLL_BACKFILL_HOURS`).
 
 ### GitHub Actions + GitHub Pages (the hosted setup)
 
-`.github/workflows/squawk.yml` runs poll + write every 15 minutes on weekdays 06:00-20:59
-UTC, keeps the SQLite file in the Actions cache, and commits `data/squawks.json` and
+`.github/workflows/squawk.yml` runs poll + write on `workflow_dispatch` (drive it from an
+external scheduler; GitHub's own `schedule:` is deliberately absent so the job cannot
+double-run), keeps the SQLite file in the Actions cache, and commits `data/squawks.json` and
 `data/squawks.ndjson` back to the branch. With GitHub Pages set to serve that branch's root,
 the ticker is at `https://<owner>.github.io/<repo>/` (the root `index.html` redirects to
 `web/ticker.html`) and the feed at `https://<owner>.github.io/<repo>/data/squawks.json`.

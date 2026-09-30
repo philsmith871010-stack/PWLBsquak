@@ -239,12 +239,26 @@ def cmd_poll(args: argparse.Namespace, settings: Settings) -> int:
 
 
 def _restore_history(store: Store, settings: Settings) -> None:
-    """A fresh database (e.g. a CI runner whose cache expired) gets the squawk history back
-    from the committed ndjson so squawks.json keeps its 'latest 200' and repeats are avoided."""
-    if store.count_squawks() == 0 and settings.squawks_ndjson_path.exists():
-        n = store.import_squawks_ndjson(settings.squawks_ndjson_path)
-        if n:
-            log.info("restored %d squawks from %s", n, settings.squawks_ndjson_path)
+    """Make the database agree with the committed history before writing anything.
+
+    data/squawks.ndjson is the durable record; the database behind a CI run is a cache that
+    can be stale, empty, or hold rows that have since been edited out of the history. Syncing
+    every pass (rather than only when the database is empty) means a corrected history file
+    takes effect on the next run instead of being silently ignored.
+    """
+    path = settings.squawks_ndjson_path
+    if path.exists():
+        from .outputs import read_ndjson
+
+        history = read_ndjson(path)
+        dropped = store.prune_squawks_not_in(s.id for s in history)
+        if dropped:
+            log.info("dropped %d squawks no longer in %s", dropped, path)
+        before = store.count_squawks()
+        store.insert_squawks(history)
+        added = store.count_squawks() - before
+        if added:
+            log.info("restored %d squawks from %s", added, path)
 
 
 def cmd_write(args: argparse.Namespace, settings: Settings) -> int:
