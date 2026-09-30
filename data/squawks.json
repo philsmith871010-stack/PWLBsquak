@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T08:10:57Z",
+ "generated_at": "2026-09-30T08:15:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "655ae7107673",
+   "ts": "2026-09-30T08:14:48Z",
+   "headline": "Iran's foreign minister tells cabinet Tehran has received a US proposal, government spokesperson says",
+   "detail": "A spokesperson for the Iranian government said in a post on X that Foreign Minister Araqchi had told the cabinet about a proposal received from the United States. The post gave no details of what the proposal contains, and the batch reports no market reaction.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "c6a0670c3da20b7e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpvmclkqb2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpvmclkqb2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "167c3a610c20",
+   "created_at": "2026-09-30T08:15:57Z"
+  },
   {
    "id": "cc83b938b933",
    "ts": "2026-09-30T08:10:53Z",
@@ -5796,33 +5817,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnxdoitsp2f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnxdoitsp2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7463ce356de6",
-   "created_at": "2026-09-29T13:40:58Z"
-  },
-  {
-   "id": "29634854add9",
-   "ts": "2026-09-29T13:40:17Z",
-   "headline": "GeoPark puts investment at Venezuela's Bare oilfield at $7bn, with output of up to 90,000 bpd by 2038",
-   "detail": "A GeoPark executive said investment in the Bare oilfield is estimated at $7 billion and that production could reach 90,000 barrels per day by 2038. The company plans to begin operations at the field in December.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "f2212232bff4e8ae",
-    "c65e9d6418b69ee3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnxcefi7b22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnxcefi7b22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwnxdfjpf62d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwnxdfjpf62d"
     }
    ],
    "model": "opus",
