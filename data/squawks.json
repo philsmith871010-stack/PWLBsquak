@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T18:11:17Z",
+ "generated_at": "2026-10-01T18:35:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9a8a08e435ab",
+   "ts": "2026-10-01T18:35:08Z",
+   "headline": "Iran offers to let nuclear inspectors in if sanctions are eased",
+   "detail": "Iran has offered to allow nuclear inspectors access on condition that sanctions are eased, according to a market news report. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "76d4fe7fe2e4526e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtiqhvqak2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtiqhvqak2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d3fb776af1cf",
+   "created_at": "2026-10-01T18:35:54Z"
+  },
+  {
+   "id": "a5a9f1dd5767",
+   "ts": "2026-10-01T18:31:51Z",
+   "headline": "WTI crude November futures settle 2.71% higher at $92.87 a barrel",
+   "detail": "NYMEX WTI November futures settled up $2.45, or 2.71%, at $92.87 a barrel. November diesel futures settled at $4.6420 a gallon and gasoline at $3.4026 a gallon.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "ae3b052715be9490",
+    "8adc11f705f59e01",
+    "574f41c5a2d8429f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtiklxvnk2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtiklxvnk2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtim7wawt2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtim7wawt2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtilrpm6q2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtilrpm6q2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d3fb776af1cf",
+   "created_at": "2026-10-01T18:35:54Z"
+  },
   {
    "id": "f8434e39cc40",
    "ts": "2026-10-01T18:06:32Z",
@@ -6020,54 +6074,6 @@
    "model": "opus",
    "run_id": "ff0065bd1be6",
    "created_at": "2026-09-29T18:50:56Z"
-  },
-  {
-   "id": "9d95597171fd",
-   "ts": "2026-09-29T18:47:53Z",
-   "headline": "Fed's Williams says AI is pushing up asset valuations and early data show it lifting productivity",
-   "detail": "New York Fed President Williams said AI is raising asset market valuations, which strengthens the wealth effect. He added that some data are beginning to show AI supporting productivity gains.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "f9381a2fa5bb0cdb",
-    "b062b60ff574d893"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoijgvmun2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoijgvmun2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoil4egam2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoil4egam2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ff0065bd1be6",
-   "created_at": "2026-09-29T18:50:56Z"
-  },
-  {
-   "id": "8a0dd1d0906a",
-   "ts": "2026-09-29T18:40:12Z",
-   "headline": "BP offers six-year labour contract at its 440,000 bpd Whiting refinery as union talks go on",
-   "detail": "Reuters reports that BP on Tuesday proposed a six-year labour contract for workers at its 440,000-barrel-per-day Whiting refinery in Indiana. Negotiations with United Steelworkers Local 7-1 are continuing.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "4537666a713acff6"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwoi3p5joi2m",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwoi3p5joi2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6c8cf57dab30",
-   "created_at": "2026-09-29T18:40:54Z"
   }
  ]
 }
