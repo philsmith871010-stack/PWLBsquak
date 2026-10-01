@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T13:11:00Z",
+ "generated_at": "2026-10-01T13:40:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f7b7e07db175",
+   "ts": "2026-10-01T13:35:48Z",
+   "headline": "Healey calls UK bank chiefs to a pre-Budget summit next week, Sky reports",
+   "detail": "Sky News reports that Healey has summoned the heads of UK banks to a meeting next week, ahead of the Budget. The report gave no details of the agenda.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "6ed26e341b835481"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsxza2noj24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsxza2noj24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5e629a4693e5",
+   "created_at": "2026-10-01T13:40:55Z"
+  },
   {
    "id": "04786a346082",
    "ts": "2026-10-01T13:06:11Z",
@@ -6048,33 +6069,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoexm4dhf2m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoexm4dhf2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5b578d48169b",
-   "created_at": "2026-09-29T17:45:52Z"
-  },
-  {
-   "id": "ac7367fd57df",
-   "ts": "2026-09-29T17:43:43Z",
-   "headline": "BP's Whiting refinery proposes a six-year contract to union as labour talks continue",
-   "detail": "BP's Whiting refinery said it has offered the USW 7-1 union a six-year contract term with a longer notice period before any strike or lockout. It said talks with union representatives will continue.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "adf46ec1df845b99",
-    "73efdebcf41bc801"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoewp5b4n27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoewp5b4n27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoewslnrl2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoewslnrl2c"
     }
    ],
    "model": "opus",
