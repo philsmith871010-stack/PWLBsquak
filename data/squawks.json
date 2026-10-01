@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T19:40:55Z",
+ "generated_at": "2026-10-01T19:50:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a6341b12d33d",
+   "ts": "2026-10-01T19:50:42Z",
+   "headline": "Fed's Bowman sees no pressing need for further rate changes this year",
+   "detail": "Federal Reserve policymaker Michelle Bowman said she sees no urgent need for more rate moves before the end of the year. No market reaction was reported in the posts.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "a90dfccd9ef5b09b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtmxlxn732y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtmxlxn732y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "48d50ed79697",
+   "created_at": "2026-10-01T19:50:56Z"
+  },
   {
    "id": "7e4f7df42bfa",
    "ts": "2026-10-01T19:37:00Z",
@@ -6059,33 +6080,6 @@
    "model": "opus",
    "run_id": "202a2a90c07a",
    "created_at": "2026-09-29T19:13:03Z"
-  },
-  {
-   "id": "0af79ef2df59",
-   "ts": "2026-09-29T18:54:50Z",
-   "headline": "Oil futures settle lower: Brent down 2.56% at $102.59/bbl, US crude down 3.48% at $89.38/bbl",
-   "detail": "Brent crude futures settled $2.69 lower at $102.59 a barrel. US crude futures settled $3.22 lower at $89.38 a barrel.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "3a7291a6e6e42170",
-    "6eabd5f161cd2076"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoivu2c4e2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoivu2c4e2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoiuxc5no2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoiuxc5no2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a179353545b3",
-   "created_at": "2026-09-29T18:55:54Z"
   }
  ]
 }
