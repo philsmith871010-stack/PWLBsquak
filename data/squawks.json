@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T14:01:48Z",
+ "generated_at": "2026-10-01T14:05:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1f72a77c5f72",
+   "ts": "2026-10-01T14:04:32Z",
+   "headline": "US Treasuries fall, led by the 30-year, after the ISM manufacturing prices index jumps",
+   "detail": "US Treasuries are reported lower, with the long end leading, after the September ISM manufacturing report showed a rise in prices paid. The same report put the employment index at 52.7, above the 52.0 forecast and up from 51.2.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "edc1817a92492be2",
+    "3a237b4b8515a736"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwszmmfra22y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwszmmfra22y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwszipaehv2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwszipaehv2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0bb29856b03a",
+   "created_at": "2026-10-01T14:05:54Z"
+  },
   {
    "id": "db16204d16cc",
    "ts": "2026-10-01T14:00:54Z",
@@ -6072,27 +6099,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofcsezfs2v",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofcsezfs2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "da683ce702e8",
-   "created_at": "2026-09-29T17:50:56Z"
-  },
-  {
-   "id": "b252f27d0684",
-   "ts": "2026-09-29T17:50:08Z",
-   "headline": "Puntland forces free a petroleum products tanker that Somali pirates seized in April",
-   "detail": "Security forces in Somalia's semi-autonomous Puntland state rescued the Palau-flagged tanker MT Honour 25, according to Puntland state television on Tuesday, as reported by Reuters.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "29867c8a5217705e"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwofc5ljj42j",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwofc5ljj42j"
     }
    ],
    "model": "opus",
