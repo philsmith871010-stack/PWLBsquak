@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T17:55:46Z",
+ "generated_at": "2026-10-01T18:11:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f8434e39cc40",
+   "ts": "2026-10-01T18:06:32Z",
+   "headline": "Brent crude extends gains to 4.6% after China suspends oil exports",
+   "detail": "Brent was last reported 4.6% higher and WTI up 2.8%. The move follows reports that China has suspended oil exports.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "801ce18a754508ca"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwth5d7kfg2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwth5d7kfg2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a554fa7d211b",
+   "created_at": "2026-10-01T18:11:17Z"
+  },
   {
    "id": "10e3f736fbe1",
    "ts": "2026-10-01T17:55:22Z",
@@ -6047,27 +6068,6 @@
    "model": "opus",
    "run_id": "6c8cf57dab30",
    "created_at": "2026-09-29T18:40:54Z"
-  },
-  {
-   "id": "78bbb90b96ec",
-   "ts": "2026-09-29T18:32:18Z",
-   "headline": "Mediators step up efforts to end the stalemate between the US and Iran, FT reports",
-   "detail": "The Financial Times reports that mediators are working to break the deadlock between Washington and Tehran. The report gave no further details.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "982e6509276d3555"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwohnkqz2m2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwohnkqz2m2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "45412491e860",
-   "created_at": "2026-09-29T18:35:51Z"
   }
  ]
 }
