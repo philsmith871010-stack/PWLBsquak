@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T15:21:03Z",
+ "generated_at": "2026-10-01T15:41:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "60f3b2d52fa3",
+   "ts": "2026-10-01T15:38:09Z",
+   "headline": "Money markets scale back ECB rate-rise bets and no longer fully price another hike by year-end",
+   "detail": "Traders reduced their bets on ECB tightening on 1 October. Money markets no longer fully price three more rate rises, or one more rise by the end of the year.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9e7dff9873ea00f7",
+    "18d9ca7afa8c932e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwt6tyub7q24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwt6tyub7q24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwt6yii3je2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwt6yii3je2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "15e88be2df91",
+   "created_at": "2026-10-01T15:41:03Z"
+  },
   {
    "id": "90cd04e58814",
    "ts": "2026-10-01T15:16:25Z",
@@ -6054,27 +6081,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofjrx4e22m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofjrx4e22m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5cc5c608008d",
-   "created_at": "2026-09-29T17:55:48Z"
-  },
-  {
-   "id": "f7ff56c69e5e",
-   "ts": "2026-09-29T17:53:09Z",
-   "headline": "Brent crude futures drop more than 2% as Middle East oil flows show signs of recovery",
-   "detail": "Brent crude futures fell by more than 2% late on 29 September, with the move put down to signs that crude flows from the Middle East are recovering.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "1c9b76a22fc25f18"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofhkpbmq2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofhkpbmq2r"
     }
    ],
    "model": "opus",
