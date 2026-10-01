@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T09:01:17Z",
+ "generated_at": "2026-10-01T09:20:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "66365415dd09",
+   "ts": "2026-10-01T09:17:51Z",
+   "headline": "UK announces new sanctions on vessels suspected of carrying Russian LNG",
+   "detail": "The UK government's latest Russia sanctions package targets shadow fleet ships believed to be transporting Russian liquefied natural gas. The same package also covers Russian military and intelligence officers accused of abusing civilians in Ukraine.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "03feb2917b7e40c8",
+    "8a12f79f27d25d55",
+    "800afc8fcff23e00",
+    "56f3f449498c5386",
+    "ff0a3a6f9e7de385"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsjlyh7to22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsjlyh7to22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsjm3otih27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsjm3otih27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsjpgk3fs2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsjpgk3fs2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsjmx5uib2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsjmx5uib2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsjpcv6rq2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsjpcv6rq2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "37940f6e034d",
+   "created_at": "2026-10-01T09:20:57Z"
+  },
   {
    "id": "2731e7abb679",
    "ts": "2026-10-01T08:58:04Z",
@@ -5952,39 +5997,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwodw6cqdd2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwodw6cqdd2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "08f26a289755",
-   "created_at": "2026-09-29T17:25:47Z"
-  },
-  {
-   "id": "da86c1a79dbd",
-   "ts": "2026-09-29T17:21:05Z",
-   "headline": "BoC's Gravelle says the bank will run operations as needed to hold its policy rate as repo imbalances push CORRA higher",
-   "detail": "Bank of Canada Deputy Governor Gravelle said the bank will tolerate only limited upward pressure on CORRA, and that more active use of two-week repos could at times take reserves above its estimated steady-state demand of C$50bn to C$70bn. He also said the Bank of Canada and OSFI issued a joint statement that using the Standing Liquidity Facility for overnight liquidity is neither exceptional nor a sign of stress.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c857686d88c34b80",
-    "377b304994f692fa",
-    "ddf43337ee2785b6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwodo7snkm2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwodo7snkm2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwodpbycp52m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwodpbycp52m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwodpmnx4t2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwodpmnx4t2f"
     }
    ],
    "model": "opus",
