@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T05:10:56Z",
+ "generated_at": "2026-10-01T05:15:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2d58dd4c6d75",
+   "ts": "2026-10-01T01:57:52Z",
+   "headline": "JGB yields rise across the curve: 10-year up 5bp to 3.110%, 30-year up 6bp to 4.200%",
+   "detail": "In Asian trading, Japan's 10-year government bond yield rose 5.0bp to 3.110% and the 20-year rose 4.5bp to 3.945%. The 30-year yield gained 6.0bp to 4.200%, and dollar/yen rose 0.5% to 158.19.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "996947a05fef9416",
+    "d6f66c1191454170",
+    "9ee42b586fda0b0c",
+    "b7972735817b2b6e",
+    "8fefa9b40a7e1329",
+    "18412b662fc1a56b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrqz7tekb2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrqz7tekb2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrqbeqswl27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrqbeqswl27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrqbh3by62l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrqbh3by62l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrraerhnf2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrraerhnf2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrrm6f2ta26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrrm6f2ta26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrrmyu7t52p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrrmyu7t52p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f8a7d6578052",
+   "created_at": "2026-10-01T05:15:56Z"
+  },
   {
    "id": "1cae1d3423a1",
    "ts": "2026-10-01T01:31:06Z",
@@ -6018,27 +6069,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoak37x2727",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoak37x2727"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0604c7284971",
-   "created_at": "2026-09-29T16:25:51Z"
-  },
-  {
-   "id": "ceb0349e6834",
-   "ts": "2026-09-29T16:21:54Z",
-   "headline": "BoE's Taylor questions whether OIS rates clearly signal market expectations for Bank Rate",
-   "detail": "MPC member Alan Taylor said he is not convinced that OIS rates give a clear read of what markets expect for Bank Rate, and that he is not a fan of using them that way. At the time, the market snapshot showed 1y SONIA OIS at 3.661% and SONIA at 3.949%.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "79de359856642802"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoaeff2gb2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoaeff2gb2p"
     }
    ],
    "model": "opus",
