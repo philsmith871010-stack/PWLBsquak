@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T19:50:56Z",
+ "generated_at": "2026-10-01T20:10:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7795224e1831",
+   "ts": "2026-10-01T20:09:37Z",
+   "headline": "US 10-year Treasury yield falls 5bp to 5.24%, retreating from its highest level since 2002",
+   "detail": "A US market wrap reports the 10-year Treasury yield down 5bp at 5.24% by the close, with the S&P 500 up 0.2% as the bond market rallied. Earlier in the session the yield reached 5.33%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "fe5349d46c47dcf9",
+    "a95a5bc57e160e33"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtnzgom4a2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtnzgom4a2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtnubvkvt23",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtnubvkvt23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d49cbbff4492",
+   "created_at": "2026-10-01T20:10:59Z"
+  },
   {
    "id": "a6341b12d33d",
    "ts": "2026-10-01T19:50:42Z",
@@ -6054,27 +6081,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwojr7test2f",
      "url": "https://bsky.app/profile/reuters.com/post/3mwojr7test2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "202a2a90c07a",
-   "created_at": "2026-09-29T19:13:03Z"
-  },
-  {
-   "id": "57075946feb6",
-   "ts": "2026-09-29T19:02:00Z",
-   "headline": "Euro falls to 16-month low against the dollar at $1.13415",
-   "detail": "The euro was last down 0.26% at $1.13415, its lowest level against the US dollar in 16 months.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "86b44a24adef59c5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwojco7yie2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwojco7yie2f"
     }
    ],
    "model": "opus",
