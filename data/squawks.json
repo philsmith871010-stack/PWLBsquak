@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T20:10:59Z",
+ "generated_at": "2026-10-01T21:40:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "24ae30537b31",
+   "ts": "2026-10-01T21:40:19Z",
+   "headline": "Fed's Kashkari expects further rate rises into 2027 but is undecided on a move this month",
+   "detail": "Minneapolis Fed President Neel Kashkari said on Thursday he expects more rate increases will be needed to restrain the economy going into 2027. He said he is unsure whether the next move should come later this month, Reuters reports.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "f291ad385552a77c"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwtt3mg5ud2p",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwtt3mg5ud2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c86f5205c039",
+   "created_at": "2026-10-01T21:40:53Z"
+  },
   {
    "id": "7795224e1831",
    "ts": "2026-10-01T20:09:37Z",
@@ -6060,27 +6081,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwojrnuszg2z",
      "url": "https://bsky.app/profile/reuters.com/post/3mwojrnuszg2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "202a2a90c07a",
-   "created_at": "2026-09-29T19:13:03Z"
-  },
-  {
-   "id": "22c1d9dc3b1f",
-   "ts": "2026-09-29T19:10:08Z",
-   "headline": "US consumer confidence falls to near 12-1/2-year low in September",
-   "detail": "Reuters reported that US consumer confidence dropped sharply in September to its lowest in nearly 12-1/2 years. Households expect business and labour market conditions to worsen over the next six months, against a backdrop of the Middle East conflict and rising interest rates.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "e125255af49ee042"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwojr7test2f",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwojr7test2f"
     }
    ],
    "model": "opus",
