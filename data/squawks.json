@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T16:10:58Z",
+ "generated_at": "2026-10-01T16:15:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "735c3f1cc72b",
+   "ts": "2026-10-01T16:11:27Z",
+   "headline": "Italy-Germany 2-year bond yield spread posts its biggest widening since 2020",
+   "detail": "A market news feed reported that the gap between Italian and German 2-year yields widened by the most since 2020. No figure was given. Euro-area bonds were already under pressure on the day, with the Italian 10-year yield at its highest since November 2023.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "41e0b6990c998b1b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtapksdtp24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtapksdtp24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dd66e7869f81",
+   "created_at": "2026-10-01T16:15:56Z"
+  },
   {
    "id": "e5971d1bb9df",
    "ts": "2026-10-01T16:08:11Z",
@@ -5981,33 +6002,6 @@
    "model": "opus",
    "run_id": "f62f6eb994ce",
    "created_at": "2026-09-29T18:11:05Z"
-  },
-  {
-   "id": "79700c49147d",
-   "ts": "2026-09-29T18:05:05Z",
-   "headline": "Fed's Musalem says rates cannot be eased on expected AI productivity gains, with AI capex currently adding to demand pressure",
-   "detail": "St Louis Fed President Musalem said the AI capital spending boom is driving demand, and productivity gains and supply relief are not yet visible.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6a17a76f07783cf4",
-    "7382005cf8c420f3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwog4w5zg72m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwog4w5zg72m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwog5erihg2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwog5erihg2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cd24560ae609",
-   "created_at": "2026-09-29T18:05:48Z"
   }
  ]
 }
