@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T05:15:56Z",
+ "generated_at": "2026-10-01T06:01:29Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "855d29064017",
+   "ts": "2026-10-01T06:01:07Z",
+   "headline": "UK Nationwide house prices fall 0.2% m/m in September; annual growth slows to 0.8% from 1.6%",
+   "detail": "Nationwide reports September house prices fell 0.2% on the month, against a forecast of 0.0% and a 0.2% rise previously. The annual rate eased to 0.8% from 1.6%.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "7137511b0a3e7d85",
+    "66c4c88706665814",
+    "32601392fff6a0e2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mws6m75tdk2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mws6m75tdk2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mws6mdvkoe26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mws6mdvkoe26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mws6mhmip42d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mws6mhmip42d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4f22a6bacd41",
+   "created_at": "2026-10-01T06:01:29Z"
+  },
   {
    "id": "2d58dd4c6d75",
    "ts": "2026-10-01T01:57:52Z",
@@ -6047,33 +6080,6 @@
    "model": "opus",
    "run_id": "ed5a4e798f94",
    "created_at": "2026-09-29T16:31:14Z"
-  },
-  {
-   "id": "b12ec63e57b4",
-   "ts": "2026-09-29T16:25:01Z",
-   "headline": "White House urges EU to release emergency diesel inventories to bring down global prices, sources say",
-   "detail": "Sources say the White House has asked the European Union to draw down its emergency diesel stocks to lower global prices. This follows the US offer of up to 40 million barrels of oil from its Strategic Petroleum Reserve.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "c20d63f1a782b8ff",
-    "4eb8192815b8bf8a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoajy7vvu27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoajy7vvu27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoak37x2727",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoak37x2727"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0604c7284971",
-   "created_at": "2026-09-29T16:25:51Z"
   }
  ]
 }
