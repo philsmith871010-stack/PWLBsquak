@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T17:45:54Z",
+ "generated_at": "2026-10-01T17:55:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "10e3f736fbe1",
+   "ts": "2026-10-01T17:55:22Z",
+   "headline": "Trump tells aides he expects to resume bombing Iran as US sends third carrier and up to 10,000 more troops to Middle East, WSJ says",
+   "detail": "The Wall Street Journal reports that President Trump has recently told aides he expects to resume strikes on Iran. It also says the US is sending a third aircraft carrier and up to 10,000 more troops to the region. No market reaction is reported in the inputs.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e5a5b2cbd05833c4",
+    "d032c6b414740589",
+    "2a4141ff840d09aa",
+    "c50ec799622abe65",
+    "fccb9ce654e2bfca"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtgjeqejg2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtgjeqejg2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtgd55wny22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtgd55wny22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtge5d2632s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtge5d2632s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtgf7kqdq2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtgf7kqdq2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtgikn4zh2x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtgikn4zh2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "304793fbdf22",
+   "created_at": "2026-10-01T17:55:46Z"
+  },
   {
    "id": "6a54ed42890c",
    "ts": "2026-10-01T17:45:16Z",
@@ -6023,33 +6068,6 @@
    "model": "opus",
    "run_id": "45412491e860",
    "created_at": "2026-09-29T18:35:51Z"
-  },
-  {
-   "id": "2387c1f09fba",
-   "ts": "2026-09-29T18:29:52Z",
-   "headline": "Fed's Williams expects inflation to ease as the largest shocks have mostly passed, and says US is less exposed to energy",
-   "detail": "New York Fed President Williams said inflation should come down because the biggest shocks have largely run their course. He added that energy prices still matter a great deal to the economy, but the US is less exposed to them than in the past.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "8b3530734108a776",
-    "eecd3cde07092ec0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwohj7qpiu2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwohj7qpiu2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwohktrffu2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwohktrffu2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "255d98156093",
-   "created_at": "2026-09-29T18:31:15Z"
   }
  ]
 }
