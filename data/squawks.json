@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T17:35:50Z",
+ "generated_at": "2026-10-01T17:45:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6a54ed42890c",
+   "ts": "2026-10-01T17:45:16Z",
+   "headline": "UK bank shares fall sharply as 30-year gilt yield reaches its highest level since 1998",
+   "detail": "Reuters reports UK bank stocks dropped sharply on Thursday as 30-year gilt yields hit their highest since 1998. It cites growing concern over UK public finances and exposure to high oil prices and inflation ahead of this month's Budget.",
+   "category": "supply",
+   "importance": 2,
+   "source_event_ids": [
+    "23747b1ac2cc88c7"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwtfxcfsdm22",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwtfxcfsdm22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "086cd7ae7871",
+   "created_at": "2026-10-01T17:45:54Z"
+  },
   {
    "id": "b62eb0572270",
    "ts": "2026-10-01T17:32:03Z",
@@ -6024,27 +6045,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwohktrffu2m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwohktrffu2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "255d98156093",
-   "created_at": "2026-09-29T18:31:15Z"
-  },
-  {
-   "id": "0e6d8c798f8f",
-   "ts": "2026-09-29T18:27:53Z",
-   "headline": "Fed's Musalem says monetary policy is still somewhat accommodative despite the latest rate hike",
-   "detail": "St Louis Fed President Musalem described the US policy stance as still somewhat accommodative after the Federal Reserve's most recent rate increase. These remarks add to his earlier comments today.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "79e9d4959bf1e3b9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwohfosov32q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwohfosov32q"
     }
    ],
    "model": "opus",
