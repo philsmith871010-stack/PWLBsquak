@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T15:45:56Z",
+ "generated_at": "2026-10-01T16:10:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e5971d1bb9df",
+   "ts": "2026-10-01T16:08:11Z",
+   "headline": "Saudi East-West crude pipeline flows recover to 5.5m barrels a day, Argus reports",
+   "detail": "Pricing agency Argus reports that throughput on Saudi Arabia's East-West crude pipeline has recovered to 5.5m barrels a day. No price reaction was reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "38ae1b933f430aef"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtajpsdmz2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtajpsdmz2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d483c0b05036",
+   "created_at": "2026-10-01T16:10:58Z"
+  },
   {
    "id": "eb5dec9f0e48",
    "ts": "2026-10-01T15:45:17Z",
@@ -5982,27 +6003,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwog5erihg2l",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwog5erihg2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cd24560ae609",
-   "created_at": "2026-09-29T18:05:48Z"
-  },
-  {
-   "id": "ea4d2cc125c0",
-   "ts": "2026-09-29T18:01:49Z",
-   "headline": "Germany cuts fuel tax from 1 October as Middle East crisis pushes up fuel prices",
-   "detail": "A CGTN report says the German government is reducing fuel tax from 1 October to ease pressure from rising fuel prices linked to the Middle East crisis.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "1bd9986991d66c1f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofx2jwcq26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofx2jwcq26"
     }
    ],
    "model": "opus",
