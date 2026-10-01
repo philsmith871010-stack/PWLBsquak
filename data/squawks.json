@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T12:10:58Z",
+ "generated_at": "2026-10-01T12:31:14Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e95ff369e16c",
+   "ts": "2026-10-01T12:30:49Z",
+   "headline": "US initial jobless claims come in at 197,000 in week to 26 September, below the 200,000 forecast",
+   "detail": "US initial claims slipped by 1,000 from a prior week revised up to 198,000. Continuing claims for the week to 19 September were 1.701m, against a forecast of 1.725m.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "1d0d758c6f21b291",
+    "ae24a8c26abb10ff",
+    "580334bb8d395b33"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsuezq6e22y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsuezq6e22y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsufbnyf42x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsufbnyf42x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsufjgqdu2x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsufjgqdu2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1658e0666362",
+   "created_at": "2026-10-01T12:31:14Z"
+  },
   {
    "id": "8b66022d239f",
    "ts": "2026-10-01T12:05:58Z",
@@ -6047,27 +6080,6 @@
    "model": "opus",
    "run_id": "5b578d48169b",
    "created_at": "2026-09-29T17:45:52Z"
-  },
-  {
-   "id": "1c64e77c7471",
-   "ts": "2026-09-29T17:40:10Z",
-   "headline": "UN Security Council extends mandate of international security force in Haiti by six months",
-   "detail": "The UN Security Council voted on Tuesday to extend the mandate of the international force fighting armed groups in Haiti by six months, Reuters reports. The vote follows fresh killings by gangs.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "98efcd49aab09899"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwoeqdj5wk2c",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwoeqdj5wk2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e996de347799",
-   "created_at": "2026-09-29T17:40:56Z"
   }
  ]
 }
