@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T12:05:52Z",
+ "generated_at": "2026-10-01T12:10:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8b66022d239f",
+   "ts": "2026-10-01T12:05:58Z",
+   "headline": "BoE's Mann calls for a Bank Rate rise, saying the current policy stance is not tight enough",
+   "detail": "MPC member Catherine Mann said raising rates can help ensure a lasting return to 2% inflation, and that real and nominal conditions need to stay tight. She also said policy cannot rely on risk premia to do the work of monetary policy and called for a clearly communicated reaction function.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "b1a3729309f4be28",
+    "b665d0a661abc932",
+    "8d04e64fe6342d4b",
+    "526c4b4d8cc76680",
+    "7016125b9c6c1723",
+    "3f2d852092d477cc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwssylzq252x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwssylzq252x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsszitf6w2x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsszitf6w2x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsszjcxac23",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsszjcxac23"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwst2aqim52x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwst2aqim52x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwst4pzaem2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwst4pzaem2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwst6l2r7y2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwst6l2r7y2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8c98cb58a620",
+   "created_at": "2026-10-01T12:10:58Z"
+  },
   {
    "id": "df891e86ad0b",
    "ts": "2026-10-01T12:05:05Z",
@@ -6012,27 +6063,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwoeqdj5wk2c",
      "url": "https://bsky.app/profile/reuters.com/post/3mwoeqdj5wk2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e996de347799",
-   "created_at": "2026-09-29T17:40:56Z"
-  },
-  {
-   "id": "c951a3207dd2",
-   "ts": "2026-09-29T17:37:05Z",
-   "headline": "White House reportedly weighs European diesel reserve release as a way to avoid a US diesel export ban",
-   "detail": "Politico reports that the White House is looking at a release of Europe's diesel reserves as an alternative to a US export ban. This follows earlier reports that Washington is pressing the EU to release emergency diesel stocks.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "e9f950260747c2a9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoektpo4d2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoektpo4d2f"
     }
    ],
    "model": "opus",
