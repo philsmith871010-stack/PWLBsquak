@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T13:40:55Z",
+ "generated_at": "2026-10-01T13:46:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "37cd06fdef16",
+   "ts": "2026-10-01T13:45:54Z",
+   "headline": "US September final S&P Global manufacturing PMI drops to 55.9, short of the 57.0 forecast and down from 57.0",
+   "detail": "S&P Global's final US manufacturing PMI for September came in at 55.9, compared with a forecast of 57.0 and 57.0 the previous month.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "3fc007c2d99a3962",
+    "2404bb7a5e0b322e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsylbwxoi27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsylbwxoi27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsylfnils2x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsylfnils2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "20c6c914bb2d",
+   "created_at": "2026-10-01T13:46:06Z"
+  },
   {
    "id": "f7b7e07db175",
    "ts": "2026-10-01T13:35:48Z",
@@ -6048,27 +6075,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwoez7pqdu27",
      "url": "https://bsky.app/profile/reuters.com/post/3mwoez7pqdu27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5b578d48169b",
-   "created_at": "2026-09-29T17:45:52Z"
-  },
-  {
-   "id": "671bffd09d72",
-   "ts": "2026-09-29T17:44:13Z",
-   "headline": "Fed's Goolsbee says the Federal Reserve Act does not require the Fed to keep bond or stock markets happy",
-   "detail": "Chicago Fed President Goolsbee said the Fed's mandate contains no requirement to satisfy the bond market or to avoid surprising equity markets.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "97045b881f59c69d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoexm4dhf2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoexm4dhf2m"
     }
    ],
    "model": "opus",
