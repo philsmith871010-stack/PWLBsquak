@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T08:21:02Z",
+ "generated_at": "2026-10-01T08:31:10Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e77548a72635",
+   "ts": "2026-10-01T08:31:05Z",
+   "headline": "UK September final manufacturing PMI comes in at 51.9, below the 52.0 forecast and down from 52.0",
+   "detail": "The final UK manufacturing PMI for September was 51.9. The forecast was 52.0 and the previous reading was 52.0. The 2-year gilt yield stood at 3.92% and the 10-year at 4.578% in the latest snapshot.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "0f6483223e1dcfd8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsgye2kdk2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsgye2kdk2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1c98f95a3a77",
+   "created_at": "2026-10-01T08:31:10Z"
+  },
   {
    "id": "188bc587a713",
    "ts": "2026-10-01T08:19:40Z",
@@ -5951,27 +5972,6 @@
    "model": "opus",
    "run_id": "35d7ff97f8d4",
    "created_at": "2026-09-29T17:20:58Z"
-  },
-  {
-   "id": "a75b9f8868aa",
-   "ts": "2026-09-29T17:15:03Z",
-   "headline": "US Agriculture Secretary Rollins says more US agricultural products will be shipped to China",
-   "detail": "US Agriculture Secretary Brooke Rollins said on 29 September that more US agricultural goods will go to China. She gave no volumes or timing.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ac9e87024de7043a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoddh7rq52z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoddh7rq52z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "94b9d23ec789",
-   "created_at": "2026-09-29T17:15:55Z"
   }
  ]
 }
