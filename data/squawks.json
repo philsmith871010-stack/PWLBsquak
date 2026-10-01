@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T07:35:45Z",
+ "generated_at": "2026-10-01T07:45:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "36baed7318f4",
+   "ts": "2026-10-01T07:45:04Z",
+   "headline": "US Treasuries end their worst quarter since 1994 as yields hit two-decade highs for a seventh straight session",
+   "detail": "Reuters reports that US yields reached two-decade highs for a seventh consecutive session on Thursday. A fall in oil prices later steadied bond markets.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "bc77255102c1261a"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwseg33z562r",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwseg33z562r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "09041e5ae306",
+   "created_at": "2026-10-01T07:45:53Z"
+  },
   {
    "id": "4abd6cceefb3",
    "ts": "2026-10-01T07:35:03Z",
@@ -5964,33 +5985,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobpa2wa62t",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobpa2wa62t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "14cfa05bcb9f",
-   "created_at": "2026-09-29T16:45:59Z"
-  },
-  {
-   "id": "8fc91ab4018d",
-   "ts": "2026-09-29T16:43:52Z",
-   "headline": "Drone fires on a ship on the southern Strait of Hormuz route, Iran's Fars News reports",
-   "detail": "Fars News, citing local sources, reported that a drone targeted a ship it described as violating rules on the southern route through the Strait of Hormuz. No market reaction was reported in the inputs.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "d7e4c06fa06d0263",
-    "3bf934f42e29af83"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobloglza2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobloglza2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobnaalkh27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobnaalkh27"
     }
    ],
    "model": "opus",
