@@ -1,8 +1,95 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T17:21:13Z",
+ "generated_at": "2026-10-01T17:35:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b62eb0572270",
+   "ts": "2026-10-01T17:32:03Z",
+   "headline": "Fed's Jefferson says the Fed may take more time over its next rate move, hinting at an October hold",
+   "detail": "Fed policymaker Jefferson said future rate changes should depend on the data and inflation is still above target with upside risks. He also said the September rate rise will help anchor inflation expectations, and he expects unemployment to hold steady to the end of the year.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d1a6ba62d9a2c36f",
+    "dd3219760afdcc2f",
+    "1d8be00c3c1ece4c",
+    "f444505c8af25301",
+    "a404ff1c4a0b99d4",
+    "23915715755c8265",
+    "21ff142082c44037",
+    "352b78c0f37a101f",
+    "005695826c035afa",
+    "5f266978a72c7aa6",
+    "7bf877c0ddc25f3c",
+    "fcc37d0f17d80202"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtf7og5qm2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtf7og5qm2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtf7syiab2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtf7syiab2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtfabbo4j2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtfabbo4j2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtfaf4d2e2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtfaf4d2e2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtfalw7lb2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtfalw7lb2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtfbe5r462n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtfbe5r462n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtfbeqom227",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtfbeqom227"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtfbj4swm2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtfbj4swm2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtfbne5al2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtfbne5al2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtfbqusi42u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtfbqusi42u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtfbuxi6227",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtfbuxi6227"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtfc433h224",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtfc433h224"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6059aefb683a",
+   "created_at": "2026-10-01T17:35:50Z"
+  },
   {
    "id": "0f76823b69ae",
    "ts": "2026-10-01T17:20:17Z",
@@ -5963,27 +6050,6 @@
    "model": "opus",
    "run_id": "255d98156093",
    "created_at": "2026-09-29T18:31:15Z"
-  },
-  {
-   "id": "59a6431ab300",
-   "ts": "2026-09-29T18:23:07Z",
-   "headline": "Fed's Musalem suggests anonymously linking rate dots to economic projections to improve the SEP",
-   "detail": "St Louis Fed President Musalem said the Fed's Summary of Economic Projections could be improved by connecting each participant's anonymous rate projection to their economic forecasts. The remark was reported on 29 September.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6b8b564225b01c39"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoh55iqdk2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoh55iqdk2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e58288a772cc",
-   "created_at": "2026-09-29T18:25:50Z"
   }
  ]
 }
