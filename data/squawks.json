@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T18:55:46Z",
+ "generated_at": "2026-10-01T19:40:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7e4f7df42bfa",
+   "ts": "2026-10-01T19:37:00Z",
+   "headline": "Fed's Cook says supply shocks are having persistent effects and inflation expectations must stay anchored",
+   "detail": "Federal Reserve Governor Cook said supply shocks have had surprisingly lasting effects and are becoming more important for policy, and that the best policy response could vary by sector. She also said the Fed needs to keep inflation expectations anchored and pay attention to consumer confidence.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "057a80cad69a4159",
+    "fc5dd8e966c25393",
+    "21d814041bb225bc",
+    "c3352b90e0a4e2d7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtm73roif22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtm73roif22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtmakrjdu2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtmakrjdu2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtmdzuc5p2x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtmdzuc5p2x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtmewb7zn2x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtmewb7zn2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "77ca8e18c241",
+   "created_at": "2026-10-01T19:40:55Z"
+  },
   {
    "id": "179007e46813",
    "ts": "2026-10-01T18:54:09Z",
@@ -6047,27 +6086,6 @@
    "model": "opus",
    "run_id": "a179353545b3",
    "created_at": "2026-09-29T18:55:54Z"
-  },
-  {
-   "id": "386f38ca9032",
-   "ts": "2026-09-29T18:50:11Z",
-   "headline": "US sanctions 10 individuals and entities accused of procuring weapons for Iran's defence ministry",
-   "detail": "The US Treasury Department said on Tuesday that the 10 individuals and entities it has sanctioned include some based in China, Hong Kong and Pakistan. It said they helped Iran's Ministry of Defence obtain weapons and components.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "bbd1de02dd64e4ac"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwoinjrwn72e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwoinjrwn72e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ff0065bd1be6",
-   "created_at": "2026-09-29T18:50:56Z"
   }
  ]
 }
