@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T15:41:03Z",
+ "generated_at": "2026-10-01T15:45:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "eb5dec9f0e48",
+   "ts": "2026-10-01T15:45:17Z",
+   "headline": "Money markets stop fully pricing four BoE rate rises by the end of 2027",
+   "detail": "Traders have scaled back BoE tightening bets and no longer fully price four Bank Rate rises by the end of 2027. The 1-year SONIA OIS stands at 3.661% and the 2-year gilt yield at 3.92%.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "2f37466b8f0001ec"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwt7aqybz62s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwt7aqybz62s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "999ef726d836",
+   "created_at": "2026-10-01T15:45:56Z"
+  },
+  {
+   "id": "a9836c41fe42",
+   "ts": "2026-10-01T15:43:22Z",
+   "headline": "US 2-year Treasury yield extends its fall to 10bp on the day, at 4.785%",
+   "detail": "The US 2-year Treasury yield is down 10bp on the day at 4.785%, extending an earlier 6bp fall.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "12679d866c621d8c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwt75dil272i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwt75dil272i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "999ef726d836",
+   "created_at": "2026-10-01T15:45:56Z"
+  },
+  {
+   "id": "94eb0e07f495",
+   "ts": "2026-10-01T15:42:23Z",
+   "headline": "German government raises 2026 growth forecast to 1.3% from 0.5%, according to draft",
+   "detail": "A person familiar with the German government's draft forecast says it raises 2026 growth to 1.3% from the 0.5% expected in April. The same draft puts growth for 2028 at 0.6%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "887b94059c0467bc",
+    "0843f612ea2da021"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwt73lfap72y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwt73lfap72y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwt73rjqzx2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwt73rjqzx2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "999ef726d836",
+   "created_at": "2026-10-01T15:45:56Z"
+  },
   {
    "id": "60f3b2d52fa3",
    "ts": "2026-10-01T15:38:09Z",
@@ -5939,153 +6008,6 @@
    "model": "opus",
    "run_id": "cd24560ae609",
    "created_at": "2026-09-29T18:05:48Z"
-  },
-  {
-   "id": "f029693479a1",
-   "ts": "2026-09-29T18:01:40Z",
-   "headline": "Fed's Williams sees one further hike as likely this year if the economy performs as expected, but no urgency after September's hike",
-   "detail": "New York Fed President Williams said policy will respond to data, he projects US inflation at 3.5% this year and back at the 2% target in 2028, and it is imperative that high inflation does not become entrenched. He sees US GDP growth of 2.25% this year and unemployment at 4% over 2027, and said AI investment is an increasingly big issue for inflation.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "e7692da4fa04abf0",
-    "555b18fe9109c319",
-    "96ad4e90570717f7",
-    "77d05bf565646279",
-    "0f7a29a9da3287e1",
-    "84d93ace9d9ee1b7",
-    "96dc4a186e6aeb01",
-    "222440f835e9ac86",
-    "438c52dbd2f533b5",
-    "1daf4987ebf51fba",
-    "e9fd9f251a094e3e",
-    "ff476245477d11b1",
-    "432f3bdefaa08f20",
-    "6e087922f63012f0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofwsos4627",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofwsos4627"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofwvbsvn2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofwvbsvn2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofwxrxop22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofwxrxop22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofx62yne2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofx62yne2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofxbltv22v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofxbltv22v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofxdla7q27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofxdla7q27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofxfsgqo2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofxfsgqo2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofxivjbg27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofxivjbg27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofyckgxq27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofyckgxq27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofyfojwg27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofyfojwg27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofyix7vw2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofyix7vw2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofzgilb32q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofzgilb32q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofzjz4f72d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofzjz4f72d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofzkj7ri26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofzkj7ri26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cd24560ae609",
-   "created_at": "2026-09-29T18:05:48Z"
-  },
-  {
-   "id": "863a40490e47",
-   "ts": "2026-09-29T17:55:43Z",
-   "headline": "IFS publishes analysis of PM Burnham's triple lock changes, which take effect in 2030–31",
-   "detail": "The Institute for Fiscal Studies has published an assessment of the changes to the state pension triple lock announced by Prime Minister Andy Burnham. It says the reform comes into effect in 2030–31.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "853f6401c7b70f67"
-   ],
-   "sources": [
-    {
-     "author": "julianhjessop.bsky.social",
-     "uri": "at://did:plc:wwxpsnwpv52qup3qdzrgacop/app.bsky.feed.post/3mwofm5mohs2f",
-     "url": "https://bsky.app/profile/julianhjessop.bsky.social/post/3mwofm5mohs2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "13dacc51be20",
-   "created_at": "2026-09-29T18:01:24Z"
-  },
-  {
-   "id": "0d759c6b30ea",
-   "ts": "2026-09-29T17:54:23Z",
-   "headline": "Bank of Canada's Gravelle says government bond purchases for the balance sheet may not start until 2028",
-   "detail": "Bank of Canada Deputy Governor Gravelle said purchases of Government of Canada bonds are likely to start later than planned and may not begin until 2028.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0348fb1047c2fa86",
-    "3b1e967a77d75ec6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofie3p422t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofie3p422t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofjrx4e22m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofjrx4e22m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5cc5c608008d",
-   "created_at": "2026-09-29T17:55:48Z"
   }
  ]
 }
