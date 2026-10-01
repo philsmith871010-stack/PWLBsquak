@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T12:02:04Z",
+ "generated_at": "2026-10-01T12:05:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "df891e86ad0b",
+   "ts": "2026-10-01T12:05:05Z",
+   "headline": "BoE's Mann says a risk-management approach to policy is appropriate given inflation risks",
+   "detail": "MPC member Catherine Mann said a risk-management strategy is suitable in light of the risks to inflation. No market reaction was reported in the inputs.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "e3ac0ca0c15445ff"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsswzlvh62s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsswzlvh62s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6b0cfda93454",
+   "created_at": "2026-10-01T12:05:52Z"
+  },
   {
    "id": "3b4627df7e86",
    "ts": "2026-10-01T12:01:25Z",
@@ -6017,27 +6038,6 @@
    "model": "opus",
    "run_id": "e996de347799",
    "created_at": "2026-09-29T17:40:56Z"
-  },
-  {
-   "id": "45713ae3ba23",
-   "ts": "2026-09-29T17:35:07Z",
-   "headline": "UK PM Burnham's social care plan would scrap the pensions triple lock to fund free care in England",
-   "detail": "The Financial Times reports that the Prime Minister's plan would end the triple lock on state pensions. The savings would pay for social care in England that is free at the point of use.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "452bf13fd2936034"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwoehcncdp2t",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwoehcncdp2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d2f200154ef5",
-   "created_at": "2026-09-29T17:35:50Z"
   }
  ]
 }
