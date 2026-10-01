@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T21:40:53Z",
+ "generated_at": "2026-10-01T21:45:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a13ef2968cee",
+   "ts": "2026-10-01T21:45:18Z",
+   "headline": "Markets price out an October Fed rate rise after two senior officials argue for waiting on more data",
+   "detail": "Reuters reports that remarks this week from two of the Federal Reserve's top policymakers led markets to drop expectations of a rate increase at the Fed's late-October meeting. Both officials said they wanted more data before deciding on the next policy move.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "8d150af3680e6128"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwttejbw6e23",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwttejbw6e23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "68b7bb29052f",
+   "created_at": "2026-10-01T21:45:53Z"
+  },
   {
    "id": "24ae30537b31",
    "ts": "2026-10-01T21:40:19Z",
@@ -6060,27 +6081,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwojsve3y52z",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwojsve3y52z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "202a2a90c07a",
-   "created_at": "2026-09-29T19:13:03Z"
-  },
-  {
-   "id": "d315fdb073b0",
-   "ts": "2026-09-29T19:10:23Z",
-   "headline": "BoE's Taylor doubts a single rate hike is practical without fuelling market bets on further increases",
-   "detail": "Reuters reported on Tuesday that Bank of England MPC member Alan Taylor said it was unclear whether the Bank could make a single rate hike to curb inflation without prompting unwarranted market speculation of further hikes. At the time of the snapshot the 2-year gilt yield was 3.92% and 1-year SONIA OIS was 3.661%.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "dfded6c6bc68cc77"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwojrnuszg2z",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwojrnuszg2z"
     }
    ],
    "model": "opus",
