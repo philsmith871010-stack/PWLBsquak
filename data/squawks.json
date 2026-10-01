@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T18:35:54Z",
+ "generated_at": "2026-10-01T18:55:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "179007e46813",
+   "ts": "2026-10-01T18:54:09Z",
+   "headline": "Brent crude futures settle 4.37% higher at $102.31 a barrel",
+   "detail": "Brent crude futures settled up $4.28, or 4.37%, at $102.31 a barrel on 1 October. Earlier in the session the gain had reached 4.6% after China suspended oil exports.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "d58a484cee7e2101"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtjsiehzi2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtjsiehzi2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cd1ef5a34158",
+   "created_at": "2026-10-01T18:55:46Z"
+  },
   {
    "id": "9a8a08e435ab",
    "ts": "2026-10-01T18:35:08Z",
@@ -6042,33 +6063,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwoinjrwn72e",
      "url": "https://bsky.app/profile/reuters.com/post/3mwoinjrwn72e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ff0065bd1be6",
-   "created_at": "2026-09-29T18:50:56Z"
-  },
-  {
-   "id": "f176a56febc5",
-   "ts": "2026-09-29T18:49:47Z",
-   "headline": "Traders scale back bets on an October Fed hike and now price one more hike by year-end after Williams remarks",
-   "detail": "Market pricing moved after New York Fed President Williams said there was no urgency for further action following September's hike. Traders now expect only one more Fed rate hike by the end of the year.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "802ebc9fdfdfb07d",
-    "d6d889347e27f8f3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoimthaiw2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoimthaiw2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoimx2vox2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoimx2vox2m"
     }
    ],
    "model": "opus",
