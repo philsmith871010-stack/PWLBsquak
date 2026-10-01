@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T07:31:12Z",
+ "generated_at": "2026-10-01T07:35:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4abd6cceefb3",
+   "ts": "2026-10-01T07:35:03Z",
+   "headline": "Chinese refiners suspend October fuel exports beyond Hong Kong and Macau until further notice, sources say",
+   "detail": "Reuters, citing four people briefed on the matter, reports that Chinese refiners have stopped exporting oil products to destinations other than Hong Kong and Macau until Beijing says otherwise. One refiner has cancelled cargoes.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "7314cf19b2858579"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwsdu5fweq2e",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwsdu5fweq2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d27d615f748a",
+   "created_at": "2026-10-01T07:35:45Z"
+  },
   {
    "id": "51f7e95278b1",
    "ts": "2026-10-01T07:30:30Z",
@@ -5970,93 +5991,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobnaalkh27",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobnaalkh27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "14cfa05bcb9f",
-   "created_at": "2026-09-29T16:45:59Z"
-  },
-  {
-   "id": "19f52c996662",
-   "ts": "2026-09-29T16:41:21Z",
-   "headline": "Fed's Barr says inflation risks have increased and further policy adjustments are likely to be needed",
-   "detail": "Federal Reserve Governor Barr said he sees no clear trend towards a timely return to 2% inflation and that risks to the labour market have receded. He expects US GDP growth to pick up a little in the second half from a 2% pace in the first half, and said it is too early to know whether AI will push up the neutral rate.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "9b7029874bd49126",
-    "4f4c60cb5d81252a",
-    "27b9478ab6f98fd9",
-    "496820d6a8e39b52",
-    "a0381f7703507115",
-    "9f8fd48af3d0c58e",
-    "0b88ee4a8f961b45",
-    "bd79fa2375caae31",
-    "74a69da3bc2dbe8b",
-    "6eea2784edc489f4",
-    "82e968c0d744fe0d",
-    "d13d8b385735928a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobh6b34f2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobh6b34f2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobhm3x3a2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobhm3x3a2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobiedszn2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobiedszn2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobij4afo2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobij4afo2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobipxs5x2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobipxs5x2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobj2b6772z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobj2b6772z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobk4q2ev2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobk4q2ev2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobkb4obp27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobkb4obp27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobkeezdf2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobkeezdf2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobkhszrw27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobkhszrw27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobkjzva727",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobkjzva727"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobkvwouv2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobkvwouv2v"
     }
    ],
    "model": "opus",
