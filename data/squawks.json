@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T12:31:14Z",
+ "generated_at": "2026-10-01T13:11:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "04786a346082",
+   "ts": "2026-10-01T13:06:11Z",
+   "headline": "Fed's Collins says growth is at or above trend and inflation is too high, and gives no steer on the next meeting",
+   "detail": "Boston Fed President Collins said the US labour market is close to full employment and inflation remains too high. She declined to commit to a policy view ahead of the next FOMC meeting.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "694444c72b0c01e9",
+    "79ca43787a2e62f7",
+    "26d255186af437cb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsweb3pb32y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsweb3pb32y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwswiuyihx27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwswiuyihx27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwswj3frsd2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwswj3frsd2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "01e4b3c46d09",
+   "created_at": "2026-10-01T13:11:00Z"
+  },
   {
    "id": "e95ff369e16c",
    "ts": "2026-10-01T12:30:49Z",
@@ -6042,39 +6075,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoewslnrl2c",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoewslnrl2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5b578d48169b",
-   "created_at": "2026-09-29T17:45:52Z"
-  },
-  {
-   "id": "508ce45aaf7f",
-   "ts": "2026-09-29T17:41:13Z",
-   "headline": "Fed's Barr says the US economy is strong, inflation has been too high and AI is pushing up costs in the short term",
-   "detail": "Federal Reserve Governor Barr made the remarks in an interview with Detroit radio station WJR. He said inflation running too high has left people frustrated and uncertain.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8ec19c0c25bf4106",
-    "51295e5db5a531ea",
-    "78fd263b0dc6cba6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoesacl7e2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoesacl7e2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoetcmi4p2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoetcmi4p2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoevsconv27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoevsconv27"
     }
    ],
    "model": "opus",
