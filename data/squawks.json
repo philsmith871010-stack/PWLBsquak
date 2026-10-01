@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T07:45:53Z",
+ "generated_at": "2026-10-01T07:51:35Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "472eea81c057",
+   "ts": "2026-10-01T07:45:52Z",
+   "headline": "US reportedly presses France and Germany to release emergency diesel stocks, raising the prospect of a US diesel export ban",
+   "detail": "Three sources say the US has told France and Germany to release emergency diesel reserves or face a possible US ban on diesel exports. One source says the US wants the EU to release 120 million barrels of diesel over the next six months.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "6950790f893d8b4c",
+    "3924d1afb1ab59d9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsehj7pev2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsehj7pev2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwseoiv3zm2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwseoiv3zm2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d83d4906c0b5",
+   "created_at": "2026-10-01T07:51:35Z"
+  },
   {
    "id": "36baed7318f4",
    "ts": "2026-10-01T07:45:04Z",
@@ -5963,33 +5990,6 @@
    "model": "opus",
    "run_id": "ad6809f1ea58",
    "created_at": "2026-09-29T16:50:58Z"
-  },
-  {
-   "id": "8346882a3e32",
-   "ts": "2026-09-29T16:45:14Z",
-   "headline": "BoE's Taylor flags upside risks to food inflation and links rising oil futures to 2022-type inflation risk",
-   "detail": "MPC member Alan Taylor said there is considerable upside risk to food inflation. He also said that each rise in oil futures curves increases the risk of a 2022-type inflation scenario.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "36287a17acf9a001",
-    "2c08724f0fb29a45"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobo4e36x2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobo4e36x2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobpa2wa62t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobpa2wa62t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "14cfa05bcb9f",
-   "created_at": "2026-09-29T16:45:59Z"
   }
  ]
 }
