@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T07:51:35Z",
+ "generated_at": "2026-10-01T08:01:21Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e3dad84a61fd",
+   "ts": "2026-10-01T08:01:00Z",
+   "headline": "Eurozone September final manufacturing PMI is revised up to 52.9 from the 52.7 flash reading",
+   "detail": "The final eurozone manufacturing PMI for September came in at 52.9. Both the forecast and the previous reading were 52.7.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "988144d836cf7298"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsfckxkg32z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsfckxkg32z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "abd996ad615d",
+   "created_at": "2026-10-01T08:01:21Z"
+  },
   {
    "id": "472eea81c057",
    "ts": "2026-10-01T07:45:52Z",
@@ -5964,27 +5985,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobv23hkv26",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobv23hkv26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ad6809f1ea58",
-   "created_at": "2026-09-29T16:50:58Z"
-  },
-  {
-   "id": "caef3888496b",
-   "ts": "2026-09-29T16:47:08Z",
-   "headline": "US says several EU states have released less oil and refined products from reserves than promised",
-   "detail": "The Trump administration said a number of EU member countries have fallen short of their pledged releases of crude and refined products from emergency stocks.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "c3996c040cb4f988"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobripg222f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobripg222f"
     }
    ],
    "model": "opus",
