@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T14:05:54Z",
+ "generated_at": "2026-10-01T15:01:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3854fa2a6399",
+   "ts": "2026-10-01T15:01:09Z",
+   "headline": "IMF says global bond markets are functioning in an orderly way",
+   "detail": "The IMF said global bond markets are operating in an orderly manner, at a time when US, French, Italian and UK yields have been rising. The UK 10-year gilt yield stood at 4.578% in the latest snapshot.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4216159eeed22176"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwt4rtjhrw2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwt4rtjhrw2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7089b979e7ce",
+   "created_at": "2026-10-01T15:01:39Z"
+  },
   {
    "id": "1f72a77c5f72",
    "ts": "2026-10-01T14:04:32Z",
@@ -6077,33 +6098,6 @@
    "model": "opus",
    "run_id": "5cc5c608008d",
    "created_at": "2026-09-29T17:55:48Z"
-  },
-  {
-   "id": "84d7055b6fa6",
-   "ts": "2026-09-29T17:50:29Z",
-   "headline": "Fed's Goolsbee calls for a rethink of looking through supply shocks after five and a half years of inflation above target",
-   "detail": "Chicago Fed President Austan Goolsbee said the approach of looking through supply shocks needs revisiting. He described inflation's five and a half years above the Fed's target as playing with fire.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "891754bb6795d46b",
-    "5d02d56f1d7877b2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofaudezh2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofaudezh2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofcsezfs2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofcsezfs2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "da683ce702e8",
-   "created_at": "2026-09-29T17:50:56Z"
   }
  ]
 }
