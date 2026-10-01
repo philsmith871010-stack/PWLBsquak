@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T08:10:55Z",
+ "generated_at": "2026-10-01T08:16:27Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ec6f7eab0806",
+   "ts": "2026-10-01T08:14:45Z",
+   "headline": "French 5-year CDS climb to 71.6bp, the highest since July 2013, as French bonds sell off",
+   "detail": "France's 5-year credit default swaps reached 71.6bp, their highest level since July 2013. The move came as French government bonds sold off.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "8f71ee43d1b0f2b3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsg35dksp27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsg35dksp27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "05e4a89a9652",
+   "created_at": "2026-10-01T08:16:27Z"
+  },
   {
    "id": "1de662562ed8",
    "ts": "2026-10-01T08:09:14Z",
@@ -5969,27 +5990,6 @@
    "model": "opus",
    "run_id": "a46543447174",
    "created_at": "2026-09-29T17:06:02Z"
-  },
-  {
-   "id": "73b0e8f8c273",
-   "ts": "2026-09-29T16:50:06Z",
-   "headline": "BoE's Taylor doubts a one-off insurance rate hike could be delivered without being read as the start of a series",
-   "detail": "MPC member Alan Taylor said he was unsure the Bank could raise Bank Rate once as insurance without markets interpreting it as the first of several hikes. The 2y gilt yield stood at 3.92% and 1y SONIA OIS at 3.661% at 16:50 UTC.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "0c2ab4d883759caf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwobwsqd4p2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwobwsqd4p2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ad6809f1ea58",
-   "created_at": "2026-09-29T16:50:58Z"
   }
  ]
 }
