@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T06:01:29Z",
+ "generated_at": "2026-10-01T06:31:16Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "35d82b42695c",
+   "ts": "2026-10-01T06:31:07Z",
+   "headline": "Swiss September CPI rises to 1.0% y/y from 0.8%, matching forecast",
+   "detail": "Swiss annual consumer price inflation was 1.0% in September, in line with the 1.0% forecast and up from 0.8% the previous month.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a1b9a4acde9bd70f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsabtdwam2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsabtdwam2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4e22c0a382a4",
+   "created_at": "2026-10-01T06:31:16Z"
+  },
   {
    "id": "855d29064017",
    "ts": "2026-10-01T06:01:07Z",
@@ -6048,33 +6069,6 @@
      "author": "tonytassell.bsky.social",
      "uri": "at://did:plc:36jf3cibx5co5hmiknqtw7dd/app.bsky.feed.post/3mwoaufjd422l",
      "url": "https://bsky.app/profile/tonytassell.bsky.social/post/3mwoaufjd422l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ed5a4e798f94",
-   "created_at": "2026-09-29T16:31:14Z"
-  },
-  {
-   "id": "d23b83a1bda3",
-   "ts": "2026-09-29T16:26:05Z",
-   "headline": "Russia's 2027 budget plans raise debt servicing costs by 21.6% and cut welfare, education and health spending",
-   "detail": "Russian fiscal documents show debt servicing costs rising 21.6% in 2027 to 9.4% of total spending. The same documents show planned cuts to welfare, education and healthcare funding.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f4866d0580842c2b",
-    "225a2cd31f9d4f87"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoaluh3u227",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoaluh3u227"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoalrxpss27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoalrxpss27"
     }
    ],
    "model": "opus",
