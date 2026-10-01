@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T11:15:56Z",
+ "generated_at": "2026-10-01T12:02:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3b4627df7e86",
+   "ts": "2026-10-01T12:01:25Z",
+   "headline": "French budget watchdog HCFP calls 2027 growth forecast optimistic but finds 2026 deficit target plausible",
+   "detail": "France's High Council of Public Finances (HCFP) says the 2026 deficit target is plausible but carries risks. It describes the 2027 budget targets as a significant adjustment and says the deficit goal is a minimum given the country's alarming public finances.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "eccd57e7c0dc90f2",
+    "50c604ae0bb3232d",
+    "945e247445fa881a",
+    "91e0a19db647aa63"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwssqhdtlv2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwssqhdtlv2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwssqn4tj424",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwssqn4tj424"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwssqnnolr2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwssqnnolr2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwssrh2ghc2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwssrh2ghc2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b248a2957361",
+   "created_at": "2026-10-01T12:02:04Z"
+  },
   {
    "id": "478ff50b0e03",
    "ts": "2026-10-01T11:15:13Z",
@@ -5994,27 +6033,6 @@
      "author": "financialtimes.com",
      "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwoehcncdp2t",
      "url": "https://bsky.app/profile/financialtimes.com/post/3mwoehcncdp2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d2f200154ef5",
-   "created_at": "2026-09-29T17:35:50Z"
-  },
-  {
-   "id": "cc567769536a",
-   "ts": "2026-09-29T17:35:04Z",
-   "headline": "White House presses EU to release emergency diesel stocks to bring down global fuel prices, sources say",
-   "detail": "Reuters, citing two sources, reports that the White House has asked the EU to draw down its emergency diesel inventories. The request is one of several options the Trump administration is pursuing to ease fuel costs before November's midterm elections.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "f50e67d97ed7311b"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwoeha523t2z",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwoeha523t2z"
     }
    ],
    "model": "opus",
