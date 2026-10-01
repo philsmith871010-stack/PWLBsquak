@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T15:01:39Z",
+ "generated_at": "2026-10-01T15:21:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "90cd04e58814",
+   "ts": "2026-10-01T15:16:25Z",
+   "headline": "US 2-year Treasury yield falls 6bp to 4.827%, briefly touching its lowest level in a week",
+   "detail": "The US 2-year Treasury yield was reported down 6.03bp at 4.827% after briefly reaching a one-week low.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0956c2a49ae07b22"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwt5n5eu3f24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwt5n5eu3f24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4df08088f310",
+   "created_at": "2026-10-01T15:21:03Z"
+  },
   {
    "id": "3854fa2a6399",
    "ts": "2026-10-01T15:01:09Z",
@@ -6054,45 +6075,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofhkpbmq2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofhkpbmq2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5cc5c608008d",
-   "created_at": "2026-09-29T17:55:48Z"
-  },
-  {
-   "id": "c248c286c550",
-   "ts": "2026-09-29T17:51:23Z",
-   "headline": "Fed's Goolsbee says oil prices could fall fairly quickly but getting refineries back online is the harder problem",
-   "detail": "In further remarks on 29 September, Chicago Fed President Goolsbee said oil prices could come down relatively quickly, but the bigger challenge is restoring refinery operations. He also told listeners to watch productivity.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "3d9159173343cf0d",
-    "c8884bc00ee12c43",
-    "4999f4d537c4b0c4",
-    "cfff368b8f9f180b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofeg34dt2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofeg34dt2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoff6eysp2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoff6eysp2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoficx7sl2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoficx7sl2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwofdma2jl2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwofdma2jl2c"
     }
    ],
    "model": "opus",
