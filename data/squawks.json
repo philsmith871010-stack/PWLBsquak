@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T16:35:50Z",
+ "generated_at": "2026-10-01T17:21:13Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0f76823b69ae",
+   "ts": "2026-10-01T17:20:17Z",
+   "headline": "Euro extends its fall against the dollar, down 1% at $1.12165",
+   "detail": "The euro was last trading 1% lower against the US dollar at $1.12165 on Thursday evening, extending earlier losses.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "331b45b861517ec9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtekn72ym2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtekn72ym2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "da49460e9b04",
+   "created_at": "2026-10-01T17:21:13Z"
+  },
   {
    "id": "f337b1a6d5a2",
    "ts": "2026-10-01T16:33:00Z",
@@ -5963,33 +5984,6 @@
    "model": "opus",
    "run_id": "e58288a772cc",
    "created_at": "2026-09-29T18:25:50Z"
-  },
-  {
-   "id": "1e008c03f08d",
-   "ts": "2026-09-29T18:12:09Z",
-   "headline": "Fed's Musalem says about half of current inflation comes from persistent demand pressure, with long-run expectations anchored at 2%",
-   "detail": "St Louis Fed President Musalem said roughly half of inflation now reflects persistent demand pressure. He added that inflation expectations remain consistent with 2% inflation over the long run.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "9a89dcb12b082fb5",
-    "71a0b952c6ecf437"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwogjkn6n722",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwogjkn6n722"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwogn7xsen27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwogn7xsen27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1d31dc0723ed",
-   "created_at": "2026-09-29T18:15:57Z"
   }
  ]
 }
