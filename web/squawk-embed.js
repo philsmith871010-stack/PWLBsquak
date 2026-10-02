@@ -15,6 +15,9 @@
  *   data-src     feed URL (default: data/squawks.json next to this script's repo root)
  *   data-theme   "light" | "dark" (default: follow the viewer's system setting)
  *   data-label   strip label (default: "PWLB Squawk")
+ *   data-motion  "scroll" (default: continuous tape) or "rotate" (one squawk at a time,
+ *                swapped every few seconds)
+ *   data-interval seconds each squawk shows in rotate mode (default 6)
  *   data-variant "banner" (light, orange-ruled row inside page content) or "topbar"
  *                (full-width strip for the very top of the page, above the site header)
  *
@@ -300,7 +303,43 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
   .open span.txt { display: none; }
   dialog { width: 100vw; max-height: 88vh; border-radius: 14px 14px 0 0; }
 }
+/* -- rotate mode -------------------------------------------------------------
+   One squawk at a time: the new one slides up into place, the old one is gone. */
+.strip.rotate .viewport::before, .strip.rotate .viewport::after { display: none; }
+.strip.rotate .track {
+  display: flex; width: 100%; animation: none; overflow: hidden; padding: 0;
+}
+.strip.rotate .item {
+  flex: 1 1 auto; min-width: 0; margin: 0; padding: 9px 10px; border-radius: 0;
+  animation: rot-in .45s cubic-bezier(.2, .7, .2, 1) both;
+}
+.strip.rotate .item .hl { overflow: hidden; text-overflow: ellipsis; min-width: 0; flex: 0 1 auto; }
+.strip.rotate .item .count {
+  margin-left: auto; padding-left: 12px; flex: none;
+  font-size: 11px; color: var(--muted); font-variant-numeric: tabular-nums;
+}
+.strip.rotate .item .cat {
+  flex: none; padding: 1px 7px; border-radius: 999px; color: #fff;
+  font-size: 10px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase;
+}
+.strip.rotate .bar { position: absolute; left: 0; bottom: 0; height: 2px; background: var(--accent); opacity: .7;
+  animation: rot-bar var(--rot, 6s) linear both; }
+.strip.rotate.paused .bar, .strip.rotate .viewport:hover .bar { animation-play-state: paused; }
+@media (max-width: 600px) {
+  .strip.rotate .item .at, .strip.rotate .item .cat, .strip.rotate .item .count { display: none; }
+  .strip.rotate .item { white-space: normal; align-items: flex-start; text-align: left; line-height: 1.3; }
+  .strip.rotate .item .hl {
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; white-space: normal;
+  }
+}
+@keyframes rot-in { from { transform: translateY(70%); opacity: 0; } to { transform: none; opacity: 1; } }
+@keyframes rot-bar { from { width: 0; } to { width: 100%; } }
+:host([data-variant="topbar"]) .strip.rotate .item { padding: 7px 12px; }
+:host([data-variant="topbar"]) .strip.rotate .item .count { color: rgba(255, 255, 255, .55); }
+
 @media (prefers-reduced-motion: reduce) {
+  .strip.rotate .item { animation: none; }
+  .strip.rotate .bar { display: none; }
   .track { animation: none; }
   .viewport { overflow-x: auto; scrollbar-width: thin; }
   .pulse { animation: none; }
@@ -348,6 +387,14 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
     root.querySelector('.head h2').textContent =
       (host.getAttribute('data-title') || 'Today\u2019s squawks');
 
+    var rotate = (host.getAttribute('data-motion') || '') === 'rotate';
+    var rotSecs = Math.max(3, parseFloat(host.getAttribute('data-interval')) || 6);
+    var rotIdx = 0, rotTimer = null, rotShown = [];
+    if (rotate) {
+      strip.classList.add('rotate');
+      strip.style.setProperty('--rot', rotSecs + 's');
+    }
+
     var all = [];          // every squawk, newest event first
     var today = [];        // today's only
     var generatedAt = null;
@@ -374,6 +421,7 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
           (last ? ' \u00b7 last one ' + esc(ago(last.ts)) : '') + '</span>';
         return;
       }
+      if (rotate) { startRotation(today.slice(0, STRIP_MAX)); return; }
       // Rendered twice so the loop is seamless: the animation travels exactly half the track.
       var shown = today.slice(0, STRIP_MAX);
       var once = shown.map(function (s) {
@@ -394,7 +442,47 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
       sizeTrack();
     }
 
+    // -- rotate mode -------------------------------------------------------------------
+
+    function rotItem(s, i, n) {
+      return '<button class="item" type="button" title="Read this squawk" data-id="' + esc(s.id) + '">' +
+        '<span class="mark i' + s.importance + '">' + impMark(s.importance) + '</span>' +
+        '<span class="at">' + esc(timeFmt.format(new Date(s.ts))) + '</span>' +
+        '<span class="cat ' + esc(s.category) + '">' + esc(CATS[s.category] || s.category) + '</span>' +
+        '<span class="hl">' + esc(s.headline) + '</span>' +
+        '<span class="count">' + (i + 1) + '/' + n + '</span></button>';
+    }
+
+    function showRot() {
+      if (!rotShown.length) return;
+      rotIdx = rotIdx % rotShown.length;
+      track.innerHTML = rotItem(rotShown[rotIdx], rotIdx, rotShown.length) + '<span class="bar"></span>';
+    }
+
+    function rotPaused() {
+      return strip.classList.contains('paused') || viewport.matches(':hover') ||
+        (root.activeElement && viewport.contains(root.activeElement));
+    }
+
+    function startRotation(list) {
+      var currentId = rotShown[rotIdx] && rotShown[rotIdx].id;
+      rotShown = list;
+      // keep the reader on the same squawk across a refresh when it is still there
+      var keep = list.findIndex(function (s) { return s.id === currentId; });
+      rotIdx = keep > -1 ? keep : 0;
+      track.style.animation = 'none';
+      showRot();
+      if (rotTimer) clearInterval(rotTimer);
+      var waited = 0;
+      rotTimer = setInterval(function () {
+        if (rotPaused()) return;          // hold while hovered, focused or the modal is open
+        waited += 0.25;
+        if (waited >= rotSecs) { waited = 0; rotIdx += 1; showRot(); }
+      }, 250);
+    }
+
     function sizeTrack() {
+      if (rotate) return;
       // Duration from width so the reading speed is constant however much news there is.
       var half = track.scrollWidth / 2;
       if (!half) return;

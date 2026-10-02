@@ -207,6 +207,14 @@
   </main>
 </div>
 
+<script>
+  // ?motion=rotate (and optionally &interval=8) shows the rotating version of the wire
+  (function () {
+    var q = new URLSearchParams(location.search), el = document.querySelector('[data-squawk-ticker]');
+    if (q.get('motion')) el.setAttribute('data-motion', q.get('motion'));
+    if (q.get('interval')) el.setAttribute('data-interval', q.get('interval'));
+  })();
+</script>
 <script src="squawk-embed.js" defer></script>
 <script>
   // Keep the mock's "as of" clock plausible while colleagues are looking at it.
