@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T14:01:24Z",
+ "generated_at": "2026-10-02T14:45:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2883091b16f7",
+   "ts": "2026-10-02T14:42:38Z",
+   "headline": "French-German 10-year bond yield spread narrows to 140bp from 159bp",
+   "detail": "A market newswire reports that the gap between French and German 10-year government bond yields has fallen to 140bp from 159bp.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "00004695dfec7c2b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvm7nnvtn2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvm7nnvtn2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e435b4ad6d72",
+   "created_at": "2026-10-02T14:45:53Z"
+  },
   {
    "id": "e400b01979e0",
    "ts": "2026-10-02T13:59:33Z",
@@ -6258,27 +6279,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwovjwshc42r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwovjwshc42r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5345b13b6cc",
-   "created_at": "2026-09-30T05:01:28Z"
-  },
-  {
-   "id": "b2f346a2d625",
-   "ts": "2026-09-29T17:23:10Z",
-   "headline": "Burnham says Labour will pledge to drop the pensions triple lock in a future manifesto; Reform UK and Conservatives attack the plan",
-   "detail": "On Tuesday the Prime Minister said he would lead Labour on a manifesto pledge to scrap the triple lock, a policy previously backed by all major parties. Reform UK and Conservative leaders criticised the move, City AM reports.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "f46a8031fa3102bf"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mwp3xqeodt42",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mwp3xqeodt42"
     }
    ],
    "model": "opus",
