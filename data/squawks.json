@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T20:01:23Z",
+ "generated_at": "2026-10-02T21:15:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8ec27421d90f",
+   "ts": "2026-10-02T21:15:06Z",
+   "headline": "Healey expected to use the Budget for targeted support rather than large tax rises, putting off hard choices, FT reports",
+   "detail": "According to the Financial Times, Chancellor Healey is expected to centre her Budget statement on targeted help for households and businesses. The paper says she is not expected to raise taxes on the scale of recent Budgets.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "879172a00808c603"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwwc5gftsf2m",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwwc5gftsf2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fdf159e73900",
+   "created_at": "2026-10-02T21:15:53Z"
+  },
   {
    "id": "947bb60ceab8",
    "ts": "2026-10-02T20:00:48Z",
@@ -6233,57 +6254,6 @@
    "model": "opus",
    "run_id": "bdb17c8c1190",
    "created_at": "2026-09-30T05:05:53Z"
-  },
-  {
-   "id": "b5be9478d7eb",
-   "ts": "2026-09-29T23:51:06Z",
-   "headline": "Japan's August industrial output falls 1.7% m/m against forecasts of a rise; retail sales growth slows to 2.7% y/y",
-   "detail": "Government data show industrial output fell 1.7% on the month, after -0.2% previously, against forecasts of a 1.3% to 1.7% rise; retail sales rose 2.7% year on year against forecasts of 3.2% to 3.3%. Manufacturers expect output to rise 3.2% in September and 3.1% in October.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "faa84701aed7aacf",
-    "b57fb9e8fa4a3e9d",
-    "b60891df377acf5f",
-    "e5014b774e773d22",
-    "411edce2b6de0d5f",
-    "52ecfb482926b8c8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwozhmvkhs27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwozhmvkhs27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwozhijzcx2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwozhijzcx2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwozhkq23t26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwozhkq23t26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwozhq45ci2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwozhq45ci2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwozhtb4ga27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwozhtb4ga27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwozimygha2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwozimygha2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5345b13b6cc",
-   "created_at": "2026-09-30T05:01:28Z"
   }
  ]
 }
