@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T13:55:45Z",
+ "generated_at": "2026-10-02T14:01:24Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e400b01979e0",
+   "ts": "2026-10-02T13:59:33Z",
+   "headline": "Macron says the G7 has decided to release up to 100mn barrels of diesel and crude stocks over four months",
+   "detail": "French President Macron said G7 countries have agreed to release strategic diesel and crude stocks of up to 100mn barrels. He said the release will take place over four months.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "0430fce15322bef9",
+    "4d1c823a5449e7b7",
+    "5a70007df979c94a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjrnfojw2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjrnfojw2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjsj4fqv2x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjsj4fqv2x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjsmbhvw2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjsmbhvw2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7943c3245293",
+   "created_at": "2026-10-02T14:01:24Z"
+  },
   {
    "id": "209d25c999ab",
    "ts": "2026-10-02T13:53:10Z",
@@ -6251,27 +6284,6 @@
    "model": "opus",
    "run_id": "a5345b13b6cc",
    "created_at": "2026-09-30T05:01:28Z"
-  },
-  {
-   "id": "9942940c8afe",
-   "ts": "2026-09-29T21:43:31Z",
-   "headline": "UK chief executives back pensions triple lock action but prepare for possible tax rises in next month's Budget, FT reports",
-   "detail": "The Financial Times reports that business leaders welcomed the government's action on the pensions triple lock. They are preparing for possible tax rises in the Budget due next month and say the focus from Burnham and Healey on the cost of business has left them unclear.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "427e0edc0114a351"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwosdioikx2q",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwosdioikx2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f7e34d844478",
-   "created_at": "2026-09-29T21:45:59Z"
   }
  ]
 }
