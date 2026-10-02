@@ -63,7 +63,7 @@ def test_monitor_stores_snapshots_and_emits_events(store):
     src = MockMarketSource(
         seed=1, step_bp=0.0, jump_bp=8.0, jump_tenor="gilt_10y", jump_at_tick=3, clock=clock
     )
-    monitor = MarketMonitor(src, _det(), store)
+    monitor = MarketMonitor(src, _det(), store, publish_alerts=True)
     events = []
     for _ in range(4):
         events += monitor.tick()
@@ -78,3 +78,21 @@ def test_load_market_source_mock_and_dotted_path():
     assert src.latest().gilt_10y > 0
     with pytest.raises(ValueError):
         load_market_source("nonsense")
+
+
+def test_mock_market_alerts_are_not_published_by_default(store):
+    clock_t = [T0]
+
+    def clock():
+        clock_t[0] += dt.timedelta(minutes=1)
+        return clock_t[0]
+
+    src = MockMarketSource(
+        seed=1, step_bp=0.0, jump_bp=8.0, jump_tenor="gilt_10y", jump_at_tick=3, clock=clock
+    )
+    monitor = MarketMonitor(src, _det(), store)
+    events = []
+    for _ in range(4):
+        events += monitor.tick()
+    assert events == [] and store.count_events() == 0
+    assert store.latest_market_snapshot() is not None  # still recorded, just never sent to the writer

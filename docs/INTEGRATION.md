@@ -274,6 +274,19 @@ in the trailing window and raises one alert per tenor per cooldown; alerts becom
 mode. An optional `history(start, end)` method lets replays and historical annotation use
 real levels instead of the synthetic series.
 
+## Data integrity
+
+- Every figure in a squawk must appear in the posts of its writer batch or in an earlier
+  squawk. The writer checks this in code (`writer/figures.py`): a detail sentence with an
+  unsupported figure is removed, and a squawk whose headline has one is dropped.
+- The mock market source is placeholder data. Its snapshots are never sent to the writer
+  and its threshold alerts are never published, except in an explicit demo
+  (`squawk run --market-jump`). Market levels appear in squawks only once a real
+  `MarketSource` is connected.
+- Corrections to published squawks go in `data/corrections.json` and are applied on every
+  run, to the database and to both output files. `uv run scripts/audit_figures.py` checks
+  every published squawk's figures against the posts it cites.
+
 ## The event log
 
 `events` (SQLite) keeps every raw item: `id, source, author, author_did, ts, text, uri,

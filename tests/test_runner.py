@@ -99,6 +99,7 @@ def test_runner_poll_mode_end_to_end(store, tmp_path):
         recorder=Recorder(tmp_path / "rec.ndjson"),
         market_source=MockMarketSource(jump_bp=9.0, jump_at_tick=2),
         poll_interval=1,
+        demo_market=True,
     )
     # inject the fake HTTP client into the poller the runner builds
     orig_init = BlueskyPoller.__init__

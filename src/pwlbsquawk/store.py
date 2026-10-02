@@ -328,6 +328,26 @@ class Store:
 
         return self.insert_squawks(read_ndjson(Path(path)))
 
+    def update_squawk_text(
+        self, squawk_id: str, *, headline: str | None = None, detail: str | None = None
+    ) -> int:
+        """Correct a published squawk's wording. Returns 1 if the row changed."""
+        sets, params = [], []
+        if headline is not None:
+            sets.append("headline = ?")
+            params.append(headline)
+        if detail is not None:
+            sets.append("detail = ?")
+            params.append(detail)
+        if not sets:
+            return 0
+        cond = " OR ".join(f"{c.split(' = ')[0]} IS NOT ?" for c in sets)
+        cur = self._execute(
+            f"UPDATE squawks SET {', '.join(sets)} WHERE id = ? AND ({cond})",
+            (*params, squawk_id, *params),
+        )
+        return cur.rowcount
+
     def latest_squawks(self, limit: int = 200) -> list[Squawk]:
         """Newest first by publication time, then by squawk timestamp."""
         rows = self._execute(
