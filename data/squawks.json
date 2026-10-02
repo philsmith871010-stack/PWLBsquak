@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T10:40:54Z",
+ "generated_at": "2026-10-02T12:01:25Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "86ab3e45bcf3",
+   "ts": "2026-10-02T11:56:38Z",
+   "headline": "French 10-year government bond yield reaches 4.989%, its highest level since 2002",
+   "detail": "LSEG data show the French 10-year yield at 4.989%, the highest since 2002, as the French bond sell-off continues.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "93eb1ffc67ec99a3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvcwtg6mh2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvcwtg6mh2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aed6ee70d023",
+   "created_at": "2026-10-02T12:01:25Z"
+  },
   {
    "id": "9ba6d4bda9b4",
    "ts": "2026-10-02T10:38:54Z",
@@ -6210,33 +6231,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwopaaej4v2m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwopaaej4v2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "034764864edd",
-   "created_at": "2026-09-29T20:50:59Z"
-  },
-  {
-   "id": "67ab5f81affa",
-   "ts": "2026-09-29T20:46:21Z",
-   "headline": "API data show US crude stocks up 1.019m barrels, against a forecast draw of 1.9m",
-   "detail": "The American Petroleum Institute reported a weekly US crude inventory build of 1.019m barrels, against a forecast 1.9m draw and a previous build of 1.786m. The gasoline and distillate figures were reported earlier.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "e2be431684d81cb0",
-    "df2ae54d92b21704"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwop5b76gd2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwop5b76gd2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwop633l2i2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwop633l2i2r"
     }
    ],
    "model": "opus",
