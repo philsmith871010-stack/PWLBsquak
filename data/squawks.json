@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T08:35:46Z",
+ "generated_at": "2026-10-02T08:50:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ee5bb3057a6a",
+   "ts": "2026-10-02T08:50:14Z",
+   "headline": "FAO says world food prices rose in September to their highest level in nearly four years",
+   "detail": "The UN Food and Agriculture Organization says its world food price measure climbed in September to a near four-year high. It points to logistics disruptions and weather concerns in crop markets as the causes.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "66241c49e0d288cf"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwuyjj2bgd2y",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwuyjj2bgd2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "25241ae04463",
+   "created_at": "2026-10-02T08:50:55Z"
+  },
   {
    "id": "d4e2a4e35872",
    "ts": "2026-10-02T08:31:32Z",
@@ -6210,45 +6231,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwomxy3qcu27",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwomxy3qcu27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "de70c8ac5a2e",
-   "created_at": "2026-09-29T20:12:41Z"
-  },
-  {
-   "id": "ddb98cd469c8",
-   "ts": "2026-09-29T20:06:39Z",
-   "headline": "Fed's Williams says rising bond yields tighten financial conditions at the margin",
-   "detail": "New York Fed President Williams said higher yields tighten financial conditions at the margin, but he does not see them as a sign of changing longer-run inflation expectations. He also said AI has not so far caused big changes in job levels.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "20dbb15500d6ff2e",
-    "37901b879e55ddf2",
-    "bd1e72f3050092c9",
-    "50c51ae3bbfed845"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwomwccvzn2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwomwccvzn2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwomws2vzg2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwomws2vzg2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwomwwuwgw26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwomwwuwgw26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwomx523io2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwomx523io2p"
     }
    ],
    "model": "opus",
