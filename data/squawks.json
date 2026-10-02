@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T19:01:59Z",
+ "generated_at": "2026-10-02T20:01:23Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "947bb60ceab8",
+   "ts": "2026-10-02T20:00:48Z",
+   "headline": "Hedge funds hold a net short position in sterling for the first time since 2024, CFTC data show",
+   "detail": "Weekly CFTC positioning data released on Friday show hedge funds have moved to a net short position in the pound for the first time since 2024.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "718da3a4a4a67464"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mww5yksytl2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mww5yksytl2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "71847b73e92a",
+   "created_at": "2026-10-02T20:01:23Z"
+  },
+  {
+   "id": "3532f4a7640b",
+   "ts": "2026-10-02T20:00:44Z",
+   "headline": "Trump rules out a US ban on diesel exports",
+   "detail": "US President Trump said on Friday that the administration will not impose a ban on diesel exports.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "9ad7e1c8469f50ab",
+    "fe5adf8f49f81ebd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mww5ygx7q72y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mww5ygx7q72y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mww5yiw3j72f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mww5yiw3j72f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "71847b73e92a",
+   "created_at": "2026-10-02T20:01:23Z"
+  },
   {
    "id": "9fd46fef11be",
    "ts": "2026-10-02T18:57:21Z",
@@ -6231,48 +6279,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwozimygha2c",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwozimygha2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5345b13b6cc",
-   "created_at": "2026-09-30T05:01:28Z"
-  },
-  {
-   "id": "083007491805",
-   "ts": "2026-09-29T23:45:39Z",
-   "headline": "US trade representative says tariff caps in trade deals will be considered in setting Section 301 excess capacity tariffs",
-   "detail": "USTR Greer said caps agreed in trade deals will be taken into account when setting tariffs under the Section 301 probe into excess capacity.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e7e5fc35e4632bd8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoz5vectx2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoz5vectx2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5345b13b6cc",
-   "created_at": "2026-09-30T05:01:28Z"
-  },
-  {
-   "id": "a883d71872de",
-   "ts": "2026-09-29T23:35:30Z",
-   "headline": "Japan, US and Europe to agree a steel monitoring framework, Yomiuri reports",
-   "detail": "Japan's Yomiuri newspaper reports that Japan, the US and Europe are set to agree a framework for monitoring steel.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6c2d8e37256f1090"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoylqpah42f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoylqpah42f"
     }
    ],
    "model": "opus",
