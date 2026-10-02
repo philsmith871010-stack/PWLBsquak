@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T12:01:25Z",
+ "generated_at": "2026-10-02T12:25:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "37d4682e3609",
+   "ts": "2026-10-02T12:22:54Z",
+   "headline": "French 2-year government bond yield rises 13.8bp to 3.8337% as the French bond sell-off extends",
+   "detail": "France's 2-year government bond yield was last up 13.8bp on the day at 3.8337%. The move follows earlier rises in French 10-year yields and a widening in French CDS.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "97ed88a175fcedd5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvefrz2xx2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvefrz2xx2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ca4eb55623ae",
+   "created_at": "2026-10-02T12:25:46Z"
+  },
   {
    "id": "86ab3e45bcf3",
    "ts": "2026-10-02T11:56:38Z",
@@ -6210,27 +6231,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwopeo2nac2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwopeo2nac2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "034764864edd",
-   "created_at": "2026-09-29T20:50:59Z"
-  },
-  {
-   "id": "ce7d12c955a8",
-   "ts": "2026-09-29T20:48:00Z",
-   "headline": "US 30-year Treasury yield hits its highest level since 2002 as inflation and borrowing concerns weigh",
-   "detail": "Treasury yields rose on concerns over persistent inflation, government spending and rising corporate borrowing, with the 30-year yield at its highest since 2002. The S&P 500 closed down 0.2%, the Dow down 0.3% and the Nasdaq 100 up 0.2%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "f6c240cd200df6a3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwopaaej4v2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwopaaej4v2m"
     }
    ],
    "model": "opus",
