@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T09:01:24Z",
+ "generated_at": "2026-10-02T10:01:27Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "11374c00dc85",
+   "ts": "2026-10-02T09:59:15Z",
+   "headline": "French 5-year sovereign CDS widen further to 81bp",
+   "detail": "S&P Global Market Intelligence data show French 5-year credit default swaps at 81bp, up from the 71.6bp reported earlier, which was already the highest since July 2013.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "92485e878cfeae24"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwv4ewpp4i2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwv4ewpp4i2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a5c82699610e",
+   "created_at": "2026-10-02T10:01:27Z"
+  },
   {
    "id": "f8d6a540a431",
    "ts": "2026-10-02T09:00:56Z",
@@ -6227,27 +6248,6 @@
    "model": "opus",
    "run_id": "cd79c6006d53",
    "created_at": "2026-09-29T20:31:12Z"
-  },
-  {
-   "id": "5ffb7fcdf292",
-   "ts": "2026-09-29T20:15:42Z",
-   "headline": "US bank regulators find no deficiencies in resolution plans of 15 banks with more than $250bn in assets",
-   "detail": "US bank regulators reported on 29 September that their review found no deficiencies in the 'living wills' filed by 15 banks, each with assets above $250bn.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1361e0b2ce71010c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwonghpmlq2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwonghpmlq2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c10deba13f1e",
-   "created_at": "2026-09-29T20:15:54Z"
   }
  ]
 }
