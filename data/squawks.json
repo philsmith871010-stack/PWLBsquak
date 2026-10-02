@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T10:15:59Z",
+ "generated_at": "2026-10-02T10:20:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0f4b1d9042c5",
+   "ts": "2026-10-02T10:17:01Z",
+   "headline": "UK average diesel price passes £2 a litre for the first time, RAC says",
+   "detail": "The RAC reports the average UK diesel pump price has gone above £2 per litre, a level not reached before.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "228fe41fefcba6c3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwv5eot6wy2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwv5eot6wy2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "07580e2d163c",
+   "created_at": "2026-10-02T10:20:56Z"
+  },
   {
    "id": "1418332435b3",
    "ts": "2026-10-02T10:12:54Z",
@@ -6227,27 +6248,6 @@
    "model": "opus",
    "run_id": "8e52e84a9f58",
    "created_at": "2026-09-29T20:40:58Z"
-  },
-  {
-   "id": "47e6d3061232",
-   "ts": "2026-09-29T20:35:01Z",
-   "headline": "European gas storage is reported well below usual levels before winter after curbs on Hormuz tanker traffic",
-   "detail": "Semafor reports that restrictions on tanker traffic through the Strait of Hormuz disrupted Europe's usual summer refilling of gas stocks, leaving reserves far lower than normal as the EU looks for extra supply before winter. The report gives no storage figures.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "ed96858a3373f1a1"
-   ],
-   "sources": [
-    {
-     "author": "semafor.com",
-     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mwooiyxfp42l",
-     "url": "https://bsky.app/profile/semafor.com/post/3mwooiyxfp42l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c1f0aced4f6b",
-   "created_at": "2026-09-29T20:35:48Z"
   }
  ]
 }
