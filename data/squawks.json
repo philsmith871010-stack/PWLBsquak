@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T17:05:54Z",
+ "generated_at": "2026-10-02T19:01:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9fd46fef11be",
+   "ts": "2026-10-02T18:57:21Z",
+   "headline": "US Justice Department will not reopen its criminal investigation into Fed Chair Powell, Attorney General says",
+   "detail": "Attorney General Blanche said the Department of Justice is satisfied with the Fed inspector general's report and will not resume the criminal probe into Powell.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a0794ea8b67cbb11",
+    "aafc8651c3032111"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mww2h4higz2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mww2h4higz2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mww2imnoxb24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mww2imnoxb24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4c50a7f38e7d",
+   "created_at": "2026-10-02T19:01:59Z"
+  },
   {
    "id": "1a19dcdb9e67",
    "ts": "2026-10-02T17:03:52Z",
@@ -6246,51 +6273,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoylqpah42f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoylqpah42f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5345b13b6cc",
-   "created_at": "2026-09-30T05:01:28Z"
-  },
-  {
-   "id": "9b5dc5adcc6d",
-   "ts": "2026-09-29T23:08:10Z",
-   "headline": "China threatens a firm response if the EU keeps imposing limits on Chinese firms and products",
-   "detail": "China's commerce ministry called tougher trade measures under consideration by EU states protectionist and unilateral. EU trade chief Sefcovic said he is pushing for G20 and WTO reforms on excess industrial capacity and working with the US and other allies to secure critical mineral supply chains.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "9d9b14d817ed01c9",
-    "8862a0036851fba2",
-    "7831a029768db858",
-    "7ac7c7c69c37586a",
-    "93c4798dc47a76c6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwox2umain2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwox2umain2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwox5cws7k2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwox5cws7k2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwowlil6p42v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwowlil6p42v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwowrkcbs42v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwowrkcbs42v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwowx5b5432q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwowx5b5432q"
     }
    ],
    "model": "opus",
