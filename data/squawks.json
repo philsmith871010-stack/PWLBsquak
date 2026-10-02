@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T06:35:54Z",
+ "generated_at": "2026-10-02T07:31:12Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "40a5d638da1b",
+   "ts": "2026-10-02T07:30:55Z",
+   "headline": "ECB's Rehn says higher energy prices are bringing inflation closer to the ECB's adverse scenario",
+   "detail": "ECB Governing Council member Olli Rehn said rising energy prices were moving the inflation outlook nearer to the central bank's adverse scenario. No market reaction was reported.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "75015f5c6d26dc4f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwuu3of7dp22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwuu3of7dp22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "48c5122014c0",
+   "created_at": "2026-10-02T07:31:12Z"
+  },
   {
    "id": "163f754c5412",
    "ts": "2026-10-02T06:32:59Z",
@@ -6227,27 +6248,6 @@
    "model": "opus",
    "run_id": "de70c8ac5a2e",
    "created_at": "2026-09-29T20:12:41Z"
-  },
-  {
-   "id": "d00592984b6b",
-   "ts": "2026-09-29T20:00:51Z",
-   "headline": "UN raises alarm over reports that a Myanmar military air strike near the Bangladesh border killed 50 people",
-   "detail": "On Tuesday the United Nations expressed alarm at reports that a Myanmar military air strike near the border with Bangladesh killed 50 people and wounded dozens more, according to Reuters. Many of the wounded are reported to be in a critical condition.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e5915341d7aceb7f"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwomlva3bh2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwomlva3bh2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c67e05283fe2",
-   "created_at": "2026-09-29T20:01:20Z"
   }
  ]
 }
