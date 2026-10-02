@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T12:25:46Z",
+ "generated_at": "2026-10-02T12:31:11Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5c3956d14981",
+   "ts": "2026-10-02T12:30:45Z",
+   "headline": "US September nonfarm payrolls rise 29,000, well short of the 84,000 consensus",
+   "detail": "The US Labor Department reports September nonfarm payrolls up 29,000, against a consensus forecast of 84,000. Average weekly hours are 34.4, compared with a 34.3 forecast and unchanged from the previous month.",
+   "category": "global_rates",
+   "importance": 3,
+   "source_event_ids": [
+    "00d92ce4ec4a29df",
+    "ee6cd963c397fa38"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvettikdq2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvettikdq2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvetwmpeo2x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvetwmpeo2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "732adfed1b12",
+   "created_at": "2026-10-02T12:31:11Z"
+  },
   {
    "id": "37d4682e3609",
    "ts": "2026-10-02T12:22:54Z",
@@ -6209,33 +6236,6 @@
    "model": "opus",
    "run_id": "6a93a2f9b6f2",
    "created_at": "2026-09-29T21:01:32Z"
-  },
-  {
-   "id": "4f6e4049fe50",
-   "ts": "2026-09-29T20:50:05Z",
-   "headline": "Trump is set to announce a $54bn Alaska LNG plan, with funding reported to come from a South Korea investment deal",
-   "detail": "President Trump is due to set out a $54bn liquefied natural gas project in Alaska. People familiar with the plan say the money will come from an investment agreement with South Korea.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "242e42eefc26d7a5",
-    "3d2216ab2ac163ce"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwopdwwsrp26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwopdwwsrp26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwopeo2nac2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwopeo2nac2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "034764864edd",
-   "created_at": "2026-09-29T20:50:59Z"
   }
  ]
 }
