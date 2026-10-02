@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T05:10:53Z",
+ "generated_at": "2026-10-02T06:35:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "163f754c5412",
+   "ts": "2026-10-02T06:32:59Z",
+   "headline": "DMO announces ad hoc tender of up to £1.5bn of a 2028 gilt on 7 October",
+   "detail": "The UK Debt Management Office says it will hold an ad hoc tender of up to £1.5bn of a 2028 gilt on 7 October. The 2-year gilt yield stands at 3.92% in the latest snapshot.",
+   "category": "supply",
+   "importance": 2,
+   "source_event_ids": [
+    "5739edaa93732490"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwuqu3y65x2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwuqu3y65x2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "91f927bee10d",
+   "created_at": "2026-10-02T06:35:54Z"
+  },
   {
    "id": "6c1a083a3bbf",
    "ts": "2026-10-02T02:24:48Z",
@@ -6227,27 +6248,6 @@
    "model": "opus",
    "run_id": "c67e05283fe2",
    "created_at": "2026-09-29T20:01:20Z"
-  },
-  {
-   "id": "94942725b736",
-   "ts": "2026-09-29T19:40:27Z",
-   "headline": "Fed Governor Barr argues further US rate hikes are likely needed to bring inflation down",
-   "detail": "Federal Reserve Governor Michael Barr said on Tuesday that high energy prices and a jump in AI-related investment have set back progress towards the Fed's 2% inflation target, Reuters reported. He argued again for more rate increases.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "47ec1792ac4c1505"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwolhgtjjm2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwolhgtjjm2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fa70f9d661b2",
-   "created_at": "2026-09-29T19:45:53Z"
   }
  ]
 }
