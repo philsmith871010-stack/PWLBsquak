@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T08:01:26Z",
+ "generated_at": "2026-10-02T08:35:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d4e2a4e35872",
+   "ts": "2026-10-02T08:31:32Z",
+   "headline": "BoE Decision Maker Panel: firms see year-ahead CPI at 3.3% in September, with expected wage growth steady at 3.4%",
+   "detail": "The Bank of England's Decision Maker Panel survey puts firms' year-ahead CPI inflation expectations at 3.3% for September. Firms' expected wage growth for the year ahead held at 3.4% in the three months to September.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "ec9f3af6d018e29d",
+    "7d289f9a5f0f55b7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwuxi3wnth2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwuxi3wnth2i"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwuxkfvtp42s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwuxkfvtp42s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7091544eca27",
+   "created_at": "2026-10-02T08:35:46Z"
+  },
   {
    "id": "7beba2a1b07b",
    "ts": "2026-10-02T07:57:48Z",
@@ -6222,27 +6249,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwomx523io2p",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwomx523io2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "de70c8ac5a2e",
-   "created_at": "2026-09-29T20:12:41Z"
-  },
-  {
-   "id": "208074ba4620",
-   "ts": "2026-09-29T20:05:03Z",
-   "headline": "Russian glide bomb attack on Ukraine's Sumy kills two, officials say",
-   "detail": "Officials said Russian glide bombs hit homes and a school in the northern Ukrainian city of Sumy on Tuesday, killing two people and injuring six, Reuters reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "cae7a4a126ac4451"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwomtgafdp2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwomtgafdp2e"
     }
    ],
    "model": "opus",
