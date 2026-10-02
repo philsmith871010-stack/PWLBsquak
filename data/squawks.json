@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T16:51:04Z",
+ "generated_at": "2026-10-02T17:05:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1a19dcdb9e67",
+   "ts": "2026-10-02T17:03:52Z",
+   "headline": "Fed's Goolsbee keeps both a rate rise and a pause open, saying the inflation side of the Fed's mandate matters more",
+   "detail": "Speaking to Fox Business, Chicago Fed President Goolsbee said the labour market is steady and he wants to see whether there is evidence that inflation is heading back to 2%. He added that he would not react strongly to a single month of data.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8685d7ea905249b1",
+    "85c49844a9288969",
+    "4107c9b974e16c48",
+    "ab48359aba5349bf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvu46ybxq2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvu46ybxq2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvu56ypb72r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvu56ypb72r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvu5wf6gp2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvu5wf6gp2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvu7nb5tt2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvu7nb5tt2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "62645c3a5a49",
+   "created_at": "2026-10-02T17:05:54Z"
+  },
   {
    "id": "b0b6a70252d1",
    "ts": "2026-10-02T16:47:11Z",
@@ -6252,27 +6291,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwowx5b5432q",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwowx5b5432q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5345b13b6cc",
-   "created_at": "2026-09-30T05:01:28Z"
-  },
-  {
-   "id": "d2023f6f1509",
-   "ts": "2026-09-29T23:02:07Z",
-   "headline": "UK car output rises 5.7% y/y in August to 40,872 units, SMMT says",
-   "detail": "The Society of Motor Manufacturers and Traders reports UK vehicle production of 40,872 units in August, up 5.7% on a year earlier.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "6c39949db67a2e35"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwowq252md2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwowq252md2m"
     }
    ],
    "model": "opus",
