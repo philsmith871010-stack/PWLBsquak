@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T12:40:52Z",
+ "generated_at": "2026-10-02T13:40:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c166150fd3e1",
+   "ts": "2026-10-02T13:38:55Z",
+   "headline": "White House adviser Hassett says the US Navy has reopened the Strait of Hormuz and crude is flowing through",
+   "detail": "White House senior adviser Kevin Hassett said the US Navy has reopened the Strait of Hormuz and crude oil is passing through again. He added that more energy announcements will follow next week. No market reaction was reported in the posts.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "1b913be56ed89f13",
+    "4d116bf54a185215",
+    "85e14ee2c8df80cd",
+    "d6e7856a3fe8b48b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvinpmsz724",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvinpmsz724"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvipf7wht2x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvipf7wht2x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwviokyoun2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwviokyoun2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvipi5apb2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvipi5apb2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "848398ab101a",
+   "created_at": "2026-10-02T13:40:59Z"
+  },
   {
    "id": "e5b2b76b8d69",
    "ts": "2026-10-02T12:39:07Z",
@@ -6197,27 +6236,6 @@
    "model": "opus",
    "run_id": "d6325b80d02e",
    "created_at": "2026-09-29T21:15:56Z"
-  },
-  {
-   "id": "e4447a4ed96e",
-   "ts": "2026-09-29T21:10:09Z",
-   "headline": "US offers to lend up to 40m barrels of oil from the Strategic Petroleum Reserve, its last batch under a global release deal",
-   "detail": "The US government said on Tuesday it is offering energy companies loans of up to 40 million barrels from the Strategic Petroleum Reserve. This is the final US tranche of a global agreement to release reserves after the war on Iran.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "3bf917fe463b37fa"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwoqht2k2u27",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwoqht2k2u27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "02fbd561d564",
-   "created_at": "2026-09-29T21:10:55Z"
   }
  ]
 }
