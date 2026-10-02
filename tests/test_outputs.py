@@ -48,3 +48,25 @@ def test_json_write_is_atomic_no_tmp_left(tmp_path):
     write_squawks_json(p, [])
     assert p.exists() and not p.with_suffix(".json.tmp").exists()
     assert json.loads(p.read_text())["squawks"] == []
+
+
+def test_corrections_fix_store_history_and_latest(store, tmp_path):
+    from pwlbsquawk.corrections import apply_corrections
+
+    base = dt.datetime(2026, 10, 2, 6, 30, tzinfo=dt.UTC)
+    bad = _sq(1, base).model_copy(
+        update={"detail": "Real fact. The 2-year gilt yield stands at 3.92% in the latest snapshot."}
+    )
+    other = _sq(2, base)
+    store.insert_squawks([bad, other])
+    settings = Settings(output_dir=tmp_path)
+    write_outputs(store, settings, [bad, other], generated_at=base)
+    (tmp_path / "corrections.json").write_text(
+        json.dumps({"corrections": {bad.id: {"detail": "Real fact.", "reason": "mock data"}}})
+    )
+    assert apply_corrections(store, settings) == 2  # store row + history line
+    assert {s.id: s.detail for s in store.latest_squawks()}[bad.id] == "Real fact."
+    assert [s.detail for s in read_ndjson(settings.squawks_ndjson_path)] == ["Real fact.", "a"]
+    doc = json.loads(settings.squawks_json_path.read_text())
+    assert "3.92" not in json.dumps(doc)
+    assert apply_corrections(store, settings) == 0  # idempotent

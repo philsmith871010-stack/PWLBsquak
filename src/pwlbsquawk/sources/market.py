@@ -220,18 +220,30 @@ class ThresholdDetector:
 class MarketMonitor:
     """Ties a MarketSource, the detector and the store together: one `tick()` per poll."""
 
-    def __init__(self, source: MarketSource, detector: ThresholdDetector, store: Store):
+    def __init__(
+        self,
+        source: MarketSource,
+        detector: ThresholdDetector,
+        store: Store,
+        *,
+        publish_alerts: bool | None = None,
+    ):
         self.source = source
         self.detector = detector
         self.store = store
         self.latest: MarketSnapshot | None = None
+        # alerts from the mock source are made up; only a demo may opt in to publishing them
+        self.publish_alerts = (source.name != "mock") if publish_alerts is None else publish_alerts
 
     def tick(self) -> list[Event]:
         snap = self.source.latest()
         self.latest = snap
         self.store.insert_market_snapshot(snap)
         events: list[Event] = []
-        for alert in self.detector.observe(snap):
+        alerts = self.detector.observe(snap)
+        if not self.publish_alerts:
+            return events
+        for alert in alerts:
             event = alert.to_event()
             result = self.store.insert_event(event)
             if result.is_new:

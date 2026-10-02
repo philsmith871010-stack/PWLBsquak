@@ -424,7 +424,7 @@ def test_writer_enforces_category_caps_keeping_highest_importance(store, tmp_pat
     geo = [
         {
             "ts": None,
-            "headline": f"Geopolitical item number {i} about a distinct place {i}",
+            "headline": f"Geopolitical item about distinct place {'ABCD'[i]}",
             "detail": "d",
             "category": "geopolitics",
             "importance": imp,
@@ -470,7 +470,7 @@ def test_writer_total_cap(store, tmp_path):
     many = [
         {
             "ts": None,
-            "headline": f"Distinct data release number {i} on topic {i * 7}",
+            "headline": f"Distinct data release on topic {'ABCDEFG'[i]} today",
             "detail": "d",
             "category": "data",
             "importance": 2,
@@ -486,3 +486,49 @@ def test_category_caps_from_env(monkeypatch, tmp_path):
     monkeypatch.setenv("SQUAWK_CATEGORY_CAPS", "geopolitics=1, energy=3")
     s = Settings.from_env(dotenv=tmp_path / "none.env")
     assert s.category_caps == {"geopolitics": 1, "energy": 3}
+
+
+def test_writer_strips_invented_figures(store, tmp_path):
+    ev = make_event("DMO to hold ad hoc tender of up to £1.5bn of 2028 gilt on 7 October", rkey="dmo")
+    store.insert_event(ev)
+    good = {
+        "ts": None,
+        "headline": "DMO announces ad hoc tender of up to £1.5bn of a 2028 gilt on 7 October",
+        "detail": "The UK Debt Management Office will hold the tender on 7 October. The 2-year gilt yield stands at 3.92% in the latest snapshot.",
+        "category": "supply",
+        "importance": 2,
+        "source_event_ids": [ev.id],
+    }
+    invented = {
+        "ts": None,
+        "headline": "Gilt yields jump 12bp to 4.71%",
+        "detail": "Made up.",
+        "category": "global_rates",
+        "importance": 3,
+        "source_event_ids": [ev.id],
+    }
+    result = SquawkWriter(_settings(tmp_path), store, _canned([good, invented]), system_prompt="s").run_once(
+        now=NOW
+    )
+    assert [s.headline for s in result.squawks] == [good["headline"]]
+    assert result.squawks[0].detail == "The UK Debt Management Office will hold the tender on 7 October."
+    assert result.dropped == 1
+
+
+def test_mock_snapshot_never_reaches_the_prompt():
+    snap = make_snapshot(NOW, 4.5).model_copy(update={"source": "mock"})
+    msg = build_user_message(now=NOW, events=[make_event("x", rkey="m")], snapshot=snap, recent_headlines=[])
+    assert json.loads(msg[msg.index("{") :])["market_snapshot"] is None
+    real = make_snapshot(NOW, 4.5)  # source="test"
+    msg = build_user_message(now=NOW, events=[make_event("x", rkey="m")], snapshot=real, recent_headlines=[])
+    assert json.loads(msg[msg.index("{") :])["market_snapshot"]["gilt_yields_pct"]["10y"] == 4.5
+
+
+def test_figures_normalisation():
+    from pwlbsquawk.writer.figures import figures, unsupported
+
+    assert figures("US 2-year at 4.95% on 7 October at 08:15, 10y up 6bp") == {"4.95", "6"}
+    assert unsupported("approvals fall to 54,918 against 56,100", "ACTUAL 54.918K (FORECAST 56.1K)") == set()
+    assert unsupported("claims 1.701m", "CONTINUING CLAIMS 1701K") == set()
+    assert unsupported("yield at 5.20%", "yield at 5.2%") == set()
+    assert unsupported("relending quotas up 700bn", "500bn for farms, 200bn for small firms") == {"700"}

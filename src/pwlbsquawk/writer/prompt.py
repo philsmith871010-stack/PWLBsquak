@@ -36,6 +36,8 @@ def build_user_message(
     snapshot: MarketSnapshot | None,
     recent_headlines: list[str],
 ) -> str:
+    if snapshot is not None and snapshot.source == "mock":
+        snapshot = None  # placeholder data must never reach the model as if it were real
     market_alerts = [e for e in events if e.source == "market"]
     posts = [e for e in events if e.source != "market"]
     payload = {

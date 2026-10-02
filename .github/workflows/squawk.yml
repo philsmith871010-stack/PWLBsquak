@@ -55,7 +55,7 @@ jobs:
           SQUAWK_DB_PATH: data/squawk.sqlite
         run: |
           uv run squawk poll
-          uv run squawk write --market-tick
+          uv run squawk write
 
       - name: Save event log
         uses: actions/cache/save@v4

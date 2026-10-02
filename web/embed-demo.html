@@ -14,7 +14,7 @@
     --pt-text: #243240; --pt-muted: #6c757d; --pt-line: #e9ecef; --pt-line-soft: #f1f3f5;
     --pt-bg: #f7f8fa; --pt-white: #ffffff; --pt-green: #28a745;
     --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    --shell-header-h: 60px; --shell-sidebar-w: 220px;
+    --shell-header-h: 60px; --shell-sidebar-w: 220px; --wire-h: 34px;
     --radius-md: 10px; --radius-pill: 999px;
   }
   * { box-sizing: border-box; }
@@ -22,10 +22,11 @@
   a { color: inherit; }
 
   /* ---- header ---- */
+  .site-top { position: sticky; top: 0; z-index: 30; }
+  .site-wire { display: block; min-height: var(--wire-h); }
   .site-header {
     height: var(--shell-header-h); background: #fff;
     border-bottom: 1px solid rgba(10,37,64,.18);
-    position: sticky; top: 0; z-index: 30;
   }
   .site-header-inner { height: 100%; display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 0 1rem; }
   .site-brand { display: inline-flex; align-items: center; gap: .55rem; text-decoration: none; color: var(--pt-text); min-width: calc(var(--shell-sidebar-w) - 1rem); }
@@ -46,11 +47,11 @@
   .user-chip span { font-size: .84rem; font-weight: 600; }
 
   /* ---- layout + sidebar ---- */
-  .site-layout { display: grid; grid-template-columns: var(--shell-sidebar-w) 1fr; min-height: calc(100vh - var(--shell-header-h)); }
+  .site-layout { display: grid; grid-template-columns: var(--shell-sidebar-w) 1fr; min-height: calc(100vh - var(--shell-header-h) - var(--wire-h)); }
   aside#site-sidebar {
     background: linear-gradient(180deg, #0a2540 0%, #143659 60%, #1a4775 100%);
-    padding: .1rem .55rem 1rem; color: #fff; position: sticky; top: var(--shell-header-h);
-    align-self: start; height: calc(100vh - var(--shell-header-h)); overflow: hidden auto;
+    padding: .1rem .55rem 1rem; color: #fff; position: sticky; top: calc(var(--shell-header-h) + var(--wire-h));
+    align-self: start; height: calc(100vh - var(--shell-header-h) - var(--wire-h)); overflow: hidden auto;
   }
   .site-nav-group-label { font-size: .75rem; letter-spacing: .16em; text-transform: uppercase; color: rgba(255,255,255,.42); padding: .7rem .75rem .35rem; font-weight: 700; white-space: nowrap; overflow: hidden; }
   .site-nav > .site-nav-group-label:first-child { padding-top: 1.4rem; }
@@ -98,10 +99,20 @@
   pre { background: var(--pt-line-soft); border-radius: 8px; padding: 10px 12px; overflow: auto; margin: .5rem 0 0; }
   pre code { background: none; padding: 0; }
   @media (max-width: 900px) { .site-layout { grid-template-columns: 1fr; } aside#site-sidebar { display: none; } .site-page-strap, .pt-asof-strip { display: none; } }
+  @media (max-width: 640px) { .site-header-actions, .site-page-title-bar { display: none; } .site-brand { min-width: 0; } }
 </style>
 </head>
 <body>
 
+<div class="site-top">
+<!-- ============ THE NEW BIT: the wire, full width above the site header ============ -->
+<div class="site-wire" data-squawk-ticker
+     data-src="../data/squawks.json"
+     data-variant="topbar"
+     data-label="PWLB" data-label-accent="wire"
+     data-title="Today on the wire"
+     style="--squawk-accent:#fd7e14; --squawk-topbar-bg:#0a2540;"></div>
+<!-- ================================================================================= -->
 <header class="site-header">
   <div class="site-header-inner">
     <a class="site-brand" href="#">
@@ -129,6 +140,7 @@
     </div>
   </div>
 </header>
+</div>
 
 <div class="site-layout">
   <aside id="site-sidebar">
@@ -187,20 +199,10 @@
       <b style="font-size:.9rem">The whole curve has swung back the other way this afternoon</b>
     </div>
 
-    <!-- ============ THE NEW BIT ============ -->
-    <div data-squawk-ticker
-         data-src="../data/squawks.json"
-         data-variant="banner"
-         data-label="PWLB" data-label-accent="wire"
-         data-title="Today on the wire"
-         style="
-           --squawk-accent:#fd7e14;
-           --squawk-text:#243240;
-           --squawk-muted:#6c757d;
-           --squawk-line:#e9ecef;
-           --squawk-bg:#ffffff;
-           margin-bottom:1rem;"></div>
-    <!-- ===================================== -->
+    <div class="omitted">PWLBpredict charts and tables sit here (left out of this mock-up).<br>
+      The wire now runs full width along the very top of the page, above the site header, and stays
+      pinned with the header as you scroll. Hover to pause; click an item or "Read all" for the day.</div>
+
 
   </main>
 </div>

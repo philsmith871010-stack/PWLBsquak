@@ -31,17 +31,25 @@
   * { box-sizing: border-box; }
   html, body { margin: 0; }
   body { background: var(--bg); color: var(--text); font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
-  header { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 12px 16px; border-bottom: 1px solid var(--line); background: var(--panel); position: sticky; top: 0; z-index: 2; }
+  .masthead { position: sticky; top: 0; z-index: 2; }
+  header { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 12px 16px; border-bottom: 1px solid var(--line); background: var(--panel); }
   header h1 { font-size: 16px; margin: 0; letter-spacing: .02em; }
   header .meta { color: var(--muted); font-size: 12px; }
-  header button { background: transparent; color: var(--text); border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px; cursor: pointer; font-size: 13px; }
-  .tape { background: var(--tape-bg); color: var(--tape-text); overflow: hidden; white-space: nowrap; border-bottom: 1px solid var(--line); }
-  .tape-inner { display: inline-block; padding: 8px 0; animation: scroll 60s linear infinite; }
+  header button { white-space: nowrap; flex: none; background: transparent; color: var(--text); border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px; cursor: pointer; font-size: 13px; }
+  .tape { display: flex; align-items: stretch; width: 100%; background: var(--tape-bg); color: var(--tape-text); font-size: 13.5px; line-height: 1; }
+  .tape-label { flex: none; display: flex; align-items: center; gap: 6px; padding: 0 12px; font-weight: 700; letter-spacing: .08em; font-size: 11px; background: var(--imp3); color: #fff; }
+  .tape-label .dot { width: 7px; height: 7px; border-radius: 50%; background: #fff; animation: blink 1.6s ease-in-out infinite; }
+  @keyframes blink { 50% { opacity: .25; } }
+  .tape-track { flex: 1; overflow: hidden; white-space: nowrap; mask-image: linear-gradient(90deg, transparent 0, #000 24px, #000 calc(100% - 24px), transparent 100%); }
+  .tape-inner { display: inline-flex; padding: 9px 0; animation: scroll var(--tape-duration, 90s) linear infinite; will-change: transform; }
   .tape:hover .tape-inner { animation-play-state: paused; }
-  .tape span.item { margin-right: 48px; font-size: 14px; }
-  .tape span.item b { color: var(--imp2); margin-right: 6px; }
-  @keyframes scroll { from { transform: translateX(100vw); } to { transform: translateX(-100%); } }
-  @media (prefers-reduced-motion: reduce) { .tape-inner { animation: none; padding-left: 16px; white-space: normal; } }
+  .tape .item { display: inline-flex; align-items: center; gap: 8px; margin-right: 40px; }
+  .tape .item time { opacity: .6; font-variant-numeric: tabular-nums; }
+  .tape .item .tag { font-size: 10px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase; padding: 2px 6px; border-radius: 3px; color: #fff; }
+  .tape .item.i3 .hl { font-weight: 700; }
+  .tape .sep { opacity: .35; margin-right: 40px; }
+  @keyframes scroll { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+  @media (prefers-reduced-motion: reduce) { .tape-inner { animation: none; padding-left: 12px; } .tape-label .dot { animation: none; } }
   main { max-width: 860px; margin: 0 auto; padding: 16px; }
   .filters { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
   .filters button { border: 1px solid var(--line); background: var(--panel); color: var(--text); border-radius: 999px; padding: 4px 10px; font-size: 12px; cursor: pointer; }
@@ -63,14 +71,19 @@
 </style>
 </head>
 <body>
-<header>
-  <div>
-    <h1>PWLB Squawk <span class="meta">demo ticker</span></h1>
-    <div class="meta" id="status">loading…</div>
+<div class="masthead">
+  <div class="tape" aria-label="Latest squawks">
+    <span class="tape-label"><span class="dot"></span>LIVE</span>
+    <div class="tape-track"><div class="tape-inner" id="tape"></div></div>
   </div>
-  <button id="theme" type="button" aria-label="Toggle light/dark">☾ / ☀</button>
-</header>
-<div class="tape" aria-label="Latest squawks"><div class="tape-inner" id="tape"></div></div>
+  <header>
+    <div>
+      <h1>PWLB Squawk <span class="meta">demo ticker</span></h1>
+      <div class="meta" id="status">loading…</div>
+    </div>
+    <button id="theme" type="button" aria-label="Toggle light/dark">☾ / ☀</button>
+  </header>
+</div>
 <main>
   <div class="filters" id="filters" role="group" aria-label="Filter by category"></div>
   <div id="list"></div>
@@ -155,8 +168,16 @@
       }).join('');
     }
     const tape = document.getElementById('tape');
-    const top = squawks.slice(0, 12);
-    tape.innerHTML = top.length ? top.map(s => `<span class="item"><b>${s.importance === 3 ? '●' : s.importance === 2 ? '◐' : '○'}</b>${esc(s.headline)}</span>`).join('') : '<span class="item">Waiting for squawks…</span>';
+    const top = [...squawks].sort((a, b) => (b.ts || '').localeCompare(a.ts || '')).slice(0, 15);
+    if (!top.length) { tape.innerHTML = '<span class="item">Waiting for squawks…</span>'; tape.style.animation = 'none'; }
+    else {
+      const hhmm = iso => new Date(iso).toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
+      const one = top.map(s => `<span class="item i${s.importance}"><time>${hhmm(s.ts)}</time><span class="tag cat ${esc(s.category)}">${LABELS[s.category] || esc(s.category)}</span><span class="hl">${esc(s.headline)}</span></span>`).join('');
+      tape.innerHTML = one + '<span class="sep">◆</span>' + one + '<span class="sep">◆</span>';
+      tape.style.animation = '';
+      const chars = top.reduce((n, s) => n + s.headline.length, 0);
+      tape.style.setProperty('--tape-duration', Math.max(40, Math.round(chars / 9)) + 's');
+    }
   }
 
   async function load() {

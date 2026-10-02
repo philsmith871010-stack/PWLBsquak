@@ -65,6 +65,7 @@ class Runner:
         poll_interval: int | None = None,
         ingest: bool = True,
         market: bool = True,
+        demo_market: bool = False,
     ):
         self.settings = settings
         self.store = store
@@ -88,7 +89,7 @@ class Runner:
             window=dt.timedelta(minutes=settings.market_window_minutes),
             cooldown=dt.timedelta(minutes=settings.market_cooldown_minutes),
         )
-        self.monitor = MarketMonitor(source, detector, store)
+        self.monitor = MarketMonitor(source, detector, store, publish_alerts=True if demo_market else None)
         self.writer = SquawkWriter(settings, store, backend, mode="run") if backend is not None else None
         self.listener: JetstreamListener | None = None
         self.writer_slice_s = 5.0  # how often the writer wait re-checks event mode

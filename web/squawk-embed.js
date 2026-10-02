@@ -15,6 +15,8 @@
  *   data-src     feed URL (default: data/squawks.json next to this script's repo root)
  *   data-theme   "light" | "dark" (default: follow the viewer's system setting)
  *   data-label   strip label (default: "PWLB Squawk")
+ *   data-variant "banner" (light, orange-ruled row inside page content) or "topbar"
+ *                (full-width strip for the very top of the page, above the site header)
  *
  * Colours can be overridden by setting --squawk-* custom properties on the mount element;
  * custom properties inherit through the shadow boundary.
@@ -214,6 +216,32 @@
 }
 :host([data-variant="banner"]) .open:hover { background: rgba(253, 126, 20, .10); }
 :host([data-variant="banner"]) .item .at { color: var(--muted); }
+
+/* -- topbar variant ---------------------------------------------------------
+   Edge-to-edge strip for the very top of the page, above the site header: no
+   radius, no side borders, the host's navy with its accent on the label. */
+:host([data-variant="topbar"]) {
+  --strip-bg: var(--squawk-topbar-bg, #0a2540);
+  --strip-text: var(--squawk-topbar-text, #ffffff);
+  --strip-hover: var(--squawk-topbar-hover, rgba(255, 255, 255, .10));
+  --fade: var(--strip-bg);
+}
+:host([data-variant="topbar"]) .strip { border-radius: 0; border: 0; }
+:host([data-variant="topbar"]) .strip:focus-within { box-shadow: inset 0 -2px 0 var(--accent); }
+:host([data-variant="topbar"]) .track { padding: 7px 0; }
+:host([data-variant="topbar"]) .item { font-size: 13.5px; }
+:host([data-variant="topbar"]) .item .at { color: rgba(255, 255, 255, .6); }
+:host([data-variant="topbar"]) .badge {
+  background: rgba(255, 255, 255, .06); border-right: 1px solid rgba(255, 255, 255, .12);
+  font-size: 13px; letter-spacing: 0; text-transform: none; padding: 0 14px;
+}
+:host([data-variant="topbar"]) .badge .accent { color: var(--accent); }
+:host([data-variant="topbar"]) .pulse { background: var(--squawk-live, #23c552); }
+:host([data-variant="topbar"]) .open {
+  background: rgba(255, 255, 255, .06); border-left: 1px solid rgba(255, 255, 255, .12);
+  color: var(--strip-text); padding: 0 14px;
+}
+:host([data-variant="topbar"]) .open:hover { background: rgba(255, 255, 255, .14); }
 
 /* -- modal ------------------------------------------------------------------ */
 dialog {

@@ -16,6 +16,7 @@ from pathlib import Path
 from . import __version__
 from .accounts import check_handles, format_table, resolve_file, statuses_to_dicts
 from .config import Settings, load_accounts
+from .corrections import apply_corrections
 from .models import parse_ts, to_iso, utcnow
 from .recording import Recorder, export_recording, replay
 from .runner import Runner
@@ -238,6 +239,11 @@ def cmd_poll(args: argparse.Namespace, settings: Settings) -> int:
     return 0 if not stats.errors or stats.inserted else 1
 
 
+def _prepare(store: Store, settings: Settings) -> None:
+    _restore_history(store, settings)
+    apply_corrections(store, settings)
+
+
 def _restore_history(store: Store, settings: Settings) -> None:
     """Make the database agree with the committed history before writing anything.
 
@@ -263,7 +269,7 @@ def _restore_history(store: Store, settings: Settings) -> None:
 
 def cmd_write(args: argparse.Namespace, settings: Settings) -> int:
     store = Store(settings.db_path)
-    _restore_history(store, settings)
+    _prepare(store, settings)
     backend = make_backend(settings)
     if args.market_tick:
         from .sources.market import MarketMonitor, ThresholdDetector, load_market_source
@@ -294,7 +300,7 @@ def cmd_write(args: argparse.Namespace, settings: Settings) -> int:
 
 def cmd_run(args: argparse.Namespace, settings: Settings) -> int:
     store = Store(settings.db_path)
-    _restore_history(store, settings)
+    _prepare(store, settings)
     accounts = load_accounts(settings.accounts_file)
     backend = make_backend(settings)
     recorder = Recorder(args.record) if args.record else None
@@ -311,6 +317,7 @@ def cmd_run(args: argparse.Namespace, settings: Settings) -> int:
         recorder=recorder,
         market_source=market_source,
         poll_interval=args.poll_interval,
+        demo_market=bool(args.market_jump),
     )
     summary = asyncio.run(runner.run())
     print(summary.line())

@@ -172,8 +172,10 @@ def replay(
             snap = snaps[si]
             store.insert_market_snapshot(snap)
             latest_snap = snap
-            for alert in detector.observe(snap):
-                store.insert_event(alert.to_event())
+            alerts = detector.observe(snap)
+            if snap.source != "mock":
+                for alert in alerts:
+                    store.insert_event(alert.to_event())
             si += 1
         while ei < len(events) and events[ei].ts <= t:
             store.insert_event(

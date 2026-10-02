@@ -26,6 +26,7 @@ from ..models import (
 )
 from ..outputs import write_outputs
 from ..store import Store
+from . import figures
 from .backends import WriterBackend, WriterError
 from .cost import Usage, estimate_cost, format_usage
 from .prompt import build_user_message, load_system_prompt
@@ -140,6 +141,12 @@ class SquawkWriter:
         ]
         per_category: dict[str, int] = {}
         caps = self.settings.category_caps
+        # figures may come from this batch's posts or from squawks already published;
+        # nothing else (no market snapshot, no model knowledge)
+        batch_text = "\n".join(e.text for e in events.values())
+        earlier = self.store.latest_squawks(self.settings.recent_squawks_in_prompt)
+        known_text = batch_text + "\n" + "\n".join(f"{q.headline} {q.detail}" for q in earlier)
+        years = {str(now.year), str(now.year - 1)}
         # highest importance first so caps keep the strongest items; stable within a level
         for draft in sorted(drafts, key=lambda d: -d.importance):
             ids = [i for i in draft.source_event_ids if i in events]
@@ -157,6 +164,20 @@ class SquawkWriter:
                 log.info("dropping repeat of a recent squawk: %r", draft.headline[:80])
                 dropped += 1
                 continue
+            bad = figures.unsupported(draft.headline, known_text, allowed=years)
+            if bad:
+                log.warning(
+                    "dropping squawk with figures not in the inputs %s: %r", sorted(bad), draft.headline[:80]
+                )
+                dropped += 1
+                continue
+            detail, removed = figures.strip_unsupported(draft.detail, known_text, allowed=years)
+            if removed:
+                log.warning("removed sentence(s) with figures not in the inputs: %r", removed)
+            if not detail:
+                dropped += 1
+                continue
+            draft = draft.model_copy(update={"detail": detail})
             cat = draft.category.value
             if cat in caps and per_category.get(cat, 0) >= caps[cat]:
                 log.info("dropping %s squawk over the per-batch cap: %r", cat, draft.headline[:80])
