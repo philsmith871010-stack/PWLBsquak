@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T10:20:56Z",
+ "generated_at": "2026-10-02T10:40:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9ba6d4bda9b4",
+   "ts": "2026-10-02T10:38:54Z",
+   "headline": "Diesel prices drop sharply as EU weighs releasing 50mn barrels of reserves under US pressure, FT reports",
+   "detail": "The Financial Times reports the EU is considering releasing 50mn barrels of diesel reserves after the US president threatened to ban US diesel exports if Europe does not release stocks. Diesel prices were reported to have fallen sharply; no release has been agreed.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "cd22de343552c941"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwv6lsmzvi2y",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwv6lsmzvi2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "92031df6e5f3",
+   "created_at": "2026-10-02T10:40:54Z"
+  },
+  {
+   "id": "073847428188",
+   "ts": "2026-10-02T10:36:10Z",
+   "headline": "NIESR says about two-thirds of the third-quarter rise in 10-year gilt yields came from higher rate expectations",
+   "detail": "NIESR's latest Term Premium Tracker puts the UK 10-year gilt yield at 5.43% at the end of the quarter, its highest since 2007. It estimates that about two-thirds of the increase came from higher expected interest rates, with the rest from term premium.",
+   "category": "supply",
+   "importance": 1,
+   "source_event_ids": [
+    "c5936ab6d8fc8022"
+   ],
+   "sources": [
+    {
+     "author": "niesrorg.bsky.social",
+     "uri": "at://did:plc:6s7n3h2jcntzuvlw2movrget/app.bsky.feed.post/3mwv6gwpzc22d",
+     "url": "https://bsky.app/profile/niesrorg.bsky.social/post/3mwv6gwpzc22d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "92031df6e5f3",
+   "created_at": "2026-10-02T10:40:54Z"
+  },
   {
    "id": "0f4b1d9042c5",
    "ts": "2026-10-02T10:17:01Z",
@@ -6200,54 +6242,6 @@
    "model": "opus",
    "run_id": "034764864edd",
    "created_at": "2026-09-29T20:50:59Z"
-  },
-  {
-   "id": "63de190d8875",
-   "ts": "2026-09-29T20:44:29Z",
-   "headline": "API data show US gasoline stocks up 2.991m barrels and distillate stocks down 0.286m barrels",
-   "detail": "Weekly American Petroleum Institute figures show gasoline inventories rose by 2.991m barrels, after a 2.16m draw the previous week. Distillate stocks fell by 0.286m barrels, compared with a 2.164m draw previously.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "d43acb3836c77f1e",
-    "bdd035596d309278"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoozwsumt2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoozwsumt2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwop2rt2jr27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwop2rt2jr27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2d971d9142c0",
-   "created_at": "2026-09-29T20:46:01Z"
-  },
-  {
-   "id": "efe1f0219e21",
-   "ts": "2026-09-29T20:40:11Z",
-   "headline": "UAE vice president visits Saudi Arabia, the first senior UAE visit since the rift between the two Gulf states last year",
-   "detail": "Reuters reports that UAE Vice President Sheikh Mansour bin Zayed Al Nahyan met Saudi Crown Prince Mohammed bin Salman and the Saudi defence minister on Tuesday. It is the first visit to the kingdom by a senior UAE official since a deep rift opened between the two countries last year.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d632a6ab2e5cd726"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwoosakauu24",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwoosakauu24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8e52e84a9f58",
-   "created_at": "2026-09-29T20:40:58Z"
   }
  ]
 }
