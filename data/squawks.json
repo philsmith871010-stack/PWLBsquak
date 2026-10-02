@@ -1,8 +1,71 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T12:31:11Z",
+ "generated_at": "2026-10-02T12:35:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0ecbe9f6e397",
+   "ts": "2026-10-02T12:31:54Z",
+   "headline": "US September unemployment rate rises to 4.2% against 4.1% forecast; annual wage growth slows to 3.0%",
+   "detail": "The US September jobs report shows unemployment at 4.2%, average hourly earnings up 3.0% y/y and a two-month net payroll revision of minus 60,000. US short-term rate futures jumped after the release as traders cut bets on an October Fed rate rise.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "371bdb5c1adc5e6a",
+    "58a23635b5963865",
+    "7621ec77405c28b7",
+    "f950e7f07f01bbff",
+    "772edb22f0bb8494",
+    "4cfd52da71b85fd3",
+    "725f5a3a2cdd960e",
+    "c20def26f7af2aaa"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvevv7ke72i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvevv7ke72i"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvf3bx7n32n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvf3bx7n32n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvevmz6yk24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvevmz6yk24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwveusqsbd22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwveusqsbd22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvexpor6u2x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvexpor6u2x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvey436lo27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvey436lo27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvezahasl22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvezahasl22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvezzegl322",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvezzegl322"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0a7df08c336b",
+   "created_at": "2026-10-02T12:35:50Z"
+  },
   {
    "id": "5c3956d14981",
    "ts": "2026-10-02T12:30:45Z",
@@ -304,7 +367,7 @@
    "id": "163f754c5412",
    "ts": "2026-10-02T06:32:59Z",
    "headline": "DMO announces ad hoc tender of up to £1.5bn of a 2028 gilt on 7 October",
-   "detail": "The UK Debt Management Office says it will hold an ad hoc tender of up to £1.5bn of a 2028 gilt on 7 October. The 2-year gilt yield stands at 3.92% in the latest snapshot.",
+   "detail": "The UK Debt Management Office says it will hold an ad hoc tender of up to £1.5bn of a 2028 gilt on 7 October.",
    "category": "supply",
    "importance": 2,
    "source_event_ids": [
@@ -1051,7 +1114,7 @@
    "id": "eb5dec9f0e48",
    "ts": "2026-10-01T15:45:17Z",
    "headline": "Money markets stop fully pricing four BoE rate rises by the end of 2027",
-   "detail": "Traders have scaled back BoE tightening bets and no longer fully price four Bank Rate rises by the end of 2027. The 1-year SONIA OIS stands at 3.661% and the 2-year gilt yield at 3.92%.",
+   "detail": "Traders have scaled back BoE tightening bets and no longer fully price four Bank Rate rises by the end of 2027.",
    "category": "boe",
    "importance": 2,
    "source_event_ids": [
@@ -1168,7 +1231,7 @@
    "id": "3854fa2a6399",
    "ts": "2026-10-01T15:01:09Z",
    "headline": "IMF says global bond markets are functioning in an orderly way",
-   "detail": "The IMF said global bond markets are operating in an orderly manner, at a time when US, French, Italian and UK yields have been rising. The UK 10-year gilt yield stood at 4.578% in the latest snapshot.",
+   "detail": "The IMF said global bond markets are operating in an orderly manner, at a time when US, French, Italian and UK yields have been rising.",
    "category": "global_rates",
    "importance": 1,
    "source_event_ids": [
@@ -1693,7 +1756,7 @@
    "id": "e77548a72635",
    "ts": "2026-10-01T08:31:05Z",
    "headline": "UK September final manufacturing PMI comes in at 51.9, below the 52.0 forecast and down from 52.0",
-   "detail": "The final UK manufacturing PMI for September was 51.9. The forecast was 52.0 and the previous reading was 52.0. The 2-year gilt yield stood at 3.92% and the 10-year at 4.578% in the latest snapshot.",
+   "detail": "The final UK manufacturing PMI for September was 51.9. The forecast was 52.0 and the previous reading was 52.0.",
    "category": "data",
    "importance": 2,
    "source_event_ids": [
@@ -1909,7 +1972,7 @@
    "id": "b3a3927924ec",
    "ts": "2026-10-01T07:26:10Z",
    "headline": "US 10-year Treasury yield rises further to 5.33%, its highest level since 2002",
-   "detail": "The US 10-year Treasury yield rose to 5.33%, above the 5.304% reported earlier, according to a market wire post. The 10-year gilt yield stood at 4.578% in the latest snapshot.",
+   "detail": "The US 10-year Treasury yield rose to 5.33%, above the 5.304% reported earlier, according to a market wire post.",
    "category": "global_rates",
    "importance": 2,
    "source_event_ids": [
@@ -2503,7 +2566,7 @@
    "id": "7f411b9d2b9e",
    "ts": "2026-09-30T17:31:11Z",
    "headline": "US 10-year Treasury yield hits 5.304%, its highest level since May 2002",
-   "detail": "The US 10-year Treasury yield touched 5.304%, rising from the 5.29% level reported earlier in the session and reaching its highest since May 2002. The UK 10-year gilt yield stands at 4.578% in the latest snapshot.",
+   "detail": "The US 10-year Treasury yield touched 5.304%, rising from the 5.29% level reported earlier in the session and reaching its highest since May 2002.",
    "category": "global_rates",
    "importance": 2,
    "source_event_ids": [
@@ -3991,7 +4054,7 @@
    "id": "bf5b48d44e6f",
    "ts": "2026-09-30T07:40:18Z",
    "headline": "US 30-year Treasury yield rises above 5.61%, its highest level since 2002",
-   "detail": "Bloomberg reported that the US 30-year yield went above 5.61% on Tuesday, with inflation concerns and growing bets on Fed rate rises adding to the bond sell-off. The UK 30-year gilt yield stands at 5.307% in the latest snapshot.",
+   "detail": "Bloomberg reported that the US 30-year yield went above 5.61% on Tuesday, with inflation concerns and growing bets on Fed rate rises adding to the bond sell-off.",
    "category": "global_rates",
    "importance": 3,
    "source_event_ids": [
@@ -6215,27 +6278,6 @@
    "model": "opus",
    "run_id": "02fbd561d564",
    "created_at": "2026-09-29T21:10:55Z"
-  },
-  {
-   "id": "c909032f6178",
-   "ts": "2026-09-29T20:56:52Z",
-   "headline": "API data show crude stocks at the Cushing hub up 0.233m barrels",
-   "detail": "American Petroleum Institute weekly data show Cushing crude inventories rose by 0.233m barrels, following a 2.082m-barrel rise in the previous week; no forecast was given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "a3c22ee8e7903012"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwopq324we2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwopq324we2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6a93a2f9b6f2",
-   "created_at": "2026-09-29T21:01:32Z"
   }
  ]
 }
