@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T12:31:17Z",
+ "generated_at": "2026-10-05T13:51:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a799093c83fc",
+   "ts": "2026-10-05T13:45:57Z",
+   "headline": "US final September services PMI is revised up to 58.8 from the 58.7 flash; composite PMI unchanged at 58.4",
+   "detail": "The S&P Global survey shows services rising from 56.5 in August and the composite from 56.0. The survey reports new order growth at a four-and-a-half-year high, the fastest job creation since June 2022 and input cost inflation picking up again.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e6a399ed5da3eac1",
+    "d884f22d76a38270",
+    "ab1ead7757a56733",
+    "6f0c87193f2d5079",
+    "7ba5e09c35758a57",
+    "3397ace48b33a477"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx52h2jmw42n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx52h2jmw42n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx52hvu2lb2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx52hvu2lb2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx52jnw6ff2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx52jnw6ff2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx52jqrj3c2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx52jqrj3c2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx52jushoo2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx52jushoo2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx52ngqshu2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx52ngqshu2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2d86975949bc",
+   "created_at": "2026-10-05T13:51:00Z"
+  },
   {
    "id": "9ac5274c4260",
    "ts": "2026-10-05T12:30:14Z",
@@ -5910,39 +5961,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpg4r6l5u2q",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpg4r6l5u2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "93a5af21c418",
-   "created_at": "2026-09-30T05:15:56Z"
-  },
-  {
-   "id": "262ad0fc20fc",
-   "ts": "2026-09-30T03:19:27Z",
-   "headline": "China's finance ministry to reopen 80bn yuan of 10-year bonds on 9 October",
-   "detail": "China's finance ministry said it will sell 80bn yuan of reopened 10-year bonds on 9 October and 20bn yuan of 28-day bills on 8 October.",
-   "category": "supply",
-   "importance": 1,
-   "source_event_ids": [
-    "7119ba45db6c77a8",
-    "d0b87ccb99c3710c",
-    "e0ff6c5d65c0fcb6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpf47a6lk2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpf47a6lk2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpf5d4r7t2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpf5d4r7t2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpf4fhnnn2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpf4fhnnn2l"
     }
    ],
    "model": "opus",
