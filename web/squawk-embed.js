@@ -5,7 +5,7 @@
  *   <script src="https://philsmith871010-stack.github.io/pwlb-squawk-feed/web/squawk-embed.js" defer></script>
  *
  * The strip carries today's squawks only, so it always reads as live. Hovering pauses the
- * scroll; clicking opens a modal that starts on today and scrolls back through earlier days.
+ * scroll; clicking opens a modal with the last 24 hours of squawks.
  *
  * Everything lives in a shadow root, so the host page's CSS and this file's cannot reach each
  * other. The modal is a <dialog> promoted to the top layer, so it overlays the page whatever
@@ -33,6 +33,7 @@
   var STRIP_MAX = 12;             // a busy day runs to 40+ squawks, and a strip carrying
                                   // all of them takes ten minutes to come round. The strip
                                   // samples the latest; the modal holds the day.
+  var WINDOW_MS = 24 * 3600 * 1000; // the modal shows the last 24 hours
   var TZ = 'Europe/London';       // "today" means today in the UK, wherever the reader is
   var CATS = {
     boe: 'BoE', data: 'Data', fiscal: 'Fiscal', supply: 'Supply',
@@ -296,7 +297,6 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
 .card h3 { margin: 0 0 5px; font-size: 15.5px; line-height: 1.35; font-weight: 650; }
 .card p { margin: 0; font-size: 14px; color: var(--text); }
 .none { padding: 28px 0 32px; text-align: center; color: var(--muted); font-size: 14px; }
-.foot { flex: 0 0 auto; padding: 10px 16px; border-top: 1px solid var(--line); font-size: 11.5px; color: var(--muted); display: flex; justify-content: space-between; gap: 10px; }
 
 @media (max-width: 560px) {
   .badge span.txt { display: none; }
@@ -371,7 +371,6 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
       '  <div class="head"><div><h2></h2><div class="sub"></div></div>',
       '    <button class="close" type="button" aria-label="Close">\u2715</button></div>',
       '  <div class="body"></div>',
-      '  <div class="foot"><span class="updated"></span><span>UK rates blotter</span></div>',
       '</div></dialog>'
     ].join('');
     while (wrap.firstChild) root.appendChild(wrap.firstChild);
@@ -383,9 +382,8 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
     var dlg = root.querySelector('dialog');
     var body = root.querySelector('.body');
     var sub = root.querySelector('.sub');
-    var updated = root.querySelector('.updated');
     root.querySelector('.head h2').textContent =
-      (host.getAttribute('data-title') || 'Today\u2019s squawks');
+      (host.getAttribute('data-title') || 'Squawks');
 
     var rotate = (host.getAttribute('data-motion') || '') === 'rotate';
     var rotSecs = Math.max(3, parseFloat(host.getAttribute('data-interval')) || 6);
@@ -517,30 +515,29 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
         sub.textContent = '';
         return;
       }
+      // The modal holds the last 24 hours, grouped by UK day (Today, Yesterday).
+      var cutoff = Date.now() - WINDOW_MS;
+      var recent = all.filter(function (s) { return new Date(s.ts).getTime() >= cutoff; });
       var tKey = todayKey();
       var groups = [];
       var current = null;
-      all.forEach(function (s) {
+      recent.forEach(function (s) {
         var k = dayKey(s.ts);
         if (!current || current.key !== k) { current = { key: k, label: dayLabel(k, s.ts), items: [] }; groups.push(current); }
         current.items.push(s);
       });
-      // Always lead with Today, even when it is empty, so the modal answers "what happened
-      // today?" before it answers "what happened".
       var html = '';
-      if (!groups.length || groups[0].key !== tKey) {
-        html += '<div class="daybar">Today</div><div class="none">No squawks yet today.</div>';
+      if (!recent.length) {
+        html = '<div class="none">No squawks in the last 24 hours.</div>';
       }
       groups.forEach(function (g) {
         html += '<div class="daybar' + (g.key === tKey ? '' : ' earlier') + '">' + esc(g.label) + '</div>';
         html += g.items.map(function (s) { return card(s, g.key === tKey); }).join('');
       });
       body.innerHTML = html;
-
-      sub.textContent = today.length
-        ? today.length + (today.length === 1 ? ' squawk today' : ' squawks today') + ' \u00b7 scroll for earlier days'
-        : 'Nothing yet today \u00b7 scroll for earlier days';
-      updated.textContent = generatedAt ? 'Feed updated ' + ago(generatedAt) : '';
+      sub.textContent = recent.length
+        ? recent.length + (recent.length === 1 ? ' squawk' : ' squawks') + ' in the last 24 hours'
+        : '';
     }
 
     function openModal(focusId) {
