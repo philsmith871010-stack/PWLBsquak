@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T20:37:02Z",
+ "generated_at": "2026-10-05T21:18:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "31975ba8eefe",
+   "ts": "2026-10-05T20:59:57Z",
+   "headline": "New York Fed reviews big banks' lending to private credit firms, including Barclays, Semafor reports",
+   "detail": "Semafor reports that New York Fed officials have visited JPMorgan, Wells Fargo, Barclays and Morgan Stanley. They asked about the banks' exposure to private credit firms, their risk management and the quality of collateral.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "66bc203755a2b050",
+    "282a7fc8afa8a0af"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx5sfbnp2c2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx5sfbnp2c2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx5sp4coyg2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx5sp4coyg2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d440102f5a6b",
+   "created_at": "2026-10-05T21:18:51Z"
+  },
   {
    "id": "c0c00ce767d3",
    "ts": "2026-10-05T19:39:06Z",
@@ -5939,33 +5966,6 @@
    "model": "opus",
    "run_id": "0d01d85b36f0",
    "created_at": "2026-09-30T05:40:54Z"
-  },
-  {
-   "id": "addbf354d31e",
-   "ts": "2026-09-30T05:16:29Z",
-   "headline": "Russia says it struck a Kyiv communications centre and energy facilities in the Kyiv region overnight",
-   "detail": "Interfax, citing Russia's Defence Ministry, reported an overnight strike on a communications centre in Kyiv. The ministry also said energy system facilities in the Kyiv region were hit in what it called a massive strike.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "bdce425522826f33",
-    "fdc40ae2d150d47d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwplnh5uqv2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwplnh5uqv2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwplpdrct522",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwplpdrct522"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ee3c3f537116",
-   "created_at": "2026-09-30T05:20:57Z"
   }
  ]
 }
