@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T08:45:54Z",
+ "generated_at": "2026-10-05T08:50:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b461032899c0",
+   "ts": "2026-10-05T08:50:16Z",
+   "headline": "Saudi East-West oil pipeline is reported to be running normally again after an earlier halt",
+   "detail": "People familiar with the matter say oil is flowing as normal through Saudi Arabia's East-West pipeline. The blotter earlier reported that the pipeline had been halted after a new attack. No market reaction has been reported yet.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "a813d0d3fb29f318"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4jwdh4db2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4jwdh4db2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "387ce275ac33",
+   "created_at": "2026-10-05T08:50:55Z"
+  },
   {
    "id": "0b09d89c4404",
    "ts": "2026-10-05T08:44:54Z",
@@ -5928,69 +5949,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpbgnqacu2l",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpbgnqacu2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "93a5af21c418",
-   "created_at": "2026-09-30T05:15:56Z"
-  },
-  {
-   "id": "d7b6d8c14e6d",
-   "ts": "2026-09-30T01:45:57Z",
-   "headline": "China's RatingDog September PMIs beat forecasts: manufacturing 52.1, services 51.6, composite 52.4",
-   "detail": "The private RatingDog survey put manufacturing at 52.1 against a 51.7 forecast and 51.5 in August, and services at 51.6 against 51.3 expected and 51.4 previously. The composite rose to 52.4 from 52.1, and Reuters reported services growth at a three-month high on stronger new orders.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "120505442f8e5ecd",
-    "e2d4007ace57bd91",
-    "16cacd4d9d65db32",
-    "569f8ed21caa7b86",
-    "ca8e7b79e76a82d9",
-    "2ee02fbdba6e6436",
-    "79df63a75001a720",
-    "9f1886fff78e0f62"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7uwpext22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7uwpext22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7uyhn262f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7uyhn262f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7v26di42p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7v26di42p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7v3zloq2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7v3zloq2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7ysffwe2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7ysffwe2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7ywbunp27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7ywbunp27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7z23fsf2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7z23fsf2m"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpbs5l3fh2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwpbs5l3fh2e"
     }
    ],
    "model": "opus",
