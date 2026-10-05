@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T10:05:50Z",
+ "generated_at": "2026-10-05T12:31:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9ac5274c4260",
+   "ts": "2026-10-05T12:30:14Z",
+   "headline": "Resolution Foundation says new ONS estimates point to much stronger UK productivity growth since the financial crisis",
+   "detail": "The Resolution Foundation says revised estimates from the ONS imply UK productivity has grown considerably faster since the financial crisis than previously thought. The post gave no figures.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "7ce0a7228e10c56f"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mx4w7o52pb2v",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mx4w7o52pb2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5b72327fe775",
+   "created_at": "2026-10-05T12:31:17Z"
+  },
   {
    "id": "c9955d9d3ea8",
    "ts": "2026-10-05T10:04:32Z",
@@ -5922,27 +5943,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpf4fhnnn2l",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpf4fhnnn2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "93a5af21c418",
-   "created_at": "2026-09-30T05:15:56Z"
-  },
-  {
-   "id": "60a8747d1dc6",
-   "ts": "2026-09-30T03:00:28Z",
-   "headline": "US forces due to leave their remaining bases in Iraq; Iran's IRGC urges US voters to oust Trump's allies",
-   "detail": "Reuters reported US troops were due to withdraw from their last bases in Iraq on Wednesday, a departure welcomed by Tehran. Iran's Islamic Revolutionary Guard Corps called on Americans to vote Trump's congressional allies out of office.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "db2212998651b442"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpe2a74ll2f",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwpe2a74ll2f"
     }
    ],
    "model": "opus",
