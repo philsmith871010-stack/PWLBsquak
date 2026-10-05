@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T08:01:24Z",
+ "generated_at": "2026-10-05T08:31:12Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0d2882633b32",
+   "ts": "2026-10-05T08:30:07Z",
+   "headline": "Aramco CEO says upstream facilities are intact and maximum output capacity of 12M b/d can be reached within days",
+   "detail": "Saudi Aramco's chief executive commented on the state of the company's upstream facilities after the Houthi attacks on Aramco sites. He said its maximum oil output capacity of 12M barrels a day is available within days.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "2b5d4ab1846be70b",
+    "d16d74eec3f12da6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4ipxm7l52r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4ipxm7l52r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4iscly7k2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4iscly7k2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "baefcd485344",
+   "created_at": "2026-10-05T08:31:12Z"
+  },
   {
    "id": "0d8621247146",
    "ts": "2026-10-05T08:01:17Z",
@@ -5976,87 +6003,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7frfnrb2z",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7frfnrb2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5db12cbcad0",
-   "created_at": "2026-09-30T05:11:00Z"
-  },
-  {
-   "id": "552b67e1557c",
-   "ts": "2026-09-30T01:32:29Z",
-   "headline": "China's official September PMIs: manufacturing 50.1, non-manufacturing 50.2, composite 50.7",
-   "detail": "NBS manufacturing PMI rose to 50.1 from 49.8, in line with forecasts. Non-manufacturing rose to 50.2 from 49.0, above the 49.2 forecast, and the composite rose to 50.7 from 49.5.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "164748812baac453",
-    "5bd5885f191805b4",
-    "267f2c17028a3af4",
-    "c43ada1a9601a5d3",
-    "6936e840215591c8",
-    "fee9f9ea3d4d919e",
-    "7bcfaf877d01aed9",
-    "c580808be26f6f52",
-    "1cfba15fc3be5bcf",
-    "35a37b545b1b2f01",
-    "c556b268927c438d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp74vojce2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp74vojce2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp74rmopa2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp74rmopa2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp74yxbkn2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp74yxbkn2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp754a5w32m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp754a5w32m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp757s5hn2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp757s5hn2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp75daz3b26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp75daz3b26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp75goz6w2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp75goz6w2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp75kbg6i2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp75kbg6i2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7difsjh2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7difsjh2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7ee2cx42m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7ee2cx42m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7eiduyk2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7eiduyk2t"
     }
    ],
    "model": "opus",
