@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T17:05:59Z",
+ "generated_at": "2026-10-05T17:35:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5508950234d4",
+   "ts": "2026-10-05T17:34:01Z",
+   "headline": "Euro falls to its lowest level against the dollar since May 2025 as Spain's snap election adds to eurozone fiscal worries",
+   "detail": "Semafor reports that the euro fell to its weakest level against the dollar since May 2025. It says Spain's snap elections have added to growing fiscal and political concerns across the eurozone.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "cd6c58e9470fcdc2"
+   ],
+   "sources": [
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mx5h6ue22d2s",
+     "url": "https://bsky.app/profile/semafor.com/post/3mx5h6ue22d2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "27e2af310192",
+   "created_at": "2026-10-05T17:35:51Z"
+  },
   {
    "id": "a2561f29ba7e",
    "ts": "2026-10-05T17:02:54Z",
@@ -5934,27 +5955,6 @@
      "author": "financialtimes.com",
      "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwpjvegssp2m",
      "url": "https://bsky.app/profile/financialtimes.com/post/3mwpjvegssp2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ee3c3f537116",
-   "created_at": "2026-09-30T05:20:57Z"
-  },
-  {
-   "id": "bd823bd73a01",
-   "ts": "2026-09-30T04:40:05Z",
-   "headline": "Dollar is on course for its largest monthly gain against the euro in 14 months",
-   "detail": "Reuters reports that the dollar is near this year's high against the euro. It cites US growth and rising US interest rates, set against energy and debt concerns in Europe.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "3353e8429421923b"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpjmf2hem2n",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwpjmf2hem2n"
     }
    ],
    "model": "opus",
