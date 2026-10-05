@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T15:10:59Z",
+ "generated_at": "2026-10-05T16:05:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a9bb1419ab93",
+   "ts": "2026-10-05T16:03:56Z",
+   "headline": "US 30-year Treasury yield climbs to 5.69%, its highest level since 2002",
+   "detail": "Market reports show the US 30-year Treasury yield rising to 5.69%, a new high since 2002.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "399698c036be0eaf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx5c5s7h6z2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx5c5s7h6z2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ff4f8f354c81",
+   "created_at": "2026-10-05T16:05:51Z"
+  },
   {
    "id": "cbabd3a0d5d0",
    "ts": "2026-10-05T15:10:36Z",
@@ -5928,39 +5949,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpj2qmost2m",
      "url": "https://bsky.app/profile/reuters.com/post/3mwpj2qmost2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ee3c3f537116",
-   "created_at": "2026-09-30T05:20:57Z"
-  },
-  {
-   "id": "bd49c30460b2",
-   "ts": "2026-09-30T04:12:41Z",
-   "headline": "Poland temporarily shuts Rzeszow and Lublin airports as military aircraft operate; air defences put on readiness",
-   "detail": "Polish authorities said the two airports were closed temporarily because of military aviation activity. The Polish army said its ground-based air defence and radar reconnaissance systems had reached readiness and that its operational command was monitoring the situation.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "094cee6d55375921",
-    "2056bfc2182a8f99",
-    "118a4aa19e8bfe3f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpi3ewqsf2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpi3ewqsf2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpi5b5zc22f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpi5b5zc22f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpi63fnsv2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpi63fnsv2c"
     }
    ],
    "model": "opus",
