@@ -1,8 +1,905 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-02T12:40:52Z",
+ "generated_at": "2026-10-05T10:05:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c9955d9d3ea8",
+   "ts": "2026-10-05T10:04:32Z",
+   "headline": "Yemen's armed forces say they have launched a strategic offensive in Sanaa",
+   "detail": "Yemen's armed forces announced the start of what they called a strategic offensive in Sanaa. The announcement follows strikes by the Saudi-led coalition and Houthi attacks on Saudi Aramco sites. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5920225af8fe269c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4o357p2x24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4o357p2x24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "100c3baf8c24",
+   "created_at": "2026-10-05T10:05:50Z"
+  },
+  {
+   "id": "c08a866e9fa8",
+   "ts": "2026-10-05T09:09:33Z",
+   "headline": "Saudi-led coalition says 100 fighter jets struck 324 targets in Yemen and it is giving air cover to the Bab el-Mandeb Strait",
+   "detail": "The Saudi-led coalition said in statements that 100 fighter jets took part in an operation in Yemen that hit 324 targets it described as high-value. It also said it is providing air protection for the Bab el-Mandeb Strait.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "71fd5f04c7696a21",
+    "de4a00ff7a77276c",
+    "8f5cd542b774f05e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4kysxmlq2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4kysxmlq2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4kywybpw2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4kywybpw2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4l2gzyw32d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4l2gzyw32d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "239e326dc3d2",
+   "created_at": "2026-10-05T09:10:59Z"
+  },
+  {
+   "id": "883ee05a91e9",
+   "ts": "2026-10-05T09:01:08Z",
+   "headline": "Eurozone August producer prices rise 8.2% y/y, above the 7.9% forecast; monthly rise of 1.9% is in line",
+   "detail": "Eurozone producer price inflation climbed to 8.2% year on year from 5.8% previously, ahead of the 7.9% forecast. On the month, prices rose 1.9%, matching expectations, after a 1.6% rise previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "3881fd8c68ff6c90",
+    "796ae6537a717bd7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4kjrnie72y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4kjrnie72y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4kjuyjx626",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4kjuyjx626"
+    }
+   ],
+   "model": "opus",
+   "run_id": "56529779c9a0",
+   "created_at": "2026-10-05T09:01:31Z"
+  },
+  {
+   "id": "b461032899c0",
+   "ts": "2026-10-05T08:50:16Z",
+   "headline": "Saudi East-West oil pipeline is reported to be running normally again after an earlier halt",
+   "detail": "People familiar with the matter say oil is flowing as normal through Saudi Arabia's East-West pipeline. The blotter earlier reported that the pipeline had been halted after a new attack. No market reaction has been reported yet.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "a813d0d3fb29f318"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4jwdh4db2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4jwdh4db2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "387ce275ac33",
+   "created_at": "2026-10-05T08:50:55Z"
+  },
+  {
+   "id": "0b09d89c4404",
+   "ts": "2026-10-05T08:44:54Z",
+   "headline": "Saudi East-West oil pipeline halted after a new attack; Brent recovers earlier losses",
+   "detail": "Market reports say a fresh attack has stopped Saudi Arabia's East-West pipeline. Brent crude was reported to have recovered its earlier losses on the news.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "a44a3e59b8378dc0",
+    "681d48e8e1a9580d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4jmqohjb2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4jmqohjb2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4jmsjidk2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4jmsjidk2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a15b88276b99",
+   "created_at": "2026-10-05T08:45:54Z"
+  },
+  {
+   "id": "343acd2e2f0e",
+   "ts": "2026-10-05T08:31:19Z",
+   "headline": "UK final September services PMI revised up to 52.1 from 51.7 flash; composite PMI final at 52",
+   "detail": "The final UK services PMI for September came in at 52.1 and the composite at 52, both above the 51.7 forecast and the 51.7 previous reading.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "897a918424c9ea7c",
+    "e3bf55f0101af1d9",
+    "78549da7674f7d1d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4iuh2jg524",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4iuh2jg524"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4iuca5bd2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4iuca5bd2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4ivwq7zb2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4ivwq7zb2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "83acd9177054",
+   "created_at": "2026-10-05T08:35:53Z"
+  },
+  {
+   "id": "0d2882633b32",
+   "ts": "2026-10-05T08:30:07Z",
+   "headline": "Aramco CEO says upstream facilities are intact and maximum output capacity of 12M b/d can be reached within days",
+   "detail": "Saudi Aramco's chief executive commented on the state of the company's upstream facilities after the Houthi attacks on Aramco sites. He said its maximum oil output capacity of 12M barrels a day is available within days.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "2b5d4ab1846be70b",
+    "d16d74eec3f12da6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4ipxm7l52r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4ipxm7l52r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4iscly7k2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4iscly7k2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "baefcd485344",
+   "created_at": "2026-10-05T08:31:12Z"
+  },
+  {
+   "id": "0d8621247146",
+   "ts": "2026-10-05T08:01:17Z",
+   "headline": "Eurozone final September services PMI is 53 and composite 53.1, both in line with forecasts; German composite final at 53.8",
+   "detail": "The eurozone final services PMI came in at 53 and the composite at 53.1, matching forecasts and the previous readings. Germany's final services PMI was 52.9 and its composite 53.8, also matching forecasts and the previous readings.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "28a1031fd5d698cb",
+    "f45079147f01b38a",
+    "1adde4c4529a76c3",
+    "e5adb67bb481a732"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4h6m3r2t2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4h6m3r2t2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4h6qi7di2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4h6qi7di2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4gv6pefr2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4gv6pefr2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4gvao7yi2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4gvao7yi2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cabb194ae481",
+   "created_at": "2026-10-05T08:01:24Z"
+  },
+  {
+   "id": "fb3e4a542e56",
+   "ts": "2026-10-05T07:51:03Z",
+   "headline": "French September services PMI comes in at 51.2, slightly below the 51.4 forecast; composite PMI at 51.1",
+   "detail": "France's services PMI was 51.2, against a forecast and previous reading of 51.4. The composite PMI was 51.1, against a forecast and previous reading of 51.2.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2f291f4ddd369fdf",
+    "1f65df791669403e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4gmhbyfo2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4gmhbyfo2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4gmjvxmj2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4gmjvxmj2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bd580ec37245",
+   "created_at": "2026-10-05T07:55:49Z"
+  },
+  {
+   "id": "3c0e2467e766",
+   "ts": "2026-10-05T07:50:10Z",
+   "headline": "ECB's Nagel says upside risks dominate the inflation outlook and uncertainty calls for flexibility rather than inaction",
+   "detail": "Bundesbank President and ECB Governing Council member Joachim Nagel said there are no clear signs yet of inflation feeding into price and wage setting. He also said Germany has entered a gradual recovery.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "c8f6e1884b156a25"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4gkugkbn2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4gkugkbn2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a8e905891d33",
+   "created_at": "2026-10-05T07:50:56Z"
+  },
+  {
+   "id": "7653638e68af",
+   "ts": "2026-10-05T07:45:53Z",
+   "headline": "Italy's September services PMI falls to 51.7, well below the 54.5 forecast; composite PMI drops to 51",
+   "detail": "Italy's services PMI came in at 51.7, against a forecast of 54.5 and down from 55.2. The composite PMI was 51, against a forecast of 53.2 and down from 53.6.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "151c9a7fe2329701",
+    "4c6001fa3855a25a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4gd7ddex2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4gd7ddex2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4gd5bxzr2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4gd5bxzr2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0f11e7ef5c02",
+   "created_at": "2026-10-05T07:45:56Z"
+  },
+  {
+   "id": "8ef148a90599",
+   "ts": "2026-10-05T05:27:00Z",
+   "headline": "Japan's PM Takaichi rules out deficit-financing bonds to fund the sales tax and pledges to manage annual debt issuance effectively",
+   "detail": "Japan's Prime Minister Takaichi said the government will not use deficit-financing bonds to fund the sales tax, will manage yearly debt issuance effectively and will draw up a five-year investment plan by the end of the year. She also said the government will respond quickly if the economy or markets move unexpectedly.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "5e40153e32311fb9",
+    "7aee45f6296e5e00",
+    "d50cf0b93ee36732",
+    "51523967149581b6",
+    "fd04f4c3c98ab81e",
+    "8811e332d52fa86c",
+    "6552c6e375fe6c77",
+    "ee765d5734ffd25c",
+    "81ab189cc4d7aab3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx46kv72mc2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx46kv72mc2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx45tzthgc2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx45tzthgc2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx45u5tqzg2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx45u5tqzg2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx45rmcq6w2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx45rmcq6w2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx45rj4dnj2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx45rj4dnj2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx45ubvzqw2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx45ubvzqw2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx45rpjjoc2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx45rpjjoc2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx45ufb4h626",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx45ufb4h626"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx45t7l3of2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx45t7l3of2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "84d46867fc8c",
+   "created_at": "2026-10-05T05:35:48Z"
+  },
+  {
+   "id": "da3a2bcdcff9",
+   "ts": "2026-10-05T02:00:17Z",
+   "headline": "Middle East crude exports exceed pre-war levels despite rising attacks on tankers, shipping data show",
+   "detail": "Shipping data published on Monday show Middle East crude exports were above pre-war levels on four of the seven days in the final week of September. Attacks on vessels passing through the Strait of Hormuz have increased over the same period.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "d0048679f1d838f9",
+    "164b4267706712fc"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mx3szalub62x",
+     "url": "https://bsky.app/profile/reuters.com/post/3mx3szalub62x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx3scswehh2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx3scswehh2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "525efb5b0e72",
+   "created_at": "2026-10-05T05:25:49Z"
+  },
+  {
+   "id": "7bcf64847492",
+   "ts": "2026-10-05T00:56:17Z",
+   "headline": "Japan's 30-year JGB yield rises 2.5bp to a record high of 4.23%",
+   "detail": "The 30-year Japanese government bond yield rose 2.5bp to 4.23% in early Asian trade on Monday, a record high.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "1898544aa1f6cac9",
+    "cf6e9cc525bc4530"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx3pc723r72f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx3pc723r72f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx3pgrzege2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx3pgrzege2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "525efb5b0e72",
+   "created_at": "2026-10-05T05:25:49Z"
+  },
+  {
+   "id": "f7b15ab707cc",
+   "ts": "2026-10-05T00:36:47Z",
+   "headline": "Global LNG spot prices hit highest since late 2022 as Qatar extends force majeure on LNG contracts",
+   "detail": "Spot LNG prices have reached their highest since late 2022 as Qatar's supply freeze continues and it extends force majeure on LNG contracts. Maritime transit through the Strait of Hormuz is reported down 80% from February.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "c9b0e7e99a265592"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx3odwja2m2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx3odwja2m2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "525efb5b0e72",
+   "created_at": "2026-10-05T05:25:49Z"
+  },
+  {
+   "id": "0ecbc22109dd",
+   "ts": "2026-10-05T00:00:12Z",
+   "headline": "Apache offshore workers vote to strike, which could disrupt the North Sea Forties pipeline, Unite says",
+   "detail": "The Unite union said more than 160 offshore workers at Apache back strike action this month that could disrupt the Forties pipeline, a major route for UK oil and gas supplies.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "dafe535ad1d38a2b"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mx3mcimxhe2z",
+     "url": "https://bsky.app/profile/reuters.com/post/3mx3mcimxhe2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e249a2f3c74d",
+   "created_at": "2026-10-05T05:20:52Z"
+  },
+  {
+   "id": "d0f677660abf",
+   "ts": "2026-10-04T23:10:04Z",
+   "headline": "Brent climbs to $103.06 a barrel after Yemen's Houthis attack Saudi Aramco sites",
+   "detail": "Reuters reports that Brent crude futures rose to $103.06 a barrel in early Asian trading after Houthi attacks on Saudi Aramco facilities.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "8d3df8fbcacca553"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mx3jiuab6f2a",
+     "url": "https://bsky.app/profile/reuters.com/post/3mx3jiuab6f2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e249a2f3c74d",
+   "created_at": "2026-10-05T05:20:52Z"
+  },
+  {
+   "id": "0377e8d6fae8",
+   "ts": "2026-10-04T23:01:00Z",
+   "headline": "EY fiscal forecast shows Iran war could fully erase Healey's headroom against borrowing rule",
+   "detail": "City AM reports that EY's central fiscal forecast shows the Chancellor's buffer against the borrowing target has shrunk and could be wiped out by the effects of the Iran war. Economists also said the OBR could take a gloomier view of the UK economy.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "785340484f391101"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mx3wszxuadj2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mx3wszxuadj2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e249a2f3c74d",
+   "created_at": "2026-10-05T05:20:52Z"
+  },
+  {
+   "id": "9dcfea4c37cc",
+   "ts": "2026-10-04T22:00:38Z",
+   "headline": "UK expected to impose tariffs on Chinese electric cars, The Times reports",
+   "detail": "Reuters, citing The Times on Sunday, says Britain is expected to put tariffs on electric vehicles imported from China.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8ede7e4f362b77a2"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mx3fmol5tj2p",
+     "url": "https://bsky.app/profile/reuters.com/post/3mx3fmol5tj2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e249a2f3c74d",
+   "created_at": "2026-10-05T05:20:52Z"
+  },
+  {
+   "id": "17620e3d7818",
+   "ts": "2026-10-02T21:35:11Z",
+   "headline": "Bundesbank's Nagel says German growth this year could reach about 1%, around twice recent projections",
+   "detail": "Bundesbank President Joachim Nagel said on Friday that strong export demand and government investment could lift German growth to around 1% this year, roughly double the latest projections, Reuters reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b9c5aa2fda51634d"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwwdbdtoa62q",
+     "url": "https://bsky.app/profile/reuters.com/post/3mwwdbdtoa62q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d4180a8881bc",
+   "created_at": "2026-10-02T21:35:51Z"
+  },
+  {
+   "id": "8ec27421d90f",
+   "ts": "2026-10-02T21:15:06Z",
+   "headline": "Healey expected to use the Budget for targeted support rather than large tax rises, putting off hard choices, FT reports",
+   "detail": "According to the Financial Times, Chancellor Healey is expected to centre her Budget statement on targeted help for households and businesses. The paper says she is not expected to raise taxes on the scale of recent Budgets.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "879172a00808c603"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwwc5gftsf2m",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mwwc5gftsf2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fdf159e73900",
+   "created_at": "2026-10-02T21:15:53Z"
+  },
+  {
+   "id": "947bb60ceab8",
+   "ts": "2026-10-02T20:00:48Z",
+   "headline": "Hedge funds hold a net short position in sterling for the first time since 2024, CFTC data show",
+   "detail": "Weekly CFTC positioning data released on Friday show hedge funds have moved to a net short position in the pound for the first time since 2024.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "718da3a4a4a67464"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mww5yksytl2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mww5yksytl2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "71847b73e92a",
+   "created_at": "2026-10-02T20:01:23Z"
+  },
+  {
+   "id": "3532f4a7640b",
+   "ts": "2026-10-02T20:00:44Z",
+   "headline": "Trump rules out a US ban on diesel exports",
+   "detail": "US President Trump said on Friday that the administration will not impose a ban on diesel exports.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "9ad7e1c8469f50ab",
+    "fe5adf8f49f81ebd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mww5ygx7q72y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mww5ygx7q72y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mww5yiw3j72f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mww5yiw3j72f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "71847b73e92a",
+   "created_at": "2026-10-02T20:01:23Z"
+  },
+  {
+   "id": "9fd46fef11be",
+   "ts": "2026-10-02T18:57:21Z",
+   "headline": "US Justice Department will not reopen its criminal investigation into Fed Chair Powell, Attorney General says",
+   "detail": "Attorney General Blanche said the Department of Justice is satisfied with the Fed inspector general's report and will not resume the criminal probe into Powell.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a0794ea8b67cbb11",
+    "aafc8651c3032111"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mww2h4higz2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mww2h4higz2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mww2imnoxb24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mww2imnoxb24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4c50a7f38e7d",
+   "created_at": "2026-10-02T19:01:59Z"
+  },
+  {
+   "id": "1a19dcdb9e67",
+   "ts": "2026-10-02T17:03:52Z",
+   "headline": "Fed's Goolsbee keeps both a rate rise and a pause open, saying the inflation side of the Fed's mandate matters more",
+   "detail": "Speaking to Fox Business, Chicago Fed President Goolsbee said the labour market is steady and he wants to see whether there is evidence that inflation is heading back to 2%. He added that he would not react strongly to a single month of data.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8685d7ea905249b1",
+    "85c49844a9288969",
+    "4107c9b974e16c48",
+    "ab48359aba5349bf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvu46ybxq2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvu46ybxq2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvu56ypb72r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvu56ypb72r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvu5wf6gp2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvu5wf6gp2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvu7nb5tt2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvu7nb5tt2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "62645c3a5a49",
+   "created_at": "2026-10-02T17:05:54Z"
+  },
+  {
+   "id": "b0b6a70252d1",
+   "ts": "2026-10-02T16:47:11Z",
+   "headline": "Italy plans to ask the EU for 2027 deficit leeway of 0.6% of GDP and raises its 2026 growth forecast to 0.8%",
+   "detail": "Italy's government plans to ask the EU for deficit flexibility worth 0.6% of GDP in 2027, and expects the 2026 deficit to come in below 3% of GDP. It also raised its 2026 GDP growth forecast to 0.8%, up from the 0.6% it forecast in April.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "18356bea8182dac9",
+    "515272ef13163784",
+    "a2195d84ad0838f4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvt6ewxjp2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvt6ewxjp2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvt77c4yb2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvt77c4yb2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvtau76nu2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvtau76nu2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5003f30f878b",
+   "created_at": "2026-10-02T16:51:04Z"
+  },
+  {
+   "id": "02b67206e415",
+   "ts": "2026-10-02T16:42:57Z",
+   "headline": "IEA head Birol says oil prices fell at least $5 after the agency announced a release of oil and diesel reserves",
+   "detail": "IEA Executive Director Fatih Birol said the stocks will go to market over the coming days and weeks, with distribution to be finalised after consultation with member states. He said reserves are sufficient and more can be released if needed.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "6cd264765b2a4dff",
+    "b3d8253ad63d6077"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvsws5z272y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvsws5z272y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvswuiit52q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvswuiit52q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f440ff2caf2f",
+   "created_at": "2026-10-02T16:46:01Z"
+  },
+  {
+   "id": "2883091b16f7",
+   "ts": "2026-10-02T14:42:38Z",
+   "headline": "French-German 10-year bond yield spread narrows to 140bp from 159bp",
+   "detail": "A market newswire reports that the gap between French and German 10-year government bond yields has fallen to 140bp from 159bp.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "00004695dfec7c2b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvm7nnvtn2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvm7nnvtn2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e435b4ad6d72",
+   "created_at": "2026-10-02T14:45:53Z"
+  },
+  {
+   "id": "e400b01979e0",
+   "ts": "2026-10-02T13:59:33Z",
+   "headline": "Macron says the G7 has decided to release up to 100mn barrels of diesel and crude stocks over four months",
+   "detail": "French President Macron said G7 countries have agreed to release strategic diesel and crude stocks of up to 100mn barrels. He said the release will take place over four months.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "0430fce15322bef9",
+    "4d1c823a5449e7b7",
+    "5a70007df979c94a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjrnfojw2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjrnfojw2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjsj4fqv2x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjsj4fqv2x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjsmbhvw2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjsmbhvw2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7943c3245293",
+   "created_at": "2026-10-02T14:01:24Z"
+  },
+  {
+   "id": "209d25c999ab",
+   "ts": "2026-10-02T13:53:10Z",
+   "headline": "White House adviser Hassett says the administration does not aim to inflate its way out of debt and puts higher yields down to a strong…",
+   "detail": "White House senior adviser Kevin Hassett said US interest payments are too high, the President is committed to cutting the deficit and the jobs report was in line with expectations. He said yields are higher because the economy is strong.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "278fb18dde5de842",
+    "4014c0b617e8d96d",
+    "207f7156527532eb",
+    "d78e4a61dd9fa443",
+    "5310b456dbb7b6e3",
+    "70fba4ae8a45b606",
+    "c019618fcf048ce2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjedpbtr2x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjedpbtr2x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjfimx4x23",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjfimx4x23"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjfyvu2i2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjfyvu2i2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjgtynbf2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjgtynbf2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjgzbykf2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjgzbykf2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjh6ybjj2x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjh6ybjj2x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvji2ukbv22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvji2ukbv22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6d45fe0fbd37",
+   "created_at": "2026-10-02T13:55:45Z"
+  },
+  {
+   "id": "c166150fd3e1",
+   "ts": "2026-10-02T13:38:55Z",
+   "headline": "White House adviser Hassett says the US Navy has reopened the Strait of Hormuz and crude is flowing through",
+   "detail": "White House senior adviser Kevin Hassett said the US Navy has reopened the Strait of Hormuz and crude oil is passing through again. He added that more energy announcements will follow next week. No market reaction was reported in the posts.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "1b913be56ed89f13",
+    "4d116bf54a185215",
+    "85e14ee2c8df80cd",
+    "d6e7856a3fe8b48b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvinpmsz724",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvinpmsz724"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvipf7wht2x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvipf7wht2x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwviokyoun2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwviokyoun2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvipi5apb2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvipi5apb2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "848398ab101a",
+   "created_at": "2026-10-02T13:40:59Z"
+  },
   {
    "id": "e5b2b76b8d69",
    "ts": "2026-10-02T12:39:07Z",
@@ -5051,1173 +5948,6 @@
    "model": "opus",
    "run_id": "93a5af21c418",
    "created_at": "2026-09-30T05:15:56Z"
-  },
-  {
-   "id": "35f6c05c28aa",
-   "ts": "2026-09-30T02:50:11Z",
-   "headline": "Global bonds head for their worst month in years in September",
-   "detail": "Reuters reported global bonds weakening on Wednesday, pressured by worsening government finances, heavy issuance and rising inflation. It said energy costs remain high as the US-Israeli war on Iran enters its seventh month.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "2512b63b008a223f"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpdhtrfwr2r",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwpdhtrfwr2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "93a5af21c418",
-   "created_at": "2026-09-30T05:15:56Z"
-  },
-  {
-   "id": "cfcdfb80e65e",
-   "ts": "2026-09-30T02:29:23Z",
-   "headline": "South Korean spy agency estimates about 9,000 North Korean soldiers are in Russia",
-   "detail": "A South Korean lawmaker, citing the spy agency, said there was no sign of further North Korean troop deployments to Russia and that the two countries had cooperated on ballistic missile shipments. The lawmaker also put the chance of North Korea-US talks at the APEC summit at 50%.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "40928e5e688cd3d1",
-    "81104da79b231a92",
-    "19ce88f274c50fd6",
-    "66165bf0e0978b27",
-    "19312fbde4cd59c6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpccnnmf42m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpccnnmf42m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpcccjoqe2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpcccjoqe2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpcm272bl2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpcm272bl2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpcdjccez22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpcdjccez22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpcbgvp4b27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpcbgvp4b27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "93a5af21c418",
-   "created_at": "2026-09-30T05:15:56Z"
-  },
-  {
-   "id": "e06355e395f7",
-   "ts": "2026-09-30T02:13:43Z",
-   "headline": "China's military runs readiness patrols around Scarborough Shoal",
-   "detail": "Chinese forces carried out readiness patrols in the sea and airspace around Scarborough Shoal on Wednesday.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "63e097137ca74d97"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpbgnqacu2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpbgnqacu2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "93a5af21c418",
-   "created_at": "2026-09-30T05:15:56Z"
-  },
-  {
-   "id": "d7b6d8c14e6d",
-   "ts": "2026-09-30T01:45:57Z",
-   "headline": "China's RatingDog September PMIs beat forecasts: manufacturing 52.1, services 51.6, composite 52.4",
-   "detail": "The private RatingDog survey put manufacturing at 52.1 against a 51.7 forecast and 51.5 in August, and services at 51.6 against 51.3 expected and 51.4 previously. The composite rose to 52.4 from 52.1, and Reuters reported services growth at a three-month high on stronger new orders.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "120505442f8e5ecd",
-    "e2d4007ace57bd91",
-    "16cacd4d9d65db32",
-    "569f8ed21caa7b86",
-    "ca8e7b79e76a82d9",
-    "2ee02fbdba6e6436",
-    "79df63a75001a720",
-    "9f1886fff78e0f62"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7uwpext22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7uwpext22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7uyhn262f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7uyhn262f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7v26di42p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7v26di42p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7v3zloq2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7v3zloq2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7ysffwe2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7ysffwe2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7ywbunp27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7ywbunp27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7z23fsf2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7z23fsf2m"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpbs5l3fh2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwpbs5l3fh2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "93a5af21c418",
-   "created_at": "2026-09-30T05:15:56Z"
-  },
-  {
-   "id": "e9a91bf79a7a",
-   "ts": "2026-09-30T01:34:48Z",
-   "headline": "Brent rises more than $1 to $103.73 after Trump denies Iran sanctions relief",
-   "detail": "Brent crude futures gained more than $1 to $103.73 a barrel in Asian trading after President Trump denied that sanctions relief for Iran was planned.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "d67a3d72064fe5f1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7b2ajz72v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7b2ajz72v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5db12cbcad0",
-   "created_at": "2026-09-30T05:11:00Z"
-  },
-  {
-   "id": "d8ac81718cf7",
-   "ts": "2026-09-30T01:32:54Z",
-   "headline": "South Korea's military demands North Korea halt border fortification work and says troops were badly hurt by mines",
-   "detail": "South Korea's military said North Korea's fortification activity is raising tensions on the peninsula and demanded that it stop immediately and apologise. It also said some of its personnel were seriously injured by North Korean mines.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "43531f901eca5a24",
-    "93ac368c5300bf25",
-    "528aaf7b27263421",
-    "cbb42ccdea60a01a",
-    "cdb3a5805908254a",
-    "f8a523656e5a1c1c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp75nfsqp2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp75nfsqp2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp76hyemq2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp76hyemq2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp76luiji2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp76luiji2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7ajn74l2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7ajn74l2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7fm4ugk22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7fm4ugk22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7frfnrb2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7frfnrb2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5db12cbcad0",
-   "created_at": "2026-09-30T05:11:00Z"
-  },
-  {
-   "id": "552b67e1557c",
-   "ts": "2026-09-30T01:32:29Z",
-   "headline": "China's official September PMIs: manufacturing 50.1, non-manufacturing 50.2, composite 50.7",
-   "detail": "NBS manufacturing PMI rose to 50.1 from 49.8, in line with forecasts. Non-manufacturing rose to 50.2 from 49.0, above the 49.2 forecast, and the composite rose to 50.7 from 49.5.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "164748812baac453",
-    "5bd5885f191805b4",
-    "267f2c17028a3af4",
-    "c43ada1a9601a5d3",
-    "6936e840215591c8",
-    "fee9f9ea3d4d919e",
-    "7bcfaf877d01aed9",
-    "c580808be26f6f52",
-    "1cfba15fc3be5bcf",
-    "35a37b545b1b2f01",
-    "c556b268927c438d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp74vojce2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp74vojce2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp74rmopa2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp74rmopa2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp74yxbkn2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp74yxbkn2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp754a5w32m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp754a5w32m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp757s5hn2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp757s5hn2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp75daz3b26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp75daz3b26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp75goz6w2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp75goz6w2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp75kbg6i2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp75kbg6i2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7difsjh2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7difsjh2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7ee2cx42m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7ee2cx42m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7eiduyk2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7eiduyk2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5db12cbcad0",
-   "created_at": "2026-09-30T05:11:00Z"
-  },
-  {
-   "id": "4c294f2d38ed",
-   "ts": "2026-09-30T01:30:51Z",
-   "headline": "Australian August CPI rises to 4.0% y/y from 3.5%, just below the 4.1% forecast; trimmed mean steady at 3.6%",
-   "detail": "Headline CPI rose 0.4% m/m against a 0.5% estimate, while trimmed mean inflation was 3.6% y/y (0.2% m/m) and the weighted median was 3.6% y/y. Building approvals fell 6.1% m/m against a forecast 1.0% fall, and private sector credit rose 0.6% m/m.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "8c674855bab850a6",
-    "eaf6ca7193f79db5",
-    "5210be03caf94474",
-    "81b708e68299a759",
-    "1feaa16fead53495",
-    "e38abd27425b38d5",
-    "1b6a81cf0da895b2",
-    "d0fa7ee4eb8964bb",
-    "88ea73c9b8e58f29",
-    "b61fe42fa02b80cf",
-    "e724e68ed4e9fb65",
-    "58c3347cfbd7842c",
-    "4ea0bfc552c5d00f",
-    "1a3a21961d0ecdab",
-    "820f9b2cda6a4241",
-    "3d93d89f486b96af",
-    "77669ee627366af8",
-    "82f02786fe8d76ae",
-    "a6903d46c45ef85f",
-    "f7cd1fd240920312",
-    "9249c8a6dc985a1e",
-    "710bd40245d7c33d",
-    "7d1be70a3e8b5faf",
-    "c6226a6ec4184370"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6zz7qn22p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6zz7qn22p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp727ihic2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp727ihic2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp73566g727",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp73566g727"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp73djy7d2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp73djy7d2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp73fkbic22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp73fkbic22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp73hi3h52d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp73hi3h52d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp73jftmp27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp73jftmp27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp73ldjif27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp73ldjif27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7a4rqzw27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7a4rqzw27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7apoflj26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7apoflj26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7as7uu727",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7as7uu727"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7auzd4s22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7auzd4s22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp724jf4t2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp724jf4t2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp73ngxn22t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp73ngxn22t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7d3tadn2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7d3tadn2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp73pj2h62r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp73pj2h62r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp74nscar2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp74nscar2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7cbp5ce2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7cbp5ce2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7czvxyh27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7czvxyh27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp72ylihv2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp72ylihv2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp73al5zl2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp73al5zl2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7d6wd3g27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7d6wd3g27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp73rhzst2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp73rhzst2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp73u5lkj2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp73u5lkj2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5db12cbcad0",
-   "created_at": "2026-09-30T05:11:00Z"
-  },
-  {
-   "id": "19b4da7a68c4",
-   "ts": "2026-09-30T01:30:19Z",
-   "headline": "Lloyds survey: UK business confidence falls to its lowest in 17 months in September",
-   "detail": "Lloyds' monthly survey shows British firms at their least confident since April 2025. Executives also took a darker view of the global outlook, with the Iran war reported to be raising costs.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "f12da5c7f1cb20e4"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwp6z2fucn2n",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwp6z2fucn2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5db12cbcad0",
-   "created_at": "2026-09-30T05:11:00Z"
-  },
-  {
-   "id": "67f1068746ec",
-   "ts": "2026-09-30T01:23:56Z",
-   "headline": "PBOC injects 833.5bn yuan through overnight reverse repos and conducts no 7-day operations",
-   "detail": "China's central bank added 833.5bn yuan of liquidity through overnight reverse repos and held no 7-day reverse repo operations, according to its statement.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6de6d9956a7f6d4c",
-    "e7690d28386ee6e8",
-    "d5c6163233b56cd2",
-    "3c5a2adf3c4374f8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6nmtmo22m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6nmtmo22m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6nqm2bf2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6nqm2bf2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6tzxngf27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6tzxngf27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6u6osfs2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6u6osfs2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5db12cbcad0",
-   "created_at": "2026-09-30T05:11:00Z"
-  },
-  {
-   "id": "925d2fa7673b",
-   "ts": "2026-09-30T01:17:51Z",
-   "headline": "PBOC sets yuan midpoint at its strongest level since 2 February 2023",
-   "detail": "China's central bank set the yuan's daily reference rate at its strongest level since 2 February 2023.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "87a9b53faf43e26f",
-    "de34d85ee5547f64"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6cqlsxz2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6cqlsxz2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6gbdurj22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6gbdurj22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5db12cbcad0",
-   "created_at": "2026-09-30T05:11:00Z"
-  },
-  {
-   "id": "a8ea112baf44",
-   "ts": "2026-09-30T01:17:17Z",
-   "headline": "China announces mortgage subsidies for first-time buyers and cuts a policy interest rate",
-   "detail": "Beijing is offering support to first-time homebuyers and has cut a policy rate as part of efforts to lift growth, the FT reports. Mainland property stock indices were indicated lower after the announcement, with the Hang Seng Mainland Properties Index seen down 1.3% and the CSI 300 Real Estate Index seen down 5%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "983534d5ae6fd2d0",
-    "c385d0eb28f5aaa9",
-    "a3e50ab5e6444a75"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwp6bpth642x",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwp6bpth642x"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6mkmtfb2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6mkmtfb2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6whqt3y2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6whqt3y2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5db12cbcad0",
-   "created_at": "2026-09-30T05:11:00Z"
-  },
-  {
-   "id": "708f3f2651f9",
-   "ts": "2026-09-30T01:16:27Z",
-   "headline": "PBOC sets yuan midpoint at 6.7351 per dollar, weaker than the 6.7025 estimate",
-   "detail": "The People's Bank of China sets the daily yuan reference rate at 6.7351 to the dollar. Market estimates had been 6.7025.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ad595113eac8b588",
-    "8aedeaa4865d8111"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6aao3sg2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6aao3sg2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3bwic4426",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3bwic4426"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bdb17c8c1190",
-   "created_at": "2026-09-30T05:05:53Z"
-  },
-  {
-   "id": "ec3fea78edf5",
-   "ts": "2026-09-30T00:47:07Z",
-   "headline": "10-year JGB yield rises 1.0bp to 3.095%",
-   "detail": "The 10-year Japanese government bond yield is up 1.0bp at 3.095% in Asian trading. WSJ reports short-dated JGBs gaining alongside shorter US Treasurys.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7e8cc90dd8289c2d",
-    "e4758a2e6295acae"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp4lro72k2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp4lro72k2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp55bkyq42r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp55bkyq42r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bdb17c8c1190",
-   "created_at": "2026-09-30T05:05:53Z"
-  },
-  {
-   "id": "66eed2165aec",
-   "ts": "2026-09-30T00:42:48Z",
-   "headline": "Russian missile strike on Kyiv hits homes and energy sites, cutting power to parts of the capital",
-   "detail": "Witnesses reported explosions in Kyiv from about 00:25 UTC. Later reports described a heavy ballistic missile attack that hit residential areas and energy infrastructure, with outages in parts of the city.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "3843c6732499397b",
-    "f6d35c242079e5e0",
-    "a4b816bd7d978205",
-    "98b4ac4e5cc36de9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3dnd7fq2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3dnd7fq2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3vcahb52m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3vcahb52m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp4e2y6422l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp4e2y6422l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp4uskmrt2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp4uskmrt2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bdb17c8c1190",
-   "created_at": "2026-09-30T05:05:53Z"
-  },
-  {
-   "id": "e8bcdc7b3ecf",
-   "ts": "2026-09-30T00:40:10Z",
-   "headline": "US states act to curb diesel and petrol prices after months of supply disruption",
-   "detail": "Reuters reports that US states are taking steps to hold down fuel prices, which have risen sharply in recent months. It links the rise to disruption from the US war on Iran, Ukrainian strikes on Russian refineries and low global inventories.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "9b8c6d5770112bf3"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwp47ec2iu2c",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwp47ec2iu2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bdb17c8c1190",
-   "created_at": "2026-09-30T05:05:53Z"
-  },
-  {
-   "id": "fe76d8ba0582",
-   "ts": "2026-09-30T00:34:19Z",
-   "headline": "South Korea may use surplus tax revenue to cut bond issuance and buy back bonds if yields rise too far",
-   "detail": "South Korea's finance minister says the ministry is watching the bond market closely and may use excess tax revenue to reduce issuance. He adds that treasury bond buybacks and other steps are possible if yields rise too sharply.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "5d4bb62b577e3084",
-    "c376b5281e8c49a3",
-    "c73e226b17fb7184",
-    "3b2aa9e4c6f42570",
-    "83c1eb01fedc73f7",
-    "b26a81c0d90e253b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3sxqc7r2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3sxqc7r2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3tvwrxc2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3tvwrxc2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3uvz7q52m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3uvz7q52m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3v2jycv2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3v2jycv2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3xihbxj2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3xihbxj2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp44jh43x2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp44jh43x2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bdb17c8c1190",
-   "created_at": "2026-09-30T05:05:53Z"
-  },
-  {
-   "id": "073ae9d7d218",
-   "ts": "2026-09-30T00:20:06Z",
-   "headline": "US forces leave their remaining bases in Iraq",
-   "detail": "Reuters reports that US troops leave their last bases in Iraq on Wednesday. It says the move raises fears of a security vacuum that could help Iranian-backed militias and Islamic State.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "b6d0622ba9235c37"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwp33imnjj2m",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwp33imnjj2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bdb17c8c1190",
-   "created_at": "2026-09-30T05:05:53Z"
-  },
-  {
-   "id": "ea5da3bf4d19",
-   "ts": "2026-09-30T00:10:54Z",
-   "headline": "Israel's finance minister calls for Gaza-style operations in the West Bank and a large arms build-up",
-   "detail": "Israeli Finance Minister Bezalel Smotrich calls for the approach used in Gaza to be applied in the West Bank, including flattening a neighbourhood in Qalqilya where a tunnel was found. He also calls for an arms build-up larger than the army is seeking and for Israel to expand defence exports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5be86af00f5e4820",
-    "538daedc8b7cf858",
-    "26d59585f3405e26",
-    "c11b2e082840386f",
-    "0416c927ee3720de",
-    "958855cdf9394099"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp2knichv2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp2knichv2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp2kq37nt2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp2kq37nt2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp2kuhjtw2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp2kuhjtw2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp2kxsqmf2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp2kxsqmf2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp2kzzahw2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp2kzzahw2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp2l3w2mh27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp2l3w2mh27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bdb17c8c1190",
-   "created_at": "2026-09-30T05:05:53Z"
-  },
-  {
-   "id": "5335474c32b3",
-   "ts": "2026-09-30T00:01:55Z",
-   "headline": "ANZ survey: New Zealand business confidence falls to 51.9 in September from 53.7",
-   "detail": "ANZ's September survey shows business confidence at 51.9, down from 53.7. Its own-activity outlook slips to 47.9 from 48.2.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "1606cd8fa84597ee",
-    "c3f0f68bba4f3023",
-    "e09e1245db8dfc8f",
-    "4757c99a8f0d45e1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwozzepzrg2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwozzepzrg2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwozzsrcby2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwozzsrcby2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp226yewq2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp226yewq2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp22xqgna2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp22xqgna2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bdb17c8c1190",
-   "created_at": "2026-09-30T05:05:53Z"
-  },
-  {
-   "id": "b5be9478d7eb",
-   "ts": "2026-09-29T23:51:06Z",
-   "headline": "Japan's August industrial output falls 1.7% m/m against forecasts of a rise; retail sales growth slows to 2.7% y/y",
-   "detail": "Government data show industrial output fell 1.7% on the month, after -0.2% previously, against forecasts of a 1.3% to 1.7% rise; retail sales rose 2.7% year on year against forecasts of 3.2% to 3.3%. Manufacturers expect output to rise 3.2% in September and 3.1% in October.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "faa84701aed7aacf",
-    "b57fb9e8fa4a3e9d",
-    "b60891df377acf5f",
-    "e5014b774e773d22",
-    "411edce2b6de0d5f",
-    "52ecfb482926b8c8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwozhmvkhs27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwozhmvkhs27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwozhijzcx2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwozhijzcx2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwozhkq23t26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwozhkq23t26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwozhq45ci2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwozhq45ci2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwozhtb4ga27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwozhtb4ga27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwozimygha2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwozimygha2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5345b13b6cc",
-   "created_at": "2026-09-30T05:01:28Z"
-  },
-  {
-   "id": "083007491805",
-   "ts": "2026-09-29T23:45:39Z",
-   "headline": "US trade representative says tariff caps in trade deals will be considered in setting Section 301 excess capacity tariffs",
-   "detail": "USTR Greer said caps agreed in trade deals will be taken into account when setting tariffs under the Section 301 probe into excess capacity.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e7e5fc35e4632bd8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoz5vectx2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoz5vectx2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5345b13b6cc",
-   "created_at": "2026-09-30T05:01:28Z"
-  },
-  {
-   "id": "a883d71872de",
-   "ts": "2026-09-29T23:35:30Z",
-   "headline": "Japan, US and Europe to agree a steel monitoring framework, Yomiuri reports",
-   "detail": "Japan's Yomiuri newspaper reports that Japan, the US and Europe are set to agree a framework for monitoring steel.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6c2d8e37256f1090"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwoylqpah42f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwoylqpah42f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5345b13b6cc",
-   "created_at": "2026-09-30T05:01:28Z"
-  },
-  {
-   "id": "9b5dc5adcc6d",
-   "ts": "2026-09-29T23:08:10Z",
-   "headline": "China threatens a firm response if the EU keeps imposing limits on Chinese firms and products",
-   "detail": "China's commerce ministry called tougher trade measures under consideration by EU states protectionist and unilateral. EU trade chief Sefcovic said he is pushing for G20 and WTO reforms on excess industrial capacity and working with the US and other allies to secure critical mineral supply chains.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "9d9b14d817ed01c9",
-    "8862a0036851fba2",
-    "7831a029768db858",
-    "7ac7c7c69c37586a",
-    "93c4798dc47a76c6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwox2umain2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwox2umain2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwox5cws7k2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwox5cws7k2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwowlil6p42v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwowlil6p42v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwowrkcbs42v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwowrkcbs42v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwowx5b5432q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwowx5b5432q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5345b13b6cc",
-   "created_at": "2026-09-30T05:01:28Z"
-  },
-  {
-   "id": "d2023f6f1509",
-   "ts": "2026-09-29T23:02:07Z",
-   "headline": "UK car output rises 5.7% y/y in August to 40,872 units, SMMT says",
-   "detail": "The Society of Motor Manufacturers and Traders reports UK vehicle production of 40,872 units in August, up 5.7% on a year earlier.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "6c39949db67a2e35"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwowq252md2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwowq252md2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5345b13b6cc",
-   "created_at": "2026-09-30T05:01:28Z"
-  },
-  {
-   "id": "257591ce0d97",
-   "ts": "2026-09-29T23:00:52Z",
-   "headline": "South Korea's August industrial output falls 2.2% y/y against a forecast 4% rise; retail sales fall 1.8% m/m",
-   "detail": "The statistics office reports industrial output down 4.8% on the month and 2.2% on the year, against a poll forecast of a 4% annual rise. Service sector output rose 0.5% on the month and retail sales fell 1.8%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "98107ee537753461",
-    "0894bb99e2edcebf",
-    "d708c1d2bc374a13",
-    "c5eee63b58122689"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwownsptay2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwownsptay2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwowo476wv2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwowo476wv2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwowny6lec27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwowny6lec27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwowozwqbj2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwowozwqbj2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5345b13b6cc",
-   "created_at": "2026-09-30T05:01:28Z"
-  },
-  {
-   "id": "715e4449ccc2",
-   "ts": "2026-09-29T22:40:44Z",
-   "headline": "Senior Saudi official denies any meeting between Saudi and Israeli officials",
-   "detail": "A senior Saudi official denied that any Saudi official had met Israeli officials, according to posts late on 29 September.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f7dc9cfaaf226e8a",
-    "d88cd0813db48e1f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwovjsa5nm2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwovjsa5nm2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwovjwshc42r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwovjwshc42r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5345b13b6cc",
-   "created_at": "2026-09-30T05:01:28Z"
-  },
-  {
-   "id": "b2f346a2d625",
-   "ts": "2026-09-29T17:23:10Z",
-   "headline": "Burnham says Labour will pledge to drop the pensions triple lock in a future manifesto; Reform UK and Conservatives attack the plan",
-   "detail": "On Tuesday the Prime Minister said he would lead Labour on a manifesto pledge to scrap the triple lock, a policy previously backed by all major parties. Reform UK and Conservative leaders criticised the move, City AM reports.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "f46a8031fa3102bf"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mwp3xqeodt42",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mwp3xqeodt42"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5345b13b6cc",
-   "created_at": "2026-09-30T05:01:28Z"
-  },
-  {
-   "id": "9942940c8afe",
-   "ts": "2026-09-29T21:43:31Z",
-   "headline": "UK chief executives back pensions triple lock action but prepare for possible tax rises in next month's Budget, FT reports",
-   "detail": "The Financial Times reports that business leaders welcomed the government's action on the pensions triple lock. They are preparing for possible tax rises in the Budget due next month and say the focus from Burnham and Healey on the cost of business has left them unclear.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "427e0edc0114a351"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwosdioikx2q",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwosdioikx2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f7e34d844478",
-   "created_at": "2026-09-29T21:45:59Z"
-  },
-  {
-   "id": "8781d1ec247d",
-   "ts": "2026-09-29T21:15:06Z",
-   "headline": "Fed's Williams says there is time to assess data before the next hike and expects one more rise before year-end",
-   "detail": "New York Fed President John Williams said on Tuesday that the Federal Reserve has time to weigh incoming economic data before deciding when to raise rates again. He added that one more increase is likely before the end of the year, Reuters reported.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "33338688c1493630"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwoqqoskey2n",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwoqqoskey2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d6325b80d02e",
-   "created_at": "2026-09-29T21:15:56Z"
-  },
-  {
-   "id": "e4447a4ed96e",
-   "ts": "2026-09-29T21:10:09Z",
-   "headline": "US offers to lend up to 40m barrels of oil from the Strategic Petroleum Reserve, its last batch under a global release deal",
-   "detail": "The US government said on Tuesday it is offering energy companies loans of up to 40 million barrels from the Strategic Petroleum Reserve. This is the final US tranche of a global agreement to release reserves after the war on Iran.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "3bf917fe463b37fa"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwoqht2k2u27",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwoqht2k2u27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "02fbd561d564",
-   "created_at": "2026-09-29T21:10:55Z"
   }
  ]
 }
