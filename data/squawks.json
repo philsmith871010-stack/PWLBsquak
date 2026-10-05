@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T17:35:51Z",
+ "generated_at": "2026-10-05T18:21:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "72b17df18f8d",
+   "ts": "2026-10-05T18:20:51Z",
+   "headline": "Yemen's Houthis claim control of Bab al-Mandab, Dhubab and al-Mukha, Iranian agency ISNA reports",
+   "detail": "Iran's ISNA news agency carried the Houthi claim that Bab al-Mandab, Dhubab and al-Mukha are under the group's control. The inputs report no market reaction.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0fc75a91cef7e886"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx5jsmlxrl2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx5jsmlxrl2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7b9c63ac89a9",
+   "created_at": "2026-10-05T18:21:03Z"
+  },
   {
    "id": "5508950234d4",
    "ts": "2026-10-05T17:34:01Z",
@@ -5928,33 +5949,6 @@
      "author": "financialtimes.com",
      "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwpjq5onff2u",
      "url": "https://bsky.app/profile/financialtimes.com/post/3mwpjq5onff2u"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ee3c3f537116",
-   "created_at": "2026-09-30T05:20:57Z"
-  },
-  {
-   "id": "650d03a34f31",
-   "ts": "2026-09-30T04:42:10Z",
-   "headline": "Experts put the cost of a fully funded social care model for England at £18.7bn",
-   "detail": "The FT reports experts saying the prime minister's planned national care service would still leave some elderly people selling their homes to pay for care. They said a model covering all costs would cost £18.7bn and would probably need tax rises.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "79436e78fb9d5620",
-    "dc348f71c2aed17e"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwpjq3gstd2o",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwpjq3gstd2o"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwpjvegssp2m",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwpjvegssp2m"
     }
    ],
    "model": "opus",
