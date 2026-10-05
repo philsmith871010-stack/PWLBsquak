@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T18:21:03Z",
+ "generated_at": "2026-10-05T20:37:02Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c0c00ce767d3",
+   "ts": "2026-10-05T19:39:06Z",
+   "headline": "US Treasury warns foreign banks they could face sanctions for doing business with Iran",
+   "detail": "The US Treasury has sent an alert to foreign financial institutions that deal with Iran, saying they could be sanctioned. No market reaction was reported in the posts.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d961ff75a2e5acb0",
+    "92c1f5cdab4744c5",
+    "3af3ddde7b0a0cdf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx5o6jv5qr2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx5o6jv5qr2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx5oar63lh2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx5oar63lh2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx5olxuryu2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx5olxuryu2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ad23dab4e7b2",
+   "created_at": "2026-10-05T20:37:02Z"
+  },
   {
    "id": "72b17df18f8d",
    "ts": "2026-10-05T18:20:51Z",
@@ -5928,27 +5961,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwplpdrct522",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwplpdrct522"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ee3c3f537116",
-   "created_at": "2026-09-30T05:20:57Z"
-  },
-  {
-   "id": "e7081e7c4bf7",
-   "ts": "2026-09-30T04:42:12Z",
-   "headline": "Vanguard says France's credit is degrading as French borrowing costs rise sharply",
-   "detail": "The FT reports the warning from Vanguard. It says the Iran war has added to fiscal pressures on Paris ahead of a budget battle.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "5ab5f93ad77597b2"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwpjq5onff2u",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwpjq5onff2u"
     }
    ],
    "model": "opus",
