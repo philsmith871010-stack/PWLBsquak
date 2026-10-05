@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T08:35:53Z",
+ "generated_at": "2026-10-05T08:45:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0b09d89c4404",
+   "ts": "2026-10-05T08:44:54Z",
+   "headline": "Saudi East-West oil pipeline halted after a new attack; Brent recovers earlier losses",
+   "detail": "Market reports say a fresh attack has stopped Saudi Arabia's East-West pipeline. Brent crude was reported to have recovered its earlier losses on the news.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "a44a3e59b8378dc0",
+    "681d48e8e1a9580d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4jmqohjb2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4jmqohjb2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4jmsjidk2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4jmsjidk2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a15b88276b99",
+   "created_at": "2026-10-05T08:45:54Z"
+  },
   {
    "id": "343acd2e2f0e",
    "ts": "2026-10-05T08:31:19Z",
@@ -5969,27 +5996,6 @@
    "model": "opus",
    "run_id": "93a5af21c418",
    "created_at": "2026-09-30T05:15:56Z"
-  },
-  {
-   "id": "e9a91bf79a7a",
-   "ts": "2026-09-30T01:34:48Z",
-   "headline": "Brent rises more than $1 to $103.73 after Trump denies Iran sanctions relief",
-   "detail": "Brent crude futures gained more than $1 to $103.73 a barrel in Asian trading after President Trump denied that sanctions relief for Iran was planned.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "d67a3d72064fe5f1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7b2ajz72v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7b2ajz72v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5db12cbcad0",
-   "created_at": "2026-09-30T05:11:00Z"
   }
  ]
 }
