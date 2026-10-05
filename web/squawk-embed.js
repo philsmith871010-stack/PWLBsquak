@@ -5,7 +5,7 @@
  *   <script src="https://philsmith871010-stack.github.io/pwlb-squawk-feed/web/squawk-embed.js" defer></script>
  *
  * The strip carries today's squawks only, so it always reads as live. Hovering pauses the
- * scroll; clicking opens a modal that starts on today and scrolls back through earlier days.
+ * scroll; clicking opens a modal with the last 24 hours of squawks.
  *
  * Everything lives in a shadow root, so the host page's CSS and this file's cannot reach each
  * other. The modal is a <dialog> promoted to the top layer, so it overlays the page whatever
@@ -15,6 +15,9 @@
  *   data-src     feed URL (default: data/squawks.json next to this script's repo root)
  *   data-theme   "light" | "dark" (default: follow the viewer's system setting)
  *   data-label   strip label (default: "PWLB Squawk")
+ *   data-motion  "scroll" (default: continuous tape) or "rotate" (one squawk at a time,
+ *                swapped every few seconds)
+ *   data-interval seconds each squawk shows in rotate mode (default 6)
  *   data-variant "banner" (light, orange-ruled row inside page content) or "topbar"
  *                (full-width strip for the very top of the page, above the site header)
  *
@@ -30,6 +33,7 @@
   var STRIP_MAX = 12;             // a busy day runs to 40+ squawks, and a strip carrying
                                   // all of them takes ten minutes to come round. The strip
                                   // samples the latest; the modal holds the day.
+  var WINDOW_MS = 24 * 3600 * 1000; // the modal shows the last 24 hours
   var TZ = 'Europe/London';       // "today" means today in the UK, wherever the reader is
   var CATS = {
     boe: 'BoE', data: 'Data', fiscal: 'Fiscal', supply: 'Supply',
@@ -293,14 +297,49 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
 .card h3 { margin: 0 0 5px; font-size: 15.5px; line-height: 1.35; font-weight: 650; }
 .card p { margin: 0; font-size: 14px; color: var(--text); }
 .none { padding: 28px 0 32px; text-align: center; color: var(--muted); font-size: 14px; }
-.foot { flex: 0 0 auto; padding: 10px 16px; border-top: 1px solid var(--line); font-size: 11.5px; color: var(--muted); display: flex; justify-content: space-between; gap: 10px; }
 
 @media (max-width: 560px) {
   .badge span.txt { display: none; }
   .open span.txt { display: none; }
   dialog { width: 100vw; max-height: 88vh; border-radius: 14px 14px 0 0; }
 }
+/* -- rotate mode -------------------------------------------------------------
+   One squawk at a time: the new one slides up into place, the old one is gone. */
+.strip.rotate .viewport::before, .strip.rotate .viewport::after { display: none; }
+.strip.rotate .track {
+  display: flex; width: 100%; animation: none; overflow: hidden; padding: 0;
+}
+.strip.rotate .item {
+  flex: 1 1 auto; min-width: 0; margin: 0; padding: 9px 10px; border-radius: 0;
+  animation: rot-in .45s cubic-bezier(.2, .7, .2, 1) both;
+}
+.strip.rotate .item .hl { overflow: hidden; text-overflow: ellipsis; min-width: 0; flex: 0 1 auto; }
+.strip.rotate .item .count {
+  margin-left: auto; padding-left: 12px; flex: none;
+  font-size: 11px; color: var(--muted); font-variant-numeric: tabular-nums;
+}
+.strip.rotate .item .cat {
+  flex: none; padding: 1px 7px; border-radius: 999px; color: #fff;
+  font-size: 10px; font-weight: 700; letter-spacing: .05em; text-transform: uppercase;
+}
+.strip.rotate .bar { position: absolute; left: 0; bottom: 0; height: 2px; background: var(--accent); opacity: .7;
+  animation: rot-bar var(--rot, 6s) linear both; }
+.strip.rotate.paused .bar, .strip.rotate .viewport:hover .bar { animation-play-state: paused; }
+@media (max-width: 600px) {
+  .strip.rotate .item .at, .strip.rotate .item .cat, .strip.rotate .item .count { display: none; }
+  .strip.rotate .item { white-space: normal; align-items: flex-start; text-align: left; line-height: 1.3; }
+  .strip.rotate .item .hl {
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; white-space: normal;
+  }
+}
+@keyframes rot-in { from { transform: translateY(70%); opacity: 0; } to { transform: none; opacity: 1; } }
+@keyframes rot-bar { from { width: 0; } to { width: 100%; } }
+:host([data-variant="topbar"]) .strip.rotate .item { padding: 7px 12px; }
+:host([data-variant="topbar"]) .strip.rotate .item .count { color: rgba(255, 255, 255, .55); }
+
 @media (prefers-reduced-motion: reduce) {
+  .strip.rotate .item { animation: none; }
+  .strip.rotate .bar { display: none; }
   .track { animation: none; }
   .viewport { overflow-x: auto; scrollbar-width: thin; }
   .pulse { animation: none; }
@@ -332,7 +371,6 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
       '  <div class="head"><div><h2></h2><div class="sub"></div></div>',
       '    <button class="close" type="button" aria-label="Close">\u2715</button></div>',
       '  <div class="body"></div>',
-      '  <div class="foot"><span class="updated"></span><span>UK rates blotter</span></div>',
       '</div></dialog>'
     ].join('');
     while (wrap.firstChild) root.appendChild(wrap.firstChild);
@@ -344,9 +382,16 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
     var dlg = root.querySelector('dialog');
     var body = root.querySelector('.body');
     var sub = root.querySelector('.sub');
-    var updated = root.querySelector('.updated');
     root.querySelector('.head h2').textContent =
-      (host.getAttribute('data-title') || 'Today\u2019s squawks');
+      (host.getAttribute('data-title') || 'Squawks');
+
+    var rotate = (host.getAttribute('data-motion') || '') === 'rotate';
+    var rotSecs = Math.max(3, parseFloat(host.getAttribute('data-interval')) || 6);
+    var rotIdx = 0, rotTimer = null, rotShown = [];
+    if (rotate) {
+      strip.classList.add('rotate');
+      strip.style.setProperty('--rot', rotSecs + 's');
+    }
 
     var all = [];          // every squawk, newest event first
     var today = [];        // today's only
@@ -374,6 +419,7 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
           (last ? ' \u00b7 last one ' + esc(ago(last.ts)) : '') + '</span>';
         return;
       }
+      if (rotate) { startRotation(today.slice(0, STRIP_MAX)); return; }
       // Rendered twice so the loop is seamless: the animation travels exactly half the track.
       var shown = today.slice(0, STRIP_MAX);
       var once = shown.map(function (s) {
@@ -394,7 +440,47 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
       sizeTrack();
     }
 
+    // -- rotate mode -------------------------------------------------------------------
+
+    function rotItem(s, i, n) {
+      return '<button class="item" type="button" title="Read this squawk" data-id="' + esc(s.id) + '">' +
+        '<span class="mark i' + s.importance + '">' + impMark(s.importance) + '</span>' +
+        '<span class="at">' + esc(timeFmt.format(new Date(s.ts))) + '</span>' +
+        '<span class="cat ' + esc(s.category) + '">' + esc(CATS[s.category] || s.category) + '</span>' +
+        '<span class="hl">' + esc(s.headline) + '</span>' +
+        '<span class="count">' + (i + 1) + '/' + n + '</span></button>';
+    }
+
+    function showRot() {
+      if (!rotShown.length) return;
+      rotIdx = rotIdx % rotShown.length;
+      track.innerHTML = rotItem(rotShown[rotIdx], rotIdx, rotShown.length) + '<span class="bar"></span>';
+    }
+
+    function rotPaused() {
+      return strip.classList.contains('paused') || viewport.matches(':hover') ||
+        (root.activeElement && viewport.contains(root.activeElement));
+    }
+
+    function startRotation(list) {
+      var currentId = rotShown[rotIdx] && rotShown[rotIdx].id;
+      rotShown = list;
+      // keep the reader on the same squawk across a refresh when it is still there
+      var keep = list.findIndex(function (s) { return s.id === currentId; });
+      rotIdx = keep > -1 ? keep : 0;
+      track.style.animation = 'none';
+      showRot();
+      if (rotTimer) clearInterval(rotTimer);
+      var waited = 0;
+      rotTimer = setInterval(function () {
+        if (rotPaused()) return;          // hold while hovered, focused or the modal is open
+        waited += 0.25;
+        if (waited >= rotSecs) { waited = 0; rotIdx += 1; showRot(); }
+      }, 250);
+    }
+
     function sizeTrack() {
+      if (rotate) return;
       // Duration from width so the reading speed is constant however much news there is.
       var half = track.scrollWidth / 2;
       if (!half) return;
@@ -429,30 +515,29 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
         sub.textContent = '';
         return;
       }
+      // The modal holds the last 24 hours, grouped by UK day (Today, Yesterday).
+      var cutoff = Date.now() - WINDOW_MS;
+      var recent = all.filter(function (s) { return new Date(s.ts).getTime() >= cutoff; });
       var tKey = todayKey();
       var groups = [];
       var current = null;
-      all.forEach(function (s) {
+      recent.forEach(function (s) {
         var k = dayKey(s.ts);
         if (!current || current.key !== k) { current = { key: k, label: dayLabel(k, s.ts), items: [] }; groups.push(current); }
         current.items.push(s);
       });
-      // Always lead with Today, even when it is empty, so the modal answers "what happened
-      // today?" before it answers "what happened".
       var html = '';
-      if (!groups.length || groups[0].key !== tKey) {
-        html += '<div class="daybar">Today</div><div class="none">No squawks yet today.</div>';
+      if (!recent.length) {
+        html = '<div class="none">No squawks in the last 24 hours.</div>';
       }
       groups.forEach(function (g) {
         html += '<div class="daybar' + (g.key === tKey ? '' : ' earlier') + '">' + esc(g.label) + '</div>';
         html += g.items.map(function (s) { return card(s, g.key === tKey); }).join('');
       });
       body.innerHTML = html;
-
-      sub.textContent = today.length
-        ? today.length + (today.length === 1 ? ' squawk today' : ' squawks today') + ' \u00b7 scroll for earlier days'
-        : 'Nothing yet today \u00b7 scroll for earlier days';
-      updated.textContent = generatedAt ? 'Feed updated ' + ago(generatedAt) : '';
+      sub.textContent = recent.length
+        ? recent.length + (recent.length === 1 ? ' squawk' : ' squawks') + ' in the last 24 hours'
+        : '';
     }
 
     function openModal(focusId) {
