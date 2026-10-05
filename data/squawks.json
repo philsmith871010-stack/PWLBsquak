@@ -1,8 +1,83 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T05:20:52Z",
+ "generated_at": "2026-10-05T05:25:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "da3a2bcdcff9",
+   "ts": "2026-10-05T02:00:17Z",
+   "headline": "Middle East crude exports exceed pre-war levels despite rising attacks on tankers, shipping data show",
+   "detail": "Shipping data published on Monday show Middle East crude exports were above pre-war levels on four of the seven days in the final week of September. Attacks on vessels passing through the Strait of Hormuz have increased over the same period.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "d0048679f1d838f9",
+    "164b4267706712fc"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mx3szalub62x",
+     "url": "https://bsky.app/profile/reuters.com/post/3mx3szalub62x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx3scswehh2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx3scswehh2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "525efb5b0e72",
+   "created_at": "2026-10-05T05:25:49Z"
+  },
+  {
+   "id": "7bcf64847492",
+   "ts": "2026-10-05T00:56:17Z",
+   "headline": "Japan's 30-year JGB yield rises 2.5bp to a record high of 4.23%",
+   "detail": "The 30-year Japanese government bond yield rose 2.5bp to 4.23% in early Asian trade on Monday, a record high.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "1898544aa1f6cac9",
+    "cf6e9cc525bc4530"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx3pc723r72f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx3pc723r72f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx3pgrzege2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx3pgrzege2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "525efb5b0e72",
+   "created_at": "2026-10-05T05:25:49Z"
+  },
+  {
+   "id": "f7b15ab707cc",
+   "ts": "2026-10-05T00:36:47Z",
+   "headline": "Global LNG spot prices hit highest since late 2022 as Qatar extends force majeure on LNG contracts",
+   "detail": "Spot LNG prices have reached their highest since late 2022 as Qatar's supply freeze continues and it extends force majeure on LNG contracts. Maritime transit through the Strait of Hormuz is reported down 80% from February.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "c9b0e7e99a265592"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx3odwja2m2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx3odwja2m2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "525efb5b0e72",
+   "created_at": "2026-10-05T05:25:49Z"
+  },
   {
    "id": "0ecbc22109dd",
    "ts": "2026-10-05T00:00:12Z",
@@ -6083,99 +6158,6 @@
    "model": "opus",
    "run_id": "a5db12cbcad0",
    "created_at": "2026-09-30T05:11:00Z"
-  },
-  {
-   "id": "708f3f2651f9",
-   "ts": "2026-09-30T01:16:27Z",
-   "headline": "PBOC sets yuan midpoint at 6.7351 per dollar, weaker than the 6.7025 estimate",
-   "detail": "The People's Bank of China sets the daily yuan reference rate at 6.7351 to the dollar. Market estimates had been 6.7025.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ad595113eac8b588",
-    "8aedeaa4865d8111"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6aao3sg2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6aao3sg2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3bwic4426",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3bwic4426"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bdb17c8c1190",
-   "created_at": "2026-09-30T05:05:53Z"
-  },
-  {
-   "id": "ec3fea78edf5",
-   "ts": "2026-09-30T00:47:07Z",
-   "headline": "10-year JGB yield rises 1.0bp to 3.095%",
-   "detail": "The 10-year Japanese government bond yield is up 1.0bp at 3.095% in Asian trading. WSJ reports short-dated JGBs gaining alongside shorter US Treasurys.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7e8cc90dd8289c2d",
-    "e4758a2e6295acae"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp4lro72k2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp4lro72k2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp55bkyq42r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp55bkyq42r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bdb17c8c1190",
-   "created_at": "2026-09-30T05:05:53Z"
-  },
-  {
-   "id": "66eed2165aec",
-   "ts": "2026-09-30T00:42:48Z",
-   "headline": "Russian missile strike on Kyiv hits homes and energy sites, cutting power to parts of the capital",
-   "detail": "Witnesses reported explosions in Kyiv from about 00:25 UTC. Later reports described a heavy ballistic missile attack that hit residential areas and energy infrastructure, with outages in parts of the city.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "3843c6732499397b",
-    "f6d35c242079e5e0",
-    "a4b816bd7d978205",
-    "98b4ac4e5cc36de9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3dnd7fq2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3dnd7fq2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp3vcahb52m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp3vcahb52m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp4e2y6422l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp4e2y6422l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp4uskmrt2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp4uskmrt2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bdb17c8c1190",
-   "created_at": "2026-09-30T05:05:53Z"
   }
  ]
 }
