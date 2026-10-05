@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T13:51:00Z",
+ "generated_at": "2026-10-05T14:01:24Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0b2626a150eb",
+   "ts": "2026-10-05T14:00:46Z",
+   "headline": "US September ISM services PMI falls to 54.9, just under the 55.0 forecast and down from 55.4",
+   "detail": "The ISM non-manufacturing index for September came in at 54.9, against a consensus estimate of 55.0 and a previous reading of 55.4.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "fe815eb8768a782a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx53bkuohw2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx53bkuohw2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4206ca991bd5",
+   "created_at": "2026-10-05T14:01:24Z"
+  },
   {
    "id": "a799093c83fc",
    "ts": "2026-10-05T13:45:57Z",
@@ -5945,27 +5966,6 @@
    "model": "opus",
    "run_id": "ee3c3f537116",
    "created_at": "2026-09-30T05:20:57Z"
-  },
-  {
-   "id": "840f0d5f6af0",
-   "ts": "2026-09-30T03:37:40Z",
-   "headline": "Japan's 2-year JGB auction draws a bid-to-cover ratio of 3.89",
-   "detail": "Japan's Ministry of Finance held a 2-year government bond auction on Wednesday, which drew a bid-to-cover ratio of 3.89.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ac70b7d54898b0f6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpg4r6l5u2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpg4r6l5u2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "93a5af21c418",
-   "created_at": "2026-09-30T05:15:56Z"
   }
  ]
 }
