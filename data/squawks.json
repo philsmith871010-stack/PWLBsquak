@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T07:45:56Z",
+ "generated_at": "2026-10-05T07:50:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3c0e2467e766",
+   "ts": "2026-10-05T07:50:10Z",
+   "headline": "ECB's Nagel says upside risks dominate the inflation outlook and uncertainty calls for flexibility rather than inaction",
+   "detail": "Bundesbank President and ECB Governing Council member Joachim Nagel said there are no clear signs yet of inflation feeding into price and wage setting. He also said Germany has entered a gradual recovery.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "c8f6e1884b156a25"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4gkugkbn2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4gkugkbn2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a8e905891d33",
+   "created_at": "2026-10-05T07:50:56Z"
+  },
   {
    "id": "7653638e68af",
    "ts": "2026-10-05T07:45:53Z",
@@ -6150,45 +6171,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwp6z2fucn2n",
      "url": "https://bsky.app/profile/reuters.com/post/3mwp6z2fucn2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5db12cbcad0",
-   "created_at": "2026-09-30T05:11:00Z"
-  },
-  {
-   "id": "67f1068746ec",
-   "ts": "2026-09-30T01:23:56Z",
-   "headline": "PBOC injects 833.5bn yuan through overnight reverse repos and conducts no 7-day operations",
-   "detail": "China's central bank added 833.5bn yuan of liquidity through overnight reverse repos and held no 7-day reverse repo operations, according to its statement.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6de6d9956a7f6d4c",
-    "e7690d28386ee6e8",
-    "d5c6163233b56cd2",
-    "3c5a2adf3c4374f8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6nmtmo22m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6nmtmo22m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6nqm2bf2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6nqm2bf2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6tzxngf27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6tzxngf27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6u6osfs2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6u6osfs2m"
     }
    ],
    "model": "opus",
