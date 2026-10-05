@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T16:05:51Z",
+ "generated_at": "2026-10-05T17:01:24Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b42a1fe9ef7e",
+   "ts": "2026-10-05T17:01:00Z",
+   "headline": "Bank of France governor Moulin warns rising interest costs could overwhelm French state finances, FT reports",
+   "detail": "The FT reports that Bank of France governor Emmanuel Moulin warned the French state risks being choked by interest rates. The comments follow the recent French government bond sell-off.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "74f1c5fcdb1a2782",
+    "d428333e0c91e6dd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx5fdtnaxt2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx5fdtnaxt2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx5fdvzmal2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx5fdvzmal2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "55c455985702",
+   "created_at": "2026-10-05T17:01:24Z"
+  },
   {
    "id": "a9bb1419ab93",
    "ts": "2026-10-05T16:03:56Z",
@@ -5928,27 +5955,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpjc55iaq2m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpjc55iaq2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ee3c3f537116",
-   "created_at": "2026-09-30T05:20:57Z"
-  },
-  {
-   "id": "a3dc4db2c464",
-   "ts": "2026-09-30T04:30:14Z",
-   "headline": "China imposes an extra 55% tariff on Brazilian beef imports from 1 October",
-   "detail": "China's commerce ministry said the additional 55% tariff will be charged on top of the rate that currently applies.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5b1bd60bfabb6ee8"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpj2qmost2m",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwpj2qmost2m"
     }
    ],
    "model": "opus",
