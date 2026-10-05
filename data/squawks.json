@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T05:35:48Z",
+ "generated_at": "2026-10-05T07:45:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7653638e68af",
+   "ts": "2026-10-05T07:45:53Z",
+   "headline": "Italy's September services PMI falls to 51.7, well below the 54.5 forecast; composite PMI drops to 51",
+   "detail": "Italy's services PMI came in at 51.7, against a forecast of 54.5 and down from 55.2. The composite PMI was 51, against a forecast of 53.2 and down from 53.6.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "151c9a7fe2329701",
+    "4c6001fa3855a25a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4gd7ddex2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4gd7ddex2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4gd5bxzr2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4gd5bxzr2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0f11e7ef5c02",
+   "created_at": "2026-10-05T07:45:56Z"
+  },
   {
    "id": "8ef148a90599",
    "ts": "2026-10-05T05:27:00Z",
@@ -6162,33 +6189,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6u6osfs2m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6u6osfs2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5db12cbcad0",
-   "created_at": "2026-09-30T05:11:00Z"
-  },
-  {
-   "id": "925d2fa7673b",
-   "ts": "2026-09-30T01:17:51Z",
-   "headline": "PBOC sets yuan midpoint at its strongest level since 2 February 2023",
-   "detail": "China's central bank set the yuan's daily reference rate at its strongest level since 2 February 2023.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "87a9b53faf43e26f",
-    "de34d85ee5547f64"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6cqlsxz2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6cqlsxz2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp6gbdurj22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp6gbdurj22"
     }
    ],
    "model": "opus",
