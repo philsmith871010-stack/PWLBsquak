@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T08:31:12Z",
+ "generated_at": "2026-10-05T08:35:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "343acd2e2f0e",
+   "ts": "2026-10-05T08:31:19Z",
+   "headline": "UK final September services PMI revised up to 52.1 from 51.7 flash; composite PMI final at 52",
+   "detail": "The final UK services PMI for September came in at 52.1 and the composite at 52, both above the 51.7 forecast and the 51.7 previous reading.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "897a918424c9ea7c",
+    "e3bf55f0101af1d9",
+    "78549da7674f7d1d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4iuh2jg524",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4iuh2jg524"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4iuca5bd2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4iuca5bd2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4ivwq7zb2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4ivwq7zb2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "83acd9177054",
+   "created_at": "2026-10-05T08:35:53Z"
+  },
   {
    "id": "0d2882633b32",
    "ts": "2026-10-05T08:30:07Z",
@@ -5952,57 +5985,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7b2ajz72v",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7b2ajz72v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5db12cbcad0",
-   "created_at": "2026-09-30T05:11:00Z"
-  },
-  {
-   "id": "d8ac81718cf7",
-   "ts": "2026-09-30T01:32:54Z",
-   "headline": "South Korea's military demands North Korea halt border fortification work and says troops were badly hurt by mines",
-   "detail": "South Korea's military said North Korea's fortification activity is raising tensions on the peninsula and demanded that it stop immediately and apologise. It also said some of its personnel were seriously injured by North Korean mines.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "43531f901eca5a24",
-    "93ac368c5300bf25",
-    "528aaf7b27263421",
-    "cbb42ccdea60a01a",
-    "cdb3a5805908254a",
-    "f8a523656e5a1c1c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp75nfsqp2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp75nfsqp2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp76hyemq2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp76hyemq2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp76luiji2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp76luiji2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7ajn74l2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7ajn74l2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7fm4ugk22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7fm4ugk22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp7frfnrb2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp7frfnrb2z"
     }
    ],
    "model": "opus",
