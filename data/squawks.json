@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T07:50:56Z",
+ "generated_at": "2026-10-05T07:55:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fb3e4a542e56",
+   "ts": "2026-10-05T07:51:03Z",
+   "headline": "French September services PMI comes in at 51.2, slightly below the 51.4 forecast; composite PMI at 51.1",
+   "detail": "France's services PMI was 51.2, against a forecast and previous reading of 51.4. The composite PMI was 51.1, against a forecast and previous reading of 51.2.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2f291f4ddd369fdf",
+    "1f65df791669403e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4gmhbyfo2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4gmhbyfo2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4gmjvxmj2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4gmjvxmj2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bd580ec37245",
+   "created_at": "2026-10-05T07:55:49Z"
+  },
   {
    "id": "3c0e2467e766",
    "ts": "2026-10-05T07:50:10Z",
@@ -6150,27 +6177,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwp73u5lkj2z",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwp73u5lkj2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5db12cbcad0",
-   "created_at": "2026-09-30T05:11:00Z"
-  },
-  {
-   "id": "19b4da7a68c4",
-   "ts": "2026-09-30T01:30:19Z",
-   "headline": "Lloyds survey: UK business confidence falls to its lowest in 17 months in September",
-   "detail": "Lloyds' monthly survey shows British firms at their least confident since April 2025. Executives also took a darker view of the global outlook, with the Iran war reported to be raising costs.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "f12da5c7f1cb20e4"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwp6z2fucn2n",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwp6z2fucn2n"
     }
    ],
    "model": "opus",
