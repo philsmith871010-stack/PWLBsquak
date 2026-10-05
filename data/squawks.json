@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T14:01:24Z",
+ "generated_at": "2026-10-05T15:10:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cbabd3a0d5d0",
+   "ts": "2026-10-05T15:10:36Z",
+   "headline": "Trump to set out plan easing use of tax-exempt red-dyed diesel, officials say",
+   "detail": "US officials say President Trump will unveil a plan on Monday to ease restrictions on the use of red-dyed, tax-exempt diesel. No further details were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "8dedec60ecf3db9d",
+    "aab361fef224936f",
+    "bfab3fdb42e3f26d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx56zcx3jh2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx56zcx3jh2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx573ggetp24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx573ggetp24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx576giivi2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx576giivi2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e7c85f099735",
+   "created_at": "2026-10-05T15:10:59Z"
+  },
   {
    "id": "0b2626a150eb",
    "ts": "2026-10-05T14:00:46Z",
@@ -5928,39 +5961,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpi63fnsv2c",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpi63fnsv2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ee3c3f537116",
-   "created_at": "2026-09-30T05:20:57Z"
-  },
-  {
-   "id": "a8c72a13240f",
-   "ts": "2026-09-30T04:02:34Z",
-   "headline": "White House holds talks on a possible diesel export ban ahead of the US midterms",
-   "detail": "The FT reports that the White House is weighing a ban on diesel exports. The report describes a lobbying fight involving President Trump, with oil majors on one side and senior Republicans on the other, who warn of voter anger over high fuel prices.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "6e7ce7ad9074445a",
-    "4aaa429dce808c3e",
-    "ff63005fde37a96f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwphjbjtj22z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwphjbjtj22z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwphov3fps2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwphov3fps2p"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwpj7udki62n",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwpj7udki62n"
     }
    ],
    "model": "opus",
