@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T09:01:22Z",
+ "generated_at": "2026-10-06T09:20:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "89771f949d41",
+   "ts": "2026-10-06T09:17:37Z",
+   "headline": "BoE's Mann says policy must stay ahead of the curve on rate rises and the bank can tighten first and change course later if needed",
+   "detail": "Bank of England MPC member Catherine Mann said policymakers need to be ahead rather than behind when raising rates. She added that the MPC can always tighten and then reverse course if required.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "b90b6b5ababf5863",
+    "4fc6b0f5a7a9f153",
+    "09ef08954616c3c3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx73w6aopm2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx73w6aopm2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx73w6q2pg2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx73w6q2pg2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx73wwfvuu2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx73wwfvuu2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "89b98899f66a",
+   "created_at": "2026-10-06T09:20:56Z"
+  },
   {
    "id": "11f91e0bc67d",
    "ts": "2026-10-06T09:01:00Z",
@@ -6041,27 +6074,6 @@
    "model": "opus",
    "run_id": "8d1505cef109",
    "created_at": "2026-09-30T07:16:01Z"
-  },
-  {
-   "id": "18cd29bb3dfd",
-   "ts": "2026-09-30T07:01:33Z",
-   "headline": "Russia extends its ban on diesel exports to the end of October",
-   "detail": "Interfax reported on 30 September that Russia has extended its diesel export ban through October. The report gave no market reaction.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "2be64c3109e74000"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwprjdf3hn2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwprjdf3hn2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "728f737363f9",
-   "created_at": "2026-09-30T07:06:04Z"
   }
  ]
 }
