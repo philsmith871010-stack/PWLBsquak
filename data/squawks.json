@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T08:02:33Z",
+ "generated_at": "2026-10-06T08:10:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "359ba637b7be",
+   "ts": "2026-10-06T08:08:03Z",
+   "headline": "Germany sets a 3.30% coupon on a new 7-year Bund for auction on Wednesday",
+   "detail": "The Bundesbank announced a 3.30% coupon for a new 7-year Bund, which will be auctioned on Wednesday.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6a9f5ec323d9439d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6xzr23762d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6xzr23762d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8be8f00bdf42",
+   "created_at": "2026-10-06T08:10:57Z"
+  },
   {
    "id": "7769dc577472",
    "ts": "2026-10-06T08:01:05Z",
@@ -6059,27 +6080,6 @@
    "model": "opus",
    "run_id": "ae0ee0886c54",
    "created_at": "2026-09-30T06:46:08Z"
-  },
-  {
-   "id": "0cbf93b3a408",
-   "ts": "2026-09-30T06:38:46Z",
-   "headline": "Senior source says seven-day plan needs significant changes before progress can be discussed",
-   "detail": "Al Arabiya cites a senior source as saying the seven-day proposal needs significant changes before any progress can be discussed. This follows the Iranian foreign minister taking US feedback on the plan back to Tehran after talks in Doha.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "664a6700392898d9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpqam5kie2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpqam5kie2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "063aca8ce20c",
-   "created_at": "2026-09-30T06:40:59Z"
   }
  ]
 }
