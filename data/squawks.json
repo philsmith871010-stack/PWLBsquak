@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T14:25:50Z",
+ "generated_at": "2026-10-06T15:11:01Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "48f433e89259",
+   "ts": "2026-10-06T15:07:45Z",
+   "headline": "BoJ board member Sato backs raising interest rates step by step",
+   "detail": "Bank of Japan board member Sato said he supports the policy of adjusting rates in stages, Kyodo reported.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "85432ebb19798ab6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx7pib4xmo2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx7pib4xmo2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "84d6eecf8062",
+   "created_at": "2026-10-06T15:11:01Z"
+  },
   {
    "id": "8ef43ce4dbba",
    "ts": "2026-10-06T14:22:28Z",
@@ -6071,27 +6092,6 @@
    "model": "opus",
    "run_id": "f207921370e6",
    "created_at": "2026-09-30T08:01:35Z"
-  },
-  {
-   "id": "0e0c92c31355",
-   "ts": "2026-09-30T07:45:03Z",
-   "headline": "Resolution Foundation backs proposed changes to the state pension triple lock, citing lower long-run fiscal cost",
-   "detail": "The Resolution Foundation says the proposed changes to the triple lock take significant uncertainty and long-run cost out of the public finances while keeping pensioner incomes rising. The post does not give details of the proposals.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "c8468b3f7fa9eb8c"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mwptx4qfz72e",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mwptx4qfz72e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0129def79b22",
-   "created_at": "2026-09-30T07:45:58Z"
   }
  ]
 }
