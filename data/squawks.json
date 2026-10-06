@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T09:31:11Z",
+ "generated_at": "2026-10-06T09:35:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "42c5636442b2",
+   "ts": "2026-10-06T09:32:35Z",
+   "headline": "German 2-year Schatz auction yields 3.1%, down from 3.27%, with bid-to-cover slipping to 1.1 from 1.3",
+   "detail": "Germany's 2-year Schatz sale came in at an average yield of 3.1%, down from 3.27% at the previous auction. The bid-to-cover ratio fell to 1.1 from 1.3.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1e63191258f2ffa4",
+    "578635e84689027d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx74qwckzx2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx74qwckzx2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx74rr6ong2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx74rr6ong2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9c48dfccb984",
+   "created_at": "2026-10-06T09:35:49Z"
+  },
   {
    "id": "d29fcc7c64e5",
    "ts": "2026-10-06T09:28:13Z",
@@ -6048,27 +6075,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpsqnts3o27",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpsqnts3o27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2ce183689963",
-   "created_at": "2026-09-30T07:25:53Z"
-  },
-  {
-   "id": "8584205f2dab",
-   "ts": "2026-09-30T07:23:29Z",
-   "headline": "Iraq's oil exports average 2.65m bpd in September, including 250,000 bpd via Turkey's Ceyhan port",
-   "detail": "A spokesperson for Iraq's oil ministry gave the September average for daily oil exports as 2.65 million barrels per day. Of that, 250,000 bpd went through the Turkish port of Ceyhan.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "2a78ed3cb7d4ca83"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpsqkbvxd2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpsqkbvxd2m"
     }
    ],
    "model": "opus",
