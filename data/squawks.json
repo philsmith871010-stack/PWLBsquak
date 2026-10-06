@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T07:50:54Z",
+ "generated_at": "2026-10-06T08:02:33Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7769dc577472",
+   "ts": "2026-10-06T08:01:05Z",
+   "headline": "ECB's Rehn says high long-term rates are slowing growth and that inflation has not spread to non-energy prices or wages",
+   "detail": "ECB Governing Council member Rehn said elevated long-term interest rates are weighing on growth and limiting how far energy costs pass through to other prices and wages. He added that inflation has not yet broadened to non-energy goods or salaries.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "5e8dd010932570ff",
+    "a54b73a8c16413b2",
+    "7dfa972a5c8e98e5",
+    "64f7a74f0437d805"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6xnck4qa24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6xnck4qa24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6xo5olup2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6xo5olup2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6xp52max2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6xp52max2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6xpb7vsz2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6xpb7vsz2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2c75271f9b33",
+   "created_at": "2026-10-06T08:02:33Z"
+  },
   {
    "id": "2029e304a3e9",
    "ts": "2026-10-06T07:46:20Z",
@@ -6036,27 +6075,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpqam5kie2f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpqam5kie2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "063aca8ce20c",
-   "created_at": "2026-09-30T06:40:59Z"
-  },
-  {
-   "id": "43250dd17bc4",
-   "ts": "2026-09-30T06:38:19Z",
-   "headline": "Israeli PM and security minister hold urgent talks with senior security officials, sources say",
-   "detail": "Alaraby TV, citing sources, reports that the Israeli Prime Minister and security minister are holding urgent talks with senior security officials. No further details were given.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c6c58a6315b24296"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpq7sej2627",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpq7sej2627"
     }
    ],
    "model": "opus",
