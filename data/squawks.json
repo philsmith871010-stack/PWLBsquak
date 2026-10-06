@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T09:35:49Z",
+ "generated_at": "2026-10-06T10:51:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0676c0059244",
+   "ts": "2026-10-06T10:49:13Z",
+   "headline": "Chancellor Healey tells banks the UK faces a difficult fiscal position and that no tax decisions have been made yet, FT reports",
+   "detail": "The Financial Times reports that Chancellor Healey told banks the UK's fiscal picture is difficult. She also said decisions on taxes have not yet been taken ahead of the Budget.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "eb04516fddf3a9ae",
+    "8c94b090320681fb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx7azxhbpo2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx7azxhbpo2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx7b3po4pd2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx7b3po4pd2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "42d2f0ed483b",
+   "created_at": "2026-10-06T10:51:03Z"
+  },
   {
    "id": "42c5636442b2",
    "ts": "2026-10-06T09:32:35Z",
@@ -6059,27 +6086,6 @@
    "model": "opus",
    "run_id": "806e2cdfe248",
    "created_at": "2026-09-30T07:35:56Z"
-  },
-  {
-   "id": "36d36a8040dc",
-   "ts": "2026-09-30T07:23:33Z",
-   "headline": "US formally ends Operation Inherent Resolve in Iraq",
-   "detail": "The US has formally brought its Operation Inherent Resolve military mission in Iraq to an end. The input does not report any market reaction.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a67f389de28e3a35"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpsqnts3o27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpsqnts3o27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2ce183689963",
-   "created_at": "2026-09-30T07:25:53Z"
   }
  ]
 }
