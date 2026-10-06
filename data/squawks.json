@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T08:35:49Z",
+ "generated_at": "2026-10-06T08:55:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "36a6d7ba118e",
+   "ts": "2026-10-06T08:52:49Z",
+   "headline": "BoE's Mann says supply shocks are embedding inflation and the real economy is resilient",
+   "detail": "Bank of England MPC member Catherine Mann said supply shocks are causing inflation to become embedded. She also said the real side of the UK economy remains resilient.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "0bd24cbedfb8c211",
+    "514a5bcc95cff50a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx72jtevlt2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx72jtevlt2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx72lggyeg2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx72lggyeg2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f395fa7cdae1",
+   "created_at": "2026-10-06T08:55:46Z"
+  },
   {
    "id": "8483ad1b7f56",
    "ts": "2026-10-06T08:31:18Z",
@@ -6024,51 +6051,6 @@
      "author": "financialtimes.com",
      "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwpqviy6ul2f",
      "url": "https://bsky.app/profile/financialtimes.com/post/3mwpqviy6ul2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2875ace87b02",
-   "created_at": "2026-09-30T06:50:53Z"
-  },
-  {
-   "id": "b712812eb820",
-   "ts": "2026-09-30T06:46:45Z",
-   "headline": "French September flash HICP rises to 3.4% y/y against a 3.2% forecast; CPI rises to 3.0% y/y",
-   "detail": "France's preliminary September HICP rose to 3.4% y/y, above the 3.2% forecast and up from 2.6%. National CPI rose to 3.0% y/y against a 2.8% forecast, up from 2.4%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "fed9bbe086dd574c",
-    "ae0739057684f60c",
-    "22985224a866651a",
-    "a890407b9b1e5b56",
-    "c5ecacf1687e26a8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpqoukmh22r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpqoukmh22r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpqowelw22r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpqowelw22r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpqtgvkzx22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpqtgvkzx22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpqtqnl572c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpqtqnl572c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpquljujp2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpquljujp2p"
     }
    ],
    "model": "opus",
