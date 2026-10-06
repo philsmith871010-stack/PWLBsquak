@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T08:10:57Z",
+ "generated_at": "2026-10-06T08:25:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d14889df5729",
+   "ts": "2026-10-06T08:25:03Z",
+   "headline": "UK PM Burnham considers delaying the roadmap for raising defence spending to 3% of GDP, The Times reports",
+   "detail": "The Times reported on Tuesday that the Prime Minister may put back an announcement on how and when UK defence spending will rise to 3% of GDP. That step is a milestone on the way to NATO's target of 3.5% by 2035.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "8025757cdb1f2b75"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mx6yy5shuh2j",
+     "url": "https://bsky.app/profile/reuters.com/post/3mx6yy5shuh2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ed43c8b99a2a",
+   "created_at": "2026-10-06T08:25:47Z"
+  },
   {
    "id": "359ba637b7be",
    "ts": "2026-10-06T08:08:03Z",
@@ -6054,27 +6075,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpqne5omw2m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpqne5omw2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ae0ee0886c54",
-   "created_at": "2026-09-30T06:46:08Z"
-  },
-  {
-   "id": "cbaa22df3a33",
-   "ts": "2026-09-30T06:41:35Z",
-   "headline": "Drone attacks in Russia's Bryansk region kill one person and injure another, says regional governor",
-   "detail": "The governor of Russia's Bryansk region said drone attacks had killed one person and injured another. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "31b3329d15c440b9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpqfmuhey2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpqfmuhey2r"
     }
    ],
    "model": "opus",
