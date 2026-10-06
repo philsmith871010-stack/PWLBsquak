@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T12:21:04Z",
+ "generated_at": "2026-10-06T12:31:18Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fb0c3f457524",
+   "ts": "2026-10-06T12:30:55Z",
+   "headline": "US trade deficit widens to $105.6bn, larger than the $102.05bn forecast and up from $88.6bn",
+   "detail": "The US trade balance came in at -$105.6bn, against a forecast of -$102.05bn and a previous reading of -$88.6bn.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "02afe0b9ac28ef92"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx7gpsq6os2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx7gpsq6os2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "754e7cea986e",
+   "created_at": "2026-10-06T12:31:18Z"
+  },
   {
    "id": "db5edc0d3752",
    "ts": "2026-10-06T12:16:14Z",
@@ -6060,27 +6081,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwptomh5uy2m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwptomh5uy2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4e41d49158d2",
-   "created_at": "2026-09-30T07:40:54Z"
-  },
-  {
-   "id": "fa1bac1dc94d",
-   "ts": "2026-09-30T07:40:06Z",
-   "headline": "Iran gets US response on seven-day trust-building plan through Qatari mediators in Doha",
-   "detail": "Reuters reported that Iranian Foreign Minister Abbas Araqchi received the US feedback in Doha on Tuesday. An official briefed on the talks said the order of steps was the main sticking point.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "b3e222593b4d30f8"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwptoarjxx2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwptoarjxx2e"
     }
    ],
    "model": "opus",
