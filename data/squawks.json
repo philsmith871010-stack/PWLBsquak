@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T06:01:23Z",
+ "generated_at": "2026-10-06T06:31:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1d828f25d238",
+   "ts": "2026-10-06T06:31:03Z",
+   "headline": "BoJ Governor Ueda says the underlying price trend is nearing 2% and Japan's economy is recovering moderately",
+   "detail": "Bank of Japan Governor Ueda said Japan's economy is recovering moderately despite some weaknesses and that business sentiment is favourable. He also said the underlying price trend is approaching 2%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "6a4d9e4e64ff7cb4",
+    "f737be6c10084fe4",
+    "c14446e086a6e1ff"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6sjzomuj24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6sjzomuj24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6skswcjh2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6skswcjh2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6smcmvxp2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6smcmvxp2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ec6493c35dc7",
+   "created_at": "2026-10-06T06:31:17Z"
+  },
   {
    "id": "e9a95e8cc252",
    "ts": "2026-10-06T06:00:42Z",
@@ -6000,27 +6033,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpoexur6n2t",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpoexur6n2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a1d3daa36155",
-   "created_at": "2026-09-30T06:05:46Z"
-  },
-  {
-   "id": "ca23b790d5d1",
-   "ts": "2026-09-30T06:05:02Z",
-   "headline": "PM Burnham says the UK should consider options for its EU relationship, including eventually rejoining",
-   "detail": "Reuters reports that Prime Minister Andy Burnham said on Wednesday that Britain should weigh options for its future relationship with the European Union, including rejoining the bloc in the longer run. He is stepping up efforts to rebuild ties with Europe.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "c3fcf6386c8fe548"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpoeazvni2r",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwpoeazvni2r"
     }
    ],
    "model": "opus",
