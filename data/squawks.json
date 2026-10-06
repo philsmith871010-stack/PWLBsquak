@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T07:15:56Z",
+ "generated_at": "2026-10-06T07:21:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0f1dc779cffd",
+   "ts": "2026-10-06T07:16:54Z",
+   "headline": "EU's von der Leyen sets out energy steps, including a joint gas-buying task force and a one-year methane rule extension for exporters",
+   "detail": "European Commission President von der Leyen announced a task force to pool energy demand, with a market operator handling joint purchases, and a one-year extension for exporters under the methane regulation. She also announced strategic talks with European refiners on costs and supply, and said state aid for energy bills should go to those who need it most.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "72cc0cbfba3e8b5d",
+    "ab21bbb2995eae7b",
+    "281d6267c72f7fb4",
+    "f58a3d3298fce067"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6v6c7sc32q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6v6c7sc32q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6v4oyoxf2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6v4oyoxf2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6v4r5doe2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6v4r5doe2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6v4mwnpt2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6v4mwnpt2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fa4bbb42d9d3",
+   "created_at": "2026-10-06T07:21:00Z"
+  },
   {
    "id": "a30ebcfb210f",
    "ts": "2026-10-06T07:12:34Z",
@@ -6018,27 +6057,6 @@
      "author": "cityam.com.web.brid.gy",
      "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mwpq3a7up6g2",
      "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mwpq3a7up6g2"
-    }
-   ],
-   "model": "opus",
-   "run_id": "063aca8ce20c",
-   "created_at": "2026-09-30T06:40:59Z"
-  },
-  {
-   "id": "99a383865b3d",
-   "ts": "2026-09-30T06:30:49Z",
-   "headline": "PM Burnham plans to change the pensions triple lock from 2030 to fund a national care service and admits a possible funding shortfall",
-   "detail": "City AM reports that the Prime Minister announced the triple lock will be adjusted from 2030, in effect becoming a double lock, with the savings going to a new national care service. He acknowledged the plans may face a shortfall, and economists cited in the report said taxes would need to rise.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "3625786be2de7719"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mwpq3g2unnz2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mwpq3g2unnz2"
     }
    ],
    "model": "opus",
