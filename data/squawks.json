@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T05:05:45Z",
+ "generated_at": "2026-10-06T05:10:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4ecdb55cfb59",
+   "ts": "2026-10-06T04:25:43Z",
+   "headline": "Many BoJ officials are cautious about an October rate rise, though the bank may say underlying inflation has about reached 2%, sources say",
+   "detail": "People familiar with the Bank of Japan's thinking say many policymakers are wary of raising rates at the October meeting. The same sources say the bank may indicate at that meeting that underlying inflation has roughly reached its 2% target.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "e2f3475d0affce39",
+    "13dfce6f3c1a7453"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6lm7pvp42v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6lm7pvp42v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6ln5zeix2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6ln5zeix2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2bc005d22786",
+   "created_at": "2026-10-06T05:10:53Z"
+  },
+  {
+   "id": "01f2cfd68b82",
+   "ts": "2026-10-06T03:37:08Z",
+   "headline": "Japan's 10-year JGB auction tail narrows to 0.02 from 0.12 at the previous sale; 10-year yield cuts its rise to 1.5bp at 3.1%",
+   "detail": "After the auction, 10-year JGB futures cut their losses to 0.18 yen at 124.32. The 20-year yield cut its gain to 1bp at 3.98%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0136a98ddbba5971",
+    "c1a42dd9799be274",
+    "3293454e65fec803",
+    "132a27dbab5fdb92"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6ivd2jcp2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6ivd2jcp2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6j3iotgn2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6j3iotgn2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6j6vpd5a2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6j6vpd5a2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6jhthze32r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6jhthze32r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2bc005d22786",
+   "created_at": "2026-10-06T05:10:53Z"
+  },
   {
    "id": "be12bd16e7ec",
    "ts": "2026-10-06T01:43:38Z",
@@ -5954,60 +6020,6 @@
    "model": "opus",
    "run_id": "a1d3daa36155",
    "created_at": "2026-09-30T06:05:46Z"
-  },
-  {
-   "id": "39f7a5e9fd38",
-   "ts": "2026-09-30T06:01:04Z",
-   "headline": "UK GDP grows 0.5% q/q and 1.4% y/y, above forecasts of 0.4% and 1.2%",
-   "detail": "UK GDP grew 0.5% quarter on quarter against a forecast of 0.4% and a previous reading of 0.4%, and 1.4% year on year against a forecast and previous reading of 1.2%. Business investment rose 1.75% q/q, against a forecast of 1.7% and a previous reading of 1.7%.",
-   "category": "data",
-   "importance": 3,
-   "source_event_ids": [
-    "5bcae4711fac013a",
-    "c25a85ce9b1d956f",
-    "871ba59d14578e3b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpo56qokt27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpo56qokt27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpo5bmvpp22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpo5bmvpp22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpo53vp5g2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpo53vp5g2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3c4af52b85bb",
-   "created_at": "2026-09-30T06:01:22Z"
-  },
-  {
-   "id": "96136e1e06fb",
-   "ts": "2026-09-30T06:00:59Z",
-   "headline": "UK current account deficit narrows to 19.932bn, smaller than the 25.5bn forecast",
-   "detail": "The UK current account showed a deficit of 19.932bn, against a forecast of 25.5bn and 22.134bn previously.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "411202ef09eb8ab4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpo4zpjjd26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpo4zpjjd26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3c4af52b85bb",
-   "created_at": "2026-09-30T06:01:22Z"
   }
  ]
 }
