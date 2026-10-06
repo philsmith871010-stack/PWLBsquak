@@ -1,8 +1,86 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T21:18:51Z",
+ "generated_at": "2026-10-06T05:01:25Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "925d0dad6871",
+   "ts": "2026-10-06T00:04:23Z",
+   "headline": "Yemeni government forces say they have retaken Mocha from the Houthis and pushed them out of areas around Bab el-Mandeb",
+   "detail": "Yemen's internationally recognised forces say they took back the Red Sea port city after heavy fighting. Saudi-backed forces have launched a counteroffensive to regain control of the strait.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2d67f3d688289431",
+    "f464de16b961a2d6",
+    "1c4b9a3b0b7f159d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx64yvwiwf2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx64yvwiwf2m"
+    },
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mx64utqsx62d",
+     "url": "https://bsky.app/profile/semafor.com/post/3mx64utqsx62d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx65qzeznb2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx65qzeznb2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e837e05335c6",
+   "created_at": "2026-10-06T05:01:25Z"
+  },
+  {
+   "id": "5db87e052130",
+   "ts": "2026-10-05T23:57:31Z",
+   "headline": "Trump signs order letting anyone buy tax-free red-dyed diesel by waiving the off-road requirement",
+   "detail": "The US President signed the executive order on the evening of 5 October, US time. He said its aim is to contain near-record diesel prices.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "5e9deb36f67f9506",
+    "d9b555f1781cbb93",
+    "6c87fc775fb28305",
+    "5fa8bf730f33a6e4",
+    "f49fed83cb1a3e4b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx64mmsnbw2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx64mmsnbw2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx64nf5srj2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx64nf5srj2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx64l5ksfd2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx64l5ksfd2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx64oma7ao24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx64oma7ao24"
+    },
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mx636zaatr2j",
+     "url": "https://bsky.app/profile/semafor.com/post/3mx636zaatr2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e837e05335c6",
+   "created_at": "2026-10-06T05:01:25Z"
+  },
   {
    "id": "31975ba8eefe",
    "ts": "2026-10-05T20:59:57Z",
@@ -5924,48 +6002,6 @@
    "model": "opus",
    "run_id": "3c4af52b85bb",
    "created_at": "2026-09-30T06:01:22Z"
-  },
-  {
-   "id": "88bcedb61337",
-   "ts": "2026-09-30T05:40:17Z",
-   "headline": "Kazakhstan restarts enforcement proceedings to recover a 2.3tn tenge fine from the NCOC oil consortium",
-   "detail": "Kazakhstan has restarted enforcement proceedings to recover a 2.3 trillion tenge fine from North Caspian Operating Company (NCOC), according to an Interfax report.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "703b9d25f9472087"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpmxzeabp2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpmxzeabp2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0d01d85b36f0",
-   "created_at": "2026-09-30T05:40:54Z"
-  },
-  {
-   "id": "99253c2a5521",
-   "ts": "2026-09-30T05:39:20Z",
-   "headline": "Gold edges lower as bets on a Fed rate hike and Middle East tensions support the US dollar",
-   "detail": "Gold prices slipped in early trading on 30 September, with the move attributed to bets on a Federal Reserve rate hike and Middle East tensions supporting the US dollar. No figures were given in the report.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "d43bfbe9795cfbcd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpmwdsdqr2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpmwdsdqr2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0d01d85b36f0",
-   "created_at": "2026-09-30T05:40:54Z"
   }
  ]
 }
