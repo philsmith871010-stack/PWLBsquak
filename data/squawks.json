@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T06:31:17Z",
+ "generated_at": "2026-10-06T06:46:02Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5861679de307",
+   "ts": "2026-10-06T06:45:50Z",
+   "headline": "French industrial production falls 0.3% m/m, missing the 0.2% rise forecast",
+   "detail": "French industrial output fell 0.3% on the month, against a forecast 0.2% gain, after a 0.4% fall in the previous reading.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b5a17c5aa4e4b9fe"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6tgqlqip2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6tgqlqip2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "22802c7d9ff8",
+   "created_at": "2026-10-06T06:46:02Z"
+  },
+  {
+   "id": "b6a354a1e1a5",
+   "ts": "2026-10-06T06:45:47Z",
+   "headline": "French budget deficit widens to 159.604bn from 145.91bn in the previous reading",
+   "detail": "Official French data put the budget balance at -159.604bn, compared with -145.91bn at the previous release. No forecast was given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6be26164bae1f375"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6tgoldop2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6tgoldop2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "22802c7d9ff8",
+   "created_at": "2026-10-06T06:46:02Z"
+  },
+  {
+   "id": "3f1911a31ee7",
+   "ts": "2026-10-06T06:43:20Z",
+   "headline": "French Finance Minister Lescure says it is too early to discuss the ECB's Transmission Protection Instrument",
+   "detail": "French Finance Minister Lescure said discussing use of the ECB's Transmission Protection Instrument was premature and that everything must be done to avoid reaching that point. The comments come during a continuing sell-off in French government bonds.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "666e8459abf87da5",
+    "c097a7c9b0b2e024"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6tcbnzoq2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6tcbnzoq2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6td3vv422r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6td3vv422r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "22802c7d9ff8",
+   "created_at": "2026-10-06T06:46:02Z"
+  },
   {
    "id": "1d828f25d238",
    "ts": "2026-10-06T06:31:03Z",
@@ -5927,117 +5996,6 @@
    "model": "opus",
    "run_id": "169dc2d92b63",
    "created_at": "2026-09-30T06:10:56Z"
-  },
-  {
-   "id": "e0f335046bd0",
-   "ts": "2026-09-30T06:09:58Z",
-   "headline": "PM Burnham says cutting the welfare bill will allow the UK to meet its defence goals",
-   "detail": "The Prime Minister linked lower welfare spending to paying for the UK's defence spending commitments. No figures were given.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "f4d70239511e124c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpon43lwy2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpon43lwy2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "169dc2d92b63",
-   "created_at": "2026-09-30T06:10:56Z"
-  },
-  {
-   "id": "db7b74aa6c3d",
-   "ts": "2026-09-30T06:08:38Z",
-   "headline": "UK Q2 business investment rises 5.2% y/y against a 0.8% forecast; exports up 2.8% q/q, government spending down 0.5%",
-   "detail": "The Q2 GDP breakdown shows business investment up 1.8% q/q, gross fixed capital formation up 0.9% q/q against a 1.2% forecast, and private consumption up 0.3% q/q, in line with forecasts. Exports grew 2.8% q/q and imports were flat; both had been forecast at 0.5%. Government spending fell 0.5% q/q against a forecast of -0.3%.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "2178afe3b32dcf89",
-    "7296615a664e7d67",
-    "9289a65563ca1b6d",
-    "ae5b2bcec072d7ad",
-    "ced03113dee4ad70",
-    "5304acd5b299e75d",
-    "f746b07739577578",
-    "4793c7f8ef026dfd",
-    "9ba90587e92b83ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpokpwgwz2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpokpwgwz2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpokh7odn2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpokh7odn2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpojet42v27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpojet42v27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpojgu6mu2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpojgu6mu2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpojautkf2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpojautkf2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpojcsuld26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpojcsuld26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpoj5oca42m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpoj5oca42m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpoi4tnud26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpoi4tnud26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpoicypjl26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpoicypjl26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "169dc2d92b63",
-   "created_at": "2026-09-30T06:10:56Z"
-  },
-  {
-   "id": "742c0f7045cf",
-   "ts": "2026-09-30T06:05:25Z",
-   "headline": "German real retail sales rise 1.3% m/m, below the 1.5% forecast, after a 3.4% fall",
-   "detail": "German real retail sales rose 1.3% month on month, against a forecast of 1.5%. The previous reading was a 3.4% fall.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "468a9355e65c796a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpoexur6n2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpoexur6n2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a1d3daa36155",
-   "created_at": "2026-09-30T06:05:46Z"
   }
  ]
 }
