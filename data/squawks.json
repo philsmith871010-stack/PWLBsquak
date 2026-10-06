@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T17:25:46Z",
+ "generated_at": "2026-10-06T19:31:20Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "51f3e5016f1d",
+   "ts": "2026-10-06T19:31:00Z",
+   "headline": "UK Chancellor plans a major intervention to help poorer households with rising energy bills, Guardian reports",
+   "detail": "The Guardian reports that Chancellor Healey is preparing a significant package to support lower-income households facing higher energy bills. The report gives no figures for the cost or the timing.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "7f82442f34bc5e80"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxa66ycouh2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxa66ycouh2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b4f9e9e2081b",
+   "created_at": "2026-10-06T19:31:20Z"
+  },
   {
    "id": "2c0d7ab50b83",
    "ts": "2026-10-06T17:24:48Z",
@@ -6120,33 +6141,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpuve3rvb2z",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpuve3rvb2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "96619575e52e",
-   "created_at": "2026-09-30T08:05:55Z"
-  },
-  {
-   "id": "8c7e568e426e",
-   "ts": "2026-09-30T08:01:47Z",
-   "headline": "Italian consumer confidence falls to 91.2, missing 94.4 forecast; manufacturing confidence rises to 91.9",
-   "detail": "Italy's consumer confidence index fell to 91.2 in September from 94.5, against a forecast of 94.4. Manufacturing business confidence rose to 91.9 from a revised 90.2, beating the forecast of 90.5.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "32e7a792d858534d",
-    "f1cdfcd49f92da9f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpuuzs5b426",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpuuzs5b426"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpuv6cl6w27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpuv6cl6w27"
     }
    ],
    "model": "opus",
