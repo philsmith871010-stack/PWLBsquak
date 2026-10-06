@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T05:10:53Z",
+ "generated_at": "2026-10-06T06:01:23Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e9a95e8cc252",
+   "ts": "2026-10-06T06:00:42Z",
+   "headline": "German August factory orders fall 10.6% m/m, far worse than the 1% drop forecast",
+   "detail": "German industrial orders fell 10.6% month on month in August, against a forecast fall of 1% and a 2.5% rise the month before. Working-day adjusted orders rose 2.7% year on year, against a forecast of 13.1% and 13.1% previously.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "329d99255e48c189",
+    "1157e1ce071c3d81",
+    "c7d05a561634549f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6qw23mia2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6qw23mia2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6qwvhy2u2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6qwvhy2u2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6qx3a7cp2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6qx3a7cp2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ff0687329564",
+   "created_at": "2026-10-06T06:01:23Z"
+  },
   {
    "id": "4ecdb55cfb59",
    "ts": "2026-10-06T04:25:43Z",
@@ -5988,33 +6021,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpoeazvni2r",
      "url": "https://bsky.app/profile/reuters.com/post/3mwpoeazvni2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a1d3daa36155",
-   "created_at": "2026-09-30T06:05:46Z"
-  },
-  {
-   "id": "975781141d38",
-   "ts": "2026-09-30T06:02:42Z",
-   "headline": "German import prices rise 8.3% y/y and 1% m/m, both above forecasts",
-   "detail": "German import prices rose 8.3% year on year, against a forecast of 8% and 6.8% previously. On the month they rose 1%, against a forecast of 0.7% and 0.2% previously.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "315014272321e377",
-    "54fdcecf86ed660b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpoa4ig7e2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpoa4ig7e2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpoa6ifrj27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpoa6ifrj27"
     }
    ],
    "model": "opus",
