@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T20:05:52Z",
+ "generated_at": "2026-10-06T20:16:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0617a11b21d1",
+   "ts": "2026-10-06T20:12:17Z",
+   "headline": "French Finance Minister says the government is ready to bypass parliament to pass spending cuts if budget talks stall, WSJ reports",
+   "detail": "According to the Wall Street Journal, the French Finance Minister said the government is prepared to use special constitutional powers to get spending cuts through if budget negotiations stall.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4db9b1ba7aa268a1",
+    "7878fabd47f29a28",
+    "be38e06af14bdac7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxaaisivxu2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxaaisivxu2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxaait5fuh2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxaait5fuh2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxaajwpjhu2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxaajwpjhu2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0b6875aad542",
+   "created_at": "2026-10-06T20:16:04Z"
+  },
   {
    "id": "460871a73697",
    "ts": "2026-10-06T20:04:48Z",
@@ -6132,27 +6165,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpuyuxwos2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpuyuxwos2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "96619575e52e",
-   "created_at": "2026-09-30T08:05:55Z"
-  },
-  {
-   "id": "929a866536e4",
-   "ts": "2026-09-30T08:02:29Z",
-   "headline": "Flydubai flight bound for Israel is diverted to Saudi Arabia",
-   "detail": "A Flydubai flight heading to Israel was diverted to Saudi Arabia, Reuters reported. No reason for the diversion was given.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "11e5f6ec28fc7739"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpuwbg4622y",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwpuwbg4622y"
     }
    ],
    "model": "opus",
