@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T15:11:01Z",
+ "generated_at": "2026-10-06T16:01:27Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e4130188c2bd",
+   "ts": "2026-10-06T15:57:00Z",
+   "headline": "Fed's Daly sees AI, tariffs and energy costs keeping inflation elevated and says more tightening may be needed",
+   "detail": "San Francisco Fed President Daly said AI, tariffs and energy costs could prove longer-lasting inflation pressures and keep inflation elevated, Axios reported. She said this could mean more tightening is required.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "3724064af960658c",
+    "d4a4b77f95424c89",
+    "7e7010e443236cb5",
+    "650c608b9b5714cf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx7sacuzem2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx7sacuzem2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx7sgd4oly2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx7sgd4oly2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx7sh56mhe2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx7sh56mhe2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx7shbdw3k2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx7shbdw3k2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b5a881cb5f79",
+   "created_at": "2026-10-06T16:01:27Z"
+  },
   {
    "id": "48f433e89259",
    "ts": "2026-10-06T15:07:45Z",
@@ -6036,57 +6075,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpusgk74i2w",
      "url": "https://bsky.app/profile/reuters.com/post/3mwpusgk74i2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f207921370e6",
-   "created_at": "2026-09-30T08:01:35Z"
-  },
-  {
-   "id": "c89f939fb1a9",
-   "ts": "2026-09-30T07:55:48Z",
-   "headline": "German unemployment rises by 12,000 in September against a forecast rise of 500; jobless rate holds at 6.4%",
-   "detail": "German seasonally adjusted unemployment rose by 12,000 in September, against a forecast of 0.5k and a previous rise of 4k, taking the total to 3.012m from 2.996m. The unemployment rate stayed at 6.4%, in line with forecasts; the unadjusted total was 2.994m against 3.061m previously.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "5a1761f0ce032971",
-    "98d58bdd0dd444df",
-    "90eebbdc2740fcd0",
-    "d51c42f9095f36da",
-    "bcf6a0d69cc4713f",
-    "3a30905c7fda426a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpukdmk5f2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpukdmk5f2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpukhpzs62m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpukhpzs62m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpuklzokg2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpuklzokg2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpukomzx72f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpukomzx72f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpuks63jm2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpuks63jm2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpull7t2l22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpull7t2l22"
     }
    ],
    "model": "opus",
