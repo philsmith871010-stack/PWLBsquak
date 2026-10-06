@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T08:55:46Z",
+ "generated_at": "2026-10-06T09:01:22Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "11f91e0bc67d",
+   "ts": "2026-10-06T09:01:00Z",
+   "headline": "Eurozone August retail sales rise 0.8% y/y, short of the 1% forecast; monthly gain of 0.1% also misses",
+   "detail": "Eurozone retail sales grew 0.8% year on year against a 1% forecast and 0.6% previously. The month-on-month rise was 0.1%, compared with a 0.2% forecast and a previous reading of -0.6%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "af71cd874ca0df58",
+    "a94b3704aa8af4f3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx72yh2de32w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx72yh2de32w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx72yjn27p2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx72yjn27p2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "085d96b47279",
+   "created_at": "2026-10-06T09:01:22Z"
+  },
   {
    "id": "36a6d7ba118e",
    "ts": "2026-10-06T08:52:49Z",
@@ -6035,27 +6062,6 @@
    "model": "opus",
    "run_id": "728f737363f9",
    "created_at": "2026-09-30T07:06:04Z"
-  },
-  {
-   "id": "f6b47465a50a",
-   "ts": "2026-09-30T06:50:28Z",
-   "headline": "UK energy price cap forecast to rise to nearly £2,000 from January as the Iran war lifts prices",
-   "detail": "The Financial Times reports a forecast that the household energy price cap will rise to nearly £2,000 for January to March. That would be the biggest increase in four years, driven by higher prices linked to the Iran war.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "cf8bd89253b0f9d2"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwpqviy6ul2f",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwpqviy6ul2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2875ace87b02",
-   "created_at": "2026-09-30T06:50:53Z"
   }
  ]
 }
