@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T11:55:54Z",
+ "generated_at": "2026-10-06T12:21:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "db5edc0d3752",
+   "ts": "2026-10-06T12:16:14Z",
+   "headline": "ADP says US private payrolls rose by an average of 23,750 a week in the four weeks to 19 September",
+   "detail": "ADP published its weekly estimate of US private-sector employment, showing an average weekly gain of 23,750 jobs over the four weeks to 19 September.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "01ffee620486c6e4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx7fvl365u2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx7fvl365u2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b9600ad7308e",
+   "created_at": "2026-10-06T12:21:04Z"
+  },
   {
    "id": "1bab245e61aa",
    "ts": "2026-10-06T11:54:54Z",
@@ -6060,27 +6081,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwptoarjxx2e",
      "url": "https://bsky.app/profile/reuters.com/post/3mwptoarjxx2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4e41d49158d2",
-   "created_at": "2026-09-30T07:40:54Z"
-  },
-  {
-   "id": "2ba37a017b3e",
-   "ts": "2026-09-30T07:37:05Z",
-   "headline": "France is the worst-hit G7 government bond market in the sell-off linked to the Iran war",
-   "detail": "The FT reported that French bonds have fallen more than any other G7 market as fiscal pressure and political risk build ahead of an election. Vanguard said further losses were possible.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "9745f54693e7d7fa"
-   ],
-   "sources": [
-    {
-     "author": "iankmsmith.ft.com",
-     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3mwptiu67622i",
-     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3mwptiu67622i"
     }
    ],
    "model": "opus",
