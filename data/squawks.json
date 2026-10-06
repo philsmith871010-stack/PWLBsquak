@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T16:05:54Z",
+ "generated_at": "2026-10-06T17:05:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e103b5ccc5d4",
+   "ts": "2026-10-06T17:03:38Z",
+   "headline": "US $58bn 3-year note auction stops through by 0.2bp at 4.932%; bid-to-cover slips to 2.62",
+   "detail": "The 3-year auction's high yield was 4.932%, against a when-issued yield of 4.934% before the sale and 4.474% at the previous auction, while bid-to-cover was 2.62, down from 2.72. Indirect bidders took 57.6%, direct bidders 31.7% and primary dealers 10.7%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "825806e5ee1288e2",
+    "7a9c84b7d50dc21f",
+    "990a78905531cd5f",
+    "4c47e5178874dfa0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx7vxi5ddu2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx7vxi5ddu2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx7vwk7qa22m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx7vwk7qa22m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx7vwnfdst2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx7vwnfdst2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx7vurgazs2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx7vurgazs2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "11260a02f7bd",
+   "created_at": "2026-10-06T17:05:57Z"
+  },
   {
    "id": "56cdd4f7723c",
    "ts": "2026-10-06T16:05:46Z",
@@ -6102,27 +6141,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwputsntmn2p",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwputsntmn2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f207921370e6",
-   "created_at": "2026-09-30T08:01:35Z"
-  },
-  {
-   "id": "633fc95a0c5d",
-   "ts": "2026-09-30T08:00:51Z",
-   "headline": "Swiss ZEW expectations fall to 2.6 from 12.1",
-   "detail": "The Swiss ZEW expectations index fell to 2.6 in the latest reading, down from 12.1 previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b2d21c2e3c46cfa7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwputez5jj2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwputez5jj2f"
     }
    ],
    "model": "opus",
