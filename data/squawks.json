@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-06T06:46:02Z",
+ "generated_at": "2026-10-06T07:10:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bee19ebeebf1",
+   "ts": "2026-10-06T07:06:14Z",
+   "headline": "ECB's Lane says the energy shock's inflation effects drove the rate decision; how far it passes through to the wider economy is uncertain",
+   "detail": "ECB chief economist Philip Lane said energy prices are high but it is uncertain how strongly they will feed through to the rest of the economy. He added that fiscal support for the economy in 2027 and 2028 will differ from 2026.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b3a0173af004420b",
+    "28a6243b8f3082b2",
+    "909e0de85f1e8b71"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6ularaay2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6ularaay2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6unhpk4c2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6unhpk4c2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6upa6ltr2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6upa6ltr2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "eaa2f0199b93",
+   "created_at": "2026-10-06T07:10:55Z"
+  },
   {
    "id": "5861679de307",
    "ts": "2026-10-06T06:45:50Z",
@@ -5975,27 +6008,6 @@
    "model": "opus",
    "run_id": "063aca8ce20c",
    "created_at": "2026-09-30T06:40:59Z"
-  },
-  {
-   "id": "b4d0a146ccd2",
-   "ts": "2026-09-30T06:10:05Z",
-   "headline": "Oil rises after Trump denies he is willing to ease sanctions on Iran",
-   "detail": "Reuters reports oil prices rose on Wednesday after US President Trump denied he would ease sanctions on Iran, while Qatar pushed for peace talks. Prices had fallen in the previous session as Middle East crude supply recovered.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "4358fc8e2402319b"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwponbzffw2m",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwponbzffw2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "169dc2d92b63",
-   "created_at": "2026-09-30T06:10:56Z"
   }
  ]
 }
