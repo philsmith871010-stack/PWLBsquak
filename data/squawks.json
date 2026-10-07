@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T08:20:57Z",
+ "generated_at": "2026-10-07T09:35:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9df94419af66",
+   "ts": "2026-10-07T09:33:07Z",
+   "headline": "German 7-year Bund auction yields 3.36%, up from 2.68% last time; bid-to-cover rises to 1.4 from 1.2",
+   "detail": "Germany's sale of the new 7-year Bund came in at an average yield of 3.36%, against 2.68% at the previous auction. The bid-to-cover ratio was 1.4, up from 1.2.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "c6d9f70bf57177cb",
+    "9c0bbe6b4a70aaac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbnasjstb2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbnasjstb2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbnape4ui2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbnape4ui2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "29c957c89f1e",
+   "created_at": "2026-10-07T09:35:50Z"
+  },
   {
    "id": "a36c89cef838",
    "ts": "2026-10-07T08:18:03Z",
@@ -6263,27 +6290,6 @@
    "model": "opus",
    "run_id": "a93b05abfc2c",
    "created_at": "2026-09-30T09:15:50Z"
-  },
-  {
-   "id": "b750dbdb15fe",
-   "ts": "2026-09-30T09:10:06Z",
-   "headline": "Trump may unveil plan as soon as Wednesday to use about $54bn of South Korean investment for Alaska LNG project",
-   "detail": "Reuters reports that President Trump could set out plans as soon as Wednesday to fund an Alaska liquefied natural gas project from about $54bn of South Korea's pledged strategic investment package. The project faces doubts, according to Reuters.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "d9fdcec818bb3bdf"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpyp76wce2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwpyp76wce2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b3ddaba12563",
-   "created_at": "2026-09-30T09:10:57Z"
   }
  ]
 }
