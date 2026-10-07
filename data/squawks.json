@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T15:41:06Z",
+ "generated_at": "2026-10-07T16:05:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "710212417f9b",
+   "ts": "2026-10-07T16:03:09Z",
+   "headline": "French Finance Ministry says there is no change to its bond issuance strategy, after WSJ report of a shift to shorter debt",
+   "detail": "The French Finance Ministry said its bond issuance strategy is unchanged and follows investor demand. This comes after a WSJ report that France was considering moving issuance towards shorter-term debt amid the bond market sell-off.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "775b74aabc886c5e",
+    "f0839e3a00eec9b1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxcd2aiaun2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxcd2aiaun2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxcd5g7ttq2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxcd5g7ttq2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f0cc07e35fd1",
+   "created_at": "2026-10-07T16:05:51Z"
+  },
   {
    "id": "b39e5449923d",
    "ts": "2026-10-07T15:38:39Z",
@@ -6197,63 +6224,6 @@
    "model": "opus",
    "run_id": "bfc3a25367a4",
    "created_at": "2026-09-30T10:01:37Z"
-  },
-  {
-   "id": "3de1f473c6bd",
-   "ts": "2026-09-30T09:50:51Z",
-   "headline": "Kremlin confirms contacts with US on possible prisoner exchange and responds to its nuclear warnings to NATO over Kaliningrad",
-   "detail": "At the same briefing where it rejected reports of sanctions relief for prisoners, the Kremlin confirmed it is in contact with the United States about a possible prisoner exchange. On Russia's nuclear warnings to NATO over Kaliningrad, it said its diplomats are reminding European leaders of the region's founding documents.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ab7d7e7bc09b2932",
-    "13a899bf58770d80",
-    "73af878dccf8ef9a",
-    "f7e0e1637db29824",
-    "fb6d30e3ded33e91",
-    "9f7937fe9680806d",
-    "0c758967d5dbbf71"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwq2y345mm22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwq2y345mm22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwq347ba2j27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwq347ba2j27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwq2yvycvv2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwq2yvycvv2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwq33ympcn2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwq33ympcn2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwq2z3fhe62t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwq2z3fhe62t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwq33wcdxh2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwq33wcdxh2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwq34325dh2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwq34325dh2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f28866f7bd5f",
-   "created_at": "2026-09-30T09:55:42Z"
   }
  ]
 }
