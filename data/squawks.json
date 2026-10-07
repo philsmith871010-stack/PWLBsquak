@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T15:01:26Z",
+ "generated_at": "2026-10-07T15:21:11Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "055ac54c9c02",
+   "ts": "2026-10-07T15:14:56Z",
+   "headline": "France weighs shifting issuance towards shorter-term debt amid bond market turmoil, WSJ reports",
+   "detail": "The Wall Street Journal reports that France is considering issuing more short-dated debt in response to the turmoil in bond markets.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "5f03b5ff31271e3a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxcadyzdld2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxcadyzdld2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c5e7baa9fe33",
+   "created_at": "2026-10-07T15:21:11Z"
+  },
   {
    "id": "35240eba8ce9",
    "ts": "2026-10-07T15:00:49Z",
@@ -6234,33 +6255,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwq2xwydgp2m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwq2xwydgp2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b1272013e027",
-   "created_at": "2026-09-30T09:50:52Z"
-  },
-  {
-   "id": "7994e3815db0",
-   "ts": "2026-09-30T09:48:05Z",
-   "headline": "Japan's PM pledges to strengthen supply capacity as prices and rates rise, and to review revenue and spending",
-   "detail": "Japan's prime minister says the government will boost supply capacity amid rising prices and interest rates. The PM also says it will assess trends in tax receipts and review revenue and spending.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "edb7ea4f26b78853",
-    "d12c48317ed6d7ee"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwq2t55a5x27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwq2t55a5x27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwq2tbrd3y27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwq2tbrd3y27"
     }
    ],
    "model": "opus",
