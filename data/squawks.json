@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T12:51:03Z",
+ "generated_at": "2026-10-07T13:35:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "72ddfe04ea0e",
+   "ts": "2026-10-07T13:34:26Z",
+   "headline": "UK 30-year gilt yield climbs to 6.034%, its highest since 1998, up more than 12bp on the day",
+   "detail": "The UK 30-year gilt yield rose to 6.034%, its highest level since 1998 and more than 12bp higher on the day, a market wire reported.",
+   "category": "global_rates",
+   "importance": 3,
+   "source_event_ids": [
+    "b1b2f758d8eb3982"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxc2qd7yfp2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxc2qd7yfp2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5592dc007968",
+   "created_at": "2026-10-07T13:35:59Z"
+  },
   {
    "id": "e5b29ea7db0a",
    "ts": "2026-10-07T12:48:50Z",
@@ -6269,27 +6290,6 @@
    "model": "opus",
    "run_id": "a87aedd6450a",
    "created_at": "2026-09-30T09:35:42Z"
-  },
-  {
-   "id": "2e0d3d6aa204",
-   "ts": "2026-09-30T09:30:25Z",
-   "headline": "Russia extends its diesel export ban for fuel producers to the end of October",
-   "detail": "Reports on Wednesday said the Russian government has kept its ban on diesel exports by fuel producers in place until the end of October.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "4c833d71cf28ee0b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpztjjvpa2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpztjjvpa2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6315d5d82795",
-   "created_at": "2026-09-30T09:31:15Z"
   }
  ]
 }
