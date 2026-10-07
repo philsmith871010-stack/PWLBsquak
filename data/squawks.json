@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T14:35:53Z",
+ "generated_at": "2026-10-07T14:41:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9179d8abfb62",
+   "ts": "2026-10-07T14:39:40Z",
+   "headline": "German 2-year yield falls 6bp to 3.02% while French and Italian 2-year yields rise 6bp to 3.61% and 3.48%",
+   "detail": "Germany's 2-year government bond yield is down 6bp at 3.02%, against the move in other eurozone sovereign debt. France's 2-year yield is up 6bp at 3.61% and Italy's is up 6bp at 3.48%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "832cef80e1b9a70f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxc6exbe4b2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxc6exbe4b2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "72f80f00978c",
+   "created_at": "2026-10-07T14:41:03Z"
+  },
   {
    "id": "623bbc3b140c",
    "ts": "2026-10-07T14:33:27Z",
@@ -6245,33 +6266,6 @@
    "model": "opus",
    "run_id": "c04e29ee5c32",
    "created_at": "2026-09-30T09:45:55Z"
-  },
-  {
-   "id": "ad7b651c3a94",
-   "ts": "2026-09-30T09:33:08Z",
-   "headline": "German 10-year Bund auction yields 3.58%, up from 3.39%, with cover falling to 1.2 from 1.5",
-   "detail": "Germany's 10-year Bund auction produced an average yield of 3.58%, against 3.39% at the previous sale. The bid-to-cover ratio was 1.2, down from 1.5.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "319bdde167b41fb6",
-    "548452c4a2f6ad53"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpzyfcqwc2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpzyfcqwc2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpzyk3xyr2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpzyk3xyr2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a87aedd6450a",
-   "created_at": "2026-09-30T09:35:42Z"
   }
  ]
 }
