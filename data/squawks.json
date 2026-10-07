@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T18:05:50Z",
+ "generated_at": "2026-10-07T19:31:23Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "da83a7a89e3f",
+   "ts": "2026-10-07T19:26:24Z",
+   "headline": "Diesel prices jump after the IEA says no fuel will be released beyond the stock release agreed in March",
+   "detail": "The FT reports that IEA members say the 100mn barrels promised by the G7 will come out of the 400mn barrel release agreed in March, not from additional stocks. Diesel prices are reported to have jumped in response; no figure for the move was given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "77c8a6a6fbce36cd"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxcofodzfg2i",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mxcofodzfg2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "260b78af14d3",
+   "created_at": "2026-10-07T19:31:23Z"
+  },
   {
    "id": "354548f9d605",
    "ts": "2026-10-07T18:04:44Z",
@@ -6227,27 +6248,6 @@
    "model": "opus",
    "run_id": "2b86db4afc9e",
    "created_at": "2026-09-30T13:05:51Z"
-  },
-  {
-   "id": "6481d453f981",
-   "ts": "2026-09-30T12:54:28Z",
-   "headline": "EU says it is open to discussing whatever relationship options the UK proposes",
-   "detail": "The EU said it is willing to engage on options the UK may put forward for their relationship. This follows PM Burnham's review of UK relations with the bloc, which he said could include rejoining.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1764a2661205b712"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqfafomhw2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqfafomhw2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b6bb17ae9546",
-   "created_at": "2026-09-30T12:55:50Z"
   }
  ]
 }
