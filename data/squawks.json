@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T05:11:05Z",
+ "generated_at": "2026-10-07T05:15:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "db3f5d792fbb",
+   "ts": "2026-10-07T05:10:05Z",
+   "headline": "Hedge fund industry group warns BoE that its proposed gilt repo reforms could backfire and reduce liquidity under stress",
+   "detail": "Reuters reports that a hedge fund industry group has told the Bank of England its proposed reforms to the repo market, where short-term loans are secured against gilts, could cut liquidity during periods of market stress.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "ed9399ad039ab035"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxb6kgxrwk2x",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxb6kgxrwk2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "84d05beee748",
+   "created_at": "2026-10-07T05:15:57Z"
+  },
   {
    "id": "54dc0addf84e",
    "ts": "2026-10-07T04:33:30Z",
@@ -6179,33 +6200,6 @@
    "model": "opus",
    "run_id": "167c3a610c20",
    "created_at": "2026-09-30T08:15:57Z"
-  },
-  {
-   "id": "cc83b938b933",
-   "ts": "2026-09-30T08:10:53Z",
-   "headline": "Germany to set up a strategic gas reserve from 2027",
-   "detail": "A German Economy Ministry spokesperson said the government will set up a strategic natural gas reserve from 2027. The spokesperson also said the economy minister told state-owned SEFE to raise gas storage because of ongoing geopolitical risks.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "38abf7c2e896322c",
-    "9f899c7f37b47b90"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpvfcw44q26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpvfcw44q26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpvazxad727",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpvazxad727"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d9398e979f72",
-   "created_at": "2026-09-30T08:10:57Z"
   }
  ]
 }
