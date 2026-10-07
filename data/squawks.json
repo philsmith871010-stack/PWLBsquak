@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T12:05:50Z",
+ "generated_at": "2026-10-07T12:51:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e5b29ea7db0a",
+   "ts": "2026-10-07T12:48:50Z",
+   "headline": "Houthi rebels fire a new missile barrage at Riyadh and Aden, FT reports",
+   "detail": "The FT reports a new Houthi missile assault on the Saudi capital and on Aden. It follows a government offensive announced days earlier to retake the Bab al-Mandab waterway.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "084fd5c19e545529"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxby6rbccx2h",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mxby6rbccx2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6d686d2d8ee4",
+   "created_at": "2026-10-07T12:51:03Z"
+  },
   {
    "id": "c393175c17e0",
    "ts": "2026-10-07T12:03:47Z",
@@ -6264,27 +6285,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpztjjvpa2l",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpztjjvpa2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6315d5d82795",
-   "created_at": "2026-09-30T09:31:15Z"
-  },
-  {
-   "id": "0cfb63713f8f",
-   "ts": "2026-09-30T09:29:48Z",
-   "headline": "US formally ends Operation Inherent Resolve in Iraq, reports say",
-   "detail": "Reports say the United States has officially concluded Operation Inherent Resolve, its military mission in Iraq.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9db87c39c8a0bb09"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpzsgizti27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpzsgizti27"
     }
    ],
    "model": "opus",
