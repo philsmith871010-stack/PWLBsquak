@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T20:11:01Z",
+ "generated_at": "2026-10-07T20:40:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "59e0760ed23e",
+   "ts": "2026-10-07T20:37:54Z",
+   "headline": "Iran says it and Oman have agreed coordinates for safe transit routes through the Strait of Hormuz",
+   "detail": "Iran's Foreign Ministry spokesperson said Iran and Oman, as coastal states, agreed the geographical coordinates of safe transit routes through the Strait of Hormuz and how to present the agreement internationally. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9c231bbf31281ae9",
+    "f8e4473c8bafc1e8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxcsfjuurn2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxcsfjuurn2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxcsdqkeh22d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxcsdqkeh22d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2f68ff16d814",
+   "created_at": "2026-10-07T20:40:56Z"
+  },
   {
    "id": "387c62de88b3",
    "ts": "2026-10-07T20:09:02Z",
@@ -6215,39 +6242,6 @@
    "model": "opus",
    "run_id": "7b3f3d6e379e",
    "created_at": "2026-09-30T13:51:01Z"
-  },
-  {
-   "id": "42d127088b9d",
-   "ts": "2026-09-30T13:24:56Z",
-   "headline": "Analysts estimate Gulf crude exports are back to near pre-war levels",
-   "detail": "Goldman Sachs puts crude exports from Persian Gulf producers at 19m b/d and says the recovery came from higher exports through Hormuz. JPMorgan estimates the exports are at 98% of pre-war levels.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "7dc116207d1f4e11",
-    "c312f1eff6a22c92",
-    "ff827692c6f0569c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqgwv53wb2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqgwv53wb2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqgr5hf5p22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqgr5hf5p22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqgryzaqb2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqgryzaqb2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "40debcc08e15",
-   "created_at": "2026-09-30T13:25:54Z"
   }
  ]
 }
