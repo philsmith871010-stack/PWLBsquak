@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T07:46:01Z",
+ "generated_at": "2026-10-07T08:01:30Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "91d8edf175c6",
+   "ts": "2026-10-07T07:57:37Z",
+   "headline": "EUR/GBP falls 0.3% to 0.84528, its lowest level since June 2025",
+   "detail": "The euro fell 0.3% against sterling to 0.84528, reaching its lowest level since June 2025, according to a market commentary account.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4f970527f1445d58"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbhvzxzkn2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbhvzxzkn2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "010ee36faba5",
+   "created_at": "2026-10-07T08:01:30Z"
+  },
   {
    "id": "9a4b906938be",
    "ts": "2026-10-07T07:43:25Z",
@@ -6257,27 +6278,6 @@
    "model": "opus",
    "run_id": "b3ddaba12563",
    "created_at": "2026-09-30T09:10:57Z"
-  },
-  {
-   "id": "e86bac804a42",
-   "ts": "2026-09-30T09:05:02Z",
-   "headline": "OPEC+ expected to hold November output targets steady at Sunday meeting, sources tell Reuters",
-   "detail": "Two sources with knowledge of the matter told Reuters that OPEC+ producers are likely to leave production targets for November unchanged when they meet on Sunday.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "3ff53dbc769a07d5"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwpyg534qd2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwpyg534qd2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2b62209c86fb",
-   "created_at": "2026-09-30T09:05:55Z"
   }
  ]
 }
