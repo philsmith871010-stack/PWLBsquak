@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T05:01:28Z",
+ "generated_at": "2026-10-07T05:11:05Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "54dc0addf84e",
+   "ts": "2026-10-07T04:33:30Z",
+   "headline": "Reserve Bank of India raises its repo rate by 25bp to 5.50%",
+   "detail": "The Reserve Bank of India's governor said global financial market sentiment remains fragile and that there are limited signs of supply-side pressures becoming embedded. The bank raised its FY27 core inflation projection to 4.4% from 4.3%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "560676b9995e9b36",
+    "97248b9bd1df4e9d",
+    "8998dcc70a6cd95c",
+    "980c821bc159e59d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxb4j2ahnx2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxb4j2ahnx2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxb4jwadce2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxb4jwadce2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxb4lh47yj2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxb4lh47yj2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxb4oqcnsm2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxb4oqcnsm2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0b3adacabed3",
+   "created_at": "2026-10-07T05:11:05Z"
+  },
   {
    "id": "269016e02553",
    "ts": "2026-10-06T23:30:45Z",
@@ -6162,39 +6201,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpvazxad727",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpvazxad727"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d9398e979f72",
-   "created_at": "2026-09-30T08:10:57Z"
-  },
-  {
-   "id": "87d408d5e05c",
-   "ts": "2026-09-30T08:07:53Z",
-   "headline": "UAE energy minister backs OPEC+ and says demand for additional oil output is rising",
-   "detail": "UAE Energy Minister Mazrouei said the country supports the OPEC+ group and will keep coordinating with partners and consumers. He also said demand for extra oil production is increasing.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "25079d3f0cf3f267",
-    "7ef93b67727eee52",
-    "cf0c74e17bcc19ed"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpv7x2l4e2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpv7x2l4e2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpv7zytvc2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpv7zytvc2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpva4vvyr2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpva4vvyr2f"
     }
    ],
    "model": "opus",
