@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T05:15:57Z",
+ "generated_at": "2026-10-07T06:01:28Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ebd56c532119",
+   "ts": "2026-10-07T06:01:12Z",
+   "headline": "German August industrial production rises 2% m/m, above the 0.5% forecast; annual growth of 2.3% also beats",
+   "detail": "German industrial production rose 2% on the month against a 0.5% forecast, after a 1.1% fall previously. On the year, output was up 2.3%, against a 0.7% forecast and a previous reading of -1.63%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "13569eb401b04acf",
+    "d4444afc3a925f80"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbfmxjbh2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbfmxjbh2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbfuxmm32w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbfuxmm32w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d941038e0ece",
+   "created_at": "2026-10-07T06:01:28Z"
+  },
+  {
+   "id": "69c496de3f84",
+   "ts": "2026-10-07T05:27:29Z",
+   "headline": "Brent crude tops $101 a barrel after more attacks on tankers in the Strait of Hormuz",
+   "detail": "City AM reports that Brent edged above $101 a barrel on Wednesday morning after attacks on tankers in the Strait of Hormuz intensified in recent days. It adds that Middle East tensions are offsetting a rise in supply.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "32b301bd4749509f"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mxbb4yiafng2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mxbb4yiafng2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d941038e0ece",
+   "created_at": "2026-10-07T06:01:28Z"
+  },
   {
    "id": "db3f5d792fbb",
    "ts": "2026-10-07T05:10:05Z",
@@ -6158,48 +6206,6 @@
    "model": "opus",
    "run_id": "49880694fbe5",
    "created_at": "2026-09-30T08:31:13Z"
-  },
-  {
-   "id": "61933f63418e",
-   "ts": "2026-09-30T08:26:36Z",
-   "headline": "Egypt says eight Egyptian crew members from tanker MT Honour 25, hijacked off Somalia, have been released",
-   "detail": "Egypt's foreign ministry announced the release of the eight crew members who had been on the hijacked tanker in Somalia.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "861bc1d6ad0e3f3f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpwbfyguu2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpwbfyguu2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "49880694fbe5",
-   "created_at": "2026-09-30T08:31:13Z"
-  },
-  {
-   "id": "655ae7107673",
-   "ts": "2026-09-30T08:14:48Z",
-   "headline": "Iran's foreign minister tells cabinet Tehran has received a US proposal, government spokesperson says",
-   "detail": "A spokesperson for the Iranian government said in a post on X that Foreign Minister Araqchi had told the cabinet about a proposal received from the United States. The post gave no details of what the proposal contains, and the batch reports no market reaction.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "c6a0670c3da20b7e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwpvmclkqb2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwpvmclkqb2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "167c3a610c20",
-   "created_at": "2026-09-30T08:15:57Z"
   }
  ]
 }
