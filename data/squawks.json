@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T17:11:05Z",
+ "generated_at": "2026-10-07T17:35:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "119ddb95d714",
+   "ts": "2026-10-07T17:35:10Z",
+   "headline": "US 30-year Treasury yield reaches its highest since 2002 as global bond sell-off spreads, Reuters reports",
+   "detail": "Reuters reports that the global bond sell-off on Wednesday took US 30-year borrowing costs to their highest since 2002, while UK 30-year gilt yields hit a 28-year high. The move comes three weeks before Chancellor Healey's first Budget.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c9b9a0daf27272f6"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxci6rugul2e",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxci6rugul2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c79cdc4940bc",
+   "created_at": "2026-10-07T17:35:51Z"
+  },
   {
    "id": "62cf0daa42df",
    "ts": "2026-10-07T17:10:17Z",
@@ -6209,39 +6230,6 @@
    "model": "opus",
    "run_id": "fa6b136c3606",
    "created_at": "2026-09-30T12:15:58Z"
-  },
-  {
-   "id": "51323ba23b87",
-   "ts": "2026-09-30T12:01:05Z",
-   "headline": "German September flash HICP rises to 3.3% y/y from 2.9%, above 3.2% forecast; CPI also 3.3% against 3.1% expected",
-   "detail": "Preliminary German figures put September HICP at 3.3% y/y and 0.6% m/m, against forecasts of 3.2% and 0.5% (previous 2.9% and 0.2%). CPI rose to 3.3% y/y from 2.9%, above the 3.1% forecast.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "d4b9b5ff1c410503",
-    "2ed1861ea1c5f574",
-    "cbcdf67752ee6259"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqcawhapk2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqcawhapk2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqcb52ufv2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqcb52ufv2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqcbf626e27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqcbf626e27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1b887ca9a26d",
-   "created_at": "2026-09-30T12:01:25Z"
   }
  ]
 }
