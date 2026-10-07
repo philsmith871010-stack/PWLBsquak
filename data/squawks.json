@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T17:05:52Z",
+ "generated_at": "2026-10-07T17:11:05Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "62cf0daa42df",
+   "ts": "2026-10-07T17:10:17Z",
+   "headline": "French PM Lecornu asks lawmakers to hold the 2027 budget deficit to 5% of GDP",
+   "detail": "French Prime Minister Lecornu called on parliament to keep the 2027 deficit within 5% of GDP. The call comes during French budget talks.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "98e81743034fb60b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxcgsbcur32q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxcgsbcur32q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "70deb86fa4d8",
+   "created_at": "2026-10-07T17:11:05Z"
+  },
   {
    "id": "ee8dbb63da9c",
    "ts": "2026-10-07T17:04:24Z",
@@ -6221,27 +6242,6 @@
    "model": "opus",
    "run_id": "1b887ca9a26d",
    "created_at": "2026-09-30T12:01:25Z"
-  },
-  {
-   "id": "ca9abe9d367c",
-   "ts": "2026-09-30T10:28:59Z",
-   "headline": "BoE Governor Bailey urges governments to step up testing of frontier AI models before public release",
-   "detail": "In the first of a series of letters on artificial intelligence, the Bank of England governor warned that advanced AI poses sophisticated threats to banking, markets and payments systems, City AM reports.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "fac0ee14f8c58b60"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mwq5lart24h2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mwq5lart24h2"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f8a1e294c415",
-   "created_at": "2026-09-30T10:40:52Z"
   }
  ]
 }
