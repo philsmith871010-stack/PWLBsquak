@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T17:35:51Z",
+ "generated_at": "2026-10-07T17:51:10Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0bac3ae37d14",
+   "ts": "2026-10-07T17:48:07Z",
+   "headline": "US Treasury Secretary Bessent calls high bond yields a global phenomenon and says rates will fall once the Iran conflict ends",
+   "detail": "The US Treasury Secretary said high bond yields are a global phenomenon and that bond yields and mortgage rates will come down once the Iran conflict ends, when he also expects the energy market to be well supplied. He also said core inflation is nearing the Fed's target.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b23c62907d31a65d",
+    "0830c784427f6559",
+    "fcfc5ffc46151ed6",
+    "d1a8fd448a48d3a7",
+    "bcd207980317d2f4",
+    "08409ebc1f2a7320"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxcivwxshc26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxcivwxshc26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxcix45rdz2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxcix45rdz2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxciyapqrh2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxciyapqrh2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxcix4not32f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxcix4not32f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxciwa2r6z2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxciwa2r6z2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxcixanylj2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxcixanylj2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3099b56561a8",
+   "created_at": "2026-10-07T17:51:10Z"
+  },
   {
    "id": "119ddb95d714",
    "ts": "2026-10-07T17:35:10Z",
@@ -6203,33 +6254,6 @@
    "model": "opus",
    "run_id": "3f95c4cc391a",
    "created_at": "2026-09-30T12:35:48Z"
-  },
-  {
-   "id": "0efc83c57adb",
-   "ts": "2026-09-30T12:15:39Z",
-   "headline": "US ADP private payrolls rise by 90,000 in September, above forecasts",
-   "detail": "The ADP employment change for September came in at 90,000. The posts give different figures for the forecast and the previous reading, but both put the result above consensus.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "64715a040e7d24c4",
-    "529c791133138053"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqd2yiac62z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqd2yiac62z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqd33m3us2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqd33m3us2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fa6b136c3606",
-   "created_at": "2026-09-30T12:15:58Z"
   }
  ]
 }
