@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T19:46:00Z",
+ "generated_at": "2026-10-07T20:11:01Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "387c62de88b3",
+   "ts": "2026-10-07T20:09:02Z",
+   "headline": "FT estimates the Iran war has cut UK public finances by nearly £12bn, roughly halving Chancellor Healey's fiscal headroom",
+   "detail": "FT estimates find that higher inflation and borrowing costs have probably cut the Chancellor's headroom by about half. The FT says this leaves him relying on tax rises and spending cuts at the Budget to help with living costs.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "d725d9fbac62d5bb",
+    "1447181446865d0a"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxcqrvnb5v2h",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mxcqrvnb5v2h"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxcqtqgaui2h",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mxcqtqgaui2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9be4029f1a84",
+   "created_at": "2026-10-07T20:11:01Z"
+  },
   {
    "id": "5a7ac1f4e256",
    "ts": "2026-10-07T19:45:25Z",
@@ -6221,27 +6248,6 @@
    "model": "opus",
    "run_id": "40debcc08e15",
    "created_at": "2026-09-30T13:25:54Z"
-  },
-  {
-   "id": "b2ed0497a655",
-   "ts": "2026-09-30T13:03:48Z",
-   "headline": "French 10-year yield spread over Germany widens 5bp to 124bp",
-   "detail": "The gap between French and German 10-year government bond yields widened by 5bp to 124bp on Wednesday afternoon.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e5ac3d4d77c09813"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqfr3t7jf2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqfr3t7jf2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2b86db4afc9e",
-   "created_at": "2026-09-30T13:05:51Z"
   }
  ]
 }
