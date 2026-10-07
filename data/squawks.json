@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T09:35:50Z",
+ "generated_at": "2026-10-07T10:40:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "44ed6ead0b70",
+   "ts": "2026-10-07T10:36:34Z",
+   "headline": "French 10-year government bond yield rises 15bp to 4.8974%",
+   "detail": "A market news feed reported the French 10-year yield up 15bp on the day at 4.8974% on Wednesday morning.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "51fbb3f421d6fd6a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbqsbaor72d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbqsbaor72d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f5b5cb619158",
+   "created_at": "2026-10-07T10:40:58Z"
+  },
   {
    "id": "9df94419af66",
    "ts": "2026-10-07T09:33:07Z",
@@ -6264,27 +6285,6 @@
      "author": "resolutionfoundation.org",
      "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mwpyybktuk2e",
      "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mwpyybktuk2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a93b05abfc2c",
-   "created_at": "2026-09-30T09:15:50Z"
-  },
-  {
-   "id": "f48e500bf16d",
-   "ts": "2026-09-30T09:11:10Z",
-   "headline": "Burnham says a major review of European policy will consider the UK rejoining the EU",
-   "detail": "According to the Financial Times, Andy Burnham said the review will look at the option of rejoining the EU, after saying in his Labour conference speech that Brexit had done more harm than good.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "59a641c169c8fa4c"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwpyr3ny6u24",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwpyr3ny6u24"
     }
    ],
    "model": "opus",
