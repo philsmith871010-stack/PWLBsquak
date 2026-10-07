@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T19:31:23Z",
+ "generated_at": "2026-10-07T19:46:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5a7ac1f4e256",
+   "ts": "2026-10-07T19:45:25Z",
+   "headline": "US Gulf of Mexico oil output of 511,619 b/d shut in, about 25% of the region's production",
+   "detail": "Figures attributed to the MMA show 511,619 barrels a day of US Gulf oil production shut in, equal to 25.08% of output. No market reaction was reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "9cd481d093147253"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxcphonflk2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxcphonflk2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6ab04c6ae06c",
+   "created_at": "2026-10-07T19:46:00Z"
+  },
   {
    "id": "da83a7a89e3f",
    "ts": "2026-10-07T19:26:24Z",
@@ -6216,33 +6237,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqfr3t7jf2m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqfr3t7jf2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2b86db4afc9e",
-   "created_at": "2026-09-30T13:05:51Z"
-  },
-  {
-   "id": "48d7e2e80daa",
-   "ts": "2026-09-30T13:02:45Z",
-   "headline": "Fed finalises stress test changes, saying they will not materially change aggregate bank capital requirements",
-   "detail": "The Federal Reserve says its changes should cut the year-on-year volatility of bank capital requirements by roughly 50%. Governor Barr voted against the final rule, saying it will weaken the stress test.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "73c4fd954ced718a",
-    "7038ef49b4cd7716"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqfp77oa72l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqfp77oa72l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqfoue6fe27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqfoue6fe27"
     }
    ],
    "model": "opus",
