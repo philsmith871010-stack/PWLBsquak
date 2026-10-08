@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T18:35:44Z",
+ "generated_at": "2026-10-08T18:50:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3e67a82ea6f2",
+   "ts": "2026-10-08T18:47:03Z",
+   "headline": "Brent crude futures settle 4.07% higher at $104.28 a barrel",
+   "detail": "Brent crude futures closed the session up $4.08 at $104.28 a barrel, a gain of 4.07% on the day.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "c8b4b9fb90bd72d8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxf4o7xgwr26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxf4o7xgwr26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4de2f7dfafc6",
+   "created_at": "2026-10-08T18:50:51Z"
+  },
   {
    "id": "7bac22c02477",
    "ts": "2026-10-08T18:31:48Z",
@@ -6029,27 +6050,6 @@
    "model": "opus",
    "run_id": "15e88be2df91",
    "created_at": "2026-10-01T15:41:03Z"
-  },
-  {
-   "id": "90cd04e58814",
-   "ts": "2026-10-01T15:16:25Z",
-   "headline": "US 2-year Treasury yield falls 6bp to 4.827%, briefly touching its lowest level in a week",
-   "detail": "The US 2-year Treasury yield was reported down 6.03bp at 4.827% after briefly reaching a one-week low.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0956c2a49ae07b22"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwt5n5eu3f24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwt5n5eu3f24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4df08088f310",
-   "created_at": "2026-10-01T15:21:03Z"
   }
  ]
 }
