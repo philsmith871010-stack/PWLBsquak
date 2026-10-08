@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T10:40:53Z",
+ "generated_at": "2026-10-08T10:55:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7bc5192061bd",
+   "ts": "2026-10-08T10:51:39Z",
+   "headline": "UK 20-year gilt yield reaches 6% for the first time since March 1998, up 7bp on the day",
+   "detail": "A market news account reported that the UK 20-year gilt yield hit 6%, its first time at that level since March 1998, up 7bp on the day. The move came as the global bond sell-off continued.",
+   "category": "global_rates",
+   "importance": 3,
+   "source_event_ids": [
+    "da79e387c6ff1870"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxec45bsma2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxec45bsma2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2de1eaa9e8fa",
+   "created_at": "2026-10-08T10:55:44Z"
+  },
   {
    "id": "50e403784abd",
    "ts": "2026-10-08T10:37:03Z",
@@ -5951,39 +5972,6 @@
    "model": "opus",
    "run_id": "4e22c0a382a4",
    "created_at": "2026-10-01T06:31:16Z"
-  },
-  {
-   "id": "855d29064017",
-   "ts": "2026-10-01T06:01:07Z",
-   "headline": "UK Nationwide house prices fall 0.2% m/m in September; annual growth slows to 0.8% from 1.6%",
-   "detail": "Nationwide reports September house prices fell 0.2% on the month, against a forecast of 0.0% and a 0.2% rise previously. The annual rate eased to 0.8% from 1.6%.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "7137511b0a3e7d85",
-    "66c4c88706665814",
-    "32601392fff6a0e2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mws6m75tdk2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mws6m75tdk2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mws6mdvkoe26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mws6mdvkoe26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mws6mhmip42d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mws6mhmip42d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4f22a6bacd41",
-   "created_at": "2026-10-01T06:01:29Z"
   }
  ]
 }
