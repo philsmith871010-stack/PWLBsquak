@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T10:35:45Z",
+ "generated_at": "2026-10-08T10:40:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "50e403784abd",
+   "ts": "2026-10-08T10:37:03Z",
+   "headline": "Brent crude extends its rise to 5% on the day and trades above $105 a barrel",
+   "detail": "Brent's gain widened to 5%, taking it above $105 a barrel. The blotter earlier reported it topping $101 after more attacks on tankers in the Strait of Hormuz.",
+   "category": "energy",
+   "importance": 3,
+   "source_event_ids": [
+    "dc051766aa14c0f9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxebc2e6vg26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxebc2e6vg26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8059fdbdd300",
+   "created_at": "2026-10-08T10:40:53Z"
+  },
   {
    "id": "87117931277a",
    "ts": "2026-10-08T10:33:23Z",
@@ -5963,57 +5984,6 @@
    "model": "opus",
    "run_id": "4f22a6bacd41",
    "created_at": "2026-10-01T06:01:29Z"
-  },
-  {
-   "id": "2d58dd4c6d75",
-   "ts": "2026-10-01T01:57:52Z",
-   "headline": "JGB yields rise across the curve: 10-year up 5bp to 3.110%, 30-year up 6bp to 4.200%",
-   "detail": "In Asian trading, Japan's 10-year government bond yield rose 5.0bp to 3.110% and the 20-year rose 4.5bp to 3.945%. The 30-year yield gained 6.0bp to 4.200%, and dollar/yen rose 0.5% to 158.19.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "996947a05fef9416",
-    "d6f66c1191454170",
-    "9ee42b586fda0b0c",
-    "b7972735817b2b6e",
-    "8fefa9b40a7e1329",
-    "18412b662fc1a56b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrqz7tekb2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrqz7tekb2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrqbeqswl27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrqbeqswl27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrqbh3by62l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrqbh3by62l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrraerhnf2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrraerhnf2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrrm6f2ta26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrrm6f2ta26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrrmyu7t52p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrrmyu7t52p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f8a7d6578052",
-   "created_at": "2026-10-01T05:15:56Z"
   }
  ]
 }
