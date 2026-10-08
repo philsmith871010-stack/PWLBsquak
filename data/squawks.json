@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T18:05:50Z",
+ "generated_at": "2026-10-08T18:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7bac22c02477",
+   "ts": "2026-10-08T18:31:48Z",
+   "headline": "WTI crude futures settle 3.64% higher at $91.49 a barrel",
+   "detail": "NYMEX November WTI crude futures settled up $3.21, or 3.64%, at $91.49 a barrel. November diesel futures settled at $4.8829 a gallon.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "604d7543e949962a",
+    "5ae49445d59f3888",
+    "af88a313740f6295"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxf3sxbc7q26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxf3sxbc7q26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxf3vi3iph2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxf3vi3iph2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxf3tsnrf52y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxf3tsnrf52y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bd822724d97a",
+   "created_at": "2026-10-08T18:35:44Z"
+  },
   {
    "id": "52fb4a014bbb",
    "ts": "2026-10-08T18:03:16Z",
@@ -6017,27 +6050,6 @@
    "model": "opus",
    "run_id": "4df08088f310",
    "created_at": "2026-10-01T15:21:03Z"
-  },
-  {
-   "id": "3854fa2a6399",
-   "ts": "2026-10-01T15:01:09Z",
-   "headline": "IMF says global bond markets are functioning in an orderly way",
-   "detail": "The IMF said global bond markets are operating in an orderly manner, at a time when US, French, Italian and UK yields have been rising.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4216159eeed22176"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwt4rtjhrw2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwt4rtjhrw2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7089b979e7ce",
-   "created_at": "2026-10-01T15:01:39Z"
   }
  ]
 }
