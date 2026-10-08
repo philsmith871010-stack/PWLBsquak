@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T17:05:39Z",
+ "generated_at": "2026-10-08T17:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "33887999f75a",
+   "ts": "2026-10-08T17:25:22Z",
+   "headline": "US Gulf of Mexico oil shut-ins rise to 1.3m b/d, or 63% of production, MMA data show",
+   "detail": "Figures attributed to MMA put shut-in US Gulf oil output at 1.3m b/d, or 63% of the region's production. An earlier figure put shut-ins at 511,619 b/d, about 25% of output.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "2ebc9eb8cfab243e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxey46elvi2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxey46elvi2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6f2d168057ca",
+   "created_at": "2026-10-08T17:25:42Z"
+  },
   {
    "id": "052f4f7819c4",
    "ts": "2026-10-08T17:03:32Z",
@@ -5993,33 +6014,6 @@
    "model": "opus",
    "run_id": "4c86ff162952",
    "created_at": "2026-10-01T14:01:48Z"
-  },
-  {
-   "id": "37cd06fdef16",
-   "ts": "2026-10-01T13:45:54Z",
-   "headline": "US September final S&P Global manufacturing PMI drops to 55.9, short of the 57.0 forecast and down from 57.0",
-   "detail": "S&P Global's final US manufacturing PMI for September came in at 55.9, compared with a forecast of 57.0 and 57.0 the previous month.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "3fc007c2d99a3962",
-    "2404bb7a5e0b322e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsylbwxoi27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsylbwxoi27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsylfnils2x",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsylfnils2x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "20c6c914bb2d",
-   "created_at": "2026-10-01T13:46:06Z"
   }
  ]
 }
