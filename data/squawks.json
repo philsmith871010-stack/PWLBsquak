@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T13:01:52Z",
+ "generated_at": "2026-10-08T13:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5753b1d7e0f8",
+   "ts": "2026-10-08T13:41:02Z",
+   "headline": "Riksbank Governor Thedéen says there are grounds for an interest rate increase",
+   "detail": "Riksbank Governor Erik Thedéen said there are grounds for raising interest rates, according to a newswire headline. No further detail was given.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "34bd09c441d2a065"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxell276v32s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxell276v32s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "db9e6068e451",
+   "created_at": "2026-10-08T13:45:51Z"
+  },
   {
    "id": "5ad2d8204c1b",
    "ts": "2026-10-08T13:01:22Z",
@@ -6053,51 +6074,6 @@
    "model": "opus",
    "run_id": "e04f424393b9",
    "created_at": "2026-10-01T10:31:11Z"
-  },
-  {
-   "id": "66365415dd09",
-   "ts": "2026-10-01T09:17:51Z",
-   "headline": "UK announces new sanctions on vessels suspected of carrying Russian LNG",
-   "detail": "The UK government's latest Russia sanctions package targets shadow fleet ships believed to be transporting Russian liquefied natural gas. The same package also covers Russian military and intelligence officers accused of abusing civilians in Ukraine.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "03feb2917b7e40c8",
-    "8a12f79f27d25d55",
-    "800afc8fcff23e00",
-    "56f3f449498c5386",
-    "ff0a3a6f9e7de385"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsjlyh7to22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsjlyh7to22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsjm3otih27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsjm3otih27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsjpgk3fs2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsjpgk3fs2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsjmx5uib2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsjmx5uib2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsjpcv6rq2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsjpcv6rq2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "37940f6e034d",
-   "created_at": "2026-10-01T09:20:57Z"
   }
  ]
 }
