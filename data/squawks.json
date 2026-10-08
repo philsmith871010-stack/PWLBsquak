@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T12:50:51Z",
+ "generated_at": "2026-10-08T13:01:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5ad2d8204c1b",
+   "ts": "2026-10-08T13:01:22Z",
+   "headline": "WTO raises 2026 global goods trade forecast to 3.9% from 1.9% but cuts its services trade outlook",
+   "detail": "The World Trade Organization now forecasts global goods trade growth of 3.9% in 2026 and 4.1% in 2027, up from a 1.9% estimate for 2026 in March, and global economic growth of 2.6% in 2026. It lowered its 2026 services trade forecast, citing disruption to transport and travel from the Middle East conflict.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "05a9e1bdf294a4a3",
+    "17be8306bddb3fe0",
+    "a4070bce9c07e0be",
+    "744898de5b00dd19"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeje3rltd2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeje3rltd2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxejemy6vi2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxejemy6vi2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxejeh5sk32z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxejeh5sk32z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxejdvh5kj2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxejdvh5kj2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "33deac235b6d",
+   "created_at": "2026-10-08T13:01:52Z"
+  },
   {
    "id": "142d6d18f18a",
    "ts": "2026-10-08T12:46:03Z",
@@ -6059,45 +6098,6 @@
    "model": "opus",
    "run_id": "37940f6e034d",
    "created_at": "2026-10-01T09:20:57Z"
-  },
-  {
-   "id": "2731e7abb679",
-   "ts": "2026-10-01T08:58:04Z",
-   "headline": "French 10-year OAT auction yields 4.93%, up from 4.23%, with bid-to-cover dropping to 2.0 from 2.28",
-   "detail": "At the same French government bond sale, the 20-year OAT priced at 5.4%, up from 4.74% at the previous auction, and its bid-to-cover fell to 2.43 from 3.07.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "b01ffcd386340084",
-    "32c33b8e4aa0cbc0",
-    "77efe6ffe987dca0",
-    "5b9d2a9d12ed4b4d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsiimad4c2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsiimad4c2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsiip2vev2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsiip2vev2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsiis4hfq2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsiis4hfq2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsiizg6ow2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsiizg6ow2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "82179020f2b2",
-   "created_at": "2026-10-01T09:01:17Z"
   }
  ]
 }
