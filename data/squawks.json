@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T14:25:44Z",
+ "generated_at": "2026-10-08T15:20:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2cac30af74ef",
+   "ts": "2026-10-08T15:19:54Z",
+   "headline": "US publishes its diesel executive order in the Federal Register",
+   "detail": "The US administration has published the diesel executive order in the Federal Register. No further details of what the order contains were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "54ffa34765ce6ddf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxer3szdlm2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxer3szdlm2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0b0921d4e3ff",
+   "created_at": "2026-10-08T15:20:55Z"
+  },
   {
    "id": "ee6f504c8d4d",
    "ts": "2026-10-08T14:25:37Z",
@@ -5969,45 +5990,6 @@
    "model": "opus",
    "run_id": "6b0cfda93454",
    "created_at": "2026-10-01T12:05:52Z"
-  },
-  {
-   "id": "3b4627df7e86",
-   "ts": "2026-10-01T12:01:25Z",
-   "headline": "French budget watchdog HCFP calls 2027 growth forecast optimistic but finds 2026 deficit target plausible",
-   "detail": "France's High Council of Public Finances (HCFP) says the 2026 deficit target is plausible but carries risks. It describes the 2027 budget targets as a significant adjustment and says the deficit goal is a minimum given the country's alarming public finances.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "eccd57e7c0dc90f2",
-    "50c604ae0bb3232d",
-    "945e247445fa881a",
-    "91e0a19db647aa63"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwssqhdtlv2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwssqhdtlv2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwssqn4tj424",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwssqn4tj424"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwssqnnolr2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwssqnnolr2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwssrh2ghc2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwssrh2ghc2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b248a2957361",
-   "created_at": "2026-10-01T12:02:04Z"
   }
  ]
 }
