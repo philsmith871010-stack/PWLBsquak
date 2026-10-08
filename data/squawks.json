@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T06:55:49Z",
+ "generated_at": "2026-10-08T07:31:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b0834b569614",
+   "ts": "2026-10-08T07:29:29Z",
+   "headline": "ECB's Wunsch says the case for raising the minimum reserve requirement is unclear and unconvincing",
+   "detail": "ECB Governing Council member Pierre Wunsch questioned the reasoning behind raising banks' minimum reserve requirement. No market reaction was reported.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "37aa24acb80bd16e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxdwsncla42d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxdwsncla42d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ac560742f5e9",
+   "created_at": "2026-10-08T07:31:17Z"
+  },
   {
    "id": "2b446297d422",
    "ts": "2026-10-08T06:52:24Z",
@@ -6203,27 +6224,6 @@
    "model": "opus",
    "run_id": "3bac6f20a115",
    "created_at": "2026-09-30T17:35:51Z"
-  },
-  {
-   "id": "95d79f0f6350",
-   "ts": "2026-09-30T16:33:47Z",
-   "headline": "US 10-year Treasury yield climbs to 5.29%, a fresh high since 2007",
-   "detail": "A market commentator reported the US 10-year Treasury yield at 5.29%, its highest level since 2007. It comes after the 30-year yield rose above 5.61%, its highest since 2002, earlier in the session.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "b31d0eeaabf1bfc2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqrilehbn22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqrilehbn22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "58bf12617c71",
-   "created_at": "2026-09-30T16:35:48Z"
   }
  ]
 }
