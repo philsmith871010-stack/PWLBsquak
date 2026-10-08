@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-07T20:40:56Z",
+ "generated_at": "2026-10-08T05:01:33Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5187c32900ea",
+   "ts": "2026-10-08T00:40:15Z",
+   "headline": "KPMG/REC survey shows UK permanent staff placements rising at their fastest pace in four years in September",
+   "detail": "The KPMG/REC survey of recruitment firms, published on Thursday, shows more signs of the UK labour market recovering from its long slowdown in September.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "6784a048dc6cc48e"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxd7wv6ai22q",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxd7wv6ai22q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d0065b7e662d",
+   "created_at": "2026-10-08T05:01:33Z"
+  },
+  {
+   "id": "7a8f8f248ecb",
+   "ts": "2026-10-07T23:03:33Z",
+   "headline": "UK RICS house price balance falls to -32% in September, weaker than the -30% expected and down from -28%",
+   "detail": "The Royal Institution of Chartered Surveyors reports that downward pressure on house prices increased in September for the first time in four months. It said the prospect of higher interest rates weighed on the housing market.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "d93747ae3d41919b",
+    "d30bc2c45b2135c4",
+    "52b6cd3ca7149d92"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxd2jxpc622v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxd2jxpc622v"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxd6tbl2742x",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxd6tbl2742x"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxd33xxh2z2h",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mxd33xxh2z2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d0065b7e662d",
+   "created_at": "2026-10-08T05:01:33Z"
+  },
   {
    "id": "59e0760ed23e",
    "ts": "2026-10-07T20:37:54Z",
@@ -6182,66 +6236,6 @@
    "model": "opus",
    "run_id": "ceb4e89c34ca",
    "created_at": "2026-09-30T15:50:58Z"
-  },
-  {
-   "id": "dd7ba2ba681f",
-   "ts": "2026-09-30T14:39:40Z",
-   "headline": "US diesel futures rise 4.5% and gasoline futures 2.9% after weekly EIA storage data",
-   "detail": "US diesel futures added to earlier gains after the Energy Information Administration's weekly storage report. They were up 4.5%, while gasoline futures held a 2.9% rise.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "e8226be9eb831fcf",
-    "ccf06a30ce61e957"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwql4jkzas2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwql4jkzas2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwql4mws662m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwql4mws662m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9098fbee2c2e",
-   "created_at": "2026-09-30T14:40:58Z"
-  },
-  {
-   "id": "5a49d2cfc323",
-   "ts": "2026-09-30T13:46:05Z",
-   "headline": "US September Chicago PMI jumps to 58.8 from 47.1, well above 51.0 forecast",
-   "detail": "The MNI Chicago business barometer for September came in at 58.8, against a consensus of 51.0 and a previous reading of 47.1.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "33692387b7f8a112",
-    "f1cb742fd00233d8",
-    "0aac8fcac65d4880"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqi4p5gfw2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqi4p5gfw2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqi4xbh4w27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqi4xbh4w27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqi5tykmp2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqi5tykmp2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7b3f3d6e379e",
-   "created_at": "2026-09-30T13:51:01Z"
   }
  ]
 }
