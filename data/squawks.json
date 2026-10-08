@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T11:20:48Z",
+ "generated_at": "2026-10-08T11:25:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2485adf9575a",
+   "ts": "2026-10-08T11:25:13Z",
+   "headline": "BoE survey shows UK lenders cut mortgage availability for the first time in three years",
+   "detail": "A Bank of England survey released on Thursday shows that in the three months to the end of August, UK lenders reduced the supply of mortgages and other secured lending to households. It is the first such reduction in three years.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "c1f2d24a5e461197"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxedy6ayi52j",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxedy6ayi52j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d2acaad7645a",
+   "created_at": "2026-10-08T11:25:50Z"
+  },
+  {
+   "id": "6625f0b1db79",
+   "ts": "2026-10-08T11:24:07Z",
+   "headline": "UK announces sanctions on Russian oil companies and tankers",
+   "detail": "The UK has imposed new sanctions on Russian oil companies and tankers. The report gave no further details.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1718ba511d3ceca8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxedw7rtfk2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxedw7rtfk2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d2acaad7645a",
+   "created_at": "2026-10-08T11:25:50Z"
+  },
   {
    "id": "3f939e84f5c1",
    "ts": "2026-10-08T11:16:49Z",
@@ -5936,48 +5978,6 @@
    "model": "opus",
    "run_id": "09041e5ae306",
    "created_at": "2026-10-01T07:45:53Z"
-  },
-  {
-   "id": "4abd6cceefb3",
-   "ts": "2026-10-01T07:35:03Z",
-   "headline": "Chinese refiners suspend October fuel exports beyond Hong Kong and Macau until further notice, sources say",
-   "detail": "Reuters, citing four people briefed on the matter, reports that Chinese refiners have stopped exporting oil products to destinations other than Hong Kong and Macau until Beijing says otherwise. One refiner has cancelled cargoes.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "7314cf19b2858579"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwsdu5fweq2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwsdu5fweq2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d27d615f748a",
-   "created_at": "2026-10-01T07:35:45Z"
-  },
-  {
-   "id": "51f7e95278b1",
-   "ts": "2026-10-01T07:30:30Z",
-   "headline": "Japan PM Takaichi pledges to control total annual JGB issuance across initial and supplementary budgets",
-   "detail": "Japan's Prime Minister said the government will manage total annual government bond issuance, counting both the initial and the supplementary budgets. Earlier in the session, 10-year and 30-year JGB yields had risen to 3.110% and 4.200%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "63696026fb939954"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsdlzb54l26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsdlzb54l26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "495a7d6f9203",
-   "created_at": "2026-10-01T07:31:12Z"
   }
  ]
 }
