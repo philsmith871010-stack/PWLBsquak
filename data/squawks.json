@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T11:25:50Z",
+ "generated_at": "2026-10-08T11:31:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6e89debeea16",
+   "ts": "2026-10-08T11:26:41Z",
+   "headline": "French 10-year yield rises above last week's high as other high-debt European bond yields climb with it",
+   "detail": "An economist reports that France's 10-year government bond yield has moved past the previous high it set a week ago, with yields across other high-debt European countries also rising. No new yield level was given.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "8554917c101d2433"
+   ],
+   "sources": [
+    {
+     "author": "robin-j-brooks.bsky.social",
+     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3mxee2s6zek2m",
+     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3mxee2s6zek2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9726f1c18ea3",
+   "created_at": "2026-10-08T11:31:08Z"
+  },
   {
    "id": "2485adf9575a",
    "ts": "2026-10-08T11:25:13Z",
@@ -5957,27 +5978,6 @@
    "model": "opus",
    "run_id": "d83d4906c0b5",
    "created_at": "2026-10-01T07:51:35Z"
-  },
-  {
-   "id": "36baed7318f4",
-   "ts": "2026-10-01T07:45:04Z",
-   "headline": "US Treasuries end their worst quarter since 1994 as yields hit two-decade highs for a seventh straight session",
-   "detail": "Reuters reports that US yields reached two-decade highs for a seventh consecutive session on Thursday. A fall in oil prices later steadied bond markets.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "bc77255102c1261a"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwseg33z562r",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwseg33z562r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "09041e5ae306",
-   "created_at": "2026-10-01T07:45:53Z"
   }
  ]
 }
