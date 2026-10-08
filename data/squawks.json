@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T10:55:44Z",
+ "generated_at": "2026-10-08T11:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9e9328f43ca7",
+   "ts": "2026-10-08T11:05:12Z",
+   "headline": "BoE's Greene says she is worried by the UK pay outlook, with employers on track for pay rises of about 3.5% next year",
+   "detail": "Bank of England MPC member Megan Greene said on Thursday that pay rises of around 3.5% next year would be larger than is helpful for bringing inflation back to the 2% target, Reuters reports.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "9be0afe0cfca32b0"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxecuexmq32e",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxecuexmq32e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8b171e93a371",
+   "created_at": "2026-10-08T11:05:42Z"
+  },
   {
    "id": "7bc5192061bd",
    "ts": "2026-10-08T10:51:39Z",
@@ -5951,27 +5972,6 @@
    "model": "opus",
    "run_id": "495a7d6f9203",
    "created_at": "2026-10-01T07:31:12Z"
-  },
-  {
-   "id": "35d82b42695c",
-   "ts": "2026-10-01T06:31:07Z",
-   "headline": "Swiss September CPI rises to 1.0% y/y from 0.8%, matching forecast",
-   "detail": "Swiss annual consumer price inflation was 1.0% in September, in line with the 1.0% forecast and up from 0.8% the previous month.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a1b9a4acde9bd70f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsabtdwam2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsabtdwam2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4e22c0a382a4",
-   "created_at": "2026-10-01T06:31:16Z"
   }
  ]
 }
