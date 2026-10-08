@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T18:50:51Z",
+ "generated_at": "2026-10-08T20:15:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c9b3049f2775",
+   "ts": "2026-10-08T20:15:15Z",
+   "headline": "European Commission rejects Italian and Greek requests for more fiscal rules flexibility to cover energy-driven inflation",
+   "detail": "Reuters reports that the European Commission on Thursday turned down requests from Italy and Greece for extra fiscal leeway for euro zone governments over energy-driven inflation and support measures. The Commission said the rules could not be changed all the time.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1e96dd805f1e210c"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxfblwmijc2q",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxfblwmijc2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c82cfa3b4f8d",
+   "created_at": "2026-10-08T20:15:49Z"
+  },
   {
    "id": "3e67a82ea6f2",
    "ts": "2026-10-08T18:47:03Z",
@@ -6023,33 +6044,6 @@
    "model": "opus",
    "run_id": "999ef726d836",
    "created_at": "2026-10-01T15:45:56Z"
-  },
-  {
-   "id": "60f3b2d52fa3",
-   "ts": "2026-10-01T15:38:09Z",
-   "headline": "Money markets scale back ECB rate-rise bets and no longer fully price another hike by year-end",
-   "detail": "Traders reduced their bets on ECB tightening on 1 October. Money markets no longer fully price three more rate rises, or one more rise by the end of the year.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "9e7dff9873ea00f7",
-    "18d9ca7afa8c932e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwt6tyub7q24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwt6tyub7q24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwt6yii3je2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwt6yii3je2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "15e88be2df91",
-   "created_at": "2026-10-01T15:41:03Z"
   }
  ]
 }
