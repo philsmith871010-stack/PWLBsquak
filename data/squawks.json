@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T12:45:54Z",
+ "generated_at": "2026-10-08T12:50:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "142d6d18f18a",
+   "ts": "2026-10-08T12:46:03Z",
+   "headline": "BoE's Bailey says fiscal policy must be credible and fiscal commitments matter more than ever after negative shocks",
+   "detail": "The Bank of England Governor said fiscal policy must be credible and aimed at stability, and that fiscal commitments are needed most when negative shocks hit. He also said the Bank cannot be at all relaxed about large and concentrated market positions or the risk of wider disruption.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "102c03d0a14b9b2c",
+    "67494140a3ce1d00",
+    "c8d23c98f1182943",
+    "71df932907485cc2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeiipdqvf24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeiipdqvf24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeiirki552z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeiirki552z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeilmilog2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeilmilog2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeimmgtvn2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeimmgtvn2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7ff907c694cf",
+   "created_at": "2026-10-08T12:50:51Z"
+  },
   {
    "id": "14c466794b31",
    "ts": "2026-10-08T12:42:59Z",
@@ -6059,27 +6098,6 @@
    "model": "opus",
    "run_id": "82179020f2b2",
    "created_at": "2026-10-01T09:01:17Z"
-  },
-  {
-   "id": "e77548a72635",
-   "ts": "2026-10-01T08:31:05Z",
-   "headline": "UK September final manufacturing PMI comes in at 51.9, below the 52.0 forecast and down from 52.0",
-   "detail": "The final UK manufacturing PMI for September was 51.9. The forecast was 52.0 and the previous reading was 52.0.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "0f6483223e1dcfd8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsgye2kdk2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsgye2kdk2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1c98f95a3a77",
-   "created_at": "2026-10-01T08:31:10Z"
   }
  ]
 }
