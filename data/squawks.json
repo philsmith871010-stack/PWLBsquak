@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T05:11:01Z",
+ "generated_at": "2026-10-08T06:01:25Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "694f9225785c",
+   "ts": "2026-10-08T06:00:52Z",
+   "headline": "German trade surplus narrows to 19.5bn, above 19bn forecast; exports fall 0.8% m/m against a forecast 0.9% rise",
+   "detail": "Germany's seasonally adjusted trade balance came in at 19.5bn, compared with a forecast of 19bn and 21.3bn previously. Exports fell 0.8% m/m, the same as the previous month. Imports rose 0.9%, short of the 2.8% forecast, after a 5.7% fall previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "832ddbad8a2c7a61",
+    "a20a30dea967b69a",
+    "a7baabebfdb0735c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxdru6gvzl2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxdru6gvzl2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxdruc6pz42y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxdruc6pz42y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxdrufufnx2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxdrufufnx2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "10f574135a26",
+   "created_at": "2026-10-08T06:01:25Z"
+  },
   {
    "id": "245a38560181",
    "ts": "2026-10-08T05:06:37Z",
@@ -6179,39 +6212,6 @@
    "model": "opus",
    "run_id": "3e2e94913aa6",
    "created_at": "2026-09-30T16:20:59Z"
-  },
-  {
-   "id": "d23e9aa02846",
-   "ts": "2026-09-30T16:01:23Z",
-   "headline": "PM Burnham says fuel duty is under review ahead of the Budget and rules out unfunded plans",
-   "detail": "The Prime Minister said everything is being looked at before the Budget, including fuel duty, and that the Budget cannot contain unfunded plans. He also said the government will do what it can despite difficult public finances.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "43d1a884dad17c60",
-    "208bcaec3af24e07",
-    "1170af559591ad75"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqpon632k2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqpon632k2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqpqdqrw727",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqpqdqrw727"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqpqnzdgm2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqpqnzdgm2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "94786b54d6dd",
-   "created_at": "2026-09-30T16:05:50Z"
   }
  ]
 }
