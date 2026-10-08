@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T09:45:55Z",
+ "generated_at": "2026-10-08T10:10:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "22b6dc8b2442",
+   "ts": "2026-10-08T10:08:04Z",
+   "headline": "ECB's Lane expects food prices to face upward pressure next year and says central banks should be believed on inflation returning to target",
+   "detail": "ECB chief economist Philip Lane said the ECB expects upward pressure on food prices over the next year. He also said central banks should be believed when they say inflation will return to target.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e11ac2fe59cdd9d7",
+    "9747e7cc98f76449"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxe7o7q5mz2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxe7o7q5mz2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxe7lmr2qj2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxe7lmr2qj2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "539d73b9b46c",
+   "created_at": "2026-10-08T10:10:57Z"
+  },
   {
    "id": "aa906d0f7295",
    "ts": "2026-10-08T09:43:46Z",
@@ -6227,57 +6254,6 @@
    "model": "opus",
    "run_id": "772bcf8f4d5a",
    "created_at": "2026-10-01T05:05:44Z"
-  },
-  {
-   "id": "85b24fa56cde",
-   "ts": "2026-09-30T23:50:49Z",
-   "headline": "BoJ Tankan: large manufacturers index rises to 24, short of 25 forecast; large non-manufacturers falls to 35",
-   "detail": "The Bank of Japan's September Tankan put the large manufacturers index at 24, up from 22 but below the 25 forecast. The large non-manufacturers index fell to 35 from 37 against a 36 forecast, and firms expect consumer prices to rise 2.6% over a year, down from 2.7% previously.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "ef326b91d54ed2fb",
-    "b5ece329ae1fe49d",
-    "d3cf9c5caccb45ab",
-    "63b5b219a00703f2",
-    "22e483f262e9401c",
-    "73d3b434beeb028e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrjvzz6mv2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrjvzz6mv2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrjvy7fuf26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrjvy7fuf26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrjxcjtbr27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrjxcjtbr27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrjwyqxtt2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrjwyqxtt2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrjx44s232f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrjx44s232f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrjx7d5nv2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrjx7d5nv2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f86226d5aa1c",
-   "created_at": "2026-10-01T05:01:24Z"
   }
  ]
 }
