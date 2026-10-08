@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T08:35:52Z",
+ "generated_at": "2026-10-08T09:40:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0c7a47598334",
+   "ts": "2026-10-08T09:38:50Z",
+   "headline": "BoE's Pill calls current price pressures concerning and says they must be tackled",
+   "detail": "Bank of England Chief Economist Huw Pill said current price pressures are a concern and need to be addressed, according to a market newswire headline.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "4023682d8a7420cb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxe5zwthay2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxe5zwthay2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "64621f875fa7",
+   "created_at": "2026-10-08T09:40:53Z"
+  },
   {
    "id": "03fc485760b8",
    "ts": "2026-10-08T08:31:34Z",
@@ -6252,51 +6273,6 @@
      "author": "semafor.com",
      "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mwrh7b2nvv2s",
      "url": "https://bsky.app/profile/semafor.com/post/3mwrh7b2nvv2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f86226d5aa1c",
-   "created_at": "2026-10-01T05:01:24Z"
-  },
-  {
-   "id": "a2146b364f6d",
-   "ts": "2026-09-30T22:50:42Z",
-   "headline": "Fed's Kashkari says inflation must return to 2% after a long overshoot and warns supply shocks could lift expectations",
-   "detail": "Minneapolis Fed President Kashkari said the Fed must bring inflation back to 2% given the extended period above target, and that rolling supply shocks risk raising inflation expectations. He also described the rise in bond yields as a global trend.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c769097486ba32dc",
-    "936f95b1a85f7158",
-    "a4c4108b6d66eb08",
-    "9b38e08e338cdfd1",
-    "75be76a4e56e407b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrgkk5g6i2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrgkk5g6i2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrfg2nyip2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrfg2nyip2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrhfu3u2627",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrhfu3u2627"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrfdvmfz32q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrfdvmfz32q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrfewvs2d27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrfewvs2d27"
     }
    ],
    "model": "opus",
