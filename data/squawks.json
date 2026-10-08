@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T12:31:08Z",
+ "generated_at": "2026-10-08T12:35:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dc26ec26d2f5",
+   "ts": "2026-10-08T12:31:53Z",
+   "headline": "BoE's Bailey sees subdued evidence so far of energy costs feeding wider inflation, but says risks grow the longer prices stay high",
+   "detail": "Bank of England Governor Andrew Bailey said there was currently little evidence of higher energy costs passing through into broader inflation, but that risks remain. He added that inflation risks increase the longer high energy prices persist.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "d98b9fa90fb1c69f",
+    "76f63055f577c14d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxehpfaijc2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxehpfaijc2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxehvyyrjd2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxehvyyrjd2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5106c33d06bf",
+   "created_at": "2026-10-08T12:35:51Z"
+  },
   {
    "id": "cf146d7a7954",
    "ts": "2026-10-08T12:30:40Z",
@@ -6030,27 +6057,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsgdwr5jh27",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsgdwr5jh27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "754714570bfb",
-   "created_at": "2026-10-01T08:21:02Z"
-  },
-  {
-   "id": "8c8fcf30a290",
-   "ts": "2026-10-01T08:16:51Z",
-   "headline": "UK 30-year gilt yield rises above 6%",
-   "detail": "A market commentator reported shortly after 08:15 UK time that the 30-year gilt yield had moved above 6%. The FTSE 100 was reported down 2% at about the same time.",
-   "category": "global_rates",
-   "importance": 3,
-   "source_event_ids": [
-    "9d37b56ff6e5932e"
-   ],
-   "sources": [
-    {
-     "author": "chriswhittall.bsky.social",
-     "uri": "at://did:plc:mw33frnll5jjux3vvkfyyrdt/app.bsky.feed.post/3mwsg6vfkuc24",
-     "url": "https://bsky.app/profile/chriswhittall.bsky.social/post/3mwsg6vfkuc24"
     }
    ],
    "model": "opus",
