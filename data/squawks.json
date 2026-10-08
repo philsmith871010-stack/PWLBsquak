@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T16:20:56Z",
+ "generated_at": "2026-10-08T16:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4f171060bcba",
+   "ts": "2026-10-08T16:38:42Z",
+   "headline": "ECB's Lagarde says the ECB has tools to counter unwarranted market dynamics and is paying attention to markets",
+   "detail": "ECB President Lagarde made the remarks to Euro Finance Chief. She also said she sees no sign that price rises are broadening.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "f6b93632ab085ca5",
+    "5ef2fd364a48cba9",
+    "9dafcfa8cd3c95b0",
+    "06355bdfc49e7700",
+    "5c8ddfe386f29150",
+    "ff32ac3b6f803578"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxevipiutx2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxevipiutx2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxevk42kkc24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxevk42kkc24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxevhktmnz2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxevhktmnz2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxevil5sfz2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxevil5sfz2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxevgpiodm2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxevgpiodm2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxevmctzhb26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxevmctzhb26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b6dff89d801a",
+   "created_at": "2026-10-08T16:40:50Z"
+  },
   {
    "id": "50e5060c0ff5",
    "ts": "2026-10-08T16:18:50Z",
@@ -5945,39 +5996,6 @@
    "model": "opus",
    "run_id": "01e4b3c46d09",
    "created_at": "2026-10-01T13:11:00Z"
-  },
-  {
-   "id": "e95ff369e16c",
-   "ts": "2026-10-01T12:30:49Z",
-   "headline": "US initial jobless claims come in at 197,000 in week to 26 September, below the 200,000 forecast",
-   "detail": "US initial claims slipped by 1,000 from a prior week revised up to 198,000. Continuing claims for the week to 19 September were 1.701m, against a forecast of 1.725m.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "1d0d758c6f21b291",
-    "ae24a8c26abb10ff",
-    "580334bb8d395b33"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsuezq6e22y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsuezq6e22y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsufbnyf42x",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsufbnyf42x"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsufjgqdu2x",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsufjgqdu2x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1658e0666362",
-   "created_at": "2026-10-01T12:31:14Z"
   }
  ]
 }
