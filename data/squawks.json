@@ -1,8 +1,71 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T11:31:08Z",
+ "generated_at": "2026-10-08T11:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "01b4622003c9",
+   "ts": "2026-10-08T11:31:46Z",
+   "headline": "ECB accounts say a 2.50% deposit rate is still within staff estimates of neutral and warn against guidance on the rate path",
+   "detail": "The ECB's account of its latest policy meeting says officials thought it particularly important not to give guidance on future rates, wanted the policy response to stay proportionate and stressed continued vigilance. The account also says risks did not all point the same way and that monetary policy transmission has been smooth.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "7bfcdf6c4165130c",
+    "0d0a72eeaaff2d67",
+    "1ba8293fe2b55973",
+    "5a516a1f777b057d",
+    "3e014bc0ef10d8a8",
+    "8d7c3739d870c0a5",
+    "64568e87a149c993",
+    "1fd7eb599a8bb96e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeeduydgi2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeeduydgi2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeeeulrnb2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeeeulrnb2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeeev7lot2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeeev7lot2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeefmnokt24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeefmnokt24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeefm56qr2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeefm56qr2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeefq6n642r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeefq6n642r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeegw2imr2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeegw2imr2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeeizdjil26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeeizdjil26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "630cacbfd845",
+   "created_at": "2026-10-08T11:35:41Z"
+  },
   {
    "id": "6e89debeea16",
    "ts": "2026-10-08T11:26:41Z",
@@ -5951,33 +6014,6 @@
    "model": "opus",
    "run_id": "abd996ad615d",
    "created_at": "2026-10-01T08:01:21Z"
-  },
-  {
-   "id": "472eea81c057",
-   "ts": "2026-10-01T07:45:52Z",
-   "headline": "US reportedly presses France and Germany to release emergency diesel stocks, raising the prospect of a US diesel export ban",
-   "detail": "Three sources say the US has told France and Germany to release emergency diesel reserves or face a possible US ban on diesel exports. One source says the US wants the EU to release 120 million barrels of diesel over the next six months.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "6950790f893d8b4c",
-    "3924d1afb1ab59d9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsehj7pev2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsehj7pev2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwseoiv3zm2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwseoiv3zm2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d83d4906c0b5",
-   "created_at": "2026-10-01T07:51:35Z"
   }
  ]
 }
