@@ -1,8 +1,80 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T05:01:33Z",
+ "generated_at": "2026-10-08T05:11:01Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "245a38560181",
+   "ts": "2026-10-08T05:06:37Z",
+   "headline": "US oil futures rise more than 2% to $90.07 a barrel on storm and shipping supply risks",
+   "detail": "US crude futures gained more than 2% to $90.07 a barrel in early trading on worries about the storm and shipping supply. The US National Hurricane Center had earlier said Isaias had strengthened into a hurricane.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "2209a6e630456252",
+    "a97369c242e17492"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxdot6ugeo2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxdot6ugeo2r"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxdloc2gyj2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxdloc2gyj2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4c7b58024ce0",
+   "created_at": "2026-10-08T05:11:01Z"
+  },
+  {
+   "id": "a24ed23ab7c1",
+   "ts": "2026-10-08T05:05:25Z",
+   "headline": "BoJ regional report finds firms passing on higher costs and some raising prices more often",
+   "detail": "In its regional economic report, the Bank of Japan said firms in many regions are passing on higher costs from the Middle East conflict, the weak yen and labour, and many are keeping wage offers high. It also said strong global AI-related demand is lifting output.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a363251700f40efe",
+    "73e8a7c54383ebd0",
+    "af542aeb1b6928d5",
+    "a8a90c8d93e99cf4",
+    "dd40999e74ea3a93"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxdoqzwsuk2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxdoqzwsuk2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxdorvalpv2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxdorvalpv2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxdos26wjl2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxdos26wjl2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxdorxszqj26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxdorxszqj26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxdoqpojd32d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxdoqpojd32d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4c7b58024ce0",
+   "created_at": "2026-10-08T05:11:01Z"
+  },
   {
    "id": "5187c32900ea",
    "ts": "2026-10-08T00:40:15Z",
@@ -6140,102 +6212,6 @@
    "model": "opus",
    "run_id": "94786b54d6dd",
    "created_at": "2026-09-30T16:05:50Z"
-  },
-  {
-   "id": "d3ee03c4aeeb",
-   "ts": "2026-09-30T15:48:38Z",
-   "headline": "ECB's Lagarde calls France's 120%-of-GDP debt serious and says it needs a credible budget path",
-   "detail": "In an interview with the newspaper La Croix, ECB President Lagarde said France's debt is serious at 120% of GDP and has no path to coming down, and that the country needs a credible budget trajectory and reforms to restore confidence. She also said the European financial system is more solid now than it was in the 2008 and 2011 crises.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "e6f53f5e7c250270",
-    "c39cbc95f8aa56f6",
-    "008a0ca658f9ad56",
-    "2f3479edcef17689",
-    "81f17e8b1bbb6ba8",
-    "1a1acb032436b170"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqoxtgdh42f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqoxtgdh42f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqoxvs7pk2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqoxvs7pk2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqoyolqre2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqoyolqre2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqoyrjf3r2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqoyrjf3r2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqozzk4b42m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqozzk4b42m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqp24l7zq2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqp24l7zq2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ceb4e89c34ca",
-   "created_at": "2026-09-30T15:50:58Z"
-  },
-  {
-   "id": "5ac966c1143f",
-   "ts": "2026-09-30T15:46:12Z",
-   "headline": "ECB's Schnabel says strong credit growth suggests financial conditions are not yet restrictive",
-   "detail": "In a speech, ECB Executive Board member Schnabel said high costs reach consumers faster when the economy is resilient, and that robust credit dynamics suggest financial conditions are not yet restrictive. She added that the economy might respond more than assumed to the recent rise in global yields, which would dampen price pressures, and that inflation can be brought back to target more gradually if expectations stay anchored.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "abcc933834689bfe",
-    "347403cb96d76525",
-    "a645a36f0f10e0b6",
-    "ad6b7d537a846753",
-    "71bb51eec645215a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqote34gm2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqote34gm2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqotieqbo2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqotieqbo2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqouf5xit2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqouf5xit2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqouiiaul2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqouiiaul2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwqowgspvs27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwqowgspvs27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ceb4e89c34ca",
-   "created_at": "2026-09-30T15:50:58Z"
   }
  ]
 }
