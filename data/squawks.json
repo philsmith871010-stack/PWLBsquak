@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T09:40:53Z",
+ "generated_at": "2026-10-08T09:45:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "aa906d0f7295",
+   "ts": "2026-10-08T09:43:46Z",
+   "headline": "BoE's Greene sees a material risk that some second-round inflation effects may develop",
+   "detail": "Bank of England MPC member Megan Greene warned of a material risk of second-round effects emerging, according to a market news feed on 8 October.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "6ad170e4af8010e2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxe6crs3qk2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxe6crs3qk2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "547bde75a2d7",
+   "created_at": "2026-10-08T09:45:55Z"
+  },
   {
    "id": "0c7a47598334",
    "ts": "2026-10-08T09:38:50Z",
@@ -6252,27 +6273,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwrjx7d5nv2m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwrjx7d5nv2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f86226d5aa1c",
-   "created_at": "2026-10-01T05:01:24Z"
-  },
-  {
-   "id": "fa01fc32cdda",
-   "ts": "2026-09-30T23:02:17Z",
-   "headline": "France plans record bond issuance next year with debt at about 119% of GDP",
-   "detail": "France said it will sell a record amount of government bonds next year, according to Semafor, which reported that the French spread over German bonds widened after the announcement.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "10770e3cfc2b5b73"
-   ],
-   "sources": [
-    {
-     "author": "semafor.com",
-     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mwrh7b2nvv2s",
-     "url": "https://bsky.app/profile/semafor.com/post/3mwrh7b2nvv2s"
     }
    ],
    "model": "opus",
