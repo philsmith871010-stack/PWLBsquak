@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T12:35:51Z",
+ "generated_at": "2026-10-08T12:45:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "14c466794b31",
+   "ts": "2026-10-08T12:42:59Z",
+   "headline": "BoE's Bailey says markets show an elevated risk premium and the Bank must test for a significant shock to inflation expectations",
+   "detail": "Bank of England Governor Andrew Bailey also said markets remain resilient and that he is fully committed to bringing inflation back to target.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "8b8db41c9bb1b7dc",
+    "a2c64e9b89eaea02",
+    "4b779431ff6b8b1e",
+    "3936991a88b92cc5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeiaayrpp2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeiaayrpp2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeibsz3he2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeibsz3he2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeidajphd2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeidajphd2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeieqfj3f2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeieqfj3f2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "435f10603d1f",
+   "created_at": "2026-10-08T12:45:54Z"
+  },
   {
    "id": "dc26ec26d2f5",
    "ts": "2026-10-08T12:31:53Z",
@@ -6041,27 +6080,6 @@
    "model": "opus",
    "run_id": "1c98f95a3a77",
    "created_at": "2026-10-01T08:31:10Z"
-  },
-  {
-   "id": "188bc587a713",
-   "ts": "2026-10-01T08:19:40Z",
-   "headline": "Italian 10-year yield rises 10bp to 4.7232%, its highest since November 2023",
-   "detail": "Italy's 10-year government bond yield reached 4.7232%, up 10bp on the day and its highest level since November 2023, according to a market wire.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "f410332057eb251e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwsgdwr5jh27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwsgdwr5jh27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "754714570bfb",
-   "created_at": "2026-10-01T08:21:02Z"
   }
  ]
 }
