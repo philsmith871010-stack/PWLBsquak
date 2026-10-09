@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-09T12:35:41Z",
+ "generated_at": "2026-10-09T14:01:16Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bdecf297575b",
+   "ts": "2026-10-09T14:00:41Z",
+   "headline": "University of Michigan preliminary current conditions index falls to 44.7, short of the 50.1 forecast",
+   "detail": "The preliminary University of Michigan current conditions reading for the US came in at 44.7. The forecast was 50.1 and the previous reading was 50.9.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "486093895e4df400"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh553fjzj2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh553fjzj2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d384b5ffc795",
+   "created_at": "2026-10-09T14:01:16Z"
+  },
+  {
+   "id": "9b544828df53",
+   "ts": "2026-10-09T13:56:24Z",
+   "headline": "White House sets up committee to investigate allegations of false statements by Fed Governor Lisa Cook",
+   "detail": "In a statement, the White House said President Trump has set up a committee of inquiry to look into allegations that Federal Reserve Governor Lisa Cook made false statements.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "37ca7a4d55ff4034",
+    "98fde8c10ff0e164"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh4vgkp6p2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh4vgkp6p2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh4w7hz7c2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh4w7hz7c2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d384b5ffc795",
+   "created_at": "2026-10-09T14:01:16Z"
+  },
   {
    "id": "80290c07b85b",
    "ts": "2026-10-09T12:31:34Z",
@@ -6074,60 +6122,6 @@
    "model": "opus",
    "run_id": "d3fb776af1cf",
    "created_at": "2026-10-01T18:35:54Z"
-  },
-  {
-   "id": "a5a9f1dd5767",
-   "ts": "2026-10-01T18:31:51Z",
-   "headline": "WTI crude November futures settle 2.71% higher at $92.87 a barrel",
-   "detail": "NYMEX WTI November futures settled up $2.45, or 2.71%, at $92.87 a barrel. November diesel futures settled at $4.6420 a gallon and gasoline at $3.4026 a gallon.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "ae3b052715be9490",
-    "8adc11f705f59e01",
-    "574f41c5a2d8429f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtiklxvnk2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtiklxvnk2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtim7wawt2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtim7wawt2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtilrpm6q2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtilrpm6q2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d3fb776af1cf",
-   "created_at": "2026-10-01T18:35:54Z"
-  },
-  {
-   "id": "f8434e39cc40",
-   "ts": "2026-10-01T18:06:32Z",
-   "headline": "Brent crude extends gains to 4.6% after China suspends oil exports",
-   "detail": "Brent was last reported 4.6% higher and WTI up 2.8%. The move follows reports that China has suspended oil exports.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "801ce18a754508ca"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwth5d7kfg2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwth5d7kfg2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a554fa7d211b",
-   "created_at": "2026-10-01T18:11:17Z"
   }
  ]
 }
