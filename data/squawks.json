@@ -1,8 +1,83 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-09T18:25:41Z",
+ "generated_at": "2026-10-09T18:50:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "87116eb64d08",
+   "ts": "2026-10-09T18:47:37Z",
+   "headline": "Trump says Russia will supply diesel to world markets after Putin call; US Treasury issues temporary licence to allow it",
+   "detail": "After a call with President Putin, Trump said Russia will supply more than 300,000 tons of diesel immediately, another 500,000 tons in November and 1,000,000 tons after that, followed by 3,000,000 tons within a short period, depending on the condition of its refineries. The US Treasury's Office of Foreign Assets Control said it is issuing a temporary general licence, effective immediately, to allow Russian diesel to be supplied to the global market.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "7b3395ae6ee54816",
+    "63ca1ddfa3149a67",
+    "e6e7969033722aeb",
+    "40d0ca4d94b5bdbd",
+    "e3045b4cada627e0",
+    "38002cd1b1ad7bd2",
+    "0488585f44604078",
+    "7cfd8d8d42688aa1",
+    "d02f349a35ed3619",
+    "7655d626fc6ac7d2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhn62cmea2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhn62cmea2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhn663hka2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhn663hka2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhn6bhtnv2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhn6bhtnv2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhn73lboy2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhn73lboy2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhn7euhck2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhn7euhck2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhn7yko752y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhn7yko752y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhnb54c6r2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhnb54c6r2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhnbcdgg42r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhnbcdgg42r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhnbl5yfu2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhnbl5yfu2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhndwqbsb2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhndwqbsb2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3980a7d7ce40",
+   "created_at": "2026-10-09T18:50:53Z"
+  },
   {
    "id": "553c0403ab89",
    "ts": "2026-10-09T18:21:50Z",
@@ -6119,33 +6194,6 @@
    "model": "opus",
    "run_id": "c86f5205c039",
    "created_at": "2026-10-01T21:40:53Z"
-  },
-  {
-   "id": "7795224e1831",
-   "ts": "2026-10-01T20:09:37Z",
-   "headline": "US 10-year Treasury yield falls 5bp to 5.24%, retreating from its highest level since 2002",
-   "detail": "A US market wrap reports the 10-year Treasury yield down 5bp at 5.24% by the close, with the S&P 500 up 0.2% as the bond market rallied. Earlier in the session the yield reached 5.33%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "fe5349d46c47dcf9",
-    "a95a5bc57e160e33"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtnzgom4a2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtnzgom4a2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtnubvkvt23",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtnubvkvt23"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d49cbbff4492",
-   "created_at": "2026-10-01T20:10:59Z"
   }
  ]
 }
