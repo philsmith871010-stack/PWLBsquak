@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-09T05:05:47Z",
+ "generated_at": "2026-10-09T05:10:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ccc72cdaa9c4",
+   "ts": "2026-10-09T03:47:37Z",
+   "headline": "Japanese government bond yields fall, with 10-year down 5.5bp to 3.025%",
+   "detail": "In Asian trading the 10-year JGB yield fell 5.5bp to 3.025%. The 5-year yield fell 4bp to 2.345% and the 30-year fell 6bp to 4.060%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e9fddc33e5ebe66a",
+    "caf73e9695b6cbad",
+    "ad4e4b9de08bc892"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxg2utl5iz2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxg2utl5iz2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxg353aq4i2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxg353aq4i2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxg366i64p2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxg366i64p2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3086e4759e00",
+   "created_at": "2026-10-09T05:10:48Z"
+  },
   {
    "id": "748e6901237d",
    "ts": "2026-10-09T02:53:37Z",
@@ -6035,27 +6068,6 @@
    "model": "opus",
    "run_id": "d483c0b05036",
    "created_at": "2026-10-01T16:10:58Z"
-  },
-  {
-   "id": "eb5dec9f0e48",
-   "ts": "2026-10-01T15:45:17Z",
-   "headline": "Money markets stop fully pricing four BoE rate rises by the end of 2027",
-   "detail": "Traders have scaled back BoE tightening bets and no longer fully price four Bank Rate rises by the end of 2027.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "2f37466b8f0001ec"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwt7aqybz62s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwt7aqybz62s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "999ef726d836",
-   "created_at": "2026-10-01T15:45:56Z"
   }
  ]
 }
