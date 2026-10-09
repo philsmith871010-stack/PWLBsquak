@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-09T14:05:42Z",
+ "generated_at": "2026-10-09T15:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "868b8132a585",
+   "ts": "2026-10-09T15:04:08Z",
+   "headline": "Saudi Aramco to supply full contracted oil volumes to European customers in November",
+   "detail": "A market commentary account reports that Saudi Aramco will deliver full oil volumes to its European customers for November. No further figures were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "cb9f208962f3017c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhaojwels2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhaojwels2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "22f5a890bdee",
+   "created_at": "2026-10-09T15:05:40Z"
+  },
   {
    "id": "59b5576dc85f",
    "ts": "2026-10-09T14:01:15Z",
@@ -6131,27 +6152,6 @@
    "model": "opus",
    "run_id": "77ca8e18c241",
    "created_at": "2026-10-01T19:40:55Z"
-  },
-  {
-   "id": "179007e46813",
-   "ts": "2026-10-01T18:54:09Z",
-   "headline": "Brent crude futures settle 4.37% higher at $102.31 a barrel",
-   "detail": "Brent crude futures settled up $4.28, or 4.37%, at $102.31 a barrel on 1 October. Earlier in the session the gain had reached 4.6% after China suspended oil exports.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "d58a484cee7e2101"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtjsiehzi2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtjsiehzi2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cd1ef5a34158",
-   "created_at": "2026-10-01T18:55:46Z"
   }
  ]
 }
