@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-08T20:31:01Z",
+ "generated_at": "2026-10-09T05:05:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "748e6901237d",
+   "ts": "2026-10-09T02:53:37Z",
+   "headline": "German Bund futures rise 0.45% and French OAT futures 0.78% in Asian trading",
+   "detail": "Euro area government bond futures gain in early Friday trading. Reuters reports that France's debt market has stabilised after its recent sell-off and that US yields have fallen.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "34634de548597fb7",
+    "87141473138efb66",
+    "dbf6aed4672abf12"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxfxuc7zxm24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxfxuc7zxm24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxfxuwp4kb2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxfxuwp4kb2m"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxfuv4i5rs2z",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxfuv4i5rs2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d15b87187c5f",
+   "created_at": "2026-10-09T05:05:47Z"
+  },
   {
    "id": "17f6ef0d52bc",
    "ts": "2026-10-08T20:29:45Z",
@@ -6018,27 +6051,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwt7aqybz62s",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwt7aqybz62s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "999ef726d836",
-   "created_at": "2026-10-01T15:45:56Z"
-  },
-  {
-   "id": "a9836c41fe42",
-   "ts": "2026-10-01T15:43:22Z",
-   "headline": "US 2-year Treasury yield extends its fall to 10bp on the day, at 4.785%",
-   "detail": "The US 2-year Treasury yield is down 10bp on the day at 4.785%, extending an earlier 6bp fall.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "12679d866c621d8c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwt75dil272i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwt75dil272i"
     }
    ],
    "model": "opus",
