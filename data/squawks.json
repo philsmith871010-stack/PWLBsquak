@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-09T12:15:48Z",
+ "generated_at": "2026-10-09T12:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "80290c07b85b",
+   "ts": "2026-10-09T12:31:34Z",
+   "headline": "Canada sheds 68.3k jobs in September against a forecast 10k gain; unemployment rate rises to 6.5%",
+   "detail": "Canadian employment fell by 68.3k in September after a 41.7k fall the previous month, and the jobless rate rose to 6.5% from 6.4%, in line with forecast. The participation rate slipped to 64.8%, while average hourly earnings growth picked up to 2.3% year on year, matching the forecast, from 2.0%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a2c8374bbb0f38ee",
+    "57d9e74894d2de97",
+    "d35470a54e610178",
+    "45a563c0c503cfa0",
+    "399d2299de5dd302",
+    "1f4ad55ddf82f87a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxgy5q3idh2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxgy5q3idh2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxgy7bua7i2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxgy7bua7i2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxgy72rwiz2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxgy72rwiz2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxgy5wkol52s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxgy5wkol52s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxgy5jn4bv2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxgy5jn4bv2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxgy6sbdei2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxgy6sbdei2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b1593b1ae8ee",
+   "created_at": "2026-10-09T12:35:41Z"
+  },
   {
    "id": "2f8d7c0be023",
    "ts": "2026-10-09T12:11:04Z",
@@ -6077,51 +6128,6 @@
    "model": "opus",
    "run_id": "a554fa7d211b",
    "created_at": "2026-10-01T18:11:17Z"
-  },
-  {
-   "id": "10e3f736fbe1",
-   "ts": "2026-10-01T17:55:22Z",
-   "headline": "Trump tells aides he expects to resume bombing Iran as US sends third carrier and up to 10,000 more troops to Middle East, WSJ says",
-   "detail": "The Wall Street Journal reports that President Trump has recently told aides he expects to resume strikes on Iran. It also says the US is sending a third aircraft carrier and up to 10,000 more troops to the region. No market reaction is reported in the inputs.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e5a5b2cbd05833c4",
-    "d032c6b414740589",
-    "2a4141ff840d09aa",
-    "c50ec799622abe65",
-    "fccb9ce654e2bfca"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtgjeqejg2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtgjeqejg2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtgd55wny22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtgd55wny22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtge5d2632s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtge5d2632s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtgf7kqdq2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtgf7kqdq2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtgikn4zh2x",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtgikn4zh2x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "304793fbdf22",
-   "created_at": "2026-10-01T17:55:46Z"
   }
  ]
 }
