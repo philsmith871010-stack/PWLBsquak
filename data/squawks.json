@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-09T14:01:16Z",
+ "generated_at": "2026-10-09T14:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "59b5576dc85f",
+   "ts": "2026-10-09T14:01:15Z",
+   "headline": "US Michigan sentiment drops to 46.3 in preliminary October reading, below 47.6 forecast; 1-year inflation expectations at 4.7%",
+   "detail": "The University of Michigan's preliminary October sentiment index came in at 46.3, against a forecast of 47.6 and 48.1 previously, while the expectations index rose to 47.3 against a 45.7 forecast. One-year inflation expectations rose to 4.7% from 4.6% (forecast 4.8%), and five-year expectations rose to 3.5% from 3.4%, matching the forecast.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "d4d84e7f378b6bd8",
+    "5efa2178fbf76037",
+    "7e56d6672378e449",
+    "181f6b0a9cc90652",
+    "e23eb232084ed365",
+    "62dd5bd599bdf243"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh563ishn26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh563ishn26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh56apdwa2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh56apdwa2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh56lls3i2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh56lls3i2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh57mg6qx2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh57mg6qx2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh57r7fyf2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh57r7fyf2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh5bi7wi22m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh5bi7wi22m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8e50659f6199",
+   "created_at": "2026-10-09T14:05:42Z"
+  },
   {
    "id": "bdecf297575b",
    "ts": "2026-10-09T14:00:41Z",
@@ -6101,27 +6152,6 @@
    "model": "opus",
    "run_id": "cd1ef5a34158",
    "created_at": "2026-10-01T18:55:46Z"
-  },
-  {
-   "id": "9a8a08e435ab",
-   "ts": "2026-10-01T18:35:08Z",
-   "headline": "Iran offers to let nuclear inspectors in if sanctions are eased",
-   "detail": "Iran has offered to allow nuclear inspectors access on condition that sanctions are eased, according to a market news report. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "76d4fe7fe2e4526e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtiqhvqak2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtiqhvqak2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d3fb776af1cf",
-   "created_at": "2026-10-01T18:35:54Z"
   }
  ]
 }
