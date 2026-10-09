@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-09T05:10:48Z",
+ "generated_at": "2026-10-09T08:01:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "712fe8006dfd",
+   "ts": "2026-10-09T06:45:58Z",
+   "headline": "UK retail footfall falls 2.9% in September, a steeper drop than August's 1.7% decline, BRC data show",
+   "detail": "The British Retail Consortium's figures show total UK retail footfall fell 2.9% in September, compared with a 1.7% fall the previous month, City AM reports.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "de7dd09e9e2f5aea"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mxgito6grvd2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mxgito6grvd2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "04eaf0e8f23d",
+   "created_at": "2026-10-09T08:01:15Z"
+  },
   {
    "id": "ccc72cdaa9c4",
    "ts": "2026-10-09T03:47:37Z",
@@ -6047,27 +6068,6 @@
    "model": "opus",
    "run_id": "dd66e7869f81",
    "created_at": "2026-10-01T16:15:56Z"
-  },
-  {
-   "id": "e5971d1bb9df",
-   "ts": "2026-10-01T16:08:11Z",
-   "headline": "Saudi East-West crude pipeline flows recover to 5.5m barrels a day, Argus reports",
-   "detail": "Pricing agency Argus reports that throughput on Saudi Arabia's East-West crude pipeline has recovered to 5.5m barrels a day. No price reaction was reported.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "38ae1b933f430aef"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtajpsdmz2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtajpsdmz2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d483c0b05036",
-   "created_at": "2026-10-01T16:10:58Z"
   }
  ]
 }
