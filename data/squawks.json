@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-09T16:35:44Z",
+ "generated_at": "2026-10-09T18:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "553c0403ab89",
+   "ts": "2026-10-09T18:21:50Z",
+   "headline": "ECB's Kazaks says 2.5% is the top of neutral and the ECB is in a fairly comfortable position on rates",
+   "detail": "ECB Governing Council member Kazaks said 2.5% marks the upper limit of the ECB's neutral range and that the European economy is relatively resilient to shocks.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0e01472ca3a35dd3",
+    "9d109a10200f5621",
+    "0bca5355726deace"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhlq2wfkv2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhlq2wfkv2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhlrh567p2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhlrh567p2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhlruljww2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhlruljww2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "36748c9d69b3",
+   "created_at": "2026-10-09T18:25:41Z"
+  },
   {
    "id": "359fc335bd01",
    "ts": "2026-10-09T16:34:32Z",
@@ -6113,27 +6146,6 @@
    "model": "opus",
    "run_id": "d49cbbff4492",
    "created_at": "2026-10-01T20:10:59Z"
-  },
-  {
-   "id": "a6341b12d33d",
-   "ts": "2026-10-01T19:50:42Z",
-   "headline": "Fed's Bowman sees no pressing need for further rate changes this year",
-   "detail": "Federal Reserve policymaker Michelle Bowman said she sees no urgent need for more rate moves before the end of the year. No market reaction was reported in the posts.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "a90dfccd9ef5b09b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwtmxlxn732y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwtmxlxn732y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "48d50ed79697",
-   "created_at": "2026-10-01T19:50:56Z"
   }
  ]
 }
