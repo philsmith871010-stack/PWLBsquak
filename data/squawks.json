@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T19:25:41Z",
+ "generated_at": "2026-10-12T19:31:10Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "12beb4e7bd58",
+   "ts": "2026-10-12T19:30:51Z",
+   "headline": "Russia's foreign minister rejects a proposed 60-day Ukraine ceasefire and says Moscow wants a long-term peace deal",
+   "detail": "Russia's foreign minister turned down a proposed 60-day ceasefire that would have let Ukraine hold elections. He said Moscow wants a long-term peace agreement, not a temporary truce.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "50f22673418490a6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpaya6ecn2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpaya6ecn2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b08533a4d4fe",
+   "created_at": "2026-10-12T19:31:10Z"
+  },
   {
    "id": "3bab115d7cb3",
    "ts": "2026-10-12T19:25:13Z",
@@ -5999,45 +6020,6 @@
    "model": "opus",
    "run_id": "6738d81804d8",
    "created_at": "2026-10-06T07:50:54Z"
-  },
-  {
-   "id": "0f1dc779cffd",
-   "ts": "2026-10-06T07:16:54Z",
-   "headline": "EU's von der Leyen sets out energy steps, including a joint gas-buying task force and a one-year methane rule extension for exporters",
-   "detail": "European Commission President von der Leyen announced a task force to pool energy demand, with a market operator handling joint purchases, and a one-year extension for exporters under the methane regulation. She also announced strategic talks with European refiners on costs and supply, and said state aid for energy bills should go to those who need it most.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "72cc0cbfba3e8b5d",
-    "ab21bbb2995eae7b",
-    "281d6267c72f7fb4",
-    "f58a3d3298fce067"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6v6c7sc32q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6v6c7sc32q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6v4oyoxf2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6v4oyoxf2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6v4r5doe2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6v4r5doe2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6v4mwnpt2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6v4mwnpt2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fa4bbb42d9d3",
-   "created_at": "2026-10-06T07:21:00Z"
   }
  ]
 }
