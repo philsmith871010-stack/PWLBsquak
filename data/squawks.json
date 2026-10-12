@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T13:35:47Z",
+ "generated_at": "2026-10-12T13:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "56373d3090b1",
+   "ts": "2026-10-12T13:40:17Z",
+   "headline": "Europe faces at least another year of high gas prices as storage falls to record lows, Reuters reports",
+   "detail": "Reuters reports that European households and industry face high gas prices for at least another year because storage reserves are at record lows and will need restocking. It says this holds even if the Iran war is resolved and the winter is mild.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "f35535b01d0e2cf2"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxonfejplr2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxonfejplr2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f2e3203c6814",
+   "created_at": "2026-10-12T13:40:50Z"
+  },
   {
    "id": "8d3044b89005",
    "ts": "2026-10-12T13:35:12Z",
@@ -5975,45 +5996,6 @@
    "model": "opus",
    "run_id": "4c50a7f38e7d",
    "created_at": "2026-10-02T19:01:59Z"
-  },
-  {
-   "id": "1a19dcdb9e67",
-   "ts": "2026-10-02T17:03:52Z",
-   "headline": "Fed's Goolsbee keeps both a rate rise and a pause open, saying the inflation side of the Fed's mandate matters more",
-   "detail": "Speaking to Fox Business, Chicago Fed President Goolsbee said the labour market is steady and he wants to see whether there is evidence that inflation is heading back to 2%. He added that he would not react strongly to a single month of data.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8685d7ea905249b1",
-    "85c49844a9288969",
-    "4107c9b974e16c48",
-    "ab48359aba5349bf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvu46ybxq2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvu46ybxq2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvu56ypb72r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvu56ypb72r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvu5wf6gp2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvu5wf6gp2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvu7nb5tt2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvu7nb5tt2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "62645c3a5a49",
-   "created_at": "2026-10-02T17:05:54Z"
   }
  ]
 }
