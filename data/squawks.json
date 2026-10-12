@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T13:50:50Z",
+ "generated_at": "2026-10-12T13:55:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a2bf8e1a0347",
+   "ts": "2026-10-12T13:54:05Z",
+   "headline": "Zelensky says it is increasingly clear Russia will not accept the US proposal for an energy ceasefire",
+   "detail": "Ukraine's president said Russia appears unwilling to accept the US-proposed energy ceasefire.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "22187de03a3e8c3d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoo62h6zp2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoo62h6zp2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b480bea7dd9a",
+   "created_at": "2026-10-12T13:55:47Z"
+  },
+  {
+   "id": "a646efd09a12",
+   "ts": "2026-10-12T13:51:43Z",
+   "headline": "Fitch says France's 2027 budget plan points to a weaker fiscal starting point",
+   "detail": "Fitch Ratings said France's rating is held back by high and rising debt, political and social conditions that make fiscal consolidation difficult, and low potential growth.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "743f753086273d89",
+    "080e83b3006bbdaa"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxonzsvoz32w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxonzsvoz32w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoo6vfrfl2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoo6vfrfl2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b480bea7dd9a",
+   "created_at": "2026-10-12T13:55:47Z"
+  },
   {
    "id": "c680457cb754",
    "ts": "2026-10-12T13:48:52Z",
@@ -5954,48 +6002,6 @@
    "model": "opus",
    "run_id": "d4180a8881bc",
    "created_at": "2026-10-02T21:35:51Z"
-  },
-  {
-   "id": "8ec27421d90f",
-   "ts": "2026-10-02T21:15:06Z",
-   "headline": "Healey expected to use the Budget for targeted support rather than large tax rises, putting off hard choices, FT reports",
-   "detail": "According to the Financial Times, Chancellor Healey is expected to centre her Budget statement on targeted help for households and businesses. The paper says she is not expected to raise taxes on the scale of recent Budgets.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "879172a00808c603"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mwwc5gftsf2m",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mwwc5gftsf2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fdf159e73900",
-   "created_at": "2026-10-02T21:15:53Z"
-  },
-  {
-   "id": "947bb60ceab8",
-   "ts": "2026-10-02T20:00:48Z",
-   "headline": "Hedge funds hold a net short position in sterling for the first time since 2024, CFTC data show",
-   "detail": "Weekly CFTC positioning data released on Friday show hedge funds have moved to a net short position in the pound for the first time since 2024.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "718da3a4a4a67464"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mww5yksytl2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mww5yksytl2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "71847b73e92a",
-   "created_at": "2026-10-02T20:01:23Z"
   }
  ]
 }
