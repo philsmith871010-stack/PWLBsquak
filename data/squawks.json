@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T14:31:06Z",
+ "generated_at": "2026-10-12T14:40:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ae53fe28ac34",
+   "ts": "2026-10-12T14:38:21Z",
+   "headline": "Riksbank's Bunge says Sweden's economy is showing a long-awaited upturn",
+   "detail": "Riksbank policymaker Bunge said the Swedish economy is showing a long-awaited upturn. No figures or market reaction were reported.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9aa352bdfbd62e46"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoqn7cob326",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoqn7cob326"
+    }
+   ],
+   "model": "opus",
+   "run_id": "13b9d4920ad9",
+   "created_at": "2026-10-12T14:40:54Z"
+  },
   {
    "id": "1b084ea4292c",
    "ts": "2026-10-12T14:27:39Z",
@@ -5994,27 +6015,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mx3mcimxhe2z",
      "url": "https://bsky.app/profile/reuters.com/post/3mx3mcimxhe2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e249a2f3c74d",
-   "created_at": "2026-10-05T05:20:52Z"
-  },
-  {
-   "id": "d0f677660abf",
-   "ts": "2026-10-04T23:10:04Z",
-   "headline": "Brent climbs to $103.06 a barrel after Yemen's Houthis attack Saudi Aramco sites",
-   "detail": "Reuters reports that Brent crude futures rose to $103.06 a barrel in early Asian trading after Houthi attacks on Saudi Aramco facilities.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "8d3df8fbcacca553"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mx3jiuab6f2a",
-     "url": "https://bsky.app/profile/reuters.com/post/3mx3jiuab6f2a"
     }
    ],
    "model": "opus",
