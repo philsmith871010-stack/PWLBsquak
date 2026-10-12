@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T19:31:10Z",
+ "generated_at": "2026-10-12T19:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bb2b2f874b91",
+   "ts": "2026-10-12T19:32:45Z",
+   "headline": "US envoy Kushner says the diesel deal with Russia is meant to soften Moscow's stance",
+   "detail": "US envoy Jared Kushner described the US-Russia diesel supply arrangement as an attempt to soften Russia. The deal has already drawn UK pledges of tougher Russia sanctions, and Trump has defended it.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "af339d08d788eb7d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpb3myjyi2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpb3myjyi2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1cf5af50c510",
+   "created_at": "2026-10-12T19:35:42Z"
+  },
   {
    "id": "12beb4e7bd58",
    "ts": "2026-10-12T19:30:51Z",
@@ -5999,27 +6020,6 @@
    "model": "opus",
    "run_id": "2c75271f9b33",
    "created_at": "2026-10-06T08:02:33Z"
-  },
-  {
-   "id": "2029e304a3e9",
-   "ts": "2026-10-06T07:46:20Z",
-   "headline": "Morgan Stanley puts current UK fiscal headroom at £8b and expects Healey to aim for £15b at the Budget; it is short sterling",
-   "detail": "Morgan Stanley expects a small delay to fiscal consolidation at the Budget and little change to this year's cash requirement, but a slightly higher one in later years. The bank says it is shorting the pound before the Budget and sees mild downside risk for gilts.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "0a9151c781b7dfde"
-   ],
-   "sources": [
-    {
-     "author": "bruceandy.bsky.social",
-     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3mx6wswbo222t",
-     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3mx6wswbo222t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6738d81804d8",
-   "created_at": "2026-10-06T07:50:54Z"
   }
  ]
 }
