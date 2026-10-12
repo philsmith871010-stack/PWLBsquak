@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T21:35:39Z",
+ "generated_at": "2026-10-12T21:40:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e1e5dfbc6881",
+   "ts": "2026-10-12T21:38:58Z",
+   "headline": "Fed's Hammack says inflation pressures are spreading beyond AI and she is open to adjusting the pace of rate rises",
+   "detail": "Cleveland Fed President Hammack said further tightening is needed and policy will have to curb demand through capital spending or consumption, but that she is open to adjusting the pace of increases. She added that inflation pressures are spreading beyond AI firms and that business contacts describe a thriving economy rather than one about to slow.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "42b629237f29a185",
+    "edaa409cbce46175",
+    "1630fcc46c6f47fb",
+    "840c58f9b24e0df8",
+    "03b463ac0d3a9629",
+    "8d4afbef60877a5a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpi5csft42r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpi5csft42r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpi64o77h26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpi64o77h26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxphxed75l2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxphxed75l2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxphy5v4iz2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxphy5v4iz2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxphybi6g42r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxphybi6g42r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxphyepo2w26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxphyepo2w26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2499cbbd16cb",
+   "created_at": "2026-10-12T21:40:47Z"
+  },
   {
    "id": "42cf9990bd9d",
    "ts": "2026-10-12T21:31:07Z",
@@ -5987,33 +6038,6 @@
    "model": "opus",
    "run_id": "89b98899f66a",
    "created_at": "2026-10-06T09:20:56Z"
-  },
-  {
-   "id": "11f91e0bc67d",
-   "ts": "2026-10-06T09:01:00Z",
-   "headline": "Eurozone August retail sales rise 0.8% y/y, short of the 1% forecast; monthly gain of 0.1% also misses",
-   "detail": "Eurozone retail sales grew 0.8% year on year against a 1% forecast and 0.6% previously. The month-on-month rise was 0.1%, compared with a 0.2% forecast and a previous reading of -0.6%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "af71cd874ca0df58",
-    "a94b3704aa8af4f3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx72yh2de32w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx72yh2de32w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx72yjn27p2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx72yjn27p2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "085d96b47279",
-   "created_at": "2026-10-06T09:01:22Z"
   }
  ]
 }
