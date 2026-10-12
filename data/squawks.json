@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T16:25:41Z",
+ "generated_at": "2026-10-12T16:31:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "44cb00b7f8fc",
+   "ts": "2026-10-12T16:28:02Z",
+   "headline": "Iran's ambassador to the UK says Tehran is willing to cooperate with Britain on investigating the RAF Fairford incident",
+   "detail": "Iran's ambassador to the UK offered cooperation with the British investigation, Iranian state news agency IRNA reported. The offer follows the UK summoning the ambassador after it said Iran was involved in the suspected plot.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9ec76322fc7e7198"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxowrdpwar2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxowrdpwar2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3dfcf3344927",
+   "created_at": "2026-10-12T16:31:08Z"
+  },
   {
    "id": "14f6125ef0dd",
    "ts": "2026-10-12T16:25:01Z",
@@ -5981,27 +6002,6 @@
    "model": "opus",
    "run_id": "5b72327fe775",
    "created_at": "2026-10-05T12:31:17Z"
-  },
-  {
-   "id": "c9955d9d3ea8",
-   "ts": "2026-10-05T10:04:32Z",
-   "headline": "Yemen's armed forces say they have launched a strategic offensive in Sanaa",
-   "detail": "Yemen's armed forces announced the start of what they called a strategic offensive in Sanaa. The announcement follows strikes by the Saudi-led coalition and Houthi attacks on Saudi Aramco sites. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5920225af8fe269c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4o357p2x24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4o357p2x24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "100c3baf8c24",
-   "created_at": "2026-10-05T10:05:50Z"
   }
  ]
 }
