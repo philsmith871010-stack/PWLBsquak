@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T11:25:43Z",
+ "generated_at": "2026-10-12T11:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e6b7364e19a6",
+   "ts": "2026-10-12T11:26:35Z",
+   "headline": "UK PM's spokesman says the Brexit deal left the UK worse off and the country can do much better",
+   "detail": "The Prime Minister's spokesman made the remarks on the UK's relationship with the EU on 12 October. He also said Russia had tried and failed to influence the Brexit vote.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "709a7d03fb93acff",
+    "0993357c6a836b4e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxofwbsqrk26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxofwbsqrk26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxofwcbp672n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxofwcbp672n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9e6ca2cd7066",
+   "created_at": "2026-10-12T11:31:03Z"
+  },
   {
    "id": "e8be98a57602",
    "ts": "2026-10-12T11:21:30Z",
@@ -6095,27 +6122,6 @@
    "model": "opus",
    "run_id": "07580e2d163c",
    "created_at": "2026-10-02T10:20:56Z"
-  },
-  {
-   "id": "1418332435b3",
-   "ts": "2026-10-02T10:12:54Z",
-   "headline": "France's bond risk premium widens to 150bp, a level last seen in 2012",
-   "detail": "A market commentator reports that France's sovereign bond risk premium has reached 150bp for the first time since 2012. French bonds are selling off this week after the 2027 budget was presented.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "f82ea7ffe308c14b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwv55dfdtt2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwv55dfdtt2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5beaef13c1ef",
-   "created_at": "2026-10-02T10:15:59Z"
   }
  ]
 }
