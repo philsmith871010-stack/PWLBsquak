@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T19:10:52Z",
+ "generated_at": "2026-10-12T19:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3bab115d7cb3",
+   "ts": "2026-10-12T19:25:13Z",
+   "headline": "EU considers a bloc-wide windfall profit tax on oil and gas companies as energy prices climb",
+   "detail": "On Monday the EU's tax commissioner told Reuters the bloc is looking at a windfall profit tax on oil and gas firms across the EU. Governments are looking for money to help households with high energy bills.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "bcb657e4377f796a"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxpao5eauo2z",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxpao5eauo2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a91490804994",
+   "created_at": "2026-10-12T19:25:41Z"
+  },
   {
    "id": "1c96e39a9faf",
    "ts": "2026-10-12T19:06:32Z",
@@ -6017,63 +6038,6 @@
    "model": "opus",
    "run_id": "fa4bbb42d9d3",
    "created_at": "2026-10-06T07:21:00Z"
-  },
-  {
-   "id": "a30ebcfb210f",
-   "ts": "2026-10-06T07:12:34Z",
-   "headline": "ECB's Lane says long-term interest rates and wider financial conditions are an important factor in monetary policy decisions",
-   "detail": "ECB chief economist Lane made the remarks in an interview reported by ANSA. He also said downside risks to growth have not materialised and that widespread fiscal expansion is not helping on inflation.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6212141ebfbc88e6",
-    "28f886f64cc463e7",
-    "24bc5d84ede01d61",
-    "15970995653c41ba",
-    "4c5fce62ec1d330e",
-    "d40e4d5e59932f87",
-    "00dc1888489b05e5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6uwkstru2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6uwkstru2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6v3mbij22s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6v3mbij22s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6uxdan3r2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6uxdan3r2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6uyfuemf2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6uyfuemf2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6uxfwf352y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6uxfwf352y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6uxlkjfe24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6uxlkjfe24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6uwewlyf2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6uwewlyf2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "caabb26bf901",
-   "created_at": "2026-10-06T07:15:56Z"
   }
  ]
 }
