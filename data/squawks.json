@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T15:45:47Z",
+ "generated_at": "2026-10-12T15:50:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9ae93f9b21a5",
+   "ts": "2026-10-12T15:50:17Z",
+   "headline": "Mortgage-related hedging adds selling pressure to US Treasuries as long-term yields climb, Reuters reports",
+   "detail": "Reuters reports that the sharp rise in long-term US Treasury yields has set off mortgage-related hedging, which adds to selling in an already strained bond market. The report says the effect is probably smaller than in earlier sell-offs.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "26586ed7b319904d"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxountmccf2e",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxountmccf2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "64d4849dbb70",
+   "created_at": "2026-10-12T15:50:57Z"
+  },
   {
    "id": "81805f369dac",
    "ts": "2026-10-12T15:41:39Z",
@@ -5987,33 +6008,6 @@
    "model": "opus",
    "run_id": "239e326dc3d2",
    "created_at": "2026-10-05T09:10:59Z"
-  },
-  {
-   "id": "883ee05a91e9",
-   "ts": "2026-10-05T09:01:08Z",
-   "headline": "Eurozone August producer prices rise 8.2% y/y, above the 7.9% forecast; monthly rise of 1.9% is in line",
-   "detail": "Eurozone producer price inflation climbed to 8.2% year on year from 5.8% previously, ahead of the 7.9% forecast. On the month, prices rose 1.9%, matching expectations, after a 1.6% rise previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "3881fd8c68ff6c90",
-    "796ae6537a717bd7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4kjrnie72y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4kjrnie72y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4kjuyjx626",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4kjuyjx626"
-    }
-   ],
-   "model": "opus",
-   "run_id": "56529779c9a0",
-   "created_at": "2026-10-05T09:01:31Z"
   }
  ]
 }
