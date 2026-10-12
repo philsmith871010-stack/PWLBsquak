@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T16:55:48Z",
+ "generated_at": "2026-10-12T17:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f25a970a7efc",
+   "ts": "2026-10-12T17:12:17Z",
+   "headline": "OPEC+ ministers meet on the sidelines of a conference in Riyadh, according to a statement",
+   "detail": "A statement says OPEC+ ministers met on the sidelines of the Riyadh conference. The post gave no details of any decisions.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "9585645e3b345a95"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxozahkgvt2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxozahkgvt2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1dc246ff0a89",
+   "created_at": "2026-10-12T17:15:50Z"
+  },
   {
    "id": "d8d9c30991b3",
    "ts": "2026-10-12T16:52:34Z",
@@ -6071,27 +6092,6 @@
    "model": "opus",
    "run_id": "27e2af310192",
    "created_at": "2026-10-05T17:35:51Z"
-  },
-  {
-   "id": "a2561f29ba7e",
-   "ts": "2026-10-05T17:02:54Z",
-   "headline": "US 10-year Treasury yield rises to 5.34%, a new high since 2002",
-   "detail": "The US 10-year Treasury yield reached 5.34%, its highest level since 2002, according to a market news feed on Monday afternoon.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "815613c845d665b0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx5fhai6xj26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx5fhai6xj26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0d672612614a",
-   "created_at": "2026-10-05T17:05:59Z"
   }
  ]
 }
