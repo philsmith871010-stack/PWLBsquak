@@ -136,9 +136,8 @@ class SquawkWriter:
         squawks: list[Squawk] = []
         dropped = 0
         seen_headlines: set[str] = set()
-        recent = [
-            dedupe.normalise(h) for h in self.store.recent_headlines(self.settings.recent_squawks_in_prompt)
-        ]
+        recent_raw = self.store.recent_headlines(self.settings.recent_squawks_in_prompt)
+        recent = [dedupe.normalise(h) for h in recent_raw]
         per_category: dict[str, int] = {}
         caps = self.settings.category_caps
         # figures may come from this batch's posts or from squawks already published;
@@ -160,7 +159,11 @@ class SquawkWriter:
                 continue
             norm = dedupe.normalise(draft.headline)
             match = dedupe.find_duplicate(norm, enumerate(recent), threshold=self.settings.repeat_threshold)
-            if match is not None:
+            # A near-identical headline is a repeat unless it carries a figure the earlier one
+            # did not (a fresh high, a new level): that is an update to a running story.
+            if match is not None and not (
+                figures.figures(draft.headline) - figures.figures(recent_raw[match[0]])
+            ):
                 log.info("dropping repeat of a recent squawk: %r", draft.headline[:80])
                 dropped += 1
                 continue

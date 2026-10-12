@@ -532,3 +532,32 @@ def test_figures_normalisation():
     assert unsupported("claims 1.701m", "CONTINUING CLAIMS 1701K") == set()
     assert unsupported("yield at 5.20%", "yield at 5.2%") == set()
     assert unsupported("relending quotas up 700bn", "500bn for farms, 200bn for small firms") == {"700"}
+
+
+def test_near_identical_headline_with_a_new_figure_is_an_update(store, tmp_path):
+    e1, _, _ = _seed(store)
+    first = [
+        {
+            "ts": None,
+            "headline": "US 10-year Treasury yield rises to 5.33%, its highest level since 2002",
+            "detail": "d",
+            "category": "global_rates",
+            "importance": 2,
+            "source_event_ids": [e1.id],
+        }
+    ]
+    SquawkWriter(_settings(tmp_path), store, _canned(first), system_prompt="s").run_once(now=NOW)
+    ev = make_event("US 10Y YIELD RISES TO 5.35%, HIGHEST SINCE 2002", rkey="u2", ts="2026-09-28T09:20:00Z")
+    store.insert_event(ev)
+    update = [
+        {
+            "ts": None,
+            "headline": "US 10-year Treasury yield rises to 5.35%, its highest level since 2002",
+            "detail": "d",
+            "category": "global_rates",
+            "importance": 2,
+            "source_event_ids": [ev.id],
+        }
+    ]
+    result = SquawkWriter(_settings(tmp_path), store, _canned(update), system_prompt="s").run_once(now=NOW)
+    assert [s.headline for s in result.squawks] == [update[0]["headline"]]

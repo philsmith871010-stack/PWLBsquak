@@ -168,7 +168,7 @@
       }).join('');
     }
     const tape = document.getElementById('tape');
-    const top = [...squawks].sort((a, b) => (b.ts || '').localeCompare(a.ts || '')).slice(0, 15);
+    const top = [...squawks].sort((a, b) => (b.ts || '').localeCompare(a.ts || '')).slice(0, 5);  // the tape carries the latest five
     if (!top.length) { tape.innerHTML = '<span class="item">Waiting for squawks…</span>'; tape.style.animation = 'none'; }
     else {
       const hhmm = iso => new Date(iso).toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
