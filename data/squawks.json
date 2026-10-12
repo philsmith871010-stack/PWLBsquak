@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T15:50:57Z",
+ "generated_at": "2026-10-12T16:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "14f6125ef0dd",
+   "ts": "2026-10-12T16:25:01Z",
+   "headline": "Iran's ambassador to the UK denies any Iranian role in suspected plot targeting RAF Fairford",
+   "detail": "Iran's ambassador rejected UK claims of Iranian involvement in the RAF Fairford incident, according to Iranian state news agency IRNA. The denial follows the UK summoning the ambassador and the government's pledge of further sanctions on Iran.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fed7dd1505ca7697",
+    "a9f0ff08e6c8bd2f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxowlwkavk2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxowlwkavk2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxowf6lzff2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxowf6lzff2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2a8e7728dd4e",
+   "created_at": "2026-10-12T16:25:41Z"
+  },
   {
    "id": "9ae93f9b21a5",
    "ts": "2026-10-12T15:50:17Z",
@@ -5975,39 +6002,6 @@
    "model": "opus",
    "run_id": "100c3baf8c24",
    "created_at": "2026-10-05T10:05:50Z"
-  },
-  {
-   "id": "c08a866e9fa8",
-   "ts": "2026-10-05T09:09:33Z",
-   "headline": "Saudi-led coalition says 100 fighter jets struck 324 targets in Yemen and it is giving air cover to the Bab el-Mandeb Strait",
-   "detail": "The Saudi-led coalition said in statements that 100 fighter jets took part in an operation in Yemen that hit 324 targets it described as high-value. It also said it is providing air protection for the Bab el-Mandeb Strait.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "71fd5f04c7696a21",
-    "de4a00ff7a77276c",
-    "8f5cd542b774f05e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4kysxmlq2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4kysxmlq2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4kywybpw2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4kywybpw2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4l2gzyw32d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4l2gzyw32d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "239e326dc3d2",
-   "created_at": "2026-10-05T09:10:59Z"
   }
  ]
 }
