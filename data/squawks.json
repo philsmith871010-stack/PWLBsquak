@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T14:01:18Z",
+ "generated_at": "2026-10-12T14:10:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6b487a1d4f4d",
+   "ts": "2026-10-12T14:09:40Z",
+   "headline": "Trump defends his Russia energy decision and says the EU has paid Russia $250bn for energy",
+   "detail": "In a social media post, the US President said his decision on Russian energy was the right one for Americans and claimed the European Union had paid Russia 250 billion dollars for energy. This follows his earlier announcement that Russia would supply diesel to world markets.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2ac4a57ee76d58bb",
+    "d30b73c68f377fb7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoozw7nmg2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoozw7nmg2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxop35quzt2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxop35quzt2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "108e82eff6cf",
+   "created_at": "2026-10-12T14:10:51Z"
+  },
   {
    "id": "3b2383556f78",
    "ts": "2026-10-12T13:56:26Z",
@@ -5988,27 +6015,6 @@
      "author": "cityam.com.web.brid.gy",
      "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mx3wszxuadj2",
      "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mx3wszxuadj2"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e249a2f3c74d",
-   "created_at": "2026-10-05T05:20:52Z"
-  },
-  {
-   "id": "9dcfea4c37cc",
-   "ts": "2026-10-04T22:00:38Z",
-   "headline": "UK expected to impose tariffs on Chinese electric cars, The Times reports",
-   "detail": "Reuters, citing The Times on Sunday, says Britain is expected to put tariffs on electric vehicles imported from China.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "8ede7e4f362b77a2"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mx3fmol5tj2p",
-     "url": "https://bsky.app/profile/reuters.com/post/3mx3fmol5tj2p"
     }
    ],
    "model": "opus",
