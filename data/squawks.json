@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T13:21:16Z",
+ "generated_at": "2026-10-12T13:25:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0a0580e80185",
+   "ts": "2026-10-12T13:25:25Z",
+   "headline": "Zelensky says Ukraine is ready for an energy truce but doubts whether Putin is",
+   "detail": "Ukraine's President Zelensky said Kyiv is prepared to agree an energy truce with Russia, while expressing uncertainty about whether President Putin is willing. The remarks follow Trump's statement that there is an energy ceasefire in the Russia-Ukraine conflict.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "10aae4c9699952a7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxomkrfp5t2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxomkrfp5t2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "602084c93b75",
+   "created_at": "2026-10-12T13:25:45Z"
+  },
   {
    "id": "8c63f8e2ee5a",
    "ts": "2026-10-12T13:19:20Z",
@@ -6005,39 +6026,6 @@
    "model": "opus",
    "run_id": "e435b4ad6d72",
    "created_at": "2026-10-02T14:45:53Z"
-  },
-  {
-   "id": "e400b01979e0",
-   "ts": "2026-10-02T13:59:33Z",
-   "headline": "Macron says the G7 has decided to release up to 100mn barrels of diesel and crude stocks over four months",
-   "detail": "French President Macron said G7 countries have agreed to release strategic diesel and crude stocks of up to 100mn barrels. He said the release will take place over four months.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "0430fce15322bef9",
-    "4d1c823a5449e7b7",
-    "5a70007df979c94a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjrnfojw2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjrnfojw2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjsj4fqv2x",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjsj4fqv2x"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjsmbhvw2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjsmbhvw2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7943c3245293",
-   "created_at": "2026-10-02T14:01:24Z"
   }
  ]
 }
