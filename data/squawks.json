@@ -1,8 +1,71 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T14:40:54Z",
+ "generated_at": "2026-10-12T14:45:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "14ea924db360",
+   "ts": "2026-10-12T14:44:12Z",
+   "headline": "UK PM Burnham says Iran's IRGC very likely directed RAF Fairford incident and pledges further sanctions on Iran",
+   "detail": "Speaking in the Commons, Prime Minister Burnham said the RAF Fairford incident was highly likely coordinated in Iran and almost certainly directed by the IRGC, and that the UK will bring further sanctions against Iran and the IRGC. He also said the UK will meet its NATO commitments in full and that he welcomed President Trump's announcement of a reciprocal energy ceasefire between Russia and Ukraine.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e386d7a4551a8099",
+    "4f347777b6629e8a",
+    "3a9a887b021172c5",
+    "60b31db2c93fe026",
+    "38e0f19b138a07fa",
+    "c2756884a0135c1b",
+    "e7f71bb2533ed671",
+    "0aee10c3380db1c6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoqxo6v7d26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoqxo6v7d26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoqza2qku2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoqza2qku2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoqzhzlwx2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoqzhzlwx2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoqzpd5l72z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoqzpd5l72z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoqutpfz72z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoqutpfz72z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoqttetfz2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoqttetfz2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoqsdqjsz2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoqsdqjsz2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoqy63ia224",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoqy63ia224"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8548ae64ee76",
+   "created_at": "2026-10-12T14:45:55Z"
+  },
   {
    "id": "ae53fe28ac34",
    "ts": "2026-10-12T14:38:21Z",
@@ -5999,27 +6062,6 @@
    "model": "opus",
    "run_id": "525efb5b0e72",
    "created_at": "2026-10-05T05:25:49Z"
-  },
-  {
-   "id": "0ecbc22109dd",
-   "ts": "2026-10-05T00:00:12Z",
-   "headline": "Apache offshore workers vote to strike, which could disrupt the North Sea Forties pipeline, Unite says",
-   "detail": "The Unite union said more than 160 offshore workers at Apache back strike action this month that could disrupt the Forties pipeline, a major route for UK oil and gas supplies.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "dafe535ad1d38a2b"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mx3mcimxhe2z",
-     "url": "https://bsky.app/profile/reuters.com/post/3mx3mcimxhe2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e249a2f3c74d",
-   "created_at": "2026-10-05T05:20:52Z"
   }
  ]
 }
