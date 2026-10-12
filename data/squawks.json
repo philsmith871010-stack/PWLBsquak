@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T13:31:21Z",
+ "generated_at": "2026-10-12T13:35:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8d3044b89005",
+   "ts": "2026-10-12T13:35:12Z",
+   "headline": "Saudi Arabia reports a new barrage of incoming missile and drone fire; Riyadh airport stays closed for now",
+   "detail": "Saudi Arabia said on Monday it was facing fresh incoming fire, Reuters reports. The attacks follow Saturday's deadly missile strike on a Riyadh airport departure terminal, which Yemen's Houthis claimed.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5e34dba560058e1c"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxon4bdz2h2x",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxon4bdz2h2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "eca6ae701fd1",
+   "created_at": "2026-10-12T13:35:47Z"
+  },
   {
    "id": "a335dc7a4a72",
    "ts": "2026-10-12T13:31:08Z",
@@ -5993,39 +6014,6 @@
    "model": "opus",
    "run_id": "62645c3a5a49",
    "created_at": "2026-10-02T17:05:54Z"
-  },
-  {
-   "id": "b0b6a70252d1",
-   "ts": "2026-10-02T16:47:11Z",
-   "headline": "Italy plans to ask the EU for 2027 deficit leeway of 0.6% of GDP and raises its 2026 growth forecast to 0.8%",
-   "detail": "Italy's government plans to ask the EU for deficit flexibility worth 0.6% of GDP in 2027, and expects the 2026 deficit to come in below 3% of GDP. It also raised its 2026 GDP growth forecast to 0.8%, up from the 0.6% it forecast in April.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "18356bea8182dac9",
-    "515272ef13163784",
-    "a2195d84ad0838f4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvt6ewxjp2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvt6ewxjp2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvt77c4yb2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvt77c4yb2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvtau76nu2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvtau76nu2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5003f30f878b",
-   "created_at": "2026-10-02T16:51:04Z"
   }
  ]
 }
