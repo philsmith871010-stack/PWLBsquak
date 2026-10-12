@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T10:40:49Z",
+ "generated_at": "2026-10-12T10:50:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fbb3f09dedcb",
+   "ts": "2026-10-12T10:47:54Z",
+   "headline": "Kremlin's Peskov says Ukraine wants a 60-day ceasefire to regroup and keep fighting rather than to hold elections",
+   "detail": "Kremlin spokesman Dmitry Peskov said Ukraine is seeking a 60-day ceasefire so it can recover and carry on the war, not so it can hold elections, according to reports. The Kremlin has separately said it is ready to suspend strikes on Ukraine's election day.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e48139f85725645d",
+    "572cb03edfe26bae"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxodr57gay24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxodr57gay24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxodu26giu2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxodu26giu2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e152e54496f8",
+   "created_at": "2026-10-12T10:50:50Z"
+  },
   {
    "id": "6cd43ef196a7",
    "ts": "2026-10-12T10:40:17Z",
@@ -6089,39 +6116,6 @@
    "model": "opus",
    "run_id": "a5c82699610e",
    "created_at": "2026-10-02T10:01:27Z"
-  },
-  {
-   "id": "f8d6a540a431",
-   "ts": "2026-10-02T09:00:56Z",
-   "headline": "Eurozone September flash CPI rises to 3.8% y/y, above 3.7% forecast and up from 3.2%; core holds in line at 2.5%",
-   "detail": "The eurozone flash estimate puts September headline inflation at 3.8% year on year, against a 3.7% forecast and 3.2% previously, and at 0.6% month on month, against a 0.5% forecast. Core inflation rose to 2.5% from 2.4%, matching the forecast.",
-   "category": "global_rates",
-   "importance": 3,
-   "source_event_ids": [
-    "a6a2c60218348f69",
-    "eea0806988821a39",
-    "4c37aafb0c910b6a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwuz4nznhd24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwuz4nznhd24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwuz4rram324",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwuz4rram324"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwuz4vrvwo2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwuz4vrvwo2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "80787446fb4c",
-   "created_at": "2026-10-02T09:01:24Z"
   }
  ]
 }
