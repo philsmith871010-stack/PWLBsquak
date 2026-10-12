@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T18:01:24Z",
+ "generated_at": "2026-10-12T18:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8f33257b763d",
+   "ts": "2026-10-12T18:01:52Z",
+   "headline": "ECB's Moulin says the French economy is withstanding the energy shock as the Bank of France's industry uncertainty gauge hits highest…",
+   "detail": "Bank of France Governor and ECB Governing Council member Moulin said the French economy is holding up in the face of the energy shock. He said the central bank's gauge of industry uncertainty is at its highest level since April.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "871efe8c13c73f5c",
+    "35804487de31817d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp3z4bbe42r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp3z4bbe42r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp3z6k7x62m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp3z6k7x62m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8c55bf86c178",
+   "created_at": "2026-10-12T18:05:42Z"
+  },
   {
    "id": "59f3cc4e0528",
    "ts": "2026-10-12T18:01:21Z",
@@ -6035,39 +6062,6 @@
    "model": "opus",
    "run_id": "ec6493c35dc7",
    "created_at": "2026-10-06T06:31:17Z"
-  },
-  {
-   "id": "e9a95e8cc252",
-   "ts": "2026-10-06T06:00:42Z",
-   "headline": "German August factory orders fall 10.6% m/m, far worse than the 1% drop forecast",
-   "detail": "German industrial orders fell 10.6% month on month in August, against a forecast fall of 1% and a 2.5% rise the month before. Working-day adjusted orders rose 2.7% year on year, against a forecast of 13.1% and 13.1% previously.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "329d99255e48c189",
-    "1157e1ce071c3d81",
-    "c7d05a561634549f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6qw23mia2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6qw23mia2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6qwvhy2u2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6qwvhy2u2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6qx3a7cp2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6qx3a7cp2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ff0687329564",
-   "created_at": "2026-10-06T06:01:23Z"
   }
  ]
 }
