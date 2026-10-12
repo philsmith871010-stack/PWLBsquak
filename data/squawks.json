@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T11:50:49Z",
+ "generated_at": "2026-10-12T12:01:20Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8c3919cf8622",
+   "ts": "2026-10-12T12:00:52Z",
+   "headline": "OPEC lowers its 2026 oil demand growth forecast to 400,000 b/d and expects pent-up demand in 2027",
+   "detail": "OPEC Secretary General Haitham Al Ghais said on Monday that the group has cut its forecast for oil demand growth this year to 400,000 barrels per day, from 1.4m b/d at the start of the year, Reuters reports. He said the cut reflects how the year has developed and that OPEC expects pent-up demand in 2027.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "a18f7c6983237aee"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxohtlh3ga2a",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxohtlh3ga2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fe6d63ea3d1d",
+   "created_at": "2026-10-12T12:01:20Z"
+  },
   {
    "id": "2186dea37dcf",
    "ts": "2026-10-12T11:47:30Z",
@@ -6119,27 +6140,6 @@
    "model": "opus",
    "run_id": "732adfed1b12",
    "created_at": "2026-10-02T12:31:11Z"
-  },
-  {
-   "id": "37d4682e3609",
-   "ts": "2026-10-02T12:22:54Z",
-   "headline": "French 2-year government bond yield rises 13.8bp to 3.8337% as the French bond sell-off extends",
-   "detail": "France's 2-year government bond yield was last up 13.8bp on the day at 3.8337%. The move follows earlier rises in French 10-year yields and a widening in French CDS.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "97ed88a175fcedd5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvefrz2xx2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvefrz2xx2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ca4eb55623ae",
-   "created_at": "2026-10-02T12:25:46Z"
   }
  ]
 }
