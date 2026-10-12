@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T17:40:48Z",
+ "generated_at": "2026-10-12T17:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3ce3cf0bc9cb",
+   "ts": "2026-10-12T17:40:59Z",
+   "headline": "Fed's Hammack calls for more restraint and warns market conditions could shift if policy is not acted on",
+   "detail": "Cleveland Fed President Hammack said further monetary restraint is needed and that her FOMC projection for the neutral rate is one of the higher ones. She also said low-income workers have moved from trading down to choosing which bills to pay.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "d32077b542f62ece",
+    "0085cc4d506ce943",
+    "fde715c60d3bac15"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp2tru7e524",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp2tru7e524"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp2ulcxqk2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp2ulcxqk2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp2urbx322r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp2urbx322r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e6a6a75eb9c4",
+   "created_at": "2026-10-12T17:45:51Z"
+  },
   {
    "id": "da1b80b60755",
    "ts": "2026-10-12T17:36:22Z",
@@ -6077,39 +6110,6 @@
    "model": "opus",
    "run_id": "a4dfd38c4c06",
    "created_at": "2026-10-06T05:05:45Z"
-  },
-  {
-   "id": "925d0dad6871",
-   "ts": "2026-10-06T00:04:23Z",
-   "headline": "Yemeni government forces say they have retaken Mocha from the Houthis and pushed them out of areas around Bab el-Mandeb",
-   "detail": "Yemen's internationally recognised forces say they took back the Red Sea port city after heavy fighting. Saudi-backed forces have launched a counteroffensive to regain control of the strait.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2d67f3d688289431",
-    "f464de16b961a2d6",
-    "1c4b9a3b0b7f159d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx64yvwiwf2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx64yvwiwf2m"
-    },
-    {
-     "author": "semafor.com",
-     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mx64utqsx62d",
-     "url": "https://bsky.app/profile/semafor.com/post/3mx64utqsx62d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx65qzeznb2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx65qzeznb2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e837e05335c6",
-   "created_at": "2026-10-06T05:01:25Z"
   }
  ]
 }
