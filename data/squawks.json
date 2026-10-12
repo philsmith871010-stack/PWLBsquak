@@ -1,8 +1,89 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T16:45:50Z",
+ "generated_at": "2026-10-12T16:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2d9bdb429f74",
+   "ts": "2026-10-12T16:50:15Z",
+   "headline": "Germany's stability council expects the debt-to-GDP ratio to rise to 78.25% in 2030",
+   "detail": "The council, which coordinates Germany's federal and state finances, published the projection on Monday, Reuters reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0e55943d09db7778"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxoxz2tijc2a",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxoxz2tijc2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "65b2e8b8152a",
+   "created_at": "2026-10-12T16:50:49Z"
+  },
+  {
+   "id": "1bbf652dab7a",
+   "ts": "2026-10-12T16:48:31Z",
+   "headline": "Fed's Hammack says inflation is still too high and the economy needs more tightness, with an inflationary mindset the biggest risk",
+   "detail": "Cleveland Fed President Beth Hammack added that she is keeping an open mind on the right timing. These remarks follow her earlier comment that US interest rates need to go higher.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "bd49e39d092bb645",
+    "5b324e62e7855a87",
+    "079df5363a7a2130",
+    "36ab0ff0c553fb69"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoxttzpkd2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoxttzpkd2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoxupxkkj2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoxupxkkj2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoxvx5mzv2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoxvx5mzv2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoxwqblsl2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoxwqblsl2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "65b2e8b8152a",
+   "created_at": "2026-10-12T16:50:49Z"
+  },
+  {
+   "id": "733a6e30ecd8",
+   "ts": "2026-10-12T15:26:00Z",
+   "headline": "UK PM Burnham tells MPs a summit with EU leaders will be held on 20 November and calls his approach to the EU pragmatic",
+   "detail": "Prime Minister Andy Burnham gave the summit date in the Commons on Monday. City AM reports that two weeks earlier he had suggested he could look at a full return to the EU.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "50992b2396d15be7"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mxoxy67pbo72",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mxoxy67pbo72"
+    }
+   ],
+   "model": "opus",
+   "run_id": "65b2e8b8152a",
+   "created_at": "2026-10-12T16:50:49Z"
+  },
   {
    "id": "97446fb86812",
    "ts": "2026-10-12T16:44:36Z",
@@ -5909,81 +5990,6 @@
    "model": "opus",
    "run_id": "55c455985702",
    "created_at": "2026-10-05T17:01:24Z"
-  },
-  {
-   "id": "a9bb1419ab93",
-   "ts": "2026-10-05T16:03:56Z",
-   "headline": "US 30-year Treasury yield climbs to 5.69%, its highest level since 2002",
-   "detail": "Market reports show the US 30-year Treasury yield rising to 5.69%, a new high since 2002.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "399698c036be0eaf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx5c5s7h6z2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx5c5s7h6z2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ff4f8f354c81",
-   "created_at": "2026-10-05T16:05:51Z"
-  },
-  {
-   "id": "cbabd3a0d5d0",
-   "ts": "2026-10-05T15:10:36Z",
-   "headline": "Trump to set out plan easing use of tax-exempt red-dyed diesel, officials say",
-   "detail": "US officials say President Trump will unveil a plan on Monday to ease restrictions on the use of red-dyed, tax-exempt diesel. No further details were given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "8dedec60ecf3db9d",
-    "aab361fef224936f",
-    "bfab3fdb42e3f26d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx56zcx3jh2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx56zcx3jh2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx573ggetp24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx573ggetp24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx576giivi2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx576giivi2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e7c85f099735",
-   "created_at": "2026-10-05T15:10:59Z"
-  },
-  {
-   "id": "0b2626a150eb",
-   "ts": "2026-10-05T14:00:46Z",
-   "headline": "US September ISM services PMI falls to 54.9, just under the 55.0 forecast and down from 55.4",
-   "detail": "The ISM non-manufacturing index for September came in at 54.9, against a consensus estimate of 55.0 and a previous reading of 55.4.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "fe815eb8768a782a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx53bkuohw2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx53bkuohw2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4206ca991bd5",
-   "created_at": "2026-10-05T14:01:24Z"
   }
  ]
 }
