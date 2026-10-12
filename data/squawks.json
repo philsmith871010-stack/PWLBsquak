@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T06:01:19Z",
+ "generated_at": "2026-10-12T08:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c1f9b8e290a6",
+   "ts": "2026-10-12T08:15:13Z",
+   "headline": "IFS Green Budget says Chancellor's fiscal headroom may be bigger than expected but flags spending pressures before the Budget",
+   "detail": "The Institute for Fiscal Studies has published its 2026 Green Budget, produced with Barclays. It finds that Chancellor John Healey's fiscal headroom could be larger than many expect, and it names spending pressures as a key challenge for the Budget.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "7188ca7b9645f883"
+   ],
+   "sources": [
+    {
+     "author": "theifs.bsky.social",
+     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3mxo3a3mhwv2d",
+     "url": "https://bsky.app/profile/theifs.bsky.social/post/3mxo3a3mhwv2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3e330c673da6",
+   "created_at": "2026-10-12T08:15:50Z"
+  },
+  {
+   "id": "84bdb136d2ae",
+   "ts": "2026-10-12T08:13:48Z",
+   "headline": "EU foreign ministers adopt almost 1,600 new sanctions listings on Russia's military-industrial complex",
+   "detail": "The EU's foreign policy chief, Kaja Kallas, says EU foreign ministers have just approved nearly 1,600 new sanctions listings aimed at Russia's military-industrial complex.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "78704fda9cac62ca",
+    "336c8c399dbd3485"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxo35kspso2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxo35kspso2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxo35otm5e24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxo35otm5e24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3e330c673da6",
+   "created_at": "2026-10-12T08:15:50Z"
+  },
   {
    "id": "2c4a7ba3c245",
    "ts": "2026-10-12T06:01:05Z",
@@ -6080,48 +6128,6 @@
    "model": "opus",
    "run_id": "7091544eca27",
    "created_at": "2026-10-02T08:35:46Z"
-  },
-  {
-   "id": "7beba2a1b07b",
-   "ts": "2026-10-02T07:57:48Z",
-   "headline": "UK 2-year gilt yield drops 9bp to 4.726%, its lowest level since 22 September",
-   "detail": "The 2-year gilt yield fell 9bp to 4.726% in early trading on 2 October, its lowest since 22 September, according to a market wire post.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "c90d6d742bc867fb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwuvlqt7gy23",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwuvlqt7gy23"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bb035e6b2a40",
-   "created_at": "2026-10-02T08:01:26Z"
-  },
-  {
-   "id": "40a5d638da1b",
-   "ts": "2026-10-02T07:30:55Z",
-   "headline": "ECB's Rehn says higher energy prices are bringing inflation closer to the ECB's adverse scenario",
-   "detail": "ECB Governing Council member Olli Rehn said rising energy prices were moving the inflation outlook nearer to the central bank's adverse scenario. No market reaction was reported.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "75015f5c6d26dc4f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwuu3of7dp22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwuu3of7dp22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "48c5122014c0",
-   "created_at": "2026-10-02T07:31:12Z"
   }
  ]
 }
