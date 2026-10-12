@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T13:40:50Z",
+ "generated_at": "2026-10-12T13:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f612699f96c0",
+   "ts": "2026-10-12T13:44:42Z",
+   "headline": "Iran's IRGC says it hit a third supertanker in the Strait of Hormuz in two days, setting it on fire",
+   "detail": "The IRGC Navy said the tanker was struck this morning and caught fire after it disabled its navigation system and ignored warnings while trying to leave the strait, Fars News reports. The inputs report no market reaction.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "164fe1b17224e4c8",
+    "3b6d0946adda293d",
+    "874be39f4062e56b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxonnblizt2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxonnblizt2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxonnig4p22f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxonnig4p22f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxonp3jooe2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxonp3jooe2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b81081a1cb54",
+   "created_at": "2026-10-12T13:45:51Z"
+  },
   {
    "id": "56373d3090b1",
    "ts": "2026-10-12T13:40:17Z",
@@ -5969,33 +6002,6 @@
    "model": "opus",
    "run_id": "71847b73e92a",
    "created_at": "2026-10-02T20:01:23Z"
-  },
-  {
-   "id": "9fd46fef11be",
-   "ts": "2026-10-02T18:57:21Z",
-   "headline": "US Justice Department will not reopen its criminal investigation into Fed Chair Powell, Attorney General says",
-   "detail": "Attorney General Blanche said the Department of Justice is satisfied with the Fed inspector general's report and will not resume the criminal probe into Powell.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a0794ea8b67cbb11",
-    "aafc8651c3032111"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mww2h4higz2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mww2h4higz2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mww2imnoxb24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mww2imnoxb24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4c50a7f38e7d",
-   "created_at": "2026-10-02T19:01:59Z"
   }
  ]
 }
