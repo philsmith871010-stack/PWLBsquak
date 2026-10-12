@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T16:35:42Z",
+ "generated_at": "2026-10-12T16:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "97446fb86812",
+   "ts": "2026-10-12T16:44:36Z",
+   "headline": "Fed's Hammack says US interest rates need to go higher",
+   "detail": "Cleveland Fed President Beth Hammack said interest rates need to be higher, according to a Barron's report. No figures or timing were given.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c1584c72312b1281",
+    "70fc852a82e1f37d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoxoxokxl2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoxoxokxl2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoxq2nwlt2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoxq2nwlt2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c7085b1ec40c",
+   "created_at": "2026-10-12T16:45:50Z"
+  },
   {
    "id": "4972abd93fa3",
    "ts": "2026-10-12T16:31:09Z",
@@ -5957,57 +5984,6 @@
    "model": "opus",
    "run_id": "4206ca991bd5",
    "created_at": "2026-10-05T14:01:24Z"
-  },
-  {
-   "id": "a799093c83fc",
-   "ts": "2026-10-05T13:45:57Z",
-   "headline": "US final September services PMI is revised up to 58.8 from the 58.7 flash; composite PMI unchanged at 58.4",
-   "detail": "The S&P Global survey shows services rising from 56.5 in August and the composite from 56.0. The survey reports new order growth at a four-and-a-half-year high, the fastest job creation since June 2022 and input cost inflation picking up again.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e6a399ed5da3eac1",
-    "d884f22d76a38270",
-    "ab1ead7757a56733",
-    "6f0c87193f2d5079",
-    "7ba5e09c35758a57",
-    "3397ace48b33a477"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx52h2jmw42n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx52h2jmw42n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx52hvu2lb2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx52hvu2lb2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx52jnw6ff2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx52jnw6ff2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx52jqrj3c2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx52jqrj3c2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx52jushoo2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx52jushoo2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx52ngqshu2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx52ngqshu2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2d86975949bc",
-   "created_at": "2026-10-05T13:51:00Z"
   }
  ]
 }
