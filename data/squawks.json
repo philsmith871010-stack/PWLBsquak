@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T14:10:51Z",
+ "generated_at": "2026-10-12T14:31:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1b084ea4292c",
+   "ts": "2026-10-12T14:27:39Z",
+   "headline": "Mexico's President Sheinbaum says trade talks with the US are making progress",
+   "detail": "Mexican President Claudia Sheinbaum said on 12 October that trade negotiations with the United States are advancing. She gave no further details.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4cc5751b724d75a3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoq23f5622q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoq23f5622q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b95686f21267",
+   "created_at": "2026-10-12T14:31:06Z"
+  },
   {
    "id": "6b487a1d4f4d",
    "ts": "2026-10-12T14:09:40Z",
@@ -5994,27 +6015,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mx3jiuab6f2a",
      "url": "https://bsky.app/profile/reuters.com/post/3mx3jiuab6f2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e249a2f3c74d",
-   "created_at": "2026-10-05T05:20:52Z"
-  },
-  {
-   "id": "0377e8d6fae8",
-   "ts": "2026-10-04T23:01:00Z",
-   "headline": "EY fiscal forecast shows Iran war could fully erase Healey's headroom against borrowing rule",
-   "detail": "City AM reports that EY's central fiscal forecast shows the Chancellor's buffer against the borrowing target has shrunk and could be wiped out by the effects of the Iran war. Economists also said the OBR could take a gloomier view of the UK economy.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "785340484f391101"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mx3wszxuadj2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mx3wszxuadj2"
     }
    ],
    "model": "opus",
