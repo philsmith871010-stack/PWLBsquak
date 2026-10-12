@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T21:10:47Z",
+ "generated_at": "2026-10-12T21:35:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "42cf9990bd9d",
+   "ts": "2026-10-12T21:31:07Z",
+   "headline": "Oil prices rise as the Russia-Ukraine energy ceasefire agreed by Trump with Putin shows signs of fraying, FT reports",
+   "detail": "The Financial Times reports that oil prices are climbing as the energy ceasefire comes under strain. Trump announced the ceasefire after a deal with Putin. The report gives no price figures.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "3a70fbb603f3f467"
+   ],
+   "sources": [
+    {
+     "author": "iankmsmith.ft.com",
+     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3mxphpc6jes24",
+     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3mxphpc6jes24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "790d6c1e5596",
+   "created_at": "2026-10-12T21:35:39Z"
+  },
   {
    "id": "8dbae29f7cd6",
    "ts": "2026-10-12T21:07:01Z",
@@ -5993,33 +6014,6 @@
    "model": "opus",
    "run_id": "085d96b47279",
    "created_at": "2026-10-06T09:01:22Z"
-  },
-  {
-   "id": "36a6d7ba118e",
-   "ts": "2026-10-06T08:52:49Z",
-   "headline": "BoE's Mann says supply shocks are embedding inflation and the real economy is resilient",
-   "detail": "Bank of England MPC member Catherine Mann said supply shocks are causing inflation to become embedded. She also said the real side of the UK economy remains resilient.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "0bd24cbedfb8c211",
-    "514a5bcc95cff50a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx72jtevlt2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx72jtevlt2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx72lggyeg2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx72lggyeg2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f395fa7cdae1",
-   "created_at": "2026-10-06T08:55:46Z"
   }
  ]
 }
