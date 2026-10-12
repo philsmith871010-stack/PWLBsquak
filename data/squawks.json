@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T12:15:55Z",
+ "generated_at": "2026-10-12T12:25:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f129e73d824a",
+   "ts": "2026-10-12T12:21:01Z",
+   "headline": "ECB's Stournaras says the ECB may keep raising rates gradually",
+   "detail": "ECB Governing Council member Yannis Stournaras said on Monday that the ECB may stay on a path of gradual rate increases.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e68b049ddda99bc6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoixn5fhk26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoixn5fhk26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6fb4c5a22eae",
+   "created_at": "2026-10-12T12:25:46Z"
+  },
   {
    "id": "6736373e6c8c",
    "ts": "2026-10-12T12:15:15Z",
@@ -6071,27 +6092,6 @@
    "model": "opus",
    "run_id": "848398ab101a",
    "created_at": "2026-10-02T13:40:59Z"
-  },
-  {
-   "id": "e5b2b76b8d69",
-   "ts": "2026-10-02T12:39:07Z",
-   "headline": "Fed-dated swaps stop fully pricing one more US rate rise this year",
-   "detail": "Fed-dated swaps no longer price a full Federal Reserve rate rise by the end of the year, according to a market post. This comes after earlier moves that priced out an October rise.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "65f023751830002c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvfcsbntu22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvfcsbntu22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cba509094c57",
-   "created_at": "2026-10-02T12:40:52Z"
   }
  ]
 }
