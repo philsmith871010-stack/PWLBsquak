@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T17:35:40Z",
+ "generated_at": "2026-10-12T17:40:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "da1b80b60755",
+   "ts": "2026-10-12T17:36:22Z",
+   "headline": "Fed's Hammack says the question now is how quickly to tighten policy, but she does not want to put jobs at risk",
+   "detail": "Cleveland Fed President Hammack said further restraint is needed and the issue for the Fed is the pace of tightening. She added that she does not want rates to hit the economy radically or threaten the employment side of the Fed's mandate.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "5847e0d8b9416162",
+    "92ee5d1a59b3210f",
+    "676d7210361da81a",
+    "d4a6d6c5a78033a6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp2lj5i4n2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp2lj5i4n2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp2srx65e2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp2srx65e2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp2lnwqdo2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp2lnwqdo2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp2knwssx2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp2knwssx2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1fa994e3b6d6",
+   "created_at": "2026-10-12T17:40:48Z"
+  },
   {
    "id": "bb013fb750e0",
    "ts": "2026-10-12T17:32:23Z",
@@ -6066,51 +6105,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx65qzeznb2s",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx65qzeznb2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e837e05335c6",
-   "created_at": "2026-10-06T05:01:25Z"
-  },
-  {
-   "id": "5db87e052130",
-   "ts": "2026-10-05T23:57:31Z",
-   "headline": "Trump signs order letting anyone buy tax-free red-dyed diesel by waiving the off-road requirement",
-   "detail": "The US President signed the executive order on the evening of 5 October, US time. He said its aim is to contain near-record diesel prices.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "5e9deb36f67f9506",
-    "d9b555f1781cbb93",
-    "6c87fc775fb28305",
-    "5fa8bf730f33a6e4",
-    "f49fed83cb1a3e4b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx64mmsnbw2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx64mmsnbw2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx64nf5srj2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx64nf5srj2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx64l5ksfd2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx64l5ksfd2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx64oma7ao24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx64oma7ao24"
-    },
-    {
-     "author": "semafor.com",
-     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mx636zaatr2j",
-     "url": "https://bsky.app/profile/semafor.com/post/3mx636zaatr2j"
     }
    ],
    "model": "opus",
