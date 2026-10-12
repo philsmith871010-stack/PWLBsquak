@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T12:50:55Z",
+ "generated_at": "2026-10-12T13:21:16Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8c63f8e2ee5a",
+   "ts": "2026-10-12T13:19:20Z",
+   "headline": "BoE's Mann says conditions are in place for possible wage-price drift",
+   "detail": "Bank of England MPC member Catherine Mann said conditions are in place for possible drift in wages and prices, according to a market news account. No market reaction was reported.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "18958d2372909ee5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxom7w3c7s2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxom7w3c7s2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3ec136555544",
+   "created_at": "2026-10-12T13:21:16Z"
+  },
   {
    "id": "1f2ca94f086e",
    "ts": "2026-10-12T12:47:11Z",
@@ -6017,63 +6038,6 @@
    "model": "opus",
    "run_id": "7943c3245293",
    "created_at": "2026-10-02T14:01:24Z"
-  },
-  {
-   "id": "209d25c999ab",
-   "ts": "2026-10-02T13:53:10Z",
-   "headline": "White House adviser Hassett says the administration does not aim to inflate its way out of debt and puts higher yields down to a strong…",
-   "detail": "White House senior adviser Kevin Hassett said US interest payments are too high, the President is committed to cutting the deficit and the jobs report was in line with expectations. He said yields are higher because the economy is strong.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "278fb18dde5de842",
-    "4014c0b617e8d96d",
-    "207f7156527532eb",
-    "d78e4a61dd9fa443",
-    "5310b456dbb7b6e3",
-    "70fba4ae8a45b606",
-    "c019618fcf048ce2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjedpbtr2x",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjedpbtr2x"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjfimx4x23",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjfimx4x23"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjfyvu2i2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjfyvu2i2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjgtynbf2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjgtynbf2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjgzbykf2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjgzbykf2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvjh6ybjj2x",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvjh6ybjj2x"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvji2ukbv22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvji2ukbv22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6d45fe0fbd37",
-   "created_at": "2026-10-02T13:55:45Z"
   }
  ]
 }
