@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T12:25:46Z",
+ "generated_at": "2026-10-12T12:50:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1f2ca94f086e",
+   "ts": "2026-10-12T12:47:11Z",
+   "headline": "Poland's Wrochna expects an IEA agreement on releasing fuel stocks on Thursday",
+   "detail": "Polish official Wojciech Wrochna said he expects the International Energy Agency to reach a deal on Thursday to release fuel stocks.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "f1f962e9902a69d4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxokgfyxxu2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxokgfyxxu2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "02c3c2f761d6",
+   "created_at": "2026-10-12T12:50:55Z"
+  },
   {
    "id": "f129e73d824a",
    "ts": "2026-10-12T12:21:01Z",
@@ -6053,45 +6074,6 @@
    "model": "opus",
    "run_id": "6d45fe0fbd37",
    "created_at": "2026-10-02T13:55:45Z"
-  },
-  {
-   "id": "c166150fd3e1",
-   "ts": "2026-10-02T13:38:55Z",
-   "headline": "White House adviser Hassett says the US Navy has reopened the Strait of Hormuz and crude is flowing through",
-   "detail": "White House senior adviser Kevin Hassett said the US Navy has reopened the Strait of Hormuz and crude oil is passing through again. He added that more energy announcements will follow next week. No market reaction was reported in the posts.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "1b913be56ed89f13",
-    "4d116bf54a185215",
-    "85e14ee2c8df80cd",
-    "d6e7856a3fe8b48b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvinpmsz724",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvinpmsz724"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvipf7wht2x",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvipf7wht2x"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwviokyoun2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwviokyoun2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwvipi5apb2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwvipi5apb2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "848398ab101a",
-   "created_at": "2026-10-02T13:40:59Z"
   }
  ]
 }
