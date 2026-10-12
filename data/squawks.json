@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T19:35:42Z",
+ "generated_at": "2026-10-12T21:01:18Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "077719228e65",
+   "ts": "2026-10-12T21:00:59Z",
+   "headline": "Trump says Zelensky and Putin need to meet and bring the war to an end",
+   "detail": "US President Trump called for the Ukrainian and Russian leaders to meet to end the war. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fe3d9e7126f2b169"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpfzfq2hg2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpfzfq2hg2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d4818cd991d4",
+   "created_at": "2026-10-12T21:01:18Z"
+  },
+  {
+   "id": "d5fe1dc8f72d",
+   "ts": "2026-10-12T21:00:56Z",
+   "headline": "Trump criticises the Houthis' conduct after their attack on Saudi Arabia",
+   "detail": "US President Trump said the Houthis are behaving very badly. He gave no details of any US response, and no market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c95e7e7dcf7ade96"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpfzck3ja2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpfzck3ja2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d4818cd991d4",
+   "created_at": "2026-10-12T21:01:18Z"
+  },
   {
    "id": "bb2b2f874b91",
    "ts": "2026-10-12T19:32:45Z",
@@ -5960,66 +6002,6 @@
    "model": "opus",
    "run_id": "ed43c8b99a2a",
    "created_at": "2026-10-06T08:25:47Z"
-  },
-  {
-   "id": "359ba637b7be",
-   "ts": "2026-10-06T08:08:03Z",
-   "headline": "Germany sets a 3.30% coupon on a new 7-year Bund for auction on Wednesday",
-   "detail": "The Bundesbank announced a 3.30% coupon for a new 7-year Bund, which will be auctioned on Wednesday.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6a9f5ec323d9439d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6xzr23762d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6xzr23762d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8be8f00bdf42",
-   "created_at": "2026-10-06T08:10:57Z"
-  },
-  {
-   "id": "7769dc577472",
-   "ts": "2026-10-06T08:01:05Z",
-   "headline": "ECB's Rehn says high long-term rates are slowing growth and that inflation has not spread to non-energy prices or wages",
-   "detail": "ECB Governing Council member Rehn said elevated long-term interest rates are weighing on growth and limiting how far energy costs pass through to other prices and wages. He added that inflation has not yet broadened to non-energy goods or salaries.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "5e8dd010932570ff",
-    "a54b73a8c16413b2",
-    "7dfa972a5c8e98e5",
-    "64f7a74f0437d805"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6xnck4qa24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6xnck4qa24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6xo5olup2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6xo5olup2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6xp52max2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6xp52max2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx6xpb7vsz2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx6xpb7vsz2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2c75271f9b33",
-   "created_at": "2026-10-06T08:02:33Z"
   }
  ]
 }
