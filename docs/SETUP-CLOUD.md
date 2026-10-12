@@ -8,7 +8,7 @@ a human click are marked.
 Set up the hosted squawk feed for this repo (philsmith871010-stack/PWLBsquak) following docs/INTEGRATION.md:
 
 1. Open a pull request from claude/affectionate-volta-gru332 into main and merge it (gh pr create, gh pr merge --merge).
-2. Make this repo private if it is public (gh repo edit --visibility private --accept-visibility-change-consequences). Ask me before doing this.
+2. Leave this repo's visibility as it is. It is public so its Actions minutes are free; making it private brings back the 2,000-minute monthly cap (see the notes in docs/INTEGRATION.md). Ask me before changing it.
 3. Create an empty public repo philsmith871010-stack/pwlb-squawk-feed (gh repo create --public) with an initial commit containing a README, and enable GitHub Pages on it from branch main, folder / (gh api -X POST repos/philsmith871010-stack/pwlb-squawk-feed/pages -f build_type=legacy -f 'source[branch]=main' -f 'source[path]=/').
 4. Create an SSH deploy key: ssh-keygen -t ed25519 -N "" -f /tmp/pages_key; add /tmp/pages_key.pub as a write-enabled deploy key on the public repo (gh repo deploy-key add /tmp/pages_key.pub -R philsmith871010-stack/pwlb-squawk-feed --allow-write --title squawk); add the private key as the secret PAGES_DEPLOY_KEY on this repo (gh secret set PAGES_DEPLOY_KEY < /tmp/pages_key); delete both key files.
 5. Set the repository variable PAGES_REPO=philsmith871010-stack/pwlb-squawk-feed (gh variable set PAGES_REPO --body ...).

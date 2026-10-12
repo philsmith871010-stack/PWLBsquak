@@ -109,3 +109,9 @@ and journalists, so expect perhaps 100-200 more events a day.
 - The Bank of England account (`bankofengland.bsky.social`) resolves but has never posted,
   so it is listed under `disabled` in `config/accounts.yaml`.
 - One process, one SQLite file. Fine for a prototype; `docs/PORTING.md` covers the next step.
+
+## Rights
+
+This repository is public so its scheduled job runs on free GitHub Actions minutes. That
+makes the code readable, not reusable: no licence is granted, so all rights are reserved and
+it may not be copied, modified or redistributed without permission.

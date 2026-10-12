@@ -181,29 +181,32 @@ Setup, once:
    to, folder = `/ (root)`.
 3. Actions tab → "squawk" → Run workflow, to seed the first outputs.
 
-**Private code, public page.** GitHub Pages on a free plan needs a public repository. Keep
-this repo private (code, prompt, accounts, token) and publish only the page and the outputs
-to a second, public repo:
+**Separate Pages repo.** The live setup publishes only the page and the outputs to a second
+repo, which keeps the ticker's URL and a single-commit snapshot apart from this repo's
+history. (It was set up this way while this repo was private; the repo is now public because
+Actions minutes are free for public repositories. Secrets are never exposed either way.)
 
 1. Create an empty public repo, e.g. `pwlb-squawk-feed`, and turn on Pages for it
    (Settings → Pages → Deploy from a branch → `main`, `/ (root)`).
 2. Give the workflow write access to that repo, either with a deploy key (no browser
    needed; `ssh-keygen -t ed25519 -N "" -f pages_key`, add `pages_key.pub` as a
    write-enabled deploy key on the public repo, add `pages_key` as the secret
-   `PAGES_DEPLOY_KEY` on the private repo) or with a fine-grained personal access token
+   `PAGES_DEPLOY_KEY` on this repo) or with a fine-grained personal access token
    scoped to that one repo with **Contents: read and write**, stored as `PAGES_REPO_TOKEN`.
-3. In the private repo, Settings → Secrets and variables → Actions → **Variables**: add
+3. In this repo, Settings → Secrets and variables → Actions → **Variables**: add
    `PAGES_REPO` = `owner/pwlb-squawk-feed`.
 
 Every run then overwrites the public repo with `index.html`, `web/ticker.html`,
-`data/squawks.json` and `data/squawks.ndjson` (history is kept in the private repo; the
+`data/squawks.json` and `data/squawks.ndjson` (history is kept in this repo; the
 public repo is a single-commit snapshot). The ticker is at
 `https://<owner>.github.io/pwlb-squawk-feed/`.
 
-Notes: GitHub delays scheduled runs by a few minutes under load; a 5-minute cron on a
-private repository uses about 6 hours of Actions minutes a day (the free allowance is 2,000
-minutes a month), so use `*/15` there or make the repo public. There is no event mode or
-Jetstream in this mode; that needs the `squawk run` service (a small VPS, see PORTING.md).
+Notes: GitHub delays scheduled runs by a few minutes under load. Actions minutes are free
+for public repositories; a private one gets 2,000 a month, and every run bills at least a
+whole minute however short it is, so a run every 5 minutes for 17 hours a weekday comes to
+about 205 minutes a day, some 4,500 a month. Run a private copy every 15 minutes (about
+1,500 a month) or expect to pay for the excess. There is no event mode or Jetstream in this
+mode; that needs the `squawk run` service (a small VPS, see PORTING.md).
 
 Both modes share one database, so you can start with the scheduled job and switch to the
 service later without migrating anything.
