@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T13:45:51Z",
+ "generated_at": "2026-10-12T13:50:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c680457cb754",
+   "ts": "2026-10-12T13:48:52Z",
+   "headline": "China's Wang Yi says Beijing will cooperate with Russia to protect key shipping lanes",
+   "detail": "Chinese Foreign Minister Wang Yi said China will work with Russia to safeguard key shipping lanes. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a0364950a5b88165"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxonupytrj2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxonupytrj2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7a30b074590b",
+   "created_at": "2026-10-12T13:50:50Z"
+  },
   {
    "id": "f612699f96c0",
    "ts": "2026-10-12T13:44:42Z",
@@ -5970,33 +5991,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mww5yksytl2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mww5yksytl2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "71847b73e92a",
-   "created_at": "2026-10-02T20:01:23Z"
-  },
-  {
-   "id": "3532f4a7640b",
-   "ts": "2026-10-02T20:00:44Z",
-   "headline": "Trump rules out a US ban on diesel exports",
-   "detail": "US President Trump said on Friday that the administration will not impose a ban on diesel exports.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "9ad7e1c8469f50ab",
-    "fe5adf8f49f81ebd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mww5ygx7q72y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mww5ygx7q72y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mww5yiw3j72f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mww5yiw3j72f"
     }
    ],
    "model": "opus",
