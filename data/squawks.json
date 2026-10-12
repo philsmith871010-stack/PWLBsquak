@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T11:31:03Z",
+ "generated_at": "2026-10-12T11:45:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "297c78437c6b",
+   "ts": "2026-10-12T11:43:17Z",
+   "headline": "Iran offers to mediate between Saudi Arabia and the Houthis after attacks on the kingdom, NYT reports",
+   "detail": "Iran's Foreign Minister Abbas Araghchi made the offer to his Saudi counterpart Faisal bin Farhan in a phone call on Sunday night, according to a statement from his office. The statement said the region's overlapping conflicts had no military solution.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "cf364bb626537fa8",
+    "87fcee98d2e82653",
+    "143fe17d85353871"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxogu6fnnf2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxogu6fnnf2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxogyh5kkx2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxogyh5kkx2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxogyjuilk2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxogyjuilk2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7cba5d59cc05",
+   "created_at": "2026-10-12T11:45:48Z"
+  },
+  {
+   "id": "5ecb55871d5d",
+   "ts": "2026-10-12T11:41:12Z",
+   "headline": "Iran to reply through mediators to the US proposal on Hormuz as talks remain stalled",
+   "detail": "Iran has assessed Washington's Hormuz proposal and plans to send its response through mediators, according to a market news report. Negotiations remain stuck over Tehran's terms and US expectations on the nuclear issue.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "83a43ccb94d16009"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxogqgn6s42w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxogqgn6s42w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7cba5d59cc05",
+   "created_at": "2026-10-12T11:45:48Z"
+  },
   {
    "id": "e6b7364e19a6",
    "ts": "2026-10-12T11:26:35Z",
@@ -6080,48 +6134,6 @@
    "model": "opus",
    "run_id": "92031df6e5f3",
    "created_at": "2026-10-02T10:40:54Z"
-  },
-  {
-   "id": "073847428188",
-   "ts": "2026-10-02T10:36:10Z",
-   "headline": "NIESR says about two-thirds of the third-quarter rise in 10-year gilt yields came from higher rate expectations",
-   "detail": "NIESR's latest Term Premium Tracker puts the UK 10-year gilt yield at 5.43% at the end of the quarter, its highest since 2007. It estimates that about two-thirds of the increase came from higher expected interest rates, with the rest from term premium.",
-   "category": "supply",
-   "importance": 1,
-   "source_event_ids": [
-    "c5936ab6d8fc8022"
-   ],
-   "sources": [
-    {
-     "author": "niesrorg.bsky.social",
-     "uri": "at://did:plc:6s7n3h2jcntzuvlw2movrget/app.bsky.feed.post/3mwv6gwpzc22d",
-     "url": "https://bsky.app/profile/niesrorg.bsky.social/post/3mwv6gwpzc22d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "92031df6e5f3",
-   "created_at": "2026-10-02T10:40:54Z"
-  },
-  {
-   "id": "0f4b1d9042c5",
-   "ts": "2026-10-02T10:17:01Z",
-   "headline": "UK average diesel price passes £2 a litre for the first time, RAC says",
-   "detail": "The RAC reports the average UK diesel pump price has gone above £2 per litre, a level not reached before.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "228fe41fefcba6c3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwv5eot6wy2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwv5eot6wy2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "07580e2d163c",
-   "created_at": "2026-10-02T10:20:56Z"
   }
  ]
 }
