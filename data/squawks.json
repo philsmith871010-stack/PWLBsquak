@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T17:31:04Z",
+ "generated_at": "2026-10-12T17:35:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bb013fb750e0",
+   "ts": "2026-10-12T17:32:23Z",
+   "headline": "Fed's Hammack says she sees early warning signs of a possible problem with inflation expectations",
+   "detail": "Cleveland Fed President Hammack said the economy needs to be cooled at the margins. She added that higher interest rates would not deter hyperscalers but could affect firms in other industries.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "e31b85b2478b779a",
+    "7d95985d06ba7c6c",
+    "126673f69213abc4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp2efuxdo2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp2efuxdo2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp2gnaaq22r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp2gnaaq22r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp2ichwgx2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp2ichwgx2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e949bc5926d1",
+   "created_at": "2026-10-12T17:35:40Z"
+  },
   {
    "id": "0b93128b35f4",
    "ts": "2026-10-12T17:30:21Z",
@@ -6083,33 +6116,6 @@
    "model": "opus",
    "run_id": "e837e05335c6",
    "created_at": "2026-10-06T05:01:25Z"
-  },
-  {
-   "id": "31975ba8eefe",
-   "ts": "2026-10-05T20:59:57Z",
-   "headline": "New York Fed reviews big banks' lending to private credit firms, including Barclays, Semafor reports",
-   "detail": "Semafor reports that New York Fed officials have visited JPMorgan, Wells Fargo, Barclays and Morgan Stanley. They asked about the banks' exposure to private credit firms, their risk management and the quality of collateral.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "66bc203755a2b050",
-    "282a7fc8afa8a0af"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx5sfbnp2c2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx5sfbnp2c2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx5sp4coyg2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx5sp4coyg2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d440102f5a6b",
-   "created_at": "2026-10-05T21:18:51Z"
   }
  ]
 }
