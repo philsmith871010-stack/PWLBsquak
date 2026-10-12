@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T10:50:50Z",
+ "generated_at": "2026-10-12T11:25:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e8be98a57602",
+   "ts": "2026-10-12T11:21:30Z",
+   "headline": "Kremlin rejects Zelensky's proposed 60-day ceasefire and says it wants a broader peace agreement instead",
+   "detail": "The Kremlin turned down the 60-day truce proposed by Ukraine's president and said it wants a wider peace agreement. Putin's offer to halt Russian attacks on the day of Ukraine's presidential election still stands.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "bbc49e2acbb66ee8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxofn7dz4z26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxofn7dz4z26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "221d85d0c6ea",
+   "created_at": "2026-10-12T11:25:43Z"
+  },
   {
    "id": "fbb3f09dedcb",
    "ts": "2026-10-12T10:47:54Z",
@@ -6095,27 +6116,6 @@
    "model": "opus",
    "run_id": "5beaef13c1ef",
    "created_at": "2026-10-02T10:15:59Z"
-  },
-  {
-   "id": "11374c00dc85",
-   "ts": "2026-10-02T09:59:15Z",
-   "headline": "French 5-year sovereign CDS widen further to 81bp",
-   "detail": "S&P Global Market Intelligence data show French 5-year credit default swaps at 81bp, up from the 71.6bp reported earlier, which was already the highest since July 2013.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "92485e878cfeae24"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwv4ewpp4i2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwv4ewpp4i2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5c82699610e",
-   "created_at": "2026-10-02T10:01:27Z"
   }
  ]
 }
