@@ -4,7 +4,8 @@
  *   <div data-squawk-ticker></div>
  *   <script src="https://philsmith871010-stack.github.io/pwlb-squawk-feed/web/squawk-embed.js" defer></script>
  *
- * The strip carries today's squawks only, so it always reads as live. Hovering pauses the
+ * The strip carries the latest few squawks (five by default) from the last 24 hours, so it
+ * always reads as live. Hovering pauses the
  * scroll; clicking opens a modal with the last 24 hours of squawks.
  *
  * Everything lives in a shadow root, so the host page's CSS and this file's cannot reach each
@@ -15,6 +16,7 @@
  *   data-src     feed URL (default: data/squawks.json next to this script's repo root)
  *   data-theme   "light" | "dark" (default: follow the viewer's system setting)
  *   data-label   strip label (default: "PWLB Squawk")
+ *   data-max     how many of the latest squawks the strip carries (default 5)
  *   data-motion  "scroll" (default: continuous tape) or "rotate" (one squawk at a time,
  *                swapped every few seconds)
  *   data-interval seconds each squawk shows in rotate mode (default 6)
@@ -30,9 +32,9 @@
   var SCRIPT = document.currentScript;
   var REFRESH_MS = 60000;
   var SPEED_PX_PER_S = 55;        // marquee speed; slow enough to read at a glance
-  var STRIP_MAX = 12;             // a busy day runs to 40+ squawks, and a strip carrying
-                                  // all of them takes ten minutes to come round. The strip
-                                  // samples the latest; the modal holds the day.
+  var STRIP_MAX = 5;              // the strip carries only the latest few squawks, so a reader
+                                  // sees what is new at a glance; the modal holds the last
+                                  // 24 hours. Override per page with data-max.
   var WINDOW_MS = 24 * 3600 * 1000; // the modal shows the last 24 hours
   var TZ = 'Europe/London';       // "today" means today in the UK, wherever the reader is
   var CATS = {
@@ -49,6 +51,7 @@
 
   var dayFmt = new Intl.DateTimeFormat('en-CA', { timeZone: TZ, year: 'numeric', month: '2-digit', day: '2-digit' });
   var timeFmt = new Intl.DateTimeFormat('en-GB', { timeZone: TZ, hour: '2-digit', minute: '2-digit' });
+  var wkdFmt = new Intl.DateTimeFormat('en-GB', { timeZone: TZ, weekday: 'short' });
   var longFmt = new Intl.DateTimeFormat('en-GB', { timeZone: TZ, weekday: 'long', day: 'numeric', month: 'long' });
 
   function dayKey(iso) { return dayFmt.format(new Date(iso)); }
@@ -385,6 +388,7 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
     root.querySelector('.head h2').textContent =
       (host.getAttribute('data-title') || 'Squawks');
 
+    var stripMax = Math.max(1, parseInt(host.getAttribute('data-max'), 10) || STRIP_MAX);
     var rotate = (host.getAttribute('data-motion') || '') === 'rotate';
     var rotSecs = Math.max(3, parseFloat(host.getAttribute('data-interval')) || 6);
     var rotIdx = 0, rotTimer = null, rotShown = [];
@@ -394,7 +398,14 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
     }
 
     var all = [];          // every squawk, newest event first
-    var today = [];        // today's only
+    var recent = [];       // the last 24 hours, newest first
+
+    // "14:05" for today, "Sun 21:01" for anything earlier, so a time is never misread
+    function stamp(iso) {
+      var d = new Date(iso);
+      var t = timeFmt.format(d);
+      return dayKey(iso) === todayKey() ? t : wkdFmt.format(d) + ' ' + t;
+    }
     var generatedAt = null;
     var failed = false;
 
@@ -409,32 +420,27 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
       }
       openBtn.hidden = false;
       openBtn.setAttribute('aria-label',
-        today.length ? 'Open today\u2019s squawks (' + today.length + ')' : 'Open the squawk blotter');
-      openBtn.querySelector('.txt').textContent = today.length ? 'Read all \u00b7 ' + today.length : 'Blotter';
+        recent.length ? 'Open the last 24 hours of squawks (' + recent.length + ')' : 'Open the squawk blotter');
+      openBtn.querySelector('.txt').textContent = recent.length ? 'Read all \u00b7 ' + recent.length : 'Blotter';
 
-      if (!today.length) {
+      if (!recent.length) {
         track.style.animation = 'none';
         var last = all[0];
-        track.innerHTML = '<span class="quiet">No squawks yet today' +
+        track.innerHTML = '<span class="quiet">No squawks in the last 24 hours' +
           (last ? ' \u00b7 last one ' + esc(ago(last.ts)) : '') + '</span>';
         return;
       }
-      if (rotate) { startRotation(today.slice(0, STRIP_MAX)); return; }
+      var shown = recent.slice(0, stripMax);
+      if (rotate) { startRotation(shown); return; }
       // Rendered twice so the loop is seamless: the animation travels exactly half the track.
-      var shown = today.slice(0, STRIP_MAX);
       var once = shown.map(function (s) {
         return '<button class="item" type="button" tabindex="-1" title="Read this squawk"' +
           ' data-id="' + esc(s.id) + '">' +
           '<span class="mark i' + s.importance + '">' + impMark(s.importance) + '</span>' +
-          '<span class="at">' + esc(timeFmt.format(new Date(s.ts))) + '</span>' +
+          '<span class="at">' + esc(stamp(s.ts)) + '</span>' +
           '<span class="hl">' + esc(s.headline) + '</span>' +
           '<span class="go" aria-hidden="true">\u203a</span></button>';
       }).join('');
-      var rest = today.length - shown.length;
-      if (rest > 0) {
-        once += '<button class="item more" type="button" tabindex="-1">+' + rest +
-          ' more today \u2192</button>';
-      }
       track.innerHTML = once + once;
       track.style.animation = '';
       sizeTrack();
@@ -445,7 +451,7 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
     function rotItem(s, i, n) {
       return '<button class="item" type="button" title="Read this squawk" data-id="' + esc(s.id) + '">' +
         '<span class="mark i' + s.importance + '">' + impMark(s.importance) + '</span>' +
-        '<span class="at">' + esc(timeFmt.format(new Date(s.ts))) + '</span>' +
+        '<span class="at">' + esc(stamp(s.ts)) + '</span>' +
         '<span class="cat ' + esc(s.category) + '">' + esc(CATS[s.category] || s.category) + '</span>' +
         '<span class="hl">' + esc(s.headline) + '</span>' +
         '<span class="count">' + (i + 1) + '/' + n + '</span></button>';
@@ -588,8 +594,8 @@ dialog::backdrop { background: rgba(8,12,18,.55); backdrop-filter: blur(2px); }
       // squawks.json is ordered by publication time; a backfill publishes days at once, so
       // order by when each thing actually happened.
       all = list.slice().sort(function (a, b) { return String(b.ts).localeCompare(String(a.ts)); });
-      var tKey = todayKey();
-      today = all.filter(function (s) { return dayKey(s.ts) === tKey; });
+      var cutoff = Date.now() - WINDOW_MS;
+      recent = all.filter(function (s) { return new Date(s.ts).getTime() >= cutoff; });
     }
 
     async function load() {

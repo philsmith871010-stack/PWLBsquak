@@ -10,8 +10,10 @@ needs is in two files under `data/` (or wherever `SQUAWK_OUTPUT_DIR` points).
 | `data/squawks.json` | the latest 200 squawks, newest first, wrapped in a small envelope | rewritten atomically after every writer pass that produced squawks |
 | `data/squawks.ndjson` | append-only history, one squawk per line (same object as below) | appended in the same pass |
 
-Squawks are only ever added; an existing squawk is never edited or removed (the writer
-is told about recent headlines to avoid repeats instead).
+Squawks are only ever added; an existing squawk is not edited or removed, except through
+`data/corrections.json` (see Data integrity). Running stories get a new squawk for each new
+development, so a story can appear several times in a day; the writer is shown recent headlines
+so it reports what is new rather than restating them.
 
 ## `squawks.json`
 
@@ -91,10 +93,11 @@ ticker but have nowhere to put a full list of articles. Two lines:
 <script src="https://<owner>.github.io/<pages-repo>/web/squawk-embed.js" defer></script>
 ```
 
-The strip carries **today's squawks only**, so it always reads as live. Hovering pauses the
-scroll; clicking a headline opens a modal at that item, and the button at the right opens it at
-the top of today. The modal starts on today and scrolls back through earlier days, so nothing in
-`squawks.json` is unreachable. `Esc` or a click outside closes it.
+The strip carries **the latest five squawks** from the last 24 hours, so it always reads as
+live; an item from before midnight shows its weekday ("Sun 22:37"). Hovering pauses the scroll;
+clicking a headline opens a modal at that item, and the button at the right ("Read all · N")
+opens it at the top. The modal holds the last 24 hours, grouped by day. `Esc` or a click outside
+closes it.
 
 Everything renders in a shadow root, so the host page's CSS and the widget's cannot reach each
 other, and the modal is a `<dialog>` in the top layer, so it overlays the page whatever the
@@ -104,20 +107,22 @@ host's stacking contexts look like. The feed is fetched cross-origin; GitHub Pag
 | attribute on the div | default | meaning |
 |---|---|---|
 | `data-src` | `../data/squawks.json` beside the script | feed URL |
-| `data-variant` | dark tape | `banner` for the host site's tinted, orange-ruled strip |
+| `data-variant` | dark tape | `banner` for the host site's tinted, orange-ruled strip; `topbar` for a full-width strip above the site header |
+| `data-motion` | `scroll` | `rotate` shows one squawk at a time instead of a scrolling tape |
+| `data-interval` | `6` | seconds per squawk in rotate mode |
+| `data-max` | `5` | how many of the latest squawks the strip carries |
 | `data-theme` | follow the viewer's system setting | `light` or `dark` to pin it |
 | `data-label` | `PWLB Squawk` | badge text on the left of the strip |
 | `data-label-accent` | (none) | second half of a two-tone wordmark, in the accent colour |
-| `data-title` | `Today's squawks` | heading on the panel |
+| `data-title` | `Squawks` | heading on the panel |
 
 Colours follow `--squawk-accent`, `--squawk-strip-bg`, `--squawk-strip-hover`, `--squawk-bg`,
 `--squawk-text`, `--squawk-muted` and `--squawk-line` if you set them on the div; custom
 properties inherit through the shadow boundary.
 
-The strip shows the 12 most recent of today's squawks, with a `+N more today` item at the end
-when there are more. That is a deliberate cap: a busy day runs past 40 squawks, and a strip
-carrying all of them takes ten minutes to come round, so an item you glance away from is gone
-for the afternoon. The modal holds the full day.
+The strip deliberately carries only the latest five: a busy day runs past 40 squawks, and a
+strip carrying many of them takes minutes to come round, so the newest item would be buried.
+Everything else is one click away in the modal.
 
 `web/embed-demo.html` mocks up the PWLBtoday predictor page - real header, sidebar and the
 site's own academy and pulse banner rows, charts left out - with the ticker in place, so the

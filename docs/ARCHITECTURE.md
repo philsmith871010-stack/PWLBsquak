@@ -124,7 +124,7 @@ Every `SQUAWK_WRITE_INTERVAL` seconds (300; 60 in event mode) the writer:
 1. selects unprocessed, canonical, non-reply events (oldest first, capped per call),
 2. builds one request: system prompt from `prompts/squawk_writer.md` (cached), a
    user message with the market snapshot, any market threshold events, the
-   headlines of the last few squawks (to avoid repeats), and the events,
+   headlines of recent squawks (so updates to running stories say what is new), and the events,
 3. calls Claude with a strict JSON schema (`output_config.format`) so the reply is
    always `{"material": false}` or `{"material": true, "squawks": [...]}`,
 4. validates with pydantic (headline length, category enum, importance range,
