@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T05:15:49Z",
+ "generated_at": "2026-10-12T05:20:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b00af3ab33a0",
+   "ts": "2026-10-11T23:10:05Z",
+   "headline": "IFS says Chancellor Healey may need about £36bn in tax rises or welfare cuts to cover the inflation hit and the defence pledge",
+   "detail": "The Institute for Fiscal Studies says higher inflation could force the Chancellor to top up department budgets by as much as £35bn by the end of the decade. Reuters reports the think tank put the tax rises or welfare cuts needed in his first Budget to offset the inflation hit to public services and meet a defence spending pledge at £36bn.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "a82f016bf8b7113f",
+    "7b8622c8db2f4863"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxn4rd6sau2x",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxn4rd6sau2x"
+    },
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mxngdeelw5l2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mxngdeelw5l2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4f4d10a36792",
+   "created_at": "2026-10-12T05:20:47Z"
+  },
   {
    "id": "e55ea87a7f93",
    "ts": "2026-10-11T21:37:55Z",
@@ -6156,33 +6183,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwudorryvo2s",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwudorryvo2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8a6d6b4e035e",
-   "created_at": "2026-10-02T05:10:53Z"
-  },
-  {
-   "id": "614ccbaa17b4",
-   "ts": "2026-10-02T02:10:15Z",
-   "headline": "Dollar holds at 17-month high, heading for a third weekly gain, as the global bond sell-off weighs on the euro",
-   "detail": "Reuters reports the dollar at a 17-month high, with borrowing costs around the world at multi-decade peaks on inflation concerns linked to higher oil prices. The euro has weakened below $1.1250 ahead of US payrolls data.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "cf78155fe7f17f7f",
-    "8e66001407defeb7"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwuc6bz6xt2c",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwuc6bz6xt2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwueaibh6d2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwueaibh6d2y"
     }
    ],
    "model": "opus",
