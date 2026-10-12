@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T15:25:41Z",
+ "generated_at": "2026-10-12T15:31:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "78ef592d091e",
+   "ts": "2026-10-12T15:26:46Z",
+   "headline": "Iranian parliamentary security committee reviews a Strait of Hormuz bill, which will go to the full parliament soon",
+   "detail": "Tasnim News reports an Iranian member of parliament as saying the National Security Committee has reviewed the Strait of Hormuz bill. The MP said it will soon be sent to parliament for debate.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0250fcb96d80117c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxotdrs56a2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxotdrs56a2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "41b0599ebaab",
+   "created_at": "2026-10-12T15:31:06Z"
+  },
   {
    "id": "6bd0bdf4adbe",
    "ts": "2026-10-12T15:24:22Z",
@@ -5987,39 +6008,6 @@
    "model": "opus",
    "run_id": "a15b88276b99",
    "created_at": "2026-10-05T08:45:54Z"
-  },
-  {
-   "id": "343acd2e2f0e",
-   "ts": "2026-10-05T08:31:19Z",
-   "headline": "UK final September services PMI revised up to 52.1 from 51.7 flash; composite PMI final at 52",
-   "detail": "The final UK services PMI for September came in at 52.1 and the composite at 52, both above the 51.7 forecast and the 51.7 previous reading.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "897a918424c9ea7c",
-    "e3bf55f0101af1d9",
-    "78549da7674f7d1d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4iuh2jg524",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4iuh2jg524"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4iuca5bd2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4iuca5bd2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4ivwq7zb2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4ivwq7zb2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "83acd9177054",
-   "created_at": "2026-10-05T08:35:53Z"
   }
  ]
 }
