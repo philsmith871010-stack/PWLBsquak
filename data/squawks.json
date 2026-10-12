@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T16:31:08Z",
+ "generated_at": "2026-10-12T16:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4972abd93fa3",
+   "ts": "2026-10-12T16:31:09Z",
+   "headline": "US Gulf of Mexico oil shut-ins ease to 604,503 b/d, or 30% of output, from 1.5m b/d; 25% of gas output remains shut",
+   "detail": "The latest MMA data show 604,503 b/d of US Gulf of Mexico oil production shut in, equal to 30% of output, down from the 1.5m b/d reported earlier. Gas shut-ins stand at 531 mln cf/d, or 25% of gas production.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "3055f9b9aafadddd",
+    "b5cfeb6f77187627"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxowwvzym42y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxowwvzym42y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxowxrozo32r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxowxrozo32r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "abf7c08541c0",
+   "created_at": "2026-10-12T16:35:42Z"
+  },
   {
    "id": "44cb00b7f8fc",
    "ts": "2026-10-12T16:28:02Z",
@@ -5981,27 +6008,6 @@
    "model": "opus",
    "run_id": "2d86975949bc",
    "created_at": "2026-10-05T13:51:00Z"
-  },
-  {
-   "id": "9ac5274c4260",
-   "ts": "2026-10-05T12:30:14Z",
-   "headline": "Resolution Foundation says new ONS estimates point to much stronger UK productivity growth since the financial crisis",
-   "detail": "The Resolution Foundation says revised estimates from the ONS imply UK productivity has grown considerably faster since the financial crisis than previously thought. The post gave no figures.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "7ce0a7228e10c56f"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mx4w7o52pb2v",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mx4w7o52pb2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5b72327fe775",
-   "created_at": "2026-10-05T12:31:17Z"
   }
  ]
 }
