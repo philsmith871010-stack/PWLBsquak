@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T15:01:21Z",
+ "generated_at": "2026-10-12T15:10:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b1c9ba0099bc",
+   "ts": "2026-10-12T15:10:36Z",
+   "headline": "More than 25 countries, including the US, back UK's attribution of Iranian involvement in RAF Fairford incident",
+   "detail": "The UK Foreign Office has issued a joint statement signed by more than 25 countries, including the US, recognising Britain's finding that Iran was involved in the incident at RAF Fairford. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "70e4051a27a1e813"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxosguhxiw2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxosguhxiw2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0d965b7e3271",
+   "created_at": "2026-10-12T15:10:50Z"
+  },
   {
    "id": "81749a9595be",
    "ts": "2026-10-12T14:59:26Z",
@@ -6023,27 +6044,6 @@
    "model": "opus",
    "run_id": "bd580ec37245",
    "created_at": "2026-10-05T07:55:49Z"
-  },
-  {
-   "id": "3c0e2467e766",
-   "ts": "2026-10-05T07:50:10Z",
-   "headline": "ECB's Nagel says upside risks dominate the inflation outlook and uncertainty calls for flexibility rather than inaction",
-   "detail": "Bundesbank President and ECB Governing Council member Joachim Nagel said there are no clear signs yet of inflation feeding into price and wage setting. He also said Germany has entered a gradual recovery.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c8f6e1884b156a25"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mx4gkugkbn2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mx4gkugkbn2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a8e905891d33",
-   "created_at": "2026-10-05T07:50:56Z"
   }
  ]
 }
