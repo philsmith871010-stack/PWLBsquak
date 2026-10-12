@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-12T08:15:50Z",
+ "generated_at": "2026-10-12T10:40:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6cd43ef196a7",
+   "ts": "2026-10-12T10:40:17Z",
+   "headline": "Kremlin says it is ready to halt strikes for Ukraine's election day, Tass reports",
+   "detail": "Russian state news agency Tass reports the Kremlin as saying it is prepared to pause strikes on Ukraine for the day of the Ukrainian election. The inputs do not report any market reaction.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4021b8789e772aec"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoddjaqnr2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoddjaqnr2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2e1ee0edb07f",
+   "created_at": "2026-10-12T10:40:49Z"
+  },
+  {
+   "id": "c3427539b62e",
+   "ts": "2026-10-12T10:35:40Z",
+   "headline": "French debt worries drive busiest euro-dollar options trading since mid-March, IFR reports",
+   "detail": "IFR reports $213bn notional of euro-dollar FX options traded in the week to October 2, the busiest period since mid-March. Risk reversals show downside euro protection at its highest premium since mid-2024.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9b23a9bab77926b3"
+   ],
+   "sources": [
+    {
+     "author": "chriswhittall.bsky.social",
+     "uri": "at://did:plc:mw33frnll5jjux3vvkfyyrdt/app.bsky.feed.post/3mxod3adlwk2o",
+     "url": "https://bsky.app/profile/chriswhittall.bsky.social/post/3mxod3adlwk2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2e1ee0edb07f",
+   "created_at": "2026-10-12T10:40:49Z"
+  },
   {
    "id": "c1f9b8e290a6",
    "ts": "2026-10-12T08:15:13Z",
@@ -6080,54 +6122,6 @@
    "model": "opus",
    "run_id": "80787446fb4c",
    "created_at": "2026-10-02T09:01:24Z"
-  },
-  {
-   "id": "ee5bb3057a6a",
-   "ts": "2026-10-02T08:50:14Z",
-   "headline": "FAO says world food prices rose in September to their highest level in nearly four years",
-   "detail": "The UN Food and Agriculture Organization says its world food price measure climbed in September to a near four-year high. It points to logistics disruptions and weather concerns in crop markets as the causes.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "66241c49e0d288cf"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mwuyjj2bgd2y",
-     "url": "https://bsky.app/profile/reuters.com/post/3mwuyjj2bgd2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "25241ae04463",
-   "created_at": "2026-10-02T08:50:55Z"
-  },
-  {
-   "id": "d4e2a4e35872",
-   "ts": "2026-10-02T08:31:32Z",
-   "headline": "BoE Decision Maker Panel: firms see year-ahead CPI at 3.3% in September, with expected wage growth steady at 3.4%",
-   "detail": "The Bank of England's Decision Maker Panel survey puts firms' year-ahead CPI inflation expectations at 3.3% for September. Firms' expected wage growth for the year ahead held at 3.4% in the three months to September.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "ec9f3af6d018e29d",
-    "7d289f9a5f0f55b7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwuxi3wnth2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwuxi3wnth2i"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mwuxkfvtp42s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mwuxkfvtp42s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7091544eca27",
-   "created_at": "2026-10-02T08:35:46Z"
   }
  ]
 }
