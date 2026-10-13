@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T06:01:11Z",
+ "generated_at": "2026-10-13T06:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d75dadb32b17",
+   "ts": "2026-10-13T06:02:04Z",
+   "headline": "German September harmonised CPI is 3.3% y/y and 0.6% m/m, both matching forecasts and the previous readings",
+   "detail": "Germany's EU-harmonised consumer price index for September rose 3.3% on the year and 0.6% on the month. Both figures matched the 3.3% and 0.6% estimates and were unchanged from the previous readings.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "c75cdcf9cc46a7de",
+    "5785ad891263c4d4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqeawgcni2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqeawgcni2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqeat2fly2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqeat2fly2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "014d1cfd6e09",
+   "created_at": "2026-10-13T06:05:40Z"
+  },
   {
    "id": "e96850fb3db6",
    "ts": "2026-10-13T06:01:03Z",
@@ -6035,27 +6062,6 @@
    "model": "opus",
    "run_id": "d941038e0ece",
    "created_at": "2026-10-07T06:01:28Z"
-  },
-  {
-   "id": "db3f5d792fbb",
-   "ts": "2026-10-07T05:10:05Z",
-   "headline": "Hedge fund industry group warns BoE that its proposed gilt repo reforms could backfire and reduce liquidity under stress",
-   "detail": "Reuters reports that a hedge fund industry group has told the Bank of England its proposed reforms to the repo market, where short-term loans are secured against gilts, could cut liquidity during periods of market stress.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "ed9399ad039ab035"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxb6kgxrwk2x",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxb6kgxrwk2x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "84d05beee748",
-   "created_at": "2026-10-07T05:15:57Z"
   }
  ]
 }
