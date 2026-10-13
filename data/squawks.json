@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T08:50:46Z",
+ "generated_at": "2026-10-13T09:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "477890d64761",
+   "ts": "2026-10-13T09:00:22Z",
+   "headline": "IMF's UK growth upgrade of 0.5ppts is the joint largest in the G7, alongside Germany, Resolution Foundation notes",
+   "detail": "The Resolution Foundation says the UK economy has grown faster than forecast this year, and that the IMF's upgrade to UK growth this morning was 0.5 percentage points. It says only Germany received an upgrade as large among G7 economies.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "c29d663b66bda442"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxqo7quo3c2w",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxqo7quo3c2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "566092ecf1d9",
+   "created_at": "2026-10-13T09:05:41Z"
+  },
   {
    "id": "3090ba1b63cb",
    "ts": "2026-10-13T08:47:13Z",
@@ -5945,27 +5966,6 @@
    "model": "opus",
    "run_id": "211745d0d42a",
    "created_at": "2026-10-07T11:51:04Z"
-  },
-  {
-   "id": "44ed6ead0b70",
-   "ts": "2026-10-07T10:36:34Z",
-   "headline": "French 10-year government bond yield rises 15bp to 4.8974%",
-   "detail": "A market news feed reported the French 10-year yield up 15bp on the day at 4.8974% on Wednesday morning.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "51fbb3f421d6fd6a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbqsbaor72d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbqsbaor72d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f5b5cb619158",
-   "created_at": "2026-10-07T10:40:58Z"
   }
  ]
 }
