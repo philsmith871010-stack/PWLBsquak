@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T21:35:43Z",
+ "generated_at": "2026-10-13T21:50:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1adf12c794b3",
+   "ts": "2026-10-13T21:50:17Z",
+   "headline": "Fed Governor Cook's lawyer challenges Trump's latest attempt to remove her and questions the White House probe",
+   "detail": "Reuters reports that a letter from Fed Governor Lisa Cook's lawyer, seen on Tuesday, disputes the objectivity of a White House investigation into mortgage fraud allegations against her. The letter responds to President Trump's latest attempt to remove her from the Fed.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2f5def998c956286"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxrzaickx52x",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxrzaickx52x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b922d3116c03",
+   "created_at": "2026-10-13T21:50:51Z"
+  },
   {
    "id": "9f2dc188be5c",
    "ts": "2026-10-13T21:35:35Z",
@@ -5603,39 +5624,6 @@
    "model": "opus",
    "run_id": "46fd19e66336",
    "created_at": "2026-10-12T11:50:49Z"
-  },
-  {
-   "id": "297c78437c6b",
-   "ts": "2026-10-12T11:43:17Z",
-   "headline": "Iran offers to mediate between Saudi Arabia and the Houthis after attacks on the kingdom, NYT reports",
-   "detail": "Iran's Foreign Minister Abbas Araghchi made the offer to his Saudi counterpart Faisal bin Farhan in a phone call on Sunday night, according to a statement from his office. The statement said the region's overlapping conflicts had no military solution.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "cf364bb626537fa8",
-    "87fcee98d2e82653",
-    "143fe17d85353871"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxogu6fnnf2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxogu6fnnf2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxogyh5kkx2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxogyh5kkx2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxogyjuilk2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxogyjuilk2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7cba5d59cc05",
-   "created_at": "2026-10-12T11:45:48Z"
   }
  ]
 }
