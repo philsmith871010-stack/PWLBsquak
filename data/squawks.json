@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T18:31:08Z",
+ "generated_at": "2026-10-13T18:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3773096730ba",
+   "ts": "2026-10-13T18:31:33Z",
+   "headline": "ECB's Lane says AI's potential to replace some workers could weaken their bargaining power and moderate wage growth",
+   "detail": "ECB chief economist Philip Lane said the possibility of AI displacing some workers may reduce their bargaining power, which could moderate wage growth. The remarks follow his earlier comments on long-term interest rates.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "57f132909d0260ce"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxro54gpfy2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxro54gpfy2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "25619bbb7a19",
+   "created_at": "2026-10-13T18:35:44Z"
+  },
   {
    "id": "10fcc291ae47",
    "ts": "2026-10-13T18:31:02Z",
@@ -5795,27 +5816,6 @@
    "model": "opus",
    "run_id": "571996638b3a",
    "created_at": "2026-10-09T11:15:48Z"
-  },
-  {
-   "id": "712fe8006dfd",
-   "ts": "2026-10-09T06:45:58Z",
-   "headline": "UK retail footfall falls 2.9% in September, a steeper drop than August's 1.7% decline, BRC data show",
-   "detail": "The British Retail Consortium's figures show total UK retail footfall fell 2.9% in September, compared with a 1.7% fall the previous month, City AM reports.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "de7dd09e9e2f5aea"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mxgito6grvd2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mxgito6grvd2"
-    }
-   ],
-   "model": "opus",
-   "run_id": "04eaf0e8f23d",
-   "created_at": "2026-10-09T08:01:15Z"
   }
  ]
 }
