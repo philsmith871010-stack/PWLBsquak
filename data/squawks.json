@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T06:05:40Z",
+ "generated_at": "2026-10-13T06:40:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e51ec6e4567b",
+   "ts": "2026-10-13T06:40:06Z",
+   "headline": "US government bond funds take in almost $14bn since start of October after record $59.3bn Q3 inflows, FT says",
+   "detail": "FT calculations using EPFR data show almost $14bn of inflows into US government bond funds so far in October. This follows record net inflows of $59.3bn in the third quarter.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "20e09f500ef79ece"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxqgewshok2j",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mxqgewshok2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d491579a6a20",
+   "created_at": "2026-10-13T06:40:48Z"
+  },
   {
    "id": "d75dadb32b17",
    "ts": "2026-10-13T06:02:04Z",
@@ -6036,27 +6057,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbfuxmm32w",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbfuxmm32w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d941038e0ece",
-   "created_at": "2026-10-07T06:01:28Z"
-  },
-  {
-   "id": "69c496de3f84",
-   "ts": "2026-10-07T05:27:29Z",
-   "headline": "Brent crude tops $101 a barrel after more attacks on tankers in the Strait of Hormuz",
-   "detail": "City AM reports that Brent edged above $101 a barrel on Wednesday morning after attacks on tankers in the Strait of Hormuz intensified in recent days. It adds that Middle East tensions are offsetting a rise in supply.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "32b301bd4749509f"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mxbb4yiafng2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mxbb4yiafng2"
     }
    ],
    "model": "opus",
