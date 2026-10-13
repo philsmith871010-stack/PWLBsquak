@@ -1,8 +1,98 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T09:35:40Z",
+ "generated_at": "2026-10-13T09:45:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9ef57510d6b8",
+   "ts": "2026-10-13T09:45:01Z",
+   "headline": "ECB opposes Finland's proposal to give bank supervisors a growth objective",
+   "detail": "The European Central Bank has criticised a Finnish proposal that would require banking supervisors to target economic growth, according to a market news headline.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b382ec97bb293eef"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqqpmfvqh2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqqpmfvqh2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7e1df010f466",
+   "created_at": "2026-10-13T09:45:47Z"
+  },
+  {
+   "id": "ef66f0a438bb",
+   "ts": "2026-10-13T09:41:11Z",
+   "headline": "Kremlin says contacts continue on Trump's energy ceasefire and sees no link between the US diesel deal and its Ukraine peace stance",
+   "detail": "Kremlin spokesman Peskov said Moscow still has nothing to say about what Trump called an energy ceasefire between Russia and Ukraine, but contacts on it are ongoing. He called European criticism of the US-Russia diesel deal cynical because EU states actively buy Russian oil, and said Russia will keep selling energy on global markets.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "89209ddaaa220887",
+    "70d04d5edd20bfce",
+    "5a3f33a17cb9d87f",
+    "14634ddd535f9aca",
+    "786f0406f7266780",
+    "07fd2df87ed2ff31",
+    "47e82ce5e94e5bd2",
+    "bd0c672ffd0b7161",
+    "abce8dd99f300655"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqqiby4352z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqqiby4352z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqqiqfxen2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqqiqfxen2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqqiki63e2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqqiki63e2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqqjoshjx2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqqjoshjx2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqqkv475526",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqqkv475526"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqqooybol2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqqooybol2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqqosv5ec2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqqosv5ec2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqqlp76gg2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqqlp76gg2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqqmirs4e2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqqmirs4e2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7e1df010f466",
+   "created_at": "2026-10-13T09:45:47Z"
+  },
   {
    "id": "d8ea27a5f30e",
    "ts": "2026-10-13T09:32:17Z",
@@ -5936,48 +6026,6 @@
    "model": "opus",
    "run_id": "5dd230ce0ecd",
    "created_at": "2026-10-07T14:35:53Z"
-  },
-  {
-   "id": "08265424745e",
-   "ts": "2026-10-07T14:03:06Z",
-   "headline": "Polish central bank keeps its main interest rate at 3.75%, as expected",
-   "detail": "Poland's central bank left its main rate unchanged at 3.75%, which matched the forecast.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "5fc1b805569daad2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxc4dl23ea2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxc4dl23ea2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d77dd9be3a7a",
-   "created_at": "2026-10-07T14:05:55Z"
-  },
-  {
-   "id": "72ddfe04ea0e",
-   "ts": "2026-10-07T13:34:26Z",
-   "headline": "UK 30-year gilt yield climbs to 6.034%, its highest since 1998, up more than 12bp on the day",
-   "detail": "The UK 30-year gilt yield rose to 6.034%, its highest level since 1998 and more than 12bp higher on the day, a market wire reported.",
-   "category": "global_rates",
-   "importance": 3,
-   "source_event_ids": [
-    "b1b2f758d8eb3982"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxc2qd7yfp2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxc2qd7yfp2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5592dc007968",
-   "created_at": "2026-10-07T13:35:59Z"
   }
  ]
 }
