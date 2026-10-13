@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T12:50:51Z",
+ "generated_at": "2026-10-13T13:15:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "73b844a76689",
+   "ts": "2026-10-13T13:15:14Z",
+   "headline": "Resolution Foundation says lower net migration will also reduce fiscal headroom at the upcoming Budget",
+   "detail": "The Resolution Foundation says lower net migration will also eat into the Chancellor's fiscal headroom at the forthcoming Budget. The point comes from its Budget preview, which put the headroom at £12bn, half its previous level.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "88e211dba442b072"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxr4hitbcf2c",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxr4hitbcf2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "37a790243fbf",
+   "created_at": "2026-10-13T13:15:48Z"
+  },
   {
    "id": "89bd0131acdb",
    "ts": "2026-10-13T11:14:50Z",
@@ -5837,27 +5858,6 @@
    "model": "opus",
    "run_id": "539d73b9b46c",
    "created_at": "2026-10-08T10:10:57Z"
-  },
-  {
-   "id": "aa906d0f7295",
-   "ts": "2026-10-08T09:43:46Z",
-   "headline": "BoE's Greene sees a material risk that some second-round inflation effects may develop",
-   "detail": "Bank of England MPC member Megan Greene warned of a material risk of second-round effects emerging, according to a market news feed on 8 October.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "6ad170e4af8010e2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxe6crs3qk2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxe6crs3qk2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "547bde75a2d7",
-   "created_at": "2026-10-08T09:45:55Z"
   }
  ]
 }
