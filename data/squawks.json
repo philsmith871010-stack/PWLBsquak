@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T17:50:50Z",
+ "generated_at": "2026-10-13T17:55:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b95e88da1a8a",
+   "ts": "2026-10-13T17:53:37Z",
+   "headline": "Iran threatens to reconsider its relations with the UK and asks for evidence linking it to the Fairford incident",
+   "detail": "Iran's Fars news agency reports that Tehran has threatened to seriously reconsider its ties with the UK. Iran has also asked the UK for evidence of any Iranian links to the suspected plot against RAF Fairford.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3a2394f730163b52",
+    "efd1c1da24035fd5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrlzblohr2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrlzblohr2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrlzfyzss2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrlzfyzss2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aa4869e6e9dc",
+   "created_at": "2026-10-13T17:55:41Z"
+  },
+  {
+   "id": "7ff869188887",
+   "ts": "2026-10-13T17:51:43Z",
+   "headline": "Saudi civil defence warns of possible danger in the Eastern Province",
+   "detail": "Saudi Arabia's civil defence authority has issued an alert about possible danger in the kingdom's Eastern Province. The alert follows Houthi statements that Saudi Aramco facilities are legitimate targets. It gave no further details.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7e2f4f5b373a7e4f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrlvv27n22r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrlvv27n22r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aa4869e6e9dc",
+   "created_at": "2026-10-13T17:55:41Z"
+  },
   {
    "id": "968bd7c4d6e6",
    "ts": "2026-10-13T17:46:14Z",
@@ -5732,60 +5780,6 @@
    "model": "opus",
    "run_id": "4de2f7dfafc6",
    "created_at": "2026-10-08T18:50:51Z"
-  },
-  {
-   "id": "7bac22c02477",
-   "ts": "2026-10-08T18:31:48Z",
-   "headline": "WTI crude futures settle 3.64% higher at $91.49 a barrel",
-   "detail": "NYMEX November WTI crude futures settled up $3.21, or 3.64%, at $91.49 a barrel. November diesel futures settled at $4.8829 a gallon.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "604d7543e949962a",
-    "5ae49445d59f3888",
-    "af88a313740f6295"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxf3sxbc7q26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxf3sxbc7q26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxf3vi3iph2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxf3vi3iph2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxf3tsnrf52y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxf3tsnrf52y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bd822724d97a",
-   "created_at": "2026-10-08T18:35:44Z"
-  },
-  {
-   "id": "52fb4a014bbb",
-   "ts": "2026-10-08T18:03:16Z",
-   "headline": "Oil prices surge as Houthis strike Riyadh for a second day and Iran steps up attacks on ships in the Strait of Hormuz",
-   "detail": "Semafor reports that Yemen's Houthis carried out missile strikes on the Saudi capital for a second day, while Iran increased the pace of its attacks on vessels in the Strait of Hormuz. Oil prices were reported as surging; no figure was given.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "622031ce6202a3cd"
-   ],
-   "sources": [
-    {
-     "author": "semafor.com",
-     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mxf27xdvsy2j",
-     "url": "https://bsky.app/profile/semafor.com/post/3mxf27xdvsy2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "debceb64a351",
-   "created_at": "2026-10-08T18:05:50Z"
   }
  ]
 }
