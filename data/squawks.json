@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T20:10:55Z",
+ "generated_at": "2026-10-13T20:15:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a5a1c17a3233",
+   "ts": "2026-10-13T20:13:27Z",
+   "headline": "US Treasury's OFAC agrees $11.66m settlement with Bank of America over 475 apparent sanctions violations",
+   "detail": "The US Treasury's Office of Foreign Assets Control said on its website that Bank of America is settling potential civil liability for 475 apparent violations. The violations relate to sanctions programmes covering Russia, Belarus, Iran, Burma, Somalia and narcotics.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1ca00f4c399d7149",
+    "572db2e19009420f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrttdfpnu2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrttdfpnu2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrtsd3hqd2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrtsd3hqd2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "07b65b5fc7fb",
+   "created_at": "2026-10-13T20:15:48Z"
+  },
   {
    "id": "369d278bc85b",
    "ts": "2026-10-13T20:10:44Z",
@@ -5627,39 +5654,6 @@
    "model": "opus",
    "run_id": "8b9f5f90d658",
    "created_at": "2026-10-12T05:15:49Z"
-  },
-  {
-   "id": "f4c2e66af644",
-   "ts": "2026-10-09T20:57:24Z",
-   "headline": "Saudi-led coalition launches wide-ranging operation against Houthi forces in Yemen, says 136 military targets destroyed",
-   "detail": "The Saudi-led coalition says it is conducting a broad operation against Houthi capabilities in Yemen and has destroyed 136 military targets in areas the group controls. The inputs do not report any market reaction.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "efb055ac64480405",
-    "55a450a04c246063",
-    "8b716bdf6a935f77"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhuga7b3m2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhuga7b3m2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhugz5qib2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhugz5qib2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhuhwkjbc24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhuhwkjbc24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9e7661f446a5",
-   "created_at": "2026-10-09T21:01:15Z"
   }
  ]
 }
