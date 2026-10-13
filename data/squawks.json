@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T05:15:47Z",
+ "generated_at": "2026-10-13T05:31:01Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2065127aa414",
+   "ts": "2026-10-13T05:30:18Z",
+   "headline": "IMF expects the BoJ to lift rates gradually towards neutral despite a projected slowdown in Japanese growth",
+   "detail": "The International Monetary Fund said on Tuesday that the Bank of Japan is likely to raise interest rates step by step towards a neutral setting, even though it expects Japan's growth to slow, Reuters reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "94b5e8bc0fa571a0"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxqci4xdyt2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxqci4xdyt2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a75788fa6789",
+   "created_at": "2026-10-13T05:31:01Z"
+  },
   {
    "id": "f91e83311fb9",
    "ts": "2026-10-13T05:10:51Z",
@@ -6077,39 +6098,6 @@
    "model": "opus",
    "run_id": "a1054215c647",
    "created_at": "2026-10-07T05:01:28Z"
-  },
-  {
-   "id": "0617a11b21d1",
-   "ts": "2026-10-06T20:12:17Z",
-   "headline": "French Finance Minister says the government is ready to bypass parliament to pass spending cuts if budget talks stall, WSJ reports",
-   "detail": "According to the Wall Street Journal, the French Finance Minister said the government is prepared to use special constitutional powers to get spending cuts through if budget negotiations stall.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4db9b1ba7aa268a1",
-    "7878fabd47f29a28",
-    "be38e06af14bdac7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxaaisivxu2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxaaisivxu2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxaait5fuh2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxaait5fuh2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxaajwpjhu2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxaajwpjhu2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0b6875aad542",
-   "created_at": "2026-10-06T20:16:04Z"
   }
  ]
 }
