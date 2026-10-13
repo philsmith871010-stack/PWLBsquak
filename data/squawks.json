@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T17:55:41Z",
+ "generated_at": "2026-10-13T18:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a8aa39a65ced",
+   "ts": "2026-10-13T18:05:30Z",
+   "headline": "Fed's Barkin says inflation is clearly proving persistent and that taking action makes sense",
+   "detail": "Richmond Fed President Tom Barkin said US inflation is clearly enduring and that it makes sense to act. This follows his earlier remarks on AI investment and on reaching the 2% target.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d3ab4b89aa9ade99"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrmokh4h62n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrmokh4h62n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ead672cf408a",
+   "created_at": "2026-10-13T18:05:40Z"
+  },
   {
    "id": "b95e88da1a8a",
    "ts": "2026-10-13T17:53:37Z",
@@ -5759,27 +5780,6 @@
    "model": "opus",
    "run_id": "c82cfa3b4f8d",
    "created_at": "2026-10-08T20:15:49Z"
-  },
-  {
-   "id": "3e67a82ea6f2",
-   "ts": "2026-10-08T18:47:03Z",
-   "headline": "Brent crude futures settle 4.07% higher at $104.28 a barrel",
-   "detail": "Brent crude futures closed the session up $4.08 at $104.28 a barrel, a gain of 4.07% on the day.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "c8b4b9fb90bd72d8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxf4o7xgwr26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxf4o7xgwr26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4de2f7dfafc6",
-   "created_at": "2026-10-08T18:50:51Z"
   }
  ]
 }
