@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T14:01:16Z",
+ "generated_at": "2026-10-13T14:15:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3e8d1c0864ba",
+   "ts": "2026-10-13T14:14:36Z",
+   "headline": "UK defence secretary Streeting says the MoD must end its culture of overspending and live within its means",
+   "detail": "Defence Secretary Wes Streeting said the Ministry of Defence cannot have a culture of overspending and has a responsibility to stay within its budget. No specific spending measures were announced.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "2ff434c562e91653"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxr7rnsx422q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxr7rnsx422q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "93e178b6c0f4",
+   "created_at": "2026-10-13T14:15:54Z"
+  },
   {
    "id": "d511daff622f",
    "ts": "2026-10-13T14:01:03Z",
@@ -5843,27 +5864,6 @@
    "model": "opus",
    "run_id": "e60c77c5b065",
    "created_at": "2026-10-08T11:20:48Z"
-  },
-  {
-   "id": "9e9328f43ca7",
-   "ts": "2026-10-08T11:05:12Z",
-   "headline": "BoE's Greene says she is worried by the UK pay outlook, with employers on track for pay rises of about 3.5% next year",
-   "detail": "Bank of England MPC member Megan Greene said on Thursday that pay rises of around 3.5% next year would be larger than is helpful for bringing inflation back to the 2% target, Reuters reports.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "9be0afe0cfca32b0"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxecuexmq32e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxecuexmq32e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8b171e93a371",
-   "created_at": "2026-10-08T11:05:42Z"
   }
  ]
 }
