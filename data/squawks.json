@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T20:25:40Z",
+ "generated_at": "2026-10-13T20:31:07Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6eb0835a8210",
+   "ts": "2026-10-13T20:26:56Z",
+   "headline": "Fed's Collins says economic uncertainty is elevated",
+   "detail": "Boston Fed President Susan Collins said in further remarks that the level of economic uncertainty is elevated.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0c499f3707bee94e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrulguo4f2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrulguo4f2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a1f98c45d02d",
+   "created_at": "2026-10-13T20:31:07Z"
+  },
   {
    "id": "892a9e79e238",
    "ts": "2026-10-13T20:24:45Z",
@@ -5609,33 +5630,6 @@
    "model": "opus",
    "run_id": "ba660c5670fd",
    "created_at": "2026-10-12T05:25:40Z"
-  },
-  {
-   "id": "b00af3ab33a0",
-   "ts": "2026-10-11T23:10:05Z",
-   "headline": "IFS says Chancellor Healey may need about £36bn in tax rises or welfare cuts to cover the inflation hit and the defence pledge",
-   "detail": "The Institute for Fiscal Studies says higher inflation could force the Chancellor to top up department budgets by as much as £35bn by the end of the decade. Reuters reports the think tank put the tax rises or welfare cuts needed in his first Budget to offset the inflation hit to public services and meet a defence spending pledge at £36bn.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "a82f016bf8b7113f",
-    "7b8622c8db2f4863"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxn4rd6sau2x",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxn4rd6sau2x"
-    },
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mxngdeelw5l2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mxngdeelw5l2"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4f4d10a36792",
-   "created_at": "2026-10-12T05:20:47Z"
   }
  ]
 }
