@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T17:15:48Z",
+ "generated_at": "2026-10-13T17:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2da7f421925e",
+   "ts": "2026-10-13T17:17:15Z",
+   "headline": "Fed's Barkin says the 2% inflation target can be reached",
+   "detail": "Richmond Fed President Barkin said in remarks on Tuesday that the 2% inflation goal can be hit.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2480e3db0bfae5e7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrjybmvlq2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrjybmvlq2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dd4994f1330e",
+   "created_at": "2026-10-13T17:20:50Z"
+  },
   {
    "id": "6415ee76116d",
    "ts": "2026-10-13T17:15:25Z",
@@ -5867,27 +5888,6 @@
    "model": "opus",
    "run_id": "617b7457edc0",
    "created_at": "2026-10-08T14:25:44Z"
-  },
-  {
-   "id": "aeb2182bd666",
-   "ts": "2026-10-08T14:19:18Z",
-   "headline": "EU reminded its primary dealers of their market-making obligations on Monday as bond volatility peaked, IFR reports",
-   "detail": "IFR reports that the European Union contacted its primary dealers on Monday after extreme volatility led banks to cut their quoting to the minimum required, to limit potential losses.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a905c5f7ce69382b"
-   ],
-   "sources": [
-    {
-     "author": "chriswhittall.bsky.social",
-     "uri": "at://did:plc:mw33frnll5jjux3vvkfyyrdt/app.bsky.feed.post/3mxenpgz2s227",
-     "url": "https://bsky.app/profile/chriswhittall.bsky.social/post/3mxenpgz2s227"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0d4a669d2039",
-   "created_at": "2026-10-08T14:20:50Z"
   }
  ]
 }
