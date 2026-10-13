@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T13:15:48Z",
+ "generated_at": "2026-10-13T13:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "32fc4b11b1cb",
+   "ts": "2026-10-13T13:22:44Z",
+   "headline": "Zelensky says intelligence support from partners has stopped during overnight attacks on Ukraine",
+   "detail": "Ukraine's President Zelensky said intelligence support from partners has stopped while night-time attacks continue. Earlier, Ukraine's foreign minister had said intelligence sharing with the US was continuing, and the Kremlin said it knew nothing of a reported Trump plan to halt intelligence for Kyiv.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4d65fc066cc91504"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxr4uvuyyy2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxr4uvuyyy2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7cb895e2258f",
+   "created_at": "2026-10-13T13:25:41Z"
+  },
   {
    "id": "73b844a76689",
    "ts": "2026-10-13T13:15:14Z",
@@ -5831,33 +5852,6 @@
    "model": "opus",
    "run_id": "f12cf9abc82d",
    "created_at": "2026-10-08T10:25:49Z"
-  },
-  {
-   "id": "22b6dc8b2442",
-   "ts": "2026-10-08T10:08:04Z",
-   "headline": "ECB's Lane expects food prices to face upward pressure next year and says central banks should be believed on inflation returning to target",
-   "detail": "ECB chief economist Philip Lane said the ECB expects upward pressure on food prices over the next year. He also said central banks should be believed when they say inflation will return to target.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e11ac2fe59cdd9d7",
-    "9747e7cc98f76449"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxe7o7q5mz2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxe7o7q5mz2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxe7lmr2qj2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxe7lmr2qj2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "539d73b9b46c",
-   "created_at": "2026-10-08T10:10:57Z"
   }
  ]
 }
