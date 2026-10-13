@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T11:40:48Z",
+ "generated_at": "2026-10-13T11:45:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0ed4782cb6f3",
+   "ts": "2026-10-13T11:41:40Z",
+   "headline": "Russia's Putin and UAE president discuss the US diesel deal by phone",
+   "detail": "Putin held a phone call with the President of the UAE in which they covered the diesel deal with the US, bilateral cooperation and peace in the Middle East.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7a54fe98d556c5e6",
+    "32d5b6f4fa837af9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqxa6q4p62z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqxa6q4p62z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqx7byggs2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqx7byggs2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "877983f9a512",
+   "created_at": "2026-10-13T11:45:49Z"
+  },
   {
    "id": "a5dbf212da03",
    "ts": "2026-10-13T11:38:31Z",
@@ -5921,27 +5948,6 @@
    "model": "opus",
    "run_id": "9be4029f1a84",
    "created_at": "2026-10-07T20:11:01Z"
-  },
-  {
-   "id": "5a7ac1f4e256",
-   "ts": "2026-10-07T19:45:25Z",
-   "headline": "US Gulf of Mexico oil output of 511,619 b/d shut in, about 25% of the region's production",
-   "detail": "Figures attributed to the MMA show 511,619 barrels a day of US Gulf oil production shut in, equal to 25.08% of output. No market reaction was reported.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "9cd481d093147253"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxcphonflk2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxcphonflk2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6ab04c6ae06c",
-   "created_at": "2026-10-07T19:46:00Z"
   }
  ]
 }
