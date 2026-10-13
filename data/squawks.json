@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T10:10:49Z",
+ "generated_at": "2026-10-13T10:15:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0b7f603a1c17",
+   "ts": "2026-10-13T10:15:06Z",
+   "headline": "Resolution Foundation says the Chancellor's fiscal headroom has halved to £12bn ahead of the Budget",
+   "detail": "The Resolution Foundation published new analysis estimating that headroom has halved to £12 billion. It says the Chancellor must weigh support for struggling families against rebuilding confidence in the public finances at the Budget.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "88cbc6ef2ef665dc"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxqsffg75c2z",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxqsffg75c2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "93851a93a1fe",
+   "created_at": "2026-10-13T10:15:51Z"
+  },
   {
    "id": "3367bbd33196",
    "ts": "2026-10-13T10:06:38Z",
@@ -6017,27 +6038,6 @@
    "model": "opus",
    "run_id": "1cd230c8d895",
    "created_at": "2026-10-07T17:05:52Z"
-  },
-  {
-   "id": "37921f13dbd8",
-   "ts": "2026-10-07T16:48:56Z",
-   "headline": "France to release 10m barrels of diesel from its strategic reserves, France Info reports",
-   "detail": "French broadcaster France Info reports that France will release 10m barrels of diesel from its reserves. The report comes after IEA members backed speeding up the oil stock releases agreed in March.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "4df06303ff9a6a04"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxcfm3zdid2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxcfm3zdid2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3cc1cc1cccfe",
-   "created_at": "2026-10-07T16:51:02Z"
   }
  ]
 }
