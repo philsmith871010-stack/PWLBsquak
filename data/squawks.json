@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T19:05:40Z",
+ "generated_at": "2026-10-13T19:10:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4ba397a683ef",
+   "ts": "2026-10-13T19:06:27Z",
+   "headline": "UKMTO reports a container ship and a tanker hit by projectiles in the Strait of Hormuz in two separate incidents",
+   "detail": "UKMTO said a verified source reported a container ship hit by an unknown projectile in the Strait of Hormuz, then received a further report of a tanker being struck there minutes later. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "49b8acea20eefc1b",
+    "10b828cce3963057"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrq3jnbj32q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrq3jnbj32q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrqatluls2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrqatluls2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "72c173124947",
+   "created_at": "2026-10-13T19:10:51Z"
+  },
   {
    "id": "242df2ab9350",
    "ts": "2026-10-13T19:05:35Z",
@@ -5687,57 +5714,6 @@
    "model": "opus",
    "run_id": "d384b5ffc795",
    "created_at": "2026-10-09T14:01:16Z"
-  },
-  {
-   "id": "80290c07b85b",
-   "ts": "2026-10-09T12:31:34Z",
-   "headline": "Canada sheds 68.3k jobs in September against a forecast 10k gain; unemployment rate rises to 6.5%",
-   "detail": "Canadian employment fell by 68.3k in September after a 41.7k fall the previous month, and the jobless rate rose to 6.5% from 6.4%, in line with forecast. The participation rate slipped to 64.8%, while average hourly earnings growth picked up to 2.3% year on year, matching the forecast, from 2.0%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a2c8374bbb0f38ee",
-    "57d9e74894d2de97",
-    "d35470a54e610178",
-    "45a563c0c503cfa0",
-    "399d2299de5dd302",
-    "1f4ad55ddf82f87a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxgy5q3idh2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxgy5q3idh2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxgy7bua7i2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxgy7bua7i2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxgy72rwiz2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxgy72rwiz2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxgy5wkol52s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxgy5wkol52s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxgy5jn4bv2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxgy5jn4bv2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxgy6sbdei2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxgy6sbdei2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b1593b1ae8ee",
-   "created_at": "2026-10-09T12:35:41Z"
   }
  ]
 }
