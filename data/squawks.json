@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T17:20:50Z",
+ "generated_at": "2026-10-13T17:31:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ac83cc0503fd",
+   "ts": "2026-10-13T17:30:53Z",
+   "headline": "IRGC Navy commander threatens to sink US ships that approach the Strait of Hormuz, Iranian reports say",
+   "detail": "Iranian reports quote Rear Admiral Azmaei, commander of the IRGC Navy, as saying Iran is waiting for American ships to approach the entrance to the Strait of Hormuz so that it can sink them. He also challenged the US to come closer if it believes the strait is open.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b0dff8daa7a96fbe",
+    "240291f35ad695f3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrkqnq6ez2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrkqnq6ez2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrki65vfj2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrki65vfj2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9e872e1a83ea",
+   "created_at": "2026-10-13T17:31:06Z"
+  },
+  {
+   "id": "5bab99a8f1a3",
+   "ts": "2026-10-13T17:29:46Z",
+   "headline": "Houthi political council head says Bab al-Mandeb shipping is safe and calls an end to Saudi attacks the easiest solution",
+   "detail": "Fars News reports that Mahdi al-Mashat, chairman of Yemen's Houthi-run Supreme Political Council, said shipping through the Bab al-Mandeb Strait is safe and the Houthis are meeting their international obligations. In separate reported remarks, he said the easiest way to resolve the crisis is for Saudi Arabia to end its attacks on Yemen and its siege.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f74d5e51b60bc40a",
+    "01de48fdc1a9a66d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrkonmf5r2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrkonmf5r2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrkhdlxlg2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrkhdlxlg2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9e872e1a83ea",
+   "created_at": "2026-10-13T17:31:06Z"
+  },
   {
    "id": "2da7f421925e",
    "ts": "2026-10-13T17:17:15Z",
@@ -5846,48 +5900,6 @@
    "model": "opus",
    "run_id": "0b0921d4e3ff",
    "created_at": "2026-10-08T15:20:55Z"
-  },
-  {
-   "id": "ee6f504c8d4d",
-   "ts": "2026-10-08T14:25:37Z",
-   "headline": "UK and EU agree to link their carbon emissions trading systems, Politico reports",
-   "detail": "Politico reports that the UK and the EU have reached an agreement to link their emissions trading systems.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "757363d31446f380"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeo2qlaux2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeo2qlaux2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "617b7457edc0",
-   "created_at": "2026-10-08T14:25:44Z"
-  },
-  {
-   "id": "3f83a57e12d6",
-   "ts": "2026-10-08T14:21:44Z",
-   "headline": "NatWest Markets quits European and US primary dealer roles but stays on as a gilt-edged market maker",
-   "detail": "IFR reports that NatWest Markets is giving up its primary dealerships for six European sovereigns, the EU and the US following a review of its markets business. It will keep its UK role as a Gilt-Edged Market Maker.",
-   "category": "supply",
-   "importance": 1,
-   "source_event_ids": [
-    "b37184a79f942ba4"
-   ],
-   "sources": [
-    {
-     "author": "chriswhittall.bsky.social",
-     "uri": "at://did:plc:mw33frnll5jjux3vvkfyyrdt/app.bsky.feed.post/3mxents3nqc27",
-     "url": "https://bsky.app/profile/chriswhittall.bsky.social/post/3mxents3nqc27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "617b7457edc0",
-   "created_at": "2026-10-08T14:25:44Z"
   }
  ]
 }
