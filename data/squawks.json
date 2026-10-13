@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T06:40:48Z",
+ "generated_at": "2026-10-13T07:01:10Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "59244d7afc0e",
+   "ts": "2026-10-13T06:58:53Z",
+   "headline": "EU's von der Leyen condemns escalation in the Black Sea as a new front in Russia's war in Ukraine, calling it unacceptable",
+   "detail": "European Commission President Ursula von der Leyen described the Black Sea as another front of escalation in Russia's war in Ukraine and called it unacceptable. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f33e5dfec096f62a",
+    "5546f03aaa5f9653"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqhgkbv5b2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqhgkbv5b2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqhhlbt272d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqhhlbt272d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0f6091a75a9d",
+   "created_at": "2026-10-13T07:01:10Z"
+  },
   {
    "id": "e51ec6e4567b",
    "ts": "2026-10-13T06:40:06Z",
@@ -6035,33 +6062,6 @@
    "model": "opus",
    "run_id": "a3fc03b28a3c",
    "created_at": "2026-10-07T06:10:57Z"
-  },
-  {
-   "id": "ebd56c532119",
-   "ts": "2026-10-07T06:01:12Z",
-   "headline": "German August industrial production rises 2% m/m, above the 0.5% forecast; annual growth of 2.3% also beats",
-   "detail": "German industrial production rose 2% on the month against a 0.5% forecast, after a 1.1% fall previously. On the year, output was up 2.3%, against a 0.7% forecast and a previous reading of -1.63%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "13569eb401b04acf",
-    "d4444afc3a925f80"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbfmxjbh2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbfmxjbh2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbfuxmm32w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbfuxmm32w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d941038e0ece",
-   "created_at": "2026-10-07T06:01:28Z"
   }
  ]
 }
