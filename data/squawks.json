@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T08:10:52Z",
+ "generated_at": "2026-10-13T08:15:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c3e0e327b055",
+   "ts": "2026-10-13T08:13:07Z",
+   "headline": "Fed's Waller links the level of real yields to the effect of real growth",
+   "detail": "Federal Reserve Governor Waller said real yields are being driven by real economic growth. No market reaction was reported in the inputs.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "7123429eeba074ba"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqllbe5ze2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqllbe5ze2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ac2909185e7d",
+   "created_at": "2026-10-13T08:15:47Z"
+  },
   {
    "id": "9b49babee775",
    "ts": "2026-10-13T08:08:44Z",
@@ -5963,81 +5984,6 @@
    "model": "opus",
    "run_id": "d6aae175933f",
    "created_at": "2026-10-07T07:46:01Z"
-  },
-  {
-   "id": "f9e5af71a1e5",
-   "ts": "2026-10-07T06:10:52Z",
-   "headline": "IMF's Georgieva calls for a prudently hawkish stance and says rate rises are still right for the Fed, ECB and BoJ",
-   "detail": "The IMF Managing Director said energy and food shocks, the AI construction boom, tariffs, defence spending and high debt could add to inflation, and that global public debt is set to exceed 100% of GDP, with advanced economies carrying the heaviest burdens. She said new IMF forecasts show weaker growth in Ukraine, the Gulf states and some energy-importing economies.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "fec0210a30bfb2d6",
-    "b0d7f9db7a0c9211",
-    "cf1cd645fdf8ddbe",
-    "c90f3268d5bbeee8",
-    "3bc4bc19671d135b",
-    "8dcffc71d7cd45b5",
-    "4bb93995818162d1",
-    "a1b6bf985b0cced8",
-    "66719125032afd40",
-    "37c7a81f30d1fd2e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbx5u3bd24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbx5u3bd24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbwjo6sy2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbwjo6sy2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbwtwki726",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbwtwki726"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbuftziy2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbuftziy2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbvgedvj2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbvgedvj2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbv2q5qj2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbv2q5qj2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbuqgbaf2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbuqgbaf2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbvdujop26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbvdujop26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbvbpfcb2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbvbpfcb2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbvioha72r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbvioha72r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a3fc03b28a3c",
-   "created_at": "2026-10-07T06:10:57Z"
   }
  ]
 }
