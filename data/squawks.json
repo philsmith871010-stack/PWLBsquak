@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T11:45:49Z",
+ "generated_at": "2026-10-13T11:50:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "34ca075a0f87",
+   "ts": "2026-10-13T11:47:52Z",
+   "headline": "Resolution Foundation says UK growth beat forecasts in the first half of 2026 but the Middle East conflict has worsened the near-term…",
+   "detail": "The Resolution Foundation made the point in material from its Budget preview. It said UK growth in the first half of 2026 came in ahead of forecasts, and that the Middle East conflict has weakened the short-term outlook.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "2509a250a6e97a4e"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxqxlb5ckv2i",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxqxlb5ckv2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fb8dd9c33bae",
+   "created_at": "2026-10-13T11:50:54Z"
+  },
   {
    "id": "0ed4782cb6f3",
    "ts": "2026-10-13T11:41:40Z",
@@ -5921,33 +5942,6 @@
    "model": "opus",
    "run_id": "2f68ff16d814",
    "created_at": "2026-10-07T20:40:56Z"
-  },
-  {
-   "id": "387c62de88b3",
-   "ts": "2026-10-07T20:09:02Z",
-   "headline": "FT estimates the Iran war has cut UK public finances by nearly £12bn, roughly halving Chancellor Healey's fiscal headroom",
-   "detail": "FT estimates find that higher inflation and borrowing costs have probably cut the Chancellor's headroom by about half. The FT says this leaves him relying on tax rises and spending cuts at the Budget to help with living costs.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "d725d9fbac62d5bb",
-    "1447181446865d0a"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxcqrvnb5v2h",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mxcqrvnb5v2h"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxcqtqgaui2h",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mxcqtqgaui2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9be4029f1a84",
-   "created_at": "2026-10-07T20:11:01Z"
   }
  ]
 }
