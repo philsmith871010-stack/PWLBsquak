@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T19:35:42Z",
+ "generated_at": "2026-10-13T20:01:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e45a1cdcddd3",
+   "ts": "2026-10-13T20:01:13Z",
+   "headline": "Fed's Collins says elevated inflation risk is the Fed's main focus and expects inflation to stay above 2% on high energy prices",
+   "detail": "Boston Fed President Collins said the risk of high inflation is the Fed's main focus at present and that she expects inflation to remain above 2% because of high energy prices. She said the path of policy in the new year will depend on the data.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c97678fcbde84323",
+    "98c8b1a210a0f6aa",
+    "b67754d4ea948e45"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrt5hcina2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrt5hcina2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrt5lvmyb24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrt5lvmyb24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrt5pktla2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrt5pktla2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5a798a4928ca",
+   "created_at": "2026-10-13T20:01:39Z"
+  },
   {
    "id": "898edd96e2cc",
    "ts": "2026-10-13T19:34:01Z",
@@ -5669,27 +5702,6 @@
    "model": "opus",
    "run_id": "b9e275c2856c",
    "created_at": "2026-10-09T16:35:44Z"
-  },
-  {
-   "id": "868b8132a585",
-   "ts": "2026-10-09T15:04:08Z",
-   "headline": "Saudi Aramco to supply full contracted oil volumes to European customers in November",
-   "detail": "A market commentary account reports that Saudi Aramco will deliver full oil volumes to its European customers for November. No further figures were given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "cb9f208962f3017c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxhaojwels2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxhaojwels2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "22f5a890bdee",
-   "created_at": "2026-10-09T15:05:40Z"
   }
  ]
 }
