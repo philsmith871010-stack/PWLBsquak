@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T08:40:53Z",
+ "generated_at": "2026-10-13T08:50:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3090ba1b63cb",
+   "ts": "2026-10-13T08:47:13Z",
+   "headline": "BoJ reportedly unlikely to raise rates again at its October meeting",
+   "detail": "A market newswire post reports that the Bank of Japan is unlikely to raise interest rates again in October. No source or further detail was given.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "578d6a97451e2d73"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqniai4xe2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqniai4xe2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f6951b6553b4",
+   "created_at": "2026-10-13T08:50:46Z"
+  },
   {
    "id": "88858fd14530",
    "ts": "2026-10-13T08:37:52Z",
@@ -5945,33 +5966,6 @@
    "model": "opus",
    "run_id": "f5b5cb619158",
    "created_at": "2026-10-07T10:40:58Z"
-  },
-  {
-   "id": "9df94419af66",
-   "ts": "2026-10-07T09:33:07Z",
-   "headline": "German 7-year Bund auction yields 3.36%, up from 2.68% last time; bid-to-cover rises to 1.4 from 1.2",
-   "detail": "Germany's sale of the new 7-year Bund came in at an average yield of 3.36%, against 2.68% at the previous auction. The bid-to-cover ratio was 1.4, up from 1.2.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c6d9f70bf57177cb",
-    "9c0bbe6b4a70aaac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbnasjstb2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbnasjstb2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbnape4ui2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbnape4ui2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "29c957c89f1e",
-   "created_at": "2026-10-07T09:35:50Z"
   }
  ]
 }
