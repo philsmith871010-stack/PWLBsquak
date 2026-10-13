@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T08:25:49Z",
+ "generated_at": "2026-10-13T08:40:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "88858fd14530",
+   "ts": "2026-10-13T08:37:52Z",
+   "headline": "Resolution Foundation publishes its UK Budget preview report, titled 'Hitting the buffers'",
+   "detail": "The Resolution Foundation released its Budget preview and is holding a launch event this morning. Its summary points to higher inflation from the Middle East conflict and to a retreat from sovereign debt that has raised borrowing costs.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "eff49c70e0a009a1"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxqmxj76v22w",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxqmxj76v22w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4a93675f79ef",
+   "created_at": "2026-10-13T08:40:53Z"
+  },
   {
    "id": "5859133588a5",
    "ts": "2026-10-13T08:20:50Z",
@@ -5951,33 +5972,6 @@
    "model": "opus",
    "run_id": "29c957c89f1e",
    "created_at": "2026-10-07T09:35:50Z"
-  },
-  {
-   "id": "a36c89cef838",
-   "ts": "2026-10-07T08:18:03Z",
-   "headline": "EU imposes temporary limits on imports of Chinese hybrid cars",
-   "detail": "Market newswire headlines report that the EU is setting temporary caps on imports of hybrid cars from China. European carmaker shares are reported higher on the news.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "62eb2a7e847ea139",
-    "c6cc8b1412c2cdc6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbj2lesuq2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbj2lesuq2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbj4d645a2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbj4d645a2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f3349a062280",
-   "created_at": "2026-10-07T08:20:57Z"
   }
  ]
 }
