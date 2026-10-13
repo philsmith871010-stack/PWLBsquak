@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T19:10:51Z",
+ "generated_at": "2026-10-13T19:25:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "11bdb268fd2e",
+   "ts": "2026-10-13T19:23:47Z",
+   "headline": "Saudi-led coalition says it intercepted three missiles and two drones over Riyadh and the southern region",
+   "detail": "The Saudi-led coalition said it intercepted and destroyed three missiles and two drones in the Riyadh region and the south of the kingdom. This follows the Houthi warning that any attack on Sanaa would bring a response against Riyadh.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d4883a5e4a4ecf0a",
+    "3d81f4ba860c9b78",
+    "8df437ed309d31ff"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrr2jbrpd2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrr2jbrpd2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrr3daa5d26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrr3daa5d26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrr45ehvt26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrr45ehvt26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "129da225c28b",
+   "created_at": "2026-10-13T19:25:50Z"
+  },
   {
    "id": "4ba397a683ef",
    "ts": "2026-10-13T19:06:27Z",
@@ -5682,33 +5715,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh553fjzj2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh553fjzj2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d384b5ffc795",
-   "created_at": "2026-10-09T14:01:16Z"
-  },
-  {
-   "id": "9b544828df53",
-   "ts": "2026-10-09T13:56:24Z",
-   "headline": "White House sets up committee to investigate allegations of false statements by Fed Governor Lisa Cook",
-   "detail": "In a statement, the White House said President Trump has set up a committee of inquiry to look into allegations that Federal Reserve Governor Lisa Cook made false statements.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "37ca7a4d55ff4034",
-    "98fde8c10ff0e164"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh4vgkp6p2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh4vgkp6p2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh4w7hz7c2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh4w7hz7c2m"
     }
    ],
    "model": "opus",
