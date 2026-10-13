@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T20:31:07Z",
+ "generated_at": "2026-10-13T20:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a3cceaf46b27",
+   "ts": "2026-10-13T20:35:17Z",
+   "headline": "Fed's Collins says officials know that higher rates can cause difficulties",
+   "detail": "Boston Fed President Collins said policymakers are aware that higher interest rates can create challenges. She made the remark in further comments on Tuesday.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "7cababc53ed84a02"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrv2eu73b2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrv2eu73b2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "42fbb72314de",
+   "created_at": "2026-10-13T20:35:42Z"
+  },
+  {
+   "id": "da90982aa32a",
+   "ts": "2026-10-13T20:33:01Z",
+   "headline": "Saudi Aramco headquarters in Dhahran is reported hit during Tuesday's Houthi attacks",
+   "detail": "A market news account reports that Saudi Aramco's Dhahran headquarters was hit during Tuesday's Houthi attacks on Saudi Arabia. The reports came after earlier accounts of explosions near the site. No market reaction was reported in the posts.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "298161e638589236"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxruwdi2yz2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxruwdi2yz2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "42fbb72314de",
+   "created_at": "2026-10-13T20:35:42Z"
+  },
   {
    "id": "6eb0835a8210",
    "ts": "2026-10-13T20:26:56Z",
@@ -5588,48 +5630,6 @@
    "model": "opus",
    "run_id": "3e330c673da6",
    "created_at": "2026-10-12T08:15:50Z"
-  },
-  {
-   "id": "2c4a7ba3c245",
-   "ts": "2026-10-12T06:01:05Z",
-   "headline": "Trump says there is an energy ceasefire in the Russia-Ukraine conflict; crude prices fall, FT reports",
-   "detail": "The Financial Times reports that US President Trump has said an energy ceasefire is in place in the Ukraine conflict, and that crude oil prices fell on the news. No price levels were given and no confirmation from Moscow or Kyiv was reported.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "fbbce9038857101d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxntqbcifm2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxntqbcifm2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1b7998d601ab",
-   "created_at": "2026-10-12T06:01:19Z"
-  },
-  {
-   "id": "844ee2236f6f",
-   "ts": "2026-10-12T01:09:37Z",
-   "headline": "Brent and WTI futures fall more than $2 a barrel in early Asian trading on prospect of more Russian oil supply",
-   "detail": "A market newswire reported that Brent and WTI crude futures fell by more than $2 a barrel in early Monday trading, citing pressure from potential increases in Russian supply.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "73ed6bea0a0038f5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxndh3f3sr2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxndh3f3sr2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ba660c5670fd",
-   "created_at": "2026-10-12T05:25:40Z"
   }
  ]
 }
