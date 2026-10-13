@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T12:25:46Z",
+ "generated_at": "2026-10-13T12:31:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9dbed0e3a24f",
+   "ts": "2026-10-13T12:26:53Z",
+   "headline": "Turkey's Erdogan condemns Houthi attacks on Saudi Arabia in a call with the Saudi crown prince and pledges support",
+   "detail": "The Turkish presidency says President Erdogan told the Saudi crown prince by phone that Turkey condemns the Houthi attacks on Saudi Arabia in the strongest terms. He also said Turkey will keep standing by Saudi Arabia.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e15259d3201c89dc",
+    "1d374f98f1266c32",
+    "40fb44d240d59735",
+    "db1b935282099072"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqzpxeolw2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqzpxeolw2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqzr2phnf2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqzr2phnf2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqzrscrtw24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqzrscrtw24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqzvqonhv2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqzvqonhv2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5af90408f04c",
+   "created_at": "2026-10-13T12:31:04Z"
+  },
   {
    "id": "06c7ce522658",
    "ts": "2026-10-13T12:24:27Z",
@@ -5867,39 +5906,6 @@
    "model": "opus",
    "run_id": "78c5b28a82d4",
    "created_at": "2026-10-08T08:35:52Z"
-  },
-  {
-   "id": "c65b7b606463",
-   "ts": "2026-10-08T08:10:28Z",
-   "headline": "SNB Vice Chairman Martin attributes the recent rise in Swiss inflation to oil products",
-   "detail": "Swiss National Bank Vice Chairman Martin said the recent increase in Swiss inflation is due to oil products. He also said the Swiss franc has weakened recently but has stayed stable in real terms since 2020.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "5e0bafa79be8f738",
-    "c00d8596f989dceb",
-    "7dd84f4298577fe8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxdz3wg5w624",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxdz3wg5w624"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxdz4sn4o62r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxdz4sn4o62r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxdz4qi3zc2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxdz4qi3zc2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "556995cd4687",
-   "created_at": "2026-10-08T08:11:01Z"
   }
  ]
 }
