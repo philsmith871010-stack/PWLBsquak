@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T14:15:54Z",
+ "generated_at": "2026-10-13T15:15:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7187b694d7b5",
+   "ts": "2026-10-13T15:15:09Z",
+   "headline": "Resolution Foundation says UK household energy bills are set to rise again in January",
+   "detail": "The Resolution Foundation says the increase will come in the first quarter, when 46% of domestic gas use takes place.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "89dc41318a7eb1ae"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxrd5wiupd25",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxrd5wiupd25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7c631394e7b1",
+   "created_at": "2026-10-13T15:15:53Z"
+  },
+  {
+   "id": "c049104cf811",
+   "ts": "2026-10-13T15:13:57Z",
+   "headline": "Saudi cabinet, chaired by the crown prince, says the Houthis will face consequences for repeated attacks on the kingdom",
+   "detail": "Saudi state news agency reports the cabinet statement after the Houthis' attacks on Saudi Arabia. No market reaction is reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ef8802fc02bb07d2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrd3rxazi24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrd3rxazi24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7c631394e7b1",
+   "created_at": "2026-10-13T15:15:53Z"
+  },
   {
    "id": "3e8d1c0864ba",
    "ts": "2026-10-13T14:14:36Z",
@@ -5816,54 +5858,6 @@
    "model": "opus",
    "run_id": "d2acaad7645a",
    "created_at": "2026-10-08T11:25:50Z"
-  },
-  {
-   "id": "6625f0b1db79",
-   "ts": "2026-10-08T11:24:07Z",
-   "headline": "UK announces sanctions on Russian oil companies and tankers",
-   "detail": "The UK has imposed new sanctions on Russian oil companies and tankers. The report gave no further details.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1718ba511d3ceca8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxedw7rtfk2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxedw7rtfk2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d2acaad7645a",
-   "created_at": "2026-10-08T11:25:50Z"
-  },
-  {
-   "id": "3f939e84f5c1",
-   "ts": "2026-10-08T11:16:49Z",
-   "headline": "ECB's Stournaras sees no significant second-round inflation effects and says inflation expectations remain anchored near 2%",
-   "detail": "ECB Governing Council member Stournaras said he does not see important second-round effects. He also said inflation expectations are well anchored at around 2%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "3f4bc2ce7e25eaa2",
-    "e47dad118b1b862f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxedj5v6fr2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxedj5v6fr2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxedk7gvrr2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxedk7gvrr2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e60c77c5b065",
-   "created_at": "2026-10-08T11:20:48Z"
   }
  ]
 }
