@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T21:05:41Z",
+ "generated_at": "2026-10-13T21:10:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "76decbf9855b",
+   "ts": "2026-10-13T21:07:57Z",
+   "headline": "US retail diesel averages $6.28 a gallon on Tuesday, little changed after Trump's Russia diesel announcement",
+   "detail": "US retail diesel prices averaged $6.28 per gallon on Tuesday, slightly above Friday's level and below September's record of $6.53 per gallon. The figure shows the announcement has had limited immediate effect on prices.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "427f29f31ed1f51e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrwurgsuz2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrwurgsuz2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0c13c7903412",
+   "created_at": "2026-10-13T21:10:48Z"
+  },
   {
    "id": "f0a5f1035e31",
    "ts": "2026-10-13T21:05:05Z",
@@ -5609,33 +5630,6 @@
    "model": "opus",
    "run_id": "221d85d0c6ea",
    "created_at": "2026-10-12T11:25:43Z"
-  },
-  {
-   "id": "fbb3f09dedcb",
-   "ts": "2026-10-12T10:47:54Z",
-   "headline": "Kremlin's Peskov says Ukraine wants a 60-day ceasefire to regroup and keep fighting rather than to hold elections",
-   "detail": "Kremlin spokesman Dmitry Peskov said Ukraine is seeking a 60-day ceasefire so it can recover and carry on the war, not so it can hold elections, according to reports. The Kremlin has separately said it is ready to suspend strikes on Ukraine's election day.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e48139f85725645d",
-    "572cb03edfe26bae"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxodr57gay24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxodr57gay24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxodu26giu2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxodu26giu2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e152e54496f8",
-   "created_at": "2026-10-12T10:50:50Z"
   }
  ]
 }
