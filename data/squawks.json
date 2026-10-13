@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T12:10:53Z",
+ "generated_at": "2026-10-13T12:15:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "810b7921e34e",
+   "ts": "2026-10-13T12:14:12Z",
+   "headline": "Houthis warn Saudi Arabia that any attack on Sanaa will bring a harsh response against Riyadh",
+   "detail": "A spokesperson for Yemen's Houthis said any Saudi strike on the capital, Sanaa, would be met with retaliation against the Saudi capital, Riyadh. The warning follows the Saudi-led coalition's statement that it will soon tell civilians to evacuate a site in Sanaa.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ce470bb000141f44",
+    "5a62c1ace2537ff3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqz2ebrxe2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqz2ebrxe2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqz2ol3pg24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqz2ol3pg24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "415fec80823d",
+   "created_at": "2026-10-13T12:15:48Z"
+  },
+  {
+   "id": "8964ec8d8922",
+   "ts": "2026-10-13T12:13:45Z",
+   "headline": "Hassett says the market trusts the new Fed chair and a slowdown in inflation could give the Fed a reason to hold",
+   "detail": "Kevin Hassett said markets have confidence in the incoming Fed chair. He also said the Fed may treat slowing inflation as grounds for holding rates.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "59df8c53f891c098",
+    "ea099e6fe58c6665"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqyzepv7y2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqyzepv7y2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqyzkab4m2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqyzkab4m2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "415fec80823d",
+   "created_at": "2026-10-13T12:15:48Z"
+  },
   {
    "id": "74b1020af25a",
    "ts": "2026-10-13T12:10:40Z",
@@ -5834,66 +5888,6 @@
    "model": "opus",
    "run_id": "ac560742f5e9",
    "created_at": "2026-10-08T07:31:17Z"
-  },
-  {
-   "id": "2b446297d422",
-   "ts": "2026-10-08T06:52:24Z",
-   "headline": "ECB's Moulin says euro area inflation is entirely energy-driven and sees no second-round effects",
-   "detail": "ECB official Moulin said the ECB faces an inflationary shock, euro area inflation is 100% energy and second-round effects are not visible. He also said the geopolitical shock is feeding through into a financial shock.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c6965eb11c070dac",
-    "f0ce603e6403e0a5",
-    "9e2473f5b8890978",
-    "38927b2741724f75"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxduqdoaow24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxduqdoaow24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxduqjoceo2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxduqjoceo2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxdurfa4oj2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxdurfa4oj2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxdurta2w22r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxdurta2w22r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "589836078b2a",
-   "created_at": "2026-10-08T06:55:49Z"
-  },
-  {
-   "id": "df303a22f0e0",
-   "ts": "2026-10-08T06:44:12Z",
-   "headline": "ECB's Sleijpen describes the energy shock as fairly persistent",
-   "detail": "ECB Governing Council member Olaf Sleijpen said the energy price shock is proving persistent. No further detail or market reaction was reported.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "9e13d10a49fcffc6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxdubobk2d2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxdubobk2d2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e17e4dfc207c",
-   "created_at": "2026-10-08T06:45:58Z"
   }
  ]
 }
