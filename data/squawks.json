@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T18:45:48Z",
+ "generated_at": "2026-10-13T18:55:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "62a515d76914",
+   "ts": "2026-10-13T18:51:14Z",
+   "headline": "Saudi civil defence says the threat to Riyadh has passed after the earlier aerial threat warning",
+   "detail": "Saudi civil defence says the danger over Riyadh has lifted. This follows its earlier warning of an aerial threat to the capital during Houthi missile attacks on the kingdom.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e37d083bd266d812",
+    "b7fb2795775f33bb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrpad7xst26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrpad7xst26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrpcp7is224",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrpcp7is224"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f4dcd0e80e5d",
+   "created_at": "2026-10-13T18:55:40Z"
+  },
   {
    "id": "19a8f0da3943",
    "ts": "2026-10-13T18:42:41Z",
@@ -5765,39 +5792,6 @@
    "model": "opus",
    "run_id": "7b247d002d62",
    "created_at": "2026-10-09T11:40:49Z"
-  },
-  {
-   "id": "4a10212f4005",
-   "ts": "2026-10-09T11:21:20Z",
-   "headline": "Bank of Spain lifts its 2026 inflation forecast to 3.9% and its 2027 forecast to 3.7% from 2.7%",
-   "detail": "The Bank of Spain raised its 2026 growth forecast to 2.6% from 2.3% and its 2027 forecast to 2.2% from 1.7%. It expects a budget deficit of 2.6% in 2026 and public debt of 98.5% of GDP at the end of 2026, and named geopolitics, oil prices and rising bond yields as risks to the outlook.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "412c69e2b269b921",
-    "4e99025310f4dc6b",
-    "9950c3ef12e9e935"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxgua5nbkn2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxgua5nbkn2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxguabncab2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxguabncab2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxguadmqux2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxguadmqux2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ea0f3cf70cba",
-   "created_at": "2026-10-09T11:25:40Z"
   }
  ]
 }
