@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T13:45:48Z",
+ "generated_at": "2026-10-13T13:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fdc3b2170747",
+   "ts": "2026-10-13T13:49:13Z",
+   "headline": "Explosions reported in Sanaa after Saudi-led coalition warning; Houthis say the targeted oil company station holds no fuel",
+   "detail": "There are reports of explosions in Sanaa, Yemen. They follow the Saudi-led coalition's order for civilians to evacuate a Yemeni Oil Company site. The Houthis cited an oil company source as saying its As Sabah station is empty of petroleum products and has no military value.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fea12123822b18f8",
+    "fbdcc3d4c0a16b79"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxr6ebqtov2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxr6ebqtov2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxr6ej2dhh2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxr6ej2dhh2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6ff7faff4489",
+   "created_at": "2026-10-13T13:50:49Z"
+  },
   {
    "id": "4059474895d1",
    "ts": "2026-10-13T13:45:29Z",
@@ -5825,27 +5852,6 @@
    "model": "opus",
    "run_id": "8059fdbdd300",
    "created_at": "2026-10-08T10:40:53Z"
-  },
-  {
-   "id": "87117931277a",
-   "ts": "2026-10-08T10:33:23Z",
-   "headline": "UK 10-year gilt yield rises to 5.515%, its highest since July 2007, up more than 6bp on the day",
-   "detail": "The 10-year gilt yield reached 5.515%, its highest level since July 2007, after rising more than 6bp on the day.",
-   "category": "global_rates",
-   "importance": 3,
-   "source_event_ids": [
-    "ac20a90448716443"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeb3iod5c24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeb3iod5c24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1a16ebf0d19d",
-   "created_at": "2026-10-08T10:35:45Z"
   }
  ]
 }
