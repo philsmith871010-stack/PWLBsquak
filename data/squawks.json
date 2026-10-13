@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T16:05:39Z",
+ "generated_at": "2026-10-13T16:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e28f43c05b98",
+   "ts": "2026-10-13T16:39:47Z",
+   "headline": "Fitch says fiscal paths of Western European sovereigns are still diverging",
+   "detail": "Fitch Ratings published a commentary saying that the fiscal trajectories of Western European sovereigns are continuing to diverge. The post did not give any country-level figures.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "a9163ee699e803e3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrhvbejv62q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrhvbejv62q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4183110d8773",
+   "created_at": "2026-10-13T16:40:50Z"
+  },
   {
    "id": "2841894b7ed2",
    "ts": "2026-10-13T16:05:13Z",
@@ -5885,45 +5906,6 @@
    "model": "opus",
    "run_id": "7ff907c694cf",
    "created_at": "2026-10-08T12:50:51Z"
-  },
-  {
-   "id": "14c466794b31",
-   "ts": "2026-10-08T12:42:59Z",
-   "headline": "BoE's Bailey says markets show an elevated risk premium and the Bank must test for a significant shock to inflation expectations",
-   "detail": "Bank of England Governor Andrew Bailey also said markets remain resilient and that he is fully committed to bringing inflation back to target.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "8b8db41c9bb1b7dc",
-    "a2c64e9b89eaea02",
-    "4b779431ff6b8b1e",
-    "3936991a88b92cc5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeiaayrpp2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeiaayrpp2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeibsz3he2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeibsz3he2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeidajphd2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeidajphd2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxeieqfj3f2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxeieqfj3f2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "435f10603d1f",
-   "created_at": "2026-10-08T12:45:54Z"
   }
  ]
 }
