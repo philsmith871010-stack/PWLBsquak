@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T15:40:51Z",
+ "generated_at": "2026-10-13T16:05:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2841894b7ed2",
+   "ts": "2026-10-13T16:05:13Z",
+   "headline": "Trump says Yemen's Houthis are behaving very badly as fallout from the US-Iran war spreads across the region",
+   "detail": "Reuters reported that US President Trump made the comments about the Houthi militants who control much of Yemen on Tuesday. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "22a950157fc80d3d"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxrfxh4nur2d",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxrfxh4nur2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "186a00f0c301",
+   "created_at": "2026-10-13T16:05:39Z"
+  },
   {
    "id": "b3776cdbe330",
    "ts": "2026-10-13T15:37:11Z",
@@ -5903,33 +5924,6 @@
    "model": "opus",
    "run_id": "435f10603d1f",
    "created_at": "2026-10-08T12:45:54Z"
-  },
-  {
-   "id": "dc26ec26d2f5",
-   "ts": "2026-10-08T12:31:53Z",
-   "headline": "BoE's Bailey sees subdued evidence so far of energy costs feeding wider inflation, but says risks grow the longer prices stay high",
-   "detail": "Bank of England Governor Andrew Bailey said there was currently little evidence of higher energy costs passing through into broader inflation, but that risks remain. He added that inflation risks increase the longer high energy prices persist.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "d98b9fa90fb1c69f",
-    "76f63055f577c14d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxehpfaijc2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxehpfaijc2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxehvyyrjd2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxehvyyrjd2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5106c33d06bf",
-   "created_at": "2026-10-08T12:35:51Z"
   }
  ]
 }
