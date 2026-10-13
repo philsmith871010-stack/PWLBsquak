@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T08:20:47Z",
+ "generated_at": "2026-10-13T08:25:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5859133588a5",
+   "ts": "2026-10-13T08:20:50Z",
+   "headline": "Fed's Waller says higher yields are partly doing the Fed's job and that Trump threatens Fed independence but is not succeeding",
+   "detail": "In further remarks, Federal Reserve Governor Waller said rising bond yields were doing some of the Fed's tightening work. He also said President Trump poses a threat to Fed independence but has not succeeded so far, and that he trusts Congress and the courts to protect it.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "5ae3025667ba60d8",
+    "9867ca4046a12476",
+    "31a02b6a24bb024e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqlz3eoqu2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqlz3eoqu2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqm6vqgtm2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqm6vqgtm2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqmbc3rkp2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqmbc3rkp2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "303c4a766289",
+   "created_at": "2026-10-13T08:25:49Z"
+  },
   {
    "id": "bc88e1ee2903",
    "ts": "2026-10-13T08:18:31Z",
@@ -5945,27 +5978,6 @@
    "model": "opus",
    "run_id": "f3349a062280",
    "created_at": "2026-10-07T08:20:57Z"
-  },
-  {
-   "id": "91d8edf175c6",
-   "ts": "2026-10-07T07:57:37Z",
-   "headline": "EUR/GBP falls 0.3% to 0.84528, its lowest level since June 2025",
-   "detail": "The euro fell 0.3% against sterling to 0.84528, reaching its lowest level since June 2025, according to a market commentary account.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4f970527f1445d58"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbhvzxzkn2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbhvzxzkn2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "010ee36faba5",
-   "created_at": "2026-10-07T08:01:30Z"
   }
  ]
 }
