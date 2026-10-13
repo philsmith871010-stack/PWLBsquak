@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T15:20:51Z",
+ "generated_at": "2026-10-13T15:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "26de340e391f",
+   "ts": "2026-10-13T15:27:55Z",
+   "headline": "Pimco's Ivascyn says US Treasury yields have not yet peaked and sees the Fed holding this month, with 1 to 2 more hikes this cycle",
+   "detail": "Pimco's chief investment officer Dan Ivascyn also said long-dated Treasuries can absorb further Fed tightening. He said spillover risks are greatest in rate-sensitive sectors such as housing and commercial real estate.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "20164da85f6891b9",
+    "74b4351a116ab7f8",
+    "f8487418b06c4072",
+    "64a6660961339548"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrduqo2lg2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrduqo2lg2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrduwwr532d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrduwwr532d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrdv6zaa324",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrdv6zaa324"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrdwaroob2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrdwaroob2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bee17dbeabad",
+   "created_at": "2026-10-13T15:31:03Z"
+  },
   {
    "id": "2d4d24a60228",
    "ts": "2026-10-13T15:19:33Z",
@@ -5837,27 +5876,6 @@
    "model": "opus",
    "run_id": "630cacbfd845",
    "created_at": "2026-10-08T11:35:41Z"
-  },
-  {
-   "id": "6e89debeea16",
-   "ts": "2026-10-08T11:26:41Z",
-   "headline": "French 10-year yield rises above last week's high as other high-debt European bond yields climb with it",
-   "detail": "An economist reports that France's 10-year government bond yield has moved past the previous high it set a week ago, with yields across other high-debt European countries also rising. No new yield level was given.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "8554917c101d2433"
-   ],
-   "sources": [
-    {
-     "author": "robin-j-brooks.bsky.social",
-     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3mxee2s6zek2m",
-     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3mxee2s6zek2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9726f1c18ea3",
-   "created_at": "2026-10-08T11:31:08Z"
   }
  ]
 }
