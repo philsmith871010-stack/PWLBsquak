@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T07:01:10Z",
+ "generated_at": "2026-10-13T07:20:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dccfdada64d5",
+   "ts": "2026-10-13T07:19:11Z",
+   "headline": "IMF 2026 forecasts put UK growth joint-2nd fastest in G7 on annual average, but 6th of 7 per capita",
+   "detail": "Based on the IMF's 2026 forecasts, the UK ranks joint-2nd in the G7 for annual average GDP growth, 3rd on a Q4/Q4 basis and 6th of 7 for per capita growth. A separate headline reports that UK growth has been upgraded but that energy prices and interest rates will weigh in 2027.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "9db6dea82cdf50c1",
+    "65f922700a8bf1e1"
+   ],
+   "sources": [
+    {
+     "author": "bruceandy.bsky.social",
+     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3mxqiksxc4222",
+     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3mxqiksxc4222"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqifpxf6x2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqifpxf6x2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4d5390aafe7a",
+   "created_at": "2026-10-13T07:20:47Z"
+  },
   {
    "id": "59244d7afc0e",
    "ts": "2026-10-13T06:58:53Z",
@@ -6006,57 +6033,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbboisb7v2n",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbboisb7v2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a3fc03b28a3c",
-   "created_at": "2026-10-07T06:10:57Z"
-  },
-  {
-   "id": "10cec9aecac0",
-   "ts": "2026-10-07T06:05:55Z",
-   "headline": "Swedish September CPI rises to 1.1% y/y, just short of the 1.2% forecast; CPIF in line at 1.5%",
-   "detail": "Swedish headline CPI rose 0.9% m/m against a 1.0% forecast, and CPIF rose 1.5% y/y as expected, up from 0.7%. CPIF excluding energy held at 0.5% y/y, below the 0.7% forecast.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "39cdf6a38d9f623c",
-    "0c05a36dff285ac3",
-    "08c14449dc8e4f89",
-    "657e270cae135020",
-    "d48078418270d6fe",
-    "bc651cec04b1d3f3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbboc2iw324",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbboc2iw324"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbo6jdcw2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbo6jdcw2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbofhfmh2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbofhfmh2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbboleg4v2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbboleg4v2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbopf32o2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbopf32o2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxbbotum3n2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxbbotum3n2n"
     }
    ],
    "model": "opus",
