@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T18:10:51Z",
+ "generated_at": "2026-10-13T18:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d1ac260daec4",
+   "ts": "2026-10-13T18:15:03Z",
+   "headline": "Saudi statement says the danger in the Eastern Province has passed",
+   "detail": "A Saudi statement says the danger in the kingdom's Eastern Province is over. It follows an earlier civil defence warning of possible danger in the region and Houthi threats against Saudi Aramco facilities. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d63c165d725223c3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrn7muzcv2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrn7muzcv2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "85179d2ac744",
+   "created_at": "2026-10-13T18:15:52Z"
+  },
   {
    "id": "0748d13f641f",
    "ts": "2026-10-13T18:08:56Z",
@@ -5807,39 +5828,6 @@
    "model": "opus",
    "run_id": "3086e4759e00",
    "created_at": "2026-10-09T05:10:48Z"
-  },
-  {
-   "id": "748e6901237d",
-   "ts": "2026-10-09T02:53:37Z",
-   "headline": "German Bund futures rise 0.45% and French OAT futures 0.78% in Asian trading",
-   "detail": "Euro area government bond futures gain in early Friday trading. Reuters reports that France's debt market has stabilised after its recent sell-off and that US yields have fallen.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "34634de548597fb7",
-    "87141473138efb66",
-    "dbf6aed4672abf12"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxfxuc7zxm24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxfxuc7zxm24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxfxuwp4kb2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxfxuwp4kb2m"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxfuv4i5rs2z",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxfuv4i5rs2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d15b87187c5f",
-   "created_at": "2026-10-09T05:05:47Z"
   }
  ]
 }
