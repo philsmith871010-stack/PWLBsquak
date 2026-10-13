@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T15:15:53Z",
+ "generated_at": "2026-10-13T15:20:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2d4d24a60228",
+   "ts": "2026-10-13T15:19:33Z",
+   "headline": "India's foreign minister says Indian and US officials are resolving issues in trade deal talks and progress is positive",
+   "detail": "India's external affairs minister said Indian and US officials are working through outstanding issues in their trade deal negotiations, which he described as moving in the right direction.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1ba0ff3f0394391a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrdfsivja2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrdfsivja2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "363e1daa8605",
+   "created_at": "2026-10-13T15:20:51Z"
+  },
   {
    "id": "7187b694d7b5",
    "ts": "2026-10-13T15:15:09Z",
@@ -5837,27 +5858,6 @@
    "model": "opus",
    "run_id": "9726f1c18ea3",
    "created_at": "2026-10-08T11:31:08Z"
-  },
-  {
-   "id": "2485adf9575a",
-   "ts": "2026-10-08T11:25:13Z",
-   "headline": "BoE survey shows UK lenders cut mortgage availability for the first time in three years",
-   "detail": "A Bank of England survey released on Thursday shows that in the three months to the end of August, UK lenders reduced the supply of mortgages and other secured lending to households. It is the first such reduction in three years.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "c1f2d24a5e461197"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxedy6ayi52j",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxedy6ayi52j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d2acaad7645a",
-   "created_at": "2026-10-08T11:25:50Z"
   }
  ]
 }
