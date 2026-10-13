@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T10:01:20Z",
+ "generated_at": "2026-10-13T10:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3db8cdc0b7d3",
+   "ts": "2026-10-13T10:04:04Z",
+   "headline": "BofA October fund manager survey names a disorderly rise in bond yields as the biggest tail risk to markets",
+   "detail": "In BofA's October Fund Manager Survey, investors rank a disorderly rise in bond yields as the top tail risk, ahead of an AI bubble. They say a 5.9% 10-year Treasury yield would lead them to shift allocation from stocks to bonds, and a net 1% expect high long-term rates. A net 4% now expect the global economy to weaken over the next 12 months.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ab5854c29c28324b",
+    "2087d41ae33839db",
+    "b0470a54692e15f7",
+    "a292903ea2332192",
+    "df6ca796baedc833"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqrro3brb2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqrro3brb2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqrozji4i2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqrozji4i2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqrq4pxy72q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqrq4pxy72q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqrqwqmhb2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqrqwqmhb2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqrorwimq2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqrorwimq2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a64833a04910",
+   "created_at": "2026-10-13T10:05:40Z"
+  },
   {
    "id": "2b4fb11c0a0a",
    "ts": "2026-10-13T10:00:47Z",
@@ -5999,27 +6044,6 @@
    "model": "opus",
    "run_id": "f0cc07e35fd1",
    "created_at": "2026-10-07T16:05:51Z"
-  },
-  {
-   "id": "b39e5449923d",
-   "ts": "2026-10-07T15:38:39Z",
-   "headline": "EU envoys sign off on about 1,650 new sanctions listings against Russia",
-   "detail": "EU ambassadors have approved roughly 1,650 new listings under the Russia sanctions regime, according to EU diplomats. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "dc6c7e9beed0d116"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxcbogmj2326",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxcbogmj2326"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bc7bfc3948ca",
-   "created_at": "2026-10-07T15:41:06Z"
   }
  ]
 }
