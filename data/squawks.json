@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T12:15:48Z",
+ "generated_at": "2026-10-13T12:20:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "26c36c1c92eb",
+   "ts": "2026-10-13T12:15:51Z",
+   "headline": "US ADP weekly data shows private employers added an average of 24,750 jobs a week in the four weeks to 26 September",
+   "detail": "ADP's weekly employment measure showed an average gain of 24,750 US private-sector jobs a week in the four weeks to 26 September, up from 23,750 in the previous reading.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "81d616419dfb684c",
+    "b77339ecf39e58db"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqz5can232q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqz5can232q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqz5fxm7g2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqz5fxm7g2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3dd16430170d",
+   "created_at": "2026-10-13T12:20:52Z"
+  },
   {
    "id": "810b7921e34e",
    "ts": "2026-10-13T12:14:12Z",
@@ -5867,27 +5894,6 @@
    "model": "opus",
    "run_id": "bef8d4686a2d",
    "created_at": "2026-10-08T08:01:32Z"
-  },
-  {
-   "id": "b0834b569614",
-   "ts": "2026-10-08T07:29:29Z",
-   "headline": "ECB's Wunsch says the case for raising the minimum reserve requirement is unclear and unconvincing",
-   "detail": "ECB Governing Council member Pierre Wunsch questioned the reasoning behind raising banks' minimum reserve requirement. No market reaction was reported.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "37aa24acb80bd16e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxdwsncla42d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxdwsncla42d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ac560742f5e9",
-   "created_at": "2026-10-08T07:31:17Z"
   }
  ]
 }
