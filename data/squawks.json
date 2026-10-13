@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T11:20:48Z",
+ "generated_at": "2026-10-13T11:40:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a5dbf212da03",
+   "ts": "2026-10-13T11:38:31Z",
+   "headline": "Retrofit industry warns over reported plan to cut heat pump subsidies to fund defence in the autumn Budget",
+   "detail": "Inside Housing reports that retrofit industry leaders have warned of serious harm to households after reports that the government could reduce heat pump subsidies in the autumn Budget to pay for defence spending.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "1d89f449bdbff926"
+   ],
+   "sources": [
+    {
+     "author": "insidehousing.bsky.social",
+     "uri": "at://did:plc:4crnjat2gafdo4ezfzxgd3gg/app.bsky.feed.post/3mxqx2kh7ne2g",
+     "url": "https://bsky.app/profile/insidehousing.bsky.social/post/3mxqx2kh7ne2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "358d7955e961",
+   "created_at": "2026-10-13T11:40:48Z"
+  },
   {
    "id": "a68699a17772",
    "ts": "2026-10-13T11:18:36Z",
@@ -5921,27 +5942,6 @@
    "model": "opus",
    "run_id": "6ab04c6ae06c",
    "created_at": "2026-10-07T19:46:00Z"
-  },
-  {
-   "id": "da83a7a89e3f",
-   "ts": "2026-10-07T19:26:24Z",
-   "headline": "Diesel prices jump after the IEA says no fuel will be released beyond the stock release agreed in March",
-   "detail": "The FT reports that IEA members say the 100mn barrels promised by the G7 will come out of the 400mn barrel release agreed in March, not from additional stocks. Diesel prices are reported to have jumped in response; no figure for the move was given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "77c8a6a6fbce36cd"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxcofodzfg2i",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mxcofodzfg2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "260b78af14d3",
-   "created_at": "2026-10-07T19:31:23Z"
   }
  ]
 }
