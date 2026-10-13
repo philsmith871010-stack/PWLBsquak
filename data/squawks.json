@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T13:50:49Z",
+ "generated_at": "2026-10-13T14:01:16Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d511daff622f",
+   "ts": "2026-10-13T14:01:03Z",
+   "headline": "US existing home sales come in at 3.99m, above the 3.95m forecast",
+   "detail": "US existing home sales were 3.99m, against a forecast of 3.95m. The previous reading of 3.98m was revised to 3.93m.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9d9073d86ed448f9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxr6zglrka2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxr6zglrka2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "899c0f368478",
+   "created_at": "2026-10-13T14:01:16Z"
+  },
+  {
+   "id": "28b91ebcf8e9",
+   "ts": "2026-10-13T13:58:57Z",
+   "headline": "Warplanes reportedly strike oil company facilities west of Sanaa; Houthis say they are fighting Saudi forces attacking the capital",
+   "detail": "Reports say warplanes bombed oil company facilities west of Sanaa, following the Saudi-led coalition's evacuation warning. The Houthis say their forces are confronting Saudi attacks on the Yemeni capital.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a2b6b96206a96835",
+    "97c11637c49b65ab",
+    "7e0395059b8eb456"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxr6vot2iq2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxr6vot2iq2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxr6vxflfz2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxr6vxflfz2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxr6ylmwmk2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxr6ylmwmk2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "899c0f368478",
+   "created_at": "2026-10-13T14:01:16Z"
+  },
   {
    "id": "fdc3b2170747",
    "ts": "2026-10-13T13:49:13Z",
@@ -5810,48 +5864,6 @@
    "model": "opus",
    "run_id": "8b171e93a371",
    "created_at": "2026-10-08T11:05:42Z"
-  },
-  {
-   "id": "7bc5192061bd",
-   "ts": "2026-10-08T10:51:39Z",
-   "headline": "UK 20-year gilt yield reaches 6% for the first time since March 1998, up 7bp on the day",
-   "detail": "A market news account reported that the UK 20-year gilt yield hit 6%, its first time at that level since March 1998, up 7bp on the day. The move came as the global bond sell-off continued.",
-   "category": "global_rates",
-   "importance": 3,
-   "source_event_ids": [
-    "da79e387c6ff1870"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxec45bsma2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxec45bsma2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2de1eaa9e8fa",
-   "created_at": "2026-10-08T10:55:44Z"
-  },
-  {
-   "id": "50e403784abd",
-   "ts": "2026-10-08T10:37:03Z",
-   "headline": "Brent crude extends its rise to 5% on the day and trades above $105 a barrel",
-   "detail": "Brent's gain widened to 5%, taking it above $105 a barrel. The blotter earlier reported it topping $101 after more attacks on tankers in the Strait of Hormuz.",
-   "category": "energy",
-   "importance": 3,
-   "source_event_ids": [
-    "dc051766aa14c0f9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxebc2e6vg26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxebc2e6vg26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8059fdbdd300",
-   "created_at": "2026-10-08T10:40:53Z"
   }
  ]
 }
