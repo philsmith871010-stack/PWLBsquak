@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T09:55:42Z",
+ "generated_at": "2026-10-13T10:01:20Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2b4fb11c0a0a",
+   "ts": "2026-10-13T10:00:47Z",
+   "headline": "US NFIB small business optimism index falls to 97.9, below the 98.2 forecast and down from 98.7",
+   "detail": "The NFIB small business optimism index for the US came in at 97.9. That was below the forecast of 98.2 and the previous reading of 98.7.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "7a4345468a740e63"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqrlsj77e2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqrlsj77e2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2dcaf9d4f9b2",
+   "created_at": "2026-10-13T10:01:20Z"
+  },
   {
    "id": "684b8d6f8846",
    "ts": "2026-10-13T09:54:38Z",
@@ -5999,27 +6020,6 @@
    "model": "opus",
    "run_id": "bc7bfc3948ca",
    "created_at": "2026-10-07T15:41:06Z"
-  },
-  {
-   "id": "055ac54c9c02",
-   "ts": "2026-10-07T15:14:56Z",
-   "headline": "France weighs shifting issuance towards shorter-term debt amid bond market turmoil, WSJ reports",
-   "detail": "The Wall Street Journal reports that France is considering issuing more short-dated debt in response to the turmoil in bond markets.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "5f03b5ff31271e3a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxcadyzdld2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxcadyzdld2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c5e7baa9fe33",
-   "created_at": "2026-10-07T15:21:11Z"
   }
  ]
 }
