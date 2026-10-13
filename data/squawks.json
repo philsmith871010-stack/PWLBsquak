@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T20:45:47Z",
+ "generated_at": "2026-10-13T21:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f0a5f1035e31",
+   "ts": "2026-10-13T21:05:05Z",
+   "headline": "Israeli TV reports no intelligence change justifying an Israeli-US move against Iran in the coming weeks",
+   "detail": "Israel's N12 News reports that Israel, the US and Gulf states are coordinating and preparing for a range of scenarios, but that no intelligence change justifies a joint Israeli-US move in the coming weeks. The channel also reports that Iran has carried out several ballistic missile tests in recent days, which the Israeli army describes as a slow and only partial restoration of its missile capability.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "dba1100002e24948",
+    "46355366628c18f3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrwpnmas624",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrwpnmas624"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrwoq5zzg2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrwoq5zzg2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8bc3c6570eba",
+   "created_at": "2026-10-13T21:05:41Z"
+  },
   {
    "id": "22ec8c89502a",
    "ts": "2026-10-13T20:45:37Z",
@@ -5609,27 +5636,6 @@
    "model": "opus",
    "run_id": "e152e54496f8",
    "created_at": "2026-10-12T10:50:50Z"
-  },
-  {
-   "id": "6cd43ef196a7",
-   "ts": "2026-10-12T10:40:17Z",
-   "headline": "Kremlin says it is ready to halt strikes for Ukraine's election day, Tass reports",
-   "detail": "Russian state news agency Tass reports the Kremlin as saying it is prepared to pause strikes on Ukraine for the day of the Ukrainian election. The inputs do not report any market reaction.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4021b8789e772aec"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoddjaqnr2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoddjaqnr2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2e1ee0edb07f",
-   "created_at": "2026-10-12T10:40:49Z"
   }
  ]
 }
