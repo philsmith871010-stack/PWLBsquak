@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T10:31:05Z",
+ "generated_at": "2026-10-13T10:55:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f97714a122db",
+   "ts": "2026-10-13T10:55:34Z",
+   "headline": "UK energy secretary Miliband approves drilling off the Falklands, Telegraph reports",
+   "detail": "The Telegraph reports that the energy secretary has given approval for drilling in waters off the Falkland Islands.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "2b2cd5251a2b6d6c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqunr2a3z2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqunr2a3z2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c1be78750338",
+   "created_at": "2026-10-13T10:55:41Z"
+  },
+  {
+   "id": "bf05344aa779",
+   "ts": "2026-10-13T10:54:46Z",
+   "headline": "NIESR analysis says UK long-term gilt yields are likely to stay elevated near 5% even if the Iran war ends soon",
+   "detail": "The National Institute of Economic and Social Research has published a Market Anatomy report on this year's rise in gilt yields. It says higher borrowing costs are likely to persist, leaving the UK public finances more exposed.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "b3023f165250cbfd"
+   ],
+   "sources": [
+    {
+     "author": "niesrorg.bsky.social",
+     "uri": "at://did:plc:6s7n3h2jcntzuvlw2movrget/app.bsky.feed.post/3mxqumdbaw22a",
+     "url": "https://bsky.app/profile/niesrorg.bsky.social/post/3mxqumdbaw22a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c1be78750338",
+   "created_at": "2026-10-13T10:55:41Z"
+  },
   {
    "id": "2f90174ac403",
    "ts": "2026-10-13T10:30:04Z",
@@ -5996,48 +6038,6 @@
    "model": "opus",
    "run_id": "3099b56561a8",
    "created_at": "2026-10-07T17:51:10Z"
-  },
-  {
-   "id": "119ddb95d714",
-   "ts": "2026-10-07T17:35:10Z",
-   "headline": "US 30-year Treasury yield reaches its highest since 2002 as global bond sell-off spreads, Reuters reports",
-   "detail": "Reuters reports that the global bond sell-off on Wednesday took US 30-year borrowing costs to their highest since 2002, while UK 30-year gilt yields hit a 28-year high. The move comes three weeks before Chancellor Healey's first Budget.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "c9b9a0daf27272f6"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxci6rugul2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxci6rugul2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c79cdc4940bc",
-   "created_at": "2026-10-07T17:35:51Z"
-  },
-  {
-   "id": "62cf0daa42df",
-   "ts": "2026-10-07T17:10:17Z",
-   "headline": "French PM Lecornu asks lawmakers to hold the 2027 budget deficit to 5% of GDP",
-   "detail": "French Prime Minister Lecornu called on parliament to keep the 2027 deficit within 5% of GDP. The call comes during French budget talks.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "98e81743034fb60b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxcgsbcur32q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxcgsbcur32q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "70deb86fa4d8",
-   "created_at": "2026-10-07T17:11:05Z"
   }
  ]
 }
