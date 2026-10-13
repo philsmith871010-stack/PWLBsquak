@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T11:10:48Z",
+ "generated_at": "2026-10-13T11:20:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a68699a17772",
+   "ts": "2026-10-13T11:18:36Z",
+   "headline": "Fed's Goolsbee voices concern that tariffs and oil prices could lead to stagflation",
+   "detail": "Chicago Fed President Austan Goolsbee said he is concerned that tariffs and oil could produce stagflation, according to a newswire headline. This adds to his earlier remarks on Tuesday about inflation and the Fed's rate path.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4bceb8aa95e86ec5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqvwxdzij2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqvwxdzij2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "48c5ad0d4e76",
+   "created_at": "2026-10-13T11:20:48Z"
+  },
   {
    "id": "0975fccfe9ea",
    "ts": "2026-10-13T11:07:52Z",
@@ -5921,27 +5942,6 @@
    "model": "opus",
    "run_id": "260b78af14d3",
    "created_at": "2026-10-07T19:31:23Z"
-  },
-  {
-   "id": "354548f9d605",
-   "ts": "2026-10-07T18:04:44Z",
-   "headline": "New York Fed reportedly intervenes in the currency market on behalf of the US Treasury",
-   "detail": "A market news account reports that the New York Fed intervened in the foreign exchange market for the US Treasury. The report gives no details of the currency or amounts involved.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "97adf27290722cf2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxcjtnj4he2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxcjtnj4he2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a6b6c1a4e95c",
-   "created_at": "2026-10-07T18:05:50Z"
   }
  ]
 }
