@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T05:40:47Z",
+ "generated_at": "2026-10-13T06:01:11Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e96850fb3db6",
+   "ts": "2026-10-13T06:01:03Z",
+   "headline": "German final CPI confirmed at 3.3% y/y and 0.6% m/m, both in line with forecasts",
+   "detail": "Germany's final consumer price index reading shows inflation at 3.3% year on year, matching both the forecast and the previous figure of 3.3%. The monthly rise is 0.6%, also in line with the forecast and the previous reading.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "d197f58910586ba2",
+    "31549152931997d7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqe74qzwg2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqe74qzwg2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqe7crrry2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqe7crrry2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f75003365594",
+   "created_at": "2026-10-13T06:01:11Z"
+  },
   {
    "id": "8fa175ee27be",
    "ts": "2026-10-13T05:40:14Z",
@@ -6029,45 +6056,6 @@
    "model": "opus",
    "run_id": "84d05beee748",
    "created_at": "2026-10-07T05:15:57Z"
-  },
-  {
-   "id": "54dc0addf84e",
-   "ts": "2026-10-07T04:33:30Z",
-   "headline": "Reserve Bank of India raises its repo rate by 25bp to 5.50%",
-   "detail": "The Reserve Bank of India's governor said global financial market sentiment remains fragile and that there are limited signs of supply-side pressures becoming embedded. The bank raised its FY27 core inflation projection to 4.4% from 4.3%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "560676b9995e9b36",
-    "97248b9bd1df4e9d",
-    "8998dcc70a6cd95c",
-    "980c821bc159e59d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxb4j2ahnx2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxb4j2ahnx2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxb4jwadce2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxb4jwadce2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxb4lh47yj2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxb4lh47yj2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxb4oqcnsm2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxb4oqcnsm2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0b3adacabed3",
-   "created_at": "2026-10-07T05:11:05Z"
   }
  ]
 }
