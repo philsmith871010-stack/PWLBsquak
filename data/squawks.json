@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T19:25:50Z",
+ "generated_at": "2026-10-13T19:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "898edd96e2cc",
+   "ts": "2026-10-13T19:34:01Z",
+   "headline": "IMF cuts its 2026 Gulf growth forecasts and now sees Middle East and North Africa as the only region to shrink this year",
+   "detail": "Semafor reports that the IMF has lowered its 2026 growth forecasts across the Gulf states.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "eff29a0442fe9356"
+   ],
+   "sources": [
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mxrrmt4esf2d",
+     "url": "https://bsky.app/profile/semafor.com/post/3mxrrmt4esf2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2975835f3b60",
+   "created_at": "2026-10-13T19:35:42Z"
+  },
+  {
+   "id": "c3e642a4dfdf",
+   "ts": "2026-10-13T19:32:46Z",
+   "headline": "Trump accuses Iran-backed Houthis of deliberately trying to push up oil prices before the US midterms",
+   "detail": "The Financial Times reports Trump's accusation alongside its report of Saudi-led coalition strikes on Houthi targets in Sanaa.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "890ba30deb021481"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxrrklmv542p",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mxrrklmv542p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2975835f3b60",
+   "created_at": "2026-10-13T19:35:42Z"
+  },
   {
    "id": "11bdb268fd2e",
    "ts": "2026-10-13T19:23:47Z",
@@ -5648,78 +5690,6 @@
    "model": "opus",
    "run_id": "22f5a890bdee",
    "created_at": "2026-10-09T15:05:40Z"
-  },
-  {
-   "id": "59b5576dc85f",
-   "ts": "2026-10-09T14:01:15Z",
-   "headline": "US Michigan sentiment drops to 46.3 in preliminary October reading, below 47.6 forecast; 1-year inflation expectations at 4.7%",
-   "detail": "The University of Michigan's preliminary October sentiment index came in at 46.3, against a forecast of 47.6 and 48.1 previously, while the expectations index rose to 47.3 against a 45.7 forecast. One-year inflation expectations rose to 4.7% from 4.6% (forecast 4.8%), and five-year expectations rose to 3.5% from 3.4%, matching the forecast.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "d4d84e7f378b6bd8",
-    "5efa2178fbf76037",
-    "7e56d6672378e449",
-    "181f6b0a9cc90652",
-    "e23eb232084ed365",
-    "62dd5bd599bdf243"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh563ishn26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh563ishn26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh56apdwa2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh56apdwa2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh56lls3i2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh56lls3i2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh57mg6qx2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh57mg6qx2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh57r7fyf2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh57r7fyf2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh5bi7wi22m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh5bi7wi22m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8e50659f6199",
-   "created_at": "2026-10-09T14:05:42Z"
-  },
-  {
-   "id": "bdecf297575b",
-   "ts": "2026-10-09T14:00:41Z",
-   "headline": "University of Michigan preliminary current conditions index falls to 44.7, short of the 50.1 forecast",
-   "detail": "The preliminary University of Michigan current conditions reading for the US came in at 44.7. The forecast was 50.1 and the previous reading was 50.9.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "486093895e4df400"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxh553fjzj2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxh553fjzj2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d384b5ffc795",
-   "created_at": "2026-10-09T14:01:16Z"
   }
  ]
 }
