@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T05:31:01Z",
+ "generated_at": "2026-10-13T05:40:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8fa175ee27be",
+   "ts": "2026-10-13T05:40:14Z",
+   "headline": "Banking regulators step up scrutiny of AI risks amid financial stability concerns, Reuters reports",
+   "detail": "Reuters cites six people familiar with the matter as saying banking watchdogs are increasing efforts to contain AI-related risks. Some of the sources pointed to possible cyberattacks on banks or rogue AI agents as threats to global financial stability.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9bc0b884c4556ac9"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxqczurwxz2j",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxqczurwxz2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7e2311783b30",
+   "created_at": "2026-10-13T05:40:47Z"
+  },
   {
    "id": "2065127aa414",
    "ts": "2026-10-13T05:30:18Z",
@@ -6047,57 +6068,6 @@
    "model": "opus",
    "run_id": "0b3adacabed3",
    "created_at": "2026-10-07T05:11:05Z"
-  },
-  {
-   "id": "269016e02553",
-   "ts": "2026-10-06T23:30:45Z",
-   "headline": "Japan's August cash earnings rise 3.8% y/y, above the 3.7% forecast; real wages up 1.5%, an eighth straight monthly gain",
-   "detail": "Japanese government data show total cash earnings up 3.8% y/y in August, against a 3.7% forecast and down from 4.7% the month before. Overtime pay rose 5.2% and inflation-adjusted real wages rose 1.5%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4fb3ee048c934a9b",
-    "60c6b97ccdd84c51",
-    "65ab1acf5d05ea9d",
-    "d725ccafabcfedf4",
-    "e246ba9f0299e93e",
-    "392368b1978d7d0b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxallogtvg2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxallogtvg2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxalltv7vh2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxalltv7vh2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxalmpah372y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxalmpah372y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxalmtfhh724",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxalmtfhh724"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxalmvuvyv2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxalmvuvyv2m"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxamfciosl2p",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxamfciosl2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a1054215c647",
-   "created_at": "2026-10-07T05:01:28Z"
   }
  ]
 }
