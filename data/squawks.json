@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T17:10:51Z",
+ "generated_at": "2026-10-13T17:15:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6415ee76116d",
+   "ts": "2026-10-13T17:15:25Z",
+   "headline": "US VP Vance says the Defense Production Act is being used to expand a Texas refinery",
+   "detail": "US Vice President Vance said the administration is using the Defense Production Act to expand refining capacity in Texas. No further details were given in the report.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "91d0f9306fa3c015"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrjuy3rsd2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrjuy3rsd2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "51e980b7c66c",
+   "created_at": "2026-10-13T17:15:48Z"
+  },
   {
    "id": "2b3251197d0a",
    "ts": "2026-10-13T17:10:16Z",
@@ -5867,27 +5888,6 @@
    "model": "opus",
    "run_id": "0d4a669d2039",
    "created_at": "2026-10-08T14:20:50Z"
-  },
-  {
-   "id": "5753b1d7e0f8",
-   "ts": "2026-10-08T13:41:02Z",
-   "headline": "Riksbank Governor Thedéen says there are grounds for an interest rate increase",
-   "detail": "Riksbank Governor Erik Thedéen said there are grounds for raising interest rates, according to a newswire headline. No further detail was given.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "34bd09c441d2a065"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxell276v32s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxell276v32s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "db9e6068e451",
-   "created_at": "2026-10-08T13:45:51Z"
   }
  ]
 }
