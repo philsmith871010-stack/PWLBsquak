@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T10:15:49Z",
+ "generated_at": "2026-10-14T10:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "904abe29c651",
+   "ts": "2026-10-14T10:18:50Z",
+   "headline": "Russia's Novak expects oil output to recover and says OPEC+ capacity assessment report is due late 2026",
+   "detail": "Russian Deputy Prime Minister Novak also said the fuel oil market is improving and some Russian refineries have finished maintenance, TASS and Interfax report.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "abaa730daeab2d55",
+    "e4f9310ecd6ff52d",
+    "a9885e83e200552b",
+    "36a0662d34bf3716"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtd2xz4yx2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtd2xz4yx2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtd5hikc224",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtd5hikc224"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtd4ixivm2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtd4ixivm2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtd5m57l32y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtd5m57l32y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "987232c67f4d",
+   "created_at": "2026-10-14T10:20:50Z"
+  },
+  {
+   "id": "4d74f1ef1651",
+   "ts": "2026-10-14T10:18:46Z",
+   "headline": "Russia's Novak says Russia and the US are discussing diesel contracts and a US diesel supply deal is in sight",
+   "detail": "Russian Deputy Prime Minister Alexander Novak made the remarks, according to TASS and Interfax. Russia remains under sanctions.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "7a32c7f98ecb6ea8",
+    "11b5d5bae1acadb4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtd2vb7pq2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtd2vb7pq2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtd2xgmd62r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtd2xgmd62r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "987232c67f4d",
+   "created_at": "2026-10-14T10:20:50Z"
+  },
   {
    "id": "398fbf68b688",
    "ts": "2026-10-14T10:15:18Z",
@@ -5870,48 +5936,6 @@
    "model": "opus",
    "run_id": "a3465d3fa4ef",
    "created_at": "2026-10-12T18:01:24Z"
-  },
-  {
-   "id": "397059c1f63e",
-   "ts": "2026-10-12T17:55:57Z",
-   "headline": "Fed's Hammack says business contacts report strong conditions, but low-income workers are struggling to pay bills",
-   "detail": "Cleveland Fed President Hammack said her business contacts describe activity as generally strong to booming. She said low-income workers first spoke of trading down and are now deciding which bills to pay.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0433132911403416"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp3ojrapg2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp3ojrapg2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a3465d3fa4ef",
-   "created_at": "2026-10-12T18:01:24Z"
-  },
-  {
-   "id": "0a42723db077",
-   "ts": "2026-10-12T17:54:54Z",
-   "headline": "OPEC+ ministers stress protection of international sea passages to keep energy flowing",
-   "detail": "OPEC+ ministers who met on the sidelines of the Riyadh conference said in a statement that protecting international maritime passages matters for keeping energy supplies moving.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "1e6d5aa0fbaae9d0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp3mnma4o2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp3mnma4o2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a15d00ce115d",
-   "created_at": "2026-10-12T17:55:42Z"
   }
  ]
 }
