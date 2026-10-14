@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T08:15:47Z",
+ "generated_at": "2026-10-14T08:20:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b96a46141cb5",
+   "ts": "2026-10-14T08:17:59Z",
+   "headline": "Yemen's Houthi forces say they will announce a military operation deep inside Saudi territory",
+   "detail": "Houthi armed forces say they will announce a 'qualitative' military operation deep inside Saudi Arabia at 11:40 AM. The statement follows Tuesday's Houthi attacks, which included a reported hit on Saudi Aramco's Dhahran headquarters.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7c40351d9760a7ba"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt4cvejf72r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt4cvejf72r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "43755655abab",
+   "created_at": "2026-10-14T08:20:48Z"
+  },
+  {
+   "id": "98d966172ff4",
+   "ts": "2026-10-14T08:16:01Z",
+   "headline": "German economy ministry sees little short-term support from domestic demand and a subdued industrial outlook",
+   "detail": "Germany's economy ministry says weaker purchasing power from higher energy prices, uncertainty and financing costs mean the domestic economy is unlikely to add much momentum in the short term. It also says the outlook for industrial activity remains subdued.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1dd320bc321de05d",
+    "6b89491db59bfff8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt47faa372n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt47faa372n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt4adgvk62f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt4adgvk62f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "43755655abab",
+   "created_at": "2026-10-14T08:20:48Z"
+  },
   {
    "id": "73051f3aaff6",
    "ts": "2026-10-14T08:15:44Z",
@@ -6020,54 +6068,6 @@
    "model": "opus",
    "run_id": "3dfcf3344927",
    "created_at": "2026-10-12T16:31:08Z"
-  },
-  {
-   "id": "14f6125ef0dd",
-   "ts": "2026-10-12T16:25:01Z",
-   "headline": "Iran's ambassador to the UK denies any Iranian role in suspected plot targeting RAF Fairford",
-   "detail": "Iran's ambassador rejected UK claims of Iranian involvement in the RAF Fairford incident, according to Iranian state news agency IRNA. The denial follows the UK summoning the ambassador and the government's pledge of further sanctions on Iran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "fed7dd1505ca7697",
-    "a9f0ff08e6c8bd2f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxowlwkavk2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxowlwkavk2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxowf6lzff2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxowf6lzff2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2a8e7728dd4e",
-   "created_at": "2026-10-12T16:25:41Z"
-  },
-  {
-   "id": "9ae93f9b21a5",
-   "ts": "2026-10-12T15:50:17Z",
-   "headline": "Mortgage-related hedging adds selling pressure to US Treasuries as long-term yields climb, Reuters reports",
-   "detail": "Reuters reports that the sharp rise in long-term US Treasury yields has set off mortgage-related hedging, which adds to selling in an already strained bond market. The report says the effect is probably smaller than in earlier sell-offs.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "26586ed7b319904d"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxountmccf2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxountmccf2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "64d4849dbb70",
-   "created_at": "2026-10-12T15:50:57Z"
   }
  ]
 }
