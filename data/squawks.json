@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T11:31:10Z",
+ "generated_at": "2026-10-14T11:35:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "05f6d7e54ea5",
+   "ts": "2026-10-14T11:33:17Z",
+   "headline": "Russia's Novak says first diesel export shipments are under way and exports could reach 3.5m tonnes a month by year-end",
+   "detail": "Russian Deputy Prime Minister Novak said the first diesel export cargoes are under way and that Russian and US companies are already negotiating contracts for diesel supplies to the US, Tass reported. Tass also reported that Russia could raise diesel exports to 3.5m tonnes a month by the end of the year.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "ad547f190bd52a21",
+    "7fc6e0b07440b202",
+    "064ca532d8303b0f",
+    "f161f3fffbc4fd73"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxth7we5642d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxth7we5642d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtha4svio2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtha4svio2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxthbzdkqc24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxthbzdkqc24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxthad4btg2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxthad4btg2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c8108807bcf2",
+   "created_at": "2026-10-14T11:35:40Z"
+  },
   {
    "id": "b16e4bf9a3a8",
    "ts": "2026-10-14T11:31:07Z",
@@ -5910,27 +5949,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpfzfq2hg2w",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpfzfq2hg2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d4818cd991d4",
-   "created_at": "2026-10-12T21:01:18Z"
-  },
-  {
-   "id": "d5fe1dc8f72d",
-   "ts": "2026-10-12T21:00:56Z",
-   "headline": "Trump criticises the Houthis' conduct after their attack on Saudi Arabia",
-   "detail": "US President Trump said the Houthis are behaving very badly. He gave no details of any US response, and no market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c95e7e7dcf7ade96"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpfzck3ja2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpfzck3ja2v"
     }
    ],
    "model": "opus",
