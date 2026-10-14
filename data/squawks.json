@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T16:20:58Z",
+ "generated_at": "2026-10-14T16:31:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b3b993c43931",
+   "ts": "2026-10-14T16:30:48Z",
+   "headline": "Trump says Taiwan has committed to a $70-80bn offtake deal for Alaska LNG",
+   "detail": "US President Trump said Commerce Secretary Lutnick has obtained an offtake commitment from Taiwan worth between 70 and 80 billion dollars for the Alaska LNG project.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "8b6a8353f5d45a66"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtxu533sq2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtxu533sq2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "194c37e4455c",
+   "created_at": "2026-10-14T16:31:08Z"
+  },
+  {
+   "id": "38e38fe78ced",
+   "ts": "2026-10-14T16:26:29Z",
+   "headline": "Draft EU summit conclusions seek sanctions on Russian ex-combatants and express regret over the US-Russia diesel deal",
+   "detail": "The Kyiv Independent reports that draft conclusions for the EU summit call for sanctions on former Russian combatants and register regret at the diesel deal between the US and Russia.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2cb33a9d03deaf72"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtxmfxhqu2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtxmfxhqu2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "194c37e4455c",
+   "created_at": "2026-10-14T16:31:08Z"
+  },
   {
    "id": "75fcddccb297",
    "ts": "2026-10-14T16:17:51Z",
@@ -5834,48 +5876,6 @@
    "model": "opus",
    "run_id": "566092ecf1d9",
    "created_at": "2026-10-13T09:05:41Z"
-  },
-  {
-   "id": "3090ba1b63cb",
-   "ts": "2026-10-13T08:47:13Z",
-   "headline": "BoJ reportedly unlikely to raise rates again at its October meeting",
-   "detail": "A market newswire post reports that the Bank of Japan is unlikely to raise interest rates again in October. No source or further detail was given.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "578d6a97451e2d73"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqniai4xe2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqniai4xe2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f6951b6553b4",
-   "created_at": "2026-10-13T08:50:46Z"
-  },
-  {
-   "id": "88858fd14530",
-   "ts": "2026-10-13T08:37:52Z",
-   "headline": "Resolution Foundation publishes its UK Budget preview report, titled 'Hitting the buffers'",
-   "detail": "The Resolution Foundation released its Budget preview and is holding a launch event this morning. Its summary points to higher inflation from the Middle East conflict and to a retreat from sovereign debt that has raised borrowing costs.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "eff49c70e0a009a1"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxqmxj76v22w",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxqmxj76v22w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4a93675f79ef",
-   "created_at": "2026-10-13T08:40:53Z"
   }
  ]
 }
