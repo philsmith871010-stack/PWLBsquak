@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T15:15:51Z",
+ "generated_at": "2026-10-14T15:25:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f2ba3872c734",
+   "ts": "2026-10-14T15:24:06Z",
+   "headline": "Saudi Arabia does not intend to back down in its conflict with the Houthis, CNN reports",
+   "detail": "CNN reports that Saudi Arabia has no intention of backing down against Yemen's Houthi forces, after Houthi attacks on Aramco facilities in Dhahran and Riyadh. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "06aef5337b70130e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtu4u4ytk26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtu4u4ytk26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a3028468aa8f",
+   "created_at": "2026-10-14T15:25:43Z"
+  },
   {
    "id": "6cb225e1d043",
    "ts": "2026-10-14T15:15:17Z",
@@ -5855,27 +5876,6 @@
    "model": "opus",
    "run_id": "5852aaf1c324",
    "created_at": "2026-10-13T08:20:47Z"
-  },
-  {
-   "id": "c3e0e327b055",
-   "ts": "2026-10-13T08:13:07Z",
-   "headline": "Fed's Waller links the level of real yields to the effect of real growth",
-   "detail": "Federal Reserve Governor Waller said real yields are being driven by real economic growth. No market reaction was reported in the inputs.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7123429eeba074ba"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqllbe5ze2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqllbe5ze2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ac2909185e7d",
-   "created_at": "2026-10-13T08:15:47Z"
   }
  ]
 }
