@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T13:25:44Z",
+ "generated_at": "2026-10-14T13:31:07Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "df1f84969afe",
+   "ts": "2026-10-14T13:26:13Z",
+   "headline": "White House adviser Hassett calls this month's US core inflation a blip and says the Fed needs more data before deciding on rates",
+   "detail": "White House senior adviser Kevin Hassett made the comments after the September US CPI release. He described the core reading as a blip and said more data were needed before the Fed takes a rate decision.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f715af4d65dc4d57",
+    "261926f54d1fa2ad"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtnk2hii22m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtnk2hii22m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtnlp74ad2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtnlp74ad2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "630598c23644",
+   "created_at": "2026-10-14T13:31:07Z"
+  },
   {
    "id": "ddfe4af19fa7",
    "ts": "2026-10-14T13:22:02Z",
@@ -5892,27 +5919,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqaotdrtz2w",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqaotdrtz2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8a71cad7b7b2",
-   "created_at": "2026-10-13T05:10:46Z"
-  },
-  {
-   "id": "e73a0f1aa774",
-   "ts": "2026-10-13T04:36:26Z",
-   "headline": "BoJ survey shows Japanese households expect prices to rise 11.8% on average over the next year, with a 10% median",
-   "detail": "The figures come from the Bank of Japan's household survey on expected price changes over the year ahead.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "bf2cc83e7791f4e3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxq7hsvabv24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxq7hsvabv24"
     }
    ],
    "model": "opus",
