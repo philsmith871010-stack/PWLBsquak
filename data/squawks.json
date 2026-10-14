@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T14:15:50Z",
+ "generated_at": "2026-10-14T14:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "65febd4f6b53",
+   "ts": "2026-10-14T14:48:47Z",
+   "headline": "Russia's Novak says two Russian oil refineries were attacked today",
+   "detail": "Russian Deputy Prime Minister Alexander Novak said two Russian oil refineries came under attack on Wednesday, Interfax reported. No details of damage or effect on output were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "9fdce3b3c16ce02d",
+    "47d6de56bc34cf32"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxts5pknfu2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxts5pknfu2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxts6khqms2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxts6khqms2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e70eeb27802e",
+   "created_at": "2026-10-14T14:50:49Z"
+  },
   {
    "id": "79a1597dbebb",
    "ts": "2026-10-14T14:15:06Z",
@@ -5861,27 +5888,6 @@
    "model": "opus",
    "run_id": "0f6091a75a9d",
    "created_at": "2026-10-13T07:01:10Z"
-  },
-  {
-   "id": "e51ec6e4567b",
-   "ts": "2026-10-13T06:40:06Z",
-   "headline": "US government bond funds take in almost $14bn since start of October after record $59.3bn Q3 inflows, FT says",
-   "detail": "FT calculations using EPFR data show almost $14bn of inflows into US government bond funds so far in October. This follows record net inflows of $59.3bn in the third quarter.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "20e09f500ef79ece"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxqgewshok2j",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mxqgewshok2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d491579a6a20",
-   "created_at": "2026-10-13T06:40:48Z"
   }
  ]
 }
