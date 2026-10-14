@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T13:01:16Z",
+ "generated_at": "2026-10-14T13:05:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f5fc5a184b00",
+   "ts": "2026-10-14T13:01:43Z",
+   "headline": "Dollar index hits 18-month high at 102.75 and euro falls to lowest since mid-May 2025 at $1.112",
+   "detail": "Market reports put the US dollar index up 0.57% at 102.75, a new 18-month high. The euro was last down 0.7% at $1.112, its weakest against the dollar since mid-May 2025.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "674f838467e9b66c",
+    "abed94ae22c6b9ba"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtm6awt2y2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtm6awt2y2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtmcxmx7b2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtmcxmx7b2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2c40a1fa588c",
+   "created_at": "2026-10-14T13:05:45Z"
+  },
   {
    "id": "9f9a4a5cb5be",
    "ts": "2026-10-14T12:57:18Z",
@@ -5885,63 +5912,6 @@
    "model": "opus",
    "run_id": "8a71cad7b7b2",
    "created_at": "2026-10-13T05:10:46Z"
-  },
-  {
-   "id": "1e9872f12bec",
-   "ts": "2026-10-13T02:02:06Z",
-   "headline": "IMF raises 2026 global growth forecast to 3.1% from 3.0% and warns top economies face their biggest deficits since Covid",
-   "detail": "The IMF's World Economic Outlook says AI investment is offsetting energy-price shocks. It keeps its 2027 global forecast at 3.4% and sees advanced-economy growth at 2.1% in 2026 and 1.8% in 2027. The Fund calls for urgent action to rebuild public finances, and chief economist Tenreyro urges highly indebted countries to start fiscal consolidation.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "ddbca42c654e2943",
-    "7cfa55379f2f4292",
-    "5fba44e0be9d2065",
-    "89266214ef0c8ce7",
-    "d32f0b248e8ffdd9",
-    "0d8efe8653f27518",
-    "6b3b897ec1dcbc26"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpwttz6bb2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpwttz6bb2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpwqqfcyz24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpwqqfcyz24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpwqtf34l2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpwqtf34l2w"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxpyghwnc52j",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxpyghwnc52j"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxpx7l4mkg2m",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mxpx7l4mkg2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpybegjin26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpybegjin26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpwr5bzlb2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpwr5bzlb2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8069aad17d52",
-   "created_at": "2026-10-13T05:05:39Z"
   }
  ]
 }
