@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T18:55:44Z",
+ "generated_at": "2026-10-14T19:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7f32f1a11e9a",
+   "ts": "2026-10-14T19:05:21Z",
+   "headline": "Iran's Tasnim says Yemeni forces have targeted Saudi Aramco oil distribution facilities in northern Jeddah",
+   "detail": "Iran's Tasnim News Agency reports that Yemeni armed forces targeted Saudi Aramco oil distribution facilities in northern Jeddah. The batch does not report any damage assessment or market reaction.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "02a46ee77aacaef6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuaihmamv2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuaihmamv2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "27578d1a78eb",
+   "created_at": "2026-10-14T19:05:40Z"
+  },
+  {
+   "id": "39add8d00872",
+   "ts": "2026-10-14T19:04:48Z",
+   "headline": "New York Fed desk plans about $14.6bn of reinvestment purchases between 15 October and 13 November",
+   "detail": "The New York Fed says its trading desk plans to carry out approximately $14.6bn in reinvestment purchases between 15 October and 13 November.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "d7fde47cd04d6327",
+    "15863b78647f684f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuahiif432s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuahiif432s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuaijo22u2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuaijo22u2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "27578d1a78eb",
+   "created_at": "2026-10-14T19:05:40Z"
+  },
   {
    "id": "4e542d1952dc",
    "ts": "2026-10-14T18:55:26Z",
@@ -5822,48 +5870,6 @@
    "model": "opus",
    "run_id": "a64833a04910",
    "created_at": "2026-10-13T10:05:40Z"
-  },
-  {
-   "id": "2b4fb11c0a0a",
-   "ts": "2026-10-13T10:00:47Z",
-   "headline": "US NFIB small business optimism index falls to 97.9, below the 98.2 forecast and down from 98.7",
-   "detail": "The NFIB small business optimism index for the US came in at 97.9. That was below the forecast of 98.2 and the previous reading of 98.7.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7a4345468a740e63"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqrlsj77e2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqrlsj77e2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2dcaf9d4f9b2",
-   "created_at": "2026-10-13T10:01:20Z"
-  },
-  {
-   "id": "684b8d6f8846",
-   "ts": "2026-10-13T09:54:38Z",
-   "headline": "Ukraine's foreign minister says intelligence-sharing cooperation with the US is continuing",
-   "detail": "Ukrainian Foreign Minister Sybiha said Ukraine is still cooperating with the US on intelligence sharing. Earlier, the Kremlin said it had no knowledge of a Trump plan to halt intelligence for Kyiv.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "61db73e64949533d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqrascuxq2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqrascuxq2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "53bdb5ff769c",
-   "created_at": "2026-10-13T09:55:42Z"
   }
  ]
 }
