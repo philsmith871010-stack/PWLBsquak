@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T11:35:40Z",
+ "generated_at": "2026-10-14T12:01:29Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4d4d2602138d",
+   "ts": "2026-10-14T12:00:50Z",
+   "headline": "EU's Dombrovskis says trade with China must be rebalanced in other sectors after the hybrid car deal",
+   "detail": "European Economic Commissioner Valdis Dombrovskis said on Wednesday that the deal to halve Chinese hybrid car imports into Europe must be followed by rebalancing in other sectors and better EU access to the Chinese market, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c57cbfd6be427a84"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxtirf5amc2m",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxtirf5amc2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1892f2d30d13",
+   "created_at": "2026-10-14T12:01:29Z"
+  },
   {
    "id": "05f6d7e54ea5",
    "ts": "2026-10-14T11:33:17Z",
@@ -5933,27 +5954,6 @@
    "model": "opus",
    "run_id": "ea2266bd0d1d",
    "created_at": "2026-10-12T21:05:40Z"
-  },
-  {
-   "id": "077719228e65",
-   "ts": "2026-10-12T21:00:59Z",
-   "headline": "Trump says Zelensky and Putin need to meet and bring the war to an end",
-   "detail": "US President Trump called for the Ukrainian and Russian leaders to meet to end the war. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "fe3d9e7126f2b169"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpfzfq2hg2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpfzfq2hg2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d4818cd991d4",
-   "created_at": "2026-10-12T21:01:18Z"
   }
  ]
 }
