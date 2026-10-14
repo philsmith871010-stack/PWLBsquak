@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T18:05:42Z",
+ "generated_at": "2026-10-14T18:40:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7baa3be2f136",
+   "ts": "2026-10-14T18:37:14Z",
+   "headline": "Fed's Barkin says US CPI came in above what he had hoped and declines to prejudge the October FOMC outcome",
+   "detail": "Richmond Fed President Barkin said the September CPI report was higher than he would have liked and that he would not project the result of the October FOMC meeting. He said Thursday's producer price data would help shape his inflation outlook.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "fe886eb55b849a7b",
+    "671a0e19b2aa9d78",
+    "bf3122169df6b211",
+    "7bb0665a94af9646"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu6vedtqj2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu6vedtqj2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu6w734lt2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu6w734lt2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu6x6qytm2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu6x6qytm2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu733hskt2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu733hskt2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "280f41e12830",
+   "created_at": "2026-10-14T18:40:52Z"
+  },
   {
    "id": "ab357762a454",
    "ts": "2026-10-14T18:01:31Z",
@@ -5837,33 +5876,6 @@
    "model": "opus",
    "run_id": "53bdb5ff769c",
    "created_at": "2026-10-13T09:55:42Z"
-  },
-  {
-   "id": "cdc571a08e20",
-   "ts": "2026-10-13T09:47:11Z",
-   "headline": "Kremlin says EU sanctions could obstruct the US-Russia fuel deal and it has no knowledge of Trump plan to halt intelligence for Kyiv",
-   "detail": "Kremlin spokesman Peskov said EU sanctions and other EU measures could hinder implementation of the fuel agreement between Russia and the US. He also said the Kremlin was not aware of plans by Trump to stop sharing intelligence with Ukraine.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "bc2b2537313c1fae",
-    "b2b939cbe1badde4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqqtibq262y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqqtibq262y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqqrwa76e2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqqrwa76e2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f95647f7f946",
-   "created_at": "2026-10-13T09:50:51Z"
   }
  ]
 }
