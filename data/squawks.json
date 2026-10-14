@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T11:01:18Z",
+ "generated_at": "2026-10-14T11:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "346716bd25a3",
+   "ts": "2026-10-14T11:04:09Z",
+   "headline": "Houthis claim to have driven Saudi forces out of Bab al-Mandab and Dhubab airport",
+   "detail": "A Houthi spokesperson says Saudi forces have been expelled from the Bab al-Mandab area and Dhubab airport, with vehicles burned or captured and personnel taken prisoner. The spokesperson says footage will be released at 4 PM on 14 October.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "33d51a0f0058b39b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtflz7huy26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtflz7huy26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "18b6bdea0612",
+   "created_at": "2026-10-14T11:05:43Z"
+  },
   {
    "id": "a4db4b908bc2",
    "ts": "2026-10-14T10:59:41Z",
@@ -5885,27 +5906,6 @@
    "model": "opus",
    "run_id": "e02dd7c8799f",
    "created_at": "2026-10-12T19:10:52Z"
-  },
-  {
-   "id": "3538178a417e",
-   "ts": "2026-10-12T18:55:14Z",
-   "headline": "Russia's Novak says Russia has supplied $21.3bn of energy to the EU this year and OPEC+ discussed rising transport costs",
-   "detail": "Russian Deputy Prime Minister Alexander Novak put Russian energy supplies to the EU this year at $21.3bn. He said OPEC+ had discussed transportation costs, which he said have risen significantly.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "2161300cd2c2dbc9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp6ykdtkb24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp6ykdtkb24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "42801666b945",
-   "created_at": "2026-10-12T18:55:41Z"
   }
  ]
 }
