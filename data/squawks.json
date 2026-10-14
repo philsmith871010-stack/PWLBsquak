@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T10:25:43Z",
+ "generated_at": "2026-10-14T10:31:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6be5a45aba8b",
+   "ts": "2026-10-14T10:27:59Z",
+   "headline": "European Commission warns of a very difficult winter, with high energy prices and an affordability crisis",
+   "detail": "A European Commission spokesperson says the EU faces high energy prices, an affordability crisis and a very volatile, unpredictable outlook this winter.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "b0959a8b9c240dfe",
+    "13d201ebb246cb2a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtdle2zgd2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtdle2zgd2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtdpuyhzu2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtdpuyhzu2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e3721c40d65a",
+   "created_at": "2026-10-14T10:31:04Z"
+  },
   {
    "id": "003c54b896f8",
    "ts": "2026-10-14T10:23:25Z",
@@ -5909,33 +5936,6 @@
    "model": "opus",
    "run_id": "3f4aa1689fa6",
    "created_at": "2026-10-12T18:15:50Z"
-  },
-  {
-   "id": "8f33257b763d",
-   "ts": "2026-10-12T18:01:52Z",
-   "headline": "ECB's Moulin says the French economy is withstanding the energy shock as the Bank of France's industry uncertainty gauge hits highest…",
-   "detail": "Bank of France Governor and ECB Governing Council member Moulin said the French economy is holding up in the face of the energy shock. He said the central bank's gauge of industry uncertainty is at its highest level since April.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "871efe8c13c73f5c",
-    "35804487de31817d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp3z4bbe42r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp3z4bbe42r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp3z6k7x62m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp3z6k7x62m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8c55bf86c178",
-   "created_at": "2026-10-12T18:05:42Z"
   }
  ]
 }
