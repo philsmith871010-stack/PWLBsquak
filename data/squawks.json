@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T21:05:40Z",
+ "generated_at": "2026-10-14T21:40:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dafcee015d61",
+   "ts": "2026-10-14T21:39:00Z",
+   "headline": "Fed's Daly says more rate hikes are likely but sees no urgency, with timing still under consideration",
+   "detail": "San Francisco Fed President Daly said core inflation remains stubborn while gas prices are lifting headline CPI, and that risks of inflation staying above target remain high. She said markets have calmed after their initial strong reaction to the CPI data.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "3d0da8f097037034",
+    "4fb92bada7ed10ee",
+    "401ec58f215dc761",
+    "c1553c147cbdca6d",
+    "d1aa853aadcd666d",
+    "4b259d45d5f43f42",
+    "f5f8ba49cd571788",
+    "d691d5f17fe3b229",
+    "e0e92e76efaaf184"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuj34u72d2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuj34u72d2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuj37s5ud2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuj37s5ud2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuj3dleee2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuj3dleee2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuj44l5kl2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuj44l5kl2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuj47h5xb2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuj47h5xb2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuj4crtne24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuj4crtne24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuj4fasnq2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuj4fasnq2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuj4hoiap2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuj4hoiap2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuj4khupb2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuj4khupb2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "40df6cd116c8",
+   "created_at": "2026-10-14T21:40:52Z"
+  },
   {
    "id": "0d2c8e8c5b07",
    "ts": "2026-10-14T21:03:01Z",
@@ -5945,33 +6014,6 @@
    "model": "opus",
    "run_id": "48c5ad0d4e76",
    "created_at": "2026-10-13T11:20:48Z"
-  },
-  {
-   "id": "0975fccfe9ea",
-   "ts": "2026-10-13T11:07:52Z",
-   "headline": "Fed's Goolsbee says inflation must show progress before the Fed can return to its earlier rate-cutting path",
-   "detail": "Chicago Fed President Austan Goolsbee told Semafor that the Fed needs to see some progress before it can resume the rate-cutting path it had been on. In the same interview he said the AI boom is beginning to push prices up.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c7ebc4a0f0af6503",
-    "6633acf467576736"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqvdr2w4n2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqvdr2w4n2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqvc5egyw2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqvc5egyw2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8543a682f8a1",
-   "created_at": "2026-10-13T11:10:48Z"
   }
  ]
 }
