@@ -1,8 +1,176 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T05:10:50Z",
+ "generated_at": "2026-10-14T05:15:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "66bc8c35f7e4",
+   "ts": "2026-10-14T04:04:23Z",
+   "headline": "Chancellor Healey is set to pay for Budget giveaways without extra borrowing, FT reports",
+   "detail": "The Financial Times reports that Chancellor Healey plans to fund the giveaways in the upcoming Budget without adding to government borrowing.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "3b62892616960404",
+    "b134ab9e5597ec6e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxso5gvr5f2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxso5gvr5f2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsommdpid26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsommdpid26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aa44e5105d0e",
+   "created_at": "2026-10-14T05:15:47Z"
+  },
+  {
+   "id": "7f46f709f15f",
+   "ts": "2026-10-14T03:48:47Z",
+   "headline": "ECB's Moulin says Middle East conflict and energy are the main drivers of inflation and expectations remain well anchored",
+   "detail": "The Bank of France governor said higher yields may weigh on demand and call for a more moderate policy response to the inflation shock. He also said France must urgently show it is committed to fiscal consolidation and pass its 2027 budget.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "3d735308b101aa9c",
+    "94c862e265c65691",
+    "90be9ec076208a56",
+    "eed4b7950c40602f",
+    "1a57eab42dd4ea55",
+    "91badd966b4efe4b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsnbjgrrn2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsnbjgrrn2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsnhpbcwf2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsnhpbcwf2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsnktwxv22d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsnktwxv22d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsnn2hnym2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsnn2hnym2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxso2fgvgn2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxso2fgvgn2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxso4kmskp26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxso4kmskp26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aa44e5105d0e",
+   "created_at": "2026-10-14T05:15:47Z"
+  },
+  {
+   "id": "c0e76cf39ade",
+   "ts": "2026-10-14T03:35:05Z",
+   "headline": "ECB's Wunsch says the ECB is likely to raise interest rates again",
+   "detail": "ECB Governing Council member Wunsch said a further ECB rate rise is likely.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "f911605302a1e684"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsmj2cndr2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsmj2cndr2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aa44e5105d0e",
+   "created_at": "2026-10-14T05:15:47Z"
+  },
+  {
+   "id": "85d2f5240292",
+   "ts": "2026-10-14T03:09:18Z",
+   "headline": "IMF's Georgieva says UK debt-curbing steps have improved growth prospects and many countries may need a cautiously hawkish policy stance",
+   "detail": "At a press conference in Bangkok, the IMF Managing Director said advanced economies have done worst at rebuilding buffers since the pandemic and that debt-service costs are rising as interest rates go up. She also pointed to rising yields across the euro area, said countries can still borrow in markets but at higher cost, and called for further fiscal adjustment in the US.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d4f6d9e3664f11e9",
+    "ae1cfcd9d66057b2",
+    "9886c0343ad056ac",
+    "594859de0807ae71",
+    "d632724fa8c04a19",
+    "a55e3d8f43e4b83e",
+    "dfc076d438613bb2",
+    "df3406195d64519b",
+    "e55dd92bbf24c61f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsl2wm5cc2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsl2wm5cc2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsmzfbclc24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsmzfbclc24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxskxvnp5c26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxskxvnp5c26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxslga23yn24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxslga23yn24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsmy67ni52r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsmy67ni52r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsmyigmyq26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsmyigmyq26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsnfrejiu2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsnfrejiu2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsngrlwas2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsngrlwas2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsngvrpcl2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsngvrpcl2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aa44e5105d0e",
+   "created_at": "2026-10-14T05:15:47Z"
+  },
   {
    "id": "6c532429b35a",
    "ts": "2026-10-14T02:40:29Z",
@@ -5900,108 +6068,6 @@
    "model": "opus",
    "run_id": "d2a9125d570a",
    "created_at": "2026-10-12T14:01:18Z"
-  },
-  {
-   "id": "a2bf8e1a0347",
-   "ts": "2026-10-12T13:54:05Z",
-   "headline": "Zelensky says it is increasingly clear Russia will not accept the US proposal for an energy ceasefire",
-   "detail": "Ukraine's president said Russia appears unwilling to accept the US-proposed energy ceasefire.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "22187de03a3e8c3d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoo62h6zp2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoo62h6zp2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b480bea7dd9a",
-   "created_at": "2026-10-12T13:55:47Z"
-  },
-  {
-   "id": "a646efd09a12",
-   "ts": "2026-10-12T13:51:43Z",
-   "headline": "Fitch says France's 2027 budget plan points to a weaker fiscal starting point",
-   "detail": "Fitch Ratings said France's rating is held back by high and rising debt, political and social conditions that make fiscal consolidation difficult, and low potential growth.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "743f753086273d89",
-    "080e83b3006bbdaa"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxonzsvoz32w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxonzsvoz32w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoo6vfrfl2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoo6vfrfl2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b480bea7dd9a",
-   "created_at": "2026-10-12T13:55:47Z"
-  },
-  {
-   "id": "c680457cb754",
-   "ts": "2026-10-12T13:48:52Z",
-   "headline": "China's Wang Yi says Beijing will cooperate with Russia to protect key shipping lanes",
-   "detail": "Chinese Foreign Minister Wang Yi said China will work with Russia to safeguard key shipping lanes. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a0364950a5b88165"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxonupytrj2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxonupytrj2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7a30b074590b",
-   "created_at": "2026-10-12T13:50:50Z"
-  },
-  {
-   "id": "f612699f96c0",
-   "ts": "2026-10-12T13:44:42Z",
-   "headline": "Iran's IRGC says it hit a third supertanker in the Strait of Hormuz in two days, setting it on fire",
-   "detail": "The IRGC Navy said the tanker was struck this morning and caught fire after it disabled its navigation system and ignored warnings while trying to leave the strait, Fars News reports. The inputs report no market reaction.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "164fe1b17224e4c8",
-    "3b6d0946adda293d",
-    "874be39f4062e56b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxonnblizt2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxonnblizt2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxonnig4p22f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxonnig4p22f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxonp3jooe2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxonp3jooe2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b81081a1cb54",
-   "created_at": "2026-10-12T13:45:51Z"
   }
  ]
 }
