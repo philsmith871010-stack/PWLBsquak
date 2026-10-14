@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T10:20:50Z",
+ "generated_at": "2026-10-14T10:25:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "003c54b896f8",
+   "ts": "2026-10-14T10:23:25Z",
+   "headline": "Russia's Novak says US diesel contract will include a mechanism to keep supplies flowing despite Western sanctions",
+   "detail": "Russian Deputy Prime Minister Alexander Novak said Russia and the US are negotiating to finalise a diesel contract. He said the contract will include a mechanism to secure supplies despite Western sanctions.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "faecc9d54c80661b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtdd6x7cn26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtdd6x7cn26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a9488dbd3fec",
+   "created_at": "2026-10-14T10:25:43Z"
+  },
   {
    "id": "904abe29c651",
    "ts": "2026-10-14T10:18:50Z",
@@ -5915,27 +5936,6 @@
    "model": "opus",
    "run_id": "8c55bf86c178",
    "created_at": "2026-10-12T18:05:42Z"
-  },
-  {
-   "id": "59f3cc4e0528",
-   "ts": "2026-10-12T18:01:21Z",
-   "headline": "Bank of France keeps its estimate for French third-quarter growth at 0.1%",
-   "detail": "The Bank of France estimates French GDP growth of 0.1% in the third quarter, the same as its previous estimate.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "42f05f39525230dd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp3y6ok4n2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp3y6ok4n2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a3465d3fa4ef",
-   "created_at": "2026-10-12T18:01:24Z"
   }
  ]
 }
