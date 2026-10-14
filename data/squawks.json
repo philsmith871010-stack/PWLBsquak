@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T08:05:50Z",
+ "generated_at": "2026-10-14T08:15:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "73051f3aaff6",
+   "ts": "2026-10-14T08:15:44Z",
+   "headline": "German economy ministry says the economy's momentum probably slowed temporarily in the third quarter",
+   "detail": "Germany's economy ministry gave the assessment in its monthly report, published on Wednesday.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "022a7ceb1588be06"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt46uug7y2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt46uug7y2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "962fe18cc18c",
+   "created_at": "2026-10-14T08:15:47Z"
+  },
+  {
+   "id": "a6c05ec341bf",
+   "ts": "2026-10-14T08:11:32Z",
+   "headline": "ECB's Elderson says banks and supervisors must look beyond data-driven models to deal with non-linear climate and nature risks",
+   "detail": "The ECB Executive Board member called for scenario analysis and stronger risk management frameworks. He said uncertainty also comes from demographics, AI and quantum computing.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "fa6efd32ed512a85",
+    "c8b4a73485f23416",
+    "560c0fe8b2481c56"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt3xefqyi2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt3xefqyi2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt3xljud72r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt3xljud72r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt3xpu53r2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt3xpu53r2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "962fe18cc18c",
+   "created_at": "2026-10-14T08:15:47Z"
+  },
   {
    "id": "aad345fc6111",
    "ts": "2026-10-14T08:04:24Z",
@@ -6014,60 +6068,6 @@
    "model": "opus",
    "run_id": "64d4849dbb70",
    "created_at": "2026-10-12T15:50:57Z"
-  },
-  {
-   "id": "81805f369dac",
-   "ts": "2026-10-12T15:41:39Z",
-   "headline": "US, Australia, Canada and other allies call any Iranian bid to threaten or coerce people on their territory unacceptable",
-   "detail": "A joint statement from the US, Australia, Canada and other governments says any Iranian attempt to threaten, intimidate or harm people on their territories, including through proxies, is unacceptable.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "04e962928daeb5dd",
-    "afb127ddc6d52169"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxou6ev3qo2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxou6ev3qo2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxouerrfvd2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxouerrfvd2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f9360ef1d844",
-   "created_at": "2026-10-12T15:45:47Z"
-  },
-  {
-   "id": "a55f68ed6207",
-   "ts": "2026-10-12T15:39:36Z",
-   "headline": "Turkey's Erdogan condemns Houthi attack on Saudi Arabia and says Turkey stands with the kingdom",
-   "detail": "Turkish President Erdogan condemned the Houthi attack on Saudi Arabia, which included the airport, in the strongest terms and said Turkey stands by Riyadh. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "25ebdf11080e8a5a",
-    "f1cfc5d424b648b2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxotzbs4tq2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxotzbs4tq2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxou2puqfw2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxou2puqfw2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b8416cb72940",
-   "created_at": "2026-10-12T15:40:56Z"
   }
  ]
 }
