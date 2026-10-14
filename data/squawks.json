@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T13:45:58Z",
+ "generated_at": "2026-10-14T14:01:19Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "89eb97979884",
+   "ts": "2026-10-14T13:56:48Z",
+   "headline": "Traders bet the Fed may need two hikes or a 50bp move by December, CNBC reports",
+   "detail": "CNBC reports that traders are betting the Federal Reserve may have to raise rates twice, or by 50bp in one step, by its December meeting. The report follows the hotter-than-expected US September CPI data.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "9a5f6adb6ff5bf64"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtpaquj552d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtpaquj552d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "882c0ba9d961",
+   "created_at": "2026-10-14T14:01:19Z"
+  },
   {
    "id": "57108e397407",
    "ts": "2026-10-14T13:41:20Z",
@@ -5873,27 +5894,6 @@
    "model": "opus",
    "run_id": "7e2311783b30",
    "created_at": "2026-10-13T05:40:47Z"
-  },
-  {
-   "id": "2065127aa414",
-   "ts": "2026-10-13T05:30:18Z",
-   "headline": "IMF expects the BoJ to lift rates gradually towards neutral despite a projected slowdown in Japanese growth",
-   "detail": "The International Monetary Fund said on Tuesday that the Bank of Japan is likely to raise interest rates step by step towards a neutral setting, even though it expects Japan's growth to slow, Reuters reports.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "94b5e8bc0fa571a0"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxqci4xdyt2h",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxqci4xdyt2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a75788fa6789",
-   "created_at": "2026-10-13T05:31:01Z"
   }
  ]
 }
