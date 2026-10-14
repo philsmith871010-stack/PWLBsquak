@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T13:40:50Z",
+ "generated_at": "2026-10-14T13:45:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "57108e397407",
+   "ts": "2026-10-14T13:41:20Z",
+   "headline": "Citigroup now expects a 25bp Fed rate hike in December 2026; it had previously forecast no change this year",
+   "detail": "Citigroup has changed its Federal Reserve call and now expects a 25bp rate increase in December 2026. Its previous forecast was for no change this year.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "cc7a37ed6ce784a7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtof3we6i2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtof3we6i2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f3a588bc7812",
+   "created_at": "2026-10-14T13:45:58Z"
+  },
   {
    "id": "da6f6baef382",
    "ts": "2026-10-14T13:38:55Z",
@@ -5873,33 +5894,6 @@
    "model": "opus",
    "run_id": "a75788fa6789",
    "created_at": "2026-10-13T05:31:01Z"
-  },
-  {
-   "id": "f91e83311fb9",
-   "ts": "2026-10-13T05:10:51Z",
-   "headline": "Dutch CPI rises 3.4% y/y in September, in line with forecast and up from 3.3%; 0.1% m/m",
-   "detail": "Dutch consumer prices rose 3.4% on the year, matching the 3.4% forecast, after 3.3% previously. On the month, prices rose 0.1%, down from 0.3% before.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "eaddfaa51c2a4c94",
-    "7f0286a31c6a5f70"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqbfe4gya2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqbfe4gya2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqbfbfrgl2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqbfbfrgl2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c8f658c26437",
-   "created_at": "2026-10-13T05:15:47Z"
   }
  ]
 }
