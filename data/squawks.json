@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T12:10:51Z",
+ "generated_at": "2026-10-14T12:25:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3a8260412724",
+   "ts": "2026-10-14T12:22:50Z",
+   "headline": "Container ship and dry bulk ship reported sinking near Strait of Hormuz after being hit by projectiles",
+   "detail": "Maritime security sources say a container ship has sunk near the Strait of Hormuz after a projectile hit it, and a dry bulk ship is reported to be sinking after being hit in a separate incident. No market reaction was reported in the posts.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1969d4d54c1c97c8",
+    "74fb43cf4c38fb03"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtjypklwr2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtjypklwr2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtjzjnhli2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtjzjnhli2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2987eb243b56",
+   "created_at": "2026-10-14T12:25:45Z"
+  },
   {
    "id": "47764392b040",
    "ts": "2026-10-14T12:10:35Z",
@@ -5933,27 +5960,6 @@
    "model": "opus",
    "run_id": "2499cbbd16cb",
    "created_at": "2026-10-12T21:40:47Z"
-  },
-  {
-   "id": "42cf9990bd9d",
-   "ts": "2026-10-12T21:31:07Z",
-   "headline": "Oil prices rise as the Russia-Ukraine energy ceasefire agreed by Trump with Putin shows signs of fraying, FT reports",
-   "detail": "The Financial Times reports that oil prices are climbing as the energy ceasefire comes under strain. Trump announced the ceasefire after a deal with Putin. The report gives no price figures.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "3a70fbb603f3f467"
-   ],
-   "sources": [
-    {
-     "author": "iankmsmith.ft.com",
-     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3mxphpc6jes24",
-     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3mxphpc6jes24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "790d6c1e5596",
-   "created_at": "2026-10-12T21:35:39Z"
   }
  ]
 }
