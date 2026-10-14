@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T10:50:50Z",
+ "generated_at": "2026-10-14T11:01:18Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a4db4b908bc2",
+   "ts": "2026-10-14T10:59:41Z",
+   "headline": "Putin's envoy Dmitriev says Russia will keep up economic cooperation with the US beyond diesel",
+   "detail": "Kremlin envoy Kirill Dmitriev said Russia's economic cooperation with the United States would continue and would not be limited to diesel. The remark follows reports that Russia and the US are discussing diesel supply contracts.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ddad8ebbb6779a54"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtfdzy7nr24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtfdzy7nr24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "592984b6dd4c",
+   "created_at": "2026-10-14T11:01:18Z"
+  },
   {
    "id": "ae2fbedb5db4",
    "ts": "2026-10-14T10:49:57Z",
@@ -5885,39 +5906,6 @@
    "model": "opus",
    "run_id": "42801666b945",
    "created_at": "2026-10-12T18:55:41Z"
-  },
-  {
-   "id": "a4cc64514b0e",
-   "ts": "2026-10-12T18:31:55Z",
-   "headline": "WTI crude futures settle 2.06% higher at $93.74 a barrel",
-   "detail": "NYMEX November WTI crude futures settled up $1.89 at $93.74 a barrel. November diesel futures settled at $4.7232 a gallon and gasoline at $3.2917 a gallon.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "c7521c59052b3341",
-    "0c377a29b349e277",
-    "5b59f182058c453f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp5ots4jh24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp5ots4jh24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp5pzddmg2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp5pzddmg2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp5owwzmj2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp5owwzmj2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b729db1a8385",
-   "created_at": "2026-10-12T18:35:50Z"
   }
  ]
 }
