@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T08:31:01Z",
+ "generated_at": "2026-10-14T08:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "aa0335e049bf",
+   "ts": "2026-10-14T08:34:08Z",
+   "headline": "European Commission proposes delaying EU methane rules on imported oil and gas by one year",
+   "detail": "The European Commission has proposed postponing by one year the EU methane emissions rules that apply to imported oil and gas.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "d6714a35ced1fb95"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt57rrauu2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt57rrauu2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ded203da8600",
+   "created_at": "2026-10-14T08:35:41Z"
+  },
   {
    "id": "a21ff37c4aba",
    "ts": "2026-10-14T08:28:02Z",
@@ -6041,33 +6062,6 @@
    "model": "opus",
    "run_id": "c7085b1ec40c",
    "created_at": "2026-10-12T16:45:50Z"
-  },
-  {
-   "id": "4972abd93fa3",
-   "ts": "2026-10-12T16:31:09Z",
-   "headline": "US Gulf of Mexico oil shut-ins ease to 604,503 b/d, or 30% of output, from 1.5m b/d; 25% of gas output remains shut",
-   "detail": "The latest MMA data show 604,503 b/d of US Gulf of Mexico oil production shut in, equal to 30% of output, down from the 1.5m b/d reported earlier. Gas shut-ins stand at 531 mln cf/d, or 25% of gas production.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "3055f9b9aafadddd",
-    "b5cfeb6f77187627"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxowwvzym42y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxowwvzym42y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxowxrozo32r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxowxrozo32r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "abf7c08541c0",
-   "created_at": "2026-10-12T16:35:42Z"
   }
  ]
 }
