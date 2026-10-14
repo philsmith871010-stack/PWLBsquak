@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T14:10:49Z",
+ "generated_at": "2026-10-14T14:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "79a1597dbebb",
+   "ts": "2026-10-14T14:15:06Z",
+   "headline": "Resolution Foundation estimates UK fiscal headroom has halved to about £12bn in 2029-30 before Budget measures",
+   "detail": "The Resolution Foundation estimates that, before any policy measures, headroom against the fiscal rules will be around £12 billion in 2029-30. It says John Healey would need £18 billion of headroom to keep a buffer equivalent to the one Rachel Reeves had.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "37dac343f935b13d"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxtqbi54uf25",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxtqbi54uf25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c505995fa271",
+   "created_at": "2026-10-14T14:15:50Z"
+  },
   {
    "id": "c5248f0d5f12",
    "ts": "2026-10-14T14:06:54Z",
@@ -5861,33 +5882,6 @@
    "model": "opus",
    "run_id": "d491579a6a20",
    "created_at": "2026-10-13T06:40:48Z"
-  },
-  {
-   "id": "d75dadb32b17",
-   "ts": "2026-10-13T06:02:04Z",
-   "headline": "German September harmonised CPI is 3.3% y/y and 0.6% m/m, both matching forecasts and the previous readings",
-   "detail": "Germany's EU-harmonised consumer price index for September rose 3.3% on the year and 0.6% on the month. Both figures matched the 3.3% and 0.6% estimates and were unchanged from the previous readings.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c75cdcf9cc46a7de",
-    "5785ad891263c4d4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqeawgcni2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqeawgcni2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqeat2fly2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqeat2fly2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "014d1cfd6e09",
-   "created_at": "2026-10-13T06:05:40Z"
   }
  ]
 }
