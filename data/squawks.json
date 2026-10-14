@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T14:05:44Z",
+ "generated_at": "2026-10-14T14:10:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c5248f0d5f12",
+   "ts": "2026-10-14T14:06:54Z",
+   "headline": "Fed's Williams says one more rate hike may be appropriate but sees no reason at present to expect more beyond that",
+   "detail": "New York Fed President John Williams said his view has not changed that one more hike may be appropriate, and that he currently has no reason to think further increases would be needed.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c9f956c8a53e09d0"
+   ],
+   "sources": [
+    {
+     "author": "domw.bsky.social",
+     "uri": "at://did:plc:ysurxzi2odawdywedcdwyz5z/app.bsky.feed.post/3mxtpsspui22d",
+     "url": "https://bsky.app/profile/domw.bsky.social/post/3mxtpsspui22d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "69aeb0a91b35",
+   "created_at": "2026-10-14T14:10:49Z"
+  },
   {
    "id": "557ce8a63d25",
    "ts": "2026-10-14T14:04:39Z",
@@ -5867,33 +5888,6 @@
    "model": "opus",
    "run_id": "014d1cfd6e09",
    "created_at": "2026-10-13T06:05:40Z"
-  },
-  {
-   "id": "e96850fb3db6",
-   "ts": "2026-10-13T06:01:03Z",
-   "headline": "German final CPI confirmed at 3.3% y/y and 0.6% m/m, both in line with forecasts",
-   "detail": "Germany's final consumer price index reading shows inflation at 3.3% year on year, matching both the forecast and the previous figure of 3.3%. The monthly rise is 0.6%, also in line with the forecast and the previous reading.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "d197f58910586ba2",
-    "31549152931997d7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqe74qzwg2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqe74qzwg2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqe7crrry2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqe7crrry2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f75003365594",
-   "created_at": "2026-10-13T06:01:11Z"
   }
  ]
 }
