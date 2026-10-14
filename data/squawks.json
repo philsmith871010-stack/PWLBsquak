@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T07:15:49Z",
+ "generated_at": "2026-10-14T07:20:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "51bdc28619ea",
+   "ts": "2026-10-14T07:20:16Z",
+   "headline": "Italy's Meloni says a deal with the EU on limiting the effect of gas costs on electricity prices is close",
+   "detail": "Italian Prime Minister Giorgia Meloni said Italy sees an agreement with the EU nearing on measures to reduce how much gas costs feed through to electricity prices. No details of the measures or timing were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "18e2e44200ae917a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsz3pfn7e2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsz3pfn7e2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a0716a7d806a",
+   "created_at": "2026-10-14T07:20:54Z"
+  },
   {
    "id": "de60ce00fe42",
    "ts": "2026-10-14T07:11:05Z",
@@ -6011,33 +6032,6 @@
    "model": "opus",
    "run_id": "17584d1b2630",
    "created_at": "2026-10-12T15:25:41Z"
-  },
-  {
-   "id": "b7864918aee8",
-   "ts": "2026-10-12T15:16:15Z",
-   "headline": "UK PM Burnham says the UK is ready to consider further Saudi requests for support",
-   "detail": "UK Prime Minister Burnham said the government would consider further requests for support from Saudi Arabia, which has come under missile and drone attacks. He also said he would not let the two-state solution die while he is in office.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0abd749764ce2c91",
-    "9914276343a3e6ae"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxosqycwz52q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxosqycwz52q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxosqrfyzh24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxosqrfyzh24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b42f766e260f",
-   "created_at": "2026-10-12T15:20:50Z"
   }
  ]
 }
