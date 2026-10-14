@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T14:50:49Z",
+ "generated_at": "2026-10-14T15:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bfa3c0f80df4",
+   "ts": "2026-10-14T15:05:13Z",
+   "headline": "IEA meets on Thursday, with the pace of Europe's planned diesel stock release in focus, Reuters reports",
+   "detail": "Reuters reports that the International Energy Agency meets on Thursday and that the market's attention is on how quickly Europe will release its large diesel stocks.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "f259a97fd50805e6"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxtt33bish2x",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxtt33bish2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3e30f1cacf7c",
+   "created_at": "2026-10-14T15:05:43Z"
+  },
   {
    "id": "65febd4f6b53",
    "ts": "2026-10-14T14:48:47Z",
@@ -5861,33 +5882,6 @@
    "model": "opus",
    "run_id": "4d5390aafe7a",
    "created_at": "2026-10-13T07:20:47Z"
-  },
-  {
-   "id": "59244d7afc0e",
-   "ts": "2026-10-13T06:58:53Z",
-   "headline": "EU's von der Leyen condemns escalation in the Black Sea as a new front in Russia's war in Ukraine, calling it unacceptable",
-   "detail": "European Commission President Ursula von der Leyen described the Black Sea as another front of escalation in Russia's war in Ukraine and called it unacceptable. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f33e5dfec096f62a",
-    "5546f03aaa5f9653"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqhgkbv5b2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqhgkbv5b2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqhhlbt272d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqhhlbt272d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0f6091a75a9d",
-   "created_at": "2026-10-13T07:01:10Z"
   }
  ]
 }
