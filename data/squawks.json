@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T14:01:19Z",
+ "generated_at": "2026-10-14T14:05:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "557ce8a63d25",
+   "ts": "2026-10-14T14:04:39Z",
+   "headline": "Trump plays down talk of halting intelligence sharing with Ukraine and says the US still shares it",
+   "detail": "Trump told reporters the US is still sharing intelligence with Ukraine, but Semafor reports that cutting it off is being actively discussed inside the White House.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "734567202c4680cc"
+   ],
+   "sources": [
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mxtposfk3h2n",
+     "url": "https://bsky.app/profile/semafor.com/post/3mxtposfk3h2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "57aebbf95387",
+   "created_at": "2026-10-14T14:05:44Z"
+  },
   {
    "id": "89eb97979884",
    "ts": "2026-10-14T13:56:48Z",
@@ -5873,27 +5894,6 @@
    "model": "opus",
    "run_id": "f75003365594",
    "created_at": "2026-10-13T06:01:11Z"
-  },
-  {
-   "id": "8fa175ee27be",
-   "ts": "2026-10-13T05:40:14Z",
-   "headline": "Banking regulators step up scrutiny of AI risks amid financial stability concerns, Reuters reports",
-   "detail": "Reuters cites six people familiar with the matter as saying banking watchdogs are increasing efforts to contain AI-related risks. Some of the sources pointed to possible cyberattacks on banks or rogue AI agents as threats to global financial stability.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "9bc0b884c4556ac9"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxqczurwxz2j",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxqczurwxz2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7e2311783b30",
-   "created_at": "2026-10-13T05:40:47Z"
   }
  ]
 }
