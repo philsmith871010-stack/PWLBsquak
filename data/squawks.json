@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T12:35:42Z",
+ "generated_at": "2026-10-14T12:40:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "061b7878064c",
+   "ts": "2026-10-14T12:38:16Z",
+   "headline": "US 2-year Treasury yield climbs 10bp to 4.89% and dollar index hits its highest since November after hotter US CPI",
+   "detail": "The moves followed September US CPI. Core rose 0.3% m/m against 0.2% expected. Kalshi pricing put the chance of an October Fed hike at 33%, up from 21%, and the Bloomberg dollar spot index rose to its highest since November.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "a50f8a55194ad7f5",
+    "71c71f54c21c1868",
+    "a56b88920fc5e2d6",
+    "2d1461aa2f631d01",
+    "fa8173345f41c706",
+    "d25744a73a5933ba"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtkuctlzy2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtkuctlzy2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtkshtlhw2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtkshtlhw2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtkqlky7b24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtkqlky7b24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtkrdlje42n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtkrdlje42n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtkrrkbtm2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtkrrkbtm2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtkxpzsos2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtkxpzsos2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bab094eedac1",
+   "created_at": "2026-10-14T12:40:51Z"
+  },
   {
    "id": "9b8b24bb536b",
    "ts": "2026-10-14T12:32:05Z",
@@ -5988,27 +6039,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpnn35dmz2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpnn35dmz2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "319e07152bf1",
-   "created_at": "2026-10-13T05:01:13Z"
-  },
-  {
-   "id": "f663dce325d9",
-   "ts": "2026-10-12T23:17:11Z",
-   "headline": "BRC: UK September like-for-like retail sales rise 1.0% y/y, above the 0.7% forecast; total sales up 1.3%",
-   "detail": "The British Retail Consortium reports that total UK retail sales rose 1.3% year on year in September, up from 0.7% in August. Like-for-like sales grew 1.0%, against a 0.7% forecast and 0.5% previously.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "56ebed4329bee06a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpnmxhgjc2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpnmxhgjc2s"
     }
    ],
    "model": "opus",
