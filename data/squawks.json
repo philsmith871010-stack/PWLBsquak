@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T12:25:45Z",
+ "generated_at": "2026-10-14T12:31:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9136563bed4c",
+   "ts": "2026-10-14T12:27:56Z",
+   "headline": "Germany's Merz says the European Commission will get a new trade tool so it can respond quickly to developments",
+   "detail": "German Chancellor Merz said the European Commission will have a new trade instrument for responding quickly to developments. The remarks come amid German moves to press the EU on capping additional imports from China.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "93d84d4a21330611"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtkbt6wpl2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtkbt6wpl2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "48517ec09a2e",
+   "created_at": "2026-10-14T12:31:06Z"
+  },
   {
    "id": "3a8260412724",
    "ts": "2026-10-14T12:22:50Z",
@@ -5909,57 +5930,6 @@
    "model": "opus",
    "run_id": "319e07152bf1",
    "created_at": "2026-10-13T05:01:13Z"
-  },
-  {
-   "id": "e1e5dfbc6881",
-   "ts": "2026-10-12T21:38:58Z",
-   "headline": "Fed's Hammack says inflation pressures are spreading beyond AI and she is open to adjusting the pace of rate rises",
-   "detail": "Cleveland Fed President Hammack said further tightening is needed and policy will have to curb demand through capital spending or consumption, but that she is open to adjusting the pace of increases. She added that inflation pressures are spreading beyond AI firms and that business contacts describe a thriving economy rather than one about to slow.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "42b629237f29a185",
-    "edaa409cbce46175",
-    "1630fcc46c6f47fb",
-    "840c58f9b24e0df8",
-    "03b463ac0d3a9629",
-    "8d4afbef60877a5a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpi5csft42r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpi5csft42r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpi64o77h26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpi64o77h26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxphxed75l2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxphxed75l2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxphy5v4iz2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxphy5v4iz2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxphybi6g42r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxphybi6g42r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxphyepo2w26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxphyepo2w26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2499cbbd16cb",
-   "created_at": "2026-10-12T21:40:47Z"
   }
  ]
 }
