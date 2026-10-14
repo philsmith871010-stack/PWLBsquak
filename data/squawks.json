@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T19:25:41Z",
+ "generated_at": "2026-10-14T20:25:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "abb6312b2597",
+   "ts": "2026-10-14T20:25:07Z",
+   "headline": "US maritime regulator proposes $200,000 fee on Spanish-flagged ships and limits on Spanish olive oil imports in port dispute",
+   "detail": "Reuters reports the US Federal Maritime Commission proposed on Wednesday a $200,000 fee on Spanish-flagged ships calling at US ports. The proposal would also restrict imports from Spain, including olive oil, its biggest export to the US.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "dfac51d653b9702f"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxuex4fjtq2m",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxuex4fjtq2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fd9b63f9bb33",
+   "created_at": "2026-10-14T20:25:46Z"
+  },
   {
    "id": "01b201711534",
    "ts": "2026-10-14T19:24:23Z",
@@ -5957,27 +5978,6 @@
    "model": "opus",
    "run_id": "9d4ffd0ed90c",
    "created_at": "2026-10-13T11:05:41Z"
-  },
-  {
-   "id": "f97714a122db",
-   "ts": "2026-10-13T10:55:34Z",
-   "headline": "UK energy secretary Miliband approves drilling off the Falklands, Telegraph reports",
-   "detail": "The Telegraph reports that the energy secretary has given approval for drilling in waters off the Falkland Islands.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "2b2cd5251a2b6d6c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqunr2a3z2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqunr2a3z2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c1be78750338",
-   "created_at": "2026-10-13T10:55:41Z"
   }
  ]
 }
