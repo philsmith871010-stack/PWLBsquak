@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T08:35:41Z",
+ "generated_at": "2026-10-14T08:45:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cef8a7bda502",
+   "ts": "2026-10-14T08:42:33Z",
+   "headline": "Houthis claim strikes on Aramco in Dhahran, a Riyadh Aramco refinery and King Khalid Airport, and say attacks will continue",
+   "detail": "A Houthi military spokesperson said the group targeted Aramco facilities in Dhahran, an Aramco refinery in Riyadh and King Khalid Airport. The group said its operations against airports and oil facilities will continue in the coming days.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c66e4d5f8000aa2e",
+    "a25541a7b43c59ba"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt5otle5x2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt5otle5x2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt5pxd4eo2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt5pxd4eo2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "68d2e16b4515",
+   "created_at": "2026-10-14T08:45:47Z"
+  },
   {
    "id": "aa0335e049bf",
    "ts": "2026-10-14T08:34:08Z",
@@ -6035,33 +6062,6 @@
    "model": "opus",
    "run_id": "65b2e8b8152a",
    "created_at": "2026-10-12T16:50:49Z"
-  },
-  {
-   "id": "97446fb86812",
-   "ts": "2026-10-12T16:44:36Z",
-   "headline": "Fed's Hammack says US interest rates need to go higher",
-   "detail": "Cleveland Fed President Beth Hammack said interest rates need to be higher, according to a Barron's report. No figures or timing were given.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "c1584c72312b1281",
-    "70fc852a82e1f37d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoxoxokxl2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoxoxokxl2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoxq2nwlt2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoxq2nwlt2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c7085b1ec40c",
-   "created_at": "2026-10-12T16:45:50Z"
   }
  ]
 }
