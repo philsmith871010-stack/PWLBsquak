@@ -1,8 +1,101 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T11:20:48Z",
+ "generated_at": "2026-10-14T11:31:10Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b16e4bf9a3a8",
+   "ts": "2026-10-14T11:31:07Z",
+   "headline": "German foreign minister calls for a ceasefire for civilian shipping in the Black Sea and expects US support for Ukraine to continue",
+   "detail": "German Foreign Minister Johann Wadephul said Germany does not see a substantial cut in US support for Ukraine and that the US is right to push for Russia-Ukraine talks. He also called for a ceasefire covering civilian shipping in the Black Sea.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ad4045c18e9f1021",
+    "eaf3b869d7086d5f",
+    "173e1ba73dfd9c88",
+    "9d5f24c40f8b1b77"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxth4a6pzg2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxth4a6pzg2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtgtfsabk2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtgtfsabk2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtgug6one2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtgug6one2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtgwuk4222m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtgwuk4222m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dda318b3c138",
+   "created_at": "2026-10-14T11:31:10Z"
+  },
+  {
+   "id": "09af054b8d85",
+   "ts": "2026-10-14T11:30:56Z",
+   "headline": "Russia's Novak says US diesel deal lets Russia raise output and refining, with supplies going to world markets and the US",
+   "detail": "Russian Deputy Prime Minister Alexander Novak said the Russia-US diesel deal gives Russia room to increase its production and refining volumes. He said supplies will go both to global markets and directly to the United States.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "4c0b0a73bbaad1d1",
+    "fbf831df2a4ecaa5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxth3vwbbb24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxth3vwbbb24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxth43djoa2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxth43djoa2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dda318b3c138",
+   "created_at": "2026-10-14T11:31:10Z"
+  },
+  {
+   "id": "17ffcf523477",
+   "ts": "2026-10-14T11:27:39Z",
+   "headline": "PM Burnham says at PMQs that his priority on the Trump-Russia diesel deal is to build bridges, ahead of meeting Zelenskiy",
+   "detail": "At Prime Minister's Questions, Prime Minister Burnham was asked about the US-Russia diesel deal and said his job is to bring people back together. He also said Ukraine's President Zelenskiy would not leave their meeting empty-handed.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a9063f4966a7424d",
+    "f63f9e4dcb10503f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtgw23vw22m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtgw23vw22m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtgudxhqn2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtgudxhqn2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dda318b3c138",
+   "created_at": "2026-10-14T11:31:10Z"
+  },
   {
    "id": "73ce44236aaf",
    "ts": "2026-10-14T11:18:05Z",
@@ -5843,69 +5936,6 @@
    "model": "opus",
    "run_id": "d4818cd991d4",
    "created_at": "2026-10-12T21:01:18Z"
-  },
-  {
-   "id": "bb2b2f874b91",
-   "ts": "2026-10-12T19:32:45Z",
-   "headline": "US envoy Kushner says the diesel deal with Russia is meant to soften Moscow's stance",
-   "detail": "US envoy Jared Kushner described the US-Russia diesel supply arrangement as an attempt to soften Russia. The deal has already drawn UK pledges of tougher Russia sanctions, and Trump has defended it.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "af339d08d788eb7d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpb3myjyi2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpb3myjyi2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1cf5af50c510",
-   "created_at": "2026-10-12T19:35:42Z"
-  },
-  {
-   "id": "12beb4e7bd58",
-   "ts": "2026-10-12T19:30:51Z",
-   "headline": "Russia's foreign minister rejects a proposed 60-day Ukraine ceasefire and says Moscow wants a long-term peace deal",
-   "detail": "Russia's foreign minister turned down a proposed 60-day ceasefire that would have let Ukraine hold elections. He said Moscow wants a long-term peace agreement, not a temporary truce.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "50f22673418490a6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpaya6ecn2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpaya6ecn2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b08533a4d4fe",
-   "created_at": "2026-10-12T19:31:10Z"
-  },
-  {
-   "id": "3bab115d7cb3",
-   "ts": "2026-10-12T19:25:13Z",
-   "headline": "EU considers a bloc-wide windfall profit tax on oil and gas companies as energy prices climb",
-   "detail": "On Monday the EU's tax commissioner told Reuters the bloc is looking at a windfall profit tax on oil and gas firms across the EU. Governments are looking for money to help households with high energy bills.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "bcb657e4377f796a"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxpao5eauo2z",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxpao5eauo2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a91490804994",
-   "created_at": "2026-10-12T19:25:41Z"
   }
  ]
 }
