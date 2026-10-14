@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T13:31:07Z",
+ "generated_at": "2026-10-14T13:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9a426b1db717",
+   "ts": "2026-10-14T13:34:09Z",
+   "headline": "Iran's IRNA reports an explosion in Riyadh after a missile attack, with reports of damage to oil facilities",
+   "detail": "Iranian state news agency IRNA reported a blast in the Saudi capital after a missile attack and said there were reports of damage to oil facilities. The report gives no details of which facilities were hit or how much damage was done.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "af2963e822a6b0e9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtnyaf36r2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtnyaf36r2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b02d15b4f4fd",
+   "created_at": "2026-10-14T13:35:41Z"
+  },
   {
    "id": "df1f84969afe",
    "ts": "2026-10-14T13:26:13Z",
@@ -5879,51 +5900,6 @@
    "model": "opus",
    "run_id": "c8f658c26437",
    "created_at": "2026-10-13T05:15:47Z"
-  },
-  {
-   "id": "21c03510e598",
-   "ts": "2026-10-13T04:54:46Z",
-   "headline": "BoJ's Ueda says core inflation is gradually nearing 2% and the BoJ is watching the bond market closely",
-   "detail": "Bank of Japan Governor Kazuo Ueda said inflation needs to stay anchored around the 2% target and that long-term bond yields are normally set by markets and reflect several factors.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ddd6f9fce388d3bf",
-    "2b0d8074018f1777",
-    "00019e6a7752e2a7",
-    "b8bb8e77c007a947",
-    "afcec2d53ca71891"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqailwz352v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqailwz352v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqano2azj2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqano2azj2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqanwafol2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqanwafol2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqanzdxor2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqanzdxor2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqaotdrtz2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqaotdrtz2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8a71cad7b7b2",
-   "created_at": "2026-10-13T05:10:46Z"
   }
  ]
 }
