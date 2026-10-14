@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T15:05:43Z",
+ "generated_at": "2026-10-14T15:10:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c3e5247cd8cb",
+   "ts": "2026-10-14T15:10:29Z",
+   "headline": "Adviser to Ukraine's Zelenskiy rejects as false Russian reports of strikes on refineries today",
+   "detail": "An adviser to Ukraine's President Zelenskiy said Russian reports of attacks on refineries today were fake. Earlier, Russia's Novak had said two Russian oil refineries were attacked today.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "35863dae15ff4f1a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtteiwpv52s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtteiwpv52s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "35497e5416e9",
+   "created_at": "2026-10-14T15:10:50Z"
+  },
   {
    "id": "bfa3c0f80df4",
    "ts": "2026-10-14T15:05:13Z",
@@ -5855,33 +5876,6 @@
    "model": "opus",
    "run_id": "e6c808a8d9b9",
    "created_at": "2026-10-13T08:10:52Z"
-  },
-  {
-   "id": "dccfdada64d5",
-   "ts": "2026-10-13T07:19:11Z",
-   "headline": "IMF 2026 forecasts put UK growth joint-2nd fastest in G7 on annual average, but 6th of 7 per capita",
-   "detail": "Based on the IMF's 2026 forecasts, the UK ranks joint-2nd in the G7 for annual average GDP growth, 3rd on a Q4/Q4 basis and 6th of 7 for per capita growth. A separate headline reports that UK growth has been upgraded but that energy prices and interest rates will weigh in 2027.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "9db6dea82cdf50c1",
-    "65f922700a8bf1e1"
-   ],
-   "sources": [
-    {
-     "author": "bruceandy.bsky.social",
-     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3mxqiksxc4222",
-     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3mxqiksxc4222"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqifpxf6x2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqifpxf6x2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4d5390aafe7a",
-   "created_at": "2026-10-13T07:20:47Z"
   }
  ]
 }
