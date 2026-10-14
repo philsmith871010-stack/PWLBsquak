@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T12:55:42Z",
+ "generated_at": "2026-10-14T13:01:16Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9f9a4a5cb5be",
+   "ts": "2026-10-14T12:57:18Z",
+   "headline": "US Federal Maritime Commission proposes a fee on all Spanish vessels",
+   "detail": "The US Federal Maritime Commission has proposed charging a fee on every Spanish vessel, according to a market news report. The report gave no figures or timing.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "917c3b2e25488f61"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtlwe3wft2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtlwe3wft2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "90f82d7ece0a",
+   "created_at": "2026-10-14T13:01:16Z"
+  },
   {
    "id": "e17b1cc00755",
    "ts": "2026-10-14T12:54:46Z",
@@ -5916,33 +5937,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpwr5bzlb2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpwr5bzlb2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8069aad17d52",
-   "created_at": "2026-10-13T05:05:39Z"
-  },
-  {
-   "id": "a888beaa6aa5",
-   "ts": "2026-10-13T02:00:00Z",
-   "headline": "IMF projects UK inflation as second-highest in G7 over next two years; says UK stands out for starting fiscal consolidation",
-   "detail": "In its latest World Economic Outlook, the IMF projects that UK inflation will be the second-highest of any G7 economy over the next two years, City AM reports. IMF chief economist Tenreyro said the UK stands out in the G7 because it has begun fiscal consolidation.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "46f78a7ddb1dccd3",
-    "cd0bbd336d1ff2f7"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mxpzjmqm5yu2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mxpzjmqm5yu2"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpyhx7qtg2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpyhx7qtg2n"
     }
    ],
    "model": "opus",
