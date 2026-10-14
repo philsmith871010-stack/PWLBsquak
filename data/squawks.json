@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T09:40:52Z",
+ "generated_at": "2026-10-14T09:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bca0d2ccb964",
+   "ts": "2026-10-14T09:47:21Z",
+   "headline": "Israel's Netanyahu says he opposes a pre-emptive attack on Iran for now, ahead of the elections, reports say",
+   "detail": "Reports say the Israeli prime minister told IDF Radio that a pre-emptive strike on Iran before the elections would not suit Israel at present. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "28858cdc75741efb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtbcorr332y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtbcorr332y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "385bed078b0e",
+   "created_at": "2026-10-14T09:50:48Z"
+  },
   {
    "id": "df803472a052",
    "ts": "2026-10-14T09:37:32Z",
@@ -5927,33 +5948,6 @@
    "model": "opus",
    "run_id": "cc13cb0a7be0",
    "created_at": "2026-10-12T17:31:04Z"
-  },
-  {
-   "id": "9b4c16c28c70",
-   "ts": "2026-10-12T17:23:39Z",
-   "headline": "OPEC+ ministers say disrupted energy flows have driven shipping and insurance costs to unprecedented levels",
-   "detail": "In a statement after their meeting in Riyadh, OPEC+ ministers stressed the need to protect international maritime passages so that energy keeps flowing. They said the current disruption to energy flows has pushed shipping and insurance costs to unprecedented levels.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "919437cc2e24595a",
-    "7d8dc10deb1d6c0d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxozursndp2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxozursndp2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxozvr736b2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxozvr736b2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c71ef59ecb20",
-   "created_at": "2026-10-12T17:25:46Z"
   }
  ]
 }
