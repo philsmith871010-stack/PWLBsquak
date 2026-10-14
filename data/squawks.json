@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T11:05:43Z",
+ "generated_at": "2026-10-14T11:20:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "73ce44236aaf",
+   "ts": "2026-10-14T11:18:05Z",
+   "headline": "PM Burnham pledges to bring down the UK welfare bill",
+   "detail": "Prime Minister Burnham said on 14 October that the government will reduce welfare spending. He gave no figures or timetable.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "b9db7627bcb80638"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtgewifsu2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtgewifsu2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "77446dad5fc6",
+   "created_at": "2026-10-14T11:20:48Z"
+  },
   {
    "id": "346716bd25a3",
    "ts": "2026-10-14T11:04:09Z",
@@ -5885,27 +5906,6 @@
    "model": "opus",
    "run_id": "a91490804994",
    "created_at": "2026-10-12T19:25:41Z"
-  },
-  {
-   "id": "1c96e39a9faf",
-   "ts": "2026-10-12T19:06:32Z",
-   "headline": "Russia's Novak says Russian companies are in talks with buyers over diesel sales",
-   "detail": "Russian Deputy Prime Minister Alexander Novak said on 12 October that Russian companies are discussing diesel sales with buyers. He had earlier confirmed government-level talks with the US on diesel supply.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "ae5036fd5649ef0b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp7mr4zp62d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp7mr4zp62d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e02dd7c8799f",
-   "created_at": "2026-10-12T19:10:52Z"
   }
  ]
 }
