@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T15:25:43Z",
+ "generated_at": "2026-10-14T15:31:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e064e186084a",
+   "ts": "2026-10-14T15:27:19Z",
+   "headline": "Russian deputy foreign minister says Russia has had no proposal yet to mediate between Saudi Arabia and Yemen",
+   "detail": "Iran's IRNA news agency reported the remark from Russia's deputy foreign minister. It comes after an official told AP that Oman, Russia and China were mediating ceasefire talks with the Houthis.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c26f1cc4afa14851"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtuclr6uf2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtuclr6uf2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0a4d8b6da1fd",
+   "created_at": "2026-10-14T15:31:04Z"
+  },
   {
    "id": "f2ba3872c734",
    "ts": "2026-10-14T15:24:06Z",
@@ -5855,27 +5876,6 @@
    "model": "opus",
    "run_id": "303c4a766289",
    "created_at": "2026-10-13T08:25:49Z"
-  },
-  {
-   "id": "bc88e1ee2903",
-   "ts": "2026-10-13T08:18:31Z",
-   "headline": "Fed's Waller says US government bonds no longer carry a safety premium",
-   "detail": "Federal Reserve Governor Waller said the safety premium on US government bonds has disappeared. No market reaction was reported in the post.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "94d37109a3414d70"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqluwne5k2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqluwne5k2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5852aaf1c324",
-   "created_at": "2026-10-13T08:20:47Z"
   }
  ]
 }
