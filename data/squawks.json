@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T09:01:18Z",
+ "generated_at": "2026-10-14T09:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9599fb2fa0b3",
+   "ts": "2026-10-14T09:03:54Z",
+   "headline": "UK 4-year gilt auction yields 4.945% with bid-to-cover of 3.415",
+   "detail": "The 4-year gilt auction had an average yield of 4.945%, up from 4.786% at the previous sale. Bid-to-cover was 3.415, compared with 3.237 last time.",
+   "category": "supply",
+   "importance": 2,
+   "source_event_ids": [
+    "c86903828ac5e299",
+    "bef58e1383e23d1a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt6uytbic2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt6uytbic2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt6v57j5i2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt6v57j5i2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "420801011cfb",
+   "created_at": "2026-10-14T09:05:43Z"
+  },
   {
    "id": "c8893b7a3ee4",
    "ts": "2026-10-14T08:59:48Z",
@@ -6029,27 +6056,6 @@
    "model": "opus",
    "run_id": "d7161981a869",
    "created_at": "2026-10-12T16:55:48Z"
-  },
-  {
-   "id": "2d9bdb429f74",
-   "ts": "2026-10-12T16:50:15Z",
-   "headline": "Germany's stability council expects the debt-to-GDP ratio to rise to 78.25% in 2030",
-   "detail": "The council, which coordinates Germany's federal and state finances, published the projection on Monday, Reuters reports.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0e55943d09db7778"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxoxz2tijc2a",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxoxz2tijc2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "65b2e8b8152a",
-   "created_at": "2026-10-12T16:50:49Z"
   }
  ]
 }
