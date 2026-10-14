@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T06:05:42Z",
+ "generated_at": "2026-10-14T06:10:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9bb1ae7d5284",
+   "ts": "2026-10-14T06:08:58Z",
+   "headline": "BoE's Pill says markets may be overpricing the chance of four rate hikes in the next 12 months",
+   "detail": "Bank of England Chief Economist Huw Pill said market pricing of four rate increases over the coming 12 months may be overdone. No market reaction was reported in the input.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "2ac99d779bf01149"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsv47amjg2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsv47amjg2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "29fafcbaab84",
+   "created_at": "2026-10-14T06:10:46Z"
+  },
   {
    "id": "2ddddd3b99ec",
    "ts": "2026-10-14T06:04:53Z",
@@ -6012,39 +6033,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxorln5ann2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxorln5ann2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "43aebc4cf12e",
-   "created_at": "2026-10-12T14:55:50Z"
-  },
-  {
-   "id": "9ec097772c85",
-   "ts": "2026-10-12T14:53:56Z",
-   "headline": "EU's Kallas proposes 100 new sanctions listings on Russian interference networks and says pressure on Moscow should not ease",
-   "detail": "EU foreign policy chief Kaja Kallas said the EU is proposing 100 new sanctions listings aimed at Russia's foreign information manipulation and interference infrastructure. She also said now is not the time to ease pressure on Moscow, and that a ceasefire cannot work if only one side honours it.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4e41f9c5bec13d11",
-    "e854e9723dea4b97",
-    "a60012c51fe5c30e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxorj2snke2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxorj2snke2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxorlxfrpn24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxorlxfrpn24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxorm7s7zt2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxorm7s7zt2d"
     }
    ],
    "model": "opus",
