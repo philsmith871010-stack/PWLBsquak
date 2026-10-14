@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T09:15:48Z",
+ "generated_at": "2026-10-14T09:40:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "df803472a052",
+   "ts": "2026-10-14T09:37:32Z",
+   "headline": "German 30-year Bund auction yields 3.8% with bid-to-cover of 1.4, down from 1.6 last time",
+   "detail": "Germany's 30-year Bund auction has an average yield of 3.8%, the same as at the previous sale. Its bid-to-cover ratio is 1.4, compared with 1.6 last time.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "5b84674d173a92fa",
+    "11911bfeff7f38b7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtar5c5r72r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtar5c5r72r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtarbmuis2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtarbmuis2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ced2f2042f5b",
+   "created_at": "2026-10-14T09:40:52Z"
+  },
   {
    "id": "11a6a4c76771",
    "ts": "2026-10-14T09:15:17Z",
@@ -5927,27 +5954,6 @@
    "model": "opus",
    "run_id": "c71ef59ecb20",
    "created_at": "2026-10-12T17:25:46Z"
-  },
-  {
-   "id": "f25a970a7efc",
-   "ts": "2026-10-12T17:12:17Z",
-   "headline": "OPEC+ ministers meet on the sidelines of a conference in Riyadh, according to a statement",
-   "detail": "A statement says OPEC+ ministers met on the sidelines of the Riyadh conference. The post gave no details of any decisions.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "9585645e3b345a95"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxozahkgvt2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxozahkgvt2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1dc246ff0a89",
-   "created_at": "2026-10-12T17:15:50Z"
   }
  ]
 }
