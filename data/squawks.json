@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T08:20:48Z",
+ "generated_at": "2026-10-14T08:31:01Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a21ff37c4aba",
+   "ts": "2026-10-14T08:28:02Z",
+   "headline": "IFS launches its Green Budget 2026 ahead of the Budget",
+   "detail": "The Institute for Fiscal Studies began its live launch of the Green Budget 2026 on Wednesday morning, with presentations from IFS authors and Barclays. The report is funded by the Nuffield Foundation.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "b9f1f4bb442e5585"
+   ],
+   "sources": [
+    {
+     "author": "theifs.bsky.social",
+     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3mxt4utufrc2i",
+     "url": "https://bsky.app/profile/theifs.bsky.social/post/3mxt4utufrc2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "16d2accc72ba",
+   "created_at": "2026-10-14T08:31:01Z"
+  },
   {
    "id": "b96a46141cb5",
    "ts": "2026-10-14T08:17:59Z",
@@ -6047,27 +6068,6 @@
    "model": "opus",
    "run_id": "abf7c08541c0",
    "created_at": "2026-10-12T16:35:42Z"
-  },
-  {
-   "id": "44cb00b7f8fc",
-   "ts": "2026-10-12T16:28:02Z",
-   "headline": "Iran's ambassador to the UK says Tehran is willing to cooperate with Britain on investigating the RAF Fairford incident",
-   "detail": "Iran's ambassador to the UK offered cooperation with the British investigation, Iranian state news agency IRNA reported. The offer follows the UK summoning the ambassador after it said Iran was involved in the suspected plot.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9ec76322fc7e7198"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxowrdpwar2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxowrdpwar2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3dfcf3344927",
-   "created_at": "2026-10-12T16:31:08Z"
   }
  ]
 }
