@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T16:31:08Z",
+ "generated_at": "2026-10-14T16:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "96b6fd410136",
+   "ts": "2026-10-14T16:31:55Z",
+   "headline": "Trump says Taiwan will also put $4.4bn of equity into the Alaska LNG project",
+   "detail": "US President Trump said on Truth Social that Taiwan has agreed to a $4.4bn equity investment in the Alaska LNG project. This is in addition to the $70-80bn offtake commitment he announced earlier.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "9ecd68ad7891e0fb",
+    "b67d5b63888f7b81",
+    "d50e8cc03311a620"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtxw4i2oe2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtxw4i2oe2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtxvknomr2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtxvknomr2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtxvvuw6q2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtxvvuw6q2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9ef2c8bc8c58",
+   "created_at": "2026-10-14T16:35:44Z"
+  },
   {
    "id": "b3b993c43931",
    "ts": "2026-10-14T16:30:48Z",
@@ -5855,27 +5888,6 @@
    "model": "opus",
    "run_id": "03711d67e90f",
    "created_at": "2026-10-13T09:31:05Z"
-  },
-  {
-   "id": "477890d64761",
-   "ts": "2026-10-13T09:00:22Z",
-   "headline": "IMF's UK growth upgrade of 0.5ppts is the joint largest in the G7, alongside Germany, Resolution Foundation notes",
-   "detail": "The Resolution Foundation says the UK economy has grown faster than forecast this year, and that the IMF's upgrade to UK growth this morning was 0.5 percentage points. It says only Germany received an upgrade as large among G7 economies.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "c29d663b66bda442"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxqo7quo3c2w",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxqo7quo3c2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "566092ecf1d9",
-   "created_at": "2026-10-13T09:05:41Z"
   }
  ]
 }
