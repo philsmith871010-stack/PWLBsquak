@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T10:10:51Z",
+ "generated_at": "2026-10-14T10:15:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "398fbf68b688",
+   "ts": "2026-10-14T10:15:18Z",
+   "headline": "Saudi shares fall after the attack on an Aramco building while other Gulf markets trade mixed",
+   "detail": "Reuters reports Saudi stocks fell in early trade on Wednesday after the attack on a Saudi Aramco site added to concerns over the escalating conflict between the kingdom and Yemen's Houthis. Other major Gulf markets were mixed.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "b4ced63a0b70ac69"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxtcuo7co62x",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxtcuo7co62x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cc8ef266116d",
+   "created_at": "2026-10-14T10:15:49Z"
+  },
   {
    "id": "83ebbe25cb54",
    "ts": "2026-10-14T10:10:31Z",
@@ -5891,39 +5912,6 @@
    "model": "opus",
    "run_id": "a15d00ce115d",
    "created_at": "2026-10-12T17:55:42Z"
-  },
-  {
-   "id": "3ce3cf0bc9cb",
-   "ts": "2026-10-12T17:40:59Z",
-   "headline": "Fed's Hammack calls for more restraint and warns market conditions could shift if policy is not acted on",
-   "detail": "Cleveland Fed President Hammack said further monetary restraint is needed and that her FOMC projection for the neutral rate is one of the higher ones. She also said low-income workers have moved from trading down to choosing which bills to pay.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "d32077b542f62ece",
-    "0085cc4d506ce943",
-    "fde715c60d3bac15"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp2tru7e524",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp2tru7e524"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp2ulcxqk2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp2ulcxqk2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxp2urbx322r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxp2urbx322r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e6a6a75eb9c4",
-   "created_at": "2026-10-12T17:45:51Z"
   }
  ]
 }
