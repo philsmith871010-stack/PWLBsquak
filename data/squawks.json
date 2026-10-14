@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T08:50:48Z",
+ "generated_at": "2026-10-14T09:01:18Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c8893b7a3ee4",
+   "ts": "2026-10-14T08:59:48Z",
+   "headline": "Trump is considering revisiting US intelligence sharing with Ukraine, Semafor reports",
+   "detail": "Semafor reports that the White House is actively discussing intelligence sharing with Ukraine. It says CIA Director Ratcliffe is opposed to halting it.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2018c9fa8c51b952",
+    "9b3bbb14acba6571"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt6ltbsbq2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt6ltbsbq2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt6nokosx2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt6nokosx2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bade17dbd287",
+   "created_at": "2026-10-14T09:01:18Z"
+  },
   {
    "id": "aa343a8f2ef4",
    "ts": "2026-10-14T08:50:13Z",
@@ -6018,45 +6045,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxoxz2tijc2a",
      "url": "https://bsky.app/profile/reuters.com/post/3mxoxz2tijc2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "65b2e8b8152a",
-   "created_at": "2026-10-12T16:50:49Z"
-  },
-  {
-   "id": "1bbf652dab7a",
-   "ts": "2026-10-12T16:48:31Z",
-   "headline": "Fed's Hammack says inflation is still too high and the economy needs more tightness, with an inflationary mindset the biggest risk",
-   "detail": "Cleveland Fed President Beth Hammack added that she is keeping an open mind on the right timing. These remarks follow her earlier comment that US interest rates need to go higher.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "bd49e39d092bb645",
-    "5b324e62e7855a87",
-    "079df5363a7a2130",
-    "36ab0ff0c553fb69"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoxttzpkd2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoxttzpkd2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoxupxkkj2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoxupxkkj2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoxvx5mzv2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoxvx5mzv2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoxwqblsl2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoxwqblsl2z"
     }
    ],
    "model": "opus",
