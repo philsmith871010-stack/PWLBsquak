@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T12:50:50Z",
+ "generated_at": "2026-10-14T12:55:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e17b1cc00755",
+   "ts": "2026-10-14T12:54:46Z",
+   "headline": "US gasoline prices jump 9.1% m/m in September, making up more than half of the monthly CPI increase",
+   "detail": "BLS data show headline CPI at 3.7% y/y in September, up from 3.4%, and core CPI at 2.6%, up from 2.4%. Gasoline rose 9.1% on the month and made up more than half of the monthly rise in CPI.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "f335d28a3d410793"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtlrtixjp26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtlrtixjp26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c76aded8aa43",
+   "created_at": "2026-10-14T12:55:42Z"
+  },
   {
    "id": "d3363fb30455",
    "ts": "2026-10-14T12:49:14Z",
@@ -5922,33 +5943,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpyhx7qtg2n",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpyhx7qtg2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8069aad17d52",
-   "created_at": "2026-10-13T05:05:39Z"
-  },
-  {
-   "id": "b194b50fbc27",
-   "ts": "2026-10-13T01:44:59Z",
-   "headline": "South Korea's President Lee says interest rates may have to rise",
-   "detail": "South Korea's president said the country may need to raise interest rates. The KOSPI index was reported down 6% in heavy selling on the same morning.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e03d55e3de189662",
-    "897465a5e6f8bb6a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxpvva2dda2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxpvva2dda2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxputy4c3k2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxputy4c3k2z"
     }
    ],
    "model": "opus",
