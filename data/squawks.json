@@ -1,8 +1,65 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T19:20:49Z",
+ "generated_at": "2026-10-14T19:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "01b201711534",
+   "ts": "2026-10-14T19:24:23Z",
+   "headline": "Fed's Goolsbee says tariff effects on prices are lasting longer than expected and he will not precommit to future policy moves",
+   "detail": "Chicago Fed President Goolsbee said energy, tariffs and services are keeping price pressures high, and that policy should stay data-dependent while the Fed returns inflation to 2%. He also said a slowdown in AI investment need not cause a recession and that he is watching the financial stability implications of AI investment.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "23ddb092fceecf90",
+    "2fc630a5d5617826",
+    "33ed7ffec1409313",
+    "5c12e345724daa58",
+    "bcf28909cbd3341d",
+    "f7b18f2de8c8489c",
+    "5e083796dc7dc2ac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxubkiog7v2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxubkiog7v2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxubkudgfq2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxubkudgfq2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxubkzmo7m2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxubkzmo7m2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxubep3t2r2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxubep3t2r2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxubfqziex24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxubfqziex24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxubkehnh72y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxubkehnh72y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxubkqevcg2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxubkqevcg2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c7798b57e5ac",
+   "created_at": "2026-10-14T19:25:41Z"
+  },
   {
    "id": "b9f0e7899803",
    "ts": "2026-10-14T19:16:52Z",
@@ -5916,27 +5973,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqunr2a3z2n",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqunr2a3z2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c1be78750338",
-   "created_at": "2026-10-13T10:55:41Z"
-  },
-  {
-   "id": "bf05344aa779",
-   "ts": "2026-10-13T10:54:46Z",
-   "headline": "NIESR analysis says UK long-term gilt yields are likely to stay elevated near 5% even if the Iran war ends soon",
-   "detail": "The National Institute of Economic and Social Research has published a Market Anatomy report on this year's rise in gilt yields. It says higher borrowing costs are likely to persist, leaving the UK public finances more exposed.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "b3023f165250cbfd"
-   ],
-   "sources": [
-    {
-     "author": "niesrorg.bsky.social",
-     "uri": "at://did:plc:6s7n3h2jcntzuvlw2movrget/app.bsky.feed.post/3mxqumdbaw22a",
-     "url": "https://bsky.app/profile/niesrorg.bsky.social/post/3mxqumdbaw22a"
     }
    ],
    "model": "opus",
