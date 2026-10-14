@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T08:45:47Z",
+ "generated_at": "2026-10-14T08:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "aa343a8f2ef4",
+   "ts": "2026-10-14T08:50:13Z",
+   "headline": "China buys 8-10 US soybean cargoes, its first such deals since the Trump-Xi summit, Reuters reports",
+   "detail": "Chinese state buyers bought 8-10 Panamax cargoes of US soybeans this week, three trade sources told Reuters. These are the first such purchases since the September summit in Washington between Presidents Trump and Xi.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "24be7bce828a1b79"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxt64jc4hs22",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxt64jc4hs22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7a6a3f9a2522",
+   "created_at": "2026-10-14T08:50:48Z"
+  },
   {
    "id": "cef8a7bda502",
    "ts": "2026-10-14T08:42:33Z",
@@ -6036,27 +6057,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxoxwqblsl2z",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxoxwqblsl2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "65b2e8b8152a",
-   "created_at": "2026-10-12T16:50:49Z"
-  },
-  {
-   "id": "733a6e30ecd8",
-   "ts": "2026-10-12T15:26:00Z",
-   "headline": "UK PM Burnham tells MPs a summit with EU leaders will be held on 20 November and calls his approach to the EU pragmatic",
-   "detail": "Prime Minister Andy Burnham gave the summit date in the Commons on Monday. City AM reports that two weeks earlier he had suggested he could look at a full return to the EU.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "50992b2396d15be7"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mxoxy67pbo72",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mxoxy67pbo72"
     }
    ],
    "model": "opus",
