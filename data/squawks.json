@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T09:25:43Z",
+ "generated_at": "2026-10-15T09:31:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "79270224aa63",
+   "ts": "2026-10-15T09:27:38Z",
+   "headline": "Economists poll: 54 of 63 expect the BoE to raise Bank Rate to 4.00% on 5 November",
+   "detail": "In the previous poll, 54 of 65 economists expected a hold. The same poll raised UK inflation forecasts to an average of 3.6% in Q4 2026, 3.8% in Q1 2027 and 3.0% in 2027, from 3.3%, 3.2% and 2.5% in September, and put GDP growth at 1.3% in 2026 and 1.2% in 2027, against 1.1% and 1.2% previously.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "7cf2fe1af0fc7f7d",
+    "3ef788cfa0d4f492",
+    "305ef846b6174921"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvqodygxn2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvqodygxn2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvqp64c6n2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvqp64c6n2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvqp6rrgg2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvqp6rrgg2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b7341029c83f",
+   "created_at": "2026-10-15T09:31:04Z"
+  },
   {
    "id": "8aa993c7594d",
    "ts": "2026-10-15T09:23:04Z",
@@ -6492,27 +6525,6 @@
      "author": "semafor.com",
      "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mxrrmt4esf2d",
      "url": "https://bsky.app/profile/semafor.com/post/3mxrrmt4esf2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2975835f3b60",
-   "created_at": "2026-10-13T19:35:42Z"
-  },
-  {
-   "id": "c3e642a4dfdf",
-   "ts": "2026-10-13T19:32:46Z",
-   "headline": "Trump accuses Iran-backed Houthis of deliberately trying to push up oil prices before the US midterms",
-   "detail": "The Financial Times reports Trump's accusation alongside its report of Saudi-led coalition strikes on Houthi targets in Sanaa.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "890ba30deb021481"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxrrklmv542p",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mxrrklmv542p"
     }
    ],
    "model": "opus",
