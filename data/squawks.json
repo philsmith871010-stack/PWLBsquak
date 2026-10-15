@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T16:31:06Z",
+ "generated_at": "2026-10-15T16:40:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "de794e51ce94",
+   "ts": "2026-10-15T16:35:51Z",
+   "headline": "US Treasury announces new Iran-related sanctions",
+   "detail": "The US Treasury Department has published a fresh round of Iran-related sanctions on its website. No details of who is targeted were given in the initial report.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5a28cd4e521091bc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwim2smgp2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwim2smgp2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1f7df2f433f0",
+   "created_at": "2026-10-15T16:40:51Z"
+  },
   {
    "id": "56b7830010fe",
    "ts": "2026-10-15T16:30:36Z",
@@ -6095,33 +6116,6 @@
    "model": "opus",
    "run_id": "385bed078b0e",
    "created_at": "2026-10-14T09:50:48Z"
-  },
-  {
-   "id": "df803472a052",
-   "ts": "2026-10-14T09:37:32Z",
-   "headline": "German 30-year Bund auction yields 3.8% with bid-to-cover of 1.4, down from 1.6 last time",
-   "detail": "Germany's 30-year Bund auction has an average yield of 3.8%, the same as at the previous sale. Its bid-to-cover ratio is 1.4, compared with 1.6 last time.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "5b84674d173a92fa",
-    "11911bfeff7f38b7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtar5c5r72r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtar5c5r72r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtarbmuis2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtarbmuis2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ced2f2042f5b",
-   "created_at": "2026-10-14T09:40:52Z"
   }
  ]
 }
