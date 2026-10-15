@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T21:31:02Z",
+ "generated_at": "2026-10-15T21:35:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "09a3a495b958",
+   "ts": "2026-10-15T21:31:25Z",
+   "headline": "New Zealand manufacturing PMI rises to 56.5 in September from 53.1",
+   "detail": "New Zealand's seasonally adjusted manufacturing PMI for September came in at 56.5, up from 53.1, according to the Business NZ/Bank NZ survey.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0127e5abaad0d912",
+    "b6c87fa50fa49814"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwz3tr4762w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwz3tr4762w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwz4la65j2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwz4la65j2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6b517462932c",
+   "created_at": "2026-10-15T21:35:40Z"
+  },
   {
    "id": "fef32e0499a4",
    "ts": "2026-10-15T21:27:06Z",
@@ -6047,45 +6074,6 @@
    "model": "opus",
    "run_id": "c8108807bcf2",
    "created_at": "2026-10-14T11:35:40Z"
-  },
-  {
-   "id": "b16e4bf9a3a8",
-   "ts": "2026-10-14T11:31:07Z",
-   "headline": "German foreign minister calls for a ceasefire for civilian shipping in the Black Sea and expects US support for Ukraine to continue",
-   "detail": "German Foreign Minister Johann Wadephul said Germany does not see a substantial cut in US support for Ukraine and that the US is right to push for Russia-Ukraine talks. He also called for a ceasefire covering civilian shipping in the Black Sea.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ad4045c18e9f1021",
-    "eaf3b869d7086d5f",
-    "173e1ba73dfd9c88",
-    "9d5f24c40f8b1b77"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxth4a6pzg2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxth4a6pzg2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtgtfsabk2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtgtfsabk2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtgug6one2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtgug6one2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtgwuk4222m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtgwuk4222m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dda318b3c138",
-   "created_at": "2026-10-14T11:31:10Z"
   }
  ]
 }
