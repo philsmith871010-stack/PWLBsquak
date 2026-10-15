@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T17:35:40Z",
+ "generated_at": "2026-10-15T17:50:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2655aec0d524",
+   "ts": "2026-10-15T17:49:44Z",
+   "headline": "French parliamentary committee rejects the revenue section of the social security budget, Le Monde reports",
+   "detail": "Deputies on the French National Assembly's social security committee voted down the revenue part of the social security budget bill, according to Le Monde.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "fe77fc925db02419"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwmq76sxe2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwmq76sxe2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "07bd670b72af",
+   "created_at": "2026-10-15T17:50:56Z"
+  },
   {
    "id": "3f38e0aeb79b",
    "ts": "2026-10-15T17:31:12Z",
@@ -6071,27 +6092,6 @@
    "model": "opus",
    "run_id": "987232c67f4d",
    "created_at": "2026-10-14T10:20:50Z"
-  },
-  {
-   "id": "398fbf68b688",
-   "ts": "2026-10-14T10:15:18Z",
-   "headline": "Saudi shares fall after the attack on an Aramco building while other Gulf markets trade mixed",
-   "detail": "Reuters reports Saudi stocks fell in early trade on Wednesday after the attack on a Saudi Aramco site added to concerns over the escalating conflict between the kingdom and Yemen's Houthis. Other major Gulf markets were mixed.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "b4ced63a0b70ac69"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxtcuo7co62x",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxtcuo7co62x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cc8ef266116d",
-   "created_at": "2026-10-14T10:15:49Z"
   }
  ]
 }
