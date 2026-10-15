@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T05:55:41Z",
+ "generated_at": "2026-10-15T06:01:11Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7f701b520a0d",
+   "ts": "2026-10-15T06:01:02Z",
+   "headline": "UK GDP grows 0.7% on a three-month basis, ahead of the 0.5% forecast and up from 0.4% previously",
+   "detail": "The UK three-month-on-three-month GDP estimate came in at 0.7%, against a forecast of 0.5% and a previous reading of 0.4%.",
+   "category": "data",
+   "importance": 3,
+   "source_event_ids": [
+    "44cd375169306bac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvf4waqv62y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvf4waqv62y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a99680f99fb7",
+   "created_at": "2026-10-15T06:01:11Z"
+  },
+  {
+   "id": "1aa9f938acbe",
+   "ts": "2026-10-15T05:57:30Z",
+   "headline": "BoJ's Koeda calls for a broad review of financial conditions, including neutral rates and funding demand",
+   "detail": "Bank of Japan board member Koeda said the assessment of financial conditions should be broad and should take in neutral rates and demand for funding.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1a88d99640450489"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvewmbqgj2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvewmbqgj2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a99680f99fb7",
+   "created_at": "2026-10-15T06:01:11Z"
+  },
   {
    "id": "616ec8fb23f0",
    "ts": "2026-10-15T05:55:24Z",
@@ -6512,48 +6554,6 @@
    "model": "opus",
    "run_id": "bee17dbeabad",
    "created_at": "2026-10-13T15:31:03Z"
-  },
-  {
-   "id": "2d4d24a60228",
-   "ts": "2026-10-13T15:19:33Z",
-   "headline": "India's foreign minister says Indian and US officials are resolving issues in trade deal talks and progress is positive",
-   "detail": "India's external affairs minister said Indian and US officials are working through outstanding issues in their trade deal negotiations, which he described as moving in the right direction.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1ba0ff3f0394391a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrdfsivja2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrdfsivja2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "363e1daa8605",
-   "created_at": "2026-10-13T15:20:51Z"
-  },
-  {
-   "id": "7187b694d7b5",
-   "ts": "2026-10-13T15:15:09Z",
-   "headline": "Resolution Foundation says UK household energy bills are set to rise again in January",
-   "detail": "The Resolution Foundation says the increase will come in the first quarter, when 46% of domestic gas use takes place.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "89dc41318a7eb1ae"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxrd5wiupd25",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxrd5wiupd25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7c631394e7b1",
-   "created_at": "2026-10-13T15:15:53Z"
   }
  ]
 }
