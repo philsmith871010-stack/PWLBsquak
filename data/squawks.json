@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T09:45:49Z",
+ "generated_at": "2026-10-15T09:50:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "12b6310862fe",
+   "ts": "2026-10-15T09:48:21Z",
+   "headline": "Spain to release 4.4 million barrels from its strategic reserves in October",
+   "detail": "An official at Spain's energy ministry says 4.4 million barrels will be drawn from the country's strategic reserves during October.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "c66b58198ce2248b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvrtg5kli2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvrtg5kli2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "545f5b9a24b5",
+   "created_at": "2026-10-15T09:50:55Z"
+  },
   {
    "id": "d6ed84ac3947",
    "ts": "2026-10-15T09:45:30Z",
@@ -6486,27 +6507,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrt7stqvt2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrt7stqvt2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "02e9f93735b9",
-   "created_at": "2026-10-13T20:05:45Z"
-  },
-  {
-   "id": "072463c0ab3a",
-   "ts": "2026-10-13T20:02:59Z",
-   "headline": "RBNZ is to start buying back April 2027 New Zealand government bonds",
-   "detail": "The Reserve Bank of New Zealand will begin repurchases of the April 2027 government bond.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "acec27ac01c65c6f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrtamxkxs2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrtamxkxs2y"
     }
    ],
    "model": "opus",
