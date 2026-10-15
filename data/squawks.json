@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T08:05:40Z",
+ "generated_at": "2026-10-15T08:10:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8b61ce8ea839",
+   "ts": "2026-10-15T08:09:33Z",
+   "headline": "BoE's Breeden says the UK economy has absorbed the energy shock better than she expected",
+   "detail": "Bank of England Deputy Governor Sarah Breeden said she was surprised at how the UK economy had coped with the energy shock. She added that companies say they are focusing on cutting costs rather than passing the energy price shock on to customers.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "993427983dfd4bc4",
+    "cd268e6c4af2b5a6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvmcqckju2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvmcqckju2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvmeldy7u24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvmeldy7u24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3930667ff686",
+   "created_at": "2026-10-15T08:10:50Z"
+  },
   {
    "id": "aceb309ec64c",
    "ts": "2026-10-15T08:03:47Z",
@@ -6504,33 +6531,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrljm3jee2w",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrljm3jee2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d10e5a1872de",
-   "created_at": "2026-10-13T17:45:48Z"
-  },
-  {
-   "id": "9c6f69e74e6e",
-   "ts": "2026-10-13T17:42:20Z",
-   "headline": "Netanyahu's office denies he is urging Trump to attack Iran before the elections",
-   "detail": "Israel's N12 News reports that the Israeli prime minister's office has denied claims that Netanyahu is pressing Trump to strike Iran before the elections. The same outlet quotes a US official as saying Washington is continuing to increase pressure on Iran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "58d0b4e6d2c229f4",
-    "45057f9abb46965b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrlf4f5kc2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrlf4f5kc2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrldffh6m2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrldffh6m2n"
     }
    ],
    "model": "opus",
