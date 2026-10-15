@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T14:50:51Z",
+ "generated_at": "2026-10-15T15:01:25Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "374e2b3affa8",
+   "ts": "2026-10-15T14:59:18Z",
+   "headline": "Houthis claim missile strike on Aden presidential complex, calling Saudi forces anywhere a legitimate target",
+   "detail": "Reports say a missile attack on the presidential complex in Aden killed two security guards. The Houthis said they were targeting a Saudi military operations base and would strike Saudi military deployments wherever they are.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "74e686599acda441",
+    "9e892e56482cf200"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwd77plzu2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwd77plzu2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwd7gojkg2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwd7gojkg2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4145cf91c39e",
+   "created_at": "2026-10-15T15:01:25Z"
+  },
   {
    "id": "2f7c8ed66d8d",
    "ts": "2026-10-15T14:48:02Z",
@@ -6078,39 +6105,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt46uug7y2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt46uug7y2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "962fe18cc18c",
-   "created_at": "2026-10-14T08:15:47Z"
-  },
-  {
-   "id": "a6c05ec341bf",
-   "ts": "2026-10-14T08:11:32Z",
-   "headline": "ECB's Elderson says banks and supervisors must look beyond data-driven models to deal with non-linear climate and nature risks",
-   "detail": "The ECB Executive Board member called for scenario analysis and stronger risk management frameworks. He said uncertainty also comes from demographics, AI and quantum computing.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "fa6efd32ed512a85",
-    "c8b4a73485f23416",
-    "560c0fe8b2481c56"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt3xefqyi2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt3xefqyi2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt3xljud72r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt3xljud72r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt3xpu53r2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt3xpu53r2r"
     }
    ],
    "model": "opus",
