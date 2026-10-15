@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T05:45:48Z",
+ "generated_at": "2026-10-15T05:50:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4589de431a0c",
+   "ts": "2026-10-15T05:50:28Z",
+   "headline": "South Korea's KOSPI extends its slide to 9% in a sharp sell-off",
+   "detail": "South Korea's KOSPI index was reported down 9% in a sharp sell-off, following an earlier 20-minute trading halt after an 8% drop.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "e1bdd92216bf1f5c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvejzymvc2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvejzymvc2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2a14ccb135c0",
+   "created_at": "2026-10-15T05:50:46Z"
+  },
+  {
+   "id": "3c50c8cf23e8",
+   "ts": "2026-10-15T05:48:41Z",
+   "headline": "BoJ's Koeda signals a neutral rate well above 1% and sees underlying inflation settling near 2%",
+   "detail": "Bank of Japan board member Koeda indicated that the neutral interest rate is considerably above 1% and said underlying inflation is stabilising at around 2%. She also said there needs to be discussion of whether the price target has been achieved.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "37f8d7d8651db7f2",
+    "c457aa1dc4e741c2",
+    "5684a9a43c1405e2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvece4nl52r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvece4nl52r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvedvxsbm2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvedvxsbm2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvegtom4h24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvegtom4h24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2a14ccb135c0",
+   "created_at": "2026-10-15T05:50:46Z"
+  },
   {
    "id": "fc493ffb993d",
    "ts": "2026-10-15T05:45:37Z",
@@ -6476,48 +6530,6 @@
    "model": "opus",
    "run_id": "7c631394e7b1",
    "created_at": "2026-10-13T15:15:53Z"
-  },
-  {
-   "id": "3e8d1c0864ba",
-   "ts": "2026-10-13T14:14:36Z",
-   "headline": "UK defence secretary Streeting says the MoD must end its culture of overspending and live within its means",
-   "detail": "Defence Secretary Wes Streeting said the Ministry of Defence cannot have a culture of overspending and has a responsibility to stay within its budget. No specific spending measures were announced.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "2ff434c562e91653"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxr7rnsx422q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxr7rnsx422q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "93e178b6c0f4",
-   "created_at": "2026-10-13T14:15:54Z"
-  },
-  {
-   "id": "d511daff622f",
-   "ts": "2026-10-13T14:01:03Z",
-   "headline": "US existing home sales come in at 3.99m, above the 3.95m forecast",
-   "detail": "US existing home sales were 3.99m, against a forecast of 3.95m. The previous reading of 3.98m was revised to 3.93m.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "9d9073d86ed448f9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxr6zglrka2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxr6zglrka2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "899c0f368478",
-   "created_at": "2026-10-13T14:01:16Z"
   }
  ]
 }
