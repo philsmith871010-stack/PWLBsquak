@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T11:10:47Z",
+ "generated_at": "2026-10-15T11:20:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c8e34b2dbac7",
+   "ts": "2026-10-15T11:18:31Z",
+   "headline": "Russia is suspected of striking two tankers in NATO waters, FT reports",
+   "detail": "The Financial Times reports that Russia is suspected of attacks on two tankers in waters belonging to NATO members. The report gives no market reaction.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4a421a5176f1a6da"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvwuneizp2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvwuneizp2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "554679f16c6a",
+   "created_at": "2026-10-15T11:20:49Z"
+  },
   {
    "id": "00fb03604384",
    "ts": "2026-10-15T11:07:27Z",
@@ -6449,33 +6470,6 @@
    "model": "opus",
    "run_id": "0c13c7903412",
    "created_at": "2026-10-13T21:10:48Z"
-  },
-  {
-   "id": "f0a5f1035e31",
-   "ts": "2026-10-13T21:05:05Z",
-   "headline": "Israeli TV reports no intelligence change justifying an Israeli-US move against Iran in the coming weeks",
-   "detail": "Israel's N12 News reports that Israel, the US and Gulf states are coordinating and preparing for a range of scenarios, but that no intelligence change justifies a joint Israeli-US move in the coming weeks. The channel also reports that Iran has carried out several ballistic missile tests in recent days, which the Israeli army describes as a slow and only partial restoration of its missile capability.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "dba1100002e24948",
-    "46355366628c18f3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrwpnmas624",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrwpnmas624"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrwoq5zzg2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrwoq5zzg2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8bc3c6570eba",
-   "created_at": "2026-10-13T21:05:41Z"
   }
  ]
 }
