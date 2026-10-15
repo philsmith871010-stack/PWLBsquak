@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T15:50:47Z",
+ "generated_at": "2026-10-15T16:05:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4e11bd54de92",
+   "ts": "2026-10-15T16:04:47Z",
+   "headline": "Chancellor Healey is preparing to raise taxes on banks in the Budget, Guardian reports",
+   "detail": "The Guardian reports that Chancellor Rachel Healey is set to increase taxes on banks in the upcoming Budget. No figures were given.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "20570dbe897009df"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwgujg2pv24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwgujg2pv24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "43c443ccb843",
+   "created_at": "2026-10-15T16:05:45Z"
+  },
   {
    "id": "0cbe038317e2",
    "ts": "2026-10-15T15:47:15Z",
@@ -6095,27 +6116,6 @@
    "model": "opus",
    "run_id": "bade17dbd287",
    "created_at": "2026-10-14T09:01:18Z"
-  },
-  {
-   "id": "aa343a8f2ef4",
-   "ts": "2026-10-14T08:50:13Z",
-   "headline": "China buys 8-10 US soybean cargoes, its first such deals since the Trump-Xi summit, Reuters reports",
-   "detail": "Chinese state buyers bought 8-10 Panamax cargoes of US soybeans this week, three trade sources told Reuters. These are the first such purchases since the September summit in Washington between Presidents Trump and Xi.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "24be7bce828a1b79"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxt64jc4hs22",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxt64jc4hs22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7a6a3f9a2522",
-   "created_at": "2026-10-14T08:50:48Z"
   }
  ]
 }
