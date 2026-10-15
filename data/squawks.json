@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T16:50:59Z",
+ "generated_at": "2026-10-15T17:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7a43efd70198",
+   "ts": "2026-10-15T17:15:44Z",
+   "headline": "Netanyahu warns Iran against attacking Israel and says Israel could act on its own, Israeli reports say",
+   "detail": "According to Israeli media reports, Prime Minister Netanyahu said an Iranian attack on Israel would be a grave mistake and that Israel has the option of acting independently. The reports carried no market reaction.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "bc837bfff2e49886"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwktfajrr2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwktfajrr2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "82d6fba94c8b",
+   "created_at": "2026-10-15T17:15:52Z"
+  },
   {
    "id": "8f53cfd808c4",
    "ts": "2026-10-15T16:50:12Z",
@@ -6066,27 +6087,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtcm4fngs2f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtcm4fngs2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "748feae74ca9",
-   "created_at": "2026-10-14T10:10:51Z"
-  },
-  {
-   "id": "7ab8764f74eb",
-   "ts": "2026-10-14T10:09:36Z",
-   "headline": "Russia restarts diesel exports from Primorsk after the US temporarily eases sanctions under the Trump deal",
-   "detail": "Russia has resumed diesel shipments from its Baltic port of Primorsk, with a 40,000-ton tanker heading to Morocco. Moscow expects its exports to reach 3-3.5 million tons a month by the end of the year.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "09a6f1c0b64d57ad"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtckimkb32w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtckimkb32w"
     }
    ],
    "model": "opus",
