@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T18:35:41Z",
+ "generated_at": "2026-10-15T19:31:07Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4da2467ffa7f",
+   "ts": "2026-10-15T19:27:41Z",
+   "headline": "White House is drawing up plans to use the 'mother of all bombs' against Iran, CBS News reports",
+   "detail": "CBS News, citing sources, reports that the White House is preparing plans to deploy the weapon known as the 'mother of all bombs' on Iran. No market reaction was reported in the batch.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c23340a50d2476a7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxws7dpsvi2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxws7dpsvi2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "da54a2db6a4b",
+   "created_at": "2026-10-15T19:31:07Z"
+  },
   {
    "id": "cea68bc5ecce",
    "ts": "2026-10-15T18:32:03Z",
@@ -6059,33 +6080,6 @@
    "model": "opus",
    "run_id": "3f3687f4233c",
    "created_at": "2026-10-14T10:50:50Z"
-  },
-  {
-   "id": "6be5a45aba8b",
-   "ts": "2026-10-14T10:27:59Z",
-   "headline": "European Commission warns of a very difficult winter, with high energy prices and an affordability crisis",
-   "detail": "A European Commission spokesperson says the EU faces high energy prices, an affordability crisis and a very volatile, unpredictable outlook this winter.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "b0959a8b9c240dfe",
-    "13d201ebb246cb2a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtdle2zgd2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtdle2zgd2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtdpuyhzu2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtdpuyhzu2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e3721c40d65a",
-   "created_at": "2026-10-14T10:31:04Z"
   }
  ]
 }
