@@ -1,8 +1,104 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T12:05:41Z",
+ "generated_at": "2026-10-15T12:10:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b7378e128bca",
+   "ts": "2026-10-15T12:07:22Z",
+   "headline": "China's finance minister Lan says China will implement a more active fiscal policy",
+   "detail": "China's finance minister Lan said fiscal policy will become more active and that the economy continues on a stable, positive trend. He said protectionism and geopolitical risks are hurting growth.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "36c236b4a1613ced",
+    "155068e6546f41a4",
+    "413a86aaa471e75b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvzlyqccz2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvzlyqccz2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvzno5gj52s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvzno5gj52s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvzoczow32r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvzoczow32r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5a25ba32cc3f",
+   "created_at": "2026-10-15T12:10:49Z"
+  },
+  {
+   "id": "e766fde81d66",
+   "ts": "2026-10-15T12:06:36Z",
+   "headline": "Senior Iranian military official Sayyari says the Strait of Hormuz is closed, reports say",
+   "detail": "Reports say Rear Admiral Habibollah Sayyari, a senior Iranian military commander, has stated that the Strait of Hormuz is closed. No market reaction has been reported yet.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "5b1a2e990e88f91d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvzkmlrlw2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvzkmlrlw2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5a25ba32cc3f",
+   "created_at": "2026-10-15T12:10:49Z"
+  },
+  {
+   "id": "9a23336512dc",
+   "ts": "2026-10-15T12:06:14Z",
+   "headline": "Ukraine's foreign minister says Russia is openly rejecting Trump's peace proposals",
+   "detail": "Ukraine's foreign minister said Russia rejects peace and is openly rejecting President Trump's proposals, and argued that easing pressure on Moscow has made it more defiant.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7d1c0e43f252d8fe"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvzjxy5eh2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvzjxy5eh2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5a25ba32cc3f",
+   "created_at": "2026-10-15T12:10:49Z"
+  },
+  {
+   "id": "09df54e91768",
+   "ts": "2026-10-15T12:05:40Z",
+   "headline": "Poll finds UK fiscal headroom has probably been eroded to £10-12bn",
+   "detail": "A poll finds the UK government's current fiscal headroom has probably fallen to £10-12bn. An earlier poll found the government should aim for £15-16bn of headroom in the October Budget.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "90ef75445ec965da"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvzixhqqz2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvzixhqqz2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5a25ba32cc3f",
+   "created_at": "2026-10-15T12:10:49Z"
+  },
   {
    "id": "9f38fc06e6d0",
    "ts": "2026-10-15T12:05:29Z",
@@ -6375,90 +6471,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsfqiisyt2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsfqiisyt2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "340c8440e90e",
-   "created_at": "2026-10-14T05:01:16Z"
-  },
-  {
-   "id": "7ae516728c66",
-   "ts": "2026-10-14T00:50:16Z",
-   "headline": "Deloitte survey finds large UK firms expect inflation and interest rates to rise over the next year",
-   "detail": "The Deloitte survey, published on Wednesday, found big British companies are focusing more on cutting costs. It comes two weeks before Chancellor John Healey's first Budget.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "faf18191982d338b"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxsdcd4gfa2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxsdcd4gfa2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "340c8440e90e",
-   "created_at": "2026-10-14T05:01:16Z"
-  },
-  {
-   "id": "d8a6482b982f",
-   "ts": "2026-10-14T00:10:16Z",
-   "headline": "Iran is using new tactics to step up attacks on Hormuz shipping before the US midterms, senior Iranian officials say",
-   "detail": "Two senior Iranian officials told Reuters that Iran aims to keep oil prices high and influence the US midterm elections by targeting ships in the Strait of Hormuz.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c10622510d9d2751"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxsb2rgnzm2j",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxsb2rgnzm2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "340c8440e90e",
-   "created_at": "2026-10-14T05:01:16Z"
-  },
-  {
-   "id": "6775371be72a",
-   "ts": "2026-10-13T23:45:14Z",
-   "headline": "Chancellor Healey plans to make online marketplaces collect tax owed by sellers on their platforms, Times reports",
-   "detail": "The Times reported that the government plans to make platforms such as Amazon, eBay and Temu responsible for collecting tax owed by retailers selling through them, as part of a tax crackdown.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "696bb2b7741b20d3"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxs7nz6sgp2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxs7nz6sgp2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "340c8440e90e",
-   "created_at": "2026-10-14T05:01:16Z"
-  },
-  {
-   "id": "0bd95cce52e7",
-   "ts": "2026-10-13T22:05:12Z",
-   "headline": "BoE's Bailey says UK companies are concentrating hard on holding down costs as Iran war lifts energy prices",
-   "detail": "BoE Governor Andrew Bailey said British firms are focusing closely on containing costs during the energy price surge caused by the Iran war, Reuters reported.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "bf5b64b789b02f28"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxs235o7uz2t",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxs235o7uz2t"
     }
    ],
    "model": "opus",
