@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T12:55:41Z",
+ "generated_at": "2026-10-15T13:01:29Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ddbc27251879",
+   "ts": "2026-10-15T12:57:24Z",
+   "headline": "US 10-year Treasury yield decline widens to more than 28bp since yesterday",
+   "detail": "A market commentary account reports that the US 10-year Treasury yield has fallen by more than 28bp since yesterday. This is a larger fall than the 11bp drop reported earlier in the session.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d30c7611f9cfb2de"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw4fgvm652r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw4fgvm652r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0361bf5d0a47",
+   "created_at": "2026-10-15T13:01:29Z"
+  },
   {
    "id": "966c0fb9b7f7",
    "ts": "2026-10-15T12:53:28Z",
@@ -6066,57 +6087,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsommdpid26",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsommdpid26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aa44e5105d0e",
-   "created_at": "2026-10-14T05:15:47Z"
-  },
-  {
-   "id": "7f46f709f15f",
-   "ts": "2026-10-14T03:48:47Z",
-   "headline": "ECB's Moulin says Middle East conflict and energy are the main drivers of inflation and expectations remain well anchored",
-   "detail": "The Bank of France governor said higher yields may weigh on demand and call for a more moderate policy response to the inflation shock. He also said France must urgently show it is committed to fiscal consolidation and pass its 2027 budget.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "3d735308b101aa9c",
-    "94c862e265c65691",
-    "90be9ec076208a56",
-    "eed4b7950c40602f",
-    "1a57eab42dd4ea55",
-    "91badd966b4efe4b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsnbjgrrn2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsnbjgrrn2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsnhpbcwf2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsnhpbcwf2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsnktwxv22d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsnktwxv22d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsnn2hnym2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsnn2hnym2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxso2fgvgn2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxso2fgvgn2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxso4kmskp26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxso4kmskp26"
     }
    ],
    "model": "opus",
