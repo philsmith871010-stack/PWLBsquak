@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T14:10:55Z",
+ "generated_at": "2026-10-15T14:15:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "030b4732f901",
+   "ts": "2026-10-15T14:13:10Z",
+   "headline": "France and Germany would let the UK into EU car policy if it aligns with EU tariffs on China, FT reports",
+   "detail": "The Financial Times reports that France and Germany are willing to admit the UK to EU car policy on condition that it aligns with the EU on tariffs on China.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "dc8504b5a50ade80"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwamwylga2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwamwylga2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "393a5a9e16a5",
+   "created_at": "2026-10-15T14:15:59Z"
+  },
   {
    "id": "cb40e09ffb28",
    "ts": "2026-10-15T14:08:32Z",
@@ -6125,27 +6146,6 @@
    "model": "opus",
    "run_id": "a0716a7d806a",
    "created_at": "2026-10-14T07:20:54Z"
-  },
-  {
-   "id": "de60ce00fe42",
-   "ts": "2026-10-14T07:11:05Z",
-   "headline": "Eurozone bond yields fall ahead of US CPI data and bond auctions",
-   "detail": "Eurozone government bond yields were reported lower on Wednesday morning, ahead of the US CPI release and upcoming auctions. No figures were given for the size of the move.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "08e912f829875691"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsylbe6zv2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsylbe6zv2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fdfebc637777",
-   "created_at": "2026-10-14T07:15:49Z"
   }
  ]
 }
