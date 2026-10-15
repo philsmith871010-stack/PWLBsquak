@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T16:40:51Z",
+ "generated_at": "2026-10-15T16:45:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "67ee36ffb524",
+   "ts": "2026-10-15T16:41:46Z",
+   "headline": "US issues new sanctions and licences covering Iran, Cuba and Russia",
+   "detail": "OFAC published new sanctions and licences relating to Iran, Cuba and Russia. The US Treasury website also showed an Iran-related general licence allowing transactions involving the International Development Bank for Investment and Finance to be wound down.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ac88fba038a0652a",
+    "7e25d7ded35c9654"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwiwnpqym2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwiwnpqym2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwiwecxzx26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwiwecxzx26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e337c197f9b3",
+   "created_at": "2026-10-15T16:45:49Z"
+  },
+  {
+   "id": "68d76ca10f21",
+   "ts": "2026-10-15T16:41:43Z",
+   "headline": "France and Germany agree a deal on the future of the car industry, diplomats say",
+   "detail": "Diplomats say France and Germany have reached a deal on the future of the car industry. No further terms were reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0c0a01a37a468150"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwiwknpdp26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwiwknpdp26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e337c197f9b3",
+   "created_at": "2026-10-15T16:45:49Z"
+  },
   {
    "id": "de794e51ce94",
    "ts": "2026-10-15T16:35:51Z",
@@ -6056,66 +6104,6 @@
    "model": "opus",
    "run_id": "eaf1a7fc8fe8",
    "created_at": "2026-10-14T09:55:42Z"
-  },
-  {
-   "id": "cae0ec1ec61d",
-   "ts": "2026-10-14T09:52:12Z",
-   "headline": "Kremlin says the terms of Trump's proposed energy ceasefire have not been set out and work is continuing",
-   "detail": "The Kremlin said the provisions of the energy ceasefire proposed by the US president remain unclear and that work on it is in progress. It also accused European countries of acting to prolong the war in Ukraine while US negotiators pursue a peace settlement.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d136be5b4e3d4aee",
-    "457541e093b55bc3",
-    "d6e7e54b0bd74080",
-    "168a48cfbf22e91c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtblejmh62m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtblejmh62m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtbpltorg2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtbpltorg2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtbkhqlmg2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtbkhqlmg2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtbqhysql2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtbqhysql2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "eaf1a7fc8fe8",
-   "created_at": "2026-10-14T09:55:42Z"
-  },
-  {
-   "id": "bca0d2ccb964",
-   "ts": "2026-10-14T09:47:21Z",
-   "headline": "Israel's Netanyahu says he opposes a pre-emptive attack on Iran for now, ahead of the elections, reports say",
-   "detail": "Reports say the Israeli prime minister told IDF Radio that a pre-emptive strike on Iran before the elections would not suit Israel at present. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "28858cdc75741efb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtbcorr332y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtbcorr332y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "385bed078b0e",
-   "created_at": "2026-10-14T09:50:48Z"
   }
  ]
 }
