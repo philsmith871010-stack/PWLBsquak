@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T17:15:52Z",
+ "generated_at": "2026-10-15T17:35:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3f38e0aeb79b",
+   "ts": "2026-10-15T17:31:12Z",
+   "headline": "Chancellor Healey hints at a higher bank levy in the Budget, saying decisions are coming, FT reports",
+   "detail": "The Financial Times reports that Chancellor Healey referred to upcoming 'decisions' as the financial sector prepares for an increase in a key levy in the Budget. This follows an earlier Guardian report that she is preparing to raise taxes on banks.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "f38f51fdfb5b4f33"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxwloztq332i",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mxwloztq332i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "828524d828d0",
+   "created_at": "2026-10-15T17:35:40Z"
+  },
   {
    "id": "7a43efd70198",
    "ts": "2026-10-15T17:15:44Z",
@@ -6071,27 +6092,6 @@
    "model": "opus",
    "run_id": "cc8ef266116d",
    "created_at": "2026-10-14T10:15:49Z"
-  },
-  {
-   "id": "83ebbe25cb54",
-   "ts": "2026-10-14T10:10:31Z",
-   "headline": "Fed's Bowman says the Fed is planning a full reorganisation to fix the risk-averse culture seen in the SVB collapse",
-   "detail": "Fed Vice Chair for Supervision Bowman said work is under way on a complete reorganisation to address the culture problems that surfaced during the Silicon Valley Bank failure.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0d5471a74320a486"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtcm4fngs2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtcm4fngs2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "748feae74ca9",
-   "created_at": "2026-10-14T10:10:51Z"
   }
  ]
 }
