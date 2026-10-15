@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T21:25:41Z",
+ "generated_at": "2026-10-15T21:31:02Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fef32e0499a4",
+   "ts": "2026-10-15T21:27:06Z",
+   "headline": "Fed's Hammack says financial conditions do not currently look restrictive",
+   "detail": "Cleveland Fed President Beth Hammack said financial conditions do not appear restrictive at present. She had earlier raised concerns about input cost pressures and inflation.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "83ff233431eeb6e9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwyuutmvt2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwyuutmvt2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1bef7ddbbd33",
+   "created_at": "2026-10-15T21:31:02Z"
+  },
   {
    "id": "82841c947155",
    "ts": "2026-10-15T21:25:12Z",
@@ -6060,33 +6081,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtgwuk4222m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtgwuk4222m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dda318b3c138",
-   "created_at": "2026-10-14T11:31:10Z"
-  },
-  {
-   "id": "09af054b8d85",
-   "ts": "2026-10-14T11:30:56Z",
-   "headline": "Russia's Novak says US diesel deal lets Russia raise output and refining, with supplies going to world markets and the US",
-   "detail": "Russian Deputy Prime Minister Alexander Novak said the Russia-US diesel deal gives Russia room to increase its production and refining volumes. He said supplies will go both to global markets and directly to the United States.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "4c0b0a73bbaad1d1",
-    "fbf831df2a4ecaa5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxth3vwbbb24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxth3vwbbb24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxth43djoa2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxth43djoa2r"
     }
    ],
    "model": "opus",
