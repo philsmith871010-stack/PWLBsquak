@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T07:31:02Z",
+ "generated_at": "2026-10-15T08:01:13Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5645fc20588d",
+   "ts": "2026-10-15T08:00:55Z",
+   "headline": "ECB's Kazaks says inflationary forces remain stronger in the near term",
+   "detail": "ECB Governing Council member Kazaks said inflationary pressures are still stronger in the immediate future.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "75bf1cdb6e4ff7db"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvltcfkzg2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvltcfkzg2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5f50bd435574",
+   "created_at": "2026-10-15T08:01:13Z"
+  },
+  {
+   "id": "4403593cbef5",
+   "ts": "2026-10-15T07:59:47Z",
+   "headline": "German 10-year Bund yield falls 8.5bp to 3.3819%, its lowest since 9 September",
+   "detail": "The 10-year German government bond yield was last down 8.5bp at 3.3819% in early European trading, its lowest level since 9 September.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "b39d6ac814cfde73"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvlrbncjg2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvlrbncjg2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5f50bd435574",
+   "created_at": "2026-10-15T08:01:13Z"
+  },
   {
    "id": "856716e66a39",
    "ts": "2026-10-15T07:30:42Z",
@@ -6482,54 +6524,6 @@
    "model": "opus",
    "run_id": "7a8dac5941c2",
    "created_at": "2026-10-13T17:35:41Z"
-  },
-  {
-   "id": "8ecdbb42d76d",
-   "ts": "2026-10-13T17:31:41Z",
-   "headline": "Zelensky says Ukraine has sent the US proposals for further talks and is ready to meet in the coming days",
-   "detail": "Ukraine's president said his team has sent the US side proposals for possible next meetings and further talks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3363378e0ac506d6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrks2skxd2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrks2skxd2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7a8dac5941c2",
-   "created_at": "2026-10-13T17:35:41Z"
-  },
-  {
-   "id": "ac83cc0503fd",
-   "ts": "2026-10-13T17:30:53Z",
-   "headline": "IRGC Navy commander threatens to sink US ships that approach the Strait of Hormuz, Iranian reports say",
-   "detail": "Iranian reports quote Rear Admiral Azmaei, commander of the IRGC Navy, as saying Iran is waiting for American ships to approach the entrance to the Strait of Hormuz so that it can sink them. He also challenged the US to come closer if it believes the strait is open.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b0dff8daa7a96fbe",
-    "240291f35ad695f3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrkqnq6ez2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrkqnq6ez2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrki65vfj2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrki65vfj2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9e872e1a83ea",
-   "created_at": "2026-10-13T17:31:06Z"
   }
  ]
 }
