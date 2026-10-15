@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T20:20:50Z",
+ "generated_at": "2026-10-15T20:48:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7d5b1b1118fe",
+   "ts": "2026-10-15T20:46:56Z",
+   "headline": "Fed's Hammack says she is hearing more from lower-income Americans who are struggling with inflation",
+   "detail": "Cleveland Fed President Beth Hammack made the remarks on 15 October. No market reaction was reported.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8fa883b384cdbaa7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwwn23ou426",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwwn23ou426"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c81a1fd394b5",
+   "created_at": "2026-10-15T20:48:15Z"
+  },
+  {
+   "id": "761add0dd4c7",
+   "ts": "2026-10-15T20:44:34Z",
+   "headline": "Pentagon says its 'NATO 3.0' plan would cut US troop numbers in Europe and shift focus to the Pacific",
+   "detail": "The Pentagon said the NATO 3.0 plan sets out a rebalancing of the alliance, with fewer US troops in Europe and more US attention on the Pacific and other regions. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "cf65cf49add50394",
+    "1119c98de0ad12b6",
+    "31efe81fbe9f4e1e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwwisyomr2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwwisyomr2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwwisffq426",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwwisffq426"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwwkaflvs2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwwkaflvs2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c81a1fd394b5",
+   "created_at": "2026-10-15T20:48:15Z"
+  },
   {
    "id": "16a62ffe60ac",
    "ts": "2026-10-15T20:17:05Z",
@@ -6038,48 +6092,6 @@
    "model": "opus",
    "run_id": "77446dad5fc6",
    "created_at": "2026-10-14T11:20:48Z"
-  },
-  {
-   "id": "346716bd25a3",
-   "ts": "2026-10-14T11:04:09Z",
-   "headline": "Houthis claim to have driven Saudi forces out of Bab al-Mandab and Dhubab airport",
-   "detail": "A Houthi spokesperson says Saudi forces have been expelled from the Bab al-Mandab area and Dhubab airport, with vehicles burned or captured and personnel taken prisoner. The spokesperson says footage will be released at 4 PM on 14 October.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "33d51a0f0058b39b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtflz7huy26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtflz7huy26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "18b6bdea0612",
-   "created_at": "2026-10-14T11:05:43Z"
-  },
-  {
-   "id": "a4db4b908bc2",
-   "ts": "2026-10-14T10:59:41Z",
-   "headline": "Putin's envoy Dmitriev says Russia will keep up economic cooperation with the US beyond diesel",
-   "detail": "Kremlin envoy Kirill Dmitriev said Russia's economic cooperation with the United States would continue and would not be limited to diesel. The remark follows reports that Russia and the US are discussing diesel supply contracts.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ddad8ebbb6779a54"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtfdzy7nr24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtfdzy7nr24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "592984b6dd4c",
-   "created_at": "2026-10-14T11:01:18Z"
   }
  ]
 }
