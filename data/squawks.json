@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T09:05:40Z",
+ "generated_at": "2026-10-15T09:10:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1e00cc324796",
+   "ts": "2026-10-15T09:09:34Z",
+   "headline": "Houthis deny striking Saudi territory today and reject Saudi claims of an attack aimed at Medina",
+   "detail": "Yemen's Houthi armed forces said they had carried out no operations against Saudi Arabia on Thursday and called Saudi claims of an attack aimed at the city of Medina false. The statement follows Houthi threats of further attacks on Saudi Arabia earlier in the day.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "61f44678f9a7bafe"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvpo2ucqi24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvpo2ucqi24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8fdd9c15b8b7",
+   "created_at": "2026-10-15T09:10:47Z"
+  },
   {
    "id": "72c084d1a865",
    "ts": "2026-10-15T09:05:05Z",
@@ -6473,33 +6494,6 @@
    "model": "opus",
    "run_id": "b30637f35078",
    "created_at": "2026-10-13T19:05:40Z"
-  },
-  {
-   "id": "62a515d76914",
-   "ts": "2026-10-13T18:51:14Z",
-   "headline": "Saudi civil defence says the threat to Riyadh has passed after the earlier aerial threat warning",
-   "detail": "Saudi civil defence says the danger over Riyadh has lifted. This follows its earlier warning of an aerial threat to the capital during Houthi missile attacks on the kingdom.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e37d083bd266d812",
-    "b7fb2795775f33bb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrpad7xst26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrpad7xst26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrpcp7is224",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrpcp7is224"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f4dcd0e80e5d",
-   "created_at": "2026-10-13T18:55:40Z"
   }
  ]
 }
