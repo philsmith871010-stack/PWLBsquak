@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T10:10:47Z",
+ "generated_at": "2026-10-15T10:20:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "38b22123ac66",
+   "ts": "2026-10-15T10:17:54Z",
+   "headline": "ECB's Moulin says he is confident about financial stability in France, CNBC reports",
+   "detail": "Speaking to CNBC, Moulin said he was confident about France's financial stability. In the same interview he said the French deficit could be cut to 3% within three years.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ee32477baff42ceb",
+    "93eeaca193c36ba1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvtiae7tk2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvtiae7tk2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvtgrzeyf2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvtgrzeyf2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "95c97a42d3cf",
+   "created_at": "2026-10-15T10:20:49Z"
+  },
+  {
+   "id": "87ee39d41226",
+   "ts": "2026-10-15T10:16:03Z",
+   "headline": "German 10-year Bund yield falls further, down 10bp to 3.37%, its lowest since 8 September",
+   "detail": "The German 10-year yield dropped 10bp on the day to 3.37%, its lowest level since 8 September, according to a market wire report.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "0325c664bb6ed10c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvtewgpxr2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvtewgpxr2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "95c97a42d3cf",
+   "created_at": "2026-10-15T10:20:49Z"
+  },
   {
    "id": "bec5b5afb415",
    "ts": "2026-10-15T10:09:57Z",
@@ -6434,48 +6482,6 @@
    "model": "opus",
    "run_id": "42fbb72314de",
    "created_at": "2026-10-13T20:35:42Z"
-  },
-  {
-   "id": "da90982aa32a",
-   "ts": "2026-10-13T20:33:01Z",
-   "headline": "Saudi Aramco headquarters in Dhahran is reported hit during Tuesday's Houthi attacks",
-   "detail": "A market news account reports that Saudi Aramco's Dhahran headquarters was hit during Tuesday's Houthi attacks on Saudi Arabia. The reports came after earlier accounts of explosions near the site. No market reaction was reported in the posts.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "298161e638589236"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxruwdi2yz2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxruwdi2yz2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "42fbb72314de",
-   "created_at": "2026-10-13T20:35:42Z"
-  },
-  {
-   "id": "6eb0835a8210",
-   "ts": "2026-10-13T20:26:56Z",
-   "headline": "Fed's Collins says economic uncertainty is elevated",
-   "detail": "Boston Fed President Susan Collins said in further remarks that the level of economic uncertainty is elevated.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0c499f3707bee94e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrulguo4f2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrulguo4f2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a1f98c45d02d",
-   "created_at": "2026-10-13T20:31:07Z"
   }
  ]
 }
