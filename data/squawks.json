@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T15:31:11Z",
+ "generated_at": "2026-10-15T15:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b652002d1e98",
+   "ts": "2026-10-15T15:34:26Z",
+   "headline": "US crude futures rise more than $2 to their highest since 21 September as Brent turns higher on the day",
+   "detail": "Market reports say US crude futures gained more than $2 to reach their highest level since 21 September. Brent futures moved back into positive territory for the day.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "18734ad99b091a1c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwf6ba6h62d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwf6ba6h62d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "99c03d537a13",
+   "created_at": "2026-10-15T15:35:43Z"
+  },
   {
    "id": "8d59c57952da",
    "ts": "2026-10-15T15:30:12Z",
@@ -6083,27 +6104,6 @@
    "model": "opus",
    "run_id": "16d2accc72ba",
    "created_at": "2026-10-14T08:31:01Z"
-  },
-  {
-   "id": "b96a46141cb5",
-   "ts": "2026-10-14T08:17:59Z",
-   "headline": "Yemen's Houthi forces say they will announce a military operation deep inside Saudi territory",
-   "detail": "Houthi armed forces say they will announce a 'qualitative' military operation deep inside Saudi Arabia at 11:40 AM. The statement follows Tuesday's Houthi attacks, which included a reported hit on Saudi Aramco's Dhahran headquarters.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7c40351d9760a7ba"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt4cvejf72r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt4cvejf72r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "43755655abab",
-   "created_at": "2026-10-14T08:20:48Z"
   }
  ]
 }
