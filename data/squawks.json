@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T08:55:42Z",
+ "generated_at": "2026-10-15T09:01:18Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cad4e585f949",
+   "ts": "2026-10-15T09:00:55Z",
+   "headline": "Eurozone industrial production falls 0.5% m/m in August against a flat forecast; annual rate drops to -1.1%",
+   "detail": "Eurozone industrial output fell 0.5% on the month, against a forecast of 0% and -0.1% previously. On the year, output fell 1.1%, against a forecast of -0.1% and 0.0% previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "836864117f5c6791",
+    "a382981013df31e9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvp6llshl2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvp6llshl2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvp6h4sml2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvp6h4sml2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f13d89e4c8f9",
+   "created_at": "2026-10-15T09:01:18Z"
+  },
+  {
+   "id": "653b1f3e9e9c",
+   "ts": "2026-10-15T08:58:42Z",
+   "headline": "France sells 5-year OATs at 4.16%, up from 3.92% at the previous sale; bid-to-cover rises to 2.297",
+   "detail": "The French 5-year OAT auction priced at an average yield of 4.16%, compared with 3.92% at the previous sale. The bid-to-cover ratio was 2.297, up from 2.22.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e6965372b9f3f90d",
+    "cf6fefe72761aeae"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvp2naeka2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvp2naeka2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvp2cxx5v2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvp2cxx5v2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f13d89e4c8f9",
+   "created_at": "2026-10-15T09:01:18Z"
+  },
   {
    "id": "b4e342362747",
    "ts": "2026-10-15T08:50:51Z",
@@ -6488,54 +6542,6 @@
    "model": "opus",
    "run_id": "d86bf0b3401e",
    "created_at": "2026-10-13T18:45:48Z"
-  },
-  {
-   "id": "238e1fad8a9a",
-   "ts": "2026-10-13T18:36:16Z",
-   "headline": "Loud explosions reported in Dhahran near Saudi Aramco headquarters, according to six sources",
-   "detail": "Six sources report hearing loud explosions in Dhahran, close to Saudi Aramco's headquarters. The cause has not been confirmed, and no market reaction has been reported so far.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "dc2c2cb143d2fac2",
-    "82391a290834ca7a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrofkkwzg2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrofkkwzg2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrogi7x6o2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrogi7x6o2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "802bb5b0a34b",
-   "created_at": "2026-10-13T18:40:52Z"
-  },
-  {
-   "id": "3773096730ba",
-   "ts": "2026-10-13T18:31:33Z",
-   "headline": "ECB's Lane says AI's potential to replace some workers could weaken their bargaining power and moderate wage growth",
-   "detail": "ECB chief economist Philip Lane said the possibility of AI displacing some workers may reduce their bargaining power, which could moderate wage growth. The remarks follow his earlier comments on long-term interest rates.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "57f132909d0260ce"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxro54gpfy2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxro54gpfy2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "25619bbb7a19",
-   "created_at": "2026-10-13T18:35:44Z"
   }
  ]
 }
