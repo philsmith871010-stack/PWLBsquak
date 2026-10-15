@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T21:10:51Z",
+ "generated_at": "2026-10-15T21:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "82841c947155",
+   "ts": "2026-10-15T21:25:12Z",
+   "headline": "Trump considers easing curbs on Russian and Iranian 'shadow fleet' tankers to bring down fuel costs, FT reports",
+   "detail": "The Financial Times reports that the White House is considering letting blacklisted vessels carrying Russian and Iranian oil return to global trade. According to the report, the aim is to lower fuel costs ahead of the US midterm elections.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "af895f0d4515d169"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxwyrhq5zr2d",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mxwyrhq5zr2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "31444ee8b16f",
+   "created_at": "2026-10-15T21:25:41Z"
+  },
   {
    "id": "566423fd130d",
    "ts": "2026-10-15T21:08:19Z",
@@ -6066,33 +6087,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxth43djoa2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxth43djoa2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dda318b3c138",
-   "created_at": "2026-10-14T11:31:10Z"
-  },
-  {
-   "id": "17ffcf523477",
-   "ts": "2026-10-14T11:27:39Z",
-   "headline": "PM Burnham says at PMQs that his priority on the Trump-Russia diesel deal is to build bridges, ahead of meeting Zelenskiy",
-   "detail": "At Prime Minister's Questions, Prime Minister Burnham was asked about the US-Russia diesel deal and said his job is to bring people back together. He also said Ukraine's President Zelenskiy would not leave their meeting empty-handed.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a9063f4966a7424d",
-    "f63f9e4dcb10503f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtgw23vw22m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtgw23vw22m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtgudxhqn2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtgudxhqn2r"
     }
    ],
    "model": "opus",
