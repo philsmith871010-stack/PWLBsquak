@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T14:45:55Z",
+ "generated_at": "2026-10-15T14:50:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2f7c8ed66d8d",
+   "ts": "2026-10-15T14:48:02Z",
+   "headline": "Yemen turns down a Saudi request for talks in Oman, reports say",
+   "detail": "Iran's Tasnim news agency, citing AFP, reports that Yemen has rejected a Saudi Arabian request to hold talks in Oman. The report comes as fighting between the Houthis and Saudi Arabia intensifies.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ab3d773bc8af4f42",
+    "2b1540c84ba1aa43"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwclby7nh2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwclby7nh2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwcpq3eq32s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwcpq3eq32s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "54315be2811b",
+   "created_at": "2026-10-15T14:50:51Z"
+  },
   {
    "id": "b1c1f53ccd36",
    "ts": "2026-10-15T14:44:36Z",
@@ -6089,39 +6116,6 @@
    "model": "opus",
    "run_id": "962fe18cc18c",
    "created_at": "2026-10-14T08:15:47Z"
-  },
-  {
-   "id": "aad345fc6111",
-   "ts": "2026-10-14T08:04:24Z",
-   "headline": "IEA now sees 2026 world oil demand down 2.6m bpd and supply down 5.8m bpd, both slightly steeper than it forecast before",
-   "detail": "In its monthly report, the IEA put 2026 supply at 1.73m bpd below demand (previously 1.74m bpd) and sees 2027 supply 3.94m bpd above demand (previously 3.73m bpd), citing disruption from the Iran war and very high prices. It said tight middle distillate supply will last well into 2027 and that the latest wave of attacks puts September's recovery in Middle East oil exports at risk.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "feaaba441e99f5b4",
-    "2003d03d946df9de",
-    "a7cfe9fae4537a45"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt3km7kbx2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt3km7kbx2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt3ktd4j72r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt3ktd4j72r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt3lmqyof2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt3lmqyof2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "44bbb96edc8e",
-   "created_at": "2026-10-14T08:05:50Z"
   }
  ]
 }
