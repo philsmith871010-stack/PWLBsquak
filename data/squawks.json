@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T06:31:06Z",
+ "generated_at": "2026-10-15T06:35:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a11e0b936ab4",
+   "ts": "2026-10-15T06:31:18Z",
+   "headline": "Swiss producer and import prices fall 0.2% y/y in September, up from -0.7%; monthly rise of 0.3%",
+   "detail": "Swiss producer and import prices fell 0.2% year on year in September, after a 0.7% fall the previous month. Month on month, prices rose 0.3%, compared with 0.7% previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f97a3f8f31f12803",
+    "69b357610ea4edbf",
+    "ff2f759dce291fdb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvgt25yln26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvgt25yln26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvgvnbfzp2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvgvnbfzp2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvgvst7du2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvgvst7du2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "24a8157035bd",
+   "created_at": "2026-10-15T06:35:39Z"
+  },
   {
    "id": "2463cbb10286",
    "ts": "2026-10-15T06:30:19Z",
@@ -6491,27 +6524,6 @@
    "model": "opus",
    "run_id": "4183110d8773",
    "created_at": "2026-10-13T16:40:50Z"
-  },
-  {
-   "id": "2841894b7ed2",
-   "ts": "2026-10-13T16:05:13Z",
-   "headline": "Trump says Yemen's Houthis are behaving very badly as fallout from the US-Iran war spreads across the region",
-   "detail": "Reuters reported that US President Trump made the comments about the Houthi militants who control much of Yemen on Tuesday. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "22a950157fc80d3d"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxrfxh4nur2d",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxrfxh4nur2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "186a00f0c301",
-   "created_at": "2026-10-13T16:05:39Z"
   }
  ]
 }
