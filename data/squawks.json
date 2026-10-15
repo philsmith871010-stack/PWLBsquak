@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T09:55:43Z",
+ "generated_at": "2026-10-15T10:01:24Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4c8cc2e6eced",
+   "ts": "2026-10-15T09:55:44Z",
+   "headline": "Kremlin says Ukraine's refinery strikes run counter to US peace efforts and calls the latest attack nothing new",
+   "detail": "Kremlin spokesman Peskov was responding to Zelenskiy's statement that Ukraine will resume strikes on Russian oil refineries. He said US efforts to settle the war are failing because Kyiv, and Zelenskiy personally, are unwilling to seek a peaceful solution.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8d615b94dcc82d92",
+    "d8bc177776511918",
+    "6e810c30c08fa838",
+    "c9938f0e1ac650a5",
+    "276ed703d3845a5e",
+    "f528f959ed81ac7a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvsamjaqg2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvsamjaqg2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvsaqu7qb24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvsaqu7qb24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvsc5vkyf2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvsc5vkyf2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvscxtntg26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvscxtntg26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvse4xjda2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvse4xjda2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvsef2tfo26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvsef2tfo26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8bc3239cd2b9",
+   "created_at": "2026-10-15T10:01:24Z"
+  },
   {
    "id": "51619b1ed9af",
    "ts": "2026-10-15T09:55:40Z",
@@ -6437,33 +6488,6 @@
    "model": "opus",
    "run_id": "d9a915507227",
    "created_at": "2026-10-13T20:10:55Z"
-  },
-  {
-   "id": "d5e55356feca",
-   "ts": "2026-10-13T20:05:38Z",
-   "headline": "BoE's Bailey says second-round inflation effects in the UK have been subdued so far but get harder the longer the shock lasts",
-   "detail": "Bank of England Governor Andrew Bailey said second-round effects have so far been subdued in the UK. He added that the longer an inflation hit persists, the harder it becomes to deal with.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "cf0a1c8af8e4c5c3",
-    "486eb7b27391ba93"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrtfe44q22w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrtfe44q22w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrtcbnqvg2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrtcbnqvg2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "02e9f93735b9",
-   "created_at": "2026-10-13T20:05:45Z"
   }
  ]
 }
