@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T11:35:41Z",
+ "generated_at": "2026-10-15T11:40:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "052d14bbd333",
+   "ts": "2026-10-15T11:39:25Z",
+   "headline": "Saudi Aramco offers more spot crude cargoes to Europe for late October to mid-November delivery, trade sources say",
+   "detail": "Three trade sources say Saudi Aramco is offering additional spot crude oil cargoes into the European market for delivery between late October and mid-November.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "0be1ee8b18634ed4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvxzyz2hs2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvxzyz2hs2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8a47a559b04c",
+   "created_at": "2026-10-15T11:40:51Z"
+  },
   {
    "id": "2bb0711cc2f5",
    "ts": "2026-10-15T11:33:14Z",
@@ -6444,27 +6465,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrycxrgnz2q",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrycxrgnz2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d18c17dfdc9b",
-   "created_at": "2026-10-13T21:35:43Z"
-  },
-  {
-   "id": "0c5e014f00c5",
-   "ts": "2026-10-13T21:31:16Z",
-   "headline": "Houthi official threatens new attacks on Saudi oil and other key installations tonight",
-   "detail": "In a post on X, a Houthi official said Saudi oil and vital installations would be targeted tonight, following Tuesday's attacks on Dhahran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c933562e656725d7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxry6i7bxr2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxry6i7bxr2q"
     }
    ],
    "model": "opus",
