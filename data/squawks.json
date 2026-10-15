@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T17:50:56Z",
+ "generated_at": "2026-10-15T18:06:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "96b61f32e2a8",
+   "ts": "2026-10-15T18:02:41Z",
+   "headline": "EU plans a trade instrument that could shut China out of the single market, report says",
+   "detail": "A market news account reports that the EU is planning a trade tool that could be used to block China from the single market. No further details or market reaction were given.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b583ad57ee9051f2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwnhe6mez2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwnhe6mez2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fd7a65feae4f",
+   "created_at": "2026-10-15T18:06:03Z"
+  },
   {
    "id": "2655aec0d524",
    "ts": "2026-10-15T17:49:44Z",
@@ -6060,33 +6081,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtd5m57l32y",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtd5m57l32y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "987232c67f4d",
-   "created_at": "2026-10-14T10:20:50Z"
-  },
-  {
-   "id": "4d74f1ef1651",
-   "ts": "2026-10-14T10:18:46Z",
-   "headline": "Russia's Novak says Russia and the US are discussing diesel contracts and a US diesel supply deal is in sight",
-   "detail": "Russian Deputy Prime Minister Alexander Novak made the remarks, according to TASS and Interfax. Russia remains under sanctions.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "7a32c7f98ecb6ea8",
-    "11b5d5bae1acadb4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtd2vb7pq2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtd2vb7pq2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtd2xgmd62r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtd2xgmd62r"
     }
    ],
    "model": "opus",
