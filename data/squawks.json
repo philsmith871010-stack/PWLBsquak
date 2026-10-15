@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T10:25:39Z",
+ "generated_at": "2026-10-15T10:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f34cf8f31797",
+   "ts": "2026-10-15T10:30:24Z",
+   "headline": "Oil tanker freight costs surge, with a US-to-Japan supertanker voyage costing $81m against $9.1m last year, Reuters reports",
+   "detail": "Reuters reports that the cost of shipping crude oil has risen sharply. It says a supertanker carrying about 2 million barrels from the US to Japan in late November will cost $81 million, compared with an average of $9.1 million for the same voyage last year.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "c1a2b04c59f62285"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxvu6lbmas2t",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxvu6lbmas2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3084c68d4b01",
+   "created_at": "2026-10-15T10:31:03Z"
+  },
   {
    "id": "2fbe32862512",
    "ts": "2026-10-15T10:21:18Z",
@@ -6456,27 +6477,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrvif55tm24",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrvif55tm24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1a38222b3f9f",
-   "created_at": "2026-10-13T20:45:47Z"
-  },
-  {
-   "id": "1041c5eab5c0",
-   "ts": "2026-10-13T20:40:52Z",
-   "headline": "Saudi Aramco headquarters is evacuated after missile attacks from Yemen, Iranian media report",
-   "detail": "Iranian media report that Saudi Aramco's headquarters was evacuated after missile attacks launched from Yemen. This follows earlier reports on Tuesday that the Dhahran headquarters had been hit.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "07105e3bffb42350"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrveed37f2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrveed37f2z"
     }
    ],
    "model": "opus",
