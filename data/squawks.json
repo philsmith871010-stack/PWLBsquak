@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T05:20:48Z",
+ "generated_at": "2026-10-15T05:31:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b0ac52ee9d89",
+   "ts": "2026-10-15T05:29:44Z",
+   "headline": "Italy's draft budgetary plan aims to raise 0.44% of GDP from the financial sector over 2027-2029",
+   "detail": "Italy's Draft Budgetary Plan sets out a levy on the financial sector worth 0.44% of GDP across the 2027-2029 period.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b85063b117b57196",
+    "7c16bfd570655e7f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvdexwbh42r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvdexwbh42r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvdf3shku2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvdf3shku2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c39354d54ad2",
+   "created_at": "2026-10-15T05:31:04Z"
+  },
   {
    "id": "943b886ce44d",
    "ts": "2026-10-15T05:15:32Z",
@@ -6468,27 +6495,6 @@
      "author": "resolutionfoundation.org",
      "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxr65lb75d2t",
      "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxr65lb75d2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ca3d4599e4f9",
-   "created_at": "2026-10-13T13:45:48Z"
-  },
-  {
-   "id": "8f3910fc8452",
-   "ts": "2026-10-13T13:42:28Z",
-   "headline": "Fitch says the jump in bond yields adds to the strain on developed market public finances",
-   "detail": "Fitch Ratings said the surge in government bond yields makes the challenges facing developed market public finances harder. No figures were given in the report.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ae38d254172a38ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxr5y6wue62q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxr5y6wue62q"
     }
    ],
    "model": "opus",
