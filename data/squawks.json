@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T08:10:50Z",
+ "generated_at": "2026-10-15T08:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2f8622b661ec",
+   "ts": "2026-10-15T08:11:59Z",
+   "headline": "Spain's PM Sanchez rejects the current EU budget proposal as inadequate",
+   "detail": "Speaking in Brussels, Spanish Prime Minister Pedro Sanchez said Spain does not agree with the current EU budget proposal and called it insufficient.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6dd62b1953f54626",
+    "40f7697a6ccd6b49"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvmh3jvt42d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvmh3jvt42d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvmhe44kg26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvmhe44kg26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c83867c4ce71",
+   "created_at": "2026-10-15T08:15:52Z"
+  },
+  {
+   "id": "5a37257f854b",
+   "ts": "2026-10-15T08:11:56Z",
+   "headline": "BoE's Breeden says the Bank is examining whether the energy shock has passed or is only delayed, and hopes a cooler labour market avoids…",
+   "detail": "Bank of England Deputy Governor Sarah Breeden said businesses report absorbing the shock and cutting costs, and that the Bank is assessing whether the energy shock is over or merely delayed. She said she hopes an easing labour market will prevent wage-price pressure like that seen in 2022.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "f3610e41f947b573",
+    "81561aaf2f7fd191"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvmgyo5262r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvmgyo5262r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvmhk6j6x2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvmhk6j6x2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c83867c4ce71",
+   "created_at": "2026-10-15T08:15:52Z"
+  },
   {
    "id": "8b61ce8ea839",
    "ts": "2026-10-15T08:09:33Z",
@@ -6494,48 +6548,6 @@
    "model": "opus",
    "run_id": "1a45f555d5eb",
    "created_at": "2026-10-13T17:50:50Z"
-  },
-  {
-   "id": "f18cb64dfc66",
-   "ts": "2026-10-13T17:45:22Z",
-   "headline": "Fed's Barkin says the effect of AI investment can be seen in US inflation",
-   "detail": "Richmond Fed President Barkin said the impact of AI investment is visible in US inflation, according to remarks reported on Tuesday.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6e76807a10f00a5e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrlkjlyt52n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrlkjlyt52n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d10e5a1872de",
-   "created_at": "2026-10-13T17:45:48Z"
-  },
-  {
-   "id": "b38d411fae25",
-   "ts": "2026-10-13T17:44:51Z",
-   "headline": "Iran's acting oil minister says South Pars gas capacity is coming back faster",
-   "detail": "Iran's acting oil minister said capacity at the South Pars gas field is returning at a faster pace, Mehr News reports. This follows earlier Iranian reports that major repairs to war damage at the field had been finished.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "ff9a2f554c55775a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrljm3jee2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrljm3jee2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d10e5a1872de",
-   "created_at": "2026-10-13T17:45:48Z"
   }
  ]
 }
