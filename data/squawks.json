@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T21:35:40Z",
+ "generated_at": "2026-10-15T21:50:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "feeb790a88d0",
+   "ts": "2026-10-15T21:45:51Z",
+   "headline": "New Zealand food prices are flat in September as seasonally adjusted card spending falls 0.4% m/m",
+   "detail": "Stats NZ says its food price index was unchanged at 0.0% month on month in September, after 0.3% the month before. Seasonally adjusted electronic card retail sales fell 0.4% on the month, while unadjusted sales rose 0.9% year on year.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ac60a13e979c4b5b",
+    "40962f56357d4a33",
+    "7d282f5be6e09e57",
+    "980d61b7e70c3d65",
+    "a63e056db4196218"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwzwfummm24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwzwfummm24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwzwh762k2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwzwh762k2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwzwgd5hi2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwzwgd5hi2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwzwgqyt424",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwzwgqyt424"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwzx64u2t2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwzx64u2t2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e46cfd86301d",
+   "created_at": "2026-10-15T21:50:50Z"
+  },
   {
    "id": "09a3a495b958",
    "ts": "2026-10-15T21:31:25Z",
@@ -6035,45 +6080,6 @@
    "model": "opus",
    "run_id": "1892f2d30d13",
    "created_at": "2026-10-14T12:01:29Z"
-  },
-  {
-   "id": "05f6d7e54ea5",
-   "ts": "2026-10-14T11:33:17Z",
-   "headline": "Russia's Novak says first diesel export shipments are under way and exports could reach 3.5m tonnes a month by year-end",
-   "detail": "Russian Deputy Prime Minister Novak said the first diesel export cargoes are under way and that Russian and US companies are already negotiating contracts for diesel supplies to the US, Tass reported. Tass also reported that Russia could raise diesel exports to 3.5m tonnes a month by the end of the year.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "ad547f190bd52a21",
-    "7fc6e0b07440b202",
-    "064ca532d8303b0f",
-    "f161f3fffbc4fd73"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxth7we5642d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxth7we5642d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtha4svio2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtha4svio2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxthbzdkqc24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxthbzdkqc24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxthad4btg2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxthad4btg2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c8108807bcf2",
-   "created_at": "2026-10-14T11:35:40Z"
   }
  ]
 }
