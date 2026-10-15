@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T16:10:52Z",
+ "generated_at": "2026-10-15T16:31:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "56b7830010fe",
+   "ts": "2026-10-15T16:30:36Z",
+   "headline": "German regulator says gas storage is well below previous years but sees no risk to supply security",
+   "detail": "Germany's network regulator said on Thursday that gas storage levels are significantly below those at the same point in previous years and that it is taking this very seriously. It said low recent injections reflect trading strategies and do not put supply security at risk, Reuters reports.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "80557c09c6b6f462"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxwicogohg2a",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxwicogohg2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2d615d0b8a55",
+   "created_at": "2026-10-15T16:31:06Z"
+  },
+  {
+   "id": "b920cc8f97ed",
+   "ts": "2026-10-15T16:25:49Z",
+   "headline": "UK trade minister signals the UK is ready to align with EU tariffs on Chinese electric vehicles, Politico reports",
+   "detail": "Politico reports that the UK trade minister has said the UK is prepared to align with the EU's tariffs on Chinese electric vehicles. This follows an FT report that France and Germany would let the UK into EU car policy if it aligns with those tariffs.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0080061f77b8b25f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwi24url62r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwi24url62r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2d615d0b8a55",
+   "created_at": "2026-10-15T16:31:06Z"
+  },
   {
    "id": "f83a15168701",
    "ts": "2026-10-15T16:08:06Z",
@@ -6080,54 +6122,6 @@
    "model": "opus",
    "run_id": "ced2f2042f5b",
    "created_at": "2026-10-14T09:40:52Z"
-  },
-  {
-   "id": "11a6a4c76771",
-   "ts": "2026-10-14T09:15:17Z",
-   "headline": "IEA says tight diesel supplies could last well into 2027",
-   "detail": "In its monthly oil market report, the International Energy Agency said diesel shortages could last well into next year. It said large stock drawdowns at a time of year when stocks usually build, together with limited production, come just before peak winter demand.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "502a8844a9490b0d"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxt7jdpl252a",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxt7jdpl252a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fdefc69fd3ca",
-   "created_at": "2026-10-14T09:15:48Z"
-  },
-  {
-   "id": "9599fb2fa0b3",
-   "ts": "2026-10-14T09:03:54Z",
-   "headline": "UK 4-year gilt auction yields 4.945% with bid-to-cover of 3.415",
-   "detail": "The 4-year gilt auction had an average yield of 4.945%, up from 4.786% at the previous sale. Bid-to-cover was 3.415, compared with 3.237 last time.",
-   "category": "supply",
-   "importance": 2,
-   "source_event_ids": [
-    "c86903828ac5e299",
-    "bef58e1383e23d1a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt6uytbic2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt6uytbic2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt6v57j5i2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt6v57j5i2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "420801011cfb",
-   "created_at": "2026-10-14T09:05:43Z"
   }
  ]
 }
