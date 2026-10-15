@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T14:01:20Z",
+ "generated_at": "2026-10-15T14:10:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cb40e09ffb28",
+   "ts": "2026-10-15T14:08:32Z",
+   "headline": "US 5-year and 7-year Treasury yields fall 15bp on the day",
+   "detail": "US Treasury 5-year and 7-year yields were reported down 15bp on the day, as the Treasury market rally widened further.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "a8b20368fb0768bb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwaenkze52y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwaenkze52y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d14e8e769f43",
+   "created_at": "2026-10-15T14:10:55Z"
+  },
   {
    "id": "0bc3b8c098d2",
    "ts": "2026-10-15T14:00:53Z",
@@ -6120,27 +6141,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsylbe6zv2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsylbe6zv2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fdfebc637777",
-   "created_at": "2026-10-14T07:15:49Z"
-  },
-  {
-   "id": "6c0ab2984e6b",
-   "ts": "2026-10-14T07:11:02Z",
-   "headline": "Oman says Hormuz discussions cannot be completed without US-Iran talks",
-   "detail": "Oman said that whether discussions on the Strait of Hormuz can be completed depends on talks between the US and Iran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c00e62a871601bbe"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsyl76zok2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsyl76zok2r"
     }
    ],
    "model": "opus",
