@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T14:31:07Z",
+ "generated_at": "2026-10-15T14:45:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b1c1f53ccd36",
+   "ts": "2026-10-15T14:44:36Z",
+   "headline": "NIESR GDP Tracker puts UK growth at around 0.2% in the final quarter after a strong third quarter",
+   "detail": "NIESR's latest GDP Tracker says the UK economy kept growing in August, with production rather than services leading. It puts growth in the fourth quarter at around 0.2%.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "4117e9cffeaf6293"
+   ],
+   "sources": [
+    {
+     "author": "niesrorg.bsky.social",
+     "uri": "at://did:plc:6s7n3h2jcntzuvlw2movrget/app.bsky.feed.post/3mxwcf5gwns25",
+     "url": "https://bsky.app/profile/niesrorg.bsky.social/post/3mxwcf5gwns25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5432708edda2",
+   "created_at": "2026-10-15T14:45:55Z"
+  },
   {
    "id": "cb5254af9abb",
    "ts": "2026-10-15T14:30:18Z",
@@ -6101,27 +6122,6 @@
    "model": "opus",
    "run_id": "44bbb96edc8e",
    "created_at": "2026-10-14T08:05:50Z"
-  },
-  {
-   "id": "55295e0f9078",
-   "ts": "2026-10-14T07:40:35Z",
-   "headline": "Germany plans to press the EU to cap additional imports from China",
-   "detail": "A market newswire reports that Germany will push the EU to put caps on additional Chinese imports. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b3f1367b2d47df57"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt27z7vp62m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt27z7vp62m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "86b300b916ba",
-   "created_at": "2026-10-14T07:40:52Z"
   }
  ]
 }
