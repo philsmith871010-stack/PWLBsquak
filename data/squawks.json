@@ -1,8 +1,116 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T21:40:52Z",
+ "generated_at": "2026-10-15T05:01:12Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9decc2b4e4e3",
+   "ts": "2026-10-15T00:14:25Z",
+   "headline": "Israel's Netanyahu says Iran's regime must be overthrown but does not see it happening before Israeli elections",
+   "detail": "Israeli Prime Minister Netanyahu said Iran is at its weakest point ever and that Israel needs to finish the job. He also said he does not think regime change in Iran is realistic before Israel's elections.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7909f82b59909718",
+    "88bd3e00bf27abfe"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxurr5civw2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxurr5civw2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxurqszxic2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxurqszxic2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "35a47bf25e0a",
+   "created_at": "2026-10-15T05:01:12Z"
+  },
+  {
+   "id": "a54288d018b0",
+   "ts": "2026-10-14T23:55:46Z",
+   "headline": "US weighs easing some sanctions on shadow fleet vessels to cut global freight rates and lift Middle East oil flows",
+   "detail": "A US official told Reuters that Washington is discussing lifting some sanctions on shadow fleet tankers. The stated aims are to lower global freight rates and increase oil flows in the Middle East.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "2a1ed2d6ab1acd61",
+    "7852f0cc037ed6b2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuqprudjh2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuqprudjh2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxurnvaek62q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxurnvaek62q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "35a47bf25e0a",
+   "created_at": "2026-10-15T05:01:12Z"
+  },
+  {
+   "id": "b3ae4a0b99d7",
+   "ts": "2026-10-14T23:11:33Z",
+   "headline": "US considers unfreezing some Russian assets to revive Ukraine peace talks; European officials reject the plan",
+   "detail": "The FT reports that the US is considering releasing some frozen Russian assets to restart Ukraine peace talks. In a later report, the FT says European officials have rejected the plan.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "347f6511f2df869d",
+    "34f64f21ad4e8c2d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuoaqbgkc2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuoaqbgkc2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuqbxwemo2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuqbxwemo2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "35a47bf25e0a",
+   "created_at": "2026-10-15T05:01:12Z"
+  },
+  {
+   "id": "795613894f12",
+   "ts": "2026-10-14T21:57:45Z",
+   "headline": "Conservative leader Badenoch warns against a possible bank tax increase in the UK Budget",
+   "detail": "Conservative leader Kemi Badenoch is expected to warn the government against raising taxes on banks in the Budget during a visit to Edinburgh on Thursday, according to City AM and the FT. The FT reports that investors are warning of a possible hit to UK competitiveness.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "38be5ab6600cbcf9",
+    "785b1e28398c5d9e"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mxutttpszsj2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mxutttpszsj2"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxuk4qihfy2h",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mxuk4qihfy2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "35a47bf25e0a",
+   "created_at": "2026-10-15T05:01:12Z"
+  },
   {
    "id": "dafcee015d61",
    "ts": "2026-10-14T21:39:00Z",
@@ -5924,96 +6032,6 @@
    "model": "opus",
    "run_id": "0d23e6d06476",
    "created_at": "2026-10-13T12:01:14Z"
-  },
-  {
-   "id": "34ca075a0f87",
-   "ts": "2026-10-13T11:47:52Z",
-   "headline": "Resolution Foundation says UK growth beat forecasts in the first half of 2026 but the Middle East conflict has worsened the near-term…",
-   "detail": "The Resolution Foundation made the point in material from its Budget preview. It said UK growth in the first half of 2026 came in ahead of forecasts, and that the Middle East conflict has weakened the short-term outlook.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "2509a250a6e97a4e"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxqxlb5ckv2i",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxqxlb5ckv2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fb8dd9c33bae",
-   "created_at": "2026-10-13T11:50:54Z"
-  },
-  {
-   "id": "0ed4782cb6f3",
-   "ts": "2026-10-13T11:41:40Z",
-   "headline": "Russia's Putin and UAE president discuss the US diesel deal by phone",
-   "detail": "Putin held a phone call with the President of the UAE in which they covered the diesel deal with the US, bilateral cooperation and peace in the Middle East.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7a54fe98d556c5e6",
-    "32d5b6f4fa837af9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqxa6q4p62z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqxa6q4p62z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqx7byggs2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqx7byggs2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "877983f9a512",
-   "created_at": "2026-10-13T11:45:49Z"
-  },
-  {
-   "id": "a5dbf212da03",
-   "ts": "2026-10-13T11:38:31Z",
-   "headline": "Retrofit industry warns over reported plan to cut heat pump subsidies to fund defence in the autumn Budget",
-   "detail": "Inside Housing reports that retrofit industry leaders have warned of serious harm to households after reports that the government could reduce heat pump subsidies in the autumn Budget to pay for defence spending.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "1d89f449bdbff926"
-   ],
-   "sources": [
-    {
-     "author": "insidehousing.bsky.social",
-     "uri": "at://did:plc:4crnjat2gafdo4ezfzxgd3gg/app.bsky.feed.post/3mxqx2kh7ne2g",
-     "url": "https://bsky.app/profile/insidehousing.bsky.social/post/3mxqx2kh7ne2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "358d7955e961",
-   "created_at": "2026-10-13T11:40:48Z"
-  },
-  {
-   "id": "a68699a17772",
-   "ts": "2026-10-13T11:18:36Z",
-   "headline": "Fed's Goolsbee voices concern that tariffs and oil prices could lead to stagflation",
-   "detail": "Chicago Fed President Austan Goolsbee said he is concerned that tariffs and oil could produce stagflation, according to a newswire headline. This adds to his earlier remarks on Tuesday about inflation and the Fed's rate path.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4bceb8aa95e86ec5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxqvwxdzij2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxqvwxdzij2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "48c5ad0d4e76",
-   "created_at": "2026-10-13T11:20:48Z"
   }
  ]
 }
