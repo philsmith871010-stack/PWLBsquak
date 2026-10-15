@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T12:35:41Z",
+ "generated_at": "2026-10-15T12:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a8172ab2b3d3",
+   "ts": "2026-10-15T12:38:20Z",
+   "headline": "Japan's finance minister Katayama tells G20 that market moves need urgent monitoring as the G20 reaffirms its FX commitments",
+   "detail": "Japan's finance minister Katayama said the G20 had reaffirmed its earlier commitments on foreign exchange. She also told the G20 that market moves need to be monitored with high urgency.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "143411a34a310d34",
+    "588aea8a3b161fdc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw3bpzjou2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw3bpzjou2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw3de2nm22y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw3de2nm22y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a0451628879c",
+   "created_at": "2026-10-15T12:40:50Z"
+  },
   {
    "id": "5f1b101bc382",
    "ts": "2026-10-15T12:34:00Z",
@@ -6210,27 +6237,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsin4qfdp26",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsin4qfdp26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8a46c64917e0",
-   "created_at": "2026-10-14T05:10:50Z"
-  },
-  {
-   "id": "98b1c0e40bfa",
-   "ts": "2026-10-14T02:29:17Z",
-   "headline": "IMF does not recommend that the UK speed up its fiscal consolidation",
-   "detail": "The IMF said it is not recommending that the UK accelerate its fiscal consolidation efforts. Earlier, the IMF had urged advanced economies to cut deficits and debt urgently.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "81f0391df6bee763"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsite674d2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsite674d2m"
     }
    ],
    "model": "opus",
