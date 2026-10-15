@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T06:35:39Z",
+ "generated_at": "2026-10-15T06:50:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4a5789240145",
+   "ts": "2026-10-15T06:45:54Z",
+   "headline": "French final HICP holds at 3.4% y/y in September as expected; monthly fall of 0.3% is smaller than the 0.4% forecast",
+   "detail": "France's final EU-harmonised inflation for September was 3.4% y/y, the same as the previous reading and the forecast. The monthly figure was -0.3%, against a forecast of -0.4% and a previous 0.4%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "19de976a0929ca62",
+    "fb1c37fa725294db",
+    "ebfc80750b508ae8",
+    "23e73f9310c9e40d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvhn65q2o2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvhn65q2o2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvhnhch6m2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvhnhch6m2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvhu5rw2a2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvhu5rw2a2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvhuafzpi26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvhuafzpi26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cafb00992f13",
+   "created_at": "2026-10-15T06:50:51Z"
+  },
   {
    "id": "a11e0b936ab4",
    "ts": "2026-10-15T06:31:18Z",
@@ -6503,27 +6542,6 @@
    "model": "opus",
    "run_id": "e91e68593c4f",
    "created_at": "2026-10-13T17:10:51Z"
-  },
-  {
-   "id": "e28f43c05b98",
-   "ts": "2026-10-13T16:39:47Z",
-   "headline": "Fitch says fiscal paths of Western European sovereigns are still diverging",
-   "detail": "Fitch Ratings published a commentary saying that the fiscal trajectories of Western European sovereigns are continuing to diverge. The post did not give any country-level figures.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "a9163ee699e803e3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrhvbejv62q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrhvbejv62q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4183110d8773",
-   "created_at": "2026-10-13T16:40:50Z"
   }
  ]
 }
