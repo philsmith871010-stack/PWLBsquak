@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T08:25:41Z",
+ "generated_at": "2026-10-15T08:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b2882852f2df",
+   "ts": "2026-10-15T08:35:36Z",
+   "headline": "Russia considers banning LPG exports and will keep importing gasoline until at least the end of the year",
+   "detail": "Interfax reports that Russia is weighing an LPG export ban because of market conditions, and that gasoline imports will continue until at least year-end.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "1769db8a1f285783",
+    "320b526e1357a60b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvnrdexqs2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvnrdexqs2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvnr27lkw26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvnr27lkw26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "da2eeabe8244",
+   "created_at": "2026-10-15T08:35:42Z"
+  },
+  {
+   "id": "5cdfa70d8474",
+   "ts": "2026-10-15T08:33:13Z",
+   "headline": "Russia's Novak says first diesel deliveries to the US could come in 2-3 weeks at the earliest",
+   "detail": "According to Russian reports, Deputy Prime Minister Novak says this depends on a contract being signed and shipping being arranged.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "cf01b4bfce03ef58"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvnn2ywlw2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvnn2ywlw2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "da2eeabe8244",
+   "created_at": "2026-10-15T08:35:42Z"
+  },
   {
    "id": "acf224e96842",
    "ts": "2026-10-15T08:21:46Z",
@@ -6524,54 +6572,6 @@
    "model": "opus",
    "run_id": "9218049bc2f8",
    "created_at": "2026-10-13T18:10:51Z"
-  },
-  {
-   "id": "a8aa39a65ced",
-   "ts": "2026-10-13T18:05:30Z",
-   "headline": "Fed's Barkin says inflation is clearly proving persistent and that taking action makes sense",
-   "detail": "Richmond Fed President Tom Barkin said US inflation is clearly enduring and that it makes sense to act. This follows his earlier remarks on AI investment and on reaching the 2% target.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "d3ab4b89aa9ade99"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrmokh4h62n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrmokh4h62n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ead672cf408a",
-   "created_at": "2026-10-13T18:05:40Z"
-  },
-  {
-   "id": "b95e88da1a8a",
-   "ts": "2026-10-13T17:53:37Z",
-   "headline": "Iran threatens to reconsider its relations with the UK and asks for evidence linking it to the Fairford incident",
-   "detail": "Iran's Fars news agency reports that Tehran has threatened to seriously reconsider its ties with the UK. Iran has also asked the UK for evidence of any Iranian links to the suspected plot against RAF Fairford.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3a2394f730163b52",
-    "efd1c1da24035fd5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrlzblohr2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrlzblohr2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrlzfyzss2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrlzfyzss2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aa4869e6e9dc",
-   "created_at": "2026-10-13T17:55:41Z"
   }
  ]
 }
