@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T06:55:39Z",
+ "generated_at": "2026-10-15T07:01:25Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cb9eebb95400",
+   "ts": "2026-10-15T06:59:25Z",
+   "headline": "BoE's Greene says leaning on market pricing is not a workable long-term approach",
+   "detail": "Bank of England MPC member Megan Greene said that relying on market pricing does not work over the long term. The remark follows her earlier comment that the risk of second-round inflation effects is significant.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "617f1de1abdf52fd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvifdnedo2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvifdnedo2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2cd2cc93f6d3",
+   "created_at": "2026-10-15T07:01:25Z"
+  },
   {
    "id": "5f32df0bb3a4",
    "ts": "2026-10-15T06:55:17Z",
@@ -6503,27 +6524,6 @@
    "model": "opus",
    "run_id": "51e980b7c66c",
    "created_at": "2026-10-13T17:15:48Z"
-  },
-  {
-   "id": "2b3251197d0a",
-   "ts": "2026-10-13T17:10:16Z",
-   "headline": "US EPA proposes making larger refiners blend more biofuels over the next two years",
-   "detail": "Reuters reports that the US Environmental Protection Agency on Tuesday proposed fully reallocating refinery biofuel exemptions, which would require larger refiners to blend more biofuels over the next two years.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "b338f92bc6719b26"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxrjlrgfmr2q",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxrjlrgfmr2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e91e68593c4f",
-   "created_at": "2026-10-13T17:10:51Z"
   }
  ]
 }
