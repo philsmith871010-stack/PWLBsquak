@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T10:31:03Z",
+ "generated_at": "2026-10-15T10:55:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c350a7521bd3",
+   "ts": "2026-10-15T10:52:45Z",
+   "headline": "SNB's Tschudin says inflationary pressures are slightly higher than in June",
+   "detail": "Swiss National Bank official Tschudin said inflation pressures have risen slightly compared with June.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "090b30bf56fa68e9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvvgl3s6t2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvvgl3s6t2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4105f207bf35",
+   "created_at": "2026-10-15T10:55:41Z"
+  },
   {
    "id": "f34cf8f31797",
    "ts": "2026-10-15T10:30:24Z",
@@ -6456,27 +6477,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrvltca6v2z",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrvltca6v2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1a38222b3f9f",
-   "created_at": "2026-10-13T20:45:47Z"
-  },
-  {
-   "id": "83da3146cd31",
-   "ts": "2026-10-13T20:43:07Z",
-   "headline": "US CENTCOM says US forces helped Gulf partners move more than 19 million barrels of crude through the strait yesterday",
-   "detail": "US Central Command says US forces helped Gulf partners ship more than 19 million barrels of crude oil through the strait on Monday.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "808e6f8570a42f7c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrvif55tm24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrvif55tm24"
     }
    ],
    "model": "opus",
