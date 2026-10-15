@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T08:50:48Z",
+ "generated_at": "2026-10-15T08:55:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b4e342362747",
+   "ts": "2026-10-15T08:50:51Z",
+   "headline": "Chancellor Healey blames global uncertainty for rising UK yields and says the UK must give investors confidence",
+   "detail": "Chancellor Healey said the rise in UK yields has been driven by global uncertainties, that the UK must give investors confidence and that spending must be paid for within the available budget. He declined to speculate on taxes ahead of the Budget.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "6ee3852fb7cab6f5",
+    "45db2b6b2eb10865",
+    "9deabc1a36a274f0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvomluy6m2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvomluy6m2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvopr7os32f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvopr7os32f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvosnupne2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvosnupne2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "db1c77c71a48",
+   "created_at": "2026-10-15T08:55:42Z"
+  },
   {
    "id": "2bde77ec10f8",
    "ts": "2026-10-15T08:48:28Z",
@@ -6503,27 +6536,6 @@
    "model": "opus",
    "run_id": "25619bbb7a19",
    "created_at": "2026-10-13T18:35:44Z"
-  },
-  {
-   "id": "10fcc291ae47",
-   "ts": "2026-10-13T18:31:02Z",
-   "headline": "ECB's Lane says a rise in long-term interest rates amounts to a material tightening relevant to policy setting",
-   "detail": "ECB chief economist Philip Lane said higher long-term rates represent a material tightening of conditions, which the ECB takes into account when setting its policy stance.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "c72df23ce3d4b068"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxro46wyki26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxro46wyki26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8f6062931599",
-   "created_at": "2026-10-13T18:31:08Z"
   }
  ]
 }
