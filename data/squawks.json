@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T13:01:29Z",
+ "generated_at": "2026-10-15T13:10:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4244a56ab494",
+   "ts": "2026-10-15T13:05:46Z",
+   "headline": "WEF could name ECB President Lagarde as its next chair as early as 2 November, sources say",
+   "detail": "Sources say the World Economic Forum could appoint ECB President Christine Lagarde as its chair as soon as 2 November. A second report also put the possible timing at November.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "7577062653f28838",
+    "758b66bf1bfcd825"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw4ugbvcd2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw4ugbvcd2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw53jcfmh2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw53jcfmh2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "177dafef1d2d",
+   "created_at": "2026-10-15T13:10:55Z"
+  },
   {
    "id": "ddbc27251879",
    "ts": "2026-10-15T12:57:24Z",
@@ -6065,33 +6092,6 @@
    "model": "opus",
    "run_id": "6c5269a1ac1d",
    "created_at": "2026-10-14T05:20:51Z"
-  },
-  {
-   "id": "66bc8c35f7e4",
-   "ts": "2026-10-14T04:04:23Z",
-   "headline": "Chancellor Healey is set to pay for Budget giveaways without extra borrowing, FT reports",
-   "detail": "The Financial Times reports that Chancellor Healey plans to fund the giveaways in the upcoming Budget without adding to government borrowing.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "3b62892616960404",
-    "b134ab9e5597ec6e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxso5gvr5f2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxso5gvr5f2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsommdpid26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsommdpid26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aa44e5105d0e",
-   "created_at": "2026-10-14T05:15:47Z"
   }
  ]
 }
