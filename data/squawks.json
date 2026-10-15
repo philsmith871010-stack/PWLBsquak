@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T07:01:25Z",
+ "generated_at": "2026-10-15T07:25:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "66e04eb70614",
+   "ts": "2026-10-15T07:20:58Z",
+   "headline": "BoE's Greene voices concern over the short-term inflationary effect of AI",
+   "detail": "Bank of England MPC member Megan Greene said she is worried about the near-term inflationary impact of artificial intelligence, according to a market news headline.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "bc9c399a64b80964"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvjluuphp2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvjluuphp2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "276699918e24",
+   "created_at": "2026-10-15T07:25:39Z"
+  },
   {
    "id": "cb9eebb95400",
    "ts": "2026-10-15T06:59:25Z",
@@ -6503,27 +6524,6 @@
    "model": "opus",
    "run_id": "dd4994f1330e",
    "created_at": "2026-10-13T17:20:50Z"
-  },
-  {
-   "id": "6415ee76116d",
-   "ts": "2026-10-13T17:15:25Z",
-   "headline": "US VP Vance says the Defense Production Act is being used to expand a Texas refinery",
-   "detail": "US Vice President Vance said the administration is using the Defense Production Act to expand refining capacity in Texas. No further details were given in the report.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "91d0f9306fa3c015"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrjuy3rsd2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrjuy3rsd2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "51e980b7c66c",
-   "created_at": "2026-10-13T17:15:48Z"
   }
  ]
 }
