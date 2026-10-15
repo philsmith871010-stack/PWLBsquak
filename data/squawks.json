@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T20:01:17Z",
+ "generated_at": "2026-10-15T20:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "16a62ffe60ac",
+   "ts": "2026-10-15T20:17:05Z",
+   "headline": "US 10-year Treasury yield ends the session 10bp lower at 5.09% as WTI crude rises 2.8%",
+   "detail": "A US market close summary reports the 10-year Treasury yield down 10bp at 5.09%, with WTI crude 2.8% higher at $97.71 a barrel and spot gold up 1.8% at $4,177.27 an ounce.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f7d8832ea540acb0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwuxocwvc2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwuxocwvc2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "033eddd425ad",
+   "created_at": "2026-10-15T20:20:50Z"
+  },
   {
    "id": "d2aeec261de1",
    "ts": "2026-10-15T19:58:51Z",
@@ -6059,39 +6080,6 @@
    "model": "opus",
    "run_id": "592984b6dd4c",
    "created_at": "2026-10-14T11:01:18Z"
-  },
-  {
-   "id": "ae2fbedb5db4",
-   "ts": "2026-10-14T10:49:57Z",
-   "headline": "Aramco's Dhahran headquarters reported extensively damaged in Tuesday's attack, though sources say operations continue normally",
-   "detail": "According to sources, fire spread across several floors of the Dhahran headquarters. Aramco has told staff to work from home and has moved some operations to its offices abroad, and sources say operations are continuing normally.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "c5fcf67995cfcd7a",
-    "0f793de3c7b283dd",
-    "8d87021f610c4f24"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtesmpmiu2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtesmpmiu2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtetjeafg2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtetjeafg2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtetpjdba2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtetpjdba2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3f3687f4233c",
-   "created_at": "2026-10-14T10:50:50Z"
   }
  ]
 }
