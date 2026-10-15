@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T15:35:43Z",
+ "generated_at": "2026-10-15T15:40:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "760282ef9b4f",
+   "ts": "2026-10-15T15:38:24Z",
+   "headline": "UN Security Council condemns escalating Houthi attacks on Saudi Arabia in a presidential statement",
+   "detail": "In a presidential statement, Security Council members condemned the continuing and escalating Houthi attacks on Saudi Arabia in the strongest terms, according to reports. Separately, Yemen's cabinet said the strike on the Maashiq Palace was part of a wider Houthi escalation that included attacks on vital facilities in Saudi Arabia.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3a81a8dcddd23494",
+    "64d6b799ad7592f8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwffdjpqv2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwffdjpqv2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwfdsvwux2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwfdsvwux2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f59d2f53cae9",
+   "created_at": "2026-10-15T15:40:55Z"
+  },
   {
    "id": "b652002d1e98",
    "ts": "2026-10-15T15:34:26Z",
@@ -6083,27 +6110,6 @@
    "model": "opus",
    "run_id": "ded203da8600",
    "created_at": "2026-10-14T08:35:41Z"
-  },
-  {
-   "id": "a21ff37c4aba",
-   "ts": "2026-10-14T08:28:02Z",
-   "headline": "IFS launches its Green Budget 2026 ahead of the Budget",
-   "detail": "The Institute for Fiscal Studies began its live launch of the Green Budget 2026 on Wednesday morning, with presentations from IFS authors and Barclays. The report is funded by the Nuffield Foundation.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "b9f1f4bb442e5585"
-   ],
-   "sources": [
-    {
-     "author": "theifs.bsky.social",
-     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3mxt4utufrc2i",
-     "url": "https://bsky.app/profile/theifs.bsky.social/post/3mxt4utufrc2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "16d2accc72ba",
-   "created_at": "2026-10-14T08:31:01Z"
   }
  ]
 }
