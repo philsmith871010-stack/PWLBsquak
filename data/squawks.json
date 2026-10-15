@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T05:31:04Z",
+ "generated_at": "2026-10-15T05:40:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fc15e2cf778b",
+   "ts": "2026-10-15T05:40:38Z",
+   "headline": "BoJ's Koeda says the Bank's basic view is that the neutral rate has to be thought of as a range",
+   "detail": "Bank of Japan board member Koeda said the Bank's basic stance is to consider the neutral interest rate as a range. She made the remark in the same appearance where she said the BoJ should not be too cautious about raising rates.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e0191a8837116f33"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvdyhswqp24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvdyhswqp24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "378927445a81",
+   "created_at": "2026-10-15T05:40:52Z"
+  },
   {
    "id": "b0ac52ee9d89",
    "ts": "2026-10-15T05:29:44Z",
@@ -6479,27 +6500,6 @@
    "model": "opus",
    "run_id": "6ff7faff4489",
    "created_at": "2026-10-13T13:50:49Z"
-  },
-  {
-   "id": "4059474895d1",
-   "ts": "2026-10-13T13:45:29Z",
-   "headline": "Resolution Foundation says UK 10-year gilt yields are the highest among rich countries",
-   "detail": "In its Budget preview, the Resolution Foundation said this year's global rise in borrowing costs has also hit the UK. It said UK 10-year government bond yields are now the highest of any rich country.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "26cbe96498aec229"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxr65lb75d2t",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxr65lb75d2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ca3d4599e4f9",
-   "created_at": "2026-10-13T13:45:48Z"
   }
  ]
 }
