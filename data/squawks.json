@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T09:35:41Z",
+ "generated_at": "2026-10-15T09:45:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d6ed84ac3947",
+   "ts": "2026-10-15T09:45:30Z",
+   "headline": "US 10-year Treasury yield extends its decline to 5.08%, down 11bp on the day",
+   "detail": "The US 10-year Treasury yield fell further to 5.08%, an 11bp drop on the day, extending the earlier move to a three-week low.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "435c31b8caa53493"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvrocjfu42n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvrocjfu42n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cfd45b3dcfe4",
+   "created_at": "2026-10-15T09:45:49Z"
+  },
+  {
+   "id": "365e45357653",
+   "ts": "2026-10-15T09:44:16Z",
+   "headline": "Ukraine strikes a Russian refinery overnight, citing Russian attacks that breached the Trump energy truce",
+   "detail": "A Ukrainian official said Ukraine hit a Russian oil refinery overnight. The official said it was a response to Russian ballistic missile and drone attacks that breached the energy truce brokered by Trump.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "418d46e88671503c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvrm473hn2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvrm473hn2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cfd45b3dcfe4",
+   "created_at": "2026-10-15T09:45:49Z"
+  },
   {
    "id": "47d64f7ae9f6",
    "ts": "2026-10-15T09:31:20Z",
@@ -6470,66 +6512,6 @@
    "model": "opus",
    "run_id": "02e9f93735b9",
    "created_at": "2026-10-13T20:05:45Z"
-  },
-  {
-   "id": "794022712c14",
-   "ts": "2026-10-13T20:02:20Z",
-   "headline": "US Treasury fines Bank of America $1.2bn over money laundering and sanctions failures, FT reports",
-   "detail": "The Financial Times reports that the US Treasury fined Bank of America for money laundering and sanctions violations after concluding it did not properly report more than $5bn of suspicious transactions. One report puts the fine at $1.2bn.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "135935e3701bd263",
-    "7cb4df6de7566cd2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrt6pztmq2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrt6pztmq2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrteztord2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrteztord2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "02e9f93735b9",
-   "created_at": "2026-10-13T20:05:45Z"
-  },
-  {
-   "id": "e45a1cdcddd3",
-   "ts": "2026-10-13T20:01:13Z",
-   "headline": "Fed's Collins says elevated inflation risk is the Fed's main focus and expects inflation to stay above 2% on high energy prices",
-   "detail": "Boston Fed President Collins said the risk of high inflation is the Fed's main focus at present and that she expects inflation to remain above 2% because of high energy prices. She said the path of policy in the new year will depend on the data.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "c97678fcbde84323",
-    "98c8b1a210a0f6aa",
-    "b67754d4ea948e45"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrt5hcina2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrt5hcina2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrt5lvmyb24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrt5lvmyb24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrt5pktla2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrt5pktla2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5a798a4928ca",
-   "created_at": "2026-10-13T20:01:39Z"
   }
  ]
 }
