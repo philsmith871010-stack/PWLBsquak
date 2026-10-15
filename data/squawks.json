@@ -1,8 +1,83 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T08:01:13Z",
+ "generated_at": "2026-10-15T08:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "aceb309ec64c",
+   "ts": "2026-10-15T08:03:47Z",
+   "headline": "Greek PM Mitsotakis rejects Irish EU budget proposal and opposes cuts to farm spending",
+   "detail": "Greek Prime Minister Mitsotakis said Greece is not satisfied with the Irish proposal on the EU multiannual financial framework and will not accept cuts to agricultural spending. He also asked the EU to look at more flexibility to support energy aid for consumers and businesses.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b157a48749f9a2a1",
+    "4236465108d15f57"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvlygsg6u24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvlygsg6u24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvm26q5ws2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvm26q5ws2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "08d8ae5896b4",
+   "created_at": "2026-10-15T08:05:40Z"
+  },
+  {
+   "id": "795d5e97b3c3",
+   "ts": "2026-10-15T08:02:17Z",
+   "headline": "South Korea and Japan to extend their currency swap agreement",
+   "detail": "South Korea and Japan will extend their bilateral currency swap agreement, according to a market news report. The report comes during a sharp sell-off in South Korean equities.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "660a9e29c9ee943f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvlvqlsco2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvlvqlsco2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "08d8ae5896b4",
+   "created_at": "2026-10-15T08:05:40Z"
+  },
+  {
+   "id": "7f7d43710830",
+   "ts": "2026-10-15T08:01:23Z",
+   "headline": "ECB's Kazaks says the ECB does not need to move quickly on rates",
+   "detail": "ECB Governing Council member Kazaks said there is no immediate need to rush on rates, while repeating that inflationary forces remain stronger in the near term.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "2473efb772965f81",
+    "9c11a6c2185e0480"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvlu535su2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvlu535su2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvlwvcfzq2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvlwvcfzq2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "08d8ae5896b4",
+   "created_at": "2026-10-15T08:05:40Z"
+  },
   {
    "id": "5645fc20588d",
    "ts": "2026-10-15T08:00:55Z",
@@ -6461,69 +6536,6 @@
    "model": "opus",
    "run_id": "d10e5a1872de",
    "created_at": "2026-10-13T17:45:48Z"
-  },
-  {
-   "id": "30c3c69239cb",
-   "ts": "2026-10-13T17:40:17Z",
-   "headline": "IRGC says missiles fired from Iranian islands towards ships it calls offending vessels in the Strait of Hormuz",
-   "detail": "Iran's Revolutionary Guards say missiles were fired from Iranian islands towards ships in the Strait of Hormuz that they described as offending. This follows an earlier IRGC Navy threat to sink US ships approaching the strait. The post did not report any market reaction.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1097852462778b7a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrlbhki2h2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrlbhki2h2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "534fa65da795",
-   "created_at": "2026-10-13T17:40:49Z"
-  },
-  {
-   "id": "0323265b8e53",
-   "ts": "2026-10-13T17:40:07Z",
-   "headline": "Iran summons UK ambassador over claims linking Tehran to a suspected plot against RAF Fairford",
-   "detail": "Iran's foreign ministry says it summoned the UK ambassador over accusations that Tehran was linked to a suspected plot against the Fairford air base in Britain.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0f10a297bf11f6e3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrlb5wsnp2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrlb5wsnp2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "534fa65da795",
-   "created_at": "2026-10-13T17:40:49Z"
-  },
-  {
-   "id": "ec7bb0901ebb",
-   "ts": "2026-10-13T17:35:12Z",
-   "headline": "OPEC+ oil output rises sharply in September, led by Saudi Arabia, despite Hormuz disruption",
-   "detail": "OPEC reported on Tuesday a sharp gain in OPEC+ production in September, driven by higher Saudi output, even though the Iran war continues to disrupt shipments through the Strait of Hormuz. No aggregate figure was given in the report.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "3773a7a643ca2d7a"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxrkydolik2e",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxrkydolik2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7a8dac5941c2",
-   "created_at": "2026-10-13T17:35:41Z"
   }
  ]
 }
