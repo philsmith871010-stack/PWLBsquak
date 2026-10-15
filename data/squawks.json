@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T09:01:18Z",
+ "generated_at": "2026-10-15T09:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "72c084d1a865",
+   "ts": "2026-10-15T09:05:05Z",
+   "headline": "Gulf stock markets fall in early trade after the Houthis threaten further attacks on Saudi Arabia",
+   "detail": "Reuters reports that major Gulf markets fell early on Thursday after the Houthis threatened more attacks on Saudi Arabia. Saudi Arabia's benchmark index is on course for a sixth weekly loss.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "4490a79c276cdde7"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxvpfzxowu2k",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxvpfzxowu2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cff6293dee13",
+   "created_at": "2026-10-15T09:05:40Z"
+  },
   {
    "id": "cad4e585f949",
    "ts": "2026-10-15T09:00:55Z",
@@ -6479,69 +6500,6 @@
    "model": "opus",
    "run_id": "f4dcd0e80e5d",
    "created_at": "2026-10-13T18:55:40Z"
-  },
-  {
-   "id": "19a8f0da3943",
-   "ts": "2026-10-13T18:42:41Z",
-   "headline": "Saudi-led coalition says it intercepted Houthi missiles fired at Dhahran and Dammam; Saudi Arabia warns of aerial threat to Riyadh",
-   "detail": "The Saudi-led coalition says it destroyed Houthi ballistic missiles aimed at Dhahran and Dammam in the Eastern Province, and that interception debris fell on a residential area in Dhahran. Saudi Arabia separately warned of a possible hostile aerial threat to Riyadh.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "74be2475fcd90e2b",
-    "04bc0ace4758836f",
-    "b40c001cde1f3634",
-    "e6268c9b3212a607",
-    "816028b5c540d6de",
-    "c209a5f2eb6495cb",
-    "d7b630384f967a8b",
-    "94a6b48e411d2571"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxroqzit7h2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxroqzit7h2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxroqwfgdv2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxroqwfgdv2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxror4wi262y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxror4wi262y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrotikzzz26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrotikzzz26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxroub6pj224",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxroub6pj224"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxropvgj5s24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxropvgj5s24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrorwu3tx2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrorwu3tx2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxroplidu22n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxroplidu22n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d86bf0b3401e",
-   "created_at": "2026-10-13T18:45:48Z"
   }
  ]
 }
