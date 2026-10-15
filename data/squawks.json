@@ -1,8 +1,80 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T12:25:42Z",
+ "generated_at": "2026-10-15T12:31:05Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0f037d8311fe",
+   "ts": "2026-10-15T12:30:57Z",
+   "headline": "US retail sales rise 0.8% m/m in September against a 0.3% forecast; core sales up 0.9% against 0.5% expected",
+   "detail": "US headline retail sales rose 0.8% on the month, down from 1.2% previously. Core retail sales rose 0.9%, against a 0.5% forecast and 1.4% previously.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "be8c6682653be1a7",
+    "02614f64561739a7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw2w5uzbm2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw2w5uzbm2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw2w7sovu2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw2w7sovu2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fde54e11a35f",
+   "created_at": "2026-10-15T12:31:05Z"
+  },
+  {
+   "id": "545d30c1415e",
+   "ts": "2026-10-15T12:30:26Z",
+   "headline": "US jobless claims rise to 199K, below the 200K forecast; NY Fed manufacturing index jumps to 25.5",
+   "detail": "US initial jobless claims rose by 1K to 199K in the week to 10 October, and the prior week was revised to 198K. Continuing claims came in at 1.71M, while the NY Fed manufacturing index rose to 25.5, against a forecast of 12 and 7.60 previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2591e703e697edf6",
+    "2d049aac7cfe6b49",
+    "a67e3be0be96b470",
+    "c4a873ff70bf26ef",
+    "d2dea363589e0955"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw2va5ivs2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw2va5ivs2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw2wajlhl2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw2wajlhl2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw2wbgi652d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw2wbgi652d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw2wdbh5d26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw2wdbh5d26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw2w563xt2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw2w563xt2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fde54e11a35f",
+   "created_at": "2026-10-15T12:31:05Z"
+  },
   {
    "id": "b47c85eafa6b",
    "ts": "2026-10-15T12:25:38Z",
@@ -6183,216 +6255,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsig3xdhk2w",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsig3xdhk2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fd0a841b424e",
-   "created_at": "2026-10-14T05:05:38Z"
-  },
-  {
-   "id": "7480a7d092f4",
-   "ts": "2026-10-14T02:10:15Z",
-   "headline": "IMF urges advanced economies to cut deficits and debt urgently, citing higher bond yields and rising debt-service costs",
-   "detail": "The IMF warned that delaying fiscal consolidation would make it harder and called on countries to strengthen their public finances before markets force them to. An IMF official also said a combination of corporate, inheritance and capital gains taxes could be preferable to a wealth tax.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "b41f4b6bd049b704",
-    "cc22d476b068c65c",
-    "58f12cdfb4d0c570",
-    "17a79fadfe632906",
-    "3738bdfffdb3ac32"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxshrdqhdg2x",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxshrdqhdg2x"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsi3zbshs2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsi3zbshs2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsi6xi3zs2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsi6xi3zs2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsi7absky24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsi7absky24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsici73cl2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsici73cl2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fd0a841b424e",
-   "created_at": "2026-10-14T05:05:38Z"
-  },
-  {
-   "id": "d5a777c20334",
-   "ts": "2026-10-14T02:05:18Z",
-   "headline": "China's September exports rise 29.6% y/y and imports 24.6% y/y in yuan terms, with goods trade topping CNY5tn for the first time",
-   "detail": "Chinese customs data show September goods trade of CNY5.16 trillion, up 27.5% y/y. Exports were CNY3.03 trillion and imports CNY2.13 trillion; January to September exports rose 16.4% and imports 22.3%. The customs vice minister said geopolitical conflicts and other global uncertainties cloud the full-year outlook.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "3a2cae4cca99cdc4",
-    "cef19c98b953b7fc",
-    "56c096e7f126578a",
-    "39b6fdaaba5d94af",
-    "2fbca6da29b372f3",
-    "0f4e384110e6f642",
-    "8f9ffa99773dda14",
-    "9c07ae4eb4c93917",
-    "f36d571cabae6d6b",
-    "2aded82f5b4c8843",
-    "3ed2b1a2fbd2458c",
-    "322d1f7d0e9a1680",
-    "f40444fce9f2f71c",
-    "e8ad7f17db7d7eb9",
-    "59142c9ca2b9e46c",
-    "0ab22585335738be",
-    "0cdff8c200354bb1",
-    "4980e9ea6c917785",
-    "af9a5d3b948466b8",
-    "72e82b8ee3a45cb0",
-    "30d9efbc26914b02",
-    "160625227bbcacfb",
-    "da244394c2a676c4",
-    "3678100a217dedb8",
-    "a82a0673e4cc4b17"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxshiinaaa2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxshiinaaa2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxshajj3ck2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxshajj3ck2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxshdc7ke72r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxshdc7ke72r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsiesomql2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsiesomql2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxshap4wro26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxshap4wro26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsiepqhmt2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsiepqhmt2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxshpjdli32y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxshpjdli32y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxshpomkm62n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxshpomkm62n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxshql75uc2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxshql75uc2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxshroctea2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxshroctea2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxshuu3dg62q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxshuu3dg62q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxshv24lio2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxshv24lio2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxshvishii24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxshvishii24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsi3trumb2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsi3trumb2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsi4uyco72z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsi4uyco72z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsi4x6z2x2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsi4x6z2x2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsi5ywvyk2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsi5ywvyk2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsia3oulp2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsia3oulp2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsia7uixh2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsia7uixh2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsiagen3c2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsiagen3c2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsidkaayc2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsidkaayc2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsidp4d4w26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsidp4d4w26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsidr65l22m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsidr65l22m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsidt4pw22s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsidt4pw22s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsidx7owo26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsidx7owo26"
     }
    ],
    "model": "opus",
