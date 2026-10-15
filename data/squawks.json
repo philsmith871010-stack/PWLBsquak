@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T20:48:15Z",
+ "generated_at": "2026-10-15T21:10:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "566423fd130d",
+   "ts": "2026-10-15T21:08:19Z",
+   "headline": "Fed's Hammack says businesses face heavy input cost pressures and voices concern over an emerging inflation mentality",
+   "detail": "Cleveland Fed President Beth Hammack said businesses are reporting substantial input cost pressures and that she is worried an inflation mentality could take hold. She also said anecdotal information gives important guidance on the economy.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b21f131b354df6ec",
+    "f9b744b282cfb778"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwxtbcqgh2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwxtbcqgh2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwxtar6dh2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwxtar6dh2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f146e25172fb",
+   "created_at": "2026-10-15T21:10:51Z"
+  },
   {
    "id": "7d5b1b1118fe",
    "ts": "2026-10-15T20:46:56Z",
@@ -6071,27 +6098,6 @@
    "model": "opus",
    "run_id": "dda318b3c138",
    "created_at": "2026-10-14T11:31:10Z"
-  },
-  {
-   "id": "73ce44236aaf",
-   "ts": "2026-10-14T11:18:05Z",
-   "headline": "PM Burnham pledges to bring down the UK welfare bill",
-   "detail": "Prime Minister Burnham said on 14 October that the government will reduce welfare spending. He gave no figures or timetable.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "b9db7627bcb80638"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtgewifsu2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtgewifsu2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "77446dad5fc6",
-   "created_at": "2026-10-14T11:20:48Z"
   }
  ]
 }
