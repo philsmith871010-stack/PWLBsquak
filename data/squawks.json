@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T15:01:25Z",
+ "generated_at": "2026-10-15T15:31:11Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8d59c57952da",
+   "ts": "2026-10-15T15:30:12Z",
+   "headline": "Resolution Foundation says UK household energy bills are due to rise again in January",
+   "detail": "The Resolution Foundation says the January increase in energy bills comes at the coldest point of the year, with 46% of household gas use falling in the first quarter. It gave no figure for the size of the rise.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "86b9b499fc404f07"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxwewocekl2z",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxwewocekl2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3ceb0c7be516",
+   "created_at": "2026-10-15T15:31:11Z"
+  },
+  {
+   "id": "a3e72441301f",
+   "ts": "2026-10-15T15:26:34Z",
+   "headline": "ECB officials are reported to be growing impatient for Lagarde to set out her plans",
+   "detail": "A newswire headline reports impatience among ECB officials for President Lagarde to clarify her plans. Earlier reports said the WEF could name her as its next chair as early as 2 November.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "77ed5c1df0429eec"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxweq6rj2r2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxweq6rj2r2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3ceb0c7be516",
+   "created_at": "2026-10-15T15:31:11Z"
+  },
   {
    "id": "374e2b3affa8",
    "ts": "2026-10-15T14:59:18Z",
@@ -6062,54 +6104,6 @@
    "model": "opus",
    "run_id": "43755655abab",
    "created_at": "2026-10-14T08:20:48Z"
-  },
-  {
-   "id": "98d966172ff4",
-   "ts": "2026-10-14T08:16:01Z",
-   "headline": "German economy ministry sees little short-term support from domestic demand and a subdued industrial outlook",
-   "detail": "Germany's economy ministry says weaker purchasing power from higher energy prices, uncertainty and financing costs mean the domestic economy is unlikely to add much momentum in the short term. It also says the outlook for industrial activity remains subdued.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1dd320bc321de05d",
-    "6b89491db59bfff8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt47faa372n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt47faa372n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt4adgvk62f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt4adgvk62f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "43755655abab",
-   "created_at": "2026-10-14T08:20:48Z"
-  },
-  {
-   "id": "73051f3aaff6",
-   "ts": "2026-10-14T08:15:44Z",
-   "headline": "German economy ministry says the economy's momentum probably slowed temporarily in the third quarter",
-   "detail": "Germany's economy ministry gave the assessment in its monthly report, published on Wednesday.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "022a7ceb1588be06"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt46uug7y2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt46uug7y2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "962fe18cc18c",
-   "created_at": "2026-10-14T08:15:47Z"
   }
  ]
 }
