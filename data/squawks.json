@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T08:20:52Z",
+ "generated_at": "2026-10-15T08:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "acf224e96842",
+   "ts": "2026-10-15T08:21:46Z",
+   "headline": "BoE's Breeden says UK activity is not collapsing and the labour market is holding up",
+   "detail": "Bank of England Deputy Governor Sarah Breeden said she sees resilience and cost management among UK firms, with activity not dropping sharply and the labour market holding up.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "e6e4c9cd9bf2a8f9",
+    "54516a030a22671a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvmyl2azi2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvmyl2azi2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvmzpw3f22z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvmzpw3f22z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ed730b12d26c",
+   "created_at": "2026-10-15T08:25:41Z"
+  },
   {
    "id": "d302cb765d6c",
    "ts": "2026-10-15T08:18:50Z",
@@ -6540,27 +6567,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrlzfyzss2m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrlzfyzss2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aa4869e6e9dc",
-   "created_at": "2026-10-13T17:55:41Z"
-  },
-  {
-   "id": "7ff869188887",
-   "ts": "2026-10-13T17:51:43Z",
-   "headline": "Saudi civil defence warns of possible danger in the Eastern Province",
-   "detail": "Saudi Arabia's civil defence authority has issued an alert about possible danger in the kingdom's Eastern Province. The alert follows Houthi statements that Saudi Aramco facilities are legitimate targets. It gave no further details.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7e2f4f5b373a7e4f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrlvv27n22r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrlvv27n22r"
     }
    ],
    "model": "opus",
