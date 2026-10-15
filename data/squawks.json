@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T10:05:42Z",
+ "generated_at": "2026-10-15T10:10:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bec5b5afb415",
+   "ts": "2026-10-15T10:09:57Z",
+   "headline": "France's Moulin says the French deficit can be brought down to 3% within three years, CNBC reports",
+   "detail": "Moulin made the remarks in an interview with CNBC. They come amid reported concern over French public debt.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "28d8d36ef4c2eb50"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvszzu7yf2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvszzu7yf2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "034af0927a44",
+   "created_at": "2026-10-15T10:10:47Z"
+  },
   {
    "id": "79fbaf4575ff",
    "ts": "2026-10-15T10:05:08Z",
@@ -6455,33 +6476,6 @@
    "model": "opus",
    "run_id": "a1f98c45d02d",
    "created_at": "2026-10-13T20:31:07Z"
-  },
-  {
-   "id": "892a9e79e238",
-   "ts": "2026-10-13T20:24:45Z",
-   "headline": "Fed's Collins says she is watching how broad inflation pressures are in the data and takes a holistic view of the economy",
-   "detail": "Boston Fed President Susan Collins said she is looking at the economy as a whole when considering the future path of rate policy, and is monitoring the breadth of inflation pressures in incoming data.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4465e8201558375b",
-    "3bb545c779df85c4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxruhhz6yn2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxruhhz6yn2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxruhk66se2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxruhk66se2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "495cb17a12e0",
-   "created_at": "2026-10-13T20:25:40Z"
   }
  ]
 }
