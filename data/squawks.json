@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T08:40:49Z",
+ "generated_at": "2026-10-15T08:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2bde77ec10f8",
+   "ts": "2026-10-15T08:48:28Z",
+   "headline": "Chancellor Reeves's Budget will give the UK breathing space and include steps to strengthen economic resilience, says Healey",
+   "detail": "UK minister Healey said the Budget will give Britain some breathing space and will include measures to reinforce the resilience of the UK economy. He also said there are already signs that AI is improving productivity.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "515291172bc3956e",
+    "7582ccef15897f95",
+    "1a879dfb5be8c007"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvoidjwa72s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvoidjwa72s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvojceyul2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvojceyul2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvoi3dtn32z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvoi3dtn32z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3a22cc3c9d71",
+   "created_at": "2026-10-15T08:50:48Z"
+  },
   {
    "id": "604f832ca3a3",
    "ts": "2026-10-15T08:37:11Z",
@@ -6491,27 +6524,6 @@
    "model": "opus",
    "run_id": "8f6062931599",
    "created_at": "2026-10-13T18:31:08Z"
-  },
-  {
-   "id": "d1ac260daec4",
-   "ts": "2026-10-13T18:15:03Z",
-   "headline": "Saudi statement says the danger in the Eastern Province has passed",
-   "detail": "A Saudi statement says the danger in the kingdom's Eastern Province is over. It follows an earlier civil defence warning of possible danger in the region and Houthi threats against Saudi Aramco facilities. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d63c165d725223c3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrn7muzcv2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrn7muzcv2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "85179d2ac744",
-   "created_at": "2026-10-13T18:15:52Z"
   }
  ]
 }
