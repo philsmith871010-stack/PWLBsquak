@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T16:45:49Z",
+ "generated_at": "2026-10-15T16:50:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8f53cfd808c4",
+   "ts": "2026-10-15T16:50:12Z",
+   "headline": "Switzerland authorises drawdowns from mandatory jet fuel reserves as Zurich Airport faces a supply shortfall",
+   "detail": "On Thursday the Swiss government approved withdrawals from mandatory jet fuel stocks to deal with a looming fuel shortage at Zurich Airport, Reuters reports.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "96ad50a7a4196b80"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxwjfq6ewc2m",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxwjfq6ewc2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "58d15467fed0",
+   "created_at": "2026-10-15T16:50:59Z"
+  },
   {
    "id": "67ee36ffb524",
    "ts": "2026-10-15T16:41:46Z",
@@ -6071,39 +6092,6 @@
    "model": "opus",
    "run_id": "748feae74ca9",
    "created_at": "2026-10-14T10:10:51Z"
-  },
-  {
-   "id": "f2092d9d0b7c",
-   "ts": "2026-10-14T09:53:19Z",
-   "headline": "Fed's Bowman sees no urgency for further rate action and says the Fed can wait and assess conditions",
-   "detail": "Federal Reserve Vice Chair for Supervision Michelle Bowman said there was no immediate need for more moves on rates. She said the Fed could wait and assess conditions before acting again.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "f6c012b97dfd2979",
-    "4403995e3fec25f3",
-    "338df4834a92a32a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtbnec7cf26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtbnec7cf26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtbqrjyel2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtbqrjyel2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtbqyvbmj2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtbqyvbmj2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "eaf1a7fc8fe8",
-   "created_at": "2026-10-14T09:55:42Z"
   }
  ]
 }
