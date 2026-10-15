@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T13:20:51Z",
+ "generated_at": "2026-10-15T13:31:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f55afdd42c55",
+   "ts": "2026-10-15T13:27:01Z",
+   "headline": "Saudi-led coalition says 1,104 missiles and 1,135 drones have been fired at Saudi Arabia since operations began",
+   "detail": "The Saudi-led coalition gave the cumulative totals of missiles and drones launched at the Kingdom since the start of its operations. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "dbfefd2930b24ba9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw62foyju26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw62foyju26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0da91d21b9eb",
+   "created_at": "2026-10-15T13:31:08Z"
+  },
   {
    "id": "701a31bc8ff4",
    "ts": "2026-10-15T13:16:34Z",
@@ -6072,27 +6093,6 @@
      "author": "financialtimes.com",
      "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxsqichuje2j",
      "url": "https://bsky.app/profile/financialtimes.com/post/3mxsqichuje2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6c5269a1ac1d",
-   "created_at": "2026-10-14T05:20:51Z"
-  },
-  {
-   "id": "6b7097520812",
-   "ts": "2026-10-14T04:30:23Z",
-   "headline": "IMF's Georgieva says the US cannot rely on growth to reduce its debt and needs further fiscal adjustment",
-   "detail": "IMF Managing Director Kristalina Georgieva said on Wednesday that US growth alone will not shrink mounting public debt, and that other fiscal measures are needed to put it on a more sustainable path, Reuters reports.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ef2d59632fe79509"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxsplvgmu32d",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxsplvgmu32d"
     }
    ],
    "model": "opus",
