@@ -1,8 +1,119 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T12:31:05Z",
+ "generated_at": "2026-10-15T12:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5f1b101bc382",
+   "ts": "2026-10-15T12:34:00Z",
+   "headline": "Zelenskyy pledges to resume Ukrainian strikes on Russian oil refineries after what he describes as a US withdrawal of intelligence support",
+   "detail": "Semafor reports that Ukraine's president has pledged to resume attacks on Russian refineries. Washington has pressed Kyiv to curb strikes on energy facilities and has linked them to rising fuel prices.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e020dedaef23b830"
+   ],
+   "sources": [
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mxw33mtfgy2v",
+     "url": "https://bsky.app/profile/semafor.com/post/3mxw33mtfgy2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e284424c64f7",
+   "created_at": "2026-10-15T12:35:41Z"
+  },
+  {
+   "id": "9a94746c762b",
+   "ts": "2026-10-15T12:31:39Z",
+   "headline": "Philadelphia Fed manufacturing index falls to 20.9 in October, below the 28 forecast and down from 37.8",
+   "detail": "The October Philadelphia Fed business index came in at 20.9, against a forecast of 28.0 and 37.8 previously. US continuing jobless claims were 1710K, against an expected 1709K and 1716K previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "088ce5fc100970b1",
+    "5d51c4fec5de1df9",
+    "38d252f3e993cf49"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw2xg4x5e2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw2xg4x5e2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw32pa4bf2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw32pa4bf2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw32ncjwd2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw32ncjwd2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e284424c64f7",
+   "created_at": "2026-10-15T12:35:41Z"
+  },
+  {
+   "id": "0160695d0408",
+   "ts": "2026-10-15T12:31:28Z",
+   "headline": "US producer prices rise 6.3% y/y in September against a 5.4% forecast; monthly rise of 1.3% is double the expected 0.6%",
+   "detail": "US headline PPI rose 1.3% m/m in September, up from 0.4% the previous month. Core PPI rose 0.7% m/m against a 0.3% forecast, and 5% y/y against an expected 4.4% (previous 4.6%).",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "8f1d88854d1ad63d",
+    "c54647a79ee01a0e",
+    "e4722a39637c7440",
+    "11b0b13fa615d06b",
+    "8ebb21cfa5024709",
+    "22948e401b4865ea",
+    "2dac0231cac02273"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw2x2yzck24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw2x2yzck24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw2x4m6m32m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw2x4m6m32m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw2xdvqoq2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw2xdvqoq2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw2xihkat2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw2xihkat2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw2z2rbtc2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw2z2rbtc2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw2z3e56t2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw2z3e56t2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw32onvwq2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw32onvwq2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e284424c64f7",
+   "created_at": "2026-10-15T12:35:41Z"
+  },
   {
    "id": "0f037d8311fe",
    "ts": "2026-10-15T12:30:57Z",
@@ -6125,141 +6236,6 @@
    "model": "opus",
    "run_id": "8a46c64917e0",
    "created_at": "2026-10-14T05:10:50Z"
-  },
-  {
-   "id": "21e58aed04e6",
-   "ts": "2026-10-14T02:22:32Z",
-   "headline": "ECB's Lagarde says the ECB must act before risks fully emerge and is watching wage bargaining for early signals",
-   "detail": "ECB President Lagarde said policymakers are monitoring collective bargaining for early signs of wage growth, that France's debt problems must be addressed mainly through French fiscal policy, and that 1.1% eurozone growth in 2026 is not bad. She also said she has no plans to run for the French presidency.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "0ef500e7373a650a",
-    "83e8f29bccba1b88",
-    "a29ec1f0b1f96fa6",
-    "990a62dc7c58d7c0",
-    "8a3557094a9419ae",
-    "19a2cd2b94a1133b",
-    "219c5bf2b70c2495",
-    "4f53f17d35b5d94e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsihcia5h2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsihcia5h2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsihv3u5s2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsihv3u5s2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsikmw2wt2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsikmw2wt2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsiml4fds2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsiml4fds2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsio3ffsp2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsio3ffsp2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsioabpkf2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsioabpkf2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsiwcfezx2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsiwcfezx2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsixjg62n2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsixjg62n2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8a46c64917e0",
-   "created_at": "2026-10-14T05:10:50Z"
-  },
-  {
-   "id": "f0e5edd6515e",
-   "ts": "2026-10-14T02:20:14Z",
-   "headline": "Singapore's central bank leaves monetary policy unchanged, against analysts' expectations",
-   "detail": "The Monetary Authority of Singapore kept its settings on hold on Wednesday and expects growth and inflation to ease slightly as the AI boom and supply constraints moderate.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "eafd332d9e993fe5"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxsid6qu5y2x",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxsid6qu5y2x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fd0a841b424e",
-   "created_at": "2026-10-14T05:05:38Z"
-  },
-  {
-   "id": "e36cc4c5bc4f",
-   "ts": "2026-10-14T02:19:42Z",
-   "headline": "ECB's Lagarde says energy explains most but not all of the rise in inflation and second-round effects have not emerged so far",
-   "detail": "ECB President Lagarde said the ECB cannot wait for signals to become obvious and is monitoring the wage increases expected through collective bargaining in Europe.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "3a41e4acfba3e893",
-    "b41b28fb765e50a6",
-    "009f5852f28def40",
-    "e0a39ca626111424",
-    "96920773d92d64c6",
-    "03ba4535b59ade05"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsicacbeh2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsicacbeh2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsidgzasy2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsidgzasy2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsidvajh22m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsidvajh22m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsiewmlry2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsiewmlry2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsif2qo5w2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsif2qo5w2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxsig3xdhk2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxsig3xdhk2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fd0a841b424e",
-   "created_at": "2026-10-14T05:05:38Z"
   }
  ]
 }
