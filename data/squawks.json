@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T10:20:49Z",
+ "generated_at": "2026-10-15T10:25:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2fbe32862512",
+   "ts": "2026-10-15T10:21:18Z",
+   "headline": "Iran has struck Gulf infrastructure dozens of times in precision attacks, and Gulf states often hide the damage, Reuters reports",
+   "detail": "A Reuters report says repeated Iranian precision strikes on Gulf infrastructure have weakened the US war effort. It adds that Gulf governments have often hidden how much damage was done.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6a347ab9fe12bc0d"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxvtocnvvg2a",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxvtocnvvg2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a2a8fdabb5d4",
+   "created_at": "2026-10-15T10:25:39Z"
+  },
   {
    "id": "38b22123ac66",
    "ts": "2026-10-15T10:17:54Z",
@@ -6461,27 +6482,6 @@
    "model": "opus",
    "run_id": "1a38222b3f9f",
    "created_at": "2026-10-13T20:45:47Z"
-  },
-  {
-   "id": "a3cceaf46b27",
-   "ts": "2026-10-13T20:35:17Z",
-   "headline": "Fed's Collins says officials know that higher rates can cause difficulties",
-   "detail": "Boston Fed President Collins said policymakers are aware that higher interest rates can create challenges. She made the remark in further comments on Tuesday.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7cababc53ed84a02"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxrv2eu73b2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxrv2eu73b2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "42fbb72314de",
-   "created_at": "2026-10-13T20:35:42Z"
   }
  ]
 }
