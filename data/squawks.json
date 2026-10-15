@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T15:40:55Z",
+ "generated_at": "2026-10-15T15:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "39137075104a",
+   "ts": "2026-10-15T15:45:41Z",
+   "headline": "Putin says recent Ukrainian strikes on Russian refineries have caused no significant damage",
+   "detail": "Russian President Vladimir Putin said Ukraine's recent strikes on Russian oil refineries had not caused significant damage. Ukraine had pledged to resume strikes on Russian refineries.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "02cfc0e0462f1ad2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwfseobfu2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwfseobfu2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e0b628d0027c",
+   "created_at": "2026-10-15T15:45:50Z"
+  },
   {
    "id": "760282ef9b4f",
    "ts": "2026-10-15T15:38:24Z",
@@ -6089,27 +6110,6 @@
    "model": "opus",
    "run_id": "68d2e16b4515",
    "created_at": "2026-10-14T08:45:47Z"
-  },
-  {
-   "id": "aa0335e049bf",
-   "ts": "2026-10-14T08:34:08Z",
-   "headline": "European Commission proposes delaying EU methane rules on imported oil and gas by one year",
-   "detail": "The European Commission has proposed postponing by one year the EU methane emissions rules that apply to imported oil and gas.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "d6714a35ced1fb95"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt57rrauu2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt57rrauu2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ded203da8600",
-   "created_at": "2026-10-14T08:35:41Z"
   }
  ]
 }
