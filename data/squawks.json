@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T16:05:45Z",
+ "generated_at": "2026-10-15T16:10:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f83a15168701",
+   "ts": "2026-10-15T16:08:06Z",
+   "headline": "Japan finance ministry official says G7 and G20 raised no financial stability concerns over the AI-led sell-off",
+   "detail": "A Japanese Ministry of Finance official said G7 and G20 policymakers saw no risk of financial system instability from the AI-led sell-off, though they agreed on the need for vigilance. The official also said the ministry watches markets closely but will not comment on individual stock, currency or bond moves.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "08bac2fe6f925c34",
+    "212fa1182a9e5feb",
+    "62c1d32ea291790c",
+    "512192ed52db6f20"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwh2h4asx24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwh2h4asx24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwh6cfpqu2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwh6cfpqu2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwgwqho7o2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwgwqho7o2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwgwxmp322w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwgwxmp322w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ac55482b3914",
+   "created_at": "2026-10-15T16:10:52Z"
+  },
   {
    "id": "4e11bd54de92",
    "ts": "2026-10-15T16:04:47Z",
@@ -6089,33 +6128,6 @@
    "model": "opus",
    "run_id": "420801011cfb",
    "created_at": "2026-10-14T09:05:43Z"
-  },
-  {
-   "id": "c8893b7a3ee4",
-   "ts": "2026-10-14T08:59:48Z",
-   "headline": "Trump is considering revisiting US intelligence sharing with Ukraine, Semafor reports",
-   "detail": "Semafor reports that the White House is actively discussing intelligence sharing with Ukraine. It says CIA Director Ratcliffe is opposed to halting it.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2018c9fa8c51b952",
-    "9b3bbb14acba6571"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt6ltbsbq2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt6ltbsbq2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxt6nokosx2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxt6nokosx2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bade17dbd287",
-   "created_at": "2026-10-14T09:01:18Z"
   }
  ]
 }
