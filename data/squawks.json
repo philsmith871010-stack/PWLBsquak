@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T18:10:55Z",
+ "generated_at": "2026-10-16T18:15:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dabd40eeb5d8",
+   "ts": "2026-10-16T18:12:20Z",
+   "headline": "US CENTCOM commander says the US naval blockade has halted all of Iran's maritime exports and imports",
+   "detail": "The commander of US Central Command said in a post on X that Iran currently has no seaborne exports or imports because of the US naval blockade. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e081421846e35c77"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz6hjcgsu2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz6hjcgsu2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4d8558771fd6",
+   "created_at": "2026-10-16T18:15:46Z"
+  },
   {
    "id": "f837514cc12b",
    "ts": "2026-10-16T18:10:45Z",
@@ -5694,27 +5715,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvtgrzeyf2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvtgrzeyf2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "95c97a42d3cf",
-   "created_at": "2026-10-15T10:20:49Z"
-  },
-  {
-   "id": "87ee39d41226",
-   "ts": "2026-10-15T10:16:03Z",
-   "headline": "German 10-year Bund yield falls further, down 10bp to 3.37%, its lowest since 8 September",
-   "detail": "The German 10-year yield dropped 10bp on the day to 3.37%, its lowest level since 8 September, according to a market wire report.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "0325c664bb6ed10c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvtewgpxr2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvtewgpxr2r"
     }
    ],
    "model": "opus",
