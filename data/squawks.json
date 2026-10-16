@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T11:01:16Z",
+ "generated_at": "2026-10-16T11:15:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "59a31cf57446",
+   "ts": "2026-10-16T11:12:33Z",
+   "headline": "Germany's upper house approves a further release of oil stocks following the G7 agreement",
+   "detail": "Germany's upper house of parliament has approved a further release of strategic oil stocks, in line with an agreement among G7 countries. No volumes were given.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "96a27f27bb3ea2ea"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxygyvmuxm2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxygyvmuxm2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "db8b4dad20ca",
+   "created_at": "2026-10-16T11:15:48Z"
+  },
   {
    "id": "7e103f18dd00",
    "ts": "2026-10-16T11:00:43Z",
@@ -6107,63 +6128,6 @@
    "model": "opus",
    "run_id": "fd9b63f9bb33",
    "created_at": "2026-10-14T20:25:46Z"
-  },
-  {
-   "id": "01b201711534",
-   "ts": "2026-10-14T19:24:23Z",
-   "headline": "Fed's Goolsbee says tariff effects on prices are lasting longer than expected and he will not precommit to future policy moves",
-   "detail": "Chicago Fed President Goolsbee said energy, tariffs and services are keeping price pressures high, and that policy should stay data-dependent while the Fed returns inflation to 2%. He also said a slowdown in AI investment need not cause a recession and that he is watching the financial stability implications of AI investment.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "23ddb092fceecf90",
-    "2fc630a5d5617826",
-    "33ed7ffec1409313",
-    "5c12e345724daa58",
-    "bcf28909cbd3341d",
-    "f7b18f2de8c8489c",
-    "5e083796dc7dc2ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxubkiog7v2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxubkiog7v2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxubkudgfq2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxubkudgfq2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxubkzmo7m2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxubkzmo7m2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxubep3t2r2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxubep3t2r2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxubfqziex24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxubfqziex24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxubkehnh72y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxubkehnh72y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxubkqevcg2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxubkqevcg2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c7798b57e5ac",
-   "created_at": "2026-10-14T19:25:41Z"
   }
  ]
 }
