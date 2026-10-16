@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T20:45:49Z",
+ "generated_at": "2026-10-16T21:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6df7c1ca85d5",
+   "ts": "2026-10-16T21:47:35Z",
+   "headline": "UK Foreign Office now advises against all but essential travel to Saudi Arabia",
+   "detail": "The UK Foreign Office has changed its travel advice for Saudi Arabia to advise against all but essential travel. The change follows reports earlier in the day of missiles and drones aimed at Riyadh and the Yanbu export hub.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "69d42516b2ac6bac",
+    "b4f4e4e615f994ba"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxzkigbyrl26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxzkigbyrl26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxzkigqt542r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxzkigqt542r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "36b5dd6905e5",
+   "created_at": "2026-10-16T21:50:48Z"
+  },
   {
    "id": "f8198cb8900c",
    "ts": "2026-10-16T20:45:17Z",
@@ -5735,27 +5762,6 @@
    "model": "opus",
    "run_id": "4a26fa45a44a",
    "created_at": "2026-10-15T11:45:49Z"
-  },
-  {
-   "id": "052d14bbd333",
-   "ts": "2026-10-15T11:39:25Z",
-   "headline": "Saudi Aramco offers more spot crude cargoes to Europe for late October to mid-November delivery, trade sources say",
-   "detail": "Three trade sources say Saudi Aramco is offering additional spot crude oil cargoes into the European market for delivery between late October and mid-November.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "0be1ee8b18634ed4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvxzyz2hs2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvxzyz2hs2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8a47a559b04c",
-   "created_at": "2026-10-15T11:40:51Z"
   }
  ]
 }
