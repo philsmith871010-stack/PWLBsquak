@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T12:31:07Z",
+ "generated_at": "2026-10-16T12:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8865a4797e9f",
+   "ts": "2026-10-16T12:32:29Z",
+   "headline": "US natural gas futures drop 5% after a force majeure is lifted",
+   "detail": "A market wire reports that US natural gas futures fell 5% after a force majeure was lifted. The report does not say which facility was affected.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "303c8ab749052821"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxylhsnba42m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxylhsnba42m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "afdb8593c8aa",
+   "created_at": "2026-10-16T12:35:42Z"
+  },
   {
    "id": "f87d58e2eeed",
    "ts": "2026-10-16T12:30:49Z",
@@ -5879,33 +5900,6 @@
    "model": "opus",
    "run_id": "4cee82fcd863",
    "created_at": "2026-10-15T05:15:50Z"
-  },
-  {
-   "id": "da5a3fe8ffcd",
-   "ts": "2026-10-15T01:48:54Z",
-   "headline": "Bund futures rise 0.65% and French OAT futures gain 0.76% in early trading",
-   "detail": "German and French government bond futures rose in Asian hours as global equities fell.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "21a0d04c60906ce4",
-    "48aef428604bf9de"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxux23qfdg2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxux23qfdg2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxux55327z2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxux55327z2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c195c630e312",
-   "created_at": "2026-10-15T05:10:46Z"
   }
  ]
 }
