@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T06:40:54Z",
+ "generated_at": "2026-10-16T07:15:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cb507ae103d4",
+   "ts": "2026-10-16T07:15:08Z",
+   "headline": "China says its talks with the EU show the two sides can manage their differences through dialogue",
+   "detail": "China commented on its talks with EU officials as the EU weighs trade measures on Chinese goods, including possible quotas and a trade instrument. The post did not say which Chinese official made the statement.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f7dec4b20ac2b4b0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxzqe3gge26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxzqe3gge26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6d8a22f40a08",
+   "created_at": "2026-10-16T07:15:46Z"
+  },
   {
    "id": "9ea850e8923a",
    "ts": "2026-10-16T06:36:18Z",
@@ -6221,27 +6242,6 @@
    "model": "opus",
    "run_id": "c505995fa271",
    "created_at": "2026-10-14T14:15:50Z"
-  },
-  {
-   "id": "c5248f0d5f12",
-   "ts": "2026-10-14T14:06:54Z",
-   "headline": "Fed's Williams says one more rate hike may be appropriate but sees no reason at present to expect more beyond that",
-   "detail": "New York Fed President John Williams said his view has not changed that one more hike may be appropriate, and that he currently has no reason to think further increases would be needed.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "c9f956c8a53e09d0"
-   ],
-   "sources": [
-    {
-     "author": "domw.bsky.social",
-     "uri": "at://did:plc:ysurxzi2odawdywedcdwyz5z/app.bsky.feed.post/3mxtpsspui22d",
-     "url": "https://bsky.app/profile/domw.bsky.social/post/3mxtpsspui22d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "69aeb0a91b35",
-   "created_at": "2026-10-14T14:10:49Z"
   }
  ]
 }
