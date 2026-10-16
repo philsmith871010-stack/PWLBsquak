@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T15:35:41Z",
+ "generated_at": "2026-10-16T15:40:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f6ac249c46c9",
+   "ts": "2026-10-16T15:36:56Z",
+   "headline": "Putin says Russian forces fully control Luhansk; Kremlin says 450 km of a 660 km border security strip is under Russian control",
+   "detail": "Putin said the Luhansk region is now entirely under the control of Russian forces and that work on the security zone along the Ukrainian border is going well. The Kremlin said the strip runs for 660 km, of which 450 km is currently held by Russia.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8e4ae6cf6cc6ec2b",
+    "01845c1db996501d",
+    "a9004a4561137ec2",
+    "e23c48052852ae7f",
+    "224c2b7335cedccb",
+    "12c1b981aa965b17"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyvrn4efv2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyvrn4efv2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyvrmlh4s2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyvrmlh4s2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyvrm3oiw2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyvrm3oiw2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyvtvyz6y2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyvtvyz6y2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyvtvbxk62y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyvtvbxk62y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyvrkcnqn24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyvrkcnqn24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f2f90f743071",
+   "created_at": "2026-10-16T15:40:47Z"
+  },
   {
    "id": "54cea6412002",
    "ts": "2026-10-16T15:35:30Z",
@@ -5777,33 +5828,6 @@
    "model": "opus",
    "run_id": "c83867c4ce71",
    "created_at": "2026-10-15T08:15:52Z"
-  },
-  {
-   "id": "8b61ce8ea839",
-   "ts": "2026-10-15T08:09:33Z",
-   "headline": "BoE's Breeden says the UK economy has absorbed the energy shock better than she expected",
-   "detail": "Bank of England Deputy Governor Sarah Breeden said she was surprised at how the UK economy had coped with the energy shock. She added that companies say they are focusing on cutting costs rather than passing the energy price shock on to customers.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "993427983dfd4bc4",
-    "cd268e6c4af2b5a6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvmcqckju2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvmcqckju2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvmeldy7u24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvmeldy7u24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3930667ff686",
-   "created_at": "2026-10-15T08:10:50Z"
   }
  ]
 }
