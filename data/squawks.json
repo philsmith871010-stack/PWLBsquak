@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T13:40:56Z",
+ "generated_at": "2026-10-16T13:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "feaa8863aa22",
+   "ts": "2026-10-16T13:43:28Z",
+   "headline": "Russia's Novak says Russian diesel will help balance the global market and the deal with the US benefits all fuel consumers",
+   "detail": "Russian Deputy Prime Minister Alexander Novak made the remarks about the US-Russia diesel deal on 16 October.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "aa6184ca3971155c",
+    "c76c5019bc5090eb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxypgqnjs22f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxypgqnjs22f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyphhrkja2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyphhrkja2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "59cc411e670f",
+   "created_at": "2026-10-16T13:45:50Z"
+  },
   {
    "id": "af7f73911397",
    "ts": "2026-10-16T13:38:37Z",
@@ -5765,27 +5792,6 @@
    "model": "opus",
    "run_id": "5eac0b57ab84",
    "created_at": "2026-10-15T05:45:48Z"
-  },
-  {
-   "id": "fc15e2cf778b",
-   "ts": "2026-10-15T05:40:38Z",
-   "headline": "BoJ's Koeda says the Bank's basic view is that the neutral rate has to be thought of as a range",
-   "detail": "Bank of Japan board member Koeda said the Bank's basic stance is to consider the neutral interest rate as a range. She made the remark in the same appearance where she said the BoJ should not be too cautious about raising rates.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e0191a8837116f33"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvdyhswqp24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvdyhswqp24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "378927445a81",
-   "created_at": "2026-10-15T05:40:52Z"
   }
  ]
 }
