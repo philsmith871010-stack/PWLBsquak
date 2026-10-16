@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T13:50:47Z",
+ "generated_at": "2026-10-16T13:55:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "90c5ae77edb9",
+   "ts": "2026-10-16T13:50:52Z",
+   "headline": "Putin envoy Dmitriev says the US Treasury asked Russia's RDIF fund to help facilitate the US-Russia diesel deal",
+   "detail": "Kremlin envoy Kirill Dmitriev said the US finance ministry asked the Russian Direct Investment Fund, which he heads, to facilitate the diesel deal between the two countries. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4281feff247bdae0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyptxytoy26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyptxytoy26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e1340e02a317",
+   "created_at": "2026-10-16T13:55:40Z"
+  },
   {
    "id": "7d7e27269c3e",
    "ts": "2026-10-16T13:50:26Z",
@@ -5735,63 +5756,6 @@
    "model": "opus",
    "run_id": "2a14ccb135c0",
    "created_at": "2026-10-15T05:50:46Z"
-  },
-  {
-   "id": "fc493ffb993d",
-   "ts": "2026-10-15T05:45:37Z",
-   "headline": "BoJ's Koeda says the Bank has no set pace for rate hikes and should adjust rates in a timely way",
-   "detail": "BoJ board member Koeda said the Bank has not settled on a particular pace for raising rates. She described monetary conditions as accommodative and called for appropriate policy adjustments in light of upside risks to prices.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "419af5ab2ac1f594",
-    "0f24018c4c2e81c2",
-    "44135b130043c79c",
-    "3823abe769972c14",
-    "5b34d4483b73f9fa",
-    "b1d9ce7e5f3e50b8",
-    "46900f1432eab49c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvebejdhm2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvebejdhm2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvebiqllm2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvebiqllm2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvdzfc2ge2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvdzfc2ge2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvdzj5duz2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvdzj5duz2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxve2hs2v72w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxve2hs2v72w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxve5fywgv2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxve5fywgv2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxve2ecdu22m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxve2ecdu22m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5eac0b57ab84",
-   "created_at": "2026-10-15T05:45:48Z"
   }
  ]
 }
