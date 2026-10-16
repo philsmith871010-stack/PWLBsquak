@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T10:05:39Z",
+ "generated_at": "2026-10-16T10:10:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2313c03b1b28",
+   "ts": "2026-10-16T10:07:07Z",
+   "headline": "Chancellor Reeves pitched London to UBS as a possible new headquarters as the bank weighs Swiss capital proposals, FT reports",
+   "detail": "The FT reports that the UK government approached UBS about moving its headquarters to London. The Swiss bank is reviewing its options in response to new capital proposals.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "8b1f7e2d5d59ab5e"
+   ],
+   "sources": [
+    {
+     "author": "iankmsmith.ft.com",
+     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3mxydduwjqc24",
+     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3mxydduwjqc24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8645078c6c6e",
+   "created_at": "2026-10-16T10:10:49Z"
+  },
   {
    "id": "1c791b28eafa",
    "ts": "2026-10-16T10:01:34Z",
@@ -6263,45 +6284,6 @@
    "model": "opus",
    "run_id": "946db8d3d8e8",
    "created_at": "2026-10-14T18:55:44Z"
-  },
-  {
-   "id": "7baa3be2f136",
-   "ts": "2026-10-14T18:37:14Z",
-   "headline": "Fed's Barkin says US CPI came in above what he had hoped and declines to prejudge the October FOMC outcome",
-   "detail": "Richmond Fed President Barkin said the September CPI report was higher than he would have liked and that he would not project the result of the October FOMC meeting. He said Thursday's producer price data would help shape his inflation outlook.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "fe886eb55b849a7b",
-    "671a0e19b2aa9d78",
-    "bf3122169df6b211",
-    "7bb0665a94af9646"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu6vedtqj2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu6vedtqj2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu6w734lt2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu6w734lt2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu6x6qytm2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu6x6qytm2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu733hskt2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu733hskt2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "280f41e12830",
-   "created_at": "2026-10-14T18:40:52Z"
   }
  ]
 }
