@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T13:15:48Z",
+ "generated_at": "2026-10-16T13:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dcd7ce3435b2",
+   "ts": "2026-10-16T13:16:08Z",
+   "headline": "US industrial production rises 0.7% m/m in September, above the 0.4% forecast; capacity utilisation at 76.9%",
+   "detail": "US industrial production rose 0.7% m/m in September, after 0.0% the previous month and above the 0.4% forecast. Manufacturing output rose 0.3%, in line with forecast, after -0.3%. Capacity utilisation came in at 76.9%, against a 76.5% forecast and 76.3% previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "90a4f3bcda22b020",
+    "872fd8be9c3ae3ef",
+    "23fba2141a38589c",
+    "b8e1f69b301eb7fa",
+    "54275acd1170fb09"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxynvuoiwe2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxynvuoiwe2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxynvtzdgx2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxynvtzdgx2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxynvsvekx24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxynvsvekx24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxynvs2d4a2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxynvs2d4a2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxynygnx2l2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxynygnx2l2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5d154c896866",
+   "created_at": "2026-10-16T13:20:50Z"
+  },
   {
    "id": "d1d8f860787f",
    "ts": "2026-10-16T13:15:14Z",
@@ -5748,45 +5793,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvclldzfy2n",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvclldzfy2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6e7f44c33ce3",
-   "created_at": "2026-10-15T05:20:48Z"
-  },
-  {
-   "id": "5913a1ac5bbe",
-   "ts": "2026-10-15T04:40:10Z",
-   "headline": "US military strike plans include possible use of 'mother of all bombs' on Iranian energy and nuclear sites, CNN reports",
-   "detail": "CNN, citing US officials, reported that the plans could use the GBU-43/B bomb against Iranian energy infrastructure and nuclear sites if President Trump orders renewed combat operations.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6cfce0734d676bff",
-    "9892520d091a2204",
-    "7311ae2f48b1fc30",
-    "cf39e2eff0111164"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxv6mw2sc52z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxv6mw2sc52z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxv6ojxdyf2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxv6ojxdyf2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxv6pfpvkw2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxv6pfpvkw2y"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxvamcul6u2p",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxvamcul6u2p"
     }
    ],
    "model": "opus",
