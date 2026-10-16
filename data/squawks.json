@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T18:15:46Z",
+ "generated_at": "2026-10-16T18:35:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2b2ffd832e95",
+   "ts": "2026-10-16T18:35:14Z",
+   "headline": "Brent futures reach $110 a barrel for the first time since 20 May",
+   "detail": "Brent futures rose to $110 a barrel, a level last seen on 20 May, extending the day's gains.",
+   "category": "energy",
+   "importance": 3,
+   "source_event_ids": [
+    "f3cc676928715e14"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz7qhsezi2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz7qhsezi2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "06f723220f74",
+   "created_at": "2026-10-16T18:35:45Z"
+  },
+  {
+   "id": "1432e3f39021",
+   "ts": "2026-10-16T18:31:48Z",
+   "headline": "WTI crude futures settle up $3.44, or 3.51%, at $101.41 a barrel",
+   "detail": "NYMEX WTI crude futures settled at $101.41 a barrel, up $3.44 or 3.51%. November diesel futures settled at $4.8991 a gallon and November gasoline at $3.2354 a gallon.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "83ad351a4d9eb581",
+    "d0c76a594410b938",
+    "f96e69593cae5efb",
+    "c10724f7b7bf85e7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz7kddvj62m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz7kddvj62m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz7m3n2gr24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz7m3n2gr24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz7mxrsmv2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz7mxrsmv2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz7mtjgpp2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz7mtjgpp2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "06f723220f74",
+   "created_at": "2026-10-16T18:35:45Z"
+  },
   {
    "id": "dabd40eeb5d8",
    "ts": "2026-10-16T18:12:20Z",
@@ -5672,54 +5732,6 @@
    "model": "opus",
    "run_id": "3084c68d4b01",
    "created_at": "2026-10-15T10:31:03Z"
-  },
-  {
-   "id": "2fbe32862512",
-   "ts": "2026-10-15T10:21:18Z",
-   "headline": "Iran has struck Gulf infrastructure dozens of times in precision attacks, and Gulf states often hide the damage, Reuters reports",
-   "detail": "A Reuters report says repeated Iranian precision strikes on Gulf infrastructure have weakened the US war effort. It adds that Gulf governments have often hidden how much damage was done.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6a347ab9fe12bc0d"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxvtocnvvg2a",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxvtocnvvg2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a2a8fdabb5d4",
-   "created_at": "2026-10-15T10:25:39Z"
-  },
-  {
-   "id": "38b22123ac66",
-   "ts": "2026-10-15T10:17:54Z",
-   "headline": "ECB's Moulin says he is confident about financial stability in France, CNBC reports",
-   "detail": "Speaking to CNBC, Moulin said he was confident about France's financial stability. In the same interview he said the French deficit could be cut to 3% within three years.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ee32477baff42ceb",
-    "93eeaca193c36ba1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvtiae7tk2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvtiae7tk2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvtgrzeyf2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvtgrzeyf2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "95c97a42d3cf",
-   "created_at": "2026-10-15T10:20:49Z"
   }
  ]
 }
