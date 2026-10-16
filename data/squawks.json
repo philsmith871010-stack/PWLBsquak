@@ -1,8 +1,155 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T05:05:42Z",
+ "generated_at": "2026-10-16T05:10:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4f7dc380f95e",
+   "ts": "2026-10-16T03:32:18Z",
+   "headline": "US Treasury official Browne says Japan's currency and monetary policy must adjust to the post-deflation environment",
+   "detail": "US Treasury official Browne also called on the IMF to do more to identify global imbalances.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "78474594fa3ae019",
+    "d03214c257eb8148",
+    "ae313a1cc5a8b32b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxnbvnitr2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxnbvnitr2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxn3g6j622r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxn3g6j622r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxn7ooaqk2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxn7ooaqk2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0187c1dbe2f8",
+   "created_at": "2026-10-16T05:10:48Z"
+  },
+  {
+   "id": "0c5f41f82d1c",
+   "ts": "2026-10-16T02:47:26Z",
+   "headline": "IMF's Georgieva says price stability must stay central banks' main focus and debt cannot fall without fiscal action",
+   "detail": "Speaking alongside Fed Chair Warsh in Bangkok, IMF Managing Director Kristalina Georgieva said growth alone cannot bring debt down fast enough without fiscal discipline. She also urged northern countries to rebuild fuel reserves before winter.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "fb799cea0cfaab02",
+    "ea39360060d6c69d",
+    "d09d15841b7869af",
+    "46ce0a53ad3112a3",
+    "ee8e55ba01e9e360",
+    "8745092929f90a7c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxkw37ree2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxkw37ree2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxktt233z2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxktt233z2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxllrzugr2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxllrzugr2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxkrnyy7g2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxkrnyy7g2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxkvdx2os2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxkvdx2os2f"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxxkfhspv22p",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxxkfhspv22p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0187c1dbe2f8",
+   "created_at": "2026-10-16T05:10:48Z"
+  },
+  {
+   "id": "f353fd963ddf",
+   "ts": "2026-10-16T02:09:50Z",
+   "headline": "BoE's Bailey says second-round inflation effects look subdued so far and Middle East news is the main driver of gilt yields",
+   "detail": "BoE Governor Andrew Bailey said the effect of higher energy prices on wider UK prices appears limited so far, but it is too early to draw firm conclusions. He also said the UK economy has been more resilient than forecast, though growth is not strong enough; said he is frustrated that inflation remains above target; and said prospects for international alignment on AI testing have improved.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "c95c406f41e44198",
+    "93f785b01da9e614",
+    "7a7cfbce63f9a22a",
+    "7fa4af8202e8c275",
+    "dfe5291d1c9f2d53",
+    "fb231dc9d1997927",
+    "ba03c76e9518d1de",
+    "5a9ebc248562efcb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxiogvjx32y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxiogvjx32y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxiohw4ja2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxiohw4ja2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxip7bqml2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxip7bqml2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxipwkvd42w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxipwkvd42w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxireplxa2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxireplxa2r"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxxkwmmfmd2j",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxxkwmmfmd2j"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxxn5f7v4o2f",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mxxn5f7v4o2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxje7wyed2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxje7wyed2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0187c1dbe2f8",
+   "created_at": "2026-10-16T05:10:48Z"
+  },
   {
    "id": "0c4fd6876947",
    "ts": "2026-10-16T01:19:48Z",
@@ -5921,69 +6068,6 @@
    "model": "opus",
    "run_id": "90f82d7ece0a",
    "created_at": "2026-10-14T13:01:16Z"
-  },
-  {
-   "id": "e17b1cc00755",
-   "ts": "2026-10-14T12:54:46Z",
-   "headline": "US gasoline prices jump 9.1% m/m in September, making up more than half of the monthly CPI increase",
-   "detail": "BLS data show headline CPI at 3.7% y/y in September, up from 3.4%, and core CPI at 2.6%, up from 2.4%. Gasoline rose 9.1% on the month and made up more than half of the monthly rise in CPI.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "f335d28a3d410793"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtlrtixjp26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtlrtixjp26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c76aded8aa43",
-   "created_at": "2026-10-14T12:55:42Z"
-  },
-  {
-   "id": "d3363fb30455",
-   "ts": "2026-10-14T12:49:14Z",
-   "headline": "US 2-year Treasury yield extends rise to 12.72bp at 4.92%, its highest since 29 September",
-   "detail": "The US 2-year Treasury yield was last up 12.72bp at 4.92%, its highest level since 29 September, after the September US CPI data.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "53f48a0707c180ab"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtlhwfjmh2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtlhwfjmh2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8f9065283249",
-   "created_at": "2026-10-14T12:50:50Z"
-  },
-  {
-   "id": "85dd075b0ba8",
-   "ts": "2026-10-14T12:46:09Z",
-   "headline": "US supercore CPI rises 0.42% m/m in September, slower than 0.51% the month before",
-   "detail": "US supercore CPI rose 0.42% month on month in September, compared with 0.51% in the previous month, according to the September US CPI release.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "db48f538de2166cf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtlcgifq72r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtlcgifq72r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8f9065283249",
-   "created_at": "2026-10-14T12:50:50Z"
   }
  ]
 }
