@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T09:05:41Z",
+ "generated_at": "2026-10-16T09:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5e454ac0becf",
+   "ts": "2026-10-16T09:15:09Z",
+   "headline": "Real Living Wage for 2026-27 is set at £14.10 for the UK and £15.45 for London",
+   "detail": "The Resolution Foundation published the revised voluntary real Living Wage rates for 2026-27: £14.10 an hour across the UK and £15.45 in London.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "6cff6b931c014aa8"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxyagxiwqk2w",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxyagxiwqk2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "38e10b541d94",
+   "created_at": "2026-10-16T09:15:50Z"
+  },
   {
    "id": "68a0bb27a623",
    "ts": "2026-10-16T09:01:19Z",
@@ -6270,33 +6291,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu3bjiu7d26",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu3bjiu7d26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9dbab65cb502",
-   "created_at": "2026-10-14T17:35:41Z"
-  },
-  {
-   "id": "31d4e616c666",
-   "ts": "2026-10-14T17:31:33Z",
-   "headline": "Iran's parliament speaker says Iran wants neither endless war nor drawn-out talks and will fight until its demands are met",
-   "detail": "Iran's parliament speaker Ghalibaf made the remarks in an address to the nation, Fars news agency reported. He said Iran will keep fighting until the enemy is forced to accept its demands.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e87a07538e52bca4",
-    "fe285308eab524b9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu3aqmvzb2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu3aqmvzb2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu3dr5nbb2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu3dr5nbb2q"
     }
    ],
    "model": "opus",
