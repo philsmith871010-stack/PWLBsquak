@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T11:15:48Z",
+ "generated_at": "2026-10-16T11:20:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "34394a0a6008",
+   "ts": "2026-10-16T11:18:22Z",
+   "headline": "Ukraine offers to hold up to 10 bcm of EU strategic gas reserves in its underground storage",
+   "detail": "Ukraine has proposed that the EU keep up to 10 bcm of European strategic gas reserves in Ukrainian underground storage. Separately, an acting chief executive said Ukraine's own stored gas is at about 16 bcm, its highest level in six years.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "53d44e5014078350",
+    "4895c0a6e259430f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyhdbmewp2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyhdbmewp2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyhday4ry2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyhday4ry2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1237baebef17",
+   "created_at": "2026-10-16T11:20:51Z"
+  },
   {
    "id": "59a31cf57446",
    "ts": "2026-10-16T11:12:33Z",
@@ -6107,27 +6134,6 @@
    "model": "opus",
    "run_id": "137192f2cd27",
    "created_at": "2026-10-14T21:05:40Z"
-  },
-  {
-   "id": "abb6312b2597",
-   "ts": "2026-10-14T20:25:07Z",
-   "headline": "US maritime regulator proposes $200,000 fee on Spanish-flagged ships and limits on Spanish olive oil imports in port dispute",
-   "detail": "Reuters reports the US Federal Maritime Commission proposed on Wednesday a $200,000 fee on Spanish-flagged ships calling at US ports. The proposal would also restrict imports from Spain, including olive oil, its biggest export to the US.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "dfac51d653b9702f"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxuex4fjtq2m",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxuex4fjtq2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fd9b63f9bb33",
-   "created_at": "2026-10-14T20:25:46Z"
   }
  ]
 }
