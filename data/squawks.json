@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T18:05:41Z",
+ "generated_at": "2026-10-16T18:10:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f837514cc12b",
+   "ts": "2026-10-16T18:10:45Z",
+   "headline": "US CENTCOM says over 100m barrels of oil were shipped through Hormuz in the past 7 days with US help",
+   "detail": "US Central Command said the US has helped move more than 100m barrels through the Strait of Hormuz over the past seven days. US officials also said about 400 merchant ships transited the strait in that period.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "e664672270569e1f",
+    "854a8921b38fbf0d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz6eowqlh2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz6eowqlh2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz6d4s4vk2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz6d4s4vk2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2d28656b7919",
+   "created_at": "2026-10-16T18:10:55Z"
+  },
+  {
+   "id": "23a8f3a21112",
+   "ts": "2026-10-16T18:06:31Z",
+   "headline": "US posts a $26.9bn budget deficit for September",
+   "detail": "The US Treasury reported a September budget deficit of $26.9bn, the final month of a fiscal year in which the deficit reached $1.992trn.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "820521514362e8e8",
+    "a52a8642e498daca"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz654ukyh2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz654ukyh2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz65tpxlx2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz65tpxlx2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2d28656b7919",
+   "created_at": "2026-10-16T18:10:55Z"
+  },
   {
    "id": "4cd2ce8e844e",
    "ts": "2026-10-16T18:05:09Z",
@@ -5666,48 +5720,6 @@
    "model": "opus",
    "run_id": "95c97a42d3cf",
    "created_at": "2026-10-15T10:20:49Z"
-  },
-  {
-   "id": "bec5b5afb415",
-   "ts": "2026-10-15T10:09:57Z",
-   "headline": "France's Moulin says the French deficit can be brought down to 3% within three years, CNBC reports",
-   "detail": "Moulin made the remarks in an interview with CNBC. They come amid reported concern over French public debt.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "28d8d36ef4c2eb50"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvszzu7yf2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvszzu7yf2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "034af0927a44",
-   "created_at": "2026-10-15T10:10:47Z"
-  },
-  {
-   "id": "79fbaf4575ff",
-   "ts": "2026-10-15T10:05:08Z",
-   "headline": "BoE's Breeden says banks need deep 'bare metal' cyber-recovery options in the face of AI-enabled attacks",
-   "detail": "Bank of England Deputy Governor Sarah Breeden said on Thursday that the Bank is working with banks on deep cyber-recovery options. She said lenders can no longer assume their defences cannot be breached, Reuters reports.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "a15a848cc2387412"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxvsrfqim22j",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxvsrfqim22j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3bebe6583722",
-   "created_at": "2026-10-15T10:05:42Z"
   }
  ]
 }
