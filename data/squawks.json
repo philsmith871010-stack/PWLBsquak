@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T07:25:44Z",
+ "generated_at": "2026-10-16T07:31:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "836078cf9dce",
+   "ts": "2026-10-16T07:29:09Z",
+   "headline": "PBOC Governor Pan says China will promote renminbi bonds as globally accepted, eligible collateral",
+   "detail": "People's Bank of China Governor Pan Gongsheng said the central bank plans to promote renminbi bonds as collateral that is recognised and eligible worldwide. He made the remarks alongside earlier comments on developing offshore yuan markets.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "18e86020af933325"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy2jga43w2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy2jga43w2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "69c421f4625f",
+   "created_at": "2026-10-16T07:31:04Z"
+  },
   {
    "id": "b4ae8ded2941",
    "ts": "2026-10-16T07:25:16Z",
@@ -6215,33 +6236,6 @@
    "model": "opus",
    "run_id": "3e30f1cacf7c",
    "created_at": "2026-10-14T15:05:43Z"
-  },
-  {
-   "id": "65febd4f6b53",
-   "ts": "2026-10-14T14:48:47Z",
-   "headline": "Russia's Novak says two Russian oil refineries were attacked today",
-   "detail": "Russian Deputy Prime Minister Alexander Novak said two Russian oil refineries came under attack on Wednesday, Interfax reported. No details of damage or effect on output were given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "9fdce3b3c16ce02d",
-    "47d6de56bc34cf32"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxts5pknfu2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxts5pknfu2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxts6khqms2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxts6khqms2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e70eeb27802e",
-   "created_at": "2026-10-14T14:50:49Z"
   }
  ]
 }
