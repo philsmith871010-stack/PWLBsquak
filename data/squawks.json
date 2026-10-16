@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T12:01:13Z",
+ "generated_at": "2026-10-16T12:05:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7b4f3cbfd3d6",
+   "ts": "2026-10-16T12:05:24Z",
+   "headline": "BoJ's Ueda says underlying inflation cannot be allowed to rise further above 2% and the focus is now on entrenching 2%",
+   "detail": "Bank of Japan Governor Ueda also said he wants to judge the estimate of the neutral rate after taking account of the cumulative effect of past rate rises on financial conditions and domestic prices.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "fb94dfd2e04ddeef",
+    "b55d7d697ed733d4",
+    "6ee695a7a896b5d2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyjv4ydse2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyjv4ydse2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyjxdzoc72r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyjxdzoc72r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyjxen5rp2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyjxen5rp2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2f56b4818df6",
+   "created_at": "2026-10-16T12:05:39Z"
+  },
+  {
+   "id": "b234d037914e",
+   "ts": "2026-10-16T12:03:37Z",
+   "headline": "China's commerce ministry warns the EU it will not gain from pressure and should not underestimate China's resolve",
+   "detail": "China's commerce ministry said the EU should not expect to win concessions by pressuring China, and that Beijing is determined and able to protect its interests.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ab4399fa63ef56c3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyju6u2yu2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyju6u2yu2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2f56b4818df6",
+   "created_at": "2026-10-16T12:05:39Z"
+  },
   {
    "id": "fa39f39005e7",
    "ts": "2026-10-16T11:57:29Z",
@@ -6116,138 +6170,6 @@
    "model": "opus",
    "run_id": "c195c630e312",
    "created_at": "2026-10-15T05:10:46Z"
-  },
-  {
-   "id": "223992ee95b9",
-   "ts": "2026-10-15T00:44:45Z",
-   "headline": "10-year JGB yield falls 5.5bp to 2.94%, its lowest since 10 September",
-   "detail": "Japan's 10-year government bond yield fell 5.5bp to 2.94% in Asian trading, its lowest since 10 September. The 30-year JGB yield fell 4.5bp to 3.995%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1898e8b22fb2410f",
-    "b4d66a4efe8eead1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuthea66c24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuthea66c24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuuhid6rv2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuuhid6rv2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "82447b52a3ea",
-   "created_at": "2026-10-15T05:05:41Z"
-  },
-  {
-   "id": "d7fc09454f70",
-   "ts": "2026-10-15T00:31:05Z",
-   "headline": "Australian employment falls 39.3k in September against a forecast 20k rise; jobless rate rises to 4.7%",
-   "detail": "Australian employment fell 39.3k in September against a forecast 20k gain, after a 39.5k rise the month before. The unemployment rate rose to 4.7% from 4.6%, above the 4.6% forecast, and the participation rate fell to 66.8% against a forecast of 67.0%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "68e3ae1851fb2f8d",
-    "71aaa026390f373f",
-    "2cc055d6e77357dd",
-    "c22a7ab609157469",
-    "1280c86800f49452",
-    "ac08e00f5f2398e7",
-    "b1fb375927cf9fef",
-    "8770de37847e9182",
-    "469412d85abb8219",
-    "9ddc9987c54a5681",
-    "8e1add8b66b450ad",
-    "948ace440c101be1",
-    "bf941313570d6d5b",
-    "3df55644d98e91df",
-    "559b74b3a81972a1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxusowt6u52r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxusowt6u52r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxusp5wvl226",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxusp5wvl226"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxusqel7ni2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxusqel7ni2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxusqhtvsn2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxusqhtvsn2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxusyijrfp2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxusyijrfp2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxusysqd5e24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxusysqd5e24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxut5ajxhb2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxut5ajxhb2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxut5cybh32y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxut5cybh32y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxusqjtyzw2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxusqjtyzw2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxusq5fn5f2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxusq5fn5f2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxut62x2ob2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxut62x2ob2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxusos2ips26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxusos2ips26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxusqauwug2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxusqauwug2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxut5ggsh62d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxut5ggsh62d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxut5qofna2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxut5qofna2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "82447b52a3ea",
-   "created_at": "2026-10-15T05:05:41Z"
   }
  ]
 }
