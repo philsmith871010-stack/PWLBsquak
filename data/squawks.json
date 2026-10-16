@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T07:35:46Z",
+ "generated_at": "2026-10-16T07:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6b3d01add0b8",
+   "ts": "2026-10-16T07:46:04Z",
+   "headline": "G7 finance ministers agree to run simulated AI-driven cyber attacks on banks as cyber risk concerns grow",
+   "detail": "The FT reports that G7 finance ministers have agreed to hold tabletop drills to prepare banks against future cyber attacks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "448073b85e2ac6e1"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxy3hnuq4e23",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mxy3hnuq4e23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "86255eef9088",
+   "created_at": "2026-10-16T07:50:49Z"
+  },
   {
    "id": "1227cf23fa25",
    "ts": "2026-10-16T07:35:21Z",
@@ -6263,27 +6284,6 @@
    "model": "opus",
    "run_id": "ab73b4d9da0d",
    "created_at": "2026-10-14T15:15:51Z"
-  },
-  {
-   "id": "c3e5247cd8cb",
-   "ts": "2026-10-14T15:10:29Z",
-   "headline": "Adviser to Ukraine's Zelenskiy rejects as false Russian reports of strikes on refineries today",
-   "detail": "An adviser to Ukraine's President Zelenskiy said Russian reports of attacks on refineries today were fake. Earlier, Russia's Novak had said two Russian oil refineries were attacked today.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "35863dae15ff4f1a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtteiwpv52s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtteiwpv52s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "35497e5416e9",
-   "created_at": "2026-10-14T15:10:50Z"
   }
  ]
 }
