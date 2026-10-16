@@ -1,8 +1,65 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T06:01:15Z",
+ "generated_at": "2026-10-16T06:10:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8d84ac9113a1",
+   "ts": "2026-10-16T06:09:54Z",
+   "headline": "China's finance minister urges a balanced view of global imbalances in talks with ECB's Lagarde and EU officials",
+   "detail": "According to a ministry statement, China's finance minister met the EU economy commissioner, ECB President Lagarde and the Eurogroup president. He said China is willing to make full use of the China-EU financial dialogue and to discuss improving global economic governance and macro-policy coordination.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "078ebde7d968ee4b",
+    "14d9c380ee490b83",
+    "7f29ec8692dda3de",
+    "745dfde90b429f88",
+    "e6abcaa56a47cd6c",
+    "e516f5730279f426",
+    "e5d1ecf363813fd1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxvzgnejl2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxvzgnejl2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxw25kkgj2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxw25kkgj2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxw2wislo2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxw2wislo2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxw2x37wh2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxw2x37wh2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxw3ph3hm2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxw3ph3hm2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxw3oxavx2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxw3oxavx2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxw4gylbe2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxw4gylbe2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d31732fa968f",
+   "created_at": "2026-10-16T06:10:49Z"
+  },
   {
    "id": "7f1a4f03bb2f",
    "ts": "2026-10-16T06:01:04Z",
@@ -6155,27 +6212,6 @@
    "model": "opus",
    "run_id": "882c0ba9d961",
    "created_at": "2026-10-14T14:01:19Z"
-  },
-  {
-   "id": "57108e397407",
-   "ts": "2026-10-14T13:41:20Z",
-   "headline": "Citigroup now expects a 25bp Fed rate hike in December 2026; it had previously forecast no change this year",
-   "detail": "Citigroup has changed its Federal Reserve call and now expects a 25bp rate increase in December 2026. Its previous forecast was for no change this year.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "cc7a37ed6ce784a7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtof3we6i2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtof3we6i2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f3a588bc7812",
-   "created_at": "2026-10-14T13:45:58Z"
   }
  ]
 }
