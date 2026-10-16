@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T17:15:45Z",
+ "generated_at": "2026-10-16T17:20:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0550c4e7470d",
+   "ts": "2026-10-16T17:18:04Z",
+   "headline": "Trump says Russia will release diesel under the US-Russia deal and calls it a deal for the world",
+   "detail": "The US President was speaking to reporters on Friday about the US-Russia diesel deal. Other leaders had criticised the deal earlier in the day.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "e92624a729124d12"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz3ghx4v72f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz3ghx4v72f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a15d669bbe1e",
+   "created_at": "2026-10-16T17:20:45Z"
+  },
   {
    "id": "c9f6a27564c6",
    "ts": "2026-10-16T17:15:16Z",
@@ -5729,27 +5750,6 @@
    "model": "opus",
    "run_id": "cfd45b3dcfe4",
    "created_at": "2026-10-15T09:45:49Z"
-  },
-  {
-   "id": "47d64f7ae9f6",
-   "ts": "2026-10-15T09:31:20Z",
-   "headline": "China indicates rare earth supplies to Europe will continue, CNBC reports",
-   "detail": "CNBC reports that China has signalled rare earth exports to Europe will keep flowing. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4bc9b73f45f0928d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvquydrlg2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvquydrlg2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d60eab04cb68",
-   "created_at": "2026-10-15T09:35:41Z"
   }
  ]
 }
