@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T13:25:43Z",
+ "generated_at": "2026-10-16T13:40:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "af7f73911397",
+   "ts": "2026-10-16T13:38:37Z",
+   "headline": "US industrial production rises 2.25% y/y in September, up from 1.42% the previous month",
+   "detail": "The annual figure for US industrial production in September was 2.25%, up from 1.42% in the previous reading. No forecast was given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "66b09a9f245db24a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyp63bmhp2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyp63bmhp2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1536b033c4e5",
+   "created_at": "2026-10-16T13:40:56Z"
+  },
   {
    "id": "3628f9ca0c8f",
    "ts": "2026-10-16T13:24:45Z",
@@ -5765,33 +5786,6 @@
    "model": "opus",
    "run_id": "378927445a81",
    "created_at": "2026-10-15T05:40:52Z"
-  },
-  {
-   "id": "b0ac52ee9d89",
-   "ts": "2026-10-15T05:29:44Z",
-   "headline": "Italy's draft budgetary plan aims to raise 0.44% of GDP from the financial sector over 2027-2029",
-   "detail": "Italy's Draft Budgetary Plan sets out a levy on the financial sector worth 0.44% of GDP across the 2027-2029 period.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b85063b117b57196",
-    "7c16bfd570655e7f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvdexwbh42r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvdexwbh42r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvdf3shku2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvdf3shku2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c39354d54ad2",
-   "created_at": "2026-10-15T05:31:04Z"
   }
  ]
 }
