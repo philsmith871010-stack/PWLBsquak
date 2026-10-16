@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T15:01:19Z",
+ "generated_at": "2026-10-16T15:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cb6bcc7702af",
+   "ts": "2026-10-16T15:05:24Z",
+   "headline": "Italy and the European Commission agree on a gas price cap law",
+   "detail": "Italy and the European Commission have reached agreement on a law capping gas prices, according to a market news feed. The report gave no details of the terms.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "79f73af401a2337d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxytzakxua2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxytzakxua2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "182eaec62d87",
+   "created_at": "2026-10-16T15:05:42Z"
+  },
   {
    "id": "79f513264ce8",
    "ts": "2026-10-16T14:57:31Z",
@@ -5772,27 +5793,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvm26q5ws2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvm26q5ws2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "08d8ae5896b4",
-   "created_at": "2026-10-15T08:05:40Z"
-  },
-  {
-   "id": "795d5e97b3c3",
-   "ts": "2026-10-15T08:02:17Z",
-   "headline": "South Korea and Japan to extend their currency swap agreement",
-   "detail": "South Korea and Japan will extend their bilateral currency swap agreement, according to a market news report. The report comes during a sharp sell-off in South Korean equities.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "660a9e29c9ee943f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvlvqlsco2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvlvqlsco2m"
     }
    ],
    "model": "opus",
