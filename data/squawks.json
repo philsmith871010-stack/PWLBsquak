@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T13:20:50Z",
+ "generated_at": "2026-10-16T13:25:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3628f9ca0c8f",
+   "ts": "2026-10-16T13:24:45Z",
+   "headline": "US Treasury yields rise after economic data, with the 10-year up 3.8bp to 5.125%",
+   "detail": "The US 10-year yield rose 3.8bp to 5.125% after economic data. The 30-year rose 3.04bp to 5.458%, the 2-year rose 1.45bp to 4.766%, and the 2s10s spread stood at +35.7bp.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "dad5fe5739a420ff"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyofbo3sn2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyofbo3sn2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a5b7205ef08f",
+   "created_at": "2026-10-16T13:25:43Z"
+  },
   {
    "id": "dcd7ce3435b2",
    "ts": "2026-10-16T13:16:08Z",
@@ -5771,33 +5792,6 @@
    "model": "opus",
    "run_id": "c39354d54ad2",
    "created_at": "2026-10-15T05:31:04Z"
-  },
-  {
-   "id": "943b886ce44d",
-   "ts": "2026-10-15T05:15:32Z",
-   "headline": "French CPI holds at 3.0% y/y in September and falls 0.3% m/m, both in line with forecasts",
-   "detail": "French consumer prices rose 3.0% year on year, unchanged from the previous month and in line with the forecast. Prices fell 0.3% month on month, matching expectations, after a 0.3% rise the previous month.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ad2bc9161458b72b",
-    "df2f0afa1ededd2f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvckpjr4y2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvckpjr4y2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvclldzfy2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvclldzfy2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6e7f44c33ce3",
-   "created_at": "2026-10-15T05:20:48Z"
   }
  ]
 }
