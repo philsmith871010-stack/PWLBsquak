@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T17:27:59Z",
+ "generated_at": "2026-10-16T17:31:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "eac33d52839b",
+   "ts": "2026-10-16T17:30:29Z",
+   "headline": "Resolution Foundation says the UK has had the equivalent of 13 years of normal inflation in five years",
+   "detail": "The Resolution Foundation says the UK has had about 13 years' worth of normal inflation over the past five years. It also says the cost of living crisis hit the UK harder than other countries.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "1e85be3c549351a6"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxz44oxtzz2z",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxz44oxtzz2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "709cc41eabfa",
+   "created_at": "2026-10-16T17:31:06Z"
+  },
   {
    "id": "ee0fc431b0ab",
    "ts": "2026-10-16T17:26:54Z",
@@ -5729,27 +5750,6 @@
    "model": "opus",
    "run_id": "83a0aa913ade",
    "created_at": "2026-10-15T09:55:43Z"
-  },
-  {
-   "id": "12b6310862fe",
-   "ts": "2026-10-15T09:48:21Z",
-   "headline": "Spain to release 4.4 million barrels from its strategic reserves in October",
-   "detail": "An official at Spain's energy ministry says 4.4 million barrels will be drawn from the country's strategic reserves during October.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "c66b58198ce2248b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvrtg5kli2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvrtg5kli2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "545f5b9a24b5",
-   "created_at": "2026-10-15T09:50:55Z"
   }
  ]
 }
