@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T18:35:45Z",
+ "generated_at": "2026-10-16T18:55:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "04e8e79090d3",
+   "ts": "2026-10-16T18:53:06Z",
+   "headline": "Brent crude futures settle up $3.94, or 3.72%, at $109.86 a barrel",
+   "detail": "Brent crude futures settle at $109.86 a barrel, up $3.94 or 3.72% on the session.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "9873863ff76a2501"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxzaqfxfle2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxzaqfxfle2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6cacd169ebd9",
+   "created_at": "2026-10-16T18:55:49Z"
+  },
+  {
+   "id": "5af27d7a6c68",
+   "ts": "2026-10-16T18:52:40Z",
+   "headline": "US net interest payments on debt reach a record $1.05trn in fiscal 2026",
+   "detail": "The US paid a record $1.05trn in net interest on its debt in the 2026 fiscal year, according to the US budget figures.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0fd83686336d30db"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxzapnenfv24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxzapnenfv24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6cacd169ebd9",
+   "created_at": "2026-10-16T18:55:49Z"
+  },
   {
    "id": "2b2ffd832e95",
    "ts": "2026-10-16T18:35:14Z",
@@ -5690,48 +5732,6 @@
    "model": "opus",
    "run_id": "60fc1e0a16da",
    "created_at": "2026-10-15T11:10:47Z"
-  },
-  {
-   "id": "c350a7521bd3",
-   "ts": "2026-10-15T10:52:45Z",
-   "headline": "SNB's Tschudin says inflationary pressures are slightly higher than in June",
-   "detail": "Swiss National Bank official Tschudin said inflation pressures have risen slightly compared with June.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "090b30bf56fa68e9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvvgl3s6t2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvvgl3s6t2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4105f207bf35",
-   "created_at": "2026-10-15T10:55:41Z"
-  },
-  {
-   "id": "f34cf8f31797",
-   "ts": "2026-10-15T10:30:24Z",
-   "headline": "Oil tanker freight costs surge, with a US-to-Japan supertanker voyage costing $81m against $9.1m last year, Reuters reports",
-   "detail": "Reuters reports that the cost of shipping crude oil has risen sharply. It says a supertanker carrying about 2 million barrels from the US to Japan in late November will cost $81 million, compared with an average of $9.1 million for the same voyage last year.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "c1a2b04c59f62285"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxvu6lbmas2t",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxvu6lbmas2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3084c68d4b01",
-   "created_at": "2026-10-15T10:31:03Z"
   }
  ]
 }
