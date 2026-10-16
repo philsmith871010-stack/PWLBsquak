@@ -1,8 +1,107 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T14:31:08Z",
+ "generated_at": "2026-10-16T14:35:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "933d6c4f088d",
+   "ts": "2026-10-16T14:28:49Z",
+   "headline": "Putin envoy Dmitriev says Russia and the US are discussing joint data centre projects and will announce more initiatives soon",
+   "detail": "Kremlin envoy Kirill Dmitriev said the projects could draw on power from Russian nuclear stations. He said further joint initiatives beyond the diesel deal would be announced soon, and some would go ahead before Russia's military operation in Ukraine ends.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d7331baec7215f91",
+    "9737828942c27ee2",
+    "91b83546d06da2f8",
+    "7538c1a57a87f1c6",
+    "938437ac67d33390"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyrxtehcz2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyrxtehcz2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyryktjdt2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyryktjdt2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyrylhatt2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyrylhatt2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxys7fkn6l2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxys7fkn6l2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyscgz7x32q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyscgz7x32q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "08d42e784089",
+   "created_at": "2026-10-16T14:35:40Z"
+  },
+  {
+   "id": "e0b06880c3ee",
+   "ts": "2026-10-16T14:16:18Z",
+   "headline": "NatWest is no longer a US Treasury primary dealer, New York Fed says",
+   "detail": "The Federal Reserve Bank of New York's list shows NatWest has stopped being a primary dealer.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "02bd890f33affeeb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyrbhwnpv26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyrbhwnpv26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "08d42e784089",
+   "created_at": "2026-10-16T14:35:40Z"
+  },
+  {
+   "id": "c81b80abba70",
+   "ts": "2026-10-16T14:15:09Z",
+   "headline": "US Energy Department seeks an exchange of up to 17m barrels of crude from the Strategic Petroleum Reserve",
+   "detail": "The US Department of Energy is offering up to 17m barrels of crude oil from the Strategic Petroleum Reserve through an exchange, according to wire headlines.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "30ca9df0ac5879a2",
+    "a61ff3e8b69313c4",
+    "6c8a21d773c56582"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyr7fnh622r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyr7fnh622r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyrwfrlpz2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyrwfrlpz2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyschmepn2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyschmepn2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "08d42e784089",
+   "created_at": "2026-10-16T14:35:40Z"
+  },
   {
    "id": "4e03a7754210",
    "ts": "2026-10-16T14:03:27Z",
@@ -5693,69 +5792,6 @@
    "model": "opus",
    "run_id": "c494c5e4efa7",
    "created_at": "2026-10-15T07:31:02Z"
-  },
-  {
-   "id": "66e04eb70614",
-   "ts": "2026-10-15T07:20:58Z",
-   "headline": "BoE's Greene voices concern over the short-term inflationary effect of AI",
-   "detail": "Bank of England MPC member Megan Greene said she is worried about the near-term inflationary impact of artificial intelligence, according to a market news headline.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "bc9c399a64b80964"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvjluuphp2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvjluuphp2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "276699918e24",
-   "created_at": "2026-10-15T07:25:39Z"
-  },
-  {
-   "id": "cb9eebb95400",
-   "ts": "2026-10-15T06:59:25Z",
-   "headline": "BoE's Greene says leaning on market pricing is not a workable long-term approach",
-   "detail": "Bank of England MPC member Megan Greene said that relying on market pricing does not work over the long term. The remark follows her earlier comment that the risk of second-round inflation effects is significant.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "617f1de1abdf52fd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvifdnedo2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvifdnedo2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2cd2cc93f6d3",
-   "created_at": "2026-10-15T07:01:25Z"
-  },
-  {
-   "id": "5f32df0bb3a4",
-   "ts": "2026-10-15T06:55:17Z",
-   "headline": "BoE's Greene calls the risk of second-round inflation effects pretty significant",
-   "detail": "Bank of England MPC member Megan Greene said the risk of second-round effects on inflation is pretty significant. No market reaction was reported.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "132369f04d8d2ba6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvi5witqs2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvi5witqs2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e5a3ae81e883",
-   "created_at": "2026-10-15T06:55:39Z"
   }
  ]
 }
