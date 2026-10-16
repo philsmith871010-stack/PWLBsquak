@@ -1,8 +1,71 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T11:20:51Z",
+ "generated_at": "2026-10-16T11:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3dd48e84ca94",
+   "ts": "2026-10-16T11:40:48Z",
+   "headline": "Zelensky says Starlink is still not fully restored and Ukraine can no longer use it in mid-range strikes",
+   "detail": "Ukrainian President Zelensky said Starlink speeds are improving but the White House has not yet lifted the throttling. He said the throttling puts civilians at risk and that European allies hold enough Patriot interceptors to get Ukraine through the winter.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d0849f95976689f2",
+    "c20b487b373d68eb",
+    "e47648dfcfc4f36c",
+    "49ffe396bb141873",
+    "f9db08bcab8981b8",
+    "3eb9ac556c304c61",
+    "4ff95447cc143016",
+    "c58cac59c314085a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyilg5xrb2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyilg5xrb2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyinga6lc2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyinga6lc2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyio5ne7k2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyio5ne7k2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyio55sbv26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyio55sbv26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyiouhsez2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyiouhsez2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyiov62xv2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyiov62xv2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyiskqmxd2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyiskqmxd2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyitybmef2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyitybmef2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "659a3c96cd5b",
+   "created_at": "2026-10-16T11:45:51Z"
+  },
   {
    "id": "34394a0a6008",
    "ts": "2026-10-16T11:18:22Z",
@@ -6113,27 +6176,6 @@
    "model": "opus",
    "run_id": "40df6cd116c8",
    "created_at": "2026-10-14T21:40:52Z"
-  },
-  {
-   "id": "0d2c8e8c5b07",
-   "ts": "2026-10-14T21:03:01Z",
-   "headline": "China's September exports rise 36% y/y",
-   "detail": "Semafor reports that Chinese exports grew 36% year on year in September. It says this comes as trading partners press Beijing to address trade imbalances and alleged overproduction.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "4fe6a4ad21b5297d"
-   ],
-   "sources": [
-    {
-     "author": "semafor.com",
-     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mxuh2urw5m2g",
-     "url": "https://bsky.app/profile/semafor.com/post/3mxuh2urw5m2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "137192f2cd27",
-   "created_at": "2026-10-14T21:05:40Z"
   }
  ]
 }
