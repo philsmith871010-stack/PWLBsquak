@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T14:40:55Z",
+ "generated_at": "2026-10-16T14:45:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "666d2bc9517a",
+   "ts": "2026-10-16T14:44:53Z",
+   "headline": "Germany's Merz says a 90bn loan will not cover Ukraine's needs and the Commission will assess its financial aid needs",
+   "detail": "German Chancellor Merz said the European Commission will assess over the coming weeks how much financial aid Ukraine needs. He said a 90bn loan would not be enough.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8110c700337a0f60"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxysuksq352v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxysuksq352v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d3f1c4097f8c",
+   "created_at": "2026-10-16T14:45:52Z"
+  },
+  {
+   "id": "aa3f0dc7e05b",
+   "ts": "2026-10-16T14:42:03Z",
+   "headline": "Germany's Merz says Italy largely backs the German-French plan to phase out coal-fired power stations by 2035",
+   "detail": "German Chancellor Merz said Italy is largely in agreement with a joint German-French proposal to phase out coal-fired power generation by 2035.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "4a393ff46b08f074"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyspime7s2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyspime7s2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d3f1c4097f8c",
+   "created_at": "2026-10-16T14:45:52Z"
+  },
   {
    "id": "c8530c99933a",
    "ts": "2026-10-16T14:39:51Z",
@@ -5756,48 +5798,6 @@
    "model": "opus",
    "run_id": "5f50bd435574",
    "created_at": "2026-10-15T08:01:13Z"
-  },
-  {
-   "id": "4403593cbef5",
-   "ts": "2026-10-15T07:59:47Z",
-   "headline": "German 10-year Bund yield falls 8.5bp to 3.3819%, its lowest since 9 September",
-   "detail": "The 10-year German government bond yield was last down 8.5bp at 3.3819% in early European trading, its lowest level since 9 September.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "b39d6ac814cfde73"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvlrbncjg2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvlrbncjg2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5f50bd435574",
-   "created_at": "2026-10-15T08:01:13Z"
-  },
-  {
-   "id": "856716e66a39",
-   "ts": "2026-10-15T07:30:42Z",
-   "headline": "UK ministers to launch statutory best value inspection of Tees Valley Combined Authority, FT reports",
-   "detail": "The Financial Times reports that Rayner will order a statutory best value inspection of the mayoral authority led by Ben Houchen. The report says the move follows concerns in Whitehall about the body's governance and debt levels.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "cd7b670205c5965b"
-   ],
-   "sources": [
-    {
-     "author": "jenwilliamsft.bsky.social",
-     "uri": "at://did:plc:dkpxtsmr5aq35plgm64cqrqr/app.bsky.feed.post/3mxvk5b3ggc2c",
-     "url": "https://bsky.app/profile/jenwilliamsft.bsky.social/post/3mxvk5b3ggc2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c494c5e4efa7",
-   "created_at": "2026-10-15T07:31:02Z"
   }
  ]
 }
