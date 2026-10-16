@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T17:31:06Z",
+ "generated_at": "2026-10-16T17:45:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4fe5c4bcbc9c",
+   "ts": "2026-10-16T17:42:45Z",
+   "headline": "Iran says it is ready to help resolve the conflict between Saudi Arabia and Yemen",
+   "detail": "A market news account reported that Iran has offered to help settle the Saudi-Yemen conflict. The post did not say which Iranian official made the offer. The offer follows the Saudi-led coalition's report that it intercepted missiles and drones aimed at Riyadh and the Yanbu export hub.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8c7d847f317ba4c4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz4smjbqf2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz4smjbqf2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d0bd965f61e2",
+   "created_at": "2026-10-16T17:45:46Z"
+  },
   {
    "id": "eac33d52839b",
    "ts": "2026-10-16T17:30:29Z",
@@ -5729,27 +5750,6 @@
    "model": "opus",
    "run_id": "8bc3239cd2b9",
    "created_at": "2026-10-15T10:01:24Z"
-  },
-  {
-   "id": "51619b1ed9af",
-   "ts": "2026-10-15T09:55:40Z",
-   "headline": "Kremlin says Russian diesel is reaching global markets and will help but cannot fully stabilise them",
-   "detail": "The Kremlin said Russian diesel has begun arriving on global markets. It said the supply will have a positive effect on markets but will not be enough to fully stabilise them.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "2d4d80399e5bd75f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvsaiw57a2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvsaiw57a2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "83a0aa913ade",
-   "created_at": "2026-10-15T09:55:43Z"
   }
  ]
 }
