@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T15:55:41Z",
+ "generated_at": "2026-10-16T16:01:18Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0d800579d2a3",
+   "ts": "2026-10-16T15:59:43Z",
+   "headline": "Scottish government is set to drop its opposition to new North Sea oil and gas fields, Politico reports",
+   "detail": "Politico reports that the Scottish government is preparing to drop its opposition to developing new oil and gas fields. No timing or further detail was given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "f40da4f0450d78be"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyx2fg7ib2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyx2fg7ib2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d7d658d9127d",
+   "created_at": "2026-10-16T16:01:18Z"
+  },
   {
    "id": "1955666eb831",
    "ts": "2026-10-16T15:52:10Z",
@@ -5783,33 +5804,6 @@
    "model": "opus",
    "run_id": "325a464b985d",
    "created_at": "2026-10-15T08:40:49Z"
-  },
-  {
-   "id": "b2882852f2df",
-   "ts": "2026-10-15T08:35:36Z",
-   "headline": "Russia considers banning LPG exports and will keep importing gasoline until at least the end of the year",
-   "detail": "Interfax reports that Russia is weighing an LPG export ban because of market conditions, and that gasoline imports will continue until at least year-end.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "1769db8a1f285783",
-    "320b526e1357a60b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvnrdexqs2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvnrdexqs2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvnr27lkw26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvnr27lkw26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "da2eeabe8244",
-   "created_at": "2026-10-15T08:35:42Z"
   }
  ]
 }
