@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T06:35:42Z",
+ "generated_at": "2026-10-16T06:40:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9ea850e8923a",
+   "ts": "2026-10-16T06:36:18Z",
+   "headline": "BoJ Governor Ueda flags a risk that underlying inflation overshoots the 2% price target",
+   "detail": "Bank of Japan Governor Ueda said there is a risk of underlying inflation rising above the bank's 2% target. This follows his earlier remarks that the bank will keep raising rates gradually if the economy and prices develop as expected.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "5e3805af0d6db55c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxxkvw6xn2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxxkvw6xn2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "032845414398",
+   "created_at": "2026-10-16T06:40:54Z"
+  },
   {
    "id": "c61572eb57fe",
    "ts": "2026-10-16T06:32:18Z",
@@ -6221,27 +6242,6 @@
    "model": "opus",
    "run_id": "69aeb0a91b35",
    "created_at": "2026-10-14T14:10:49Z"
-  },
-  {
-   "id": "557ce8a63d25",
-   "ts": "2026-10-14T14:04:39Z",
-   "headline": "Trump plays down talk of halting intelligence sharing with Ukraine and says the US still shares it",
-   "detail": "Trump told reporters the US is still sharing intelligence with Ukraine, but Semafor reports that cutting it off is being actively discussed inside the White House.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "734567202c4680cc"
-   ],
-   "sources": [
-    {
-     "author": "semafor.com",
-     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mxtposfk3h2n",
-     "url": "https://bsky.app/profile/semafor.com/post/3mxtposfk3h2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "57aebbf95387",
-   "created_at": "2026-10-14T14:05:44Z"
   }
  ]
 }
