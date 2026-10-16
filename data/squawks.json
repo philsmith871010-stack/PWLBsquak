@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T05:31:05Z",
+ "generated_at": "2026-10-16T05:50:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f8efbf19ee0c",
+   "ts": "2026-10-16T05:50:03Z",
+   "headline": "Taiwan moves to restrict AI chip exports to China under a deal with the US",
+   "detail": "A market news account reports that Taiwan will limit exports of AI chips to China as part of an agreement with the United States. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "dd1f3657cd397f3d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxuy7rwmh2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxuy7rwmh2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "68256ed42f0b",
+   "created_at": "2026-10-16T05:50:50Z"
+  },
   {
    "id": "adeb2462d44c",
    "ts": "2026-10-16T05:29:10Z",
@@ -6131,27 +6152,6 @@
    "model": "opus",
    "run_id": "d48b562fcbab",
    "created_at": "2026-10-14T13:40:50Z"
-  },
-  {
-   "id": "9a426b1db717",
-   "ts": "2026-10-14T13:34:09Z",
-   "headline": "Iran's IRNA reports an explosion in Riyadh after a missile attack, with reports of damage to oil facilities",
-   "detail": "Iranian state news agency IRNA reported a blast in the Saudi capital after a missile attack and said there were reports of damage to oil facilities. The report gives no details of which facilities were hit or how much damage was done.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "af2963e822a6b0e9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtnyaf36r2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtnyaf36r2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b02d15b4f4fd",
-   "created_at": "2026-10-14T13:35:41Z"
   }
  ]
 }
