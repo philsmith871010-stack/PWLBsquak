@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T20:05:43Z",
+ "generated_at": "2026-10-16T20:45:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f8198cb8900c",
+   "ts": "2026-10-16T20:45:17Z",
+   "headline": "Trump says the Iran conflict will be over very soon",
+   "detail": "US President Trump said the situation with Iran will end very soon. He gave no timetable or details.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7fe842300f443f2c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxzgyz75aa2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxzgyz75aa2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fa3beee9a688",
+   "created_at": "2026-10-16T20:45:49Z"
+  },
   {
    "id": "5d161d7ebe7e",
    "ts": "2026-10-16T20:01:17Z",
@@ -5735,27 +5756,6 @@
    "model": "opus",
    "run_id": "8a47a559b04c",
    "created_at": "2026-10-15T11:40:51Z"
-  },
-  {
-   "id": "2bb0711cc2f5",
-   "ts": "2026-10-15T11:33:14Z",
-   "headline": "Global stock sell-off deepens as chipmakers fall and sovereign bonds rally in a risk-off move, FT reports",
-   "detail": "The FT reports that European and Asian equities are falling as investors question how long the AI boom can last, with chipmakers leading the decline. Sovereign bonds are gaining as investors move out of riskier assets.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "f1874689f3b09545"
-   ],
-   "sources": [
-    {
-     "author": "iankmsmith.ft.com",
-     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3mxvxox6ids24",
-     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3mxvxox6ids24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b3c55619ad6c",
-   "created_at": "2026-10-15T11:35:41Z"
   }
  ]
 }
