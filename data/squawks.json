@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T13:45:50Z",
+ "generated_at": "2026-10-16T13:50:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7d7e27269c3e",
+   "ts": "2026-10-16T13:50:26Z",
+   "headline": "Putin envoy Dmitriev says Russia and the US are discussing Arctic and LNG projects",
+   "detail": "Kirill Dmitriev, the Kremlin's envoy, said Russia and the US are in talks on projects in the Arctic and on liquefied natural gas. The remarks follow the recently reported US-Russia diesel deal.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c2f4ce7a93e52896"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxypt6zda22r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxypt6zda22r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f5974b0063f5",
+   "created_at": "2026-10-16T13:50:47Z"
+  },
   {
    "id": "feaa8863aa22",
    "ts": "2026-10-16T13:43:28Z",
@@ -5766,27 +5787,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxve2ecdu22m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxve2ecdu22m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5eac0b57ab84",
-   "created_at": "2026-10-15T05:45:48Z"
-  },
-  {
-   "id": "03417a2d270f",
-   "ts": "2026-10-15T05:44:47Z",
-   "headline": "Germany's Merz is expected to reject the €2tn EU budget proposal at the summit, Welt reports",
-   "detail": "Welt reports that German Chancellor Merz is likely to oppose the proposed €2tn EU budget at the EU summit.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "04ae38994fe2de14"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxve7uewim2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxve7uewim2m"
     }
    ],
    "model": "opus",
