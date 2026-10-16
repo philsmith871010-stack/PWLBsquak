@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T09:01:16Z",
+ "generated_at": "2026-10-16T09:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "68a0bb27a623",
+   "ts": "2026-10-16T09:01:19Z",
+   "headline": "Eurozone trade balance swings to a €16.1bn deficit, not seasonally adjusted",
+   "detail": "The non-seasonally adjusted eurozone trade balance came in at -16.1bn. The previous figure was revised to 10.7bn from 14.2bn.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "c81dbcb5e010693d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy7o7wabb24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy7o7wabb24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "774b333b6753",
+   "created_at": "2026-10-16T09:05:41Z"
+  },
+  {
+   "id": "0437fd223232",
+   "ts": "2026-10-16T09:01:18Z",
+   "headline": "Eurozone final headline inflation is confirmed at 3.8% y/y in September, in line with forecast",
+   "detail": "Final eurozone CPI for September showed annual inflation of 3.8%, unchanged from the previous reading and matching the forecast. Monthly inflation was 0.6%, also in line with the forecast.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d7a4a6f6862985b3",
+    "aa2ec61483b4d837",
+    "f5f56f8c37389cf8",
+    "b0b8a861909b24c6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy7o6mbxe2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy7o6mbxe2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy7o5sy7d2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy7o5sy7d2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy7paa2w72s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy7paa2w72s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy7paqnpj2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy7paqnpj2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "774b333b6753",
+   "created_at": "2026-10-16T09:05:41Z"
+  },
   {
    "id": "10204be3fda4",
    "ts": "2026-10-16T09:00:51Z",
@@ -6242,60 +6302,6 @@
    "model": "opus",
    "run_id": "9dbab65cb502",
    "created_at": "2026-10-14T17:35:41Z"
-  },
-  {
-   "id": "96b6fd410136",
-   "ts": "2026-10-14T16:31:55Z",
-   "headline": "Trump says Taiwan will also put $4.4bn of equity into the Alaska LNG project",
-   "detail": "US President Trump said on Truth Social that Taiwan has agreed to a $4.4bn equity investment in the Alaska LNG project. This is in addition to the $70-80bn offtake commitment he announced earlier.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "9ecd68ad7891e0fb",
-    "b67d5b63888f7b81",
-    "d50e8cc03311a620"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtxw4i2oe2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtxw4i2oe2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtxvknomr2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtxvknomr2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtxvvuw6q2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtxvvuw6q2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9ef2c8bc8c58",
-   "created_at": "2026-10-14T16:35:44Z"
-  },
-  {
-   "id": "b3b993c43931",
-   "ts": "2026-10-14T16:30:48Z",
-   "headline": "Trump says Taiwan has committed to a $70-80bn offtake deal for Alaska LNG",
-   "detail": "US President Trump said Commerce Secretary Lutnick has obtained an offtake commitment from Taiwan worth between 70 and 80 billion dollars for the Alaska LNG project.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "8b6a8353f5d45a66"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtxu533sq2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtxu533sq2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "194c37e4455c",
-   "created_at": "2026-10-14T16:31:08Z"
   }
  ]
 }
