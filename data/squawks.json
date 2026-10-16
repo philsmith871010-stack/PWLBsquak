@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T17:05:40Z",
+ "generated_at": "2026-10-16T17:10:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c254b7493411",
+   "ts": "2026-10-16T17:10:30Z",
+   "headline": "France's Macron says the US-Russia diesel deal is unhelpful and breeds doubt and defiance",
+   "detail": "French President Macron criticised the US diesel deal with Russia on Friday. Ukraine's Zelensky and US lawmakers had already objected to the deal.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fb29374b25feae47"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2yx7ejz2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2yx7ejz2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "61766bdf6a9b",
+   "created_at": "2026-10-16T17:10:53Z"
+  },
+  {
+   "id": "85d288706c26",
+   "ts": "2026-10-16T17:10:00Z",
+   "headline": "EU's von der Leyen calls the China trade imbalance structural and unsustainable and says EU leaders are united on China",
+   "detail": "European Commission President von der Leyen spoke after China's commerce ministry warned the EU against applying pressure.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "00fbf55a5ec03210",
+    "2af24d22edd9a434"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2y2udv32d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2y2udv32d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2uzxuzy2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2uzxuzy2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "61766bdf6a9b",
+   "created_at": "2026-10-16T17:10:53Z"
+  },
   {
    "id": "8d64b0ee1ca3",
    "ts": "2026-10-16T17:04:47Z",
@@ -5744,54 +5792,6 @@
    "model": "opus",
    "run_id": "8ce1df1f0fc8",
    "created_at": "2026-10-15T09:20:52Z"
-  },
-  {
-   "id": "eebac2ee586f",
-   "ts": "2026-10-15T09:16:41Z",
-   "headline": "Japan's economy minister Kiuchi leaves monetary policy to the BoJ and says sharp short-term FX swings should be avoided",
-   "detail": "Japan's economy minister Kiuchi said decisions on monetary policy are a matter for the Bank of Japan, and he declined to comment on specific currency levels. He said exchange rates are set by markets and that wild short-term moves should be avoided.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "72fe05ba3055c052",
-    "6391fa9af4652988"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvq2mtqiu2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvq2mtqiu2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvq2r5th42y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvq2r5th42y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8ce1df1f0fc8",
-   "created_at": "2026-10-15T09:20:52Z"
-  },
-  {
-   "id": "8f46bd9e2a9e",
-   "ts": "2026-10-15T09:12:26Z",
-   "headline": "Japan's economy minister Kiuchi says the Takaichi government is not pursuing reflationary policy",
-   "detail": "Japan's economy minister Kiuchi said reflationary policy is not needed at present and is not the policy of the Takaichi administration.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c5d281d5d48fd1b9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvpt6zjbl2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvpt6zjbl2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fbe3e93959f5",
-   "created_at": "2026-10-15T09:15:48Z"
   }
  ]
 }
