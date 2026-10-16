@@ -1,8 +1,116 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T21:50:50Z",
+ "generated_at": "2026-10-16T05:01:16Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2e9b63f689cc",
+   "ts": "2026-10-16T00:17:04Z",
+   "headline": "US-Mexico tariff talks stall as Commerce Secretary Lutnick resists major cuts to auto and steel levies",
+   "detail": "Talks have stalled after Lutnick opposed large cuts to the 25% US auto tariffs and the 50% steel and aluminium levies. Mexico is seeking auto tariffs of 15% or less, and negotiations are continuing.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b9e31c031c318e1f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxcertobp26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxcertobp26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d8dce284fec4",
+   "created_at": "2026-10-16T05:01:16Z"
+  },
+  {
+   "id": "2c8785015883",
+   "ts": "2026-10-16T00:15:27Z",
+   "headline": "Trump rules out using nuclear weapons on Iran or deploying ground troops, and says the conflict will end soon",
+   "detail": "President Trump said he would not use nuclear weapons against Iran and has no plans for ground troops there, adding that the Iran conflict would end soon. He also said he is in talks with Russia and China on nuclear disarmament.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "61b20688ffaed17c",
+    "f6abfbef38588fc8",
+    "1e57f97dce375548",
+    "f15ef45947a2d515",
+    "7c05b87e766f83c5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxcbvelcn2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxcbvelcn2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxc6w25l72y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxc6w25l72y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxc6zz7r32q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxc6zz7r32q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxcb54fbf2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxcb54fbf2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxx7s5xfvm2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxx7s5xfvm2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d8dce284fec4",
+   "created_at": "2026-10-16T05:01:16Z"
+  },
+  {
+   "id": "1567f812d06c",
+   "ts": "2026-10-15T23:24:30Z",
+   "headline": "Fed's Goolsbee says inflation from AI-driven demand overheating would be more concerning and would need addressing",
+   "detail": "Chicago Fed President Austan Goolsbee said that inflation arising from AI-related demand overheating would be of greater concern and would have to be dealt with.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ca9bf66d012df9f3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxx7grzbgq2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxx7grzbgq2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d8dce284fec4",
+   "created_at": "2026-10-16T05:01:16Z"
+  },
+  {
+   "id": "4a96dc60262f",
+   "ts": "2026-10-15T23:05:07Z",
+   "headline": "Fed's Hammack says the Fed may need to raise rates more aggressively if inflation expectations deteriorate notably",
+   "detail": "Cleveland Fed President Beth Hammack said on Thursday that a notable deterioration in public inflation expectations could call for more aggressive rate rises, Reuters reports.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "7ca5fa9e1ccce539"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxx6e57odm2z",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxx6e57odm2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d8dce284fec4",
+   "created_at": "2026-10-16T05:01:16Z"
+  },
   {
    "id": "feeb790a88d0",
    "ts": "2026-10-15T21:45:51Z",
@@ -5966,120 +6074,6 @@
    "model": "opus",
    "run_id": "48517ec09a2e",
    "created_at": "2026-10-14T12:31:06Z"
-  },
-  {
-   "id": "3a8260412724",
-   "ts": "2026-10-14T12:22:50Z",
-   "headline": "Container ship and dry bulk ship reported sinking near Strait of Hormuz after being hit by projectiles",
-   "detail": "Maritime security sources say a container ship has sunk near the Strait of Hormuz after a projectile hit it, and a dry bulk ship is reported to be sinking after being hit in a separate incident. No market reaction was reported in the posts.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1969d4d54c1c97c8",
-    "74fb43cf4c38fb03"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtjypklwr2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtjypklwr2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtjzjnhli2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtjzjnhli2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2987eb243b56",
-   "created_at": "2026-10-14T12:25:45Z"
-  },
-  {
-   "id": "47764392b040",
-   "ts": "2026-10-14T12:10:35Z",
-   "headline": "Oman, Russia and China are mediating ceasefire talks with the Houthis, an official tells AP",
-   "detail": "AP reports an official as saying Oman, Russia and China are mediating ceasefire talks with Yemen's Houthis, who have been attacking Saudi targets including Aramco sites.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "96e7382e143a9868"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtjcsoglo2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtjcsoglo2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7d60c475dd2a",
-   "created_at": "2026-10-14T12:10:51Z"
-  },
-  {
-   "id": "9dcaceff4a56",
-   "ts": "2026-10-14T12:09:30Z",
-   "headline": "ECB's Simkus says recent data point to a possible need for more tightening, with no clear second-round effects so far",
-   "detail": "ECB Governing Council member Simkus said recent data suggest further tightening may be required, and that second-round effects are not yet evident. He added that French yields are rising because of economic developments, that he sees no role for the ECB in France at present, and that discussing minimum reserve requirements is not wrong.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "ea06c5e7c4673f91",
-    "a0244223f151c20b",
-    "6aa489675cad2c5e",
-    "c67014c5ba252c53",
-    "feaf195c80320232"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtjav5spy2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtjav5spy2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtjavtoow2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtjavtoow2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtjba72lw2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtjba72lw2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtjbify252r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtjbify252r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtjcg3mf726",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtjcg3mf726"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7d60c475dd2a",
-   "created_at": "2026-10-14T12:10:51Z"
-  },
-  {
-   "id": "4d4d2602138d",
-   "ts": "2026-10-14T12:00:50Z",
-   "headline": "EU's Dombrovskis says trade with China must be rebalanced in other sectors after the hybrid car deal",
-   "detail": "European Economic Commissioner Valdis Dombrovskis said on Wednesday that the deal to halve Chinese hybrid car imports into Europe must be followed by rebalancing in other sectors and better EU access to the Chinese market, Reuters reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c57cbfd6be427a84"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxtirf5amc2m",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxtirf5amc2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1892f2d30d13",
-   "created_at": "2026-10-14T12:01:29Z"
   }
  ]
 }
