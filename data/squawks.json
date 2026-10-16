@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T08:20:53Z",
+ "generated_at": "2026-10-16T08:45:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "71ce28b988eb",
+   "ts": "2026-10-16T08:45:07Z",
+   "headline": "Resolution Foundation estimates fiscal headroom has halved to about £12bn in 2029-30 before Budget measures",
+   "detail": "The Resolution Foundation estimates that headroom against the fiscal rules in 2029-30 is around £12bn before any policy measures. It says Chancellor Healey would need £18bn of headroom to keep a buffer equivalent to the one his predecessor Reeves had, ahead of the 28 October Budget.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "13d79bad38c12de0"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxy6rap6wt2z",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxy6rap6wt2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0ae848b2290a",
+   "created_at": "2026-10-16T08:45:46Z"
+  },
   {
    "id": "d95723d6e496",
    "ts": "2026-10-16T08:19:19Z",
@@ -6269,27 +6290,6 @@
    "model": "opus",
    "run_id": "38c4e5107b67",
    "created_at": "2026-10-14T16:20:58Z"
-  },
-  {
-   "id": "e064e186084a",
-   "ts": "2026-10-14T15:27:19Z",
-   "headline": "Russian deputy foreign minister says Russia has had no proposal yet to mediate between Saudi Arabia and Yemen",
-   "detail": "Iran's IRNA news agency reported the remark from Russia's deputy foreign minister. It comes after an official told AP that Oman, Russia and China were mediating ceasefire talks with the Houthis.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c26f1cc4afa14851"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxtuclr6uf2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxtuclr6uf2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0a4d8b6da1fd",
-   "created_at": "2026-10-14T15:31:04Z"
   }
  ]
 }
