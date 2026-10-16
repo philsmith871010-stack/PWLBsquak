@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T12:25:39Z",
+ "generated_at": "2026-10-16T12:31:07Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f87d58e2eeed",
+   "ts": "2026-10-16T12:30:49Z",
+   "headline": "US import prices rise 1.1% m/m in September and export prices jump 2.2%, both above forecast",
+   "detail": "US import prices rose 1.1% m/m against a 1% forecast and 0.7% previously. Export prices rose 2.2% m/m against a 0.9% forecast and 0.6% previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f28848488d0f57ff",
+    "b1c45c25607b2d77"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyletsqf426",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyletsqf426"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxylev6mkv2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxylev6mkv2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "191813dbc02a",
+   "created_at": "2026-10-16T12:31:07Z"
+  },
   {
    "id": "5a3a70315c96",
    "ts": "2026-10-16T12:22:39Z",
@@ -5874,69 +5901,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxux55327z2f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxux55327z2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c195c630e312",
-   "created_at": "2026-10-15T05:10:46Z"
-  },
-  {
-   "id": "8d12b2627a57",
-   "ts": "2026-10-15T01:46:13Z",
-   "headline": "ECB's Santos Pereira links rising yields mainly to fiscal factors and says central banks must act if inflation broadens",
-   "detail": "ECB policymaker Santos Pereira said inflation is not spreading so far, but that natural gas prices would become a problem if this winter is like the last one.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ffa4dc84f43c2e97",
-    "1b69c1202af59f1a",
-    "59420ce7facdbf64",
-    "508b95a7b0d2ccdf",
-    "4f0c2769ae96eedb",
-    "e42f8675eda0c6a9",
-    "366ac2446154a061",
-    "56736176bc398871"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuwvb7zxc2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuwvb7zxc2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuwwbwdah2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuwwbwdah2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuxfh7ucr2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuxfh7ucr2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuxfmi4in2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuxfmi4in2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuxh4mpxg2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuxh4mpxg2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuxlszfsx2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuxlszfsx2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuxm2picw26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuxm2picw26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuxmw2mtf2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuxmw2mtf2n"
     }
    ],
    "model": "opus",
