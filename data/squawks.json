@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T17:10:53Z",
+ "generated_at": "2026-10-16T17:15:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c9f6a27564c6",
+   "ts": "2026-10-16T17:15:16Z",
+   "headline": "IMF head calls for global cooperation on risks from AI and the prolonged Middle East war",
+   "detail": "Reuters reports that the IMF Managing Director on Friday urged global leaders to cooperate in the face of several economic risks, including rapid advances in AI and a prolonged war in the Middle East. Washington pointed to what it calls US-led economic momentum.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "13b215bc8cce52d5"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxz3bhmtgg2m",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxz3bhmtgg2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1a94ad9a7664",
+   "created_at": "2026-10-16T17:15:45Z"
+  },
+  {
+   "id": "0a46e05442d3",
+   "ts": "2026-10-16T17:13:18Z",
+   "headline": "France's Macron says an EU budget deal is possible by year-end and argues against a March summit before the French election",
+   "detail": "The French President said agreement on the EU budget could be reached by the end of the year. He said holding the budget deal summit in March, weeks before the French election, would not be a good approach.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "19684783f530a69c",
+    "98119931d0ef86a9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz35wvgmi2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz35wvgmi2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz34gw4qa2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz34gw4qa2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1a94ad9a7664",
+   "created_at": "2026-10-16T17:15:45Z"
+  },
+  {
+   "id": "61b2a4b41bac",
+   "ts": "2026-10-16T17:10:59Z",
+   "headline": "EU's von der Leyen says the bloc will work on new instruments to tackle the trade imbalance with China",
+   "detail": "The European Commission President said on Friday that the EU would develop new instruments to address its trade imbalance with China. She spoke after an EU leaders' meeting.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1b3a90f163ed672e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2zst6ve2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2zst6ve2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1a94ad9a7664",
+   "created_at": "2026-10-16T17:15:45Z"
+  },
   {
    "id": "c254b7493411",
    "ts": "2026-10-16T17:10:30Z",
@@ -5681,117 +5750,6 @@
    "model": "opus",
    "run_id": "d60eab04cb68",
    "created_at": "2026-10-15T09:35:41Z"
-  },
-  {
-   "id": "79270224aa63",
-   "ts": "2026-10-15T09:27:38Z",
-   "headline": "Economists poll: 54 of 63 expect the BoE to raise Bank Rate to 4.00% on 5 November",
-   "detail": "In the previous poll, 54 of 65 economists expected a hold. The same poll raised UK inflation forecasts to an average of 3.6% in Q4 2026, 3.8% in Q1 2027 and 3.0% in 2027, from 3.3%, 3.2% and 2.5% in September, and put GDP growth at 1.3% in 2026 and 1.2% in 2027, against 1.1% and 1.2% previously.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "7cf2fe1af0fc7f7d",
-    "3ef788cfa0d4f492",
-    "305ef846b6174921"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvqodygxn2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvqodygxn2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvqp64c6n2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvqp64c6n2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvqp6rrgg2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvqp6rrgg2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b7341029c83f",
-   "created_at": "2026-10-15T09:31:04Z"
-  },
-  {
-   "id": "8aa993c7594d",
-   "ts": "2026-10-15T09:23:04Z",
-   "headline": "India's trade secretary says India wants to close and sign the US trade deal as soon as possible and seeks more tariff stability",
-   "detail": "India's trade secretary said India is seeking preferential market access and greater tariff stability in the deal with the US. The secretary added that the sticking points identified by the end of June negotiations have since narrowed.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d58013ec30ace0ba",
-    "91d213513cdbfd48",
-    "db86d175a008f0f6",
-    "212b4ace35931105",
-    "4f1689801c20c742"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvqg6kfwo2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvqg6kfwo2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvqcgl6re26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvqcgl6re26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvqh6rts62v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvqh6rts62v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvqh2mcnu26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvqh2mcnu26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvqfby3af2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvqfby3af2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9fb703bd3407",
-   "created_at": "2026-10-15T09:25:43Z"
-  },
-  {
-   "id": "51a3197509b8",
-   "ts": "2026-10-15T09:19:16Z",
-   "headline": "India's trade minister says the first phase of the India-US trade deal is finalised",
-   "detail": "India's trade minister said the first phase of a trade deal with the US has been finalised. India's trade secretary said talks were moving in the right direction and that India wants preferential access to the US market.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c135bfad713df8af",
-    "cf64b89fb7733184",
-    "a68e5a30012e69dc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvq7fjpqg2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvq7fjpqg2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvq55t7cg2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvq55t7cg2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvq7jm2ef2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvq7jm2ef2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8ce1df1f0fc8",
-   "created_at": "2026-10-15T09:20:52Z"
   }
  ]
 }
