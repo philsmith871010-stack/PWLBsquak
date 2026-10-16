@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T10:35:40Z",
+ "generated_at": "2026-10-16T10:55:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "aab66c63aab2",
+   "ts": "2026-10-16T10:53:54Z",
+   "headline": "Russia's Novak says freight, insurance and diesel supply issues with the US are essentially resolved",
+   "detail": "Russian Deputy Prime Minister Alexander Novak said questions over freight, insurance and diesel deliveries to the United States had largely been settled, according to reports.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "e504f43c6d3b5bc1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyfxk6nie2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyfxk6nie2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f5baabfd2307",
+   "created_at": "2026-10-16T10:55:44Z"
+  },
+  {
+   "id": "4690a74cecd3",
+   "ts": "2026-10-16T10:41:23Z",
+   "headline": "BoE's Bailey says firms are cutting margins and costs rather than passing higher energy costs on to consumers",
+   "detail": "Bank of England Governor Andrew Bailey made the remarks at an International Monetary Fund event in Bangkok. He said businesses were holding back from passing on higher energy costs and were squeezing margins and cutting costs instead.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "8f05ad959efe0c85"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mxyftf2onhz2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mxyftf2onhz2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f5baabfd2307",
+   "created_at": "2026-10-16T10:55:44Z"
+  },
   {
    "id": "d9c00a514378",
    "ts": "2026-10-16T10:32:11Z",
@@ -6230,54 +6272,6 @@
    "model": "opus",
    "run_id": "bfb5581e5f39",
    "created_at": "2026-10-14T19:15:47Z"
-  },
-  {
-   "id": "7eef6f821e3b",
-   "ts": "2026-10-14T19:09:48Z",
-   "headline": "Fed's Goolsbee calls US CPI data discouraging and flags services inflation as a concern",
-   "detail": "Chicago Fed President Goolsbee called the latest US CPI figures discouraging and said services inflation in the report was a worry, according to Yahoo.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "cbaef79ebd52568a",
-    "c8f1773bb9722fec"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuaqglryo2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuaqglryo2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuarge67v2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuarge67v2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "79faed80a3d0",
-   "created_at": "2026-10-14T19:10:49Z"
-  },
-  {
-   "id": "1ebdd46cb537",
-   "ts": "2026-10-14T19:07:01Z",
-   "headline": "Fed extends pause on reserve management purchases to mid-November",
-   "detail": "The Federal Reserve has extended its pause on reserve management purchases until mid-November, a market commentator reports.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e73bb7da3296185d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxualhdn4o2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxualhdn4o2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "79faed80a3d0",
-   "created_at": "2026-10-14T19:10:49Z"
   }
  ]
 }
