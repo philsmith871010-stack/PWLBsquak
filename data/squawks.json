@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T13:10:52Z",
+ "generated_at": "2026-10-16T13:15:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d1d8f860787f",
+   "ts": "2026-10-16T13:15:14Z",
+   "headline": "Resolution Foundation says lower net migration will hit fiscal headroom ahead of the Budget",
+   "detail": "The Resolution Foundation says lower net migration will cut fiscal headroom in the upcoming Budget. This adds to its earlier estimate that headroom has halved to about £12bn in 2029-30 before Budget measures.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "29456d855e2a515e"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxynub7ljx2i",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxynub7ljx2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "22f9cdb55093",
+   "created_at": "2026-10-16T13:15:48Z"
+  },
   {
    "id": "5dff04870c16",
    "ts": "2026-10-16T13:09:20Z",
@@ -5766,93 +5787,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxvamcul6u2p",
      "url": "https://bsky.app/profile/reuters.com/post/3mxvamcul6u2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6e7f44c33ce3",
-   "created_at": "2026-10-15T05:20:48Z"
-  },
-  {
-   "id": "94a8596c97bc",
-   "ts": "2026-10-15T04:31:48Z",
-   "headline": "IMF sees Middle East, North Africa and Pakistan region contracting 1.3% in 2026 after 3.3% growth in 2025",
-   "detail": "The IMF named a prolonged war and further energy and shipping disruption as the biggest risks, noting lower inventories and tighter spare capacity. It called for tighter monetary policy, prudent fiscal measures and a focus on price stability, and an official said oil prices would stay higher.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a05e3c98308bac93",
-    "c4c80620e88c1928",
-    "5ee525e8fbc79c27",
-    "a9eaaa45428ffcfb",
-    "2a879bfe93be4ab4",
-    "ac3ef5048ab9ea83",
-    "6f62490eefe3f712",
-    "812918c756cd513e",
-    "c674a1dea5871e67",
-    "0ff0e3aef022203f",
-    "8be8921c8a093aab",
-    "41149e9bbdcd436a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxva5exz2x2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxva5exz2x2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxva3u7a242y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxva3u7a242y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxva3wmgy52f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxva3wmgy52f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxva3yxwg52v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxva3yxwg52v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxva4vcinr2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxva4vcinr2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxva533vxv2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxva533vxv2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxva5nnwlr2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxva5nnwlr2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxva5yr4ev2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxva5yr4ev2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvb2gha2l2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvb2gha2l2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvb3gz2632z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvb3gz2632z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvb6gg4g52z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvb6gg4g52z"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxvbqlwg5e2q",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxvbqlwg5e2q"
     }
    ],
    "model": "opus",
