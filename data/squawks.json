@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T14:45:52Z",
+ "generated_at": "2026-10-16T14:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9b92b06ff6f1",
+   "ts": "2026-10-16T14:48:49Z",
+   "headline": "Germany's Merz says Ukrainian strikes on Russian energy and communications targets are understandable; EU weighs Russian visa curbs",
+   "detail": "German Chancellor Merz said Ukraine attacking Russian targets that hinder its war effort, including energy and communications infrastructure, is understandable. He said the EU summit is discussing restrictions on issuing visas to Russians and that there is still room for manoeuvre.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "49557d68a1143c75",
+    "8164dea5c318bc3c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyt3ltb2v2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyt3ltb2v2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyt5szxdo2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyt5szxdo2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0989745beeec",
+   "created_at": "2026-10-16T14:50:49Z"
+  },
   {
    "id": "666d2bc9517a",
    "ts": "2026-10-16T14:44:53Z",
@@ -5777,27 +5804,6 @@
    "model": "opus",
    "run_id": "08d8ae5896b4",
    "created_at": "2026-10-15T08:05:40Z"
-  },
-  {
-   "id": "5645fc20588d",
-   "ts": "2026-10-15T08:00:55Z",
-   "headline": "ECB's Kazaks says inflationary forces remain stronger in the near term",
-   "detail": "ECB Governing Council member Kazaks said inflationary pressures are still stronger in the immediate future.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "75bf1cdb6e4ff7db"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvltcfkzg2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvltcfkzg2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5f50bd435574",
-   "created_at": "2026-10-15T08:01:13Z"
   }
  ]
 }
