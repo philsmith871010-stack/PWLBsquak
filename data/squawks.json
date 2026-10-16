@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T16:40:52Z",
+ "generated_at": "2026-10-16T16:55:38Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b3c231fe3c5f",
+   "ts": "2026-10-16T16:54:36Z",
+   "headline": "FT says the financial sector's lobbying against a possible UK bank tax rise in the Budget may have been hurt by splits among big lenders",
+   "detail": "The Financial Times reports that bankers are uneasy about a possible tax rise in the forthcoming Budget. It says the sector's lobbying may have been weakened by divisions between the large lenders.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "f89e05fda27cc176"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxz24j5ugx2i",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mxz24j5ugx2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "32a5976a6c4d",
+   "created_at": "2026-10-16T16:55:38Z"
+  },
   {
    "id": "43934d558b48",
    "ts": "2026-10-16T16:39:28Z",
@@ -5765,39 +5786,6 @@
    "model": "opus",
    "run_id": "f13d89e4c8f9",
    "created_at": "2026-10-15T09:01:18Z"
-  },
-  {
-   "id": "b4e342362747",
-   "ts": "2026-10-15T08:50:51Z",
-   "headline": "Chancellor Healey blames global uncertainty for rising UK yields and says the UK must give investors confidence",
-   "detail": "Chancellor Healey said the rise in UK yields has been driven by global uncertainties, that the UK must give investors confidence and that spending must be paid for within the available budget. He declined to speculate on taxes ahead of the Budget.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "6ee3852fb7cab6f5",
-    "45db2b6b2eb10865",
-    "9deabc1a36a274f0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvomluy6m2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvomluy6m2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvopr7os32f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvopr7os32f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvosnupne2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvosnupne2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "db1c77c71a48",
-   "created_at": "2026-10-15T08:55:42Z"
   }
  ]
 }
