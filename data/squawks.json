@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T12:50:49Z",
+ "generated_at": "2026-10-16T13:01:24Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2cde3337795a",
+   "ts": "2026-10-16T13:01:15Z",
+   "headline": "Bank of Italy raises Italy's 2026 GDP growth forecast to 1% from 0.6% and its 2027 forecast to 0.7% from 0.4%",
+   "detail": "The Bank of Italy has raised its 2026 growth forecast for Italy to 1%, up from the 0.6% it projected in June. It has also lifted its 2027 forecast to 0.7% from 0.4%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1e2f60c96ee86e68"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyn3aw5yw2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyn3aw5yw2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e1977ddbcc10",
+   "created_at": "2026-10-16T13:01:24Z"
+  },
+  {
+   "id": "cbe2a4022b93",
+   "ts": "2026-10-16T12:57:54Z",
+   "headline": "German foreign minister says the US is still supporting Ukraine and Kyiv and Moscow will in the end have to negotiate",
+   "detail": "Germany's foreign minister was asked about relations between Trump and Ukraine. He said the US is essentially still providing support to Ukraine and that Ukraine and Russia will ultimately have to negotiate.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ba0b1944752d48c0",
+    "2d688cef09f62cbb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxymuj6no52f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxymuj6no52f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxymvawms624",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxymvawms624"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e1977ddbcc10",
+   "created_at": "2026-10-16T13:01:24Z"
+  },
   {
    "id": "5af77c8e9f73",
    "ts": "2026-10-16T12:50:12Z",
@@ -5828,66 +5876,6 @@
    "model": "opus",
    "run_id": "6e7f44c33ce3",
    "created_at": "2026-10-15T05:20:48Z"
-  },
-  {
-   "id": "03c932ddbc8f",
-   "ts": "2026-10-15T04:00:36Z",
-   "headline": "BoE chief economist Pill cautions against signalling a run of rate hikes if the Bank raises rates now",
-   "detail": "Bank of England Chief Economist Huw Pill said that if rates were raised now, the MPC should not signal a series of further hikes. The remarks were reported early on 15 October.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "138dd6bd43c64def"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxv6fll5an26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxv6fll5an26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6e7f44c33ce3",
-   "created_at": "2026-10-15T05:20:48Z"
-  },
-  {
-   "id": "722ade8df572",
-   "ts": "2026-10-15T03:40:44Z",
-   "headline": "KOSPI trading halted for 20 minutes after an 8% drop as the Nikkei falls 5%; European stock futures lower",
-   "detail": "Trading on the South Korean stock market is suspended for 20 minutes after an 8% fall, and the Nikkei is down 5%. Euro Stoxx 50 futures are down 1.0%, DAX futures 0.8% and FTSE futures 0.2%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "122b7028ee3d366c",
-    "cfd5d1a3eff9bc27",
-    "bf38573b6a816318",
-    "ff944666638be73a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxv5c2h4q42r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxv5c2h4q42r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxv4t3j6ft2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxv4t3j6ft2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxv323fzym2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxv323fzym2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxv23rvzgk24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxv23rvzgk24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4cee82fcd863",
-   "created_at": "2026-10-15T05:15:50Z"
   }
  ]
 }
