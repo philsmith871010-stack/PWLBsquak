@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T12:20:48Z",
+ "generated_at": "2026-10-16T12:25:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5a3a70315c96",
+   "ts": "2026-10-16T12:22:39Z",
+   "headline": "Kalshi odds of an October Fed hike fall to 13% from 55% after Fed Chair Warsh's remarks",
+   "detail": "Prediction market Kalshi puts the probability of a Fed hold in October at 86%, up from 50%, following Fed Chair Warsh's comments, according to a market commentary account.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d3ccb7fe0c457279"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxykwandlw2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxykwandlw2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5a497d483aed",
+   "created_at": "2026-10-16T12:25:39Z"
+  },
   {
    "id": "af7b148d3a61",
    "ts": "2026-10-16T12:16:07Z",
@@ -5916,39 +5937,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuxmw2mtf2n",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuxmw2mtf2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c195c630e312",
-   "created_at": "2026-10-15T05:10:46Z"
-  },
-  {
-   "id": "0fd1478f6813",
-   "ts": "2026-10-15T01:45:40Z",
-   "headline": "UK's Healey says the 28 October Budget will keep the deficit reduction strategy, in line with IMF advice",
-   "detail": "Healey, described in the report as UK finance minister, said the government will stick with its deficit reduction strategy in the 28 October Budget, as the IMF has advised. He also called for a tougher UK ban on shipping services linked to Russia and urged other countries to keep up sanctions on Russia.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "cf80b1514903784e",
-    "fe1de8b0c9df69d0",
-    "c5fe17560c577158"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuwucb3yk2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuwucb3yk2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuwv4yh3f2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuwv4yh3f2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuwvhksed26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuwvhksed26"
     }
    ],
    "model": "opus",
