@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T17:45:46Z",
+ "generated_at": "2026-10-16T18:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4cd2ce8e844e",
+   "ts": "2026-10-16T18:05:09Z",
+   "headline": "EU's von der Leyen says the Commission will propose import curbs on further Chinese sectors",
+   "detail": "European Commission President von der Leyen said on Friday that the Commission will propose curbs on Chinese imports that go beyond the safeguard measures agreed with Beijing to halve shipments of Chinese hybrid cars.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9f69e3023fe90c35"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxz62ny4g52q",
+     "url": "https://bsky.app/profile/reuters.com/post/3mxz62ny4g52q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "75dbff134d79",
+   "created_at": "2026-10-16T18:05:41Z"
+  },
+  {
+   "id": "53d312a9866e",
+   "ts": "2026-10-16T18:02:05Z",
+   "headline": "US fiscal 2026 deficit widens to $1.992trn from $1.775trn; gross interest on debt hits a record $1.36trn",
+   "detail": "The US Treasury puts the fiscal 2026 deficit at $1.992trn, against $1.775trn in fiscal 2025, with net customs receipts of $173.22bn compared with $194.87bn. Gross interest on the debt reached a record $1.36trn, up $144bn or 12% on the previous year.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "9cf65773d3dd9f9c",
+    "aeccbea0039fb004"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz5v6iy6o2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz5v6iy6o2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz5wbg7tn2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz5wbg7tn2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "75dbff134d79",
+   "created_at": "2026-10-16T18:05:41Z"
+  },
   {
    "id": "4fe5c4bcbc9c",
    "ts": "2026-10-16T17:42:45Z",
@@ -5660,96 +5708,6 @@
    "model": "opus",
    "run_id": "3bebe6583722",
    "created_at": "2026-10-15T10:05:42Z"
-  },
-  {
-   "id": "b8e0a645d613",
-   "ts": "2026-10-15T10:04:27Z",
-   "headline": "Chancellor Healey says the UK will meet its fiscal rules and any energy support must be targeted and temporary",
-   "detail": "In remarks on 15 October, the Chancellor also acknowledged that energy costs are punishing. She said the UK is still considering all options on Russian assets.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "523d4739c2c5fb93",
-    "87b2cd2ec69ae62e",
-    "e4f8ff8cc641ef72",
-    "536d11adf28da89c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvsq77x2o2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvsq77x2o2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvsrfikoj24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvsrfikoj24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvspygoc42r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvspygoc42r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvsqiiyik2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvsqiiyik2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3bebe6583722",
-   "created_at": "2026-10-15T10:05:42Z"
-  },
-  {
-   "id": "4c8cc2e6eced",
-   "ts": "2026-10-15T09:55:44Z",
-   "headline": "Kremlin says Ukraine's refinery strikes run counter to US peace efforts and calls the latest attack nothing new",
-   "detail": "Kremlin spokesman Peskov was responding to Zelenskiy's statement that Ukraine will resume strikes on Russian oil refineries. He said US efforts to settle the war are failing because Kyiv, and Zelenskiy personally, are unwilling to seek a peaceful solution.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "8d615b94dcc82d92",
-    "d8bc177776511918",
-    "6e810c30c08fa838",
-    "c9938f0e1ac650a5",
-    "276ed703d3845a5e",
-    "f528f959ed81ac7a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvsamjaqg2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvsamjaqg2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvsaqu7qb24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvsaqu7qb24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvsc5vkyf2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvsc5vkyf2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvscxtntg26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvscxtntg26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvse4xjda2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvse4xjda2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvsef2tfo26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvsef2tfo26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8bc3239cd2b9",
-   "created_at": "2026-10-15T10:01:24Z"
   }
  ]
 }
