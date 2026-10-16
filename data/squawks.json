@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T09:15:50Z",
+ "generated_at": "2026-10-16T09:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "595117d5af94",
+   "ts": "2026-10-16T09:34:07Z",
+   "headline": "France and Germany issue joint declaration on car industry, planning incentives for investment, R&D, EU production and supply chains",
+   "detail": "The French and German governments said in a joint statement that they have agreed a common approach to securing the future of the European automotive industry. The plan includes incentives for investment, research and development, production in the EU and supply chains.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3da27ca2312b7159",
+    "f66e0a0eab0cd0ab",
+    "7fdb275713dd070c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxybiugmlr26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxybiugmlr26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxybkd5i4k2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxybkd5i4k2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxybl365ql24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxybl365ql24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a0dfe2f02df3",
+   "created_at": "2026-10-16T09:35:44Z"
+  },
   {
    "id": "5e454ac0becf",
    "ts": "2026-10-16T09:15:09Z",
@@ -6270,27 +6303,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu3gez7hc2m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu3gez7hc2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9dbab65cb502",
-   "created_at": "2026-10-14T17:35:41Z"
-  },
-  {
-   "id": "bf14574e107d",
-   "ts": "2026-10-14T17:31:59Z",
-   "headline": "US 30-year Treasury yield falls to session low, down 3.2bp at 5.531%, while 2-year yield is up 2.98bp at 4.823%",
-   "detail": "The US 30-year Treasury yield touched a session low, last 3.2bp lower at 5.531%. The 2-year yield was last 2.98bp higher at 4.823%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1b0648c76a2ca37e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu3bjiu7d26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu3bjiu7d26"
     }
    ],
    "model": "opus",
