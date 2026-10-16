@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T14:06:10Z",
+ "generated_at": "2026-10-16T14:10:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c1fc03fa1ba8",
+   "ts": "2026-10-16T10:38:27Z",
+   "headline": "Reports say John Healey is drawing up plans to tax banks in the forthcoming Budget",
+   "detail": "City AM reports that John Healey is weighing options to raise more tax from the banking industry in the forthcoming Budget. City AM says senior banking figures have warned against the plans.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "f5971293bbc52f20"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mxyftm7vgb32",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mxyftm7vgb32"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d8f935a1b83b",
+   "created_at": "2026-10-16T14:10:50Z"
+  },
   {
    "id": "d27dd4001b74",
    "ts": "2026-10-16T09:46:35Z",
@@ -5706,27 +5727,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvf4waqv62y",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvf4waqv62y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a99680f99fb7",
-   "created_at": "2026-10-15T06:01:11Z"
-  },
-  {
-   "id": "1aa9f938acbe",
-   "ts": "2026-10-15T05:57:30Z",
-   "headline": "BoJ's Koeda calls for a broad review of financial conditions, including neutral rates and funding demand",
-   "detail": "Bank of Japan board member Koeda said the assessment of financial conditions should be broad and should take in neutral rates and demand for funding.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1a88d99640450489"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvewmbqgj2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvewmbqgj2r"
     }
    ],
    "model": "opus",
