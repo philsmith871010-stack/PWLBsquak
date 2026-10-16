@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T10:20:49Z",
+ "generated_at": "2026-10-16T10:31:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3f8cda3b7c3c",
+   "ts": "2026-10-16T10:30:49Z",
+   "headline": "Russia's Novak says the country has enough diesel to keep exporting despite refinery repairs",
+   "detail": "Russian Deputy Prime Minister Alexander Novak said diesel supplies are sufficient for exports while refineries are being repaired. Ukraine's strikes on Russian refineries are already a running story on the blotter.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "78e780867619326e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyeoasrc324",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyeoasrc324"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cff25e4abcff",
+   "created_at": "2026-10-16T10:31:04Z"
+  },
   {
    "id": "f6609a870737",
    "ts": "2026-10-16T10:18:47Z",
@@ -6252,33 +6273,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuaihmamv2w",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuaihmamv2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "27578d1a78eb",
-   "created_at": "2026-10-14T19:05:40Z"
-  },
-  {
-   "id": "39add8d00872",
-   "ts": "2026-10-14T19:04:48Z",
-   "headline": "New York Fed desk plans about $14.6bn of reinvestment purchases between 15 October and 13 November",
-   "detail": "The New York Fed says its trading desk plans to carry out approximately $14.6bn in reinvestment purchases between 15 October and 13 November.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "d7fde47cd04d6327",
-    "15863b78647f684f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuahiif432s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuahiif432s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxuaijo22u2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxuaijo22u2z"
     }
    ],
    "model": "opus",
