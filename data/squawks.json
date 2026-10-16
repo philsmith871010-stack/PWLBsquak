@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T16:35:38Z",
+ "generated_at": "2026-10-16T16:40:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "43934d558b48",
+   "ts": "2026-10-16T16:39:28Z",
+   "headline": "Brent jumps more than $3 to a new session high of $109.58 a barrel",
+   "detail": "Brent crude futures rose more than $3 to a session high of $109.58 a barrel. US crude futures gained more than $2 to go above $100, with reports citing ongoing Middle East supply concerns and an outage at a Russian refinery.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "025fdd2fe374247f",
+    "fb132052e0984769"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyzbhehym2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyzbhehym2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyz364fix2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyz364fix2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c4db0406e67c",
+   "created_at": "2026-10-16T16:40:52Z"
+  },
   {
    "id": "7af0212f7474",
    "ts": "2026-10-16T16:32:02Z",
@@ -5771,39 +5798,6 @@
    "model": "opus",
    "run_id": "db1c77c71a48",
    "created_at": "2026-10-15T08:55:42Z"
-  },
-  {
-   "id": "2bde77ec10f8",
-   "ts": "2026-10-15T08:48:28Z",
-   "headline": "Chancellor Reeves's Budget will give the UK breathing space and include steps to strengthen economic resilience, says Healey",
-   "detail": "UK minister Healey said the Budget will give Britain some breathing space and will include measures to reinforce the resilience of the UK economy. He also said there are already signs that AI is improving productivity.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "515291172bc3956e",
-    "7582ccef15897f95",
-    "1a879dfb5be8c007"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvoidjwa72s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvoidjwa72s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvojceyul2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvojceyul2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvoi3dtn32z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvoi3dtn32z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3a22cc3c9d71",
-   "created_at": "2026-10-15T08:50:48Z"
   }
  ]
 }
