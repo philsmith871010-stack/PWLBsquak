@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T16:55:38Z",
+ "generated_at": "2026-10-16T17:01:14Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b8e1dd27e5e3",
+   "ts": "2026-10-16T17:01:10Z",
+   "headline": "Trump says oil prices will come down very soon",
+   "detail": "US President Trump said oil prices would fall soon. He made the remarks while discussing inflation, as US crude traded at a session high.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "0d5d41249aae2ff4",
+    "71fdbe2f7dca1026"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2iavkc326",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2iavkc326"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2ibjcac2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2ibjcac2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "00b08ded77b5",
+   "created_at": "2026-10-16T17:01:14Z"
+  },
+  {
+   "id": "c2ecb6a921b7",
+   "ts": "2026-10-16T17:01:09Z",
+   "headline": "US crude futures jump more than $3 to a session high of $101.02, the highest since 21 September",
+   "detail": "US crude futures rose by more than $3 to $101.02 a barrel in late trading on Friday, according to a market wire report. This is their highest level since 21 September.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "6325e4bbe1da6059"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2ia7ytl26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2ia7ytl26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "00b08ded77b5",
+   "created_at": "2026-10-16T17:01:14Z"
+  },
   {
    "id": "b3c231fe3c5f",
    "ts": "2026-10-16T16:54:36Z",
@@ -5732,60 +5780,6 @@
    "model": "opus",
    "run_id": "cff6293dee13",
    "created_at": "2026-10-15T09:05:40Z"
-  },
-  {
-   "id": "cad4e585f949",
-   "ts": "2026-10-15T09:00:55Z",
-   "headline": "Eurozone industrial production falls 0.5% m/m in August against a flat forecast; annual rate drops to -1.1%",
-   "detail": "Eurozone industrial output fell 0.5% on the month, against a forecast of 0% and -0.1% previously. On the year, output fell 1.1%, against a forecast of -0.1% and 0.0% previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "836864117f5c6791",
-    "a382981013df31e9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvp6llshl2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvp6llshl2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvp6h4sml2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvp6h4sml2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f13d89e4c8f9",
-   "created_at": "2026-10-15T09:01:18Z"
-  },
-  {
-   "id": "653b1f3e9e9c",
-   "ts": "2026-10-15T08:58:42Z",
-   "headline": "France sells 5-year OATs at 4.16%, up from 3.92% at the previous sale; bid-to-cover rises to 2.297",
-   "detail": "The French 5-year OAT auction priced at an average yield of 4.16%, compared with 3.92% at the previous sale. The bid-to-cover ratio was 2.297, up from 2.22.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e6965372b9f3f90d",
-    "cf6fefe72761aeae"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvp2naeka2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvp2naeka2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvp2cxx5v2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvp2cxx5v2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f13d89e4c8f9",
-   "created_at": "2026-10-15T09:01:18Z"
   }
  ]
 }
