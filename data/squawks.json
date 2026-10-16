@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T17:01:14Z",
+ "generated_at": "2026-10-16T17:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8d64b0ee1ca3",
+   "ts": "2026-10-16T17:04:47Z",
+   "headline": "Trump says the US was not behind limits on Ukraine's access to the Starshield system",
+   "detail": "US President Trump said the US did not restrict Ukraine's access to the Starshield system and that he does not know who ordered it.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "020d93e8e212b5aa",
+    "323deb20da99c457"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2oq6ior2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2oq6ior2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2n5krx42r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2n5krx42r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0fbe7a09f3f7",
+   "created_at": "2026-10-16T17:05:40Z"
+  },
+  {
+   "id": "e6852c1d3bc5",
+   "ts": "2026-10-16T17:02:53Z",
+   "headline": "EU leaders ask the Commission for a proposal on Ukraine's extra 2027 financing needs; Costa says Russia's actions point to escalation",
+   "detail": "European Council President Costa said EU leaders have asked the European Commission to put forward a proposal covering Ukraine's additional financing needs for 2027. He also said Russia's actions indicate escalation.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "733d40f2dae0b868",
+    "ab0a905ae24912ac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2ldhqer2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2ldhqer2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2jpmqxt26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2jpmqxt26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0fbe7a09f3f7",
+   "created_at": "2026-10-16T17:05:40Z"
+  },
   {
    "id": "b8e1dd27e5e3",
    "ts": "2026-10-16T17:01:10Z",
@@ -5738,48 +5792,6 @@
    "model": "opus",
    "run_id": "fbe3e93959f5",
    "created_at": "2026-10-15T09:15:48Z"
-  },
-  {
-   "id": "1e00cc324796",
-   "ts": "2026-10-15T09:09:34Z",
-   "headline": "Houthis deny striking Saudi territory today and reject Saudi claims of an attack aimed at Medina",
-   "detail": "Yemen's Houthi armed forces said they had carried out no operations against Saudi Arabia on Thursday and called Saudi claims of an attack aimed at the city of Medina false. The statement follows Houthi threats of further attacks on Saudi Arabia earlier in the day.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "61f44678f9a7bafe"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvpo2ucqi24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvpo2ucqi24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8fdd9c15b8b7",
-   "created_at": "2026-10-15T09:10:47Z"
-  },
-  {
-   "id": "72c084d1a865",
-   "ts": "2026-10-15T09:05:05Z",
-   "headline": "Gulf stock markets fall in early trade after the Houthis threaten further attacks on Saudi Arabia",
-   "detail": "Reuters reports that major Gulf markets fell early on Thursday after the Houthis threatened more attacks on Saudi Arabia. Saudi Arabia's benchmark index is on course for a sixth weekly loss.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "4490a79c276cdde7"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxvpfzxowu2k",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxvpfzxowu2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cff6293dee13",
-   "created_at": "2026-10-15T09:05:40Z"
   }
  ]
 }
