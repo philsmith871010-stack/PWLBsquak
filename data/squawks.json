@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T09:50:52Z",
+ "generated_at": "2026-10-16T10:05:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1c791b28eafa",
+   "ts": "2026-10-16T10:01:34Z",
+   "headline": "IMF warns eurozone measures to shield consumers from high energy prices could undermine the fight against inflation",
+   "detail": "The IMF said eurozone government support to cushion consumers from high energy prices could weaken efforts to bring down inflation unless it is calibrated.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a67e4abd0922ceab"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyczwsxis2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyczwsxis2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9263cb5a949c",
+   "created_at": "2026-10-16T10:05:39Z"
+  },
   {
    "id": "b448601fa3fb",
    "ts": "2026-10-16T09:47:00Z",
@@ -6281,51 +6302,6 @@
    "model": "opus",
    "run_id": "280f41e12830",
    "created_at": "2026-10-14T18:40:52Z"
-  },
-  {
-   "id": "ab357762a454",
-   "ts": "2026-10-14T18:01:31Z",
-   "headline": "Fed Beige Book: three districts call price growth robust and most report little or no net change in employment",
-   "detail": "The Federal Reserve's Beige Book says two of the twelve districts reported moderate growth in activity, with most seeing little or no net change in employment and expectations generally for slight growth. Three districts described overall price growth as robust and eight as moderate, and three of those eight said input price pressures were intensifying.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "59f3e1af1ca2661b",
-    "2e6ed222c1997cc6",
-    "7a89ed1444055e43",
-    "d26d60c1e7c4d0d9",
-    "ca90a9b71a427058"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu4wdrhrj24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu4wdrhrj24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu4wiit5a2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu4wiit5a2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu4wtbvqu2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu4wtbvqu2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu4xown2z2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu4xown2z2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxu554aqxi2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxu554aqxi2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6ee9a3f8d525",
-   "created_at": "2026-10-14T18:05:42Z"
   }
  ]
 }
