@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T19:35:42Z",
+ "generated_at": "2026-10-19T19:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3dc381b0db92",
+   "ts": "2026-10-19T19:36:43Z",
+   "headline": "Trump says he would discuss Ukraine with China's Xi and calls Xi's stance on the war very fair",
+   "detail": "US President Trump said he would be willing to talk to Chinese President Xi about Ukraine and described Xi's position on Ukraine as very fair. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7c29b9677916ffb6",
+    "e680066114fa196b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaul6ofqr2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaul6ofqr2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaumgsubz2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaumgsubz2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "24345993bd72",
+   "created_at": "2026-10-19T19:40:50Z"
+  },
   {
    "id": "98a12bed0c77",
    "ts": "2026-10-19T19:31:05Z",
@@ -5958,45 +5985,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy7nfoqzf2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy7nfoqzf2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3f45caae9d40",
-   "created_at": "2026-10-16T09:01:16Z"
-  },
-  {
-   "id": "f2ffd477cf16",
-   "ts": "2026-10-16T09:00:17Z",
-   "headline": "Italy's final HICP inflation is revised up to 4.2% y/y, above the 4.1% forecast",
-   "detail": "Italy's final HICP is 4.2% y/y against a 4.1% forecast and previous reading, and 2.1% m/m against a 2% forecast. National CPI is confirmed at 4.2% y/y and 0.7% m/m, both in line with forecast.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "cdd5ab8ca5e2f9ad",
-    "dea707fa57cc0557",
-    "5dc508c9356676c3",
-    "1fca22e56bd15e66"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy7meel2y2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy7meel2y2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy7mcozgg2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy7mcozgg2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy7mghxab2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy7mghxab2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy7n5jzjd2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy7n5jzjd2f"
     }
    ],
    "model": "opus",
