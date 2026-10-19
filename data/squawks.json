@@ -1,8 +1,251 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T05:15:49Z",
+ "generated_at": "2026-10-19T05:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "53bcd69d94fd",
+   "ts": "2026-10-19T00:06:47Z",
+   "headline": "BoJ's Ueda says underlying inflation is near 2% and the Middle East conflict is adding to energy-led price pressures",
+   "detail": "Bank of Japan Governor Ueda said Japan is seeing a positive cycle of rising wages and recovering prices, and that anchoring underlying inflation around 2% is becoming more important. He said strong global demand and a tight labour market are also adding to inflation; dollar/yen was reported 0.19% lower at 157.72.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "04a30cba9a15cde2",
+    "43791dc60d1e1668",
+    "64d21a8678203d0d",
+    "40eee88fb3587e33",
+    "d989ad7defa88827",
+    "32401cb521ee8737",
+    "f2849ae581f99f1e",
+    "5fd3b7f402c843ef",
+    "fd587f82d72fa64d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6t76edrf2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6t76edrf2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6ta67yvo2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6ta67yvo2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6tb6irq62q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6tb6irq62q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6tcrdlpx2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6tcrdlpx2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6tdo3rfv2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6tdo3rfv2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6tenxtai2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6tenxtai2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6tulplgt2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6tulplgt2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6tsvei332z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6tsvei332z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6turhpzd2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6turhpzd2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3ec3071a95f2",
+   "created_at": "2026-10-19T05:20:50Z"
+  },
+  {
+   "id": "50b33bc0fb07",
+   "ts": "2026-10-18T23:14:45Z",
+   "headline": "Putin proposes a summit with Trump and Xi on Ukraine's future, WSJ reports",
+   "detail": "The Wall Street Journal reported that Russian President Putin has asked Trump and Chinese President Xi for a three-way meeting to decide Ukraine's future.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a80db72832878391",
+    "b65b3e55561a386c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6qc4ggs72r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6qc4ggs72r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6qkmzxdc2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6qkmzxdc2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3ec3071a95f2",
+   "created_at": "2026-10-19T05:20:50Z"
+  },
+  {
+   "id": "af8ba1c3fe92",
+   "ts": "2026-10-18T23:11:48Z",
+   "headline": "RBA's Kent says neutral rates appear to be rising in Australia and abroad and questions whether policy is restrictive enough",
+   "detail": "Reserve Bank of Australia Assistant Governor Kent said policy is somewhat restrictive but it is unclear whether it is restrictive enough, and the RBA faces a hard trade-off between inflation and unemployment. He said household demand is softening while business credit stays strong, and that long-term inflation expectations look well anchored.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f4fde5aa9c99672d",
+    "997522a737392ba7",
+    "c412bbc355659bcd",
+    "1c77a83c00a7e361",
+    "6716b35c9ae497d6",
+    "5b6d8581bb441427",
+    "ab739bf31b66e8e0",
+    "5537eb3fceef027c",
+    "9f59310b35c156b5",
+    "72fc4f158ae7e4fd",
+    "a64e819458cdfe67"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6q4u3bvf2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6q4u3bvf2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6qeynpiw2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6qeynpiw2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6ra4lhug2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6ra4lhug2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6rcbd7pa24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6rcbd7pa24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6roaisoz2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6roaisoz2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6s7lvhhz2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6s7lvhhz2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6saggczu2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6saggczu2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6shglkli26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6shglkli26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6shki4rk24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6shki4rk24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6sidynco2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6sidynco2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6sihqjok2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6sihqjok2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3ec3071a95f2",
+   "created_at": "2026-10-19T05:20:50Z"
+  },
+  {
+   "id": "94729489a466",
+   "ts": "2026-10-18T23:01:00Z",
+   "headline": "UK-listed company profit warnings hit their highest level in nearly two years as energy costs rise, EY says",
+   "detail": "EY analysis shows London-listed companies issued 65 profit warnings over the summer, up from 59 in the second quarter, with higher energy costs linked to the Iran war among the causes cited.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "ec406bfbf8536c3c"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3my6pmdamymi2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3my6pmdamymi2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3ec3071a95f2",
+   "created_at": "2026-10-19T05:20:50Z"
+  },
+  {
+   "id": "bcd2227c255e",
+   "ts": "2026-10-18T21:38:52Z",
+   "headline": "Trump says his recent Russia moves are meant to keep Moscow in peace talks and reports great progress",
+   "detail": "Trump said signing a Russia document now could push Moscow out of the talks, told Russia to stay away from supporting Iran, and criticised Ukraine's strikes on Russian diesel refineries for hurting global diesel markets. Separately, the UK reaffirmed its support for tougher sanctions on Russia.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "81ef43d99cfa1e2f",
+    "b05f94bf18be486b",
+    "8f34d7821bbeee67",
+    "6698f3116bc9c649",
+    "350c107774a46a7b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kwnpha42f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kwnpha42f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kwttyn226",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kwttyn226"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kwubcgh2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kwubcgh2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kx3uzxx2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kx3uzxx2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kwfadme2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kwfadme2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3ec3071a95f2",
+   "created_at": "2026-10-19T05:20:50Z"
+  },
   {
    "id": "d5512c84246e",
    "ts": "2026-10-18T21:38:21Z",
@@ -5675,123 +5918,6 @@
    "model": "opus",
    "run_id": "fde54e11a35f",
    "created_at": "2026-10-15T12:31:05Z"
-  },
-  {
-   "id": "b47c85eafa6b",
-   "ts": "2026-10-15T12:25:38Z",
-   "headline": "US tells IEA members it is unhappy with the emergency oil release and proposes adding 100m barrels, reports say",
-   "detail": "A market news account reports that the US has told IEA member countries it is dissatisfied with the current emergency oil stock release. It reports that the US has suggested adding a further 100 million barrels to the release.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "ea30b7d78f9631fa"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw2mnl4ti2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw2mnl4ti2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ed5702e2f52e",
-   "created_at": "2026-10-15T12:25:42Z"
-  },
-  {
-   "id": "b7378e128bca",
-   "ts": "2026-10-15T12:07:22Z",
-   "headline": "China's finance minister Lan says China will implement a more active fiscal policy",
-   "detail": "China's finance minister Lan said fiscal policy will become more active and that the economy continues on a stable, positive trend. He said protectionism and geopolitical risks are hurting growth.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "36c236b4a1613ced",
-    "155068e6546f41a4",
-    "413a86aaa471e75b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvzlyqccz2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvzlyqccz2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvzno5gj52s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvzno5gj52s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvzoczow32r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvzoczow32r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5a25ba32cc3f",
-   "created_at": "2026-10-15T12:10:49Z"
-  },
-  {
-   "id": "e766fde81d66",
-   "ts": "2026-10-15T12:06:36Z",
-   "headline": "Senior Iranian military official Sayyari says the Strait of Hormuz is closed, reports say",
-   "detail": "Reports say Rear Admiral Habibollah Sayyari, a senior Iranian military commander, has stated that the Strait of Hormuz is closed. No market reaction has been reported yet.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "5b1a2e990e88f91d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvzkmlrlw2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvzkmlrlw2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5a25ba32cc3f",
-   "created_at": "2026-10-15T12:10:49Z"
-  },
-  {
-   "id": "9a23336512dc",
-   "ts": "2026-10-15T12:06:14Z",
-   "headline": "Ukraine's foreign minister says Russia is openly rejecting Trump's peace proposals",
-   "detail": "Ukraine's foreign minister said Russia rejects peace and is openly rejecting President Trump's proposals, and argued that easing pressure on Moscow has made it more defiant.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7d1c0e43f252d8fe"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvzjxy5eh2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvzjxy5eh2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5a25ba32cc3f",
-   "created_at": "2026-10-15T12:10:49Z"
-  },
-  {
-   "id": "09df54e91768",
-   "ts": "2026-10-15T12:05:40Z",
-   "headline": "Poll finds UK fiscal headroom has probably been eroded to £10-12bn",
-   "detail": "A poll finds the UK government's current fiscal headroom has probably fallen to £10-12bn. An earlier poll found the government should aim for £15-16bn of headroom in the October Budget.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "90ef75445ec965da"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvzixhqqz2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvzixhqqz2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5a25ba32cc3f",
-   "created_at": "2026-10-15T12:10:49Z"
   }
  ]
 }
