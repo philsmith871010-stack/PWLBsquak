@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T07:05:40Z",
+ "generated_at": "2026-10-19T07:25:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8d47a241c9bf",
+   "ts": "2026-10-19T07:25:11Z",
+   "headline": "China expected to hold benchmark lending rates for a 17th straight month in October, Reuters poll shows",
+   "detail": "A Reuters survey shows China is expected to keep its benchmark lending rates unchanged in October. Reuters says Q3 GDP came in stronger than expected, which reduced the chances of easing in the near term.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "3d5ea970c176ac02"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3my7lp3ggrj2k",
+     "url": "https://bsky.app/profile/reuters.com/post/3my7lp3ggrj2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "024458b42568",
+   "created_at": "2026-10-19T07:25:40Z"
+  },
+  {
+   "id": "95f33d9b9bed",
+   "ts": "2026-10-19T06:59:47Z",
+   "headline": "Average UK two-year fixed mortgage rate climbs to 5.55% from 5.29% a month ago, homes portal data show",
+   "detail": "Data from a homes portal reported by City AM put the average two-year fixed rate at 5.55%, compared with 5.29% last month and 4.25% before the war in Iran. The report says sellers are cutting asking prices as higher rates weigh on the housing market.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "5a11ebcff3588442"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3my7ljqh267l2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3my7ljqh267l2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "024458b42568",
+   "created_at": "2026-10-19T07:25:40Z"
+  },
   {
    "id": "5f76dd4eaa4d",
    "ts": "2026-10-19T07:04:31Z",
@@ -6170,66 +6212,6 @@
    "model": "opus",
    "run_id": "0da91d21b9eb",
    "created_at": "2026-10-15T13:31:08Z"
-  },
-  {
-   "id": "701a31bc8ff4",
-   "ts": "2026-10-15T13:16:34Z",
-   "headline": "Saudi-led coalition says Houthis tried to hit dozens of Saudi airports, oil sites and ports; reports destroying over 120 Yemeni arms depots",
-   "detail": "The Saudi-led coalition said Yemen's Houthis had attempted attacks on dozens of airports, oil facilities and ports in Saudi Arabia and had acquired advanced weaponry. It also said it had destroyed more than 120 arms depots and many launchers in Yemen's mountains.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5e766d750becce3c",
-    "53addf30a8ef34ba",
-    "4598469a793aff52"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw5hqbvb22z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw5hqbvb22z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw5hqsj4j2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw5hqsj4j2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw5lzuo3p26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw5lzuo3p26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5afcd6e0f78",
-   "created_at": "2026-10-15T13:20:51Z"
-  },
-  {
-   "id": "4244a56ab494",
-   "ts": "2026-10-15T13:05:46Z",
-   "headline": "WEF could name ECB President Lagarde as its next chair as early as 2 November, sources say",
-   "detail": "Sources say the World Economic Forum could appoint ECB President Christine Lagarde as its chair as soon as 2 November. A second report also put the possible timing at November.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7577062653f28838",
-    "758b66bf1bfcd825"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw4ugbvcd2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw4ugbvcd2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw53jcfmh2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw53jcfmh2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "177dafef1d2d",
-   "created_at": "2026-10-15T13:10:55Z"
   }
  ]
 }
