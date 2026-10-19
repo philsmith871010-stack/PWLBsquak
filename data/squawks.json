@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T16:45:52Z",
+ "generated_at": "2026-10-19T16:50:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "08f281307b1e",
+   "ts": "2026-10-19T16:49:20Z",
+   "headline": "Netanyahu reportedly tells Trump that Israel still has work to finish",
+   "detail": "Israel Hayom reports that Israeli Prime Minister Netanyahu told US President Trump that Israel's work is not yet complete. The report comes as US-Iran tensions continue.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7003d4f8dff355af"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myal7uakqq2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myal7uakqq2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d77d05b99b2c",
+   "created_at": "2026-10-19T16:50:55Z"
+  },
   {
    "id": "955dda7b94cb",
    "ts": "2026-10-19T16:45:35Z",
@@ -6114,57 +6135,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxn7ooaqk2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxn7ooaqk2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0187c1dbe2f8",
-   "created_at": "2026-10-16T05:10:48Z"
-  },
-  {
-   "id": "0c5f41f82d1c",
-   "ts": "2026-10-16T02:47:26Z",
-   "headline": "IMF's Georgieva says price stability must stay central banks' main focus and debt cannot fall without fiscal action",
-   "detail": "Speaking alongside Fed Chair Warsh in Bangkok, IMF Managing Director Kristalina Georgieva said growth alone cannot bring debt down fast enough without fiscal discipline. She also urged northern countries to rebuild fuel reserves before winter.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "fb799cea0cfaab02",
-    "ea39360060d6c69d",
-    "d09d15841b7869af",
-    "46ce0a53ad3112a3",
-    "ee8e55ba01e9e360",
-    "8745092929f90a7c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxkw37ree2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxkw37ree2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxktt233z2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxktt233z2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxllrzugr2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxllrzugr2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxkrnyy7g2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxkrnyy7g2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxkvdx2os2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxkvdx2os2f"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxxkfhspv22p",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxxkfhspv22p"
     }
    ],
    "model": "opus",
