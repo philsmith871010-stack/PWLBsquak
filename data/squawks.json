@@ -1,8 +1,107 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-16T21:50:48Z",
+ "generated_at": "2026-10-19T05:15:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d5512c84246e",
+   "ts": "2026-10-18T21:38:21Z",
+   "headline": "Zelenskyy offers to stop strikes on Russian refineries if the US sends more interceptors and accuses Trump of pushing Ukraine to capitulate",
+   "detail": "Ukraine's president proposed halting strikes on Russian oil refineries in return for more air-defence interceptors. He cited delayed Patriot deliveries, Starlink restrictions and eased Russia-related sanctions as US pressure for concessions to Russia.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "627f7fe8261c7517",
+    "925caa5edd61d174",
+    "7e498f8ef5b50ff3",
+    "902198a73a14c777",
+    "96971f10f8a8cc34"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kvqw6u72r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kvqw6u72r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kvyaxkh2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kvyaxkh2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kwcvyv226",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kwcvyv226"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kwcgvah2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kwcgvah2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kwddoco2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kwddoco2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ded27e83e38a",
+   "created_at": "2026-10-19T05:15:49Z"
+  },
+  {
+   "id": "20459f7ccf3c",
+   "ts": "2026-10-18T21:37:53Z",
+   "headline": "US Energy Secretary Wright says enforcement of the Graham sanctions on Russia is suspended for now, not ended",
+   "detail": "Wright said extra Russian diesel exports would benefit US consumers and the world. He described the US-Russia diesel deal, agreed before Russia moved to scale back the war, as an innovative route to peace.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "2a184b29f8267f87",
+    "ec618b7293f59d33",
+    "af71c75d7a54d682"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kuw6fxs2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kuw6fxs2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kuu6pn32r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kuu6pn32r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kusabue2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kusabue2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ded27e83e38a",
+   "created_at": "2026-10-19T05:15:49Z"
+  },
+  {
+   "id": "355be6f0594c",
+   "ts": "2026-10-18T18:28:17Z",
+   "headline": "City of London Corporation considers tax rises and service cuts to close a £70mn budget gap",
+   "detail": "The FT reports that the Corporation is preparing for the government's overhaul of local authority funding, and that the Barbican Centre's future is uncertain.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "548e2c45ef7005db"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3my6abv5lnw2i",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3my6abv5lnw2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ded27e83e38a",
+   "created_at": "2026-10-19T05:15:49Z"
+  },
   {
    "id": "6df7c1ca85d5",
    "ts": "2026-10-16T21:47:35Z",
@@ -5693,75 +5792,6 @@
    "model": "opus",
    "run_id": "5a25ba32cc3f",
    "created_at": "2026-10-15T12:10:49Z"
-  },
-  {
-   "id": "9f38fc06e6d0",
-   "ts": "2026-10-15T12:05:29Z",
-   "headline": "Poll finds UK government should aim for £15-16bn of fiscal headroom in the October Budget",
-   "detail": "A poll reported on 15 October puts the fiscal headroom the government should target in the October Budget at £15-16bn. The report does not name who was polled.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "2b53e909c78ae7b8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvzimsz3o2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvzimsz3o2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8cfca7cd6ff8",
-   "created_at": "2026-10-15T12:05:41Z"
-  },
-  {
-   "id": "7fddc758cc8d",
-   "ts": "2026-10-15T11:52:41Z",
-   "headline": "Trump says he may back a suspension of the federal diesel tax",
-   "detail": "US President Trump said he could support suspending the federal tax on diesel. He did not give a timetable or any figures.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "c308f9b427ea136e",
-    "5782f96d4806714d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvyrpxzac2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvyrpxzac2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxvyski65x2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxvyski65x2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1347d4c635ac",
-   "created_at": "2026-10-15T11:55:39Z"
-  },
-  {
-   "id": "562029f861dd",
-   "ts": "2026-10-15T11:45:09Z",
-   "headline": "UN rural development agency head says Hormuz shipping disruption is starting to hurt harvests and could raise food prices",
-   "detail": "The head of a United Nations rural development agency said on Thursday that disruption to shipping through the Strait of Hormuz is already showing up in agricultural harvests and threatens lower farm yields and higher food prices, Reuters reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "76bcb4a337074fd0"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxvyebjkz42t",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxvyebjkz42t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4a26fa45a44a",
-   "created_at": "2026-10-15T11:45:49Z"
   }
  ]
 }
