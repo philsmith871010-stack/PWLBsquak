@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T14:01:15Z",
+ "generated_at": "2026-10-19T14:05:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "eda779cedb39",
+   "ts": "2026-10-19T14:02:12Z",
+   "headline": "China threatens to retaliate if the UK keeps restrictions on Chinese electric vehicles",
+   "detail": "China's Commerce Ministry says it will firmly counter any UK move to press ahead with restrictive measures against Chinese EVs.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "01c982d68c4cec6a",
+    "732c2999501dae05"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myabuz2gqo2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myabuz2gqo2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myabuqnuuw2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myabuqnuuw2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1514ca41ec77",
+   "created_at": "2026-10-19T14:05:59Z"
+  },
   {
    "id": "ab11c4c09fb1",
    "ts": "2026-10-19T14:00:53Z",
@@ -6180,39 +6207,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwwn23ou426",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwwn23ou426"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c81a1fd394b5",
-   "created_at": "2026-10-15T20:48:15Z"
-  },
-  {
-   "id": "761add0dd4c7",
-   "ts": "2026-10-15T20:44:34Z",
-   "headline": "Pentagon says its 'NATO 3.0' plan would cut US troop numbers in Europe and shift focus to the Pacific",
-   "detail": "The Pentagon said the NATO 3.0 plan sets out a rebalancing of the alliance, with fewer US troops in Europe and more US attention on the Pacific and other regions. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "cf65cf49add50394",
-    "1119c98de0ad12b6",
-    "31efe81fbe9f4e1e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwwisyomr2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwwisyomr2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwwisffq426",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwwisffq426"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwwkaflvs2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwwkaflvs2d"
     }
    ],
    "model": "opus",
