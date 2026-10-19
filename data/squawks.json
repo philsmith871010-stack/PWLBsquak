@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T12:35:41Z",
+ "generated_at": "2026-10-19T12:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "019efe6bdd6d",
+   "ts": "2026-10-19T12:39:40Z",
+   "headline": "White House adviser Hassett says US inflation appears to need more work again",
+   "detail": "White House senior adviser Kevin Hassett said US inflation appears to need further work again. In the same remarks, he described discretionary travel as a sign that consumers feel confident.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "65b7220add0c92da",
+    "fce279403f317aa6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mya5bg5ccs26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mya5bg5ccs26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mya5c77ptw2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mya5c77ptw2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c75c3ccd32e0",
+   "created_at": "2026-10-19T12:40:50Z"
+  },
+  {
+   "id": "cecc53e5480a",
+   "ts": "2026-10-19T12:36:42Z",
+   "headline": "Swap pricing for a Bank of Canada rate hike in October falls to 68% from 74% after Canadian CPI data",
+   "detail": "Swap market data put the chance of a Bank of Canada hike in October at 68%, down from 74% before the September inflation release.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "49d5be2b2e7ff461"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mya544mzyn2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mya544mzyn2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c75c3ccd32e0",
+   "created_at": "2026-10-19T12:40:50Z"
+  },
   {
    "id": "e9c4943ec6fd",
    "ts": "2026-10-19T12:31:07Z",
@@ -6104,48 +6152,6 @@
    "model": "opus",
    "run_id": "e337c197f9b3",
    "created_at": "2026-10-15T16:45:49Z"
-  },
-  {
-   "id": "68d76ca10f21",
-   "ts": "2026-10-15T16:41:43Z",
-   "headline": "France and Germany agree a deal on the future of the car industry, diplomats say",
-   "detail": "Diplomats say France and Germany have reached a deal on the future of the car industry. No further terms were reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0c0a01a37a468150"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwiwknpdp26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwiwknpdp26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e337c197f9b3",
-   "created_at": "2026-10-15T16:45:49Z"
-  },
-  {
-   "id": "de794e51ce94",
-   "ts": "2026-10-15T16:35:51Z",
-   "headline": "US Treasury announces new Iran-related sanctions",
-   "detail": "The US Treasury Department has published a fresh round of Iran-related sanctions on its website. No details of who is targeted were given in the initial report.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5a28cd4e521091bc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwim2smgp2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwim2smgp2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1f7df2f433f0",
-   "created_at": "2026-10-15T16:40:51Z"
   }
  ]
 }
