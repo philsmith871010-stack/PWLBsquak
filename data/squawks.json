@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T20:01:13Z",
+ "generated_at": "2026-10-19T20:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5cbe5283261e",
+   "ts": "2026-10-19T20:04:13Z",
+   "headline": "Iran summons the EU and German ambassadors, reports say",
+   "detail": "Reports say Tehran has summoned the ambassadors of the EU and Germany. Earlier, Iran's foreign minister accused European countries of complicity in the US war with Iran.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c52a393bcf7d8280"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaw4dwx422w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaw4dwx422w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ea275f04ff96",
+   "created_at": "2026-10-19T20:05:41Z"
+  },
   {
    "id": "416b30a427cb",
    "ts": "2026-10-19T20:00:38Z",
@@ -5963,27 +5984,6 @@
    "model": "opus",
    "run_id": "38e10b541d94",
    "created_at": "2026-10-16T09:15:50Z"
-  },
-  {
-   "id": "68a0bb27a623",
-   "ts": "2026-10-16T09:01:19Z",
-   "headline": "Eurozone trade balance swings to a €16.1bn deficit, not seasonally adjusted",
-   "detail": "The non-seasonally adjusted eurozone trade balance came in at -16.1bn. The previous figure was revised to 10.7bn from 14.2bn.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c81dbcb5e010693d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy7o7wabb24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy7o7wabb24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "774b333b6753",
-   "created_at": "2026-10-16T09:05:41Z"
   }
  ]
 }
