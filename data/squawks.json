@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T10:55:41Z",
+ "generated_at": "2026-10-19T11:15:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a86ff97d76b4",
+   "ts": "2026-10-19T11:14:05Z",
+   "headline": "French PM says intelligence agencies warn the far left could try to disrupt the presidential election",
+   "detail": "French PM Lecornu says intelligence agencies have briefed him on the risk. Separately, President Macron condemns looting and vandalism during cost-of-living protests and orders a review of intelligence and police preparedness.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5a1b5aa582469a97",
+    "bc4a58a6d3325d4b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7yif4hea2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7yif4hea2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7ylcl5kz2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7ylcl5kz2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "db2565a27fc6",
+   "created_at": "2026-10-19T11:15:47Z"
+  },
+  {
+   "id": "df39aa1ff31a",
+   "ts": "2026-10-19T11:11:52Z",
+   "headline": "Iranian hardliners call for nuclear weapons after the killing of Supreme Leader Khamenei, FT reports",
+   "detail": "The Financial Times reports that hardliners in Iran are pushing to weaponise the enrichment programme. They say Khamenei, who had prohibited atomic bombs, has been killed.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4b4a3f8c69b96c0a"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3my7yegmmwj2p",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3my7yegmmwj2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "db2565a27fc6",
+   "created_at": "2026-10-19T11:15:47Z"
+  },
   {
    "id": "7e9e350ffc74",
    "ts": "2026-10-19T10:51:30Z",
@@ -6080,54 +6128,6 @@
    "model": "opus",
    "run_id": "1501215822ce",
    "created_at": "2026-10-15T15:50:47Z"
-  },
-  {
-   "id": "39137075104a",
-   "ts": "2026-10-15T15:45:41Z",
-   "headline": "Putin says recent Ukrainian strikes on Russian refineries have caused no significant damage",
-   "detail": "Russian President Vladimir Putin said Ukraine's recent strikes on Russian oil refineries had not caused significant damage. Ukraine had pledged to resume strikes on Russian refineries.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "02cfc0e0462f1ad2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwfseobfu2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwfseobfu2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e0b628d0027c",
-   "created_at": "2026-10-15T15:45:50Z"
-  },
-  {
-   "id": "760282ef9b4f",
-   "ts": "2026-10-15T15:38:24Z",
-   "headline": "UN Security Council condemns escalating Houthi attacks on Saudi Arabia in a presidential statement",
-   "detail": "In a presidential statement, Security Council members condemned the continuing and escalating Houthi attacks on Saudi Arabia in the strongest terms, according to reports. Separately, Yemen's cabinet said the strike on the Maashiq Palace was part of a wider Houthi escalation that included attacks on vital facilities in Saudi Arabia.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3a81a8dcddd23494",
-    "64d6b799ad7592f8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwffdjpqv2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwffdjpqv2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwfdsvwux2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwfdsvwux2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f59d2f53cae9",
-   "created_at": "2026-10-15T15:40:55Z"
   }
  ]
 }
