@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T08:31:04Z",
+ "generated_at": "2026-10-19T08:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9aaccf25fa3f",
+   "ts": "2026-10-19T08:34:59Z",
+   "headline": "PBOC governor widens eligibility for standing lending facilities and plans to let overseas institutions trade RMB onshore",
+   "detail": "The People's Bank of China governor also announced steps to promote bond market connectivity and to make it easier for overseas financial institutions to trade renminbi in China's domestic foreign exchange market, CCTV reported. The measures were announced alongside the liquidity support tool for non-bank institutions.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "cc6632805aa5e757",
+    "7269b04f428c55f5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7plvs44q2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7plvs44q2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7pm26ccx2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7pm26ccx2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "98d43320001c",
+   "created_at": "2026-10-19T08:35:43Z"
+  },
   {
    "id": "0d2fdb16d49f",
    "ts": "2026-10-19T08:30:18Z",
@@ -6071,27 +6098,6 @@
    "model": "opus",
    "run_id": "393a5a9e16a5",
    "created_at": "2026-10-15T14:15:59Z"
-  },
-  {
-   "id": "cb40e09ffb28",
-   "ts": "2026-10-15T14:08:32Z",
-   "headline": "US 5-year and 7-year Treasury yields fall 15bp on the day",
-   "detail": "US Treasury 5-year and 7-year yields were reported down 15bp on the day, as the Treasury market rally widened further.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "a8b20368fb0768bb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwaenkze52y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwaenkze52y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d14e8e769f43",
-   "created_at": "2026-10-15T14:10:55Z"
   }
  ]
 }
