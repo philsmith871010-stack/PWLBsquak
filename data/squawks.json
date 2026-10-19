@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T12:15:49Z",
+ "generated_at": "2026-10-19T12:31:07Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2b93594c3b10",
+   "ts": "2026-10-19T12:31:03Z",
+   "headline": "Canadian CPI rises 3.1% y/y, below the 3.2% forecast; CPI-median measure at 1.9%",
+   "detail": "Canada's annual CPI came in at 3.1%, against a 3.2% forecast and up from 3.0% previously. The CPI-median core measure was 1.9%, against a 2% forecast and down from 2.0%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "be7a5d238b608f2e",
+    "0206ba692a724fef"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mya4ryzle62m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mya4ryzle62m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mya4rwoctb2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mya4rwoctb2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "599ddc65c7dd",
+   "created_at": "2026-10-19T12:31:07Z"
+  },
   {
    "id": "fd6c0c6c1092",
    "ts": "2026-10-19T12:15:09Z",
@@ -6072,27 +6099,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxwicogohg2a",
      "url": "https://bsky.app/profile/reuters.com/post/3mxwicogohg2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2d615d0b8a55",
-   "created_at": "2026-10-15T16:31:06Z"
-  },
-  {
-   "id": "b920cc8f97ed",
-   "ts": "2026-10-15T16:25:49Z",
-   "headline": "UK trade minister signals the UK is ready to align with EU tariffs on Chinese electric vehicles, Politico reports",
-   "detail": "Politico reports that the UK trade minister has said the UK is prepared to align with the EU's tariffs on Chinese electric vehicles. This follows an FT report that France and Germany would let the UK into EU car policy if it aligns with those tariffs.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0080061f77b8b25f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwi24url62r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwi24url62r"
     }
    ],
    "model": "opus",
