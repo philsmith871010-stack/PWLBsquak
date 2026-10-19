@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T14:15:52Z",
+ "generated_at": "2026-10-19T15:05:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2410b8a4fbfc",
+   "ts": "2026-10-19T15:03:24Z",
+   "headline": "French 10-year yield climbs further to 4.94%, up 16bp on the day",
+   "detail": "French 10-year government bond yields extended their rise to stand 16bp higher at 4.94%. The move follows weekend rioting across France and continuing political instability.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "677db6e6e2d36e09"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myafchgwdz2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myafchgwdz2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4c69d665f52b",
+   "created_at": "2026-10-19T15:05:44Z"
+  },
   {
    "id": "b9ead79300fa",
    "ts": "2026-10-19T14:11:16Z",
@@ -6185,33 +6206,6 @@
    "model": "opus",
    "run_id": "31444ee8b16f",
    "created_at": "2026-10-15T21:25:41Z"
-  },
-  {
-   "id": "566423fd130d",
-   "ts": "2026-10-15T21:08:19Z",
-   "headline": "Fed's Hammack says businesses face heavy input cost pressures and voices concern over an emerging inflation mentality",
-   "detail": "Cleveland Fed President Beth Hammack said businesses are reporting substantial input cost pressures and that she is worried an inflation mentality could take hold. She also said anecdotal information gives important guidance on the economy.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b21f131b354df6ec",
-    "f9b744b282cfb778"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwxtbcqgh2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwxtbcqgh2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwxtar6dh2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwxtar6dh2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f146e25172fb",
-   "created_at": "2026-10-15T21:10:51Z"
   }
  ]
 }
