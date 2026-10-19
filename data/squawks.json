@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T17:35:42Z",
+ "generated_at": "2026-10-19T17:40:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "387d2a0063a5",
+   "ts": "2026-10-19T17:40:09Z",
+   "headline": "Lyon imposes a city-centre curfew from 9pm Monday to 6am Tuesday as French unrest continues",
+   "detail": "The local prefecture announced the overnight curfew in Lyon city centre. It follows curfews already ordered in Paris, Lille and other northern cities after the riots.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8a298193f6addacd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myao2q5p4p2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myao2q5p4p2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5ce31e3db7ad",
+   "created_at": "2026-10-19T17:40:51Z"
+  },
   {
    "id": "132a6a80e309",
    "ts": "2026-10-19T17:31:46Z",
@@ -5970,27 +5991,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxqep2dqr2m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxqep2dqr2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "65bd9757135e",
-   "created_at": "2026-10-16T05:20:49Z"
-  },
-  {
-   "id": "9aaa80946371",
-   "ts": "2026-10-16T04:23:46Z",
-   "headline": "Milburn welfare review would give young people less cash but more job support, FT reports",
-   "detail": "The FT reports that former Labour cabinet minister Alan Milburn is finalising his review into the million young people not in education, employment or training. The plan would cut cash payments and increase job support.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "f8564bc407d6dffe"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxxq5wbvew2f",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mxxq5wbvew2f"
     }
    ],
    "model": "opus",
