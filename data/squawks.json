@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T18:05:40Z",
+ "generated_at": "2026-10-19T18:15:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a72b5a0ae92b",
+   "ts": "2026-10-19T18:15:01Z",
+   "headline": "Bank of Japan sees inflation close to its 2% target and is preparing a policy pivot, Nikkei reports",
+   "detail": "Nikkei reports that the Bank of Japan judges inflation to be near its 2% target and is getting ready for a change in policy direction.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "4cb604a01a8a13ff"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myapz2t5pf2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myapz2t5pf2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "392fd88e1c8d",
+   "created_at": "2026-10-19T18:15:51Z"
+  },
   {
    "id": "335b6ac52a22",
    "ts": "2026-10-19T18:05:13Z",
@@ -5957,51 +5978,6 @@
    "model": "opus",
    "run_id": "d31732fa968f",
    "created_at": "2026-10-16T06:10:49Z"
-  },
-  {
-   "id": "7f1a4f03bb2f",
-   "ts": "2026-10-16T06:01:04Z",
-   "headline": "Swedish seasonally adjusted unemployment falls to 8.6% in September from 8.9%, in line with forecast",
-   "detail": "Sweden's seasonally adjusted jobless rate came in at 8.6% for September, matching the forecast and down from 8.9%. The unadjusted rate fell to 8.1% from 8.5%, and the trend rate was unchanged at 8.7%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "42e9bcf2b0472d81",
-    "1e1b34443d662199",
-    "4589924dd82c897a",
-    "8f242966e9b968b8",
-    "f01866aad8629d40"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxvlvgdn72y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxvlvgdn72y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxvlvyt2r2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxvlvyt2r2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxvlx3kmv2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxvlx3kmv2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxvlwjjm32z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxvlwjjm32z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxvlxmve62q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxvlxmve62q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d30cbc569624",
-   "created_at": "2026-10-16T06:01:15Z"
   }
  ]
 }
