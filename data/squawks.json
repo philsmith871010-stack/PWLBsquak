@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T18:45:53Z",
+ "generated_at": "2026-10-19T18:55:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "720b78bf79a3",
+   "ts": "2026-10-19T18:52:41Z",
+   "headline": "Israel's finance minister Smotrich calls for annexing Lebanese territory up to current Israeli lines, and further if Hezbollah attacks",
+   "detail": "Israeli Finance Minister Smotrich said Israel should annex Lebanon at least up to where its forces are now positioned, and advance as far as Beirut and beyond if Hezbollah attacks again. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "17f084313487af71"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myas4gn6jv2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myas4gn6jv2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "47dd746cee45",
+   "created_at": "2026-10-19T18:55:41Z"
+  },
   {
    "id": "54e5c3310ae4",
    "ts": "2026-10-19T18:43:27Z",
@@ -5921,27 +5942,6 @@
    "model": "opus",
    "run_id": "69c421f4625f",
    "created_at": "2026-10-16T07:31:04Z"
-  },
-  {
-   "id": "b4ae8ded2941",
-   "ts": "2026-10-16T07:25:16Z",
-   "headline": "PBOC Governor Pan says the central bank will support development of offshore yuan markets",
-   "detail": "People's Bank of China Governor Pan Gongsheng said the bank will back the development of offshore yuan markets. No further detail or market reaction was reported.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b1d0efdcc843cb5f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy2cigkwn2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy2cigkwn2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7ea402ed0583",
-   "created_at": "2026-10-16T07:25:44Z"
   }
  ]
 }
