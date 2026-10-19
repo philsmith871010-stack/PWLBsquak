@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T16:50:55Z",
+ "generated_at": "2026-10-19T16:55:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5ac72b754abc",
+   "ts": "2026-10-19T16:54:25Z",
+   "headline": "French authorities extend curfews to Paris, covering Place de la République and Les Halles from 2000 GMT",
+   "detail": "BFM TV reports that French authorities have ordered a curfew for the Place de la République and Les Halles areas of Paris from 2000 GMT. It follows earlier curfews in Lille and other northern cities after riots.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "30862f74b33b4bd5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myalixfsp726",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myalixfsp726"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0f4125e376df",
+   "created_at": "2026-10-19T16:55:43Z"
+  },
   {
    "id": "08f281307b1e",
    "ts": "2026-10-19T16:49:20Z",
@@ -6107,39 +6128,6 @@
    "model": "opus",
    "run_id": "49ea82c0b973",
    "created_at": "2026-10-16T05:15:46Z"
-  },
-  {
-   "id": "4f7dc380f95e",
-   "ts": "2026-10-16T03:32:18Z",
-   "headline": "US Treasury official Browne says Japan's currency and monetary policy must adjust to the post-deflation environment",
-   "detail": "US Treasury official Browne also called on the IMF to do more to identify global imbalances.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "78474594fa3ae019",
-    "d03214c257eb8148",
-    "ae313a1cc5a8b32b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxnbvnitr2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxnbvnitr2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxn3g6j622r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxn3g6j622r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxn7ooaqk2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxn7ooaqk2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0187c1dbe2f8",
-   "created_at": "2026-10-16T05:10:48Z"
   }
  ]
 }
