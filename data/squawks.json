@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T05:35:42Z",
+ "generated_at": "2026-10-19T06:45:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ad0a0cf79175",
+   "ts": "2026-10-19T06:41:19Z",
+   "headline": "Euro stays under selling pressure against sterling as French political instability continues",
+   "detail": "A market commentary headline reports continued selling of the euro against sterling, linked to political instability in France after weekend rioting. No levels were given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e5f5c7964d86b4cc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7janphc52r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7janphc52r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d5fd20b7af9e",
+   "created_at": "2026-10-19T06:45:48Z"
+  },
   {
    "id": "3585edffe07e",
    "ts": "2026-10-19T04:45:09Z",
@@ -6203,27 +6224,6 @@
    "model": "opus",
    "run_id": "0361bf5d0a47",
    "created_at": "2026-10-15T13:01:29Z"
-  },
-  {
-   "id": "966c0fb9b7f7",
-   "ts": "2026-10-15T12:53:28Z",
-   "headline": "France begins putting in place operational parts of an agreement to help protect Saudi oil facilities",
-   "detail": "A spokesperson for the French foreign ministry said France has started implementing operational elements of the agreement to help protect Saudi Arabian oil installations.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "22b6ebe7c06db01a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw46gjhku2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw46gjhku2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aae84cdf1f3f",
-   "created_at": "2026-10-15T12:55:41Z"
   }
  ]
 }
