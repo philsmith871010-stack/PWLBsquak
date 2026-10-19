@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T20:05:41Z",
+ "generated_at": "2026-10-19T20:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2c706c750689",
+   "ts": "2026-10-19T20:18:35Z",
+   "headline": "Ukrainian officials suspect the US is intermittently limiting intelligence sharing; US Secretary of State Rubio denies any pause",
+   "detail": "Ukrainian officials say they suspect the US is restricting intelligence sharing on and off, leaving Ukraine without early warning of Russian missile attacks. US Secretary of State Marco Rubio denies there has been any pause in support.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e0bc8c130cbc675c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myawvzujk62r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myawvzujk62r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "adae2b84062a",
+   "created_at": "2026-10-19T20:20:50Z"
+  },
   {
    "id": "5cbe5283261e",
    "ts": "2026-10-19T20:04:13Z",
@@ -5963,27 +5984,6 @@
    "model": "opus",
    "run_id": "a0dfe2f02df3",
    "created_at": "2026-10-16T09:35:44Z"
-  },
-  {
-   "id": "5e454ac0becf",
-   "ts": "2026-10-16T09:15:09Z",
-   "headline": "Real Living Wage for 2026-27 is set at £14.10 for the UK and £15.45 for London",
-   "detail": "The Resolution Foundation published the revised voluntary real Living Wage rates for 2026-27: £14.10 an hour across the UK and £15.45 in London.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "6cff6b931c014aa8"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxyagxiwqk2w",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxyagxiwqk2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "38e10b541d94",
-   "created_at": "2026-10-16T09:15:50Z"
   }
  ]
 }
