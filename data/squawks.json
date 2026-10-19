@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T11:15:47Z",
+ "generated_at": "2026-10-19T11:31:02Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0604a6e6dfba",
+   "ts": "2026-10-19T11:30:51Z",
+   "headline": "IRGC spokesman warns that even limited US action against Iran would set off a global energy crisis",
+   "detail": "A spokesman for Iran's Revolutionary Guards gave the warning, Sepah News reported. No market reaction was reported in the posts.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c248e3e99df8a52b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7zgf6qom2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7zgf6qom2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b929a543b2bf",
+   "created_at": "2026-10-19T11:31:02Z"
+  },
   {
    "id": "a86ff97d76b4",
    "ts": "2026-10-19T11:14:05Z",
@@ -6095,39 +6116,6 @@
    "model": "opus",
    "run_id": "43c443ccb843",
    "created_at": "2026-10-15T16:05:45Z"
-  },
-  {
-   "id": "0cbe038317e2",
-   "ts": "2026-10-15T15:47:15Z",
-   "headline": "Putin says Russia will respond to Ukraine's strikes on its oil refineries",
-   "detail": "Russian President Putin said Russia would respond to Ukraine's strikes on Russian refineries. In the same remarks, reported by Interfax, he said the recent strikes had caused no significant damage.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "00a37e8ac938a24d",
-    "e678d3d26274d773",
-    "c129ee43423b6701"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwfv5shuh2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwfv5shuh2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwftkzao224",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwftkzao224"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwfv3jwl72w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwfv3jwl72w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1501215822ce",
-   "created_at": "2026-10-15T15:50:47Z"
   }
  ]
 }
