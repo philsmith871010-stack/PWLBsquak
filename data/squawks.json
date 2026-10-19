@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T09:25:41Z",
+ "generated_at": "2026-10-19T09:55:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3179012ba75a",
+   "ts": "2026-10-19T09:54:09Z",
+   "headline": "French borrowing costs rise 0.1 percentage point as bond selling resumes; 10-year spread over Germany back at 1.45 percentage points",
+   "detail": "The FT reports that French government bonds are under renewed selling pressure today, lifting borrowing costs by 0.1 percentage point. That takes the extra yield France pays over Germany on 10-year debt back up to 1.45 percentage points.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "924f9100d03d1423"
+   ],
+   "sources": [
+    {
+     "author": "iankmsmith.ft.com",
+     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3my7tzh2tac2g",
+     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3my7tzh2tac2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "930024f74111",
+   "created_at": "2026-10-19T09:55:39Z"
+  },
   {
    "id": "bd186742368a",
    "ts": "2026-10-19T07:25:12Z",
@@ -6077,33 +6098,6 @@
    "model": "opus",
    "run_id": "4145cf91c39e",
    "created_at": "2026-10-15T15:01:25Z"
-  },
-  {
-   "id": "2f7c8ed66d8d",
-   "ts": "2026-10-15T14:48:02Z",
-   "headline": "Yemen turns down a Saudi request for talks in Oman, reports say",
-   "detail": "Iran's Tasnim news agency, citing AFP, reports that Yemen has rejected a Saudi Arabian request to hold talks in Oman. The report comes as fighting between the Houthis and Saudi Arabia intensifies.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ab3d773bc8af4f42",
-    "2b1540c84ba1aa43"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwclby7nh2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwclby7nh2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwcpq3eq32s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwcpq3eq32s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "54315be2811b",
-   "created_at": "2026-10-15T14:50:51Z"
   }
  ]
 }
