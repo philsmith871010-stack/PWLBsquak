@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T09:20:51Z",
+ "generated_at": "2026-10-19T09:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bd186742368a",
+   "ts": "2026-10-19T07:25:12Z",
+   "headline": "Chancellor Healey reportedly weighs income tax on family business handovers before his first Budget",
+   "detail": "City AM, citing a report, says Chancellor John Healey is considering charging income tax when owners pass companies to their children, which could nearly double the tax bill. The report says the plans are aimed at avoiding spending cuts.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "a7046bf964a35276"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3my7saomh3l42",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3my7saomh3l42"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8b5fb6342e15",
+   "created_at": "2026-10-19T09:25:41Z"
+  },
   {
    "id": "99e05ba649c8",
    "ts": "2026-10-19T09:18:43Z",
@@ -6083,27 +6104,6 @@
    "model": "opus",
    "run_id": "54315be2811b",
    "created_at": "2026-10-15T14:50:51Z"
-  },
-  {
-   "id": "b1c1f53ccd36",
-   "ts": "2026-10-15T14:44:36Z",
-   "headline": "NIESR GDP Tracker puts UK growth at around 0.2% in the final quarter after a strong third quarter",
-   "detail": "NIESR's latest GDP Tracker says the UK economy kept growing in August, with production rather than services leading. It puts growth in the fourth quarter at around 0.2%.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "4117e9cffeaf6293"
-   ],
-   "sources": [
-    {
-     "author": "niesrorg.bsky.social",
-     "uri": "at://did:plc:6s7n3h2jcntzuvlw2movrget/app.bsky.feed.post/3mxwcf5gwns25",
-     "url": "https://bsky.app/profile/niesrorg.bsky.social/post/3mxwcf5gwns25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5432708edda2",
-   "created_at": "2026-10-15T14:45:55Z"
   }
  ]
 }
