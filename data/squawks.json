@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T07:25:40Z",
+ "generated_at": "2026-10-19T07:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "13efdd9eef88",
+   "ts": "2026-10-19T07:32:17Z",
+   "headline": "Russia strikes energy facilities in 11 Ukrainian regions overnight, Ukraine's deputy energy minister says",
+   "detail": "Ukraine's deputy energy minister reported overnight Russian attacks on energy infrastructure across 11 regions. Russia's chief of general staff had earlier told Putin that strikes on Ukrainian energy facilities had begun.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "98ae8a3cc5876168"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7m3rmhjo2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7m3rmhjo2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2ecdff0f7e6e",
+   "created_at": "2026-10-19T07:35:43Z"
+  },
   {
    "id": "8d47a241c9bf",
    "ts": "2026-10-19T07:25:11Z",
@@ -6191,27 +6212,6 @@
    "model": "opus",
    "run_id": "9667c8492e7f",
    "created_at": "2026-10-15T13:40:53Z"
-  },
-  {
-   "id": "f55afdd42c55",
-   "ts": "2026-10-15T13:27:01Z",
-   "headline": "Saudi-led coalition says 1,104 missiles and 1,135 drones have been fired at Saudi Arabia since operations began",
-   "detail": "The Saudi-led coalition gave the cumulative totals of missiles and drones launched at the Kingdom since the start of its operations. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "dbfefd2930b24ba9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw62foyju26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw62foyju26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0da91d21b9eb",
-   "created_at": "2026-10-15T13:31:08Z"
   }
  ]
 }
