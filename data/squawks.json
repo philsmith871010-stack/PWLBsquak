@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T18:15:51Z",
+ "generated_at": "2026-10-19T18:25:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a1871c51424e",
+   "ts": "2026-10-19T18:22:12Z",
+   "headline": "Germany's Merz says Berlin is committing more than €500bn by the end of the decade to defence and military infrastructure",
+   "detail": "German Chancellor Merz described the programme as the biggest modernisation drive in Germany's recent history. In the same remarks he said Russia and its allies, from North Korea to Iran, are attacking post-war democratic values as well as Ukraine.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "599776a073fe654c",
+    "cec135c14b285621"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaqfw6zo62d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaqfw6zo62d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaqf3ed7r26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaqf3ed7r26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "879ae90fb8ab",
+   "created_at": "2026-10-19T18:25:44Z"
+  },
   {
    "id": "a72b5a0ae92b",
    "ts": "2026-10-19T18:15:01Z",
@@ -5921,63 +5948,6 @@
    "model": "opus",
    "run_id": "f66e9ab9e9c9",
    "created_at": "2026-10-16T06:35:42Z"
-  },
-  {
-   "id": "8d84ac9113a1",
-   "ts": "2026-10-16T06:09:54Z",
-   "headline": "China's finance minister urges a balanced view of global imbalances in talks with ECB's Lagarde and EU officials",
-   "detail": "According to a ministry statement, China's finance minister met the EU economy commissioner, ECB President Lagarde and the Eurogroup president. He said China is willing to make full use of the China-EU financial dialogue and to discuss improving global economic governance and macro-policy coordination.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "078ebde7d968ee4b",
-    "14d9c380ee490b83",
-    "7f29ec8692dda3de",
-    "745dfde90b429f88",
-    "e6abcaa56a47cd6c",
-    "e516f5730279f426",
-    "e5d1ecf363813fd1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxvzgnejl2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxvzgnejl2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxw25kkgj2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxw25kkgj2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxw2wislo2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxw2wislo2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxw2x37wh2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxw2x37wh2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxw3ph3hm2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxw3ph3hm2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxw3oxavx2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxw3oxavx2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxw4gylbe2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxw4gylbe2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d31732fa968f",
-   "created_at": "2026-10-16T06:10:49Z"
   }
  ]
 }
