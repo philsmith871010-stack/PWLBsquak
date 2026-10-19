@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T15:20:50Z",
+ "generated_at": "2026-10-19T15:31:05Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "43ae55f877e7",
+   "ts": "2026-10-19T15:30:49Z",
+   "headline": "Bank of Canada business survey shows a weaker outlook and higher inflation expectations after Canada-US trade talks failed",
+   "detail": "The Bank of Canada's September survey of business leaders shows firms' outlook got worse. Their inflation expectations rose after Canada-US trade talks broke down.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a39bc564f842af44"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myagti5u542r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myagti5u542r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0da8e217d9fb",
+   "created_at": "2026-10-19T15:31:05Z"
+  },
   {
    "id": "83df2a4459d1",
    "ts": "2026-10-19T15:16:22Z",
@@ -6179,33 +6200,6 @@
    "model": "opus",
    "run_id": "e46cfd86301d",
    "created_at": "2026-10-15T21:50:50Z"
-  },
-  {
-   "id": "09a3a495b958",
-   "ts": "2026-10-15T21:31:25Z",
-   "headline": "New Zealand manufacturing PMI rises to 56.5 in September from 53.1",
-   "detail": "New Zealand's seasonally adjusted manufacturing PMI for September came in at 56.5, up from 53.1, according to the Business NZ/Bank NZ survey.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0127e5abaad0d912",
-    "b6c87fa50fa49814"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwz3tr4762w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwz3tr4762w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwz4la65j2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwz4la65j2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6b517462932c",
-   "created_at": "2026-10-15T21:35:40Z"
   }
  ]
 }
