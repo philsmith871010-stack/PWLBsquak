@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T13:45:52Z",
+ "generated_at": "2026-10-19T13:55:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b6e3d5a151c6",
+   "ts": "2026-10-19T13:52:29Z",
+   "headline": "Iran's foreign minister says attacks on ships in the Caspian Sea are a serious concern and calls on Europe to drop double standards",
+   "detail": "Iranian Foreign Minister Araghchi also said diplomacy is the only route open to the US in the dispute with Iran. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b24dd431c16033cc",
+    "309198132ff0a0ae",
+    "e0dedfd299b24fc0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myabdmtcnu2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myabdmtcnu2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myabdptf3326",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myabdptf3326"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myabeiaupr2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myabeiaupr2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ac102fd782b5",
+   "created_at": "2026-10-19T13:55:40Z"
+  },
   {
    "id": "3d54113694ba",
    "ts": "2026-10-19T13:37:55Z",
@@ -6191,45 +6224,6 @@
    "model": "opus",
    "run_id": "da54a2db6a4b",
    "created_at": "2026-10-15T19:31:07Z"
-  },
-  {
-   "id": "cea68bc5ecce",
-   "ts": "2026-10-15T18:32:03Z",
-   "headline": "US crude settles 3.03% higher at $97.97 a barrel, up $2.88 on the day",
-   "detail": "NYMEX WTI November crude futures settled at $97.97 a barrel, up $2.88 or 3.03%. November diesel futures settled at $4.8456 a gallon and gasoline at $3.1802 a gallon.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "73580881d8f49e76",
-    "bec8c8dd4c63081c",
-    "507d1e2f541f0f93",
-    "d3598829d97a85eb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwp3uffui2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwp3uffui2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwp5l5ahi2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwp5l5ahi2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwp4tiwcq2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwp4tiwcq2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwp4siblo2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwp4siblo2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f246f717931e",
-   "created_at": "2026-10-15T18:35:41Z"
   }
  ]
 }
