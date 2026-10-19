@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T11:40:49Z",
+ "generated_at": "2026-10-19T12:15:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fd6c0c6c1092",
+   "ts": "2026-10-19T12:15:09Z",
+   "headline": "Resolution Foundation says UK household energy bills are due to rise again in January",
+   "detail": "The Resolution Foundation says the next rise in household energy bills is due in January. It notes that 46% of domestic gas use falls in the first quarter of the year.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "5ba8494a4d86deae"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mya3vlpj2j2e",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mya3vlpj2j2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9e211b4dc1d4",
+   "created_at": "2026-10-19T12:15:49Z"
+  },
   {
    "id": "905a6da53f55",
    "ts": "2026-10-19T11:37:49Z",
@@ -6077,45 +6098,6 @@
    "model": "opus",
    "run_id": "2d615d0b8a55",
    "created_at": "2026-10-15T16:31:06Z"
-  },
-  {
-   "id": "f83a15168701",
-   "ts": "2026-10-15T16:08:06Z",
-   "headline": "Japan finance ministry official says G7 and G20 raised no financial stability concerns over the AI-led sell-off",
-   "detail": "A Japanese Ministry of Finance official said G7 and G20 policymakers saw no risk of financial system instability from the AI-led sell-off, though they agreed on the need for vigilance. The official also said the ministry watches markets closely but will not comment on individual stock, currency or bond moves.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "08bac2fe6f925c34",
-    "212fa1182a9e5feb",
-    "62c1d32ea291790c",
-    "512192ed52db6f20"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwh2h4asx24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwh2h4asx24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwh6cfpqu2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwh6cfpqu2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwgwqho7o2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwgwqho7o2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwgwxmp322w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwgwxmp322w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ac55482b3914",
-   "created_at": "2026-10-15T16:10:52Z"
   }
  ]
 }
