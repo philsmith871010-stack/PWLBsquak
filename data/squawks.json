@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T15:10:47Z",
+ "generated_at": "2026-10-19T15:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "83df2a4459d1",
+   "ts": "2026-10-19T15:16:22Z",
+   "headline": "Yemen's Houthi-run forces threaten Riyadh and say Saudi oil facilities are targets for their missiles",
+   "detail": "A military source with the Houthi-run Yemeni armed forces said the Saudi capital would not be safe and that Saudi oil facilities are within missile range, Iran's Fars news agency reported. No market reaction was reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "389e18d2ffc06503"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myafznfldx2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myafznfldx2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b0b950e88d3c",
+   "created_at": "2026-10-19T15:20:50Z"
+  },
   {
    "id": "f50dce94737c",
    "ts": "2026-10-19T15:06:40Z",
@@ -6185,27 +6206,6 @@
    "model": "opus",
    "run_id": "6b517462932c",
    "created_at": "2026-10-15T21:35:40Z"
-  },
-  {
-   "id": "fef32e0499a4",
-   "ts": "2026-10-15T21:27:06Z",
-   "headline": "Fed's Hammack says financial conditions do not currently look restrictive",
-   "detail": "Cleveland Fed President Beth Hammack said financial conditions do not appear restrictive at present. She had earlier raised concerns about input cost pressures and inflation.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "83ff233431eeb6e9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwyuutmvt2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwyuutmvt2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1bef7ddbbd33",
-   "created_at": "2026-10-15T21:31:02Z"
   }
  ]
 }
