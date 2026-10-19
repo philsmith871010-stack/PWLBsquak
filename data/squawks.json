@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T18:35:42Z",
+ "generated_at": "2026-10-19T18:45:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "54e5c3310ae4",
+   "ts": "2026-10-19T18:43:27Z",
+   "headline": "IRGC spokesman says Iran could widen its blockade beyond Hormuz to the Bab al-Mandeb Strait and the Suez Canal",
+   "detail": "The Tehran Times reports an IRGC spokesman as saying Iran has not yet fully closed the Strait of Hormuz and could extend the blockade to the Bab al-Mandeb Strait and the Suez Canal. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b7db382bf75ea851"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myarlwhg472m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myarlwhg472m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "98dcdfafe3f6",
+   "created_at": "2026-10-19T18:45:53Z"
+  },
   {
    "id": "1bc4c7e45094",
    "ts": "2026-10-19T18:31:33Z",
@@ -5921,27 +5942,6 @@
    "model": "opus",
    "run_id": "7ea402ed0583",
    "created_at": "2026-10-16T07:25:44Z"
-  },
-  {
-   "id": "cb507ae103d4",
-   "ts": "2026-10-16T07:15:08Z",
-   "headline": "China says its talks with the EU show the two sides can manage their differences through dialogue",
-   "detail": "China commented on its talks with EU officials as the EU weighs trade measures on Chinese goods, including possible quotas and a trade instrument. The post did not say which Chinese official made the statement.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f7dec4b20ac2b4b0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxzqe3gge26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxzqe3gge26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6d8a22f40a08",
-   "created_at": "2026-10-16T07:15:46Z"
   }
  ]
 }
