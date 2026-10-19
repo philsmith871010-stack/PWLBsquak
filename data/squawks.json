@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T16:05:43Z",
+ "generated_at": "2026-10-19T16:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b44bb6ae179d",
+   "ts": "2026-10-19T16:33:43Z",
+   "headline": "Houthis say they have attacked Saudi energy, airport and military targets, including an Aramco site in Yanbu",
+   "detail": "Yemen's Houthi-run forces announced several military operations deep inside Saudi territory, saying the targets included energy facilities, airports and military sites, among them an Aramco site in Yanbu. The batch reports no market reaction.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "073075672e4ef6a2",
+    "0866f3de2ac7dc8c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myakdxdqhg2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myakdxdqhg2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myak7zhhry2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myak7zhhry2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "64437474bbfd",
+   "created_at": "2026-10-19T16:35:43Z"
+  },
+  {
+   "id": "7995f08299ad",
+   "ts": "2026-10-19T16:32:29Z",
+   "headline": "IRGC spokesman says new weapons and targets will be revealed in a new phase of the war with the US",
+   "detail": "Fars News reported that a spokesman for Iran's Revolutionary Guards said new weapons and targets would be unveiled and that Iran would drive what is left of US power out of the region.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2d6b1fa6b7881aeb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myakbqhfyq2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myakbqhfyq2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "64437474bbfd",
+   "created_at": "2026-10-19T16:35:43Z"
+  },
   {
    "id": "bbc5588ada18",
    "ts": "2026-10-19T16:01:44Z",
@@ -6188,48 +6236,6 @@
    "model": "opus",
    "run_id": "65acae1b7d15",
    "created_at": "2026-10-16T05:05:42Z"
-  },
-  {
-   "id": "4badf27ab6e2",
-   "ts": "2026-10-16T00:26:13Z",
-   "headline": "Trump says allies can buy US munitions once stocks are replenished and that there are other targets besides refineries",
-   "detail": "The US President said allies would be allowed to buy munitions once US stocks are built up. He added that there were plenty of targets to hit other than refineries.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "509ecf604753735e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxcv5w26o2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxcv5w26o2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "65acae1b7d15",
-   "created_at": "2026-10-16T05:05:42Z"
-  },
-  {
-   "id": "2e9b63f689cc",
-   "ts": "2026-10-16T00:17:04Z",
-   "headline": "US-Mexico tariff talks stall as Commerce Secretary Lutnick resists major cuts to auto and steel levies",
-   "detail": "Talks have stalled after Lutnick opposed large cuts to the 25% US auto tariffs and the 50% steel and aluminium levies. Mexico is seeking auto tariffs of 15% or less, and negotiations are continuing.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b9e31c031c318e1f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxcertobp26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxcertobp26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d8dce284fec4",
-   "created_at": "2026-10-16T05:01:16Z"
   }
  ]
 }
