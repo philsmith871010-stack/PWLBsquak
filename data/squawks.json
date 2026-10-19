@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T17:40:51Z",
+ "generated_at": "2026-10-19T17:45:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "89d463d78b21",
+   "ts": "2026-10-19T17:43:45Z",
+   "headline": "US Energy Secretary Wright says talks with the UK on releasing diesel stocks are continuing",
+   "detail": "US Energy Secretary Wright said on Monday that discussions with the UK on diesel stock releases are still under way. No figures or timing were given.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "d08bca48111b4db8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaob63c5m24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaob63c5m24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6139d9cdf01e",
+   "created_at": "2026-10-19T17:45:49Z"
+  },
   {
    "id": "387d2a0063a5",
    "ts": "2026-10-19T17:40:09Z",
@@ -5970,27 +5991,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxqp37itx2n",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxqp37itx2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "65bd9757135e",
-   "created_at": "2026-10-16T05:20:49Z"
-  },
-  {
-   "id": "b2f0893aa663",
-   "ts": "2026-10-16T04:27:33Z",
-   "headline": "BoC Governor says the impact of energy prices gets harder to ignore the longer they stay high, even without a rate hike",
-   "detail": "The Bank of Canada Governor said that the longer energy prices stay high, the harder it is to look past their impact, even if no rate hike is made.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a18552c067ff8c50"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxqep2dqr2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxqep2dqr2m"
     }
    ],
    "model": "opus",
