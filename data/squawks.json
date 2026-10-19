@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T19:31:05Z",
+ "generated_at": "2026-10-19T19:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "98a12bed0c77",
+   "ts": "2026-10-19T19:31:05Z",
+   "headline": "Trump says Russia could have done much more to help Iran",
+   "detail": "President Trump made the remark in comments to reporters on Monday evening, alongside further remarks on Ukraine and the protests in France. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1022b903af7c6817"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaub3viwb2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaub3viwb2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2b5665dc2de6",
+   "created_at": "2026-10-19T19:35:42Z"
+  },
   {
    "id": "ac50db73a923",
    "ts": "2026-10-19T19:26:24Z",
@@ -5981,27 +6002,6 @@
    "model": "opus",
    "run_id": "3f45caae9d40",
    "created_at": "2026-10-16T09:01:16Z"
-  },
-  {
-   "id": "71ce28b988eb",
-   "ts": "2026-10-16T08:45:07Z",
-   "headline": "Resolution Foundation estimates fiscal headroom has halved to about £12bn in 2029-30 before Budget measures",
-   "detail": "The Resolution Foundation estimates that headroom against the fiscal rules in 2029-30 is around £12bn before any policy measures. It says Chancellor Healey would need £18bn of headroom to keep a buffer equivalent to the one his predecessor Reeves had, ahead of the 28 October Budget.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "13d79bad38c12de0"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxy6rap6wt2z",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxy6rap6wt2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0ae848b2290a",
-   "created_at": "2026-10-16T08:45:46Z"
   }
  ]
 }
