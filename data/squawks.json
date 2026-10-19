@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T19:55:46Z",
+ "generated_at": "2026-10-19T20:01:13Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "416b30a427cb",
+   "ts": "2026-10-19T20:00:38Z",
+   "headline": "US Energy Secretary Wright says no Russian diesel has been released so far",
+   "detail": "US Energy Secretary Wright said Russian diesel has not yet been released. He made the remark during continuing US talks with Russia on diesel.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "b6411918e244800c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myavvwsai42f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myavvwsai42f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e05f576f60f1",
+   "created_at": "2026-10-19T20:01:13Z"
+  },
   {
    "id": "ed8f75a3816a",
    "ts": "2026-10-19T19:55:01Z",
@@ -5958,45 +5979,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy7o7wabb24",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy7o7wabb24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "774b333b6753",
-   "created_at": "2026-10-16T09:05:41Z"
-  },
-  {
-   "id": "0437fd223232",
-   "ts": "2026-10-16T09:01:18Z",
-   "headline": "Eurozone final headline inflation is confirmed at 3.8% y/y in September, in line with forecast",
-   "detail": "Final eurozone CPI for September showed annual inflation of 3.8%, unchanged from the previous reading and matching the forecast. Monthly inflation was 0.6%, also in line with the forecast.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "d7a4a6f6862985b3",
-    "aa2ec61483b4d837",
-    "f5f56f8c37389cf8",
-    "b0b8a861909b24c6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy7o6mbxe2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy7o6mbxe2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy7o5sy7d2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy7o5sy7d2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy7paa2w72s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy7paa2w72s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy7paqnpj2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy7paqnpj2r"
     }
    ],
    "model": "opus",
