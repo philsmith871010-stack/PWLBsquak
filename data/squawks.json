@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T08:25:43Z",
+ "generated_at": "2026-10-19T08:31:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0d2fdb16d49f",
+   "ts": "2026-10-19T08:30:18Z",
+   "headline": "PBOC governor says China will launch a liquidity support tool for large-scale redemptions at non-bank institutions",
+   "detail": "The People's Bank of China governor announced plans for a liquidity facility to support non-bank financial institutions facing large-scale redemptions. No size or timing was given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6ea11404ab65234a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7pdjlliq2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7pdjlliq2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dbe9d4d34997",
+   "created_at": "2026-10-19T08:31:04Z"
+  },
   {
    "id": "cd552df4317e",
    "ts": "2026-10-19T08:24:26Z",
@@ -6071,27 +6092,6 @@
    "model": "opus",
    "run_id": "d14e8e769f43",
    "created_at": "2026-10-15T14:10:55Z"
-  },
-  {
-   "id": "0bc3b8c098d2",
-   "ts": "2026-10-15T14:00:53Z",
-   "headline": "US business inventories rise 0.4% m/m, matching forecast and slowing from 0.8% previously",
-   "detail": "US business inventories rose 0.4% month on month. That was in line with the 0.4% forecast and down from the previous 0.8% rise.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e4d5cd8a3949c92d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw7wxkfel2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw7wxkfel2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "beac03fa667b",
-   "created_at": "2026-10-15T14:01:20Z"
   }
  ]
 }
