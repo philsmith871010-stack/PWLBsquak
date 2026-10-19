@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T08:35:43Z",
+ "generated_at": "2026-10-19T08:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ff8e7d770c30",
+   "ts": "2026-10-19T08:50:22Z",
+   "headline": "PBOC governor says the bank will study moving its main open market operation tenor to overnight at an appropriate time",
+   "detail": "China's central bank governor said the change would aim to make interest rate regulation more precise, according to Chinese state media.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "dd03054941afced0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7qhg6ttu2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7qhg6ttu2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "655b976d0c38",
+   "created_at": "2026-10-19T08:50:48Z"
+  },
+  {
+   "id": "be2a704f5f0b",
+   "ts": "2026-10-19T08:49:10Z",
+   "headline": "Trafigura economist puts Middle East crude flows 5m-7m b/d below pre-war levels and product flows 4m b/d lower",
+   "detail": "The chief economist at commodity trader Trafigura gave the estimates for reduced Middle East crude and oil product flows compared with before the war.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "5f1153014910e214",
+    "6d1f45f4351304d0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7qfb42rh2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7qfb42rh2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7qg5m5u42r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7qg5m5u42r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "655b976d0c38",
+   "created_at": "2026-10-19T08:50:48Z"
+  },
   {
    "id": "9aaccf25fa3f",
    "ts": "2026-10-19T08:34:59Z",
@@ -6056,48 +6104,6 @@
    "model": "opus",
    "run_id": "825dacb4aaa9",
    "created_at": "2026-10-15T14:31:07Z"
-  },
-  {
-   "id": "970fc91b71ef",
-   "ts": "2026-10-15T14:29:34Z",
-   "headline": "UK manufacturing output hits a real-terms record high in August, above its March 2024 peak",
-   "detail": "Today's UK GDP release shows manufacturing output reached a real-terms record in August, surpassing the previous peak set in March 2024.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "3cbc40454415b30c"
-   ],
-   "sources": [
-    {
-     "author": "bruceandy.bsky.social",
-     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3mxwbkbaps22a",
-     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3mxwbkbaps22a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "825dacb4aaa9",
-   "created_at": "2026-10-15T14:31:07Z"
-  },
-  {
-   "id": "030b4732f901",
-   "ts": "2026-10-15T14:13:10Z",
-   "headline": "France and Germany would let the UK into EU car policy if it aligns with EU tariffs on China, FT reports",
-   "detail": "The Financial Times reports that France and Germany are willing to admit the UK to EU car policy on condition that it aligns with the EU on tariffs on China.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "dc8504b5a50ade80"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwamwylga2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwamwylga2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "393a5a9e16a5",
-   "created_at": "2026-10-15T14:15:59Z"
   }
  ]
 }
