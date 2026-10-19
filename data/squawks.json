@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T10:35:40Z",
+ "generated_at": "2026-10-19T10:50:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "024b795a292c",
+   "ts": "2026-10-19T10:48:56Z",
+   "headline": "Report says a breakthrough to halt US-Iran escalation is expected to be announced this week",
+   "detail": "A market newswire reports that mediators are still working to narrow the points of contention between the US and Iran. The report names no source, and no market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f61bf38b6a7e7317"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7x3ga3fc2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7x3ga3fc2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0f67d6fc1491",
+   "created_at": "2026-10-19T10:50:47Z"
+  },
   {
    "id": "f127d05173f4",
    "ts": "2026-10-19T10:35:05Z",
@@ -6107,27 +6128,6 @@
    "model": "opus",
    "run_id": "99c03d537a13",
    "created_at": "2026-10-15T15:35:43Z"
-  },
-  {
-   "id": "8d59c57952da",
-   "ts": "2026-10-15T15:30:12Z",
-   "headline": "Resolution Foundation says UK household energy bills are due to rise again in January",
-   "detail": "The Resolution Foundation says the January increase in energy bills comes at the coldest point of the year, with 46% of household gas use falling in the first quarter. It gave no figure for the size of the rise.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "86b9b499fc404f07"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxwewocekl2z",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxwewocekl2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3ceb0c7be516",
-   "created_at": "2026-10-15T15:31:11Z"
   }
  ]
 }
