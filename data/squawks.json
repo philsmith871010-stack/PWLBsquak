@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T13:55:40Z",
+ "generated_at": "2026-10-19T14:01:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ab11c4c09fb1",
+   "ts": "2026-10-19T14:00:53Z",
+   "headline": "US NAHB housing market index falls to 29 in October, below the 31 forecast and down from 32",
+   "detail": "The US NAHB housing market index came in at 29, against a forecast of 31 and a previous reading of 32.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ec7ea4811be762da"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myabsnnfx62q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myabsnnfx62q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d580d2f2c315",
+   "created_at": "2026-10-19T14:01:15Z"
+  },
+  {
+   "id": "5e4ea43e07fe",
+   "ts": "2026-10-19T13:59:25Z",
+   "headline": "Russia's Lavrov calls US and Israeli action against Iran baseless and offers help in resolving the crisis",
+   "detail": "Russian foreign minister Lavrov said Moscow is ready to help find a way out of the crisis.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c6986b24f4aa243c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myabpzip3m2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myabpzip3m2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d580d2f2c315",
+   "created_at": "2026-10-19T14:01:15Z"
+  },
+  {
+   "id": "e90a6f0b5e17",
+   "ts": "2026-10-19T13:58:11Z",
+   "headline": "Iran's foreign minister accuses European countries of complicity in the US war with Iran",
+   "detail": "Iran's foreign minister Araghchi also said Tehran would welcome any proposal that guarantees regional security without a foreign presence.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "53198f4a0f421bf4",
+    "db56223ab094a4c5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myabnsvruv2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myabnsvruv2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myabnoqem72r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myabnoqem72r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d580d2f2c315",
+   "created_at": "2026-10-19T14:01:15Z"
+  },
   {
    "id": "b6e3d5a151c6",
    "ts": "2026-10-19T13:52:29Z",
@@ -6149,81 +6218,6 @@
    "model": "opus",
    "run_id": "c81a1fd394b5",
    "created_at": "2026-10-15T20:48:15Z"
-  },
-  {
-   "id": "16a62ffe60ac",
-   "ts": "2026-10-15T20:17:05Z",
-   "headline": "US 10-year Treasury yield ends the session 10bp lower at 5.09% as WTI crude rises 2.8%",
-   "detail": "A US market close summary reports the 10-year Treasury yield down 10bp at 5.09%, with WTI crude 2.8% higher at $97.71 a barrel and spot gold up 1.8% at $4,177.27 an ounce.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "f7d8832ea540acb0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwuxocwvc2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwuxocwvc2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "033eddd425ad",
-   "created_at": "2026-10-15T20:20:50Z"
-  },
-  {
-   "id": "d2aeec261de1",
-   "ts": "2026-10-15T19:58:51Z",
-   "headline": "Rubio presses Lebanon's president over seized Hezbollah explosives and urges Lebanese-Israeli military deconfliction",
-   "detail": "A State Department official says US Secretary of State Rubio discussed with President Aoun the seizure of several hundred kilos of explosives from Hezbollah. Rubio urged him to hold accountable those behind the shipment and called for direct military-to-military communication between Lebanese and Israeli forces.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "20ba1f8d29e86cc9",
-    "8396780cb806f9c1",
-    "ce7dc99797dcd774"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwtx2hnfz2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwtx2hnfz2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwtzug2322v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwtzug2322v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwu3binud2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwu3binud2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cb0e8ae7b6c3",
-   "created_at": "2026-10-15T20:01:17Z"
-  },
-  {
-   "id": "4da2467ffa7f",
-   "ts": "2026-10-15T19:27:41Z",
-   "headline": "White House is drawing up plans to use the 'mother of all bombs' against Iran, CBS News reports",
-   "detail": "CBS News, citing sources, reports that the White House is preparing plans to deploy the weapon known as the 'mother of all bombs' on Iran. No market reaction was reported in the batch.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c23340a50d2476a7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxws7dpsvi2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxws7dpsvi2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "da54a2db6a4b",
-   "created_at": "2026-10-15T19:31:07Z"
   }
  ]
 }
