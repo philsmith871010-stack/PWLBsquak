@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T17:50:49Z",
+ "generated_at": "2026-10-19T17:55:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6da506c40097",
+   "ts": "2026-10-19T17:54:01Z",
+   "headline": "US Energy Secretary Wright says the US is converting sanctioned dark tankers into legitimate vessels",
+   "detail": "US Energy Secretary Wright said sanctioned tankers are being converted into legitimate tankers. He added that the number converted could run from dozens to hundreds.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "ef2b7f63d4fa1179",
+    "898233876eb7a448"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaotjggnj2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaotjggnj2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaov6i7xf2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaov6i7xf2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c32d09287618",
+   "created_at": "2026-10-19T17:55:44Z"
+  },
   {
    "id": "06993ee09232",
    "ts": "2026-10-19T17:50:16Z",
@@ -5969,27 +5996,6 @@
    "model": "opus",
    "run_id": "68256ed42f0b",
    "created_at": "2026-10-16T05:50:50Z"
-  },
-  {
-   "id": "adeb2462d44c",
-   "ts": "2026-10-16T05:29:10Z",
-   "headline": "Trump calls Ukraine's strikes on Russian oil refineries a disgrace in a rebuke to Zelensky",
-   "detail": "US President Trump criticised Ukraine's attacks on Russian refineries, in a rebuke directed at President Zelensky. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "334c53a67ee11e5e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxtsuhimy2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxtsuhimy2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "389b3faccd2a",
-   "created_at": "2026-10-16T05:31:05Z"
   }
  ]
 }
