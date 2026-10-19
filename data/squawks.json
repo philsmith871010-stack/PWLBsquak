@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T08:15:47Z",
+ "generated_at": "2026-10-19T08:25:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cd552df4317e",
+   "ts": "2026-10-19T08:24:26Z",
+   "headline": "Goldman Sachs says its cross-asset sentiment and positioning gauge falls to its lowest since April",
+   "detail": "Goldman Sachs says its sentiment and positioning indicator has fallen to its lowest level since April and has decoupled from strong global PMIs. The bank points to stronger fixed income fund flows, positioning in gold and the yen, and a sharp fall in hedge fund net leverage.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6b6c31464ba40107"
+   ],
+   "sources": [
+    {
+     "author": "chriswhittall.bsky.social",
+     "uri": "at://did:plc:mw33frnll5jjux3vvkfyyrdt/app.bsky.feed.post/3my7oyzf7h22u",
+     "url": "https://bsky.app/profile/chriswhittall.bsky.social/post/3my7oyzf7h22u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "52d8e44bfdfd",
+   "created_at": "2026-10-19T08:25:43Z"
+  },
   {
    "id": "36a47608bd0e",
    "ts": "2026-10-19T08:15:08Z",
@@ -6071,27 +6092,6 @@
    "model": "opus",
    "run_id": "beac03fa667b",
    "created_at": "2026-10-15T14:01:20Z"
-  },
-  {
-   "id": "f090ee3507c7",
-   "ts": "2026-10-15T13:55:19Z",
-   "headline": "French finance minister Lescure says the G7 has pledged $2.5bn for fertilisers",
-   "detail": "French finance minister Lescure said G7 members have committed $2.5 billion to fertiliser supply. This follows his earlier statement on G7 funding for Ukraine.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3eb09045d8e9ea98"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw7mzn4js2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw7mzn4js2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b203bf2fea46",
-   "created_at": "2026-10-15T13:55:54Z"
   }
  ]
 }
