@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T06:45:48Z",
+ "generated_at": "2026-10-19T07:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5f76dd4eaa4d",
+   "ts": "2026-10-19T07:04:31Z",
+   "headline": "China's Commerce Ministry announces changes to export control work on dual-use items, effective 18 November",
+   "detail": "China's Commerce Ministry has announced further changes to how it identifies and handles export control concerns for dual-use items. It says the announcement takes effect officially on 18 November.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c4adc01d5ebfa69b",
+    "ad0e26954361d013"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7kk5eooz2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7kk5eooz2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7kkgrt432y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7kkgrt432y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a72484e4e754",
+   "created_at": "2026-10-19T07:05:40Z"
+  },
   {
    "id": "ad0a0cf79175",
    "ts": "2026-10-19T06:41:19Z",
@@ -6203,27 +6230,6 @@
    "model": "opus",
    "run_id": "177dafef1d2d",
    "created_at": "2026-10-15T13:10:55Z"
-  },
-  {
-   "id": "ddbc27251879",
-   "ts": "2026-10-15T12:57:24Z",
-   "headline": "US 10-year Treasury yield decline widens to more than 28bp since yesterday",
-   "detail": "A market commentary account reports that the US 10-year Treasury yield has fallen by more than 28bp since yesterday. This is a larger fall than the 11bp drop reported earlier in the session.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "d30c7611f9cfb2de"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxw4fgvm652r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxw4fgvm652r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0361bf5d0a47",
-   "created_at": "2026-10-15T13:01:29Z"
   }
  ]
 }
