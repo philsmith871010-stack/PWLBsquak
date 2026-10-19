@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T14:05:59Z",
+ "generated_at": "2026-10-19T14:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b9ead79300fa",
+   "ts": "2026-10-19T14:11:16Z",
+   "headline": "Violent protests spread from France to Italy and Belgium, with looting and clashes in Milan, Brussels and Liège",
+   "detail": "The FT reports looting and clashes with police in Milan, Brussels, Liège and Tirana as unrest spreads beyond France. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "49a0b7b18d323461"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myacf7kp4b23",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myacf7kp4b23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "798e054636f8",
+   "created_at": "2026-10-19T14:15:52Z"
+  },
   {
    "id": "eda779cedb39",
    "ts": "2026-10-19T14:02:12Z",
@@ -6191,27 +6212,6 @@
    "model": "opus",
    "run_id": "f146e25172fb",
    "created_at": "2026-10-15T21:10:51Z"
-  },
-  {
-   "id": "7d5b1b1118fe",
-   "ts": "2026-10-15T20:46:56Z",
-   "headline": "Fed's Hammack says she is hearing more from lower-income Americans who are struggling with inflation",
-   "detail": "Cleveland Fed President Beth Hammack made the remarks on 15 October. No market reaction was reported.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8fa883b384cdbaa7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwwn23ou426",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwwn23ou426"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c81a1fd394b5",
-   "created_at": "2026-10-15T20:48:15Z"
   }
  ]
 }
