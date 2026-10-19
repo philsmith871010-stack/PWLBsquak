@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T16:35:43Z",
+ "generated_at": "2026-10-19T16:40:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e5e36034f7ff",
+   "ts": "2026-10-19T16:36:07Z",
+   "headline": "Houthis claim strikes on Saudi Arabia's Shaybah oilfield and on airports in Riyadh and Abha",
+   "detail": "Yemen's Houthi forces say they attacked the Shaybah oilfield, King Khalid airport in Riyadh and Abha airport. The posts do not report any damage to oil output or any market reaction.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a50838cebd0ff5d0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myakiadz3r2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myakiadz3r2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0a4db3774544",
+   "created_at": "2026-10-19T16:40:53Z"
+  },
   {
    "id": "b44bb6ae179d",
    "ts": "2026-10-19T16:33:43Z",
@@ -6198,39 +6219,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxfyihdxf2v",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxfyihdxf2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "65acae1b7d15",
-   "created_at": "2026-10-16T05:05:42Z"
-  },
-  {
-   "id": "c462bd633336",
-   "ts": "2026-10-16T00:41:48Z",
-   "headline": "US 10-year Treasury yield falls 13bp to 5.06% in Asian trade as markets await Fed Chair Warsh's remarks",
-   "detail": "The US 10-year Treasury yield is reported 13bp lower at 5.06% in Asian hours, with oil slipping to $97.38 and gold near $4,154. Markets are awaiting remarks from Fed Chair Kevin Warsh for signals on possible rate rises.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "f986f8c181971a66",
-    "f2a716dad67b1b09",
-    "f1e454abbf8cb6fb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxdqz7nop24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxdqz7nop24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxdergbkz2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxdergbkz2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxheqxa2z2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxheqxa2z2d"
     }
    ],
    "model": "opus",
