@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T19:05:41Z",
+ "generated_at": "2026-10-19T19:20:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8b4617b7b880",
+   "ts": "2026-10-19T19:20:04Z",
+   "headline": "Trump says the Iran situation is good, Putin is staying out of Iran and the US is negotiating with Putin on Ukraine",
+   "detail": "In remarks on Monday evening, US President Trump said the situation regarding Iran was good and that Putin was leaving Iran alone. He also said Washington was negotiating with Putin on Ukraine and did not want to break off those talks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "65f8ac7ed856baef",
+    "78f354ce8ce0ca57",
+    "2c018e1d78f26f94",
+    "daac997a0798b7cb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myatnfi7hw2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myatnfi7hw2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myatmlllr52r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myatmlllr52r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myatnirzwx2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myatnirzwx2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myatnppe552r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myatnppe552r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cb41825894ec",
+   "created_at": "2026-10-19T19:20:51Z"
+  },
   {
    "id": "27a4233bc37e",
    "ts": "2026-10-19T19:02:02Z",
@@ -5873,27 +5912,6 @@
    "model": "opus",
    "run_id": "ecfcd7958138",
    "created_at": "2026-10-16T08:05:41Z"
-  },
-  {
-   "id": "6b3d01add0b8",
-   "ts": "2026-10-16T07:46:04Z",
-   "headline": "G7 finance ministers agree to run simulated AI-driven cyber attacks on banks as cyber risk concerns grow",
-   "detail": "The FT reports that G7 finance ministers have agreed to hold tabletop drills to prepare banks against future cyber attacks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "448073b85e2ac6e1"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxy3hnuq4e23",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mxy3hnuq4e23"
-    }
-   ],
-   "model": "opus",
-   "run_id": "86255eef9088",
-   "created_at": "2026-10-16T07:50:49Z"
   }
  ]
 }
