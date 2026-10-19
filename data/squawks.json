@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T17:55:44Z",
+ "generated_at": "2026-10-19T18:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "335b6ac52a22",
+   "ts": "2026-10-19T18:05:13Z",
+   "headline": "Iran's President Pezeshkian says Tehran is ready to settle issues with regional countries through dialogue",
+   "detail": "Reports say Pezeshkian stated that Iran has no fundamental differences with countries in the region. Separately, Iran told Russia it welcomes any regional peace initiative.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "11dfa59397857d03",
+    "bf592a483c9684fd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaphkrjqn24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaphkrjqn24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myapgfdn5t2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myapgfdn5t2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "134d2e971240",
+   "created_at": "2026-10-19T18:05:40Z"
+  },
   {
    "id": "6da506c40097",
    "ts": "2026-10-19T17:54:01Z",
@@ -5975,27 +6002,6 @@
    "model": "opus",
    "run_id": "d30cbc569624",
    "created_at": "2026-10-16T06:01:15Z"
-  },
-  {
-   "id": "f8efbf19ee0c",
-   "ts": "2026-10-16T05:50:03Z",
-   "headline": "Taiwan moves to restrict AI chip exports to China under a deal with the US",
-   "detail": "A market news account reports that Taiwan will limit exports of AI chips to China as part of an agreement with the United States. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "dd1f3657cd397f3d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxuy7rwmh2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxuy7rwmh2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "68256ed42f0b",
-   "created_at": "2026-10-16T05:50:50Z"
   }
  ]
 }
