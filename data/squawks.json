@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T18:31:04Z",
+ "generated_at": "2026-10-19T18:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1bc4c7e45094",
+   "ts": "2026-10-19T18:31:33Z",
+   "headline": "WTI crude settles 2.22% higher at $103.66 a barrel, up $2.25",
+   "detail": "NYMEX November WTI futures settled at $103.66 a barrel, up $2.25 or 2.22% on the day. November diesel futures settled at $4.9201 a gallon and November gasoline at $3.1914 a gallon.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "dd99f9dd6f4a6cae",
+    "17ff11ad4702cddf",
+    "6dd520e10e3f997f",
+    "35f788da054efcda",
+    "23f0d7eb3a520a7b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaqwnuosa2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaqwnuosa2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaqxm4g7j2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaqxm4g7j2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaqylgwhb2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaqylgwhb2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaqxplcx32z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaqxplcx32z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaqxstlb42r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaqxstlb42r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2f7f083706d7",
+   "created_at": "2026-10-19T18:35:42Z"
+  },
   {
    "id": "448d1eecce69",
    "ts": "2026-10-19T18:30:41Z",
@@ -5897,27 +5942,6 @@
    "model": "opus",
    "run_id": "6d8a22f40a08",
    "created_at": "2026-10-16T07:15:46Z"
-  },
-  {
-   "id": "9ea850e8923a",
-   "ts": "2026-10-16T06:36:18Z",
-   "headline": "BoJ Governor Ueda flags a risk that underlying inflation overshoots the 2% price target",
-   "detail": "Bank of Japan Governor Ueda said there is a risk of underlying inflation rising above the bank's 2% target. This follows his earlier remarks that the bank will keep raising rates gradually if the economy and prices develop as expected.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "5e3805af0d6db55c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxxkvw6xn2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxxkvw6xn2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "032845414398",
-   "created_at": "2026-10-16T06:40:54Z"
   }
  ]
 }
