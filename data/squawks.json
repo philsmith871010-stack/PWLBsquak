@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T17:45:49Z",
+ "generated_at": "2026-10-19T17:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "06993ee09232",
+   "ts": "2026-10-19T17:50:16Z",
+   "headline": "Barclays says its £15bn private credit book meets accounting and capital rules after report of Bank of England scrutiny",
+   "detail": "Barclays said its £15 billion private credit exposure was treated in line with accounting and regulatory capital requirements, Reuters reports. The statement follows a report that the Bank of England was examining whether the bank's traders had understated the risk.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "8a893bf737fafba9"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myaomsl3nt2j",
+     "url": "https://bsky.app/profile/reuters.com/post/3myaomsl3nt2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7a5fa2239297",
+   "created_at": "2026-10-19T17:50:49Z"
+  },
   {
    "id": "89d463d78b21",
    "ts": "2026-10-19T17:43:45Z",
@@ -5969,33 +5990,6 @@
    "model": "opus",
    "run_id": "389b3faccd2a",
    "created_at": "2026-10-16T05:31:05Z"
-  },
-  {
-   "id": "2f1e596aaf58",
-   "ts": "2026-10-16T05:11:42Z",
-   "headline": "Fed Chair Warsh doubts the Fed can predict its actions at the remaining 2026 meetings as the dollar hits a two-week low",
-   "detail": "Fed Chair Warsh said he was sceptical about predicting what the Fed will do at its meetings for the rest of 2026. The dollar was reported sliding to a two-week low after his comments, with gold drawing buyers.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "48c67e8ff6387884",
-    "50b5818e4ee4b36b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxstmwcwz2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxstmwcwz2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxqp37itx2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxqp37itx2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "65bd9757135e",
-   "created_at": "2026-10-16T05:20:49Z"
   }
  ]
 }
