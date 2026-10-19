@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T11:31:02Z",
+ "generated_at": "2026-10-19T11:40:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "905a6da53f55",
+   "ts": "2026-10-19T11:37:49Z",
+   "headline": "Iraq's October oil exports average over 3.4m b/d so far, up from 3m b/d in September, reports say",
+   "detail": "Reports put Iraq's crude exports at an average of more than 3.4 million barrels per day so far in October, compared with 3 million barrels per day in September.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "c4331678ff9dc713"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7zst54wi2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7zst54wi2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7c60e27f8bb9",
+   "created_at": "2026-10-19T11:40:49Z"
+  },
   {
    "id": "0604a6e6dfba",
    "ts": "2026-10-19T11:30:51Z",
@@ -6095,27 +6116,6 @@
    "model": "opus",
    "run_id": "ac55482b3914",
    "created_at": "2026-10-15T16:10:52Z"
-  },
-  {
-   "id": "4e11bd54de92",
-   "ts": "2026-10-15T16:04:47Z",
-   "headline": "Chancellor Healey is preparing to raise taxes on banks in the Budget, Guardian reports",
-   "detail": "The Guardian reports that Chancellor Rachel Healey is set to increase taxes on banks in the upcoming Budget. No figures were given.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "20570dbe897009df"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwgujg2pv24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwgujg2pv24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "43c443ccb843",
-   "created_at": "2026-10-15T16:05:45Z"
   }
  ]
 }
