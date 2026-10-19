@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T16:55:43Z",
+ "generated_at": "2026-10-19T17:11:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b066f5b4979b",
+   "ts": "2026-10-19T17:06:59Z",
+   "headline": "Brent turns higher on the day and WTI extends gains after Houthis claim attacks on Saudi energy infrastructure",
+   "detail": "Brent was last up 0.15% and WTI up 1.5% after the Houthis said they had attacked Saudi infrastructure. Brent had earlier been down 2.43% on the day, below $105 a barrel.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "5b20f9c4775494e3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myam7gjcbu24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myam7gjcbu24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4e256b29583f",
+   "created_at": "2026-10-19T17:11:08Z"
+  },
   {
    "id": "5ac72b754abc",
    "ts": "2026-10-19T16:54:25Z",
@@ -6096,33 +6117,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxozdj7jl2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxozdj7jl2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "49ea82c0b973",
-   "created_at": "2026-10-16T05:15:46Z"
-  },
-  {
-   "id": "4e523a391276",
-   "ts": "2026-10-16T03:33:57Z",
-   "headline": "US Treasury's Browne says Washington and Tokyo coordinate closely on orderly markets and warns disorderly FX moves can spread",
-   "detail": "US Treasury official Browne said the US and Japan are working closely together to support orderly markets. He said disorderly currency moves risk spreading volatility to other financial markets.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "af327cd19094ba92",
-    "2a82ad018a5088d5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxncol2vc2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxncol2vc2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxxnetromv2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxxnetromv2y"
     }
    ],
    "model": "opus",
