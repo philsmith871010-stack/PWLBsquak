@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T20:45:50Z",
+ "generated_at": "2026-10-19T21:46:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "98a62588d895",
+   "ts": "2026-10-19T21:40:13Z",
+   "headline": "UK finance minister Healey rules out raising capital gains tax in the 28 October Budget, the Times reports",
+   "detail": "The Times reported on Monday, as cited by Reuters, that John Healey has turned down calls to increase capital gains tax in his first Budget on 28 October. According to the report, he is instead putting economic growth and business investment first.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "2253e11955dfee31"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myb3hz26im22",
+     "url": "https://bsky.app/profile/reuters.com/post/3myb3hz26im22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a3c7d21a71f2",
+   "created_at": "2026-10-19T21:46:47Z"
+  },
   {
    "id": "1329f65ad055",
    "ts": "2026-10-19T20:44:40Z",
@@ -5927,27 +5948,6 @@
    "model": "opus",
    "run_id": "44e37e8c1c92",
    "created_at": "2026-10-16T10:20:49Z"
-  },
-  {
-   "id": "2313c03b1b28",
-   "ts": "2026-10-16T10:07:07Z",
-   "headline": "Chancellor Reeves pitched London to UBS as a possible new headquarters as the bank weighs Swiss capital proposals, FT reports",
-   "detail": "The FT reports that the UK government approached UBS about moving its headquarters to London. The Swiss bank is reviewing its options in response to new capital proposals.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "8b1f7e2d5d59ab5e"
-   ],
-   "sources": [
-    {
-     "author": "iankmsmith.ft.com",
-     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3mxydduwjqc24",
-     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3mxydduwjqc24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8645078c6c6e",
-   "created_at": "2026-10-16T10:10:49Z"
   }
  ]
 }
