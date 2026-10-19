@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T18:55:41Z",
+ "generated_at": "2026-10-19T19:01:20Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "faa57e9814a8",
+   "ts": "2026-10-19T18:57:17Z",
+   "headline": "IRGC spokesman points to seven major undersea data cables under the Strait of Hormuz in a warning to Iran's enemies",
+   "detail": "Iran's Revolutionary Guards spokesman said seven major cables carrying global internet and business data run beneath the Strait of Hormuz, and told the enemy to bear this in mind, Fars News reported. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "acbf1fec40aad67f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaseni4at2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaseni4at2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "96d794ff9fb0",
+   "created_at": "2026-10-19T19:01:20Z"
+  },
   {
    "id": "720b78bf79a3",
    "ts": "2026-10-19T18:52:41Z",
@@ -5921,27 +5942,6 @@
    "model": "opus",
    "run_id": "02f96aaee76d",
    "created_at": "2026-10-16T07:35:46Z"
-  },
-  {
-   "id": "836078cf9dce",
-   "ts": "2026-10-16T07:29:09Z",
-   "headline": "PBOC Governor Pan says China will promote renminbi bonds as globally accepted, eligible collateral",
-   "detail": "People's Bank of China Governor Pan Gongsheng said the central bank plans to promote renminbi bonds as collateral that is recognised and eligible worldwide. He made the remarks alongside earlier comments on developing offshore yuan markets.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "18e86020af933325"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxy2jga43w2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxy2jga43w2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "69c421f4625f",
-   "created_at": "2026-10-16T07:31:04Z"
   }
  ]
 }
