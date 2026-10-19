@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T12:40:50Z",
+ "generated_at": "2026-10-19T13:01:19Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5afd855d55f7",
+   "ts": "2026-10-19T13:00:42Z",
+   "headline": "Egypt's parliament to vote this week on letting its armed forces help defend Saudi Arabia against Houthi attacks",
+   "detail": "Reuters reports that Egypt's parliament is expected to vote this week on authorising its military to help defend Saudi Arabia against attacks by Yemen's Houthis. The support would be given if Riyadh asks for it.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2e44d9e698b5c3a2",
+    "6c3b9c628025b511"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mya6h7x7aj2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mya6h7x7aj2z"
+    },
+    {
+     "author": "robin-j-brooks.bsky.social",
+     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3mya6gt6rgs2e",
+     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3mya6gt6rgs2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e90ce3bac4e9",
+   "created_at": "2026-10-19T13:01:19Z"
+  },
   {
    "id": "019efe6bdd6d",
    "ts": "2026-10-19T12:39:40Z",
@@ -6125,33 +6152,6 @@
    "model": "opus",
    "run_id": "58d15467fed0",
    "created_at": "2026-10-15T16:50:59Z"
-  },
-  {
-   "id": "67ee36ffb524",
-   "ts": "2026-10-15T16:41:46Z",
-   "headline": "US issues new sanctions and licences covering Iran, Cuba and Russia",
-   "detail": "OFAC published new sanctions and licences relating to Iran, Cuba and Russia. The US Treasury website also showed an Iran-related general licence allowing transactions involving the International Development Bank for Investment and Finance to be wound down.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ac88fba038a0652a",
-    "7e25d7ded35c9654"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwiwnpqym2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwiwnpqym2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxwiwecxzx26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxwiwecxzx26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e337c197f9b3",
-   "created_at": "2026-10-15T16:45:49Z"
   }
  ]
 }
