@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T15:05:44Z",
+ "generated_at": "2026-10-19T15:10:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f50dce94737c",
+   "ts": "2026-10-19T15:06:40Z",
+   "headline": "French 10-year yields on course for their biggest one-day rise since March 2025",
+   "detail": "A market newswire headline reports the move as French bond selling continues amid political unrest and rioting. No new yield level was given.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "5759e97dcb0549df"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myafibhqad2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myafibhqad2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7e210a27f9d0",
+   "created_at": "2026-10-19T15:10:47Z"
+  },
   {
    "id": "2410b8a4fbfc",
    "ts": "2026-10-19T15:03:24Z",
@@ -6185,27 +6206,6 @@
    "model": "opus",
    "run_id": "1bef7ddbbd33",
    "created_at": "2026-10-15T21:31:02Z"
-  },
-  {
-   "id": "82841c947155",
-   "ts": "2026-10-15T21:25:12Z",
-   "headline": "Trump considers easing curbs on Russian and Iranian 'shadow fleet' tankers to bring down fuel costs, FT reports",
-   "detail": "The Financial Times reports that the White House is considering letting blacklisted vessels carrying Russian and Iranian oil return to global trade. According to the report, the aim is to lower fuel costs ahead of the US midterm elections.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "af895f0d4515d169"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxwyrhq5zr2d",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mxwyrhq5zr2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "31444ee8b16f",
-   "created_at": "2026-10-15T21:25:41Z"
   }
  ]
 }
