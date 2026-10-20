@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T10:41:01Z",
+ "generated_at": "2026-10-20T11:01:14Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "674cb3c28a84",
+   "ts": "2026-10-20T10:57:28Z",
+   "headline": "UK MoD says RAF Typhoons will fly defensive missions only over Saudi Arabia and will not strike the Houthis",
+   "detail": "The UK Ministry of Defence says RAF Typhoon jets will fly defensive counter-air missions to help protect Saudi cities and critical national infrastructure from aerial attack. It says the aircraft will not carry out offensive strikes against the Houthis.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1e3fb6cca40f67e8",
+    "1f4a5e3d04c0568e",
+    "300e979cade32450"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mychzlxzdo2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mychzlxzdo2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mychzrji2g2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mychzrji2g2s"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mycia2y4u42d",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mycia2y4u42d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f91118e66872",
+   "created_at": "2026-10-20T11:01:14Z"
+  },
   {
    "id": "2417ed693927",
    "ts": "2026-10-20T10:38:52Z",
@@ -5856,27 +5889,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyscgz7x32q",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyscgz7x32q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "08d42e784089",
-   "created_at": "2026-10-16T14:35:40Z"
-  },
-  {
-   "id": "e0b06880c3ee",
-   "ts": "2026-10-16T14:16:18Z",
-   "headline": "NatWest is no longer a US Treasury primary dealer, New York Fed says",
-   "detail": "The Federal Reserve Bank of New York's list shows NatWest has stopped being a primary dealer.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "02bd890f33affeeb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyrbhwnpv26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyrbhwnpv26"
     }
    ],
    "model": "opus",
