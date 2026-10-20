@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T12:15:54Z",
+ "generated_at": "2026-10-20T12:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8fa48330ad8a",
+   "ts": "2026-10-20T12:15:53Z",
+   "headline": "US ADP weekly private payrolls average 18.5K, slowing from 24.75K previously",
+   "detail": "ADP says private employers added an average of 18.5K jobs a week in the four weeks to 3 October, down from 24.75K in the previous reading. No forecast was given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "805785ee5b304319",
+    "4058f78e699ce2d3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycmfszxkf2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycmfszxkf2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycmju54zo2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycmju54zo2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ff9f722e5866",
+   "created_at": "2026-10-20T12:20:50Z"
+  },
   {
    "id": "5dcecbd5461e",
    "ts": "2026-10-20T12:13:09Z",
@@ -5831,27 +5858,6 @@
    "model": "opus",
    "run_id": "208fc2056d89",
    "created_at": "2026-10-16T15:35:41Z"
-  },
-  {
-   "id": "cb6bcc7702af",
-   "ts": "2026-10-16T15:05:24Z",
-   "headline": "Italy and the European Commission agree on a gas price cap law",
-   "detail": "Italy and the European Commission have reached agreement on a law capping gas prices, according to a market news feed. The report gave no details of the terms.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "79f73af401a2337d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxytzakxua2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxytzakxua2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "182eaec62d87",
-   "created_at": "2026-10-16T15:05:42Z"
   }
  ]
 }
