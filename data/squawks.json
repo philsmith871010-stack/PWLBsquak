@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T07:01:12Z",
+ "generated_at": "2026-10-20T07:05:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e64089a71f5c",
+   "ts": "2026-10-20T07:01:54Z",
+   "headline": "UAE commits to supplying France with 100k tons of diesel a month; Bahrain and UAE deliveries due in coming weeks",
+   "detail": "The United Arab Emirates has committed to provide France with 100k tons of diesel a month, following an earlier Saudi commitment. Deliveries from Bahrain and the UAE to France are reported to start in the coming weeks.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "646f871f544081f1",
+    "71a1972190e6cf27"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc2uf56op2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc2uf56op2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc2tmu3wf2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc2tmu3wf2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c708b6f4f16f",
+   "created_at": "2026-10-20T07:05:48Z"
+  },
   {
    "id": "bd6d66bdf6d6",
    "ts": "2026-10-20T07:00:55Z",
@@ -5915,27 +5942,6 @@
    "model": "opus",
    "run_id": "e1977ddbcc10",
    "created_at": "2026-10-16T13:01:24Z"
-  },
-  {
-   "id": "5af77c8e9f73",
-   "ts": "2026-10-16T12:50:12Z",
-   "headline": "Trump says the US may need to strike Iran's Pickaxe Mountain nuclear site but rules out nuclear weapons and ground troops",
-   "detail": "In a Newsmax interview reported by Reuters, President Trump said the US may target the fortified underground site near one of Tehran's main nuclear facilities. He said the US would not use a nuclear bomb and was not considering sending ground troops to Iran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ad61cc4a63bfe7be"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxymhilrwq22",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxymhilrwq22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0155575f0798",
-   "created_at": "2026-10-16T12:50:49Z"
   }
  ]
 }
