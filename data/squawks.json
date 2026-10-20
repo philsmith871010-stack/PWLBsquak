@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T19:40:50Z",
+ "generated_at": "2026-10-20T19:45:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "07e88d290c80",
+   "ts": "2026-10-20T19:45:42Z",
+   "headline": "US Defence Secretary Hegseth says the US has not withdrawn anything from Ukraine's satellite service",
+   "detail": "US Defence Secretary Pete Hegseth said the US has not pulled back any of Ukraine's satellite service and wished Ukrainians success. Kyiv had earlier said the US had cut military intelligence sharing.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "724dd92ee07c346f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydfk5w6pf2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydfk5w6pf2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "19ebfe4d46d8",
+   "created_at": "2026-10-20T19:45:53Z"
+  },
   {
    "id": "8615ae83914a",
    "ts": "2026-10-20T19:39:19Z",
@@ -5765,33 +5786,6 @@
    "model": "opus",
    "run_id": "9bbdec2ce9e6",
    "created_at": "2026-10-19T10:35:40Z"
-  },
-  {
-   "id": "76715d0bbd79",
-   "ts": "2026-10-19T10:01:12Z",
-   "headline": "Kremlin says a proposed Putin-Trump-Xi summit has no agenda or substantive agreements yet and a Ukraine deal needs Kyiv's participation",
-   "detail": "The Kremlin said there is no agenda yet for the proposed summit of Putin, Trump and Xi, and no substantive agreements have been reached. It also said a final peace settlement for Ukraine is hardly possible unless someone from Kyiv's side takes part.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "43306988156dc2ad",
-    "55f094d90f06950c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7ug2qihd2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7ug2qihd2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7ufpsu4z26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7ufpsu4z26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e654ea541d7c",
-   "created_at": "2026-10-19T10:01:16Z"
   }
  ]
 }
