@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T13:35:40Z",
+ "generated_at": "2026-10-20T13:40:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cab53bf32983",
+   "ts": "2026-10-20T13:36:26Z",
+   "headline": "China tells the US to revoke restrictions on Chinese firms and vows necessary measures to defend its interests",
+   "detail": "China's commerce ministry called on the US to immediately reverse what it described as discriminatory restrictions on Chinese companies. It said China would take necessary measures to protect its interests.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9d3721c8b3cbafc8",
+    "3ed99f577b5ba97a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycquzn5vg2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycquzn5vg2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycqvuhjow2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycqvuhjow2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "332c6d9aaadd",
+   "created_at": "2026-10-20T13:40:49Z"
+  },
   {
    "id": "49008c3b2c18",
    "ts": "2026-10-20T13:35:00Z",
@@ -5988,33 +6015,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2yx7ejz2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2yx7ejz2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "61766bdf6a9b",
-   "created_at": "2026-10-16T17:10:53Z"
-  },
-  {
-   "id": "85d288706c26",
-   "ts": "2026-10-16T17:10:00Z",
-   "headline": "EU's von der Leyen calls the China trade imbalance structural and unsustainable and says EU leaders are united on China",
-   "detail": "European Commission President von der Leyen spoke after China's commerce ministry warned the EU against applying pressure.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "00fbf55a5ec03210",
-    "2af24d22edd9a434"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2y2udv32d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2y2udv32d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2uzxuzy2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2uzxuzy2d"
     }
    ],
    "model": "opus",
