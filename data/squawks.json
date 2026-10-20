@@ -1,8 +1,65 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T17:15:51Z",
+ "generated_at": "2026-10-20T17:20:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2cb30bea3bf7",
+   "ts": "2026-10-20T17:19:34Z",
+   "headline": "Zelenskyy says the US has set out strong security guarantees in a document that will be shared with Russia",
+   "detail": "Speaking at a press conference in Oslo with Nordic leaders, Zelenskyy said US intelligence on missile strikes is working again and that he expects positive results from talks with Rubio on Patriot missiles. Norway's prime minister said Europe needs to be part of talks on the European security order, and Finland's president said it is very important that the US stays engaged.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "38c51f4141396cbe",
+    "b84f078443b5cd55",
+    "f1f0a1a8fb16c519",
+    "236fdc4003faf1b5",
+    "ad5c57d96f2218cb",
+    "2dae6c786c93e757",
+    "cdf9b29476c3627f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd5ejinw724",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd5ejinw724"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd5etv2p62y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd5etv2p62y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd5fxw3bu2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd5fxw3bu2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd5gxy3ap2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd5gxy3ap2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd5h3jbsq2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd5h3jbsq2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd57tt5ef2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd57tt5ef2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd5ditre52m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd5ditre52m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ffc39a9037cf",
+   "created_at": "2026-10-20T17:20:52Z"
+  },
   {
    "id": "ee598bf19a70",
    "ts": "2026-10-20T17:15:15Z",
@@ -5934,33 +5991,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6vm4jzjx2f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6vm4jzjx2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cdab367d59d7",
-   "created_at": "2026-10-19T05:25:41Z"
-  },
-  {
-   "id": "10f9b3404fdb",
-   "ts": "2026-10-19T00:25:31Z",
-   "headline": "French 10-year bond futures fall and the euro eases after weekend rioting across France",
-   "detail": "French 10-year note futures dropped in early Asian trading after unrest in France over the weekend, according to market reports. Reuters reported that the euro eased in the wake of the rioting.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "9cc293b072fa957e",
-    "7b0c4d0fa6ed8397"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6uaogbod2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6uaogbod2z"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3my6vmrxy4r2x",
-     "url": "https://bsky.app/profile/reuters.com/post/3my6vmrxy4r2x"
     }
    ],
    "model": "opus",
