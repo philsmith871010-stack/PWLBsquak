@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T11:55:54Z",
+ "generated_at": "2026-10-20T12:01:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a8c06aa5396d",
+   "ts": "2026-10-20T11:58:01Z",
+   "headline": "Russia's Ryabkov says Moscow's Ukraine stance does not hinge on Trump postponing severe new sanctions on Russia",
+   "detail": "Russia's deputy foreign minister Sergei Ryabkov said Moscow's approach to resolving the war in Ukraine does not depend on the US president's decision to delay what have been described as very severe sanctions on Russia.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "bd6892fd08091d01"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myclfux6d32r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myclfux6d32r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2f8d642789a0",
+   "created_at": "2026-10-20T12:01:15Z"
+  },
   {
    "id": "5966c4229dc6",
    "ts": "2026-10-20T11:55:33Z",
@@ -5831,33 +5852,6 @@
    "model": "opus",
    "run_id": "8bc69da2bf67",
    "created_at": "2026-10-16T15:01:19Z"
-  },
-  {
-   "id": "9b92b06ff6f1",
-   "ts": "2026-10-16T14:48:49Z",
-   "headline": "Germany's Merz says Ukrainian strikes on Russian energy and communications targets are understandable; EU weighs Russian visa curbs",
-   "detail": "German Chancellor Merz said Ukraine attacking Russian targets that hinder its war effort, including energy and communications infrastructure, is understandable. He said the EU summit is discussing restrictions on issuing visas to Russians and that there is still room for manoeuvre.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "49557d68a1143c75",
-    "8164dea5c318bc3c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyt3ltb2v2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyt3ltb2v2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyt5szxdo2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyt5szxdo2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0989745beeec",
-   "created_at": "2026-10-16T14:50:49Z"
   }
  ]
 }
