@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T17:50:54Z",
+ "generated_at": "2026-10-20T18:01:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8969047d024f",
+   "ts": "2026-10-20T18:00:15Z",
+   "headline": "BoE's Greene questions the Bank's estimate of pay growth consistent with target, putting it at 3% wage growth for 2% inflation",
+   "detail": "MPC member Megan Greene said she has concerns about the Bank of England's estimate of target-consistent pay growth, and said 3% wage growth is consistent with 2% inflation.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "9ac1d9c3d5a97aae",
+    "a4338dd7b35c89c4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd7mpp77o2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd7mpp77o2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd7nlu5q32f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd7nlu5q32f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aac76113f371",
+   "created_at": "2026-10-20T18:01:15Z"
+  },
+  {
+   "id": "acf8366c07d3",
+   "ts": "2026-10-20T17:56:44Z",
+   "headline": "Iran's President Pezeshkian says he believes the US will attack again if Tehran negotiates",
+   "detail": "Iran's President Pezeshkian said he believes the US would launch another attack if Iran entered negotiations, Tasnim reported. Pakistan's army chief Munir has left Tehran, Nour News reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b52869865b9990f7",
+    "90841052516b1c80"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd7hcyiwr2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd7hcyiwr2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd7kh2pgg2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd7kh2pgg2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aac76113f371",
+   "created_at": "2026-10-20T18:01:15Z"
+  },
   {
    "id": "fed5e472e9af",
    "ts": "2026-10-20T17:49:43Z",
@@ -5678,276 +5732,6 @@
    "model": "opus",
    "run_id": "ebb07ad142a3",
    "created_at": "2026-10-19T05:35:42Z"
-  },
-  {
-   "id": "c61662264492",
-   "ts": "2026-10-19T04:15:23Z",
-   "headline": "BoE examines Barclays after complaint that traders understated the risk of private credit exposure, FT reports",
-   "detail": "The FT reports that the Bank of England received a complaint that Barclays understated the risk of derivatives it used to finance private credit loans, and is scrutinising the lender's disclosures.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "e47d0d160c39dd11",
-    "cdcd0eb2d09983c6"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3my7b3op72r2i",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3my7b3op72r2i"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7akpjvdd2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7akpjvdd2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ebb07ad142a3",
-   "created_at": "2026-10-19T05:35:42Z"
-  },
-  {
-   "id": "33e03d05308e",
-   "ts": "2026-10-19T02:01:00Z",
-   "headline": "China Q3 GDP grows 4.5% y/y, beating the 4.4% poll; September retail sales rise 1.1% y/y and industrial output 5.5%",
-   "detail": "China's statistics bureau reports Q3 GDP up 4.5% y/y, compared with 4.3% previously, and up 1.2% q/q. In September the jobless rate eased to 5.2% from 5.3%, while fixed-asset investment for January to September fell 7.2% y/y and property investment fell 20.6%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "dc559eb8f99ed0d0",
-    "143b0d2293048a95",
-    "c37a1a3065132149",
-    "f169e758a7330b8d",
-    "854afdb6576939eb",
-    "a7b4c7fa805f68f2",
-    "88992b0f83bd32e9",
-    "0537065b49fdac31",
-    "9d6a15febf2c37d0",
-    "5fa4cc682a3f2cc4",
-    "e98aae835566c276",
-    "cd6167af63aef71a",
-    "59618bcc710f56aa",
-    "c0447c6f526a5c58",
-    "d82b2a042b0757a7",
-    "277d758b71702165",
-    "89b34078418f2d5f",
-    "5a4b924c884001a5",
-    "4c849975d113a889",
-    "665becde86ef4525",
-    "9fec027c9caabf46",
-    "a1626c0640911aea",
-    "2cff600689b5f47c",
-    "b8d1395b0b7cfb73",
-    "6fbb7b6269eb7043",
-    "9ad97fcc57825fda",
-    "8e479535cdc5a01c",
-    "03c84d6c5530d62c",
-    "df5522694dc8dbcf",
-    "029498816e0dfc6f",
-    "05692ce43e5881aa",
-    "97e903796be45fb6",
-    "cf4e5048511f0afd",
-    "c0924f17e37c276b",
-    "f21a433bbf53a22d",
-    "206efd311a3850b0",
-    "c2d11ea666ab9dbb",
-    "97b9569b1ffc3866"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zlfo6mp2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zlfo6mp2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zljbast2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zljbast2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zlmqyez24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zlmqyez24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zlq4wmu2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zlq4wmu2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zltjllr2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zltjllr2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zlwsjnk26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zlwsjnk26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zm23ynk26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zm23ynk26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zm5u3af2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zm5u3af2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zmw3pjr24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zmw3pjr24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zmy3ezr2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zmy3ezr2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zn22zot2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zn22zot2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zn3xbos26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zn3xbos26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zn5rnzz2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zn5rnzz2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6znao7w32y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6znao7w32y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zncvmrh2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zncvmrh2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6znglqks2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6znglqks2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6znl227h2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6znl227h2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6znpb4hx2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6znpb4hx2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zntmf372v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zntmf372v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6znxwe4h2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6znxwe4h2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zosgkfg2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zosgkfg2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zovwuws2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zovwuws2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zozm6cv2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zozm6cv2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zpb4g6r2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zpb4g6r2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zphtevs26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zphtevs26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zplpbzp2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zplpbzp2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zppwvfb24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zppwvfb24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zptfr5f2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zptfr5f2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zpxblal2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zpxblal2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zqplwht2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zqplwht2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zqrm6as26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zqrm6as26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zqtqzkr2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zqtqzkr2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zqvudme2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zqvudme2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zqzpt6s2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zqzpt6s2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6zurconb2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6zurconb2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my72kxw6o224",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my72kxw6o224"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my72milyr52z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my72milyr52z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my72srbo2e2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my72srbo2e2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "abd3ff687e2e",
-   "created_at": "2026-10-19T05:31:05Z"
   }
  ]
 }
