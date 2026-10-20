@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T14:01:16Z",
+ "generated_at": "2026-10-20T14:15:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bf3d2943c100",
+   "ts": "2026-10-20T14:12:52Z",
+   "headline": "US-Iran compromise proposal would send Iran the interest on $6bn of its funds frozen in Qatari banks, Israel's Channel 12 reports",
+   "detail": "Israel's Channel 12 reports that the proposal, which Pakistan's army chief presented to senior Iranian officials, partly meets Iran's demand for the return of its frozen funds. It says the US has approved the plan and Iran has given preliminary agreement.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d721d555b88d504a",
+    "96fee14a22ab71f1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycswywdos26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycswywdos26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycsvhbp2a2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycsvhbp2a2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0e2369ba3de0",
+   "created_at": "2026-10-20T14:15:53Z"
+  },
   {
    "id": "c755eea4f795",
    "ts": "2026-10-20T14:00:40Z",
@@ -6000,33 +6027,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxz3bhmtgg2m",
      "url": "https://bsky.app/profile/reuters.com/post/3mxz3bhmtgg2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1a94ad9a7664",
-   "created_at": "2026-10-16T17:15:45Z"
-  },
-  {
-   "id": "0a46e05442d3",
-   "ts": "2026-10-16T17:13:18Z",
-   "headline": "France's Macron says an EU budget deal is possible by year-end and argues against a March summit before the French election",
-   "detail": "The French President said agreement on the EU budget could be reached by the end of the year. He said holding the budget deal summit in March, weeks before the French election, would not be a good approach.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "19684783f530a69c",
-    "98119931d0ef86a9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz35wvgmi2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz35wvgmi2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz34gw4qa2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz34gw4qa2z"
     }
    ],
    "model": "opus",
