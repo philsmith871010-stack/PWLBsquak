@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T16:10:50Z",
+ "generated_at": "2026-10-20T16:20:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8d43df3d4be1",
+   "ts": "2026-10-20T16:18:41Z",
+   "headline": "Iran tells Pakistan it has nothing new to say to the US, Mehr reports",
+   "detail": "Iran's Mehr news agency reports that Tehran has told Pakistan, which has been mediating, that it has no new message for the US. Earlier reports said a compromise proposal carried by Pakistan's army chief had been put forward in the US-Iran talks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ee103dbb923a40eb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myczxxz7m32n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myczxxz7m32n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7477339d1ed1",
+   "created_at": "2026-10-20T16:20:47Z"
+  },
   {
    "id": "2d41efff24d9",
    "ts": "2026-10-20T16:10:00Z",
@@ -6023,27 +6044,6 @@
    "model": "opus",
    "run_id": "1764fe24cf1a",
    "created_at": "2026-10-16T20:01:12Z"
-  },
-  {
-   "id": "04e8e79090d3",
-   "ts": "2026-10-16T18:53:06Z",
-   "headline": "Brent crude futures settle up $3.94, or 3.72%, at $109.86 a barrel",
-   "detail": "Brent crude futures settle at $109.86 a barrel, up $3.94 or 3.72% on the session.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "9873863ff76a2501"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxzaqfxfle2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxzaqfxfle2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6cacd169ebd9",
-   "created_at": "2026-10-16T18:55:49Z"
   }
  ]
 }
