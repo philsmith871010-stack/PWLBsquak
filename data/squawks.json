@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T15:45:50Z",
+ "generated_at": "2026-10-20T16:01:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9b5d9a0b8941",
+   "ts": "2026-10-20T16:00:53Z",
+   "headline": "Bank of Israel expected to hold rates on Wednesday after three straight cuts, ahead of the 27 October election, Reuters poll shows",
+   "detail": "A Reuters poll shows the Bank of Israel is expected to leave short-term interest rates unchanged on Wednesday after three successive reductions. Respondents expect policymakers to pause before next week's election even though inflation is stable.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "eb9ed1be7e0b705f"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mycyy5weyn2m",
+     "url": "https://bsky.app/profile/reuters.com/post/3mycyy5weyn2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3e70962ca6ec",
+   "created_at": "2026-10-20T16:01:17Z"
+  },
   {
    "id": "51dfb25d3831",
    "ts": "2026-10-20T15:45:45Z",
@@ -6011,27 +6032,6 @@
    "model": "opus",
    "run_id": "6cacd169ebd9",
    "created_at": "2026-10-16T18:55:49Z"
-  },
-  {
-   "id": "2b2ffd832e95",
-   "ts": "2026-10-16T18:35:14Z",
-   "headline": "Brent futures reach $110 a barrel for the first time since 20 May",
-   "detail": "Brent futures rose to $110 a barrel, a level last seen on 20 May, extending the day's gains.",
-   "category": "energy",
-   "importance": 3,
-   "source_event_ids": [
-    "f3cc676928715e14"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz7qhsezi2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz7qhsezi2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "06f723220f74",
-   "created_at": "2026-10-16T18:35:45Z"
   }
  ]
 }
