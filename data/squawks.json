@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T20:25:43Z",
+ "generated_at": "2026-10-20T20:31:02Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dc778e7f4729",
+   "ts": "2026-10-20T20:26:13Z",
+   "headline": "Brent settles below $109 a barrel as US-Iran diplomacy continues; longer-dated Treasuries outperform",
+   "detail": "A market wire reports that Brent crude settled below $109 a barrel as diplomatic efforts between the US and Iran went on, and that longer-dated US Treasuries outperformed. It also cites falling oil prices as one reason US stocks rose; it gives no percentage move for oil.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "7abd6bf1e7a72cc3",
+    "d39226ab94c8901e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydhsltx3c2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydhsltx3c2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydhsft2a22q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydhsft2a22q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "74d83754695d",
+   "created_at": "2026-10-20T20:31:02Z"
+  },
   {
    "id": "bf5089017be9",
    "ts": "2026-10-20T20:25:38Z",
@@ -5760,27 +5787,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7ylcl5kz2s",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7ylcl5kz2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "db2565a27fc6",
-   "created_at": "2026-10-19T11:15:47Z"
-  },
-  {
-   "id": "df39aa1ff31a",
-   "ts": "2026-10-19T11:11:52Z",
-   "headline": "Iranian hardliners call for nuclear weapons after the killing of Supreme Leader Khamenei, FT reports",
-   "detail": "The Financial Times reports that hardliners in Iran are pushing to weaponise the enrichment programme. They say Khamenei, who had prohibited atomic bombs, has been killed.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4b4a3f8c69b96c0a"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3my7yegmmwj2p",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3my7yegmmwj2p"
     }
    ],
    "model": "opus",
