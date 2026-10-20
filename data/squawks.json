@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T05:10:47Z",
+ "generated_at": "2026-10-20T05:15:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "149022a7901e",
+   "ts": "2026-10-20T05:11:41Z",
+   "headline": "Japan's 40-year JGB yield falls 6bp to 4.05%",
+   "detail": "Japan's 40-year government bond yield is reported 6bp lower at 4.05% in Tokyo trading on 20 October.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9761d1949daf96b8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybupcacrf2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybupcacrf2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d4023184391d",
+   "created_at": "2026-10-20T05:15:47Z"
+  },
   {
    "id": "8c8ac2e8c25a",
    "ts": "2026-10-20T04:11:05Z",
@@ -5927,63 +5948,6 @@
    "model": "opus",
    "run_id": "065fd9baf510",
    "created_at": "2026-10-16T12:01:13Z"
-  },
-  {
-   "id": "25bde2374966",
-   "ts": "2026-10-16T11:55:19Z",
-   "headline": "Zelensky says Russia does not want talks in any format and expects US and Ukrainian negotiators to meet soon",
-   "detail": "Ukraine's President Zelensky said Putin has no interest in ending the war and that Donbas would not satisfy Moscow. He said he hopes US-Ukraine talks will take place in the coming days.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a3a732f1275ddd78",
-    "ed3c21b8f0df592e",
-    "62b5d847c7d05406",
-    "3a9abb64c53b2747",
-    "b217f44903a5356d",
-    "80fa9a88d78c5dc2",
-    "d59859ae867510a5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyjfecr3n2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyjfecr3n2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyjfdqsdd2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyjfdqsdd2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyjedwakl26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyjedwakl26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyjfd52il2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyjfd52il2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyjedcl5r2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyjedcl5r2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyj6f6ile2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyj6f6ile2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyj6eob2e2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyj6eob2e2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ef7712091f04",
-   "created_at": "2026-10-16T11:55:42Z"
   }
  ]
 }
