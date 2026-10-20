@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T05:25:44Z",
+ "generated_at": "2026-10-20T05:30:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e5f504be143e",
+   "ts": "2026-10-20T05:28:36Z",
+   "headline": "French PM says targeted curfews kept the peace overnight; local authorities will impose more tonight where needed",
+   "detail": "France's prime minister said the targeted curfews helped keep the peace overnight. He said curfews would be imposed again tonight wherever the situation requires, with local authorities making those decisions on the ground.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "201798c0d3784bcb",
+    "997a99a1b6bfedc2",
+    "73ee775512ec6543"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybvnk6wrh2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybvnk6wrh2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybvnufys72r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybvnufys72r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybvouqo672r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybvouqo672r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0645aaf44fe1",
+   "created_at": "2026-10-20T05:30:58Z"
+  },
   {
    "id": "aa5861cefe90",
    "ts": "2026-10-20T05:23:26Z",
@@ -5879,51 +5912,6 @@
    "model": "opus",
    "run_id": "2f56b4818df6",
    "created_at": "2026-10-16T12:05:39Z"
-  },
-  {
-   "id": "fa39f39005e7",
-   "ts": "2026-10-16T11:57:29Z",
-   "headline": "BoJ's Ueda says the next meeting will consider changing the view that underlying inflation is nearing 2%",
-   "detail": "BoJ Governor Ueda said the bank heard nothing at this week's meetings that departed from its baseline view, and that the timing and pace of further hikes will depend on how FX, AI demand and Middle East developments affect prices. He also said financial conditions remain accommodative.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "4b2b3fdc10b3ec19",
-    "34dce1b5e6436618",
-    "f76a8f72ed7dc4d1",
-    "e91c8833d66b8bff",
-    "c3e70782db4d2f04"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyjjai7b52m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyjjai7b52m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyjhqzjbw2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyjhqzjbw2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyjiihy332s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyjiihy332s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyjk4ljpt2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyjk4ljpt2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyjktz63224",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyjktz63224"
-    }
-   ],
-   "model": "opus",
-   "run_id": "065fd9baf510",
-   "created_at": "2026-10-16T12:01:13Z"
   }
  ]
 }
