@@ -1,8 +1,215 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T05:01:25Z",
+ "generated_at": "2026-10-20T05:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7b21ff4b3c29",
+   "ts": "2026-10-20T02:09:49Z",
+   "headline": "PBOC to offer up to 1 trillion yuan a day in overnight reverse repos from 21 October to 2 November",
+   "detail": "China's central bank announced the overnight reverse repo operations for the period. It carried out no 7-day reverse repos on Tuesday.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ba958be37c701058",
+    "55ba1697073a3c74"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybkk3e6xg2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybkk3e6xg2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybhx7ghrn2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybhx7ghrn2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fd9ec4307a4f",
+   "created_at": "2026-10-20T05:05:40Z"
+  },
+  {
+   "id": "cc4b9ae1690e",
+   "ts": "2026-10-20T01:14:09Z",
+   "headline": "Japan's finance minister Katayama says no decision has been made on how to fund the expected rise in defence spending",
+   "detail": "Katayama said the government is still discussing defence spending and will look at ways to secure stable funding while keeping a focus on fiscal sustainability.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "eb25e64fe2538ba8",
+    "c1b75c6a6bc8fcb7",
+    "0c40ee9bdd61fa28",
+    "03dd9e1746ad1ff2",
+    "8d10e82db4f5bd21",
+    "e046f897cb22e77f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybhgk2j6t2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybhgk2j6t2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybhilicjm2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybhilicjm2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybhirwkep2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybhirwkep2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybhjkrson2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybhjkrson2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybhmoxjwd2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybhmoxjwd2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybhnq2nc52d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybhnq2nc52d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fd9ec4307a4f",
+   "created_at": "2026-10-20T05:05:40Z"
+  },
+  {
+   "id": "597092bf9362",
+   "ts": "2026-10-20T01:10:11Z",
+   "headline": "Trump says the US and Mexico are very close to a trade deal",
+   "detail": "US President Trump said on Monday that Mexico and the United States are very close to agreeing a trade deal, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d02bb1d121a8ff98"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mybh7gydnv2j",
+     "url": "https://bsky.app/profile/reuters.com/post/3mybh7gydnv2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fd9ec4307a4f",
+   "created_at": "2026-10-20T05:05:40Z"
+  },
+  {
+   "id": "57167de7864c",
+   "ts": "2026-10-20T01:01:48Z",
+   "headline": "China keeps its one-year and five-year loan prime rates at 3.00% and 3.50%, as expected",
+   "detail": "The People's Bank of China left its benchmark lending rates unchanged in October, in line with forecasts. Reuters reports that rates have now been held for 17 months in a row.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b6a602dbf70bf15a",
+    "a945eb189a799d21",
+    "48074b0c47f3691a",
+    "ed7508dd28f69531",
+    "033c272946b98bcd",
+    "bd56f1cd83bfc0e1",
+    "e2128114e627b172"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybgqabyxp2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybgqabyxp2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybgqdz7oi2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybgqdz7oi2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybgqhfkkg2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybgqhfkkg2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybgsqfpi22s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybgsqfpi22s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybgtwrun42m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybgtwrun42m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybi3l4fhn2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybi3l4fhn2f"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mybjgzoiir2x",
+     "url": "https://bsky.app/profile/reuters.com/post/3mybjgzoiir2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fd9ec4307a4f",
+   "created_at": "2026-10-20T05:05:40Z"
+  },
+  {
+   "id": "6bca43a4fc11",
+   "ts": "2026-10-20T00:57:36Z",
+   "headline": "Japan's economy minister Kiuchi says he hopes to attend this month's BoJ policy meeting if his schedule allows",
+   "detail": "Kiuchi said the government respects the Bank of Japan's autonomy over monetary policy as set out in the BoJ law. He also said he has never considered asking for a vote at a BoJ meeting to be postponed.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "72a146877721bb3e",
+    "9eea198b8cbd8dca",
+    "57124ac74d01507b",
+    "5467ffcd1f5e83f1",
+    "5e344dc2bc5f5bb1",
+    "b88cc441c3493d78"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybgixqkgq2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybgixqkgq2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybgjqm2hu2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybgjqm2hu2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybgjsjic42d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybgjsjic42d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybgohndle2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybgohndle2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybgomx56d2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybgomx56d2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybgowqzxg2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybgowqzxg2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fd9ec4307a4f",
+   "created_at": "2026-10-20T05:05:40Z"
+  },
   {
    "id": "5ad87683766c",
    "ts": "2026-10-20T00:37:35Z",
@@ -5855,117 +6062,6 @@
    "model": "opus",
    "run_id": "659a3c96cd5b",
    "created_at": "2026-10-16T11:45:51Z"
-  },
-  {
-   "id": "34394a0a6008",
-   "ts": "2026-10-16T11:18:22Z",
-   "headline": "Ukraine offers to hold up to 10 bcm of EU strategic gas reserves in its underground storage",
-   "detail": "Ukraine has proposed that the EU keep up to 10 bcm of European strategic gas reserves in Ukrainian underground storage. Separately, an acting chief executive said Ukraine's own stored gas is at about 16 bcm, its highest level in six years.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "53d44e5014078350",
-    "4895c0a6e259430f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyhdbmewp2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyhdbmewp2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyhday4ry2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyhday4ry2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1237baebef17",
-   "created_at": "2026-10-16T11:20:51Z"
-  },
-  {
-   "id": "59a31cf57446",
-   "ts": "2026-10-16T11:12:33Z",
-   "headline": "Germany's upper house approves a further release of oil stocks following the G7 agreement",
-   "detail": "Germany's upper house of parliament has approved a further release of strategic oil stocks, in line with an agreement among G7 countries. No volumes were given.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "96a27f27bb3ea2ea"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxygyvmuxm2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxygyvmuxm2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "db8b4dad20ca",
-   "created_at": "2026-10-16T11:15:48Z"
-  },
-  {
-   "id": "7e103f18dd00",
-   "ts": "2026-10-16T11:00:43Z",
-   "headline": "Iran has exported some LPG and jet fuel since July despite the US naval blockade, Reuters reports",
-   "detail": "Reuters, citing shipping intelligence and people involved in security, reports that Iran has managed to ship some liquefied petroleum gas and jet fuel since July even though a US naval blockade is in place.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "a50d11939a3102e3"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxygdpfdmc2p",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxygdpfdmc2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3d9cfa936428",
-   "created_at": "2026-10-16T11:01:16Z"
-  },
-  {
-   "id": "a381c92b1d82",
-   "ts": "2026-10-16T10:56:48Z",
-   "headline": "PBOC Governor Pan says exchange rate adjustments alone cannot fix global imbalances and backs closer China-EU financial cooperation",
-   "detail": "The People's Bank of China governor said global imbalances cannot be resolved by relying on currency moves, and that China-EU financial cooperation should be taken to a new stage.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a0d268f43c938994"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyg4qfgfe2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyg4qfgfe2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3d9cfa936428",
-   "created_at": "2026-10-16T11:01:16Z"
-  },
-  {
-   "id": "aab66c63aab2",
-   "ts": "2026-10-16T10:53:54Z",
-   "headline": "Russia's Novak says freight, insurance and diesel supply issues with the US are essentially resolved",
-   "detail": "Russian Deputy Prime Minister Alexander Novak said questions over freight, insurance and diesel deliveries to the United States had largely been settled, according to reports.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "e504f43c6d3b5bc1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyfxk6nie2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyfxk6nie2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f5baabfd2307",
-   "created_at": "2026-10-16T10:55:44Z"
   }
  ]
 }
