@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T08:05:42Z",
+ "generated_at": "2026-10-20T08:10:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "992d1ca17e4a",
+   "ts": "2026-10-20T08:06:44Z",
+   "headline": "South Korea's finance ministry says it will consider cutting bond issuance further if needed",
+   "detail": "South Korea's finance ministry said it would consider a further cut to government bond issuance if necessary. It gave no figures or timing.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b1a4020b169bc73d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc6icvieq26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc6icvieq26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "03baf48c4b1c",
+   "created_at": "2026-10-20T08:10:49Z"
+  },
   {
    "id": "332384aeb778",
    "ts": "2026-10-20T08:01:47Z",
@@ -5909,51 +5930,6 @@
    "model": "opus",
    "run_id": "a5b7205ef08f",
    "created_at": "2026-10-16T13:25:43Z"
-  },
-  {
-   "id": "dcd7ce3435b2",
-   "ts": "2026-10-16T13:16:08Z",
-   "headline": "US industrial production rises 0.7% m/m in September, above the 0.4% forecast; capacity utilisation at 76.9%",
-   "detail": "US industrial production rose 0.7% m/m in September, after 0.0% the previous month and above the 0.4% forecast. Manufacturing output rose 0.3%, in line with forecast, after -0.3%. Capacity utilisation came in at 76.9%, against a 76.5% forecast and 76.3% previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "90a4f3bcda22b020",
-    "872fd8be9c3ae3ef",
-    "23fba2141a38589c",
-    "b8e1f69b301eb7fa",
-    "54275acd1170fb09"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxynvuoiwe2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxynvuoiwe2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxynvtzdgx2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxynvtzdgx2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxynvsvekx24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxynvsvekx24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxynvs2d4a2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxynvs2d4a2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxynygnx2l2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxynygnx2l2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5d154c896866",
-   "created_at": "2026-10-16T13:20:50Z"
   }
  ]
 }
