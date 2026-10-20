@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T21:05:38Z",
+ "generated_at": "2026-10-20T21:31:02Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d94083b93768",
+   "ts": "2026-10-20T21:29:04Z",
+   "headline": "UK ministers set to approve the Jackdaw gasfield in the North Sea on Wednesday, FT reports",
+   "detail": "The Financial Times reports that ministers will give the go-ahead on Wednesday to the Jackdaw gas project, which lies about 150 miles east of Aberdeen.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "7f97bdac7347d9f7"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mydlcyk3sp24",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mydlcyk3sp24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e31fb76d30e8",
+   "created_at": "2026-10-20T21:31:02Z"
+  },
   {
    "id": "557a3f7be7f7",
    "ts": "2026-10-20T21:01:58Z",
@@ -5771,27 +5792,6 @@
    "model": "opus",
    "run_id": "9e211b4dc1d4",
    "created_at": "2026-10-19T12:15:49Z"
-  },
-  {
-   "id": "905a6da53f55",
-   "ts": "2026-10-19T11:37:49Z",
-   "headline": "Iraq's October oil exports average over 3.4m b/d so far, up from 3m b/d in September, reports say",
-   "detail": "Reports put Iraq's crude exports at an average of more than 3.4 million barrels per day so far in October, compared with 3 million barrels per day in September.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "c4331678ff9dc713"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7zst54wi2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7zst54wi2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7c60e27f8bb9",
-   "created_at": "2026-10-19T11:40:49Z"
   }
  ]
 }
