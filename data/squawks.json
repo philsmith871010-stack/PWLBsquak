@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T06:10:51Z",
+ "generated_at": "2026-10-20T06:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "be78b665d4e5",
+   "ts": "2026-10-20T06:10:58Z",
+   "headline": "Japan's PM Takaichi says she does not intend to put pressure on prices to come down",
+   "detail": "Japanese Prime Minister Takaichi said she has no intention of exerting pressure to lower prices. No market reaction was reported.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4400592372ebd18f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxzcqh432f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxzcqh432f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8804d8c0cc19",
+   "created_at": "2026-10-20T06:15:50Z"
+  },
   {
    "id": "fac25fc704ae",
    "ts": "2026-10-20T06:06:38Z",
@@ -5933,27 +5954,6 @@
    "model": "opus",
    "run_id": "9df0de769c4c",
    "created_at": "2026-10-16T12:45:47Z"
-  },
-  {
-   "id": "8865a4797e9f",
-   "ts": "2026-10-16T12:32:29Z",
-   "headline": "US natural gas futures drop 5% after a force majeure is lifted",
-   "detail": "A market wire reports that US natural gas futures fell 5% after a force majeure was lifted. The report does not say which facility was affected.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "303c8ab749052821"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxylhsnba42m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxylhsnba42m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "afdb8593c8aa",
-   "created_at": "2026-10-16T12:35:42Z"
   }
  ]
 }
