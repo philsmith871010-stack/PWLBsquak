@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T06:01:11Z",
+ "generated_at": "2026-10-20T06:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ebc2e22a1d93",
+   "ts": "2026-10-20T06:01:47Z",
+   "headline": "German producer prices rise 6.7% year on year, above the 6.3% forecast",
+   "detail": "German PPI rose 1.9% month on month against a 1.6% forecast and 1.1% previously. The annual rate rose to 6.7% from 4.6%, against a 6.3% forecast.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "d30585ee1bcfde98",
+    "20516a1d75910404"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxirydkr2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxirydkr2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxiuavpv2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxiuavpv2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6a439c4a1b31",
+   "created_at": "2026-10-20T06:05:41Z"
+  },
+  {
+   "id": "a6227b908b48",
+   "ts": "2026-10-20T06:01:11Z",
+   "headline": "UK unemployment rate falls to 4.7% against a 4.9% forecast; employment up 102K on the quarter",
+   "detail": "UK labour market data show the unemployment rate at 4.7%, compared with a forecast and previous reading of 4.9%. Employment rose 102K over three months, against a 5K forecast and 67K previously, and average weekly earnings growth including bonuses slowed to 3.7% from 3.9%, below the 3.8% forecast.",
+   "category": "data",
+   "importance": 3,
+   "source_event_ids": [
+    "bc439d2d78080014",
+    "ad6b339eb3ea2f8c",
+    "2ced16fb329c2931",
+    "0447917b100985b4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxhs6qm22w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxhs6qm22w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxilrxpc2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxilrxpc2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxiotayc2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxiotayc2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxjpqmja2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxjpqmja2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6a439c4a1b31",
+   "created_at": "2026-10-20T06:05:41Z"
+  },
   {
    "id": "abc2f3879865",
    "ts": "2026-10-20T06:01:07Z",
@@ -5870,54 +5936,6 @@
    "model": "opus",
    "run_id": "191813dbc02a",
    "created_at": "2026-10-16T12:31:07Z"
-  },
-  {
-   "id": "5a3a70315c96",
-   "ts": "2026-10-16T12:22:39Z",
-   "headline": "Kalshi odds of an October Fed hike fall to 13% from 55% after Fed Chair Warsh's remarks",
-   "detail": "Prediction market Kalshi puts the probability of a Fed hold in October at 86%, up from 50%, following Fed Chair Warsh's comments, according to a market commentary account.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "d3ccb7fe0c457279"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxykwandlw2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxykwandlw2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5a497d483aed",
-   "created_at": "2026-10-16T12:25:39Z"
-  },
-  {
-   "id": "af7b148d3a61",
-   "ts": "2026-10-16T12:16:07Z",
-   "headline": "Canadian housing starts rise to an annualised 248.896K in September, above the 232.5K forecast",
-   "detail": "Canada's September housing starts came in at an annualised 248.896K, compared with a forecast of 232.5K and 229.0K the month before.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a7682546b247cb01",
-    "f30b3b25227b34cd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxykkkoutl2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxykkkoutl2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyklc7l2k2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyklc7l2k2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fb5033b9de3b",
-   "created_at": "2026-10-16T12:20:48Z"
   }
  ]
 }
