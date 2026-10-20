@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T11:25:42Z",
+ "generated_at": "2026-10-20T11:55:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5966c4229dc6",
+   "ts": "2026-10-20T11:55:33Z",
+   "headline": "Russia's deputy foreign minister Ryabkov says Moscow still views a possible US-Russia diesel deal positively",
+   "detail": "Russian Deputy Foreign Minister Sergei Ryabkov said Moscow still sees the possible diesel deal between Russia and the United States in a positive light. US lawmakers have opposed the proposed deal, and the US Energy Secretary has said no Russian diesel has been released so far.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "f2e92846111e87bc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myclbhjy6t2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myclbhjy6t2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3d150a55f1dc",
+   "created_at": "2026-10-20T11:55:54Z"
+  },
   {
    "id": "e4a680e9dd27",
    "ts": "2026-10-20T11:23:13Z",
@@ -5837,27 +5858,6 @@
    "model": "opus",
    "run_id": "0989745beeec",
    "created_at": "2026-10-16T14:50:49Z"
-  },
-  {
-   "id": "666d2bc9517a",
-   "ts": "2026-10-16T14:44:53Z",
-   "headline": "Germany's Merz says a 90bn loan will not cover Ukraine's needs and the Commission will assess its financial aid needs",
-   "detail": "German Chancellor Merz said the European Commission will assess over the coming weeks how much financial aid Ukraine needs. He said a 90bn loan would not be enough.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "8110c700337a0f60"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxysuksq352v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxysuksq352v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d3f1c4097f8c",
-   "created_at": "2026-10-16T14:45:52Z"
   }
  ]
 }
