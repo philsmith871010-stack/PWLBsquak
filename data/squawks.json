@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T13:56:03Z",
+ "generated_at": "2026-10-20T14:01:16Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c755eea4f795",
+   "ts": "2026-10-20T14:00:40Z",
+   "headline": "US pending home sales drop 7.3% on the month in September against a forecast 0.5% fall; index slides to 66.0",
+   "detail": "US pending home sales fell 7.3% month on month, compared with a forecast fall of 0.5% and a 0.3% rise previously. The pending homes index came in at 66.0, down from 71.2.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "5b2978f78ea7fd51",
+    "53d83c43e5aeb360"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycsb6s6qa2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycsb6s6qa2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycsc5avky2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycsc5avky2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "14bd0d429b1f",
+   "created_at": "2026-10-20T14:01:16Z"
+  },
   {
    "id": "c559ec3d9be5",
    "ts": "2026-10-20T13:53:26Z",
@@ -6000,27 +6027,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz34gw4qa2z",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz34gw4qa2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1a94ad9a7664",
-   "created_at": "2026-10-16T17:15:45Z"
-  },
-  {
-   "id": "61b2a4b41bac",
-   "ts": "2026-10-16T17:10:59Z",
-   "headline": "EU's von der Leyen says the bloc will work on new instruments to tackle the trade imbalance with China",
-   "detail": "The European Commission President said on Friday that the EU would develop new instruments to address its trade imbalance with China. She spoke after an EU leaders' meeting.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1b3a90f163ed672e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2zst6ve2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2zst6ve2y"
     }
    ],
    "model": "opus",
