@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T16:31:06Z",
+ "generated_at": "2026-10-20T16:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "570d952fb278",
+   "ts": "2026-10-20T16:33:54Z",
+   "headline": "Iran's security chief rules out talks with the US until Washington builds trust",
+   "detail": "Iran's Security Council secretary Rezaei set the condition after meeting Pakistan's army chief, according to Iranian state media IRNA. Separately, Tasnim reported that he said all of Iran's enriched nuclear material will stay in the country.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d139055effbeca05",
+    "ff23f8181239a9bc",
+    "b5007c7ff811b131"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd2t6xwi22m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd2t6xwi22m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd2wbrefr2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd2wbrefr2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd2ppnijo2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd2ppnijo2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e502ab763312",
+   "created_at": "2026-10-20T16:35:42Z"
+  },
   {
    "id": "23d8dd06ff13",
    "ts": "2026-10-20T16:27:56Z",
@@ -5993,33 +6026,6 @@
    "model": "opus",
    "run_id": "ded27e83e38a",
    "created_at": "2026-10-19T05:15:49Z"
-  },
-  {
-   "id": "6df7c1ca85d5",
-   "ts": "2026-10-16T21:47:35Z",
-   "headline": "UK Foreign Office now advises against all but essential travel to Saudi Arabia",
-   "detail": "The UK Foreign Office has changed its travel advice for Saudi Arabia to advise against all but essential travel. The change follows reports earlier in the day of missiles and drones aimed at Riyadh and the Yanbu export hub.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "69d42516b2ac6bac",
-    "b4f4e4e615f994ba"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxzkigbyrl26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxzkigbyrl26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxzkigqt542r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxzkigqt542r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "36b5dd6905e5",
-   "created_at": "2026-10-16T21:50:48Z"
   }
  ]
 }
