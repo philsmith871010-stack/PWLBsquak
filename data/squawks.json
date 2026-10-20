@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T21:01:14Z",
+ "generated_at": "2026-10-20T21:05:38Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "557a3f7be7f7",
+   "ts": "2026-10-20T21:01:58Z",
+   "headline": "Iran's Araghchi rejects the extra US conditions and says Tehran will not negotiate through Washington's network",
+   "detail": "Iran's Foreign Minister Araghchi was responding to the additional conditions the US sought in talks. Iran is negotiating with the US through intermediaries.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5dfae72c78a2b2db"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydjsjm3ml2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydjsjm3ml2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2b6d8b21a8f9",
+   "created_at": "2026-10-20T21:05:38Z"
+  },
   {
    "id": "2ba32fdcd53d",
    "ts": "2026-10-20T21:00:35Z",
@@ -5771,27 +5792,6 @@
    "model": "opus",
    "run_id": "7c60e27f8bb9",
    "created_at": "2026-10-19T11:40:49Z"
-  },
-  {
-   "id": "0604a6e6dfba",
-   "ts": "2026-10-19T11:30:51Z",
-   "headline": "IRGC spokesman warns that even limited US action against Iran would set off a global energy crisis",
-   "detail": "A spokesman for Iran's Revolutionary Guards gave the warning, Sepah News reported. No market reaction was reported in the posts.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c248e3e99df8a52b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7zgf6qom2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7zgf6qom2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b929a543b2bf",
-   "created_at": "2026-10-19T11:31:02Z"
   }
  ]
 }
