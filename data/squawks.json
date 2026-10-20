@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T20:05:40Z",
+ "generated_at": "2026-10-20T20:20:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "34c09d960296",
+   "ts": "2026-10-20T20:19:52Z",
+   "headline": "Iran's Foreign Minister Araghchi says the US cannot be trusted at all in negotiations",
+   "detail": "Iran's Foreign Minister Araghchi said there should be no trust in the US during the negotiation process. Speaking to Iraq's Al Ekhbariya through an interpreter, he also said Saudi Arabia and Yemen's Houthis have not yet responded to Tehran's mediation initiative.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "721548fc47e6659e",
+    "b639d52ecfd7ef18"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydhhb6hos2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydhhb6hos2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydhfqn67j2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydhfqn67j2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7d87963080e6",
+   "created_at": "2026-10-20T20:20:52Z"
+  },
   {
    "id": "d0bfb3ee8988",
    "ts": "2026-10-20T20:03:02Z",
@@ -5759,27 +5786,6 @@
    "model": "opus",
    "run_id": "6cbb327fa777",
    "created_at": "2026-10-19T10:55:41Z"
-  },
-  {
-   "id": "024b795a292c",
-   "ts": "2026-10-19T10:48:56Z",
-   "headline": "Report says a breakthrough to halt US-Iran escalation is expected to be announced this week",
-   "detail": "A market newswire reports that mediators are still working to narrow the points of contention between the US and Iran. The report names no source, and no market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f61bf38b6a7e7317"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7x3ga3fc2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7x3ga3fc2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0f67d6fc1491",
-   "created_at": "2026-10-19T10:50:47Z"
   }
  ]
 }
