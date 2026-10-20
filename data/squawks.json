@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T09:31:03Z",
+ "generated_at": "2026-10-20T09:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0c3e52c68cdf",
+   "ts": "2026-10-20T09:31:03Z",
+   "headline": "Kremlin says Russia values the work of US negotiators highly",
+   "detail": "The Kremlin said on 20 October that Russia rates the efforts of US negotiators highly. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a7a4552903f9a99c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycd72z56t2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycd72z56t2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "608db8c4b2c7",
+   "created_at": "2026-10-20T09:35:44Z"
+  },
   {
    "id": "8bed071947a3",
    "ts": "2026-10-20T09:30:49Z",
@@ -5939,27 +5960,6 @@
    "model": "opus",
    "run_id": "03a256284e20",
    "created_at": "2026-10-16T14:15:48Z"
-  },
-  {
-   "id": "c1fc03fa1ba8",
-   "ts": "2026-10-16T10:38:27Z",
-   "headline": "Reports say John Healey is drawing up plans to tax banks in the forthcoming Budget",
-   "detail": "City AM reports that John Healey is weighing options to raise more tax from the banking industry in the forthcoming Budget. City AM says senior banking figures have warned against the plans.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "f5971293bbc52f20"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mxyftm7vgb32",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mxyftm7vgb32"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d8f935a1b83b",
-   "created_at": "2026-10-16T14:10:50Z"
   }
  ]
 }
