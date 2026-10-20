@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T12:45:47Z",
+ "generated_at": "2026-10-20T12:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dcf330bc24d0",
+   "ts": "2026-10-20T12:46:06Z",
+   "headline": "US-Iran compromise proposal carried by Pakistan's army chief has US and Iranian approval, Al-Araby Al-Jadeed reports",
+   "detail": "Al-Araby Al-Jadeed cites sources as saying the new proposal aims to head off escalation and restart talks. It also partly meets Iran's demand over its frozen funds.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0573466a94734c4e",
+    "790f621619316d7a",
+    "69f2d1717b87ad3d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myco3gn67v2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myco3gn67v2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myco3tcitm24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myco3tcitm24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myco3u3bvf2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myco3u3bvf2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3825d19b2655",
+   "created_at": "2026-10-20T12:50:48Z"
+  },
   {
    "id": "64c03025ec9d",
    "ts": "2026-10-20T12:45:41Z",
@@ -5825,27 +5858,6 @@
    "model": "opus",
    "run_id": "c5297e40d8e3",
    "created_at": "2026-10-16T16:15:49Z"
-  },
-  {
-   "id": "0d800579d2a3",
-   "ts": "2026-10-16T15:59:43Z",
-   "headline": "Scottish government is set to drop its opposition to new North Sea oil and gas fields, Politico reports",
-   "detail": "Politico reports that the Scottish government is preparing to drop its opposition to developing new oil and gas fields. No timing or further detail was given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "f40da4f0450d78be"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyx2fg7ib2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyx2fg7ib2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d7d658d9127d",
-   "created_at": "2026-10-16T16:01:18Z"
   }
  ]
 }
