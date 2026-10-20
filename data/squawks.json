@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T19:05:41Z",
+ "generated_at": "2026-10-20T19:10:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d7b228059a5d",
+   "ts": "2026-10-20T19:08:24Z",
+   "headline": "Trump says the Iran war will be over very soon and the US could pull out now having done a great job",
+   "detail": "US President Trump made the remarks on Tuesday evening. No market reaction was reported in the posts.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c66544e7ab370c04",
+    "2be11a425e9913f2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myddhhlhhf26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myddhhlhhf26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myddibxfib2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myddibxfib2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "79b7b9acca09",
+   "created_at": "2026-10-20T19:10:53Z"
+  },
+  {
+   "id": "b4bca3eab8fd",
+   "ts": "2026-10-20T19:06:18Z",
+   "headline": "Trump says the US is pretty close to a trade deal with India",
+   "detail": "US President Trump spoke on Tuesday evening, after Secretary of State Rubio said earlier that the US-India deal was expected within weeks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2852a5e239bbffcb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydddp2fmx2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydddp2fmx2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "79b7b9acca09",
+   "created_at": "2026-10-20T19:10:53Z"
+  },
   {
    "id": "0b7f7861f5e0",
    "ts": "2026-10-20T19:04:23Z",
@@ -5744,60 +5792,6 @@
    "model": "opus",
    "run_id": "655b976d0c38",
    "created_at": "2026-10-19T08:50:48Z"
-  },
-  {
-   "id": "be2a704f5f0b",
-   "ts": "2026-10-19T08:49:10Z",
-   "headline": "Trafigura economist puts Middle East crude flows 5m-7m b/d below pre-war levels and product flows 4m b/d lower",
-   "detail": "The chief economist at commodity trader Trafigura gave the estimates for reduced Middle East crude and oil product flows compared with before the war.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "5f1153014910e214",
-    "6d1f45f4351304d0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7qfb42rh2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7qfb42rh2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7qg5m5u42r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7qg5m5u42r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "655b976d0c38",
-   "created_at": "2026-10-19T08:50:48Z"
-  },
-  {
-   "id": "9aaccf25fa3f",
-   "ts": "2026-10-19T08:34:59Z",
-   "headline": "PBOC governor widens eligibility for standing lending facilities and plans to let overseas institutions trade RMB onshore",
-   "detail": "The People's Bank of China governor also announced steps to promote bond market connectivity and to make it easier for overseas financial institutions to trade renminbi in China's domestic foreign exchange market, CCTV reported. The measures were announced alongside the liquidity support tool for non-bank institutions.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "cc6632805aa5e757",
-    "7269b04f428c55f5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7plvs44q2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7plvs44q2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7pm26ccx2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7pm26ccx2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "98d43320001c",
-   "created_at": "2026-10-19T08:35:43Z"
   }
  ]
 }
