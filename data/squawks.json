@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T13:05:46Z",
+ "generated_at": "2026-10-20T13:11:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7ff7ced6fead",
+   "ts": "2026-10-20T13:10:15Z",
+   "headline": "Google restores full service in its London cloud region after an outage that disrupted UK banks",
+   "detail": "Alphabet's Google said on Tuesday that full service is back in its London-based cloud region, after a power event disrupted several cloud services, Reuters reports.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "cdf436b2a7c2bed0"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mycph23p4n2x",
+     "url": "https://bsky.app/profile/reuters.com/post/3mycph23p4n2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "715b18b1d4a4",
+   "created_at": "2026-10-20T13:11:00Z"
+  },
   {
    "id": "97f6398727b5",
    "ts": "2026-10-20T13:02:20Z",
@@ -5831,27 +5852,6 @@
    "model": "opus",
    "run_id": "c4db0406e67c",
    "created_at": "2026-10-16T16:40:52Z"
-  },
-  {
-   "id": "7af0212f7474",
-   "ts": "2026-10-16T16:32:02Z",
-   "headline": "Oil extends gains as US crude climbs above $100 a barrel",
-   "detail": "Oil prices extended their gains in late trading on 16 October, and US crude rose above $100 a barrel.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "c61a51b372da4180"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyyu5stip2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyyu5stip2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0a7b82f3d5e2",
-   "created_at": "2026-10-16T16:35:38Z"
   }
  ]
 }
