@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T05:30:58Z",
+ "generated_at": "2026-10-20T05:55:38Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "269040f3d4d2",
+   "ts": "2026-10-20T05:52:42Z",
+   "headline": "BoJ expected to hold rates in October and signal a possible hike as early as December, sources say",
+   "detail": "Sources say the Bank of Japan is likely to keep rates on hold at its 29-30 October meeting while signalling room to raise them as soon as December. The same sources say its quarterly report may nudge up the fiscal 2027 inflation forecast slightly.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "e8371c550c7769cf",
+    "d6c26d1eefd486d4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybwynksrm26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybwynksrm26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybwxmgjdx24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybwxmgjdx24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "750509d9b950",
+   "created_at": "2026-10-20T05:55:38Z"
+  },
   {
    "id": "e5f504be143e",
    "ts": "2026-10-20T05:28:36Z",
@@ -5886,27 +5913,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyjxen5rp2v",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyjxen5rp2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2f56b4818df6",
-   "created_at": "2026-10-16T12:05:39Z"
-  },
-  {
-   "id": "b234d037914e",
-   "ts": "2026-10-16T12:03:37Z",
-   "headline": "China's commerce ministry warns the EU it will not gain from pressure and should not underestimate China's resolve",
-   "detail": "China's commerce ministry said the EU should not expect to win concessions by pressuring China, and that Beijing is determined and able to protect its interests.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ab4399fa63ef56c3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyju6u2yu2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyju6u2yu2f"
     }
    ],
    "model": "opus",
