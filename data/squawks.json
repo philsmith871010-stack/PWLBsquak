@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T07:45:53Z",
+ "generated_at": "2026-10-20T08:01:12Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "35ad638b9efb",
+   "ts": "2026-10-20T07:57:32Z",
+   "headline": "Iran says excessive US demands are holding up progress in negotiations",
+   "detail": "Iran repeated its position that US demands are blocking progress in talks between the two sides. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "33ea55e103be124b",
+    "6dc462edbbc8f8f1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc5xuqwtq26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc5xuqwtq26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc5zhaurh2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc5zhaurh2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a657f4f2013e",
+   "created_at": "2026-10-20T08:01:12Z"
+  },
   {
    "id": "d0159e93716f",
    "ts": "2026-10-20T07:45:10Z",
@@ -5915,27 +5942,6 @@
    "model": "opus",
    "run_id": "22f9cdb55093",
    "created_at": "2026-10-16T13:15:48Z"
-  },
-  {
-   "id": "5dff04870c16",
-   "ts": "2026-10-16T13:09:20Z",
-   "headline": "SNB's Tschudin says Swiss inflation pressure is slightly higher than in June",
-   "detail": "Petra Tschudin of the Swiss National Bank's governing board said inflationary pressure in Switzerland is a little higher than it was in June.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "081ee4d4b67d076e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxynjpwrxa2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxynjpwrxa2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ea754911c3d5",
-   "created_at": "2026-10-16T13:10:52Z"
   }
  ]
 }
