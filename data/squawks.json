@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T08:10:49Z",
+ "generated_at": "2026-10-20T08:15:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e01f79f03c29",
+   "ts": "2026-10-20T08:13:56Z",
+   "headline": "Saudi civil defence issues an early alert in Riyadh as sirens sound in the capital",
+   "detail": "Saudi civil defence issued an early warning in Riyadh, and sirens were reported in the city. It follows Houthi claims of attacks on Saudi energy infrastructure; no market reaction has been reported so far.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ccf2059fb7fc9afb",
+    "8f7b656f07a76d6e",
+    "8fec2f1fa5c09410"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc6stb44n2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc6stb44n2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc6tm6sk52q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc6tm6sk52q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc6v6jmjh2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc6v6jmjh2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "93a1e884cf21",
+   "created_at": "2026-10-20T08:15:47Z"
+  },
   {
    "id": "992d1ca17e4a",
    "ts": "2026-10-20T08:06:44Z",
@@ -5909,27 +5942,6 @@
    "model": "opus",
    "run_id": "1536b033c4e5",
    "created_at": "2026-10-16T13:40:56Z"
-  },
-  {
-   "id": "3628f9ca0c8f",
-   "ts": "2026-10-16T13:24:45Z",
-   "headline": "US Treasury yields rise after economic data, with the 10-year up 3.8bp to 5.125%",
-   "detail": "The US 10-year yield rose 3.8bp to 5.125% after economic data. The 30-year rose 3.04bp to 5.458%, the 2-year rose 1.45bp to 4.766%, and the 2s10s spread stood at +35.7bp.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "dad5fe5739a420ff"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyofbo3sn2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyofbo3sn2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5b7205ef08f",
-   "created_at": "2026-10-16T13:25:43Z"
   }
  ]
 }
