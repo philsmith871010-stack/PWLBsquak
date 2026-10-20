@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T07:05:48Z",
+ "generated_at": "2026-10-20T07:40:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "220b29dd136a",
+   "ts": "2026-10-20T07:38:51Z",
+   "headline": "EU foreign policy chief Kallas says the EU is working with Turkey, India and others on a Black Sea deal",
+   "detail": "Kallas said a Black Sea arrangement would protect lives and supplies. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3ba2dbe0cb7f174d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc4wgqci22w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc4wgqci22w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "10c1b0d30058",
+   "created_at": "2026-10-20T07:40:48Z"
+  },
   {
    "id": "e64089a71f5c",
    "ts": "2026-10-20T07:01:54Z",
@@ -5910,33 +5931,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyn3aw5yw2z",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyn3aw5yw2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e1977ddbcc10",
-   "created_at": "2026-10-16T13:01:24Z"
-  },
-  {
-   "id": "cbe2a4022b93",
-   "ts": "2026-10-16T12:57:54Z",
-   "headline": "German foreign minister says the US is still supporting Ukraine and Kyiv and Moscow will in the end have to negotiate",
-   "detail": "Germany's foreign minister was asked about relations between Trump and Ukraine. He said the US is essentially still providing support to Ukraine and that Ukraine and Russia will ultimately have to negotiate.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ba0b1944752d48c0",
-    "2d688cef09f62cbb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxymuj6no52f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxymuj6no52f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxymvawms624",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxymvawms624"
     }
    ],
    "model": "opus",
