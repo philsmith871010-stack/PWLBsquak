@@ -1,8 +1,110 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-19T21:46:47Z",
+ "generated_at": "2026-10-20T05:01:25Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5ad87683766c",
+   "ts": "2026-10-20T00:37:35Z",
+   "headline": "US 10-year Treasury yield holds at 5.14% after a 7bp rise; French unrest weighs on European bonds and the euro",
+   "detail": "A market wrap reports the US 10-year yield steady at 5.14% after rising seven basis points, with oil near elevated levels on Middle East supply risks. French political unrest was reported as adding pressure to European bonds and the euro.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "9d3ed8627a3b7d54"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybff65kwe2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybff65kwe2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d765679d05f7",
+   "created_at": "2026-10-20T05:01:25Z"
+  },
+  {
+   "id": "1d9cd140cbe2",
+   "ts": "2026-10-20T00:35:09Z",
+   "headline": "Trump says NATO allies refused to help the US in the Iran war and the US could be forced to leave Europe",
+   "detail": "The FT reports that the US President said NATO allies declined to assist in the war with Iran. He also said the US could be forced to leave Europe and called the situation very serious.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5120bb94f9211855",
+    "5c341d6de033ffec"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybervzd7j2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybervzd7j2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybfasxsxs2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybfasxsxs2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d765679d05f7",
+   "created_at": "2026-10-20T05:01:25Z"
+  },
+  {
+   "id": "2aeb388fbaab",
+   "ts": "2026-10-19T23:52:42Z",
+   "headline": "10-year JGB futures fall 0.22 point in early Tokyo trade ahead of a 20-year bond sale",
+   "detail": "Benchmark 10-year Japanese government bond futures fell 0.22 point in early trade. Japan is due to sell 20-year government bonds.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4f69fa5d2c744726",
+    "8e8476893e1438fe"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybcuw2uyx2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybcuw2uyx2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myb7hseudq2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myb7hseudq2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d765679d05f7",
+   "created_at": "2026-10-20T05:01:25Z"
+  },
+  {
+   "id": "00be623f753b",
+   "ts": "2026-10-19T22:41:29Z",
+   "headline": "Trump administration has not approved sending interceptor missiles to Ukraine, Washington Post reports",
+   "detail": "According to the Washington Post, the US administration has not approved the transfer of interceptor missiles to Ukraine. Separately, US Vice President Vance said Ukraine should not join NATO.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fbe513682070664c",
+    "cfef16164a915e6a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myb6vkfpm42z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myb6vkfpm42z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybcvq2yon26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybcvq2yon26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d765679d05f7",
+   "created_at": "2026-10-20T05:01:25Z"
+  },
   {
    "id": "98a62588d895",
    "ts": "2026-10-19T21:40:13Z",
@@ -5864,90 +5966,6 @@
    "model": "opus",
    "run_id": "f5baabfd2307",
    "created_at": "2026-10-16T10:55:44Z"
-  },
-  {
-   "id": "4690a74cecd3",
-   "ts": "2026-10-16T10:41:23Z",
-   "headline": "BoE's Bailey says firms are cutting margins and costs rather than passing higher energy costs on to consumers",
-   "detail": "Bank of England Governor Andrew Bailey made the remarks at an International Monetary Fund event in Bangkok. He said businesses were holding back from passing on higher energy costs and were squeezing margins and cutting costs instead.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "8f05ad959efe0c85"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mxyftf2onhz2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mxyftf2onhz2"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f5baabfd2307",
-   "created_at": "2026-10-16T10:55:44Z"
-  },
-  {
-   "id": "d9c00a514378",
-   "ts": "2026-10-16T10:32:11Z",
-   "headline": "Russia's Novak says contracts must be in place before diesel supplies can begin, Interfax reports",
-   "detail": "Russian Deputy Prime Minister Alexander Novak said contracts were needed before diesel deliveries could start, according to Interfax. The post gave no further details.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "5e22673aa6b2a920"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyeqpd5jy2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyeqpd5jy2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0f90e7a9224f",
-   "created_at": "2026-10-16T10:35:40Z"
-  },
-  {
-   "id": "3f8cda3b7c3c",
-   "ts": "2026-10-16T10:30:49Z",
-   "headline": "Russia's Novak says the country has enough diesel to keep exporting despite refinery repairs",
-   "detail": "Russian Deputy Prime Minister Alexander Novak said diesel supplies are sufficient for exports while refineries are being repaired. Ukraine's strikes on Russian refineries are already a running story on the blotter.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "78e780867619326e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyeoasrc324",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyeoasrc324"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cff25e4abcff",
-   "created_at": "2026-10-16T10:31:04Z"
-  },
-  {
-   "id": "f6609a870737",
-   "ts": "2026-10-16T10:18:47Z",
-   "headline": "US Treasuries are on course for their best week since February as AI concerns pause the bond sell-off, FT reports",
-   "detail": "The Financial Times reports that US government borrowing costs have come down from their highest levels in decades as investors move into government debt for safety.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "59ff5716c0b7bb01"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mxydyqfbdo2i",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mxydyqfbdo2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "44e37e8c1c92",
-   "created_at": "2026-10-16T10:20:49Z"
   }
  ]
 }
