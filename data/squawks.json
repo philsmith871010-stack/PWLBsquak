@@ -1,8 +1,86 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T12:35:47Z",
+ "generated_at": "2026-10-20T12:40:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cc5acaba1835",
+   "ts": "2026-10-20T12:39:51Z",
+   "headline": "All 100 economists in a poll expect a Fed rate hike in December; 94 see a hold at the 27-28 October meeting",
+   "detail": "In the poll, 94 of 100 economists expect the fed funds rate to stay at 3.75%-4.00% this month and the rest expect a hike to 4.00%-4.25%. 94 of 100 see 4.00%-4.25% by the end of 2026, compared with 29 of 76 in the September poll.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d4d9fe918afd5039",
+    "2f3344c6639ea7d4",
+    "fb3e64a13f728e4e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycnptwe5e2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycnptwe5e2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycnqnxh6k2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycnqnxh6k2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycnqolzzs2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycnqolzzs2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4e902892c5d8",
+   "created_at": "2026-10-20T12:40:52Z"
+  },
+  {
+   "id": "96f1109922bb",
+   "ts": "2026-10-20T12:39:14Z",
+   "headline": "New EU Arctic strategy aims to keep oil, coal and gas in the ground, including in Arctic regions",
+   "detail": "The European Commission says it will work with partners to prevent hydrocarbon reserve developments that threaten the Arctic ecosystem. Commission President von der Leyen says the EU must change its strategic posture in the Arctic.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "af7e6f79066e9047",
+    "f9aaf530564556c9",
+    "5ac602e9fad97ba0",
+    "947332df2f849a5b",
+    "2e27c6625fc34060"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycnpl7ky32y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycnpl7ky32y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycnopq6vu2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycnopq6vu2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycnjoveo32w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycnjoveo32w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycnjwebme2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycnjwebme2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycnlee6xy2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycnlee6xy2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4e902892c5d8",
+   "created_at": "2026-10-20T12:40:52Z"
+  },
   {
    "id": "037cc968d42f",
    "ts": "2026-10-20T12:34:01Z",
@@ -5792,48 +5870,6 @@
    "model": "opus",
    "run_id": "ffbd87cf0580",
    "created_at": "2026-10-16T15:55:41Z"
-  },
-  {
-   "id": "afc42a3684ad",
-   "ts": "2026-10-16T15:51:45Z",
-   "headline": "Brent climbs to session highs and trades near $107 a barrel",
-   "detail": "Market reports say oil prices rose to their highs of the session, with Brent near $107/bbl. The move came as Russian officials reported strikes on Ukrainian energy infrastructure.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "a65d86d0672070de"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxywm53jsj2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxywm53jsj2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ffbd87cf0580",
-   "created_at": "2026-10-16T15:55:41Z"
-  },
-  {
-   "id": "f1e753dfeb1b",
-   "ts": "2026-10-16T15:50:29Z",
-   "headline": "Russia's Gerasimov tells Putin the army has begun strikes on Ukrainian energy facilities and plans to hit strategic bridges",
-   "detail": "Russia's Chief of the General Staff, Valery Gerasimov, reported to President Putin that strikes on Ukraine's energy facilities have begun and that strategic bridges are also planned targets, according to reports from Russia.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4a11e9548ff1154f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxywjuqofr2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxywjuqofr2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "861becba76d2",
-   "created_at": "2026-10-16T15:50:51Z"
   }
  ]
 }
