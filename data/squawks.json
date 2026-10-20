@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T13:40:49Z",
+ "generated_at": "2026-10-20T13:56:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c559ec3d9be5",
+   "ts": "2026-10-20T13:53:26Z",
+   "headline": "US Energy Under Secretary Haustveit says diesel prices are too high and the US is working with refiners to raise output",
+   "detail": "US Energy Under Secretary Haustveit said current diesel prices are higher than anyone would want and that officials are working with refiners on ways to increase production.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "f37c9ee39ecaac1c",
+    "0d3f5bd7a30048fb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycrubd5632s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycrubd5632s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycryjnffl2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycryjnffl2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "985ee0225d1b",
+   "created_at": "2026-10-20T13:56:03Z"
+  },
   {
    "id": "cab53bf32983",
    "ts": "2026-10-20T13:36:26Z",
@@ -5999,27 +6026,6 @@
    "model": "opus",
    "run_id": "1a94ad9a7664",
    "created_at": "2026-10-16T17:15:45Z"
-  },
-  {
-   "id": "c254b7493411",
-   "ts": "2026-10-16T17:10:30Z",
-   "headline": "France's Macron says the US-Russia diesel deal is unhelpful and breeds doubt and defiance",
-   "detail": "French President Macron criticised the US diesel deal with Russia on Friday. Ukraine's Zelensky and US lawmakers had already objected to the deal.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "fb29374b25feae47"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2yx7ejz2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2yx7ejz2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "61766bdf6a9b",
-   "created_at": "2026-10-16T17:10:53Z"
   }
  ]
 }
