@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T12:40:52Z",
+ "generated_at": "2026-10-20T12:45:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "64c03025ec9d",
+   "ts": "2026-10-20T12:45:41Z",
+   "headline": "Qatar and Pakistan put forward a compromise proposal in US-Iran talks, Al-Araby Al-Jadeed reports",
+   "detail": "Al-Araby Al-Jadeed, citing sources familiar with the mediation, reports that Qatar and Pakistan have presented a compromise proposal intended to meet both US and Iranian demands. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6c5ecaccfc0b9258"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myco346xhu2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myco346xhu2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3fca166022a2",
+   "created_at": "2026-10-20T12:45:47Z"
+  },
   {
    "id": "cc5acaba1835",
    "ts": "2026-10-20T12:39:51Z",
@@ -5825,51 +5846,6 @@
    "model": "opus",
    "run_id": "d7d658d9127d",
    "created_at": "2026-10-16T16:01:18Z"
-  },
-  {
-   "id": "1955666eb831",
-   "ts": "2026-10-16T15:52:10Z",
-   "headline": "Putin says Russia's offensive is running along the whole front line at a faster pace and calls the capture of Dobropillya significant",
-   "detail": "Russian reports say Putin described taking Dobropillya as opening the way to the DPR's borders, said taking the DPR remains a main task and called for better protection of civilian infrastructure. Russia's chief of general staff Gerasimov said the armed forces had launched massive strikes on Ukrainian energy facilities.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1244cf7f405a9439",
-    "18e5e68c0b66de55",
-    "858a18ddc04f589d",
-    "39305bd86f210628",
-    "53a26e55c528fbac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxywmuljse2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxywmuljse2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxywm4gdht2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxywm4gdht2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxywocaxes2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxywocaxes2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxywsoffat2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxywsoffat2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxywkmdpkk2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxywkmdpkk2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ffbd87cf0580",
-   "created_at": "2026-10-16T15:55:41Z"
   }
  ]
 }
