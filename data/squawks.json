@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T12:01:15Z",
+ "generated_at": "2026-10-20T12:15:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5dcecbd5461e",
+   "ts": "2026-10-20T12:13:09Z",
+   "headline": "Gilts outperform G7 peers as investor concern over the UK Budget fades, FT reports",
+   "detail": "The Financial Times reports that UK government bonds sold off heavily when the Iran war began but have since done better than other G7 markets. It says traders' focus has moved to France.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "0b96028ee4958de8"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mycmawonto2m",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mycmawonto2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b502b36de22f",
+   "created_at": "2026-10-20T12:15:54Z"
+  },
   {
    "id": "a8c06aa5396d",
    "ts": "2026-10-20T11:58:01Z",
@@ -5831,27 +5852,6 @@
    "model": "opus",
    "run_id": "182eaec62d87",
    "created_at": "2026-10-16T15:05:42Z"
-  },
-  {
-   "id": "79f513264ce8",
-   "ts": "2026-10-16T14:57:31Z",
-   "headline": "UK consumer confidence slips to a five-month low in October, LSEG/Ipsos survey shows",
-   "detail": "The monthly LSEG/Ipsos survey shows UK consumer confidence edged lower in October to its weakest level in five months. The post gave no index figure.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "b14b5516508ef3f5"
-   ],
-   "sources": [
-    {
-     "author": "bruceandy.bsky.social",
-     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3mxytl634ss2j",
-     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3mxytl634ss2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8bc69da2bf67",
-   "created_at": "2026-10-16T15:01:19Z"
   }
  ]
 }
