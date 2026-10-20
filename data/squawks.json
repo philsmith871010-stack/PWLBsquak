@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T19:31:06Z",
+ "generated_at": "2026-10-20T19:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8a8101a5d84d",
+   "ts": "2026-10-20T19:34:01Z",
+   "headline": "Kyiv rebukes Trump over his openness to meeting Russian and Chinese leaders, and says the US has cut military intelligence sharing",
+   "detail": "Semafor reports that the rift between Washington and Ukraine has widened after Trump said he was open to meeting his Russian and Chinese counterparts. Ukraine says the US has scaled back the military intelligence it shares.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "29a906a4c250d38e"
+   ],
+   "sources": [
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mydevb725v2n",
+     "url": "https://bsky.app/profile/semafor.com/post/3mydevb725v2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1b2e4ead5d43",
+   "created_at": "2026-10-20T19:35:43Z"
+  },
   {
    "id": "688e909ab968",
    "ts": "2026-10-20T19:27:01Z",
@@ -5771,27 +5792,6 @@
    "model": "opus",
    "run_id": "930024f74111",
    "created_at": "2026-10-19T09:55:39Z"
-  },
-  {
-   "id": "bd186742368a",
-   "ts": "2026-10-19T07:25:12Z",
-   "headline": "Chancellor Healey reportedly weighs income tax on family business handovers before his first Budget",
-   "detail": "City AM, citing a report, says Chancellor John Healey is considering charging income tax when owners pass companies to their children, which could nearly double the tax bill. The report says the plans are aimed at avoiding spending cuts.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "a7046bf964a35276"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3my7saomh3l42",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3my7saomh3l42"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8b5fb6342e15",
-   "created_at": "2026-10-19T09:25:41Z"
   }
  ]
 }
