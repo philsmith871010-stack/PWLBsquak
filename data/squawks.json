@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T18:55:42Z",
+ "generated_at": "2026-10-20T19:01:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ff95a00dbf90",
+   "ts": "2026-10-20T18:58:28Z",
+   "headline": "Trump says Putin and Zelenskyy need not meet in person to sign a Ukraine peace deal, and calls for the war to end",
+   "detail": "US President Trump said it is difficult for the Russian and Ukrainian leaders to be in the same room and that an agreement could be signed another way. He also said it was time for the two sides to end the war. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3027b617ccf514c7",
+    "1146e096aabc6819",
+    "f21bacc2bfb92068"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydcvogcjw2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydcvogcjw2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydcwkgyhh2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydcwkgyhh2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydcsy2tux2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydcsy2tux2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "34b7ae5655e2",
+   "created_at": "2026-10-20T19:01:17Z"
+  },
   {
    "id": "c3c869e2d9bd",
    "ts": "2026-10-20T18:52:34Z",
@@ -5765,27 +5798,6 @@
    "model": "opus",
    "run_id": "dbe9d4d34997",
    "created_at": "2026-10-19T08:31:04Z"
-  },
-  {
-   "id": "cd552df4317e",
-   "ts": "2026-10-19T08:24:26Z",
-   "headline": "Goldman Sachs says its cross-asset sentiment and positioning gauge falls to its lowest since April",
-   "detail": "Goldman Sachs says its sentiment and positioning indicator has fallen to its lowest level since April and has decoupled from strong global PMIs. The bank points to stronger fixed income fund flows, positioning in gold and the yen, and a sharp fall in hedge fund net leverage.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6b6c31464ba40107"
-   ],
-   "sources": [
-    {
-     "author": "chriswhittall.bsky.social",
-     "uri": "at://did:plc:mw33frnll5jjux3vvkfyyrdt/app.bsky.feed.post/3my7oyzf7h22u",
-     "url": "https://bsky.app/profile/chriswhittall.bsky.social/post/3my7oyzf7h22u"
-    }
-   ],
-   "model": "opus",
-   "run_id": "52d8e44bfdfd",
-   "created_at": "2026-10-19T08:25:43Z"
   }
  ]
 }
