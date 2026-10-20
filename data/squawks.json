@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T12:50:48Z",
+ "generated_at": "2026-10-20T13:05:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "97f6398727b5",
+   "ts": "2026-10-20T13:02:20Z",
+   "headline": "Iran accepts secret IAEA site inspections as part of the compromise proposal in US talks, Al-Araby Al-Jadeed reports",
+   "detail": "Al-Araby Al-Jadeed reports that Iran has agreed to secret inspections of sites by the IAEA under the compromise proposal in US-Iran negotiations. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2f65b3ae77a5b8ac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycoyum3ev24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycoyum3ev24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e0975b9c5837",
+   "created_at": "2026-10-20T13:05:46Z"
+  },
   {
    "id": "dcf330bc24d0",
    "ts": "2026-10-20T12:46:06Z",
@@ -5831,33 +5852,6 @@
    "model": "opus",
    "run_id": "0a7b82f3d5e2",
    "created_at": "2026-10-16T16:35:38Z"
-  },
-  {
-   "id": "92bbc89431b8",
-   "ts": "2026-10-16T16:13:06Z",
-   "headline": "Putin orders the military to keep up massive strikes on Ukraine's defence industry and logistics centres",
-   "detail": "Russian President Vladimir Putin told the military to keep carrying out massive and group strikes on Ukraine's military-industrial sites and logistics centres, according to reports. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c09ff2895548a9be",
-    "79d396f7a189031d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyxsauqql2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyxsauqql2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyxscffog2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyxscffog2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c5297e40d8e3",
-   "created_at": "2026-10-16T16:15:49Z"
   }
  ]
 }
