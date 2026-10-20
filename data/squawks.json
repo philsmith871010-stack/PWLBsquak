@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T16:35:42Z",
+ "generated_at": "2026-10-20T16:55:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "89010d060973",
+   "ts": "2026-10-20T16:55:09Z",
+   "headline": "Iran's Revolutionary Guards navy says a supertanker carrying more than 2 mln barrels of crude exploded after hitting a mine near Hormuz",
+   "detail": "Iranian media, including IRIB News, carried the Revolutionary Guards navy's account. It said the tanker, which it called 'violating', exploded after striking a mine south of the Strait of Hormuz and was carrying over 2 mln barrels of crude. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b5b7cb56928548e3",
+    "f30e4ab860cc5505"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd3z737k22m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd3z737k22m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd3xgk6jl2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd3xgk6jl2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "994071547113",
+   "created_at": "2026-10-20T16:55:42Z"
+  },
   {
    "id": "570d952fb278",
    "ts": "2026-10-20T16:33:54Z",
@@ -6000,27 +6027,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kusabue2f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kusabue2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ded27e83e38a",
-   "created_at": "2026-10-19T05:15:49Z"
-  },
-  {
-   "id": "355be6f0594c",
-   "ts": "2026-10-18T18:28:17Z",
-   "headline": "City of London Corporation considers tax rises and service cuts to close a £70mn budget gap",
-   "detail": "The FT reports that the Corporation is preparing for the government's overhaul of local authority funding, and that the Barbican Centre's future is uncertain.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "548e2c45ef7005db"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3my6abv5lnw2i",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3my6abv5lnw2i"
     }
    ],
    "model": "opus",
