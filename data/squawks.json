@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T15:25:46Z",
+ "generated_at": "2026-10-20T15:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c1496470a4c5",
+   "ts": "2026-10-20T15:27:18Z",
+   "headline": "US Energy Secretary Wright says any Russian diesel imported to the US would most likely go to New England",
+   "detail": "US Energy Secretary Wright said Russian diesel coming to the US under the proposed US-Russia diesel arrangement would probably be sent to New England. No market reaction was reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "c8c6a56a9b8979a4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycx43lzdp2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycx43lzdp2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "74f54b09cc38",
+   "created_at": "2026-10-20T15:31:03Z"
+  },
   {
    "id": "4b5c9303924a",
    "ts": "2026-10-20T15:25:10Z",
@@ -6012,33 +6033,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz6d4s4vk2n",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz6d4s4vk2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2d28656b7919",
-   "created_at": "2026-10-16T18:10:55Z"
-  },
-  {
-   "id": "23a8f3a21112",
-   "ts": "2026-10-16T18:06:31Z",
-   "headline": "US posts a $26.9bn budget deficit for September",
-   "detail": "The US Treasury reported a September budget deficit of $26.9bn, the final month of a fiscal year in which the deficit reached $1.992trn.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "820521514362e8e8",
-    "a52a8642e498daca"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz654ukyh2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz654ukyh2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz65tpxlx2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz65tpxlx2y"
     }
    ],
    "model": "opus",
