@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T06:15:50Z",
+ "generated_at": "2026-10-20T07:01:12Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bd6d66bdf6d6",
+   "ts": "2026-10-20T07:00:55Z",
+   "headline": "Saudi Arabia commits to supplying France with 95k tons of diesel a month",
+   "detail": "Saudi Arabia has committed to supply France with 95k tons of diesel per month, according to a market news post. No further terms or timing were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "76edd3bdfce9e110"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc2smgppn2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc2smgppn2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1a2af5b10ddd",
+   "created_at": "2026-10-20T07:01:12Z"
+  },
   {
    "id": "be78b665d4e5",
    "ts": "2026-10-20T06:10:58Z",
@@ -5915,45 +5936,6 @@
    "model": "opus",
    "run_id": "0155575f0798",
    "created_at": "2026-10-16T12:50:49Z"
-  },
-  {
-   "id": "498d07dbe5ea",
-   "ts": "2026-10-16T12:42:25Z",
-   "headline": "German foreign minister says accommodating Putin would be the wrong signal and warns Russia's Black Sea actions put food supplies at risk",
-   "detail": "Germany's foreign minister also says the Mercosur trade deal is already delivering positive results and that EU budget negotiations must be concluded this year.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ee54a94683389761",
-    "5df5e54564e27653",
-    "6b7331072809585a",
-    "cebcc2f5b0c6adbf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxylzl2jvs2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxylzl2jvs2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxym2zu5vx2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxym2zu5vx2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyly27rjg2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyly27rjg2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxym57kkgf26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxym57kkgf26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9df0de769c4c",
-   "created_at": "2026-10-16T12:45:47Z"
   }
  ]
 }
