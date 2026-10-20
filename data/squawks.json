@@ -1,8 +1,86 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T17:01:14Z",
+ "generated_at": "2026-10-20T17:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6d9123dc79fc",
+   "ts": "2026-10-20T17:02:22Z",
+   "headline": "BoE's Greene says wage disinflation has stalled above 2%-consistent levels and second-round inflation risk is greater than thought",
+   "detail": "MPC member Megan Greene said forward-looking data point to pay growth closer to 3.5%, the economy has been surprisingly resilient and labour market slack may have peaked. She said she still believes the MPC should lean proactively against the risk of second-round inflation effects.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "d8e64ce2e7a4b973",
+    "0b8196fe951c43ca",
+    "459490d67b7e3bfc",
+    "c4f36da8e45ef936",
+    "c0b4629ef572b7bd",
+    "3d20e7952ec2351a",
+    "03da4f5307d95468"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4g3thpg2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4g3thpg2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4hd7udz26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4hd7udz26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4hkck5o2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4hkck5o2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4hn4jzo2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4hn4jzo2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4iqlish24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4iqlish24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4iwfqzf2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4iwfqzf2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4k27mgk26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4k27mgk26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d8d6e3d4e255",
+   "created_at": "2026-10-20T17:05:40Z"
+  },
+  {
+   "id": "fc47764d8fd9",
+   "ts": "2026-10-20T17:02:11Z",
+   "headline": "Iran's top security official Rezaei tells Pakistan's army chief Munir there will be no talks with the US until Tehran's conditions are met",
+   "detail": "Iran's top security official gave the message to Pakistan's army chief, who has been carrying a compromise proposal in the US-Iran talks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2f3cb88bf2400548"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4frj4w32r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4frj4w32r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d8d6e3d4e255",
+   "created_at": "2026-10-20T17:05:40Z"
+  },
   {
    "id": "96613a07112c",
    "ts": "2026-10-20T16:57:55Z",
@@ -5931,72 +6009,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6sihqjok2w",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6sihqjok2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3ec3071a95f2",
-   "created_at": "2026-10-19T05:20:50Z"
-  },
-  {
-   "id": "94729489a466",
-   "ts": "2026-10-18T23:01:00Z",
-   "headline": "UK-listed company profit warnings hit their highest level in nearly two years as energy costs rise, EY says",
-   "detail": "EY analysis shows London-listed companies issued 65 profit warnings over the summer, up from 59 in the second quarter, with higher energy costs linked to the Iran war among the causes cited.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "ec406bfbf8536c3c"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3my6pmdamymi2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3my6pmdamymi2"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3ec3071a95f2",
-   "created_at": "2026-10-19T05:20:50Z"
-  },
-  {
-   "id": "bcd2227c255e",
-   "ts": "2026-10-18T21:38:52Z",
-   "headline": "Trump says his recent Russia moves are meant to keep Moscow in peace talks and reports great progress",
-   "detail": "Trump said signing a Russia document now could push Moscow out of the talks, told Russia to stay away from supporting Iran, and criticised Ukraine's strikes on Russian diesel refineries for hurting global diesel markets. Separately, the UK reaffirmed its support for tougher sanctions on Russia.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "81ef43d99cfa1e2f",
-    "b05f94bf18be486b",
-    "8f34d7821bbeee67",
-    "6698f3116bc9c649",
-    "350c107774a46a7b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kwnpha42f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kwnpha42f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kwttyn226",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kwttyn226"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kwubcgh2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kwubcgh2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kx3uzxx2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kx3uzxx2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kwfadme2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kwfadme2v"
     }
    ],
    "model": "opus",
