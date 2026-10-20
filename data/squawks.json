@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T19:01:17Z",
+ "generated_at": "2026-10-20T19:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0b7f7861f5e0",
+   "ts": "2026-10-20T19:04:23Z",
+   "headline": "No Canada-US trade deal is expected before the US midterm elections, CBC reports",
+   "detail": "Canadian broadcaster CBC reports that a trade agreement between Canada and the US is not expected before the US midterms. Earlier, Canada's trade minister for US relations said talks were continuing.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "87778168699fcc04"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myddabonid26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myddabonid26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e2befb84f457",
+   "created_at": "2026-10-20T19:05:41Z"
+  },
   {
    "id": "ff95a00dbf90",
    "ts": "2026-10-20T18:58:28Z",
@@ -5777,27 +5798,6 @@
    "model": "opus",
    "run_id": "98d43320001c",
    "created_at": "2026-10-19T08:35:43Z"
-  },
-  {
-   "id": "0d2fdb16d49f",
-   "ts": "2026-10-19T08:30:18Z",
-   "headline": "PBOC governor says China will launch a liquidity support tool for large-scale redemptions at non-bank institutions",
-   "detail": "The People's Bank of China governor announced plans for a liquidity facility to support non-bank financial institutions facing large-scale redemptions. No size or timing was given.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6ea11404ab65234a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7pdjlliq2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7pdjlliq2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dbe9d4d34997",
-   "created_at": "2026-10-19T08:31:04Z"
   }
  ]
 }
