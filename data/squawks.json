@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T19:45:53Z",
+ "generated_at": "2026-10-20T20:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d0bfb3ee8988",
+   "ts": "2026-10-20T20:03:02Z",
+   "headline": "US official says the US, Ukraine and Europe are strongly aligned at working level on next steps, ahead of Witkoff's Wednesday talks with…",
+   "detail": "A US official said Ukraine put forward new proposals and the talks covered parts of a comprehensive peace framework, including security guarantees. Envoy Witkoff is due to meet President Putin on Wednesday, with Kushner joining virtually, to discuss the proposals with Russia.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "18bdd8795cb40786",
+    "8f3a8cceacdb5a5a",
+    "6d41d488aacf3b8a",
+    "3e1d63d6cf2d0c09",
+    "7025afdaea2b3ccf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydghzqawv2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydghzqawv2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydgiudrdx24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydgiudrdx24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydgiwlikq2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydgiwlikq2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydgj5wsba2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydgj5wsba2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydgkaqyde2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydgkaqyde2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "99b4e3cc42aa",
+   "created_at": "2026-10-20T20:05:40Z"
+  },
   {
    "id": "07e88d290c80",
    "ts": "2026-10-20T19:45:42Z",
@@ -5735,57 +5780,6 @@
    "model": "opus",
    "run_id": "0f67d6fc1491",
    "created_at": "2026-10-19T10:50:47Z"
-  },
-  {
-   "id": "f127d05173f4",
-   "ts": "2026-10-19T10:35:05Z",
-   "headline": "French PM Lecornu orders partial curfews after riots and says the finance ministry can fully fund short-time working",
-   "detail": "French Prime Minister Lecornu said he had asked prefectures and some local authorities to impose partial curfews tonight, that the government will support business, and that the finance ministry can fund short-time working at 100%. He said about 80% of those still in custody will be prosecuted.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7c4fb78bf2792768",
-    "0d353a61eafbcdc8",
-    "001908995c610797",
-    "129d9239954920c3",
-    "00df25ab9f65d197",
-    "66fb8e6a7e924ca2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7w75ovek2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7w75ovek2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7w7et25j2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7w7et25j2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7wawsip32v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7wawsip32v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7wcnt6ab2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7wcnt6ab2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7w45eteb2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7w45eteb2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7w4xtawl2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7w4xtawl2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9bbdec2ce9e6",
-   "created_at": "2026-10-19T10:35:40Z"
   }
  ]
 }
