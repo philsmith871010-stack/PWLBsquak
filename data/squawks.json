@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T19:10:53Z",
+ "generated_at": "2026-10-20T19:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4cc33760548d",
+   "ts": "2026-10-20T19:12:48Z",
+   "headline": "Trump says oil prices will fall sharply once the Iran war ends",
+   "detail": "The US President made the comment during remarks at the White House on 20 October, which have now ended. No market reaction was reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "b1129332b68adb27"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myddpdj24i2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myddpdj24i2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e1fbc35a127c",
+   "created_at": "2026-10-20T19:15:52Z"
+  },
   {
    "id": "d7b228059a5d",
    "ts": "2026-10-20T19:08:24Z",
@@ -5771,27 +5792,6 @@
    "model": "opus",
    "run_id": "568591e54ef3",
    "created_at": "2026-10-19T09:20:51Z"
-  },
-  {
-   "id": "ff8e7d770c30",
-   "ts": "2026-10-19T08:50:22Z",
-   "headline": "PBOC governor says the bank will study moving its main open market operation tenor to overnight at an appropriate time",
-   "detail": "China's central bank governor said the change would aim to make interest rate regulation more precise, according to Chinese state media.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "dd03054941afced0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7qhg6ttu2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7qhg6ttu2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "655b976d0c38",
-   "created_at": "2026-10-19T08:50:48Z"
   }
  ]
 }
