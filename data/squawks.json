@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T14:45:51Z",
+ "generated_at": "2026-10-20T14:55:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "71962790c4fb",
+   "ts": "2026-10-20T14:53:59Z",
+   "headline": "Trump administration recently came close to approving a strike on Iran, i24NEWS reports",
+   "detail": "Israeli broadcaster i24NEWS reports that the US administration recently came close to authorising a strike on Iran. The report comes as US-Iran talks over a compromise proposal continue; no market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "035810e148d74aff"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycvajke442f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycvajke442f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0ceac52a6594",
+   "created_at": "2026-10-20T14:55:42Z"
+  },
   {
    "id": "ee161644d4c5",
    "ts": "2026-10-20T14:45:11Z",
@@ -6023,27 +6044,6 @@
    "model": "opus",
    "run_id": "d0bd965f61e2",
    "created_at": "2026-10-16T17:45:46Z"
-  },
-  {
-   "id": "eac33d52839b",
-   "ts": "2026-10-16T17:30:29Z",
-   "headline": "Resolution Foundation says the UK has had the equivalent of 13 years of normal inflation in five years",
-   "detail": "The Resolution Foundation says the UK has had about 13 years' worth of normal inflation over the past five years. It also says the cost of living crisis hit the UK harder than other countries.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "1e85be3c549351a6"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mxz44oxtzz2z",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mxz44oxtzz2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "709cc41eabfa",
-   "created_at": "2026-10-16T17:31:06Z"
   }
  ]
 }
