@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T21:50:48Z",
+ "generated_at": "2026-10-20T21:55:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cc6ab382c1b5",
+   "ts": "2026-10-20T21:51:38Z",
+   "headline": "RBA's Hauser notes some easing in jobs and housing data but says inflation has stayed high for an extended period",
+   "detail": "Reserve Bank of Australia Deputy Governor Andrew Hauser said monetary policy is working but the inflation outlook has worsened, and inflation expectations must stay anchored to target. He also said some easing has been seen in labour market and housing data.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "40fbd3189c9b4932",
+    "efc01e89008899aa",
+    "c027b1f633a2e034",
+    "9c42a2922bb12a18"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydmki7ls22z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydmki7ls22z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydmlbrydf2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydmlbrydf2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydmldomvd2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydmldomvd2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydmmtwxpp2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydmmtwxpp2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6a60e34c36a8",
+   "created_at": "2026-10-20T21:55:43Z"
+  },
   {
    "id": "82cc99b59ef6",
    "ts": "2026-10-20T21:50:13Z",
@@ -5730,27 +5769,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mya5c77ptw2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mya5c77ptw2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c75c3ccd32e0",
-   "created_at": "2026-10-19T12:40:50Z"
-  },
-  {
-   "id": "cecc53e5480a",
-   "ts": "2026-10-19T12:36:42Z",
-   "headline": "Swap pricing for a Bank of Canada rate hike in October falls to 68% from 74% after Canadian CPI data",
-   "detail": "Swap market data put the chance of a Bank of Canada hike in October at 68%, down from 74% before the September inflation release.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "49d5be2b2e7ff461"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mya544mzyn2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mya544mzyn2s"
     }
    ],
    "model": "opus",
