@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T11:01:14Z",
+ "generated_at": "2026-10-20T11:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e4a680e9dd27",
+   "ts": "2026-10-20T11:23:13Z",
+   "headline": "Starmer's spokesman rejects the idea that the UK risks being drawn into the Saudi-Houthi war",
+   "detail": "The Prime Minister's spokesman said the government does not accept that the UK risks being pulled into the Saudi-Houthi conflict. This follows the UK's decision to fly defensive missions over Saudi Arabia.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "61771a503feb4265"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycjhnavzk2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycjhnavzk2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6ad96afae06b",
+   "created_at": "2026-10-20T11:25:42Z"
+  },
+  {
+   "id": "223ea3ece410",
+   "ts": "2026-10-20T11:21:54Z",
+   "headline": "European benchmark gas price rises above €90 for the first time since 2022",
+   "detail": "Europe's benchmark gas contract has traded above €90 for the first time since 2022, according to a market report. Middle East supply tensions are already on the blotter.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "2a50cd11e9b0e327"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycjfclizv2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycjfclizv2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6ad96afae06b",
+   "created_at": "2026-10-20T11:25:42Z"
+  },
+  {
+   "id": "3a5e94deb71c",
+   "ts": "2026-10-20T11:21:23Z",
+   "headline": "Google Cloud outage disrupts UK banks including Halifax and Revolut",
+   "detail": "The FT reports that a Google Cloud outage has hit several businesses, including UK lenders Halifax and Revolut. Google says a power outage caused the failure of its Cloud services.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "32e6c7104e8c73cc",
+    "353fe458e9de3c5a"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mycjeece2u27",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mycjeece2u27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycjjwv6m32r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycjjwv6m32r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6ad96afae06b",
+   "created_at": "2026-10-20T11:25:42Z"
+  },
   {
    "id": "674cb3c28a84",
    "ts": "2026-10-20T10:57:28Z",
@@ -5789,111 +5858,6 @@
    "model": "opus",
    "run_id": "d3f1c4097f8c",
    "created_at": "2026-10-16T14:45:52Z"
-  },
-  {
-   "id": "aa3f0dc7e05b",
-   "ts": "2026-10-16T14:42:03Z",
-   "headline": "Germany's Merz says Italy largely backs the German-French plan to phase out coal-fired power stations by 2035",
-   "detail": "German Chancellor Merz said Italy is largely in agreement with a joint German-French proposal to phase out coal-fired power generation by 2035.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "4a393ff46b08f074"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyspime7s2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyspime7s2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d3f1c4097f8c",
-   "created_at": "2026-10-16T14:45:52Z"
-  },
-  {
-   "id": "c8530c99933a",
-   "ts": "2026-10-16T14:39:51Z",
-   "headline": "Germany's Merz says the EU budget needs further cuts and expects another European Council meeting in November",
-   "detail": "German Chancellor Merz said the European budget must be reduced further and that additional European Council meetings are expected in November. He said he hopes for a budget agreement before the end of the year but is not sure it will happen.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d1d3d1cc8b406ead",
-    "c41d95c68ebe3f90",
-    "1f4d4f7864e74939",
-    "f4eaed85c185b7ca"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyslkoa5q2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyslkoa5q2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxysmcnvmj2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxysmcnvmj2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxysmdhmfw2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxysmdhmfw2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxysnaci4l2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxysnaci4l2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1cb325e567a6",
-   "created_at": "2026-10-16T14:40:55Z"
-  },
-  {
-   "id": "933d6c4f088d",
-   "ts": "2026-10-16T14:28:49Z",
-   "headline": "Putin envoy Dmitriev says Russia and the US are discussing joint data centre projects and will announce more initiatives soon",
-   "detail": "Kremlin envoy Kirill Dmitriev said the projects could draw on power from Russian nuclear stations. He said further joint initiatives beyond the diesel deal would be announced soon, and some would go ahead before Russia's military operation in Ukraine ends.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d7331baec7215f91",
-    "9737828942c27ee2",
-    "91b83546d06da2f8",
-    "7538c1a57a87f1c6",
-    "938437ac67d33390"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyrxtehcz2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyrxtehcz2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyryktjdt2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyryktjdt2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyrylhatt2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyrylhatt2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxys7fkn6l2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxys7fkn6l2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyscgz7x32q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyscgz7x32q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "08d42e784089",
-   "created_at": "2026-10-16T14:35:40Z"
   }
  ]
 }
