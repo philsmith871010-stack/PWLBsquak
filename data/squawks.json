@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T05:55:38Z",
+ "generated_at": "2026-10-20T06:01:11Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "abc2f3879865",
+   "ts": "2026-10-20T06:01:07Z",
+   "headline": "UK regular pay growth picks up to 3.7%, above 3.6% forecast; employment rises 13K against an expected 8K fall",
+   "detail": "UK average earnings excluding bonuses rose 3.7%, compared with a 3.6% forecast and 3.5% previously. Employment rose 13K after a 26K fall in the previous release, and the unemployment change was 30.3K, up from 27.8K.",
+   "category": "data",
+   "importance": 3,
+   "source_event_ids": [
+    "f7dc312d254570e9",
+    "5c4f83db8e497b04",
+    "95e5106dadf2c236"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxhoqyej2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxhoqyej2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxhk7otv2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxhk7otv2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxheqr4z2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxheqr4z2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fd4911c5a4b4",
+   "created_at": "2026-10-20T06:01:11Z"
+  },
+  {
+   "id": "9534157a50ab",
+   "ts": "2026-10-20T05:56:59Z",
+   "headline": "Japan's PM Takaichi says she does not expect to seek a mandate after the two-year tax cut",
+   "detail": "Japan's Prime Minister Takaichi also denied reports that an income limit of 3M yen had been set for benefits.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "15c852c9ab7c403a",
+    "bb915ae2808ccb81"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxaa4zd22w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxaa4zd22w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxabxv472s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxabxv472s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fd4911c5a4b4",
+   "created_at": "2026-10-20T06:01:11Z"
+  },
   {
    "id": "269040f3d4d2",
    "ts": "2026-10-20T05:52:42Z",
@@ -5858,66 +5918,6 @@
    "model": "opus",
    "run_id": "fb5033b9de3b",
    "created_at": "2026-10-16T12:20:48Z"
-  },
-  {
-   "id": "31bd35fb7652",
-   "ts": "2026-10-16T12:07:28Z",
-   "headline": "BoJ's Ueda says there is no evidence the neutral rate sits at any specific level",
-   "detail": "Bank of Japan Governor Ueda said there is no evidence that the neutral rate is around any particular level. He also said a policy shift comes when underlying inflation is close to 2%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "33b4b070d188f5b0",
-    "0fe391fcea8f2f7e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyk33mydm26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyk33mydm26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyk3snuvn2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyk3snuvn2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c79394ab58ac",
-   "created_at": "2026-10-16T12:10:46Z"
-  },
-  {
-   "id": "7b4f3cbfd3d6",
-   "ts": "2026-10-16T12:05:24Z",
-   "headline": "BoJ's Ueda says underlying inflation cannot be allowed to rise further above 2% and the focus is now on entrenching 2%",
-   "detail": "Bank of Japan Governor Ueda also said he wants to judge the estimate of the neutral rate after taking account of the cumulative effect of past rate rises on financial conditions and domestic prices.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "fb94dfd2e04ddeef",
-    "b55d7d697ed733d4",
-    "6ee695a7a896b5d2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyjv4ydse2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyjv4ydse2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyjxdzoc72r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyjxdzoc72r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyjxen5rp2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyjxen5rp2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2f56b4818df6",
-   "created_at": "2026-10-16T12:05:39Z"
   }
  ]
 }
