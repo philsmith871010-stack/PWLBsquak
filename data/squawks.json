@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T14:40:52Z",
+ "generated_at": "2026-10-20T14:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ee161644d4c5",
+   "ts": "2026-10-20T14:45:11Z",
+   "headline": "US single-family housing starts fall sharply in September; single-family permits drop to a three-and-a-half-year low",
+   "detail": "Reuters reports that US single-family homebuilding fell sharply in September. It says permits for future single-family construction fell to their lowest in three and a half years as higher mortgage rates held back demand.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0b99088774c3444e"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mycuqsf7sm2z",
+     "url": "https://bsky.app/profile/reuters.com/post/3mycuqsf7sm2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9958da42e82d",
+   "created_at": "2026-10-20T14:45:51Z"
+  },
   {
    "id": "8ad9921537aa",
    "ts": "2026-10-20T14:37:24Z",
@@ -6023,27 +6044,6 @@
    "model": "opus",
    "run_id": "709cc41eabfa",
    "created_at": "2026-10-16T17:31:06Z"
-  },
-  {
-   "id": "ee0fc431b0ab",
-   "ts": "2026-10-16T17:26:54Z",
-   "headline": "European Council President Costa calls for the EU long-term budget to be agreed by year-end",
-   "detail": "European Council President Costa said the EU's long-term budget needs to be agreed by the end of the year.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "05f821e9c329595a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz3wbcdgg2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz3wbcdgg2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e5c0b510ef61",
-   "created_at": "2026-10-16T17:27:59Z"
   }
  ]
 }
