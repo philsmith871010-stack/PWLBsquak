@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T08:20:49Z",
+ "generated_at": "2026-10-20T08:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a312aaff5b3e",
+   "ts": "2026-10-20T08:34:36Z",
+   "headline": "Iran's foreign ministry says Egypt's readiness to help Saudi Arabia in its war with the Houthis is worsening the situation",
+   "detail": "A spokesman for Iran's foreign ministry said Egypt's stated readiness to back Saudi Arabia against the Houthis is making the conflict worse. The remarks come after the Houthis claimed attacks on Saudi energy infrastructure.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4113e7ad452ee95c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myca24r3gz2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myca24r3gz2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "986a2a40c419",
+   "created_at": "2026-10-20T08:35:44Z"
+  },
   {
    "id": "fdaf3299a5c2",
    "ts": "2026-10-20T08:19:04Z",
@@ -5915,33 +5936,6 @@
    "model": "opus",
    "run_id": "f5974b0063f5",
    "created_at": "2026-10-16T13:50:47Z"
-  },
-  {
-   "id": "feaa8863aa22",
-   "ts": "2026-10-16T13:43:28Z",
-   "headline": "Russia's Novak says Russian diesel will help balance the global market and the deal with the US benefits all fuel consumers",
-   "detail": "Russian Deputy Prime Minister Alexander Novak made the remarks about the US-Russia diesel deal on 16 October.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "aa6184ca3971155c",
-    "c76c5019bc5090eb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxypgqnjs22f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxypgqnjs22f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyphhrkja2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyphhrkja2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "59cc411e670f",
-   "created_at": "2026-10-16T13:45:50Z"
   }
  ]
 }
