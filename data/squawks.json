@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T18:31:04Z",
+ "generated_at": "2026-10-20T18:45:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3a6ee3858839",
+   "ts": "2026-10-20T18:44:18Z",
+   "headline": "Rubio says a deal with Iran is extremely hard to reach because hardliners control Tehran",
+   "detail": "US Secretary of State Rubio said reaching an agreement with Iran is extremely difficult because hardliners are in control there. He spoke as US-Iran talks continue through Pakistani and Qatari mediation.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7b17923766577c6c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydc4eq5iy2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydc4eq5iy2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c4f28479ca58",
+   "created_at": "2026-10-20T18:45:53Z"
+  },
+  {
+   "id": "439c865b955d",
+   "ts": "2026-10-20T18:43:38Z",
+   "headline": "Trump says he must make a final decision on Iran, winning either the nice way or the not-so-nice way",
+   "detail": "The US President said Washington has to decide one way or the other on Iran. He also said he has to choose how the US wins against Tehran, by friendly means or otherwise.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c6d503901990d38d",
+    "d77a053e5d77cd21",
+    "cccda04d150fa51a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydc36hewz2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydc36hewz2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydc47gbi62w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydc47gbi62w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydc6yk6sj2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydc6yk6sj2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c4f28479ca58",
+   "created_at": "2026-10-20T18:45:53Z"
+  },
   {
    "id": "9160cc68c9ff",
    "ts": "2026-10-20T18:30:33Z",
@@ -5678,48 +5732,6 @@
    "model": "opus",
    "run_id": "41319855a36a",
    "created_at": "2026-10-19T07:40:48Z"
-  },
-  {
-   "id": "13efdd9eef88",
-   "ts": "2026-10-19T07:32:17Z",
-   "headline": "Russia strikes energy facilities in 11 Ukrainian regions overnight, Ukraine's deputy energy minister says",
-   "detail": "Ukraine's deputy energy minister reported overnight Russian attacks on energy infrastructure across 11 regions. Russia's chief of general staff had earlier told Putin that strikes on Ukrainian energy facilities had begun.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "98ae8a3cc5876168"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7m3rmhjo2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7m3rmhjo2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2ecdff0f7e6e",
-   "created_at": "2026-10-19T07:35:43Z"
-  },
-  {
-   "id": "8d47a241c9bf",
-   "ts": "2026-10-19T07:25:11Z",
-   "headline": "China expected to hold benchmark lending rates for a 17th straight month in October, Reuters poll shows",
-   "detail": "A Reuters survey shows China is expected to keep its benchmark lending rates unchanged in October. Reuters says Q3 GDP came in stronger than expected, which reduced the chances of easing in the near term.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "3d5ea970c176ac02"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3my7lp3ggrj2k",
-     "url": "https://bsky.app/profile/reuters.com/post/3my7lp3ggrj2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "024458b42568",
-   "created_at": "2026-10-19T07:25:40Z"
   }
  ]
 }
