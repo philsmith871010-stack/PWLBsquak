@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T16:55:42Z",
+ "generated_at": "2026-10-20T17:01:14Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "96613a07112c",
+   "ts": "2026-10-20T16:57:55Z",
+   "headline": "Lavrov says Russia will hear US envoys Witkoff and Kushner's proposals but will make no political concessions",
+   "detail": "Russian Foreign Minister Sergei Lavrov says Moscow will look at what US envoys Witkoff and Kushner put forward, but will not make political concessions.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2d354ad597a5e408"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd465hxlh2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd465hxlh2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8442e0274557",
+   "created_at": "2026-10-20T17:01:14Z"
+  },
+  {
+   "id": "e120a57f1904",
+   "ts": "2026-10-20T16:56:57Z",
+   "headline": "Iran's Revolutionary Guards warn ships off unauthorised routes in the Gulf and Sea of Oman and vow decisive action over Hormuz violations",
+   "detail": "Iran's Revolutionary Guards say vessel owners and crews are responsible if they use unauthorised routes in the Persian Gulf and Sea of Oman, and that breaches of security in the Strait will be dealt with decisively. The warning follows the Guards' report of a supertanker hitting a mine in the southern Strait of Hormuz.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "60c87cd763724048",
+    "36413181869beb06"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd44freff2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd44freff2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd42kz3h52s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd42kz3h52s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8442e0274557",
+   "created_at": "2026-10-20T17:01:14Z"
+  },
   {
    "id": "89010d060973",
    "ts": "2026-10-20T16:55:09Z",
@@ -5954,84 +6002,6 @@
    "model": "opus",
    "run_id": "3ec3071a95f2",
    "created_at": "2026-10-19T05:20:50Z"
-  },
-  {
-   "id": "d5512c84246e",
-   "ts": "2026-10-18T21:38:21Z",
-   "headline": "Zelenskyy offers to stop strikes on Russian refineries if the US sends more interceptors and accuses Trump of pushing Ukraine to capitulate",
-   "detail": "Ukraine's president proposed halting strikes on Russian oil refineries in return for more air-defence interceptors. He cited delayed Patriot deliveries, Starlink restrictions and eased Russia-related sanctions as US pressure for concessions to Russia.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "627f7fe8261c7517",
-    "925caa5edd61d174",
-    "7e498f8ef5b50ff3",
-    "902198a73a14c777",
-    "96971f10f8a8cc34"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kvqw6u72r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kvqw6u72r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kvyaxkh2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kvyaxkh2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kwcvyv226",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kwcvyv226"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kwcgvah2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kwcgvah2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kwddoco2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kwddoco2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ded27e83e38a",
-   "created_at": "2026-10-19T05:15:49Z"
-  },
-  {
-   "id": "20459f7ccf3c",
-   "ts": "2026-10-18T21:37:53Z",
-   "headline": "US Energy Secretary Wright says enforcement of the Graham sanctions on Russia is suspended for now, not ended",
-   "detail": "Wright said extra Russian diesel exports would benefit US consumers and the world. He described the US-Russia diesel deal, agreed before Russia moved to scale back the war, as an innovative route to peace.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "2a184b29f8267f87",
-    "ec618b7293f59d33",
-    "af71c75d7a54d682"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kuw6fxs2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kuw6fxs2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kuu6pn32r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kuu6pn32r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6kusabue2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6kusabue2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ded27e83e38a",
-   "created_at": "2026-10-19T05:15:49Z"
   }
  ]
 }
