@@ -1,8 +1,116 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T17:05:40Z",
+ "generated_at": "2026-10-20T17:10:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "97f820390bcf",
+   "ts": "2026-10-20T17:10:12Z",
+   "headline": "Russia extends its strikes on Ukrainian energy facilities to western Ukraine, causing waves of blackouts",
+   "detail": "Reuters reports, citing Ukrainian energy ministry officials and local authorities, that Russian attacks on energy facilities now reach western Ukraine and have caused repeated blackouts.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "35f60174cb20162e"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myd4u4biml2p",
+     "url": "https://bsky.app/profile/reuters.com/post/3myd4u4biml2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "93f8e0c6c855",
+   "created_at": "2026-10-20T17:10:52Z"
+  },
+  {
+   "id": "a2459572485a",
+   "ts": "2026-10-20T17:09:00Z",
+   "headline": "Zelenskyy offers to stop strikes on sensitive Russian energy sites if Russia does the same, and seeks a trilateral leaders' meeting",
+   "detail": "After talks with US envoy Witkoff and Norway's prime minister, Ukraine's President Zelenskyy said Kyiv is ready for a mutual halt to strikes on sensitive energy infrastructure and wants to move towards a three-way meeting at leaders' level. He said Witkoff travels to Russia tomorrow, while Norway's prime minister called the talks good and constructive and Finland's President Stubb said there had been genuine progress.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e3c2e5b908e15b8f",
+    "b3a9c3d5be1ae71e",
+    "7b3adf627dcd4347",
+    "b9c1843b5c219d77",
+    "468b7e826768625c",
+    "7789a99b4d6b6bae",
+    "82cd9837dcd997c0",
+    "f43f62cbfe583557",
+    "6c23d357ac9d108f",
+    "b58c80481d92a3f6",
+    "f162ce9219c1936f",
+    "239bb7c592307b6b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4rxo7si2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4rxo7si2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4t3rbfs26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4t3rbfs26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4mlwi3v2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4mlwi3v2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4mryvro2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4mryvro2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4s3cjgk2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4s3cjgk2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4r42xfp2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4r42xfp2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4pmillh2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4pmillh2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4qg3ttj2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4qg3ttj2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4qns7rw2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4qns7rw2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4qrmoht2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4qrmoht2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4olu7fy2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4olu7fy2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4tw7ftl2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4tw7ftl2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "93f8e0c6c855",
+   "created_at": "2026-10-20T17:10:52Z"
+  },
   {
    "id": "6d9123dc79fc",
    "ts": "2026-10-20T17:02:22Z",
@@ -5901,114 +6009,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6turhpzd2z",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6turhpzd2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3ec3071a95f2",
-   "created_at": "2026-10-19T05:20:50Z"
-  },
-  {
-   "id": "50b33bc0fb07",
-   "ts": "2026-10-18T23:14:45Z",
-   "headline": "Putin proposes a summit with Trump and Xi on Ukraine's future, WSJ reports",
-   "detail": "The Wall Street Journal reported that Russian President Putin has asked Trump and Chinese President Xi for a three-way meeting to decide Ukraine's future.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a80db72832878391",
-    "b65b3e55561a386c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6qc4ggs72r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6qc4ggs72r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6qkmzxdc2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6qkmzxdc2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3ec3071a95f2",
-   "created_at": "2026-10-19T05:20:50Z"
-  },
-  {
-   "id": "af8ba1c3fe92",
-   "ts": "2026-10-18T23:11:48Z",
-   "headline": "RBA's Kent says neutral rates appear to be rising in Australia and abroad and questions whether policy is restrictive enough",
-   "detail": "Reserve Bank of Australia Assistant Governor Kent said policy is somewhat restrictive but it is unclear whether it is restrictive enough, and the RBA faces a hard trade-off between inflation and unemployment. He said household demand is softening while business credit stays strong, and that long-term inflation expectations look well anchored.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "f4fde5aa9c99672d",
-    "997522a737392ba7",
-    "c412bbc355659bcd",
-    "1c77a83c00a7e361",
-    "6716b35c9ae497d6",
-    "5b6d8581bb441427",
-    "ab739bf31b66e8e0",
-    "5537eb3fceef027c",
-    "9f59310b35c156b5",
-    "72fc4f158ae7e4fd",
-    "a64e819458cdfe67"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6q4u3bvf2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6q4u3bvf2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6qeynpiw2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6qeynpiw2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6ra4lhug2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6ra4lhug2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6rcbd7pa24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6rcbd7pa24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6roaisoz2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6roaisoz2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6s7lvhhz2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6s7lvhhz2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6saggczu2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6saggczu2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6shglkli26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6shglkli26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6shki4rk24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6shki4rk24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6sidynco2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6sidynco2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my6sihqjok2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my6sihqjok2w"
     }
    ],
    "model": "opus",
