@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T13:31:04Z",
+ "generated_at": "2026-10-20T13:35:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "49008c3b2c18",
+   "ts": "2026-10-20T13:35:00Z",
+   "headline": "China's commerce ministry firmly opposes the US order on DeepSeek and calls it discriminatory",
+   "detail": "China's commerce ministry says the US order on DeepSeek is discriminatory, politicises tech and trade issues under the pretext of national security, and ignores the consensus reached between the two countries' heads of state.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "60f32d117b0511d1",
+    "6c78742a55fb6718",
+    "80e0a218f10148f0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycqs7f4e72n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycqs7f4e72n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycqtaqunq2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycqtaqunq2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycqtbi3562r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycqtbi3562r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8bb57af4558c",
+   "created_at": "2026-10-20T13:35:40Z"
+  },
+  {
+   "id": "526766f76ad6",
+   "ts": "2026-10-20T13:31:59Z",
+   "headline": "French borrowing costs rise further towards 5% as social unrest weighs on the bond market, FT reports",
+   "detail": "The FT reports that French government borrowing costs rose again today to close to 5%, amid social unrest in France and fallout in the bond market.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "533bdae8efd83470"
+   ],
+   "sources": [
+    {
+     "author": "iankmsmith.ft.com",
+     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3mycqnvibfk2c",
+     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3mycqnvibfk2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8bb57af4558c",
+   "created_at": "2026-10-20T13:35:40Z"
+  },
   {
    "id": "51a81e874641",
    "ts": "2026-10-20T13:27:54Z",
@@ -5966,60 +6020,6 @@
    "model": "opus",
    "run_id": "61766bdf6a9b",
    "created_at": "2026-10-16T17:10:53Z"
-  },
-  {
-   "id": "8d64b0ee1ca3",
-   "ts": "2026-10-16T17:04:47Z",
-   "headline": "Trump says the US was not behind limits on Ukraine's access to the Starshield system",
-   "detail": "US President Trump said the US did not restrict Ukraine's access to the Starshield system and that he does not know who ordered it.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "020d93e8e212b5aa",
-    "323deb20da99c457"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2oq6ior2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2oq6ior2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2n5krx42r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2n5krx42r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0fbe7a09f3f7",
-   "created_at": "2026-10-16T17:05:40Z"
-  },
-  {
-   "id": "e6852c1d3bc5",
-   "ts": "2026-10-16T17:02:53Z",
-   "headline": "EU leaders ask the Commission for a proposal on Ukraine's extra 2027 financing needs; Costa says Russia's actions point to escalation",
-   "detail": "European Council President Costa said EU leaders have asked the European Commission to put forward a proposal covering Ukraine's additional financing needs for 2027. He also said Russia's actions indicate escalation.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "733d40f2dae0b868",
-    "ab0a905ae24912ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2ldhqer2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2ldhqer2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz2jpmqxt26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz2jpmqxt26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0fbe7a09f3f7",
-   "created_at": "2026-10-16T17:05:40Z"
   }
  ]
 }
