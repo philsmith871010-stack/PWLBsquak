@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T06:05:41Z",
+ "generated_at": "2026-10-20T06:10:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fac25fc704ae",
+   "ts": "2026-10-20T06:06:38Z",
+   "headline": "UK total pay growth slows to 3.7%, below 3.8% forecast; private-sector regular pay at 3.0%, in line; claimant count up 30.3K",
+   "detail": "ONS figures for the three months to August show average weekly earnings including bonuses up 3.7% year on year, against a 3.8% forecast and 3.9% previously. Private-sector regular pay rose 3.0%, as expected, after 2.9%. The claimant count rose 30.3K after 27.8K, with the claimant count rate unchanged at 4.4%.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "a49a6b9316fa10e4",
+    "2011cde7ce0b08f0",
+    "d8ac410b6c9155b3",
+    "8ea4aef6a2c1f89a",
+    "ec4f1f0f78495b96"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxrk4nel2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxrk4nel2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxsh4bgu24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxsh4bgu24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxsodhs22m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxsodhs22m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxsrldo52d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxsrldo52d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxu5scej2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxu5scej2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fd3e8a57f178",
+   "created_at": "2026-10-20T06:10:51Z"
+  },
   {
    "id": "ebc2e22a1d93",
    "ts": "2026-10-20T06:01:47Z",
@@ -5909,33 +5954,6 @@
    "model": "opus",
    "run_id": "afdb8593c8aa",
    "created_at": "2026-10-16T12:35:42Z"
-  },
-  {
-   "id": "f87d58e2eeed",
-   "ts": "2026-10-16T12:30:49Z",
-   "headline": "US import prices rise 1.1% m/m in September and export prices jump 2.2%, both above forecast",
-   "detail": "US import prices rose 1.1% m/m against a 1% forecast and 0.7% previously. Export prices rose 2.2% m/m against a 0.9% forecast and 0.6% previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "f28848488d0f57ff",
-    "b1c45c25607b2d77"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyletsqf426",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyletsqf426"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxylev6mkv2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxylev6mkv2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "191813dbc02a",
-   "created_at": "2026-10-16T12:31:07Z"
   }
  ]
 }
