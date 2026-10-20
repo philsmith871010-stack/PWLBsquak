@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T09:35:44Z",
+ "generated_at": "2026-10-20T09:45:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "50ec0dbddeac",
+   "ts": "2026-10-20T09:44:28Z",
+   "headline": "ECB policymaker Rehn says the French-German bond spread has widened somewhat",
+   "detail": "Olli Rehn, Bank of Finland governor and member of the ECB Governing Council, said the gap between French and German government bond yields has widened to some extent.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "c18170140ffb2fe3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycdx2vlej26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycdx2vlej26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b28eace74d40",
+   "created_at": "2026-10-20T09:45:48Z"
+  },
   {
    "id": "0c3e52c68cdf",
    "ts": "2026-10-20T09:31:03Z",
@@ -5916,45 +5937,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxygxby7s42r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxygxby7s42r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "03a256284e20",
-   "created_at": "2026-10-16T14:15:48Z"
-  },
-  {
-   "id": "e35ee7ef6f9b",
-   "ts": "2026-10-16T11:05:42Z",
-   "headline": "Hungary's PM Magyar says Budapest is ready to help diplomatically towards a Ukraine ceasefire and will continue talks with Kyiv",
-   "detail": "Hungarian Prime Minister Magyar said he agreed with Zelensky to continue talks at ministerial level and to put relations on a new footing, and he expressed solidarity with Ukraine over Russia's aggression. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "74525ba1abdc0271",
-    "63a8b9238b23241a",
-    "c5864b1d48816629",
-    "5b22169c8e4c5a42"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxygmnj5gu2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxygmnj5gu2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxygi6dhr22s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxygi6dhr22s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxygjnrvar2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxygjnrvar2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxygl7ok3p2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxygl7ok3p2q"
     }
    ],
    "model": "opus",
