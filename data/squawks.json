@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T15:15:54Z",
+ "generated_at": "2026-10-20T15:25:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4b5c9303924a",
+   "ts": "2026-10-20T15:25:10Z",
+   "headline": "US Energy Secretary Wright says diesel prices could fall meaningfully if Europe agrees to a coordinated release",
+   "detail": "US Energy Secretary Wright said Europe joining a coordinated release could bring meaningful relief on diesel prices. He also said more work is needed on refining and on Defense Production Act funding.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "ce4e2e7ce2ad6930",
+    "7770803d71fbc6bb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycwycd4v72r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycwycd4v72r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycwsllxgy2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycwsllxgy2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3119459b9caf",
+   "created_at": "2026-10-20T15:25:46Z"
+  },
   {
    "id": "6647f5ce94dc",
    "ts": "2026-10-20T15:14:15Z",
@@ -6017,27 +6044,6 @@
    "model": "opus",
    "run_id": "2d28656b7919",
    "created_at": "2026-10-16T18:10:55Z"
-  },
-  {
-   "id": "4cd2ce8e844e",
-   "ts": "2026-10-16T18:05:09Z",
-   "headline": "EU's von der Leyen says the Commission will propose import curbs on further Chinese sectors",
-   "detail": "European Commission President von der Leyen said on Friday that the Commission will propose curbs on Chinese imports that go beyond the safeguard measures agreed with Beijing to halve shipments of Chinese hybrid cars.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9f69e3023fe90c35"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mxz62ny4g52q",
-     "url": "https://bsky.app/profile/reuters.com/post/3mxz62ny4g52q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "75dbff134d79",
-   "created_at": "2026-10-16T18:05:41Z"
   }
  ]
 }
