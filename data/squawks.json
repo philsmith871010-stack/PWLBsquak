@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T14:36:06Z",
+ "generated_at": "2026-10-20T14:40:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8ad9921537aa",
+   "ts": "2026-10-20T14:37:24Z",
+   "headline": "Canada's US trade minister says trade talks with the US are continuing and expects a deal eventually",
+   "detail": "Canada's minister responsible for US trade said Ottawa is still holding trade talks with its US counterparts. The minister said a deal serving the whole Canadian economy will be reached at some point, but gave no timing.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "37d2575e29e24e22",
+    "d77377dd567a5482"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycucuf2rx2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycucuf2rx2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycudsxev72r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycudsxev72r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1e68048ce2a5",
+   "created_at": "2026-10-20T14:40:52Z"
+  },
   {
    "id": "aff341c4426f",
    "ts": "2026-10-20T14:34:12Z",
@@ -6012,27 +6039,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz3wbcdgg2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz3wbcdgg2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e5c0b510ef61",
-   "created_at": "2026-10-16T17:27:59Z"
-  },
-  {
-   "id": "d8b984d429c8",
-   "ts": "2026-10-16T17:23:20Z",
-   "headline": "EU's von der Leyen puts Ukraine's funding gap for 2027 at 70bn",
-   "detail": "European Commission President von der Leyen gave the 70bn figure for Ukraine's 2027 funding shortfall. EU leaders have asked the Commission for a proposal on Ukraine's additional financing needs for that year.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "658b5b0c7ca5b848"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxz3pvcg6h2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxz3pvcg6h2d"
     }
    ],
    "model": "opus",
