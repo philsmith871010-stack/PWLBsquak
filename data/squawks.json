@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T13:11:00Z",
+ "generated_at": "2026-10-20T13:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6cae435e51ae",
+   "ts": "2026-10-20T13:12:31Z",
+   "headline": "Italy's PM Meloni condemns the US diesel deal with Russia",
+   "detail": "A market commentator reports that Italian Prime Minister Giorgia Meloni has strongly condemned the US diesel arrangement with Russia. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5aca060bb83be6b8"
+   ],
+   "sources": [
+    {
+     "author": "robin-j-brooks.bsky.social",
+     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3mycpl3cbo224",
+     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3mycpl3cbo224"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6ae78c008a84",
+   "created_at": "2026-10-20T13:15:50Z"
+  },
   {
    "id": "7ff7ced6fead",
    "ts": "2026-10-20T13:10:15Z",
@@ -5825,33 +5846,6 @@
    "model": "opus",
    "run_id": "32a5976a6c4d",
    "created_at": "2026-10-16T16:55:38Z"
-  },
-  {
-   "id": "43934d558b48",
-   "ts": "2026-10-16T16:39:28Z",
-   "headline": "Brent jumps more than $3 to a new session high of $109.58 a barrel",
-   "detail": "Brent crude futures rose more than $3 to a session high of $109.58 a barrel. US crude futures gained more than $2 to go above $100, with reports citing ongoing Middle East supply concerns and an outage at a Russian refinery.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "025fdd2fe374247f",
-    "fb132052e0984769"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyzbhehym2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyzbhehym2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxyz364fix2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxyz364fix2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c4db0406e67c",
-   "created_at": "2026-10-16T16:40:52Z"
   }
  ]
 }
