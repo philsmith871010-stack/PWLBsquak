@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T16:20:47Z",
+ "generated_at": "2026-10-20T16:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "620f0d67cfd2",
+   "ts": "2026-10-20T16:22:52Z",
+   "headline": "France's 20-year bond spread over Germany is already 170bp, says economist Robin Brooks",
+   "detail": "Economist Robin Brooks says France's 20-year spread over Germany has reached 170bp. He argues that the 10-year tenor usually watched is the one most affected by ECB action to cap yields.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4db1581527d1f788"
+   ],
+   "sources": [
+    {
+     "author": "robin-j-brooks.bsky.social",
+     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3myd27h4q522y",
+     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3myd27h4q522y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bb8c207add55",
+   "created_at": "2026-10-20T16:25:42Z"
+  },
   {
    "id": "8d43df3d4be1",
    "ts": "2026-10-20T16:18:41Z",
@@ -6017,33 +6038,6 @@
    "model": "opus",
    "run_id": "72d8dfd90a3c",
    "created_at": "2026-10-16T20:05:43Z"
-  },
-  {
-   "id": "92b84978b585",
-   "ts": "2026-10-16T20:00:46Z",
-   "headline": "US TIC data show net long-term inflows of $279.2bn, up from -$27.9bn; overall net capital flows at $199.8bn",
-   "detail": "US Treasury International Capital data put net long-term transactions at $279.2bn, against -$27.9bn previously. Overall net capital flows came in at $199.8bn, compared with a revised $87.4bn the previous month.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b4510b9e56d6f273",
-    "e5e756d3f0980cfc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxzejg4xcw2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxzejg4xcw2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxzejgotcd2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxzejgotcd2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1764fe24cf1a",
-   "created_at": "2026-10-16T20:01:12Z"
   }
  ]
 }
