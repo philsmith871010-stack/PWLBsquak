@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T18:01:15Z",
+ "generated_at": "2026-10-20T18:10:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "84c18566f5bb",
+   "ts": "2026-10-20T18:05:38Z",
+   "headline": "BoE's Greene says people take notice of inflation once it is above 3% and expects supply shocks to keep coming",
+   "detail": "MPC member Megan Greene said public awareness of inflation picks up when it goes above 3%, and that the economy will continue to face many supply shocks. The comments follow her earlier remarks that wage disinflation has stalled.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "88a0e5e494326dcc",
+    "b0736a9200388f6d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd7x7u5dd2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd7x7u5dd2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd7z5zwpx2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd7z5zwpx2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "005862029a58",
+   "created_at": "2026-10-20T18:10:50Z"
+  },
   {
    "id": "8969047d024f",
    "ts": "2026-10-20T18:00:15Z",
@@ -5687,51 +5714,6 @@
    "model": "opus",
    "run_id": "d5fd20b7af9e",
    "created_at": "2026-10-19T06:45:48Z"
-  },
-  {
-   "id": "3585edffe07e",
-   "ts": "2026-10-19T04:45:09Z",
-   "headline": "US Secretary of State Rubio says Trump will consider any route to ending the Ukraine war and intelligence sharing with Kyiv continues",
-   "detail": "Rubio said the US would keep looking for chances to end the conflict but did not confirm details of a proposed meeting. He also said intelligence sharing with Ukraine has not been paused.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c466d200eb0a20ce",
-    "057da9d32a7b937a",
-    "65b984b3dc45ed04",
-    "c2141f9515bf460b",
-    "573c30e31753e6ef"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7cqwttkt2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7cqwttkt2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7cfmtcsr2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7cfmtcsr2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7cytighh2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7cytighh2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7czo6ptj2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7czo6ptj2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7daawphb2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7daawphb2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ebb07ad142a3",
-   "created_at": "2026-10-19T05:35:42Z"
   }
  ]
 }
