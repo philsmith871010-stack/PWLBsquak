@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T09:45:48Z",
+ "generated_at": "2026-10-20T09:55:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "91fc0bae1532",
+   "ts": "2026-10-20T09:55:36Z",
+   "headline": "IEA chief Birol says the agency will consider further releases from emergency oil stocks if needed",
+   "detail": "Fatih Birol, head of the International Energy Agency, said the agency would look at releasing more oil from emergency stocks if required. No volumes or timing were given.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "bf3daea1f1df8468"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycekxk7f52z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycekxk7f52z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "04b325d22f26",
+   "created_at": "2026-10-20T09:55:47Z"
+  },
   {
    "id": "50ec0dbddeac",
    "ts": "2026-10-20T09:44:28Z",
@@ -5921,27 +5942,6 @@
    "model": "opus",
    "run_id": "727788fb94da",
    "created_at": "2026-10-16T14:20:52Z"
-  },
-  {
-   "id": "47d6c88a928e",
-   "ts": "2026-10-16T11:11:39Z",
-   "headline": "Putin envoy Dmitriev says Zelensky has overplayed his hand and is an obstacle to peace as peacemaking speeds up",
-   "detail": "Kremlin envoy Kirill Dmitriev said Zelensky's attacks on President Trump would have significant consequences, and described peacemaking efforts as accelerating. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2684614a6536082c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxygxby7s42r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxygxby7s42r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "03a256284e20",
-   "created_at": "2026-10-16T14:15:48Z"
   }
  ]
 }
