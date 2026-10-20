@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T08:35:44Z",
+ "generated_at": "2026-10-20T09:01:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2fe2f205a64f",
+   "ts": "2026-10-20T09:00:55Z",
+   "headline": "German ZEW economic sentiment falls to 28.1, below 30 forecast; current conditions improve to -35.9",
+   "detail": "German ZEW economic sentiment came in at 28.1, down from 34.7 and below the 30 forecast, while current conditions rose to -35.9 from -47.1, beating the -44.5 forecast. Eurozone ZEW expectations fell to 18.5 from 25.8.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "48009725b066927c",
+    "af1ca049370ae7ce",
+    "ff38bf12aadb6253"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycbj6w7gj24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycbj6w7gj24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycbiy3zjx2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycbiy3zjx2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycbiuwfng2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycbiuwfng2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b3c50fd7cbb6",
+   "created_at": "2026-10-20T09:01:17Z"
+  },
   {
    "id": "a312aaff5b3e",
    "ts": "2026-10-20T08:34:36Z",
@@ -5915,27 +5948,6 @@
    "model": "opus",
    "run_id": "e1340e02a317",
    "created_at": "2026-10-16T13:55:40Z"
-  },
-  {
-   "id": "7d7e27269c3e",
-   "ts": "2026-10-16T13:50:26Z",
-   "headline": "Putin envoy Dmitriev says Russia and the US are discussing Arctic and LNG projects",
-   "detail": "Kirill Dmitriev, the Kremlin's envoy, said Russia and the US are in talks on projects in the Arctic and on liquefied natural gas. The remarks follow the recently reported US-Russia diesel deal.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c2f4ce7a93e52896"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mxypt6zda22r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mxypt6zda22r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f5974b0063f5",
-   "created_at": "2026-10-16T13:50:47Z"
   }
  ]
 }
