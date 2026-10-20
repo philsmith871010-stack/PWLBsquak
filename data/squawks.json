@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-20T20:20:52Z",
+ "generated_at": "2026-10-20T20:25:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bf5089017be9",
+   "ts": "2026-10-20T20:25:38Z",
+   "headline": "Yemen's Houthis say a ground attack on Saudi Arabia is an option, Iranian media report",
+   "detail": "Iran's Sepah News reported that Yemen's Houthis said a ground attack on Saudi Arabia is being considered. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6b14edfebb4fb481"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydhrld6fc2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydhrld6fc2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5e6b67bda477",
+   "created_at": "2026-10-20T20:25:43Z"
+  },
   {
    "id": "34c09d960296",
    "ts": "2026-10-20T20:19:52Z",
@@ -5765,27 +5786,6 @@
    "model": "opus",
    "run_id": "db2565a27fc6",
    "created_at": "2026-10-19T11:15:47Z"
-  },
-  {
-   "id": "7e9e350ffc74",
-   "ts": "2026-10-19T10:51:30Z",
-   "headline": "French PM Lecornu says the government would declare a state of emergency if it were judged necessary",
-   "detail": "France's prime minister made the remark as rioting continues across the country. French bonds have already been under selling pressure today because of the unrest.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "07c9eeb75fcee344"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3my7x7yutj624",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3my7x7yutj624"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6cbb327fa777",
-   "created_at": "2026-10-19T10:55:41Z"
   }
  ]
 }
