@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T14:31:04Z",
+ "generated_at": "2026-10-21T14:40:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2452d151d423",
+   "ts": "2026-10-21T14:40:40Z",
+   "headline": "Kremlin aide says Putin told US envoy Witkoff that Russia is ready to resume three-way Ukraine talks on 10 November",
+   "detail": "A Russian presidential aide said Putin told US envoy Witkoff that Russia is ready to resume the Russia-US-Ukraine talks on 10 November. The Kremlin had earlier pointed to mid-November.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "470c02750a88c113"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfexmwxgu22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfexmwxgu22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cbca3006b33f",
+   "created_at": "2026-10-21T14:40:52Z"
+  },
   {
    "id": "cb3b89432edf",
    "ts": "2026-10-21T14:29:33Z",
@@ -5783,39 +5804,6 @@
    "model": "opus",
    "run_id": "03baf48c4b1c",
    "created_at": "2026-10-20T08:10:49Z"
-  },
-  {
-   "id": "332384aeb778",
-   "ts": "2026-10-20T08:01:47Z",
-   "headline": "Eurozone seasonally adjusted current account surplus narrows to €8.7bn in August from €27.6bn",
-   "detail": "ECB data show the seasonally adjusted eurozone current account surplus at €8.7bn for August, down from €27.6bn the month before. The unadjusted figure was €7.70bn, against a revised €35.90bn previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "881d7c15f64f8680",
-    "d983fbc93852ec82",
-    "8a9f4bfccfe88f0c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc67hlj4a2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc67hlj4a2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc6cuoxhs2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc6cuoxhs2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc6biwuun2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc6biwuun2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0a67bbd46b12",
-   "created_at": "2026-10-20T08:05:42Z"
   }
  ]
 }
