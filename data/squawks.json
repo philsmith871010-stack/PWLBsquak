@@ -1,8 +1,83 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T05:05:59Z",
+ "generated_at": "2026-10-21T05:10:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9382310a3d56",
+   "ts": "2026-10-21T04:12:56Z",
+   "headline": "Israel's PM Netanyahu presses for renewed strikes on Iran, FT reports",
+   "detail": "The FT reports that the Israeli military drew up plans for an extensive operation earlier this month but held back because President Trump has ruled out an attack before the US midterm elections. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "14af67e4a95cf912",
+    "13a7c35c583cca6a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myebv5eaoe2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myebv5eaoe2t"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myebyyahmg22",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myebyyahmg22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b6e8aea9d10e",
+   "created_at": "2026-10-21T05:10:48Z"
+  },
+  {
+   "id": "9bd463fd4c7e",
+   "ts": "2026-10-21T04:12:31Z",
+   "headline": "Chancellor Healey drops plans for a visa for wealthy investors in the Budget, FT reports",
+   "detail": "The FT reports that the Chancellor has ruled out an investor visa scheme in the forthcoming Budget, although plans for it had been well advanced under Keir Starmer.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "dde8f0ebdca21003",
+    "3c5aa722e8060b8a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myebug2akb25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myebug2akb25"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myec363bd426",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myec363bd426"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b6e8aea9d10e",
+   "created_at": "2026-10-21T05:10:48Z"
+  },
+  {
+   "id": "d39d1ad7996d",
+   "ts": "2026-10-21T04:12:20Z",
+   "headline": "UK's top banking regulator to set targets in a five-year strategy, FT reports",
+   "detail": "The FT reports that the UK's main banking regulator will set targets as part of a new five-year strategy. No further detail was given in the posts.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "91cd1b38b7679c2f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myebu3ftvw25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myebu3ftvw25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b6e8aea9d10e",
+   "created_at": "2026-10-21T05:10:48Z"
+  },
   {
    "id": "61d1299cdf17",
    "ts": "2026-10-21T03:00:23Z",
@@ -5669,75 +5744,6 @@
    "model": "opus",
    "run_id": "1514ca41ec77",
    "created_at": "2026-10-19T14:05:59Z"
-  },
-  {
-   "id": "ab11c4c09fb1",
-   "ts": "2026-10-19T14:00:53Z",
-   "headline": "US NAHB housing market index falls to 29 in October, below the 31 forecast and down from 32",
-   "detail": "The US NAHB housing market index came in at 29, against a forecast of 31 and a previous reading of 32.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ec7ea4811be762da"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myabsnnfx62q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myabsnnfx62q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d580d2f2c315",
-   "created_at": "2026-10-19T14:01:15Z"
-  },
-  {
-   "id": "5e4ea43e07fe",
-   "ts": "2026-10-19T13:59:25Z",
-   "headline": "Russia's Lavrov calls US and Israeli action against Iran baseless and offers help in resolving the crisis",
-   "detail": "Russian foreign minister Lavrov said Moscow is ready to help find a way out of the crisis.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c6986b24f4aa243c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myabpzip3m2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myabpzip3m2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d580d2f2c315",
-   "created_at": "2026-10-19T14:01:15Z"
-  },
-  {
-   "id": "e90a6f0b5e17",
-   "ts": "2026-10-19T13:58:11Z",
-   "headline": "Iran's foreign minister accuses European countries of complicity in the US war with Iran",
-   "detail": "Iran's foreign minister Araghchi also said Tehran would welcome any proposal that guarantees regional security without a foreign presence.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "53198f4a0f421bf4",
-    "db56223ab094a4c5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myabnsvruv2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myabnsvruv2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myabnoqem72r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myabnoqem72r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d580d2f2c315",
-   "created_at": "2026-10-19T14:01:15Z"
   }
  ]
 }
