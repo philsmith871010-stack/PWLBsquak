@@ -1,8 +1,122 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T05:01:13Z",
+ "generated_at": "2026-10-21T05:05:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "61d1299cdf17",
+   "ts": "2026-10-21T03:00:23Z",
+   "headline": "Japan's Finance Minister Katayama says the economy is close to a phase of sustained inflation driven by wages",
+   "detail": "Speaking on Wednesday, Finance Minister Satsuki Katayama said higher import costs are currently pushing up Japanese prices, and that the economy is close to moving into a period of sustained inflation driven by rising wages, Reuters reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "11a87fd0faa62623"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mye5tgupt62h",
+     "url": "https://bsky.app/profile/reuters.com/post/3mye5tgupt62h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5eb8d0c50584",
+   "created_at": "2026-10-21T05:05:59Z"
+  },
+  {
+   "id": "8da8c14a2c45",
+   "ts": "2026-10-21T02:37:11Z",
+   "headline": "Sterling slips below $1.3400 ahead of UK inflation data",
+   "detail": "In Asian trading, GBP/USD fell below 1.3400 as markets waited for the UK inflation release, a market report says.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "2cf64d3f792444dc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mye4jwgdu62e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mye4jwgdu62e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5eb8d0c50584",
+   "created_at": "2026-10-21T05:05:59Z"
+  },
+  {
+   "id": "fa4e8b42dedc",
+   "ts": "2026-10-21T01:40:03Z",
+   "headline": "20-year JGBs rise after an auction draws record demand",
+   "detail": "The WSJ reports that Japanese 20-year government bonds gained after the auction drew record demand. The 10-year JGB yield was unchanged at 2.895%, and the 30-year yield fell 0.5bp to 3.935%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "47d471d70cbbea85",
+    "d62ebc5897364bb3",
+    "75749f3374563251"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydzdry34o2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydzdry34o2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mye2wkbji72l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mye2wkbji72l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mye2y44rft2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mye2y44rft2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5eb8d0c50584",
+   "created_at": "2026-10-21T05:05:59Z"
+  },
+  {
+   "id": "f231f3b4118b",
+   "ts": "2026-10-21T01:08:01Z",
+   "headline": "Brent rises to $110 a barrel and US crude tops $99 as attacks on ships in the Strait of Hormuz add to supply worries",
+   "detail": "Market reports in Asian trading say Brent rose to $110 a barrel and US oil futures went above $99. The WSJ links the gains to attacks on shipping in the Strait of Hormuz, and reports that gold weakened as oil rose.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "abca6d14d40e9bde",
+    "1994613ddfb1d447",
+    "647b8478154cc6af",
+    "2717a3df14370abf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydxkip5r22j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydxkip5r22j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydxlq7sj222",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydxlq7sj222"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydzbpyito25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydzbpyito25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydzcug2oy2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydzcug2oy2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5eb8d0c50584",
+   "created_at": "2026-10-21T05:05:59Z"
+  },
   {
    "id": "877fedd22feb",
    "ts": "2026-10-21T00:57:00Z",
@@ -5624,174 +5738,6 @@
    "model": "opus",
    "run_id": "d580d2f2c315",
    "created_at": "2026-10-19T14:01:15Z"
-  },
-  {
-   "id": "b6e3d5a151c6",
-   "ts": "2026-10-19T13:52:29Z",
-   "headline": "Iran's foreign minister says attacks on ships in the Caspian Sea are a serious concern and calls on Europe to drop double standards",
-   "detail": "Iranian Foreign Minister Araghchi also said diplomacy is the only route open to the US in the dispute with Iran. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b24dd431c16033cc",
-    "309198132ff0a0ae",
-    "e0dedfd299b24fc0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myabdmtcnu2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myabdmtcnu2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myabdptf3326",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myabdptf3326"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myabeiaupr2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myabeiaupr2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ac102fd782b5",
-   "created_at": "2026-10-19T13:55:40Z"
-  },
-  {
-   "id": "3d54113694ba",
-   "ts": "2026-10-19T13:37:55Z",
-   "headline": "Russia's Lavrov calls for restoring free navigation through Hormuz and says neither Ukraine nor others are ready for talks",
-   "detail": "Russian Foreign Minister Lavrov called for a return to pre-crisis conditions in the Middle East, including freedom of navigation through the Strait of Hormuz, and for Yemen negotiations to resume. He said Russia would prefer to reach its goals in Ukraine through talks, that it sticks to its investment and nuclear agreements with Iran, and that it has no interest in volatile energy prices.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "903fdb4e16c6a070",
-    "2335cfea4ca2a603",
-    "7a2d36d48b6eefee",
-    "4785506b1c7c1f9d",
-    "6b9ea92236d5c550",
-    "0183db8ea61a8ea1",
-    "f97088d399cf9c18",
-    "7f25defe4881a436"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaajlbk5o2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaajlbk5o2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaakfdjey2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaakfdjey2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaand7ygz2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaand7ygz2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaannrigj2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaannrigj2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaastr32f2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaastr32f2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaaukva7524",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaaukva7524"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaavsf2452y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaavsf2452y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaavuzpwq2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaavuzpwq2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5b066d123cb4",
-   "created_at": "2026-10-19T13:45:52Z"
-  },
-  {
-   "id": "ac24e7f1037a",
-   "ts": "2026-10-19T13:30:45Z",
-   "headline": "Iran's foreign minister blames the US for Strait of Hormuz tensions and says Iran-US and Ukraine disputes need negotiated settlements",
-   "detail": "Iranian Foreign Minister Araghchi said the US bears responsibility for insecurity in the Strait of Hormuz and that regional issues should be settled through diplomacy, according to state TV. He said Iran-US talks, Ukraine and the Hormuz situation came up in his discussions, and that both the Ukraine and Iran-US conflicts should be resolved by negotiation rather than war.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a5ffda9ae2167a9e",
-    "7f034c35d4d17c69",
-    "b4b4f8c03557dbec",
-    "92d214220dc5d5e3",
-    "418cf9cfc0cc06b6",
-    "006cad63a36b67af"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaa4rmafr2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaa4rmafr2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaa4qkiu22n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaa4qkiu22n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mya7zkvna62r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mya7zkvna62r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mya7zhev4a2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mya7zhev4a2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mya7ym5xjn2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mya7ym5xjn2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mya7xllyqk2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mya7xllyqk2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ec112300f70d",
-   "created_at": "2026-10-19T13:31:05Z"
-  },
-  {
-   "id": "6c722f7b8216",
-   "ts": "2026-10-19T13:26:03Z",
-   "headline": "Egypt's parliament delays its vote on military support for Saudi Arabia to 26 October",
-   "detail": "Lawmakers said the Egyptian parliament has pushed back to 26 October its vote on letting the armed forces help defend Saudi Arabia against Houthi attacks. The vote had been expected this week.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9f026a1d88a6d920"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mya7uen3rv2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mya7uen3rv2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "761d1396ff0b",
-   "created_at": "2026-10-19T13:26:09Z"
   }
  ]
 }
