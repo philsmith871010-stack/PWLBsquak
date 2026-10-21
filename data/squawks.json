@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T14:45:48Z",
+ "generated_at": "2026-10-21T14:50:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "49caa0d63972",
+   "ts": "2026-10-21T14:50:15Z",
+   "headline": "Russian wealth fund head Dmitriev says Moscow sees the US suspension of the Lindsey Graham Act as an important step",
+   "detail": "Russian wealth fund head Kirill Dmitriev said Russia had noted the US suspension of the act linked to Senator Lindsey Graham and regards it as an important step, according to reports. Russia designates Graham as a terrorist and extremist.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6eaf79c5332820fb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myffirb3sr2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myffirb3sr2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "de100593fe7c",
+   "created_at": "2026-10-21T14:50:53Z"
+  },
   {
    "id": "ca0ef786a694",
    "ts": "2026-10-21T14:45:13Z",
@@ -5771,39 +5792,6 @@
    "model": "opus",
    "run_id": "5a1731589f41",
    "created_at": "2026-10-20T08:20:49Z"
-  },
-  {
-   "id": "e01f79f03c29",
-   "ts": "2026-10-20T08:13:56Z",
-   "headline": "Saudi civil defence issues an early alert in Riyadh as sirens sound in the capital",
-   "detail": "Saudi civil defence issued an early warning in Riyadh, and sirens were reported in the city. It follows Houthi claims of attacks on Saudi energy infrastructure; no market reaction has been reported so far.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ccf2059fb7fc9afb",
-    "8f7b656f07a76d6e",
-    "8fec2f1fa5c09410"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc6stb44n2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc6stb44n2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc6tm6sk52q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc6tm6sk52q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc6v6jmjh2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc6v6jmjh2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "93a1e884cf21",
-   "created_at": "2026-10-20T08:15:47Z"
   }
  ]
 }
