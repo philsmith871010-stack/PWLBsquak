@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T17:40:48Z",
+ "generated_at": "2026-10-21T17:45:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6bb60ab30207",
+   "ts": "2026-10-21T17:41:34Z",
+   "headline": "Kuwait Petroleum Corp CEO reports significant progress in talks on pipelines",
+   "detail": "The chief executive of Kuwait Petroleum Corp said a lot of progress is being made in pipeline talks, adding to earlier remarks on Kuwait's crude output and exports. No further details were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "93bbfa94da799767"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfp33vckm2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfp33vckm2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "078b16909d4d",
+   "created_at": "2026-10-21T17:45:49Z"
+  },
   {
    "id": "119275503a65",
    "ts": "2026-10-21T17:36:33Z",
@@ -5687,27 +5708,6 @@
    "model": "opus",
    "run_id": "b502b36de22f",
    "created_at": "2026-10-20T12:15:54Z"
-  },
-  {
-   "id": "a8c06aa5396d",
-   "ts": "2026-10-20T11:58:01Z",
-   "headline": "Russia's Ryabkov says Moscow's Ukraine stance does not hinge on Trump postponing severe new sanctions on Russia",
-   "detail": "Russia's deputy foreign minister Sergei Ryabkov said Moscow's approach to resolving the war in Ukraine does not depend on the US president's decision to delay what have been described as very severe sanctions on Russia.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "bd6892fd08091d01"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myclfux6d32r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myclfux6d32r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2f8d642789a0",
-   "created_at": "2026-10-20T12:01:15Z"
   }
  ]
 }
