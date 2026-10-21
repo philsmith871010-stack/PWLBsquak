@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T21:01:15Z",
+ "generated_at": "2026-10-21T21:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e5542d210330",
+   "ts": "2026-10-21T21:46:00Z",
+   "headline": "New Zealand Q3 CPI rises 3.7% on the year, below the 3.8% forecast and down from 4.1%",
+   "detail": "New Zealand consumer prices rose 0.7% in Q3 from the previous quarter, against a forecast of 0.8% and 1.5% before, while non-tradables inflation was 3.3% on the year and 1.0% on the quarter. The New Zealand dollar fell to $0.5692 after the release.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "45401f9e5b45b6d9",
+    "1089dbfa0071330a",
+    "ace64a0f9b41808c",
+    "d69ae92a333ef991",
+    "2a5799daa93858df",
+    "2611c83bfdd73b46",
+    "7ec10a5bd80188e3",
+    "93e3255da7562e14",
+    "5319d516813c4ccf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myg4q3zc7a2x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myg4q3zc7a2x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myg4q6ya7k26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myg4q6ya7k26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myg4qhooke27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myg4qhooke27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myg4qlpepm27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myg4qlpepm27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myg4qp7xyv2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myg4qp7xyv2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myg4rhlyxr27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myg4rhlyxr27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myg4sgzxg226",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myg4sgzxg226"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myg4smduyi2x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myg4smduyi2x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myg4sprfsm2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myg4sprfsm2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fde15eeafd16",
+   "created_at": "2026-10-21T21:50:49Z"
+  },
   {
    "id": "d9a11daa276e",
    "ts": "2026-10-21T20:58:33Z",
@@ -5507,33 +5576,6 @@
    "model": "opus",
    "run_id": "b99c2dc485d2",
    "created_at": "2026-10-20T14:36:06Z"
-  },
-  {
-   "id": "bf3d2943c100",
-   "ts": "2026-10-20T14:12:52Z",
-   "headline": "US-Iran compromise proposal would send Iran the interest on $6bn of its funds frozen in Qatari banks, Israel's Channel 12 reports",
-   "detail": "Israel's Channel 12 reports that the proposal, which Pakistan's army chief presented to senior Iranian officials, partly meets Iran's demand for the return of its frozen funds. It says the US has approved the plan and Iran has given preliminary agreement.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d721d555b88d504a",
-    "96fee14a22ab71f1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycswywdos26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycswywdos26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycsvhbp2a2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycsvhbp2a2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0e2369ba3de0",
-   "created_at": "2026-10-20T14:15:53Z"
   }
  ]
 }
