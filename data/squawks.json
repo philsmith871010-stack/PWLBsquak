@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T09:45:48Z",
+ "generated_at": "2026-10-21T09:50:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "47fe5fe11c8f",
+   "ts": "2026-10-21T09:47:48Z",
+   "headline": "German government says contacts with the US suggest Washington is interested in a Ukraine negotiation process",
+   "detail": "A German government spokesperson said German and European contacts with the US suggest the Americans are interested in a negotiation process on Ukraine. The spokesperson added that Germany's foreign policy adviser represented Germany at the Oslo talks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "36f9fd61070c7016",
+    "7f4433401414115a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myeulwji2s2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myeulwji2s2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myeur43ral25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myeur43ral25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e140fcb0955a",
+   "created_at": "2026-10-21T09:50:50Z"
+  },
   {
    "id": "9eef27cc31d6",
    "ts": "2026-10-21T09:44:38Z",
@@ -5831,33 +5858,6 @@
    "model": "opus",
    "run_id": "4593b17c97dc",
    "created_at": "2026-10-19T19:55:46Z"
-  },
-  {
-   "id": "3dc381b0db92",
-   "ts": "2026-10-19T19:36:43Z",
-   "headline": "Trump says he would discuss Ukraine with China's Xi and calls Xi's stance on the war very fair",
-   "detail": "US President Trump said he would be willing to talk to Chinese President Xi about Ukraine and described Xi's position on Ukraine as very fair. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7c29b9677916ffb6",
-    "e680066114fa196b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaul6ofqr2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaul6ofqr2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaumgsubz2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaumgsubz2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "24345993bd72",
-   "created_at": "2026-10-19T19:40:50Z"
   }
  ]
 }
