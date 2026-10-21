@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T10:20:50Z",
+ "generated_at": "2026-10-21T10:25:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e1fe6184ed7a",
+   "ts": "2026-10-21T10:25:24Z",
+   "headline": "Iran's foreign minister says Tehran is open to diplomacy but will defend itself and has no trust in US peace intentions",
+   "detail": "Iran's foreign minister said Tehran is ready for diplomacy but will defend itself, according to the FT, and separately said Iran has no trust at all in the US administration's stated wish for peace. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "108d0a7ac1f474d1",
+    "63dc31de1b251734"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewo6oozl2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewo6oozl2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewp6oyco2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewp6oyco2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cf3ed2060736",
+   "created_at": "2026-10-21T10:25:40Z"
+  },
   {
    "id": "afaa19127083",
    "ts": "2026-10-21T10:18:54Z",
@@ -5897,27 +5924,6 @@
    "model": "opus",
    "run_id": "a3c7d21a71f2",
    "created_at": "2026-10-19T21:46:47Z"
-  },
-  {
-   "id": "1329f65ad055",
-   "ts": "2026-10-19T20:44:40Z",
-   "headline": "Iran's Hormuz management body adds 122 ships to its list of non-compliant vessels",
-   "detail": "Iran's Strait of Hormuz Management Organization said it has added 122 ships to its non-compliance list, as Tehran continues to restrict traffic through the strait.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ceed6f6027089a6d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myayeoppw72r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myayeoppw72r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d710771b531d",
-   "created_at": "2026-10-19T20:45:50Z"
   }
  ]
 }
