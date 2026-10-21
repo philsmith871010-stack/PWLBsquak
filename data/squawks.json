@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T18:35:42Z",
+ "generated_at": "2026-10-21T18:40:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f72c1c5894e1",
+   "ts": "2026-10-21T18:40:18Z",
+   "headline": "Minutes show India's rate-setters see room for further hikes but are cautious about an aggressive tightening cycle",
+   "detail": "Minutes of the Reserve Bank of India's Monetary Policy Committee meeting, released on Wednesday, show members indicated more rate rises may be needed to curb inflation. They stopped short of backing aggressive tightening because of risks to growth, Reuters reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a469b07d09bf2c70"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myfse4pld32k",
+     "url": "https://bsky.app/profile/reuters.com/post/3myfse4pld32k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "63f9874bbed3",
+   "created_at": "2026-10-21T18:40:51Z"
+  },
   {
    "id": "b824fe4d9bb1",
    "ts": "2026-10-21T18:33:50Z",
@@ -5687,27 +5708,6 @@
    "model": "opus",
    "run_id": "4e902892c5d8",
    "created_at": "2026-10-20T12:40:52Z"
-  },
-  {
-   "id": "037cc968d42f",
-   "ts": "2026-10-20T12:34:01Z",
-   "headline": "Putin floats a US-China-Russia summit with Trump and Xi to negotiate an end to the Ukraine war, WSJ reports",
-   "detail": "The Wall Street Journal reports that Russia's President Putin raised the possibility of a three-way summit with the US and Chinese leaders on a deal to end the war in Ukraine, as reported by Semafor. Semafor said Trump already faces criticism from Republicans over his approaches to Putin, including the waiving of sanctions on Russia.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b2f161691cf7b16d"
-   ],
-   "sources": [
-    {
-     "author": "semafor.com",
-     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mycngamyfd22",
-     "url": "https://bsky.app/profile/semafor.com/post/3mycngamyfd22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2502cc2543dc",
-   "created_at": "2026-10-20T12:35:47Z"
   }
  ]
 }
