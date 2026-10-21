@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T11:01:15Z",
+ "generated_at": "2026-10-21T11:10:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c4aa19c6961b",
+   "ts": "2026-10-21T11:09:39Z",
+   "headline": "UK PM Burnham says the government is considering scrapping standing charges on gas bills",
+   "detail": "Prime Minister Burnham said the government is looking at removing standing charges from household gas bills. He gave no timing or cost.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "b0833134c7d2a18f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myez6ciov522",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myez6ciov522"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b4cab026c680",
+   "created_at": "2026-10-21T11:10:51Z"
+  },
   {
    "id": "dfb36444b63e",
    "ts": "2026-10-21T10:55:43Z",
@@ -5921,27 +5942,6 @@
    "model": "opus",
    "run_id": "fd9ec4307a4f",
    "created_at": "2026-10-20T05:05:40Z"
-  },
-  {
-   "id": "5ad87683766c",
-   "ts": "2026-10-20T00:37:35Z",
-   "headline": "US 10-year Treasury yield holds at 5.14% after a 7bp rise; French unrest weighs on European bonds and the euro",
-   "detail": "A market wrap reports the US 10-year yield steady at 5.14% after rising seven basis points, with oil near elevated levels on Middle East supply risks. French political unrest was reported as adding pressure to European bonds and the euro.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "9d3ed8627a3b7d54"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybff65kwe2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybff65kwe2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d765679d05f7",
-   "created_at": "2026-10-20T05:01:25Z"
   }
  ]
 }
