@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T12:35:42Z",
+ "generated_at": "2026-10-21T13:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "64e95ba785a7",
+   "ts": "2026-10-21T13:02:24Z",
+   "headline": "Russian wealth fund head Dmitriev calls Putin's meeting with US envoy Witkoff productive",
+   "detail": "Kirill Dmitriev, head of Russia's sovereign wealth fund, described the Putin-Witkoff talks on a Ukraine settlement as productive, TASS reports. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7f1adc70c54821d7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myf7hvumuz2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myf7hvumuz2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c1bb8c697010",
+   "created_at": "2026-10-21T13:05:43Z"
+  },
   {
    "id": "82e7d8e814a6",
    "ts": "2026-10-21T12:33:33Z",
@@ -5819,33 +5840,6 @@
    "model": "opus",
    "run_id": "d4023184391d",
    "created_at": "2026-10-20T05:15:47Z"
-  },
-  {
-   "id": "8c8ac2e8c25a",
-   "ts": "2026-10-20T04:11:05Z",
-   "headline": "UK Treasury expected to study options for closer long-term ties with the EU, FT reports",
-   "detail": "The Financial Times reports that the Treasury is expected to carry out a study of Britain moving closer to the EU, with Andy Burnham preparing to set out options for the UK's longer-term relationship with the bloc.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5cc14aa554e32a96",
-    "4cc643664fdb7b27"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybrcvuvvw26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybrcvuvvw26"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mybs5s54ev2d",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mybs5s54ev2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e1b331289c8f",
-   "created_at": "2026-10-20T05:10:47Z"
   }
  ]
 }
