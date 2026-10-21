@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T14:50:53Z",
+ "generated_at": "2026-10-21T15:05:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7cbb500aa5ac",
+   "ts": "2026-10-21T15:04:17Z",
+   "headline": "LGA says council budgeted spending on homelessness services is up 170.1% since 2019/20 and calls for Autumn Budget action",
+   "detail": "The Local Government Association says councils' budgeted spending has risen since 2019/20 by 42.3% in children's social care, 29.9% in adult social care and 170.1% in homelessness services. It is calling on the Autumn Budget to address rising demand.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "796c594d20f3c637"
+   ],
+   "sources": [
+    {
+     "author": "local.gov.uk",
+     "uri": "at://did:plc:xktc34svc3aeeovgbigfwg2d/app.bsky.feed.post/3myfgbu7twd22",
+     "url": "https://bsky.app/profile/local.gov.uk/post/3myfgbu7twd22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c311d28ebda9",
+   "created_at": "2026-10-21T15:05:50Z"
+  },
   {
    "id": "49caa0d63972",
    "ts": "2026-10-21T14:50:15Z",
@@ -5771,27 +5792,6 @@
    "model": "opus",
    "run_id": "986a2a40c419",
    "created_at": "2026-10-20T08:35:44Z"
-  },
-  {
-   "id": "fdaf3299a5c2",
-   "ts": "2026-10-20T08:19:04Z",
-   "headline": "Saudi civil defence says the danger in Riyadh has passed after the earlier alert",
-   "detail": "Saudi civil defence said the threat in the capital had ended, following its earlier alert when sirens sounded in Riyadh. The inputs report no market reaction.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "24956ef4aff2f9c1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc76ejsji2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc76ejsji2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5a1731589f41",
-   "created_at": "2026-10-20T08:20:49Z"
   }
  ]
 }
