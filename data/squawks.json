@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T13:40:50Z",
+ "generated_at": "2026-10-21T13:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "df2d2d13a264",
+   "ts": "2026-10-21T13:43:25Z",
+   "headline": "Zelenskyy tells Fox News he would accept freezing the current front lines, followed by talks and security guarantees",
+   "detail": "Ukraine's President Zelenskyy was asked about a deal leaving Ukraine in control of 75% or more of its territory. He told Fox News he would accept a freeze along the current lines, followed by negotiations and security guarantees.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7acb53c0f14c7b60"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfbrbfv5h22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfbrbfv5h22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e8d443fc617c",
+   "created_at": "2026-10-21T13:45:50Z"
+  },
   {
    "id": "a52fdfe81b52",
    "ts": "2026-10-21T13:40:19Z",
@@ -5789,27 +5810,6 @@
    "model": "opus",
    "run_id": "1a2af5b10ddd",
    "created_at": "2026-10-20T07:01:12Z"
-  },
-  {
-   "id": "be78b665d4e5",
-   "ts": "2026-10-20T06:10:58Z",
-   "headline": "Japan's PM Takaichi says she does not intend to put pressure on prices to come down",
-   "detail": "Japanese Prime Minister Takaichi said she has no intention of exerting pressure to lower prices. No market reaction was reported.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4400592372ebd18f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxzcqh432f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxzcqh432f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8804d8c0cc19",
-   "created_at": "2026-10-20T06:15:50Z"
   }
  ]
 }
