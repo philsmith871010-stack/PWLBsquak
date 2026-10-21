@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T10:50:49Z",
+ "generated_at": "2026-10-21T10:55:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "377b9dca8dff",
+   "ts": "2026-10-21T10:52:15Z",
+   "headline": "Zelenskyy says Ukraine needs a freeze in fighting first, followed by talks and US security guarantees",
+   "detail": "Ukraine's President Zelenskyy set out the order in an interview with Fox News, saying a freeze must come before negotiations and US security guarantees. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "233977b06427597f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myey76wecz25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myey76wecz25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fdbe3787b813",
+   "created_at": "2026-10-21T10:55:43Z"
+  },
   {
    "id": "2879525b4062",
    "ts": "2026-10-21T10:46:54Z",
@@ -5922,33 +5943,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybfasxsxs2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybfasxsxs2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d765679d05f7",
-   "created_at": "2026-10-20T05:01:25Z"
-  },
-  {
-   "id": "2aeb388fbaab",
-   "ts": "2026-10-19T23:52:42Z",
-   "headline": "10-year JGB futures fall 0.22 point in early Tokyo trade ahead of a 20-year bond sale",
-   "detail": "Benchmark 10-year Japanese government bond futures fell 0.22 point in early trade. Japan is due to sell 20-year government bonds.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4f69fa5d2c744726",
-    "8e8476893e1438fe"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybcuw2uyx2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybcuw2uyx2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myb7hseudq2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myb7hseudq2s"
     }
    ],
    "model": "opus",
