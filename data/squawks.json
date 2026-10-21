@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T08:31:02Z",
+ "generated_at": "2026-10-21T08:35:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4749cda7f42f",
+   "ts": "2026-10-21T08:34:42Z",
+   "headline": "Germany's Merz warns countries distorting markets will face a response, but says ideally the EU would not need new trade tools",
+   "detail": "German Chancellor Merz says countries that distort market conditions through excessive imbalances, undervalued currencies or other means should expect a response. He adds that in the best case the EU would not use its new trade tools.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2bef361a274ba7f3",
+    "4fb73a845a607986",
+    "d3e554c89eb20b2b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myeqja4jri2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myeqja4jri2e"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myeqicqykz25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myeqicqykz25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myeqj4ss4w2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myeqj4ss4w2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aefe147d19c4",
+   "created_at": "2026-10-21T08:35:39Z"
+  },
+  {
+   "id": "e1f642b911c0",
+   "ts": "2026-10-21T08:33:43Z",
+   "headline": "ONS: UK annual house price growth slows to 0.9% in August from 1.2%; private rents rise 3.8% in year to September",
+   "detail": "The ONS says UK house prices rose 0.9% in the year to August, down from 1.2% in the year to July. Average private rents rose 3.8% in the year to September, the same rate as in August.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "202d5509ca840445",
+    "e1341bc306efaa7c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myeqhhsbxg2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myeqhhsbxg2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myeqfnqroz25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myeqfnqroz25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aefe147d19c4",
+   "created_at": "2026-10-21T08:35:39Z"
+  },
   {
    "id": "650fe07834c6",
    "ts": "2026-10-21T08:28:38Z",
@@ -5858,48 +5918,6 @@
    "model": "opus",
    "run_id": "c32d09287618",
    "created_at": "2026-10-19T17:55:44Z"
-  },
-  {
-   "id": "06993ee09232",
-   "ts": "2026-10-19T17:50:16Z",
-   "headline": "Barclays says its £15bn private credit book meets accounting and capital rules after report of Bank of England scrutiny",
-   "detail": "Barclays said its £15 billion private credit exposure was treated in line with accounting and regulatory capital requirements, Reuters reports. The statement follows a report that the Bank of England was examining whether the bank's traders had understated the risk.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "8a893bf737fafba9"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myaomsl3nt2j",
-     "url": "https://bsky.app/profile/reuters.com/post/3myaomsl3nt2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7a5fa2239297",
-   "created_at": "2026-10-19T17:50:49Z"
-  },
-  {
-   "id": "89d463d78b21",
-   "ts": "2026-10-19T17:43:45Z",
-   "headline": "US Energy Secretary Wright says talks with the UK on releasing diesel stocks are continuing",
-   "detail": "US Energy Secretary Wright said on Monday that discussions with the UK on diesel stock releases are still under way. No figures or timing were given.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "d08bca48111b4db8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaob63c5m24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaob63c5m24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6139d9cdf01e",
-   "created_at": "2026-10-19T17:45:49Z"
   }
  ]
 }
