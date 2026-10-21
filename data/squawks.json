@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T15:25:40Z",
+ "generated_at": "2026-10-21T15:31:11Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dd789d6d5b2f",
+   "ts": "2026-10-21T15:27:17Z",
+   "headline": "US official says Russia has accepted a US proposal for a three-way meeting with Ukraine",
+   "detail": "A US official said Russia has agreed to the US proposal for trilateral talks with Ukraine. This follows US envoy Witkoff's talks with Putin. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "401f6f43e1f98b6a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfhkylhij2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfhkylhij2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6f99e7d0f931",
+   "created_at": "2026-10-21T15:31:11Z"
+  },
   {
    "id": "c71d09a7735e",
    "ts": "2026-10-21T15:21:27Z",
@@ -5760,27 +5781,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycbpdmrok2n",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycbpdmrok2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "267f982634fd",
-   "created_at": "2026-10-20T09:05:43Z"
-  },
-  {
-   "id": "c6456351ccd1",
-   "ts": "2026-10-20T09:01:29Z",
-   "headline": "Eurozone construction output rises 1.8% on the month after a flat previous reading",
-   "detail": "Eurozone construction output grew 1.8% month on month, following 0.0% in the previous reading. No forecast was given.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c68d2e4baeebee46"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycbk6xls52y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycbk6xls52y"
     }
    ],
    "model": "opus",
