@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T08:35:39Z",
+ "generated_at": "2026-10-21T08:45:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "273ed85d6f6a",
+   "ts": "2026-10-21T08:43:59Z",
+   "headline": "Germany's Merz says China's overcapacity and trade surplus must be tackled, seeking a new trade balance without conflict",
+   "detail": "German Chancellor Merz said China's excess capacity and trade surplus need to be addressed. He said the aim is a new trade balance with Beijing rather than conflict, and that Germany remains committed to open markets and a fair trade order.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "577a9c343041b8dc",
+    "bc13cdf46c6cd9e4",
+    "b3462336aa2bca06",
+    "9ade9a0e2b25270c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myeqztq2uu24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myeqztq2uu24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myer2oelbb25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myer2oelbb25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myer3gwy762b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myer3gwy762b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myer4ihw6e24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myer4ihw6e24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f18ef4ffd126",
+   "created_at": "2026-10-21T08:45:52Z"
+  },
   {
    "id": "4749cda7f42f",
    "ts": "2026-10-21T08:34:42Z",
@@ -5891,33 +5930,6 @@
    "model": "opus",
    "run_id": "134d2e971240",
    "created_at": "2026-10-19T18:05:40Z"
-  },
-  {
-   "id": "6da506c40097",
-   "ts": "2026-10-19T17:54:01Z",
-   "headline": "US Energy Secretary Wright says the US is converting sanctioned dark tankers into legitimate vessels",
-   "detail": "US Energy Secretary Wright said sanctioned tankers are being converted into legitimate tankers. He added that the number converted could run from dozens to hundreds.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "ef2b7f63d4fa1179",
-    "898233876eb7a448"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaotjggnj2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaotjggnj2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaov6i7xf2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaov6i7xf2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c32d09287618",
-   "created_at": "2026-10-19T17:55:44Z"
   }
  ]
 }
