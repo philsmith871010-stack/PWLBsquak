@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T13:15:50Z",
+ "generated_at": "2026-10-21T13:25:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "05b0d6cd4c9c",
+   "ts": "2026-10-21T13:21:53Z",
+   "headline": "Canada's Carney and Ontario's Ford are expected to announce support for steel and auto sectors hit by tariffs, CTV reports",
+   "detail": "Canadian broadcaster CTV reports that Prime Minister Mark Carney and Ontario Premier Doug Ford are expected to unveil tariff support measures for the steel and auto industries. The report gives no figures or timing.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "58ad09790d360cc8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfakqmhx52t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfakqmhx52t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b11f481e4610",
+   "created_at": "2026-10-21T13:25:46Z"
+  },
   {
    "id": "70afb841c721",
    "ts": "2026-10-21T13:14:46Z",
@@ -5807,39 +5828,6 @@
    "model": "opus",
    "run_id": "0645aaf44fe1",
    "created_at": "2026-10-20T05:30:58Z"
-  },
-  {
-   "id": "aa5861cefe90",
-   "ts": "2026-10-20T05:23:26Z",
-   "headline": "PBOC considers using the overnight rate as the main anchor of China's monetary policy",
-   "detail": "Reports say the People's Bank of China is exploring a shift to the overnight rate as its main policy anchor. An expert quoted by a PBOC-backed news outlet says the change does not signal monetary easing and should not be seen as a rate cut.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "07c7d876c884c3ab",
-    "2cf6a361fdca2d1b",
-    "ac9824775ab40ff1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybvecfprb2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybvecfprb2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybvagx5lf2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybvagx5lf2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybvempm2f2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybvempm2f2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "299ec7cd24c2",
-   "created_at": "2026-10-20T05:25:44Z"
   }
  ]
 }
