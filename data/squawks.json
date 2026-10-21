@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T17:15:53Z",
+ "generated_at": "2026-10-21T17:20:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8ab62dba6fec",
+   "ts": "2026-10-21T17:16:39Z",
+   "headline": "Yemen's Houthis say talks with Saudi Arabia are at a dead end and they are preparing for wider escalation",
+   "detail": "Yemen's Houthis said all negotiations have stalled, blaming Saudi Arabia for trying to impose its demands, and said they are preparing for an all-round escalation of conflicts. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "852c841f11c3992b",
+    "da06adc5b2dc558f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfnok5pnz25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfnok5pnz25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfnoobrav22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfnoobrav22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8398828d53a5",
+   "created_at": "2026-10-21T17:20:53Z"
+  },
   {
    "id": "3941b62561e0",
    "ts": "2026-10-21T17:13:24Z",
@@ -5652,33 +5679,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycjfclizv2n",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycjfclizv2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6ad96afae06b",
-   "created_at": "2026-10-20T11:25:42Z"
-  },
-  {
-   "id": "3a5e94deb71c",
-   "ts": "2026-10-20T11:21:23Z",
-   "headline": "Google Cloud outage disrupts UK banks including Halifax and Revolut",
-   "detail": "The FT reports that a Google Cloud outage has hit several businesses, including UK lenders Halifax and Revolut. Google says a power outage caused the failure of its Cloud services.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "32e6c7104e8c73cc",
-    "353fe458e9de3c5a"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mycjeece2u27",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mycjeece2u27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycjjwv6m32r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycjjwv6m32r"
     }
    ],
    "model": "opus",
