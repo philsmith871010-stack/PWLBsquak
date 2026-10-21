@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T05:15:54Z",
+ "generated_at": "2026-10-21T05:25:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3d5a17ef7711",
+   "ts": "2026-10-21T05:25:07Z",
+   "headline": "APEC finance ministers agree to step up macroeconomic policy coordination against external risks, China's Lan says",
+   "detail": "China's Finance Minister Lan Foan said on Wednesday that finance ministers from APEC member economies have agreed to strengthen communication and coordination on macroeconomic policy to deal with external risks and challenges, Reuters reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "da588d394a17d01d"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myefwa4jxo2t",
+     "url": "https://bsky.app/profile/reuters.com/post/3myefwa4jxo2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2fdd5e10d98f",
+   "created_at": "2026-10-21T05:25:43Z"
+  },
   {
    "id": "2ec5326531f2",
    "ts": "2026-10-21T04:40:10Z",
@@ -5819,27 +5840,6 @@
    "model": "opus",
    "run_id": "b0b950e88d3c",
    "created_at": "2026-10-19T15:20:50Z"
-  },
-  {
-   "id": "f50dce94737c",
-   "ts": "2026-10-19T15:06:40Z",
-   "headline": "French 10-year yields on course for their biggest one-day rise since March 2025",
-   "detail": "A market newswire headline reports the move as French bond selling continues amid political unrest and rioting. No new yield level was given.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "5759e97dcb0549df"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myafibhqad2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myafibhqad2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7e210a27f9d0",
-   "created_at": "2026-10-19T15:10:47Z"
   }
  ]
 }
