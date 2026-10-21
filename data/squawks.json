@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T05:25:43Z",
+ "generated_at": "2026-10-21T05:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0f7aedce318c",
+   "ts": "2026-10-21T05:39:12Z",
+   "headline": "Trump says new large data centres must generate their own electricity and supply any surplus to local communities or the grid",
+   "detail": "US President Trump said he has mandated that new large data centres produce their own power and give or sell excess electricity back to local communities or the grid. He gave no timing or further detail on how the requirement would be applied.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "a853239ed0b296fb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myegpgc3q32f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myegpgc3q32f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9855fae7ca31",
+   "created_at": "2026-10-21T05:40:50Z"
+  },
   {
    "id": "3d5a17ef7711",
    "ts": "2026-10-21T05:25:07Z",
@@ -5819,27 +5840,6 @@
    "model": "opus",
    "run_id": "0da8e217d9fb",
    "created_at": "2026-10-19T15:31:05Z"
-  },
-  {
-   "id": "83df2a4459d1",
-   "ts": "2026-10-19T15:16:22Z",
-   "headline": "Yemen's Houthi-run forces threaten Riyadh and say Saudi oil facilities are targets for their missiles",
-   "detail": "A military source with the Houthi-run Yemeni armed forces said the Saudi capital would not be safe and that Saudi oil facilities are within missile range, Iran's Fars news agency reported. No market reaction was reported.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "389e18d2ffc06503"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myafznfldx2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myafznfldx2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b0b950e88d3c",
-   "created_at": "2026-10-19T15:20:50Z"
   }
  ]
 }
