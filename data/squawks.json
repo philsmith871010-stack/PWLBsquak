@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T20:20:49Z",
+ "generated_at": "2026-10-21T20:31:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ba27945a0cda",
+   "ts": "2026-10-21T20:29:10Z",
+   "headline": "Senior Iranian security official says Iran expects a US-Israeli attack and treats US diplomatic gestures as invalid",
+   "detail": "Iran's Fars news agency reported the remarks from an unnamed senior Iranian security official on Wednesday evening. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "06b8ba348a5cf8cd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfygsg46t2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfygsg46t2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "733b30dcd2c8",
+   "created_at": "2026-10-21T20:31:04Z"
+  },
   {
    "id": "3a459db57d91",
    "ts": "2026-10-21T20:19:09Z",
@@ -5519,39 +5540,6 @@
    "model": "opus",
    "run_id": "332c6d9aaadd",
    "created_at": "2026-10-20T13:40:49Z"
-  },
-  {
-   "id": "49008c3b2c18",
-   "ts": "2026-10-20T13:35:00Z",
-   "headline": "China's commerce ministry firmly opposes the US order on DeepSeek and calls it discriminatory",
-   "detail": "China's commerce ministry says the US order on DeepSeek is discriminatory, politicises tech and trade issues under the pretext of national security, and ignores the consensus reached between the two countries' heads of state.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "60f32d117b0511d1",
-    "6c78742a55fb6718",
-    "80e0a218f10148f0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycqs7f4e72n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycqs7f4e72n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycqtaqunq2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycqtaqunq2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycqtbi3562r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycqtbi3562r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8bb57af4558c",
-   "created_at": "2026-10-20T13:35:40Z"
   }
  ]
 }
