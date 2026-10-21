@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T06:05:45Z",
+ "generated_at": "2026-10-21T06:10:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "91784d7518cc",
+   "ts": "2026-10-21T06:06:16Z",
+   "headline": "UK RPI inflation rises to 3.9% in September, in line with forecast and up from 3.4%",
+   "detail": "ONS data show RPI at 3.9% year on year in September, matching the 3.9% forecast, with a monthly rise of 0.1%. RPI excluding mortgage interest payments rose to 3.9% from 3.3%.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "539afa908f85f964"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myei7se3gy24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myei7se3gy24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9bad04dec247",
+   "created_at": "2026-10-21T06:10:54Z"
+  },
+  {
+   "id": "c8940f768c82",
+   "ts": "2026-10-21T06:06:08Z",
+   "headline": "UK core CPI rises to 2.8% in September, in line with forecast; CPIH reaches 3.6% and monthly CPI is 0.4%",
+   "detail": "ONS data show core CPI at 2.8% year on year in September, matching the 2.8% forecast and up from 2.6%. CPIH rose to 3.6% against a 3.5% forecast and 3.3% previously, and CPI rose 0.4% on the month against a 0.3% forecast.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "b3a35d74f81401a7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myei7l3f5q24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myei7l3f5q24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9bad04dec247",
+   "created_at": "2026-10-21T06:10:54Z"
+  },
   {
    "id": "8e7099af417d",
    "ts": "2026-10-21T06:02:05Z",
@@ -5864,54 +5906,6 @@
    "model": "opus",
    "run_id": "07a71d510730",
    "created_at": "2026-10-19T16:45:52Z"
-  },
-  {
-   "id": "e5e36034f7ff",
-   "ts": "2026-10-19T16:36:07Z",
-   "headline": "Houthis claim strikes on Saudi Arabia's Shaybah oilfield and on airports in Riyadh and Abha",
-   "detail": "Yemen's Houthi forces say they attacked the Shaybah oilfield, King Khalid airport in Riyadh and Abha airport. The posts do not report any damage to oil output or any market reaction.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a50838cebd0ff5d0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myakiadz3r2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myakiadz3r2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0a4db3774544",
-   "created_at": "2026-10-19T16:40:53Z"
-  },
-  {
-   "id": "b44bb6ae179d",
-   "ts": "2026-10-19T16:33:43Z",
-   "headline": "Houthis say they have attacked Saudi energy, airport and military targets, including an Aramco site in Yanbu",
-   "detail": "Yemen's Houthi-run forces announced several military operations deep inside Saudi territory, saying the targets included energy facilities, airports and military sites, among them an Aramco site in Yanbu. The batch reports no market reaction.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "073075672e4ef6a2",
-    "0866f3de2ac7dc8c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myakdxdqhg2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myakdxdqhg2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myak7zhhry2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myak7zhhry2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "64437474bbfd",
-   "created_at": "2026-10-19T16:35:43Z"
   }
  ]
 }
