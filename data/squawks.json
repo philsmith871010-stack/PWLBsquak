@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T10:05:42Z",
+ "generated_at": "2026-10-21T10:15:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3d1c2e11d4cd",
+   "ts": "2026-10-21T10:15:22Z",
+   "headline": "Kremlin says Russia will study the US proposals on Ukraine but that a great deal hinges on Ukraine",
+   "detail": "The Kremlin made the comment after Putin's talks with US envoy Witkoff, at which Witkoff presented documents setting out options for a Ukraine settlement.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3ca2fb5aa37342b6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myew5aartf2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myew5aartf2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fb89d869d1e9",
+   "created_at": "2026-10-21T10:15:47Z"
+  },
   {
    "id": "4884e12b769f",
    "ts": "2026-10-21T10:03:28Z",
@@ -5862,27 +5883,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaxw5y3qi2s",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaxw5y3qi2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5773c005bf4d",
-   "created_at": "2026-10-19T20:40:51Z"
-  },
-  {
-   "id": "729a1333b7e2",
-   "ts": "2026-10-19T20:36:01Z",
-   "headline": "Brent settles at $109.55 a barrel, close to a five-month high, as Middle East tensions weigh on supply",
-   "detail": "Brent settled at $109.55 a barrel and moved around a five-month high on supply risks from the Middle East. Gains were reported as limited by a recovery in Hormuz flows and by technical indicators showing the market as overbought.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "df9bdfda953d4ed5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaxv7p4xc2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaxv7p4xc2v"
     }
    ],
    "model": "opus",
