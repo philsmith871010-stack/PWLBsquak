@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T17:25:41Z",
+ "generated_at": "2026-10-21T17:35:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1e03e00b870d",
+   "ts": "2026-10-21T17:35:39Z",
+   "headline": "Kuwait Petroleum Corp CEO says Kuwait is producing well over 2m barrels a day of crude",
+   "detail": "The chief executive of Kuwait Petroleum Corp put Kuwait's crude production at well over 2m barrels a day. This follows his earlier statement that exports are above 1.1m barrels a day.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "3141a714bdfb9a8f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfoqjvadr2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfoqjvadr2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d810491f8006",
+   "created_at": "2026-10-21T17:35:50Z"
+  },
   {
    "id": "d22e60c63e42",
    "ts": "2026-10-21T17:24:16Z",
@@ -5675,27 +5696,6 @@
    "model": "opus",
    "run_id": "3d150a55f1dc",
    "created_at": "2026-10-20T11:55:54Z"
-  },
-  {
-   "id": "e4a680e9dd27",
-   "ts": "2026-10-20T11:23:13Z",
-   "headline": "Starmer's spokesman rejects the idea that the UK risks being drawn into the Saudi-Houthi war",
-   "detail": "The Prime Minister's spokesman said the government does not accept that the UK risks being pulled into the Saudi-Houthi conflict. This follows the UK's decision to fly defensive missions over Saudi Arabia.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "61771a503feb4265"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycjhnavzk2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycjhnavzk2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6ad96afae06b",
-   "created_at": "2026-10-20T11:25:42Z"
   }
  ]
 }
