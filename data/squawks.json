@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T16:40:51Z",
+ "generated_at": "2026-10-21T16:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c52a318d3dc6",
+   "ts": "2026-10-21T16:43:52Z",
+   "headline": "US Treasury issues Iran general licence HH allowing cargo to be offloaded from some blocked vessels",
+   "detail": "The US Treasury Department has issued Iran-related general licence HH, which authorises the offloading of cargo involving certain blocked vessels. It follows new Iran-related sanctions the Treasury announced earlier.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "de0bebccc6e7bfb0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfltwwvoj2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfltwwvoj2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7b911fe59516",
+   "created_at": "2026-10-21T16:45:51Z"
+  },
+  {
+   "id": "471910c533c5",
+   "ts": "2026-10-21T16:40:51Z",
+   "headline": "US issues licence permitting talks on the sale of Lukoil International GmbH",
+   "detail": "US authorities have published a licence that permits talks on the sale of Lukoil International GmbH, the international arm of the Russian oil company.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "64860ad3527f47ae"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myflojt62l2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myflojt62l2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7b911fe59516",
+   "created_at": "2026-10-21T16:45:51Z"
+  },
   {
    "id": "9acf6a3d368a",
    "ts": "2026-10-21T16:40:41Z",
@@ -5720,48 +5762,6 @@
    "model": "opus",
    "run_id": "04b325d22f26",
    "created_at": "2026-10-20T09:55:47Z"
-  },
-  {
-   "id": "50ec0dbddeac",
-   "ts": "2026-10-20T09:44:28Z",
-   "headline": "ECB policymaker Rehn says the French-German bond spread has widened somewhat",
-   "detail": "Olli Rehn, Bank of Finland governor and member of the ECB Governing Council, said the gap between French and German government bond yields has widened to some extent.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c18170140ffb2fe3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycdx2vlej26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycdx2vlej26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b28eace74d40",
-   "created_at": "2026-10-20T09:45:48Z"
-  },
-  {
-   "id": "0c3e52c68cdf",
-   "ts": "2026-10-20T09:31:03Z",
-   "headline": "Kremlin says Russia values the work of US negotiators highly",
-   "detail": "The Kremlin said on 20 October that Russia rates the efforts of US negotiators highly. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a7a4552903f9a99c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycd72z56t2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycd72z56t2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "608db8c4b2c7",
-   "created_at": "2026-10-20T09:35:44Z"
   }
  ]
 }
