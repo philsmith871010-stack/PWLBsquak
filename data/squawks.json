@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T13:31:06Z",
+ "generated_at": "2026-10-21T13:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "319818b46b1d",
+   "ts": "2026-10-21T13:33:38Z",
+   "headline": "Kremlin aide Ushakov says a post-war security system for Russia and Ukraine is the main topic for resuming talks",
+   "detail": "Kremlin foreign policy aide Yuri Ushakov said Russia is prepared to resume negotiations chiefly on building a security system for Russia and Ukraine once the conflict ends. He spoke after Putin's talks with US envoy Witkoff.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2d97bcc6f7e87068"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfb7rjfzl25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfb7rjfzl25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "987a6cdcb3a8",
+   "created_at": "2026-10-21T13:35:41Z"
+  },
   {
    "id": "91b12dfa4e52",
    "ts": "2026-10-21T13:30:27Z",
@@ -5808,45 +5829,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxiuavpv2z",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxiuavpv2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6a439c4a1b31",
-   "created_at": "2026-10-20T06:05:41Z"
-  },
-  {
-   "id": "a6227b908b48",
-   "ts": "2026-10-20T06:01:11Z",
-   "headline": "UK unemployment rate falls to 4.7% against a 4.9% forecast; employment up 102K on the quarter",
-   "detail": "UK labour market data show the unemployment rate at 4.7%, compared with a forecast and previous reading of 4.9%. Employment rose 102K over three months, against a 5K forecast and 67K previously, and average weekly earnings growth including bonuses slowed to 3.7% from 3.9%, below the 3.8% forecast.",
-   "category": "data",
-   "importance": 3,
-   "source_event_ids": [
-    "bc439d2d78080014",
-    "ad6b339eb3ea2f8c",
-    "2ced16fb329c2931",
-    "0447917b100985b4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxhs6qm22w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxhs6qm22w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxilrxpc2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxilrxpc2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxiotayc2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxiotayc2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxjpqmja2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxjpqmja2n"
     }
    ],
    "model": "opus",
