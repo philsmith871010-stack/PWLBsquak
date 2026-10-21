@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T18:05:47Z",
+ "generated_at": "2026-10-21T18:25:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "25eaa69ee1cb",
+   "ts": "2026-10-21T18:23:37Z",
+   "headline": "Zelenskyy backs US proposal for negotiator-level trilateral talks and hopes they meet by early November",
+   "detail": "Ukraine's President Zelenskyy says he supports the US proposal for three-way talks between negotiators as soon as possible. He says the teams could meet in early November and hopes the meeting happens no later than that.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "071a08e62f93c3f7",
+    "f88acc60d04a8c01",
+    "062ee0fe5324fe61"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfrgcivx32x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfrgcivx32x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfrh3utfe2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfrh3utfe2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfrh6el6f2x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfrh6el6f2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c488980113e1",
+   "created_at": "2026-10-21T18:25:45Z"
+  },
   {
    "id": "673eebe6525a",
    "ts": "2026-10-21T18:03:27Z",
@@ -5681,27 +5714,6 @@
    "model": "opus",
    "run_id": "a98ea77b4264",
    "created_at": "2026-10-20T12:31:05Z"
-  },
-  {
-   "id": "cb1eedda7033",
-   "ts": "2026-10-20T12:25:08Z",
-   "headline": "Russian diesel exports head back to former main buyers after the US-brokered lifting of Moscow's export ban",
-   "detail": "Reuters reports that Kpler and LSEG shipping data show at least two tankers signalling voyages to Turkey and Brazil in recent days, after Russia's diesel export ban was lifted with US involvement.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "3869280deb9beb08"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mycmwedgsp2t",
-     "url": "https://bsky.app/profile/reuters.com/post/3mycmwedgsp2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "06f4ea94477e",
-   "created_at": "2026-10-20T12:25:40Z"
   }
  ]
 }
