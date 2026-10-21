@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T17:35:50Z",
+ "generated_at": "2026-10-21T17:40:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "119275503a65",
+   "ts": "2026-10-21T17:36:33Z",
+   "headline": "Kuwait Petroleum Corp CEO says crude exports are back at pre-war levels, with buyers now coming into the Gulf to load",
+   "detail": "The chief executive of Kuwait Petroleum Corp said Kuwait's crude exports have returned to pre-war levels and that customers are now sending ships into the Gulf to collect cargoes. He also repeated that production is well over 2m barrels a day.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "35926167fc7c2e8e",
+    "68d1ed6aa4a28076",
+    "85108351b322eca5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfos5mpul24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfos5mpul24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfov7of7b2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfov7of7b2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfozidsk22h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfozidsk22h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a25f5d3ef51e",
+   "created_at": "2026-10-21T17:40:48Z"
+  },
   {
    "id": "1e03e00b870d",
    "ts": "2026-10-21T17:35:39Z",
@@ -5675,27 +5708,6 @@
    "model": "opus",
    "run_id": "2f8d642789a0",
    "created_at": "2026-10-20T12:01:15Z"
-  },
-  {
-   "id": "5966c4229dc6",
-   "ts": "2026-10-20T11:55:33Z",
-   "headline": "Russia's deputy foreign minister Ryabkov says Moscow still views a possible US-Russia diesel deal positively",
-   "detail": "Russian Deputy Foreign Minister Sergei Ryabkov said Moscow still sees the possible diesel deal between Russia and the United States in a positive light. US lawmakers have opposed the proposed deal, and the US Energy Secretary has said no Russian diesel has been released so far.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "f2e92846111e87bc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myclbhjy6t2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myclbhjy6t2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3d150a55f1dc",
-   "created_at": "2026-10-20T11:55:54Z"
   }
  ]
 }
