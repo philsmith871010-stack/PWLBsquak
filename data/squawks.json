@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T09:31:01Z",
+ "generated_at": "2026-10-21T09:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b49950dc57b7",
+   "ts": "2026-10-21T09:33:49Z",
+   "headline": "Putin offers to discuss a possible meeting with Trump in China during talks with US envoy Witkoff",
+   "detail": "Russian President Putin offered to discuss the possibility of meeting US President Trump in China. He also proposed that US envoy Witkoff discuss restoring bilateral ties and economic cooperation.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9205a652cf811688",
+    "9d6429c2fa684cfc",
+    "bbe750e64777b5b9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myetsxfv2f2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myetsxfv2f2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myetpccag622",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myetpccag622"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myetpebpjq2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myetpebpjq2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "21a2c6da3cdf",
+   "created_at": "2026-10-21T09:35:41Z"
+  },
   {
    "id": "7d0f7eccaa44",
    "ts": "2026-10-21T09:28:35Z",
@@ -5891,57 +5924,6 @@
    "model": "opus",
    "run_id": "3e59751f4414",
    "created_at": "2026-10-19T19:31:05Z"
-  },
-  {
-   "id": "14092ce37191",
-   "ts": "2026-10-19T19:21:56Z",
-   "headline": "Trump says the US is negotiating with Russia on Iran and diesel and is open to a trilateral meeting with Russia and China",
-   "detail": "Speaking live, the US President said he would schedule a joint meeting with Xi and Putin on the basis of denuclearisation, said Russia has been fine on Ukraine, and said he did not think Zelenskiy wants to end the war. No market reaction was reported in the posts.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "af86912a9e8013a4",
-    "75e61eb2488fcc12",
-    "3a354982de77c972",
-    "aa071c005cf1a4b3",
-    "c235a54c32ab73c5",
-    "859b082dc5245391"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myatqqfooy2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myatqqfooy2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myatqscfqk2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myatqscfqk2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myatqvbm4u26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myatqvbm4u26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myatrpxgv42r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myatrpxgv42r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myatujknv72q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myatujknv72q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myatvf3ffh2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myatvf3ffh2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8460d6c26704",
-   "created_at": "2026-10-19T19:25:42Z"
   }
  ]
 }
