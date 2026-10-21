@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T16:45:51Z",
+ "generated_at": "2026-10-21T16:50:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "79f93ae33fd0",
+   "ts": "2026-10-21T16:48:29Z",
+   "headline": "US adds vessels to its Iran sanctions list",
+   "detail": "The United States has added vessels to its Iran-related sanctions list, according to a market news post. The post gave no figures and reported no market reaction.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2f7e4ce8e1c73b76"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfm46urhi22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfm46urhi22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "10366362c03b",
+   "created_at": "2026-10-21T16:50:50Z"
+  },
   {
    "id": "c52a318d3dc6",
    "ts": "2026-10-21T16:43:52Z",
@@ -5741,27 +5762,6 @@
    "model": "opus",
    "run_id": "34a15cfac5a5",
    "created_at": "2026-10-20T10:01:20Z"
-  },
-  {
-   "id": "91fc0bae1532",
-   "ts": "2026-10-20T09:55:36Z",
-   "headline": "IEA chief Birol says the agency will consider further releases from emergency oil stocks if needed",
-   "detail": "Fatih Birol, head of the International Energy Agency, said the agency would look at releasing more oil from emergency stocks if required. No volumes or timing were given.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "bf3daea1f1df8468"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycekxk7f52z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycekxk7f52z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "04b325d22f26",
-   "created_at": "2026-10-20T09:55:47Z"
   }
  ]
 }
