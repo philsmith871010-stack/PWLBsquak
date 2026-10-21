@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T14:01:17Z",
+ "generated_at": "2026-10-21T14:10:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "538b687360f3",
+   "ts": "2026-10-21T14:09:57Z",
+   "headline": "Israel's Netanyahu says Iran is again pursuing nuclear weapons and that only regime change in Tehran would remove the threat",
+   "detail": "Reports quote Israeli Prime Minister Netanyahu as saying Iran is trying again to develop nuclear weapons under Mojtaba Khamenei. He said overthrowing the Iranian government was the only way to remove the threat.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "db15bcce3de875cd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfdapqp6x2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfdapqp6x2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5d702287793e",
+   "created_at": "2026-10-21T14:10:54Z"
+  },
   {
    "id": "02abf2f5c880",
    "ts": "2026-10-21T13:59:23Z",
@@ -5783,33 +5804,6 @@
    "model": "opus",
    "run_id": "10c1b0d30058",
    "created_at": "2026-10-20T07:40:48Z"
-  },
-  {
-   "id": "e64089a71f5c",
-   "ts": "2026-10-20T07:01:54Z",
-   "headline": "UAE commits to supplying France with 100k tons of diesel a month; Bahrain and UAE deliveries due in coming weeks",
-   "detail": "The United Arab Emirates has committed to provide France with 100k tons of diesel a month, following an earlier Saudi commitment. Deliveries from Bahrain and the UAE to France are reported to start in the coming weeks.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "646f871f544081f1",
-    "71a1972190e6cf27"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc2uf56op2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc2uf56op2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc2tmu3wf2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc2tmu3wf2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c708b6f4f16f",
-   "created_at": "2026-10-20T07:05:48Z"
   }
  ]
 }
