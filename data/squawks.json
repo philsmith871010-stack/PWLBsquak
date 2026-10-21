@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T18:25:45Z",
+ "generated_at": "2026-10-21T18:31:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "90b0df69fa4f",
+   "ts": "2026-10-21T18:27:16Z",
+   "headline": "Canada and Ontario announce C$9bn joint package for steel and auto sectors affected by US tariffs",
+   "detail": "Canada's PM Carney said the package will also support critical minerals supply chains, and that Canada will tighten enforcement against foreign steel dumping. He said Canada is still ready to negotiate a fair trade deal once the US is willing to talk in good faith.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1895a940f4cc4515",
+    "a83ac48fb8d6c0b3",
+    "0e0153ef135e0a6a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfrmtdnmu2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfrmtdnmu2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfrmz6ade2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfrmz6ade2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfrnrjjuc22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfrnrjjuc22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "239c6a983bae",
+   "created_at": "2026-10-21T18:31:06Z"
+  },
   {
    "id": "25eaa69ee1cb",
    "ts": "2026-10-21T18:23:37Z",
@@ -5687,33 +5720,6 @@
    "model": "opus",
    "run_id": "2502cc2543dc",
    "created_at": "2026-10-20T12:35:47Z"
-  },
-  {
-   "id": "25f9eb10790c",
-   "ts": "2026-10-20T12:30:54Z",
-   "headline": "US housing starts fall to 1.221M in September, short of the 1.305M forecast",
-   "detail": "US housing starts came in at 1.221M for September, against a forecast of 1.305M and down from 1.275M the previous month.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c3804c5c5d0f9c53",
-    "b35802f37dfd9624"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycnantbpm2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycnantbpm2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycnasfls62y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycnasfls62y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a98ea77b4264",
-   "created_at": "2026-10-20T12:31:05Z"
   }
  ]
 }
