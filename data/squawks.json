@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T19:20:50Z",
+ "generated_at": "2026-10-21T19:31:02Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2ce86d3c0f17",
+   "ts": "2026-10-21T19:27:41Z",
+   "headline": "US orders non-emergency government staff and their families to leave Saudi Arabia as Houthi attacks increase",
+   "detail": "The US State Department has issued an ordered departure for non-emergency government employees and their families, covering Saudi Arabia only. A State Department spokesperson said Iranian-backed Houthis have stepped up attacks on Saudi Arabia, including on civilian airports and critical infrastructure.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f4b821d87ce66680",
+    "1b9b4c991f46e18d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfuytp3a32q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfuytp3a32q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfv4eb5uq27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfv4eb5uq27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f8ed681000aa",
+   "created_at": "2026-10-21T19:31:02Z"
+  },
   {
    "id": "1e82a9124e76",
    "ts": "2026-10-21T19:16:34Z",
@@ -5681,27 +5708,6 @@
    "model": "opus",
    "run_id": "88ea1e18b487",
    "created_at": "2026-10-20T13:20:53Z"
-  },
-  {
-   "id": "6cae435e51ae",
-   "ts": "2026-10-20T13:12:31Z",
-   "headline": "Italy's PM Meloni condemns the US diesel deal with Russia",
-   "detail": "A market commentator reports that Italian Prime Minister Giorgia Meloni has strongly condemned the US diesel arrangement with Russia. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5aca060bb83be6b8"
-   ],
-   "sources": [
-    {
-     "author": "robin-j-brooks.bsky.social",
-     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3mycpl3cbo224",
-     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3mycpl3cbo224"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6ae78c008a84",
-   "created_at": "2026-10-20T13:15:50Z"
   }
  ]
 }
