@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T09:10:53Z",
+ "generated_at": "2026-10-21T09:15:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cc548903f3c7",
+   "ts": "2026-10-21T09:12:54Z",
+   "headline": "Putin says Russia could increase its fertiliser supplies to the US",
+   "detail": "Interfax reports that Russian President Putin made the remark during his talks with US envoy Witkoff, which have focused on restoring economic ties with the US.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1ffef331b5038929",
+    "aca1e8539f515fcc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myesnjxplr25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myesnjxplr25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myesohcgik2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myesohcgik2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cba1c80b5b5e",
+   "created_at": "2026-10-21T09:15:48Z"
+  },
+  {
+   "id": "597c44132fb5",
+   "ts": "2026-10-21T09:12:02Z",
+   "headline": "US envoy Witkoff says he has brought Putin documents setting out options for a Ukraine settlement",
+   "detail": "Interfax reports that US envoy Witkoff said this during his talks with Russian President Putin in Moscow.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "462e26205e514339",
+    "79dc55d031780c66"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myeslyrtdj25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myeslyrtdj25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myesm2y6c722",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myesm2y6c722"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cba1c80b5b5e",
+   "created_at": "2026-10-21T09:15:48Z"
+  },
   {
    "id": "09bcfd00fb57",
    "ts": "2026-10-21T09:06:51Z",
@@ -5894,48 +5948,6 @@
    "model": "opus",
    "run_id": "cb41825894ec",
    "created_at": "2026-10-19T19:20:51Z"
-  },
-  {
-   "id": "27a4233bc37e",
-   "ts": "2026-10-19T19:02:02Z",
-   "headline": "Iran says its offer to reopen the Strait of Hormuz within days still stands if the US accepts its conditions",
-   "detail": "Iran said the offer to reopen the strait remains available on condition that Washington accepts Tehran's terms. Tensions and attacks around the waterway are continuing.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f429342a41f8b140"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myasn5qj3v2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myasn5qj3v2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d97f799b4fd4",
-   "created_at": "2026-10-19T19:05:41Z"
-  },
-  {
-   "id": "faa57e9814a8",
-   "ts": "2026-10-19T18:57:17Z",
-   "headline": "IRGC spokesman points to seven major undersea data cables under the Strait of Hormuz in a warning to Iran's enemies",
-   "detail": "Iran's Revolutionary Guards spokesman said seven major cables carrying global internet and business data run beneath the Strait of Hormuz, and told the enemy to bear this in mind, Fars News reported. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "acbf1fec40aad67f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaseni4at2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaseni4at2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "96d794ff9fb0",
-   "created_at": "2026-10-19T19:01:20Z"
   }
  ]
 }
