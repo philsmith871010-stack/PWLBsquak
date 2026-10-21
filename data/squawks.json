@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T13:45:50Z",
+ "generated_at": "2026-10-21T14:01:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "02abf2f5c880",
+   "ts": "2026-10-21T13:59:23Z",
+   "headline": "Aramco's Yanbu and Shaybah facilities are undamaged after Houthi claims of an attack, Argus reports",
+   "detail": "Argus reports that Saudi Aramco's Yanbu and Shaybah facilities were not damaged following Houthi claims of an attack on them. No market reaction was reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "d4298c09ebe464d1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfcnt3glt2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfcnt3glt2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d7b45c1ee215",
+   "created_at": "2026-10-21T14:01:17Z"
+  },
   {
    "id": "df2d2d13a264",
    "ts": "2026-10-21T13:43:25Z",
@@ -5789,27 +5810,6 @@
    "model": "opus",
    "run_id": "c708b6f4f16f",
    "created_at": "2026-10-20T07:05:48Z"
-  },
-  {
-   "id": "bd6d66bdf6d6",
-   "ts": "2026-10-20T07:00:55Z",
-   "headline": "Saudi Arabia commits to supplying France with 95k tons of diesel a month",
-   "detail": "Saudi Arabia has committed to supply France with 95k tons of diesel per month, according to a market news post. No further terms or timing were given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "76edd3bdfce9e110"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc2smgppn2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc2smgppn2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1a2af5b10ddd",
-   "created_at": "2026-10-20T07:01:12Z"
   }
  ]
 }
