@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T07:25:43Z",
+ "generated_at": "2026-10-21T08:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b6fc18a778b4",
+   "ts": "2026-10-21T08:05:08Z",
+   "headline": "EU's von der Leyen says the Commission will propose new measures to shield the EU market from cheap imports",
+   "detail": "European Commission President Ursula von der Leyen said on Wednesday that the Commission will propose new tools to protect the EU from unfair competition from cheap imports, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "00448d6f60f73211"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myeoudyl5u2w",
+     "url": "https://bsky.app/profile/reuters.com/post/3myeoudyl5u2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a42178ad6207",
+   "created_at": "2026-10-21T08:05:43Z"
+  },
   {
    "id": "110aa454031a",
    "ts": "2026-10-21T07:21:08Z",
@@ -5879,27 +5900,6 @@
    "model": "opus",
    "run_id": "4e256b29583f",
    "created_at": "2026-10-19T17:11:08Z"
-  },
-  {
-   "id": "5ac72b754abc",
-   "ts": "2026-10-19T16:54:25Z",
-   "headline": "French authorities extend curfews to Paris, covering Place de la République and Les Halles from 2000 GMT",
-   "detail": "BFM TV reports that French authorities have ordered a curfew for the Place de la République and Les Halles areas of Paris from 2000 GMT. It follows earlier curfews in Lille and other northern cities after riots.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "30862f74b33b4bd5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myalixfsp726",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myalixfsp726"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0f4125e376df",
-   "created_at": "2026-10-19T16:55:43Z"
   }
  ]
 }
