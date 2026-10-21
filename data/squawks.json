@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T20:40:49Z",
+ "generated_at": "2026-10-21T20:55:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "820121abf35c",
+   "ts": "2026-10-21T20:53:57Z",
+   "headline": "US troops and diplomats are leaving posts in the Middle East, NBC reports, citing two US officials",
+   "detail": "NBC reports that US troops and diplomats are being evacuated from posts in the Middle East, citing two US officials. This comes after earlier reports that the US was preparing to order some staff and families out of its embassies across the Gulf.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b24828c2ef8c6a9a",
+    "180cfb2a5def6aea"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfzt4a6262i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfzt4a6262i"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfzv2lwac26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfzv2lwac26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "751d33826e86",
+   "created_at": "2026-10-21T20:55:47Z"
+  },
   {
    "id": "a4fe71383bdb",
    "ts": "2026-10-21T20:40:47Z",
@@ -5507,33 +5534,6 @@
    "model": "opus",
    "run_id": "14bd0d429b1f",
    "created_at": "2026-10-20T14:01:16Z"
-  },
-  {
-   "id": "c559ec3d9be5",
-   "ts": "2026-10-20T13:53:26Z",
-   "headline": "US Energy Under Secretary Haustveit says diesel prices are too high and the US is working with refiners to raise output",
-   "detail": "US Energy Under Secretary Haustveit said current diesel prices are higher than anyone would want and that officials are working with refiners on ways to increase production.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "f37c9ee39ecaac1c",
-    "0d3f5bd7a30048fb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycrubd5632s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycrubd5632s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycryjnffl2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycryjnffl2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "985ee0225d1b",
-   "created_at": "2026-10-20T13:56:03Z"
   }
  ]
 }
