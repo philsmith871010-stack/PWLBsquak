@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T18:50:51Z",
+ "generated_at": "2026-10-21T19:01:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e19d474945aa",
+   "ts": "2026-10-21T19:01:06Z",
+   "headline": "Saudi Energy Ministry says air defences intercept a drone aimed at a facility at Aramco's Shaybah oilfield",
+   "detail": "The Saudi Energy Ministry said air defences intercepted a drone that was trying to hit a facility at Aramco's Shaybah oilfield. The ministry statement made no mention of damage.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "b4c1abcc37e66598"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myftjdbae527",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myftjdbae527"
+    }
+   ],
+   "model": "opus",
+   "run_id": "972b190de904",
+   "created_at": "2026-10-21T19:01:17Z"
+  },
+  {
+   "id": "a22cefa3dbfe",
+   "ts": "2026-10-21T19:01:01Z",
+   "headline": "Canada's Carney says he held a lengthy call with Trump on Wednesday covering trade and Iran",
+   "detail": "Canadian Prime Minister Mark Carney said he spoke with US President Trump on Wednesday about a wide range of issues, including Iran and some trade matters. He gave no details of any outcome.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c48b58002911903a",
+    "7732829ee2702baf",
+    "fb2e31b19303e55d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfthfr3wi2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfthfr3wi2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myftid5yci2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myftid5yci2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myftj6bi242t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myftj6bi242t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "972b190de904",
+   "created_at": "2026-10-21T19:01:17Z"
+  },
   {
    "id": "5c423723e2f3",
    "ts": "2026-10-21T18:49:15Z",
@@ -5636,60 +5690,6 @@
    "model": "opus",
    "run_id": "3825d19b2655",
    "created_at": "2026-10-20T12:50:48Z"
-  },
-  {
-   "id": "64c03025ec9d",
-   "ts": "2026-10-20T12:45:41Z",
-   "headline": "Qatar and Pakistan put forward a compromise proposal in US-Iran talks, Al-Araby Al-Jadeed reports",
-   "detail": "Al-Araby Al-Jadeed, citing sources familiar with the mediation, reports that Qatar and Pakistan have presented a compromise proposal intended to meet both US and Iranian demands. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6c5ecaccfc0b9258"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myco346xhu2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myco346xhu2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3fca166022a2",
-   "created_at": "2026-10-20T12:45:47Z"
-  },
-  {
-   "id": "cc5acaba1835",
-   "ts": "2026-10-20T12:39:51Z",
-   "headline": "All 100 economists in a poll expect a Fed rate hike in December; 94 see a hold at the 27-28 October meeting",
-   "detail": "In the poll, 94 of 100 economists expect the fed funds rate to stay at 3.75%-4.00% this month and the rest expect a hike to 4.00%-4.25%. 94 of 100 see 4.00%-4.25% by the end of 2026, compared with 29 of 76 in the September poll.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "d4d9fe918afd5039",
-    "2f3344c6639ea7d4",
-    "fb3e64a13f728e4e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycnptwe5e2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycnptwe5e2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycnqnxh6k2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycnqnxh6k2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycnqolzzs2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycnqolzzs2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4e902892c5d8",
-   "created_at": "2026-10-20T12:40:52Z"
   }
  ]
 }
