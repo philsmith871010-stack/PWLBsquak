@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T12:31:05Z",
+ "generated_at": "2026-10-21T12:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "82e7d8e814a6",
+   "ts": "2026-10-21T12:33:33Z",
+   "headline": "UK Energy Secretary is leaning towards rejecting the Rosebank oilfield, the Guardian reports",
+   "detail": "The Guardian reports that the UK Energy Secretary is inclined to reject the Rosebank oilfield development. No final decision has been reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "2dd26e2da5688d6c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myf5udkky32t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myf5udkky32t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1d87c68f0d51",
+   "created_at": "2026-10-21T12:35:42Z"
+  },
   {
    "id": "acf8c07b290b",
    "ts": "2026-10-21T12:29:46Z",
@@ -5820,33 +5841,6 @@
      "author": "financialtimes.com",
      "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mybs5s54ev2d",
      "url": "https://bsky.app/profile/financialtimes.com/post/3mybs5s54ev2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e1b331289c8f",
-   "created_at": "2026-10-20T05:10:47Z"
-  },
-  {
-   "id": "d7aaad406aed",
-   "ts": "2026-10-20T03:42:49Z",
-   "headline": "China sells 10-year government bonds at a 1.6057% yield",
-   "detail": "Traders say China's finance ministry auctioned 10-year bonds at a yield of 1.6057%, and offered 2-month bills at 1.0316%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "95fac3bb9586cbc6",
-    "824c7a4a67a23655"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybpqf3rxb2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybpqf3rxb2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybpqluzwx2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybpqluzwx2n"
     }
    ],
    "model": "opus",
