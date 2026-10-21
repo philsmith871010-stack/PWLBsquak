@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T20:31:04Z",
+ "generated_at": "2026-10-21T20:40:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a4fe71383bdb",
+   "ts": "2026-10-21T20:40:47Z",
+   "headline": "Iran warns it will target US political figures if strikes on Iran resume, Fars reports",
+   "detail": "Iran's Fars news agency reports that Iran has threatened to target US political figures if strikes on the country resume. No market reaction is reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "bbe26b7d05b13ed2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfz3ku5vs2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfz3ku5vs2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "21b8432797c2",
+   "created_at": "2026-10-21T20:40:49Z"
+  },
   {
    "id": "ba27945a0cda",
    "ts": "2026-10-21T20:29:10Z",
@@ -5513,33 +5534,6 @@
    "model": "opus",
    "run_id": "985ee0225d1b",
    "created_at": "2026-10-20T13:56:03Z"
-  },
-  {
-   "id": "cab53bf32983",
-   "ts": "2026-10-20T13:36:26Z",
-   "headline": "China tells the US to revoke restrictions on Chinese firms and vows necessary measures to defend its interests",
-   "detail": "China's commerce ministry called on the US to immediately reverse what it described as discriminatory restrictions on Chinese companies. It said China would take necessary measures to protect its interests.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9d3721c8b3cbafc8",
-    "3ed99f577b5ba97a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycquzn5vg2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycquzn5vg2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycqvuhjow2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycqvuhjow2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "332c6d9aaadd",
-   "created_at": "2026-10-20T13:40:49Z"
   }
  ]
 }
