@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T16:25:42Z",
+ "generated_at": "2026-10-21T16:40:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9acf6a3d368a",
+   "ts": "2026-10-21T16:40:41Z",
+   "headline": "US Treasury announces new Iran-related sanctions",
+   "detail": "The US Treasury Department has issued a new round of sanctions related to Iran. No details of the targets were included in the initial report.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "432efcd6f6ebd90d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfloavnlb2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfloavnlb2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "beb47761a250",
+   "created_at": "2026-10-21T16:40:51Z"
+  },
   {
    "id": "f4ddd5b5f3bf",
    "ts": "2026-10-21T16:25:12Z",
@@ -5741,39 +5762,6 @@
    "model": "opus",
    "run_id": "608db8c4b2c7",
    "created_at": "2026-10-20T09:35:44Z"
-  },
-  {
-   "id": "8bed071947a3",
-   "ts": "2026-10-20T09:30:49Z",
-   "headline": "Kremlin hopes Putin can meet US envoy Witkoff in Russia soon and calls for urgent resumption of US nuclear stability talks",
-   "detail": "The Kremlin said it hoped a meeting between President Putin and Trump envoy Steve Witkoff could be organised in Russia in the near future, and that US negotiators could brief Putin on the Ukrainian and European positions. It also said dialogue with the US on strategic nuclear stability needs to resume urgently.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9d24accbbb3f9998",
-    "321404ae47134272",
-    "572c7c0bbf45078a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycd6ny3hm24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycd6ny3hm24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycd6sfeqh2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycd6sfeqh2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycd6ukeqp2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycd6ukeqp2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c3832eb24dce",
-   "created_at": "2026-10-20T09:31:03Z"
   }
  ]
 }
