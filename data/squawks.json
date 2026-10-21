@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T20:15:52Z",
+ "generated_at": "2026-10-21T20:20:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3a459db57d91",
+   "ts": "2026-10-21T20:19:09Z",
+   "headline": "Trump says the US continues to beat Iran and that he cannot say whether a denuclearisation meeting will happen",
+   "detail": "US President Trump made the remarks to reporters on Wednesday evening. He also said he can impose sanctions on any day.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ba0088125ac2b101",
+    "cf9e02c05fea6e8a",
+    "fa0dcd7b1a911360"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfxuv5oq22x",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfxuv5oq22x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfxrxoxme27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfxrxoxme27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfxuw4xoa26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfxuw4xoa26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "42cfebcf3809",
+   "created_at": "2026-10-21T20:20:49Z"
+  },
   {
    "id": "856708f9c570",
    "ts": "2026-10-21T20:13:04Z",
@@ -5514,27 +5547,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mycqtbi3562r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mycqtbi3562r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8bb57af4558c",
-   "created_at": "2026-10-20T13:35:40Z"
-  },
-  {
-   "id": "526766f76ad6",
-   "ts": "2026-10-20T13:31:59Z",
-   "headline": "French borrowing costs rise further towards 5% as social unrest weighs on the bond market, FT reports",
-   "detail": "The FT reports that French government borrowing costs rose again today to close to 5%, amid social unrest in France and fallout in the bond market.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "533bdae8efd83470"
-   ],
-   "sources": [
-    {
-     "author": "iankmsmith.ft.com",
-     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3mycqnvibfk2c",
-     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3mycqnvibfk2c"
     }
    ],
    "model": "opus",
