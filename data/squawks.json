@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T13:35:41Z",
+ "generated_at": "2026-10-21T13:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a52fdfe81b52",
+   "ts": "2026-10-21T13:40:19Z",
+   "headline": "Kuwait Petroleum Corp CEO says Kuwait is exporting more than 1.1m barrels a day of crude",
+   "detail": "The chief executive of Kuwait Petroleum Corporation said Kuwait's crude oil exports are running above 1.1m barrels per day.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "a0bfe6ae22076928"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfblpbbvu2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfblpbbvu2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "706161b61f18",
+   "created_at": "2026-10-21T13:40:50Z"
+  },
+  {
+   "id": "1b717295ffdd",
+   "ts": "2026-10-21T13:36:42Z",
+   "headline": "Kremlin aide Ushakov says Putin and US envoy Witkoff discussed a plan to possibly resume Russia-US-Ukraine talks",
+   "detail": "Kremlin aide Yuri Ushakov said Putin and US envoy Witkoff discussed a plan for possibly resuming three-way negotiations with representatives of Russia, the US and Ukraine. He added that Putin said he was interested in continuing joint work with the United States.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "80c208f104dfdba7",
+    "5bf469009dc00a2b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfbfbbllk22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfbfbbllk22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfbgwjc7n25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfbgwjc7n25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "706161b61f18",
+   "created_at": "2026-10-21T13:40:50Z"
+  },
   {
    "id": "319818b46b1d",
    "ts": "2026-10-21T13:33:38Z",
@@ -5762,78 +5810,6 @@
    "model": "opus",
    "run_id": "8804d8c0cc19",
    "created_at": "2026-10-20T06:15:50Z"
-  },
-  {
-   "id": "fac25fc704ae",
-   "ts": "2026-10-20T06:06:38Z",
-   "headline": "UK total pay growth slows to 3.7%, below 3.8% forecast; private-sector regular pay at 3.0%, in line; claimant count up 30.3K",
-   "detail": "ONS figures for the three months to August show average weekly earnings including bonuses up 3.7% year on year, against a 3.8% forecast and 3.9% previously. Private-sector regular pay rose 3.0%, as expected, after 2.9%. The claimant count rose 30.3K after 27.8K, with the claimant count rate unchanged at 4.4%.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "a49a6b9316fa10e4",
-    "2011cde7ce0b08f0",
-    "d8ac410b6c9155b3",
-    "8ea4aef6a2c1f89a",
-    "ec4f1f0f78495b96"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxrk4nel2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxrk4nel2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxsh4bgu24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxsh4bgu24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxsodhs22m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxsodhs22m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxsrldo52d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxsrldo52d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxu5scej2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxu5scej2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fd3e8a57f178",
-   "created_at": "2026-10-20T06:10:51Z"
-  },
-  {
-   "id": "ebc2e22a1d93",
-   "ts": "2026-10-20T06:01:47Z",
-   "headline": "German producer prices rise 6.7% year on year, above the 6.3% forecast",
-   "detail": "German PPI rose 1.9% month on month against a 1.6% forecast and 1.1% previously. The annual rate rose to 6.7% from 4.6%, against a 6.3% forecast.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "d30585ee1bcfde98",
-    "20516a1d75910404"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxirydkr2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxirydkr2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybxiuavpv2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybxiuavpv2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6a439c4a1b31",
-   "created_at": "2026-10-20T06:05:41Z"
   }
  ]
 }
