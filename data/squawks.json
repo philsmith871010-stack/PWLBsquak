@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T17:10:57Z",
+ "generated_at": "2026-10-21T17:15:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3941b62561e0",
+   "ts": "2026-10-21T17:13:24Z",
+   "headline": "China and Russia agree to back companies in expanding their oil cooperation, Xinhua reports",
+   "detail": "China's state news agency Xinhua reports that China and Russia have agreed to support companies in widening oil cooperation between the two countries. No figures or timetable were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "036b96fc624f0f21"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfniqniqt2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfniqniqt2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "30d35fd1c29d",
+   "created_at": "2026-10-21T17:15:53Z"
+  },
   {
    "id": "f881d3904f11",
    "ts": "2026-10-21T17:10:12Z",
@@ -5663,39 +5684,6 @@
    "model": "opus",
    "run_id": "6ad96afae06b",
    "created_at": "2026-10-20T11:25:42Z"
-  },
-  {
-   "id": "674cb3c28a84",
-   "ts": "2026-10-20T10:57:28Z",
-   "headline": "UK MoD says RAF Typhoons will fly defensive missions only over Saudi Arabia and will not strike the Houthis",
-   "detail": "The UK Ministry of Defence says RAF Typhoon jets will fly defensive counter-air missions to help protect Saudi cities and critical national infrastructure from aerial attack. It says the aircraft will not carry out offensive strikes against the Houthis.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1e3fb6cca40f67e8",
-    "1f4a5e3d04c0568e",
-    "300e979cade32450"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mychzlxzdo2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mychzlxzdo2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mychzrji2g2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mychzrji2g2s"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mycia2y4u42d",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mycia2y4u42d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f91118e66872",
-   "created_at": "2026-10-20T11:01:14Z"
   }
  ]
 }
