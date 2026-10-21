@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T12:05:41Z",
+ "generated_at": "2026-10-21T12:10:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "27f5d791c198",
+   "ts": "2026-10-21T12:08:52Z",
+   "headline": "Middle East oil exports return to above pre-war levels as Gulf shipments use alternative routes, FT reports",
+   "detail": "The Financial Times reports that daily shipments from Gulf producers now average 24.6mn, against 23.3mn before the conflict. Tankers are using alternative routes.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "5a648d94f96d7b45"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myf4i6yqsc2c",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myf4i6yqsc2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "120031a69a77",
+   "created_at": "2026-10-21T12:10:56Z"
+  },
   {
    "id": "db7e8f004a92",
    "ts": "2026-10-21T12:03:44Z",
@@ -5856,63 +5877,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mybh7gydnv2j",
      "url": "https://bsky.app/profile/reuters.com/post/3mybh7gydnv2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fd9ec4307a4f",
-   "created_at": "2026-10-20T05:05:40Z"
-  },
-  {
-   "id": "57167de7864c",
-   "ts": "2026-10-20T01:01:48Z",
-   "headline": "China keeps its one-year and five-year loan prime rates at 3.00% and 3.50%, as expected",
-   "detail": "The People's Bank of China left its benchmark lending rates unchanged in October, in line with forecasts. Reuters reports that rates have now been held for 17 months in a row.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b6a602dbf70bf15a",
-    "a945eb189a799d21",
-    "48074b0c47f3691a",
-    "ed7508dd28f69531",
-    "033c272946b98bcd",
-    "bd56f1cd83bfc0e1",
-    "e2128114e627b172"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybgqabyxp2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybgqabyxp2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybgqdz7oi2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybgqdz7oi2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybgqhfkkg2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybgqhfkkg2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybgsqfpi22s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybgsqfpi22s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybgtwrun42m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybgtwrun42m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybi3l4fhn2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybi3l4fhn2f"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mybjgzoiir2x",
-     "url": "https://bsky.app/profile/reuters.com/post/3mybjgzoiir2x"
     }
    ],
    "model": "opus",
