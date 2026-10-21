@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T10:01:11Z",
+ "generated_at": "2026-10-21T10:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4884e12b769f",
+   "ts": "2026-10-21T10:03:28Z",
+   "headline": "Russia says its first diesel tanker to the US, carrying 40,000 tons, will sail on 22 October",
+   "detail": "According to reports, Russia's Deputy Prime Minister announced the first shipment of Russian diesel to the US, a cargo of 40,000 tons leaving on 22 October.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "378d003b290907e4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myevhxf3uj2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myevhxf3uj2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7e38918b7874",
+   "created_at": "2026-10-21T10:05:42Z"
+  },
+  {
+   "id": "32c1a8df71c1",
+   "ts": "2026-10-21T10:02:21Z",
+   "headline": "US offers to lend up to almost a third of its 1m-barrel Northeast home heating oil reserve",
+   "detail": "The US Energy Department says companies must give back the borrowed heating oil, plus a premium, before the 2027 to 2028 winter. A US government source says the administration will consider whether more loans from the reserve should follow.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "1564d27724ea39a8",
+    "39bff616366a75c9",
+    "5d76d91b53a80e86",
+    "c303757235626047"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myevfxiswy22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myevfxiswy22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myevel3n5c2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myevel3n5c2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myevfspeoz2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myevfspeoz2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myevh4f3dk2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myevh4f3dk2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7e38918b7874",
+   "created_at": "2026-10-21T10:05:42Z"
+  },
   {
    "id": "5e707482fbf9",
    "ts": "2026-10-21T09:56:40Z",
@@ -5828,48 +5888,6 @@
    "model": "opus",
    "run_id": "5773c005bf4d",
    "created_at": "2026-10-19T20:40:51Z"
-  },
-  {
-   "id": "2c706c750689",
-   "ts": "2026-10-19T20:18:35Z",
-   "headline": "Ukrainian officials suspect the US is intermittently limiting intelligence sharing; US Secretary of State Rubio denies any pause",
-   "detail": "Ukrainian officials say they suspect the US is restricting intelligence sharing on and off, leaving Ukraine without early warning of Russian missile attacks. US Secretary of State Marco Rubio denies there has been any pause in support.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e0bc8c130cbc675c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myawvzujk62r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myawvzujk62r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "adae2b84062a",
-   "created_at": "2026-10-19T20:20:50Z"
-  },
-  {
-   "id": "5cbe5283261e",
-   "ts": "2026-10-19T20:04:13Z",
-   "headline": "Iran summons the EU and German ambassadors, reports say",
-   "detail": "Reports say Tehran has summoned the ambassadors of the EU and Germany. Earlier, Iran's foreign minister accused European countries of complicity in the US war with Iran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c52a393bcf7d8280"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaw4dwx422w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaw4dwx422w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ea275f04ff96",
-   "created_at": "2026-10-19T20:05:41Z"
   }
  ]
 }
