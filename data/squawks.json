@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T19:05:41Z",
+ "generated_at": "2026-10-21T19:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1e82a9124e76",
+   "ts": "2026-10-21T19:16:34Z",
+   "headline": "Trump says the US is getting closer to a settlement of Russia's war with Ukraine",
+   "detail": "US President Trump said on Wednesday evening that a settlement of the Russia-Ukraine war is getting closer. It follows Kremlin comments that three-way talks with the US and Ukraine could resume in November.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5502673877e63448"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfuextk5u2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfuextk5u2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4c13e24ab734",
+   "created_at": "2026-10-21T19:20:50Z"
+  },
   {
    "id": "478e74fb0576",
    "ts": "2026-10-21T19:03:49Z",
@@ -5681,27 +5702,6 @@
    "model": "opus",
    "run_id": "6ae78c008a84",
    "created_at": "2026-10-20T13:15:50Z"
-  },
-  {
-   "id": "7ff7ced6fead",
-   "ts": "2026-10-20T13:10:15Z",
-   "headline": "Google restores full service in its London cloud region after an outage that disrupted UK banks",
-   "detail": "Alphabet's Google said on Tuesday that full service is back in its London-based cloud region, after a power event disrupted several cloud services, Reuters reports.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "cdf436b2a7c2bed0"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mycph23p4n2x",
-     "url": "https://bsky.app/profile/reuters.com/post/3mycph23p4n2x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "715b18b1d4a4",
-   "created_at": "2026-10-20T13:11:00Z"
   }
  ]
 }
