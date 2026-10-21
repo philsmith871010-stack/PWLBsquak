@@ -1,8 +1,80 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T10:15:47Z",
+ "generated_at": "2026-10-21T10:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "afaa19127083",
+   "ts": "2026-10-21T10:18:54Z",
+   "headline": "Kremlin says a step forward on a Ukraine settlement is theoretically possible and warns Kyiv to make decisions",
+   "detail": "The Kremlin says Putin-Trump talks will be serious and long, that Ukraine's position will worsen if it does not make the necessary decisions, and that Russia is ready for nuclear talks with the US and China. Tass reports a Putin-Trump-Xi meeting is possible but has no agenda yet.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9a705fe14c4bc085",
+    "c03085286eab7e97",
+    "e31ac7dea5df7e2a",
+    "2b77920463de7b54",
+    "2003d12170a0f2d7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewdksa3u25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewdksa3u25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewa467aa22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewa467aa22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewaf2z3n2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewaf2z3n2e"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewehrupt2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewehrupt2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewbgylbi2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewbgylbi2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cf4a6a83d661",
+   "created_at": "2026-10-21T10:20:50Z"
+  },
+  {
+   "id": "03e62541e64a",
+   "ts": "2026-10-21T10:18:46Z",
+   "headline": "Brent gains more than $2 to a session high of $111.25 a barrel as Iran denies diplomatic progress",
+   "detail": "Brent crude futures are reported more than $2 higher at a session high of $111.25 a barrel, with Iran's denial of diplomatic progress and falling US oil inventories cited. WTI Midland futures also rise more than $2 to a session high of $99.88 a barrel.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "c2364d9c2f3c7753",
+    "2aebf8078cf01251"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewdch7zy2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewdch7zy2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myew64ycu52j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myew64ycu52j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cf4a6a83d661",
+   "created_at": "2026-10-21T10:20:50Z"
+  },
   {
    "id": "3d1c2e11d4cd",
    "ts": "2026-10-21T10:15:22Z",
@@ -5846,48 +5918,6 @@
    "model": "opus",
    "run_id": "d710771b531d",
    "created_at": "2026-10-19T20:45:50Z"
-  },
-  {
-   "id": "7d51acb02d91",
-   "ts": "2026-10-19T20:43:23Z",
-   "headline": "US Strategic Petroleum Reserve crude stocks fall to 282.7m barrels, the lowest since 1982",
-   "detail": "Crude oil held in the US Strategic Petroleum Reserve fell to 282.7 million barrels last week, the lowest level since 1982.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "6df04fabe5106aba"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaycf2nmm2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaycf2nmm2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d710771b531d",
-   "created_at": "2026-10-19T20:45:50Z"
-  },
-  {
-   "id": "062a1d42c4f1",
-   "ts": "2026-10-19T20:36:33Z",
-   "headline": "US lawmakers oppose Trump's proposed Russian diesel deal; European diesel futures have more than doubled this year",
-   "detail": "Trump's proposed deal on Russian diesel is meeting opposition from US lawmakers, and analysts question whether extra supply would bring fuel prices down. Brent is up more than 75% this year and European diesel futures have more than doubled.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "46a36aa25eceb4b6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myaxw5y3qi2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myaxw5y3qi2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5773c005bf4d",
-   "created_at": "2026-10-19T20:40:51Z"
   }
  ]
 }
