@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T08:25:40Z",
+ "generated_at": "2026-10-21T08:31:02Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "650fe07834c6",
+   "ts": "2026-10-21T08:28:38Z",
+   "headline": "S&P Global's UK consumer sentiment index drops to its lowest level since July 2023",
+   "detail": "S&P Global's UK consumer sentiment index has fallen to its lowest since July 2023, according to data released earlier this week. GfK's separate consumer confidence survey has recently shown stronger readings.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "4ddcd9a852f25491"
+   ],
+   "sources": [
+    {
+     "author": "bruceandy.bsky.social",
+     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3myeq6f2e2c2i",
+     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3myeq6f2e2c2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4b35f23516c5",
+   "created_at": "2026-10-21T08:31:02Z"
+  },
+  {
+   "id": "1aac255de30e",
+   "ts": "2026-10-21T08:25:51Z",
+   "headline": "German Chancellor Merz says some states use economic dependencies as weapons and calls Russia a threat",
+   "detail": "Germany's Chancellor Merz said some states are using economic dependencies to strengthen their position, and described Russia as a threat to Germany.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e19be55e07e94354"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myepzg5mgd2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myepzg5mgd2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4b35f23516c5",
+   "created_at": "2026-10-21T08:31:02Z"
+  },
   {
    "id": "700b6b765df7",
    "ts": "2026-10-21T08:20:59Z",
@@ -5858,48 +5900,6 @@
    "model": "opus",
    "run_id": "6139d9cdf01e",
    "created_at": "2026-10-19T17:45:49Z"
-  },
-  {
-   "id": "387d2a0063a5",
-   "ts": "2026-10-19T17:40:09Z",
-   "headline": "Lyon imposes a city-centre curfew from 9pm Monday to 6am Tuesday as French unrest continues",
-   "detail": "The local prefecture announced the overnight curfew in Lyon city centre. It follows curfews already ordered in Paris, Lille and other northern cities after the riots.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "8a298193f6addacd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myao2q5p4p2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myao2q5p4p2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5ce31e3db7ad",
-   "created_at": "2026-10-19T17:40:51Z"
-  },
-  {
-   "id": "132a6a80e309",
-   "ts": "2026-10-19T17:31:46Z",
-   "headline": "Germany's Merz says there is no rush to decide on ECB posts, though a quick decision could be reached if needed",
-   "detail": "German Chancellor Friedrich Merz said there is no need for a fast decision on ECB positions, but added that agreement on the jobs could be reached quickly if required.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0c57dfcdb3d15aa6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myanlqhr2d2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myanlqhr2d2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aff728a560f9",
-   "created_at": "2026-10-19T17:35:42Z"
   }
  ]
 }
