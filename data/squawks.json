@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T10:25:40Z",
+ "generated_at": "2026-10-21T10:31:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d55b6f0ad58b",
+   "ts": "2026-10-21T10:26:23Z",
+   "headline": "Iran's foreign minister sees little prospect of progress with the US, citing no US willingness to reach an understanding",
+   "detail": "Iran's foreign minister said the US had shown no willingness to reach an understanding, so there was little reason to expect progress now, according to the FT. He also said Iran was ready for diplomacy but would defend itself.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fd78f0e4115b7175",
+    "a286a471b6fb840d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewqw5mf42l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewqw5mf42l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewuzpl5t2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewuzpl5t2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d4c7b52ef470",
+   "created_at": "2026-10-21T10:31:06Z"
+  },
   {
    "id": "e1fe6184ed7a",
    "ts": "2026-10-21T10:25:24Z",
@@ -5903,27 +5930,6 @@
    "model": "opus",
    "run_id": "d765679d05f7",
    "created_at": "2026-10-20T05:01:25Z"
-  },
-  {
-   "id": "98a62588d895",
-   "ts": "2026-10-19T21:40:13Z",
-   "headline": "UK finance minister Healey rules out raising capital gains tax in the 28 October Budget, the Times reports",
-   "detail": "The Times reported on Monday, as cited by Reuters, that John Healey has turned down calls to increase capital gains tax in his first Budget on 28 October. According to the report, he is instead putting economic growth and business investment first.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "2253e11955dfee31"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myb3hz26im22",
-     "url": "https://bsky.app/profile/reuters.com/post/3myb3hz26im22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a3c7d21a71f2",
-   "created_at": "2026-10-19T21:46:47Z"
   }
  ]
 }
