@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T14:40:52Z",
+ "generated_at": "2026-10-21T14:45:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ca0ef786a694",
+   "ts": "2026-10-21T14:45:13Z",
+   "headline": "France's Macron says Saudi Arabia has agreed to extend additional diesel supplies",
+   "detail": "French President Macron said Saudi Arabia has agreed to extend extra diesel deliveries, AFP reports. Earlier he had said securing diesel and gas supply was the priority.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "4f719ae235a890b6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myff7rjyer25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myff7rjyer25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b01f71389214",
+   "created_at": "2026-10-21T14:45:48Z"
+  },
   {
    "id": "2452d151d423",
    "ts": "2026-10-21T14:40:40Z",
@@ -5783,27 +5804,6 @@
    "model": "opus",
    "run_id": "93a1e884cf21",
    "created_at": "2026-10-20T08:15:47Z"
-  },
-  {
-   "id": "992d1ca17e4a",
-   "ts": "2026-10-20T08:06:44Z",
-   "headline": "South Korea's finance ministry says it will consider cutting bond issuance further if needed",
-   "detail": "South Korea's finance ministry said it would consider a further cut to government bond issuance if necessary. It gave no figures or timing.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b1a4020b169bc73d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myc6icvieq26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myc6icvieq26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "03baf48c4b1c",
-   "created_at": "2026-10-20T08:10:49Z"
   }
  ]
 }
