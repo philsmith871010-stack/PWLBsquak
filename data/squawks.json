@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-21T12:20:53Z",
+ "generated_at": "2026-10-21T12:31:05Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "acf8c07b290b",
+   "ts": "2026-10-21T12:29:46Z",
+   "headline": "China and the EU pledge to uphold fair competition in global markets",
+   "detail": "China and the EU committed to fair competition in global markets, according to a newswire headline. This follows the European Commission's plan to propose new measures to protect the EU market from cheap imports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3e723584693b630d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myf5nkuu2724",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myf5nkuu2724"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a5a5f3dd0067",
+   "created_at": "2026-10-21T12:31:05Z"
+  },
   {
    "id": "c0284ccb18f0",
    "ts": "2026-10-21T12:19:42Z",
@@ -5826,27 +5847,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybpqluzwx2n",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybpqluzwx2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e1b331289c8f",
-   "created_at": "2026-10-20T05:10:47Z"
-  },
-  {
-   "id": "cad5b0ca0fc1",
-   "ts": "2026-10-20T03:24:17Z",
-   "headline": "Bank of England and Bank of Korea widen their partnership on tokenisation",
-   "detail": "Yonhap reports that South Korea's central bank and the Bank of England have broadened their cooperation on tokenisation.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "22eba89eda6806d2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mybopazdfj2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mybopazdfj2y"
     }
    ],
    "model": "opus",
