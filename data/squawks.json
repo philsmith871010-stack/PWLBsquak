@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T11:05:41Z",
+ "generated_at": "2026-10-22T11:15:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a3aa6572fbd3",
+   "ts": "2026-10-22T11:15:08Z",
+   "headline": "Resolution Foundation says UK household energy bills are due to rise again in January",
+   "detail": "The Resolution Foundation says the January rise in energy bills comes in the coldest part of the year, when 46% of domestic gas use takes place in the first quarter.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "12d903a1f53ddf42"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3myhjwznec22h",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3myhjwznec22h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ff5def08ef52",
+   "created_at": "2026-10-22T11:15:47Z"
+  },
   {
    "id": "a543d62a571d",
    "ts": "2026-10-22T11:03:20Z",
@@ -5771,39 +5792,6 @@
    "model": "opus",
    "run_id": "ca8f23ba4a9a",
    "created_at": "2026-10-20T18:20:49Z"
-  },
-  {
-   "id": "df81608f2b28",
-   "ts": "2026-10-20T18:11:59Z",
-   "headline": "BoE's Greene says there is reason to worry policy is not restrictive enough, with inflation expectations anchored but above norms",
-   "detail": "MPC member Megan Greene said there is a need to be concerned that the policy stance is not tight enough. She described inflation expectations as anchored but sitting above their usual levels.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "ba62b07d7981fe01",
-    "4f364ef8b8632ac0",
-    "4bca3ea967cd3aa9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydaclmmat2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydaclmmat2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydah5nkvz2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydah5nkvz2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydaj4oe2a2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydaj4oe2a2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "41a2b4a914bd",
-   "created_at": "2026-10-20T18:15:48Z"
   }
  ]
 }
