@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T15:15:47Z",
+ "generated_at": "2026-10-22T15:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dbe70ee10189",
+   "ts": "2026-10-22T15:18:03Z",
+   "headline": "US Treasury says 26 October 2-year auction could trigger an unscheduled 5-year note reopening if high yield is 4.875%-4.999%",
+   "detail": "The US Treasury said the result of the 2-year note auction on 26 October could lead to an unscheduled reopening of 5-year notes if the auction's high yield falls between 4.875% and 4.999%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "72e9341c7e95adf2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhxjfb6wv26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhxjfb6wv26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3e497e56efdb",
+   "created_at": "2026-10-22T15:20:50Z"
+  },
   {
    "id": "89613d6efa4e",
    "ts": "2026-10-22T15:15:03Z",
@@ -5802,27 +5823,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mydlwy5qmo27",
      "url": "https://bsky.app/profile/reuters.com/post/3mydlwy5qmo27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9e5af066c0f8",
-   "created_at": "2026-10-20T21:40:47Z"
-  },
-  {
-   "id": "ccdbea4f5983",
-   "ts": "2026-10-20T21:36:00Z",
-   "headline": "Qatar steps up LNG exports as gas prices surge, with at least 20 cargoes through Hormuz since early September",
-   "detail": "Semafor reports that Qatar is increasing liquefied natural gas exports, with at least 20 shipments passing through the Strait of Hormuz to other destinations since early September. One tanker is now sailing towards Poland.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "1792a5e752027f1b"
-   ],
-   "sources": [
-    {
-     "author": "semafor.com",
-     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mydlpfiocr2f",
-     "url": "https://bsky.app/profile/semafor.com/post/3mydlpfiocr2f"
     }
    ],
    "model": "opus",
