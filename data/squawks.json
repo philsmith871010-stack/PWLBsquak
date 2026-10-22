@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T14:45:50Z",
+ "generated_at": "2026-10-22T14:51:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e0c6515e7cda",
+   "ts": "2026-10-22T14:47:53Z",
+   "headline": "French 5-year CDS go above 100bp for the first time since October 2012",
+   "detail": "LSEG data shows French 5-year credit default swaps rose above 100bp for the first time since October 2012, and were last quoted at 97.75bp. This comes as France's spread over Bunds widens further.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "f190c4cc86ad6279",
+    "53fc2b18767520b7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhvthq4ga27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhvthq4ga27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhvvxg6xr2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhvvxg6xr2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fb75ffb359f7",
+   "created_at": "2026-10-22T14:51:00Z"
+  },
   {
    "id": "61c056521178",
    "ts": "2026-10-22T14:43:04Z",
@@ -5813,27 +5840,6 @@
    "model": "opus",
    "run_id": "74d83754695d",
    "created_at": "2026-10-20T20:31:02Z"
-  },
-  {
-   "id": "bf5089017be9",
-   "ts": "2026-10-20T20:25:38Z",
-   "headline": "Yemen's Houthis say a ground attack on Saudi Arabia is an option, Iranian media report",
-   "detail": "Iran's Sepah News reported that Yemen's Houthis said a ground attack on Saudi Arabia is being considered. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6b14edfebb4fb481"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydhrld6fc2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydhrld6fc2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5e6b67bda477",
-   "created_at": "2026-10-20T20:25:43Z"
   }
  ]
 }
