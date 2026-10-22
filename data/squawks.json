@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T20:40:53Z",
+ "generated_at": "2026-10-22T20:45:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "434f0415a90b",
+   "ts": "2026-10-22T20:44:45Z",
+   "headline": "Trump invokes the Defense Production Act to expand US petroleum capacity",
+   "detail": "The US president invoked the Defense Production Act for petroleum capacity, waived the Act's section 303 rules to expand oil capacity and sent a memo on the matter to Defense Secretary Hegseth, according to market news posts.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "23cb8d1cae778790",
+    "5dba26a9ec6adbfb",
+    "a5fb81c21115c638"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myijrlnine2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myijrlnine2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myijrosajv27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myijrosajv27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myijspucph25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myijspucph25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "35347845f72d",
+   "created_at": "2026-10-22T20:45:57Z"
+  },
   {
    "id": "1b4f502c96b8",
    "ts": "2026-10-22T20:39:46Z",
@@ -5544,27 +5577,6 @@
      "author": "bruceandy.bsky.social",
      "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3myeq6f2e2c2i",
      "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3myeq6f2e2c2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4b35f23516c5",
-   "created_at": "2026-10-21T08:31:02Z"
-  },
-  {
-   "id": "1aac255de30e",
-   "ts": "2026-10-21T08:25:51Z",
-   "headline": "German Chancellor Merz says some states use economic dependencies as weapons and calls Russia a threat",
-   "detail": "Germany's Chancellor Merz said some states are using economic dependencies to strengthen their position, and described Russia as a threat to Germany.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e19be55e07e94354"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myepzg5mgd2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myepzg5mgd2t"
     }
    ],
    "model": "opus",
