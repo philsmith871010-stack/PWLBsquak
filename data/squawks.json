@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T08:01:12Z",
+ "generated_at": "2026-10-22T08:10:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c16c369689ed",
+   "ts": "2026-10-22T08:05:54Z",
+   "headline": "Brent futures climb more than 3% to $112.55 a barrel, highest level since May",
+   "detail": "Brent crude futures rose by more than 3% to $112.55 a barrel, their highest level since May, according to a market report.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "71e79f856a632010"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh7eni2fo2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh7eni2fo2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "887117968e58",
+   "created_at": "2026-10-22T08:10:55Z"
+  },
   {
    "id": "5d78d80e2e52",
    "ts": "2026-10-22T07:59:58Z",
@@ -5909,27 +5930,6 @@
    "model": "opus",
    "run_id": "9320f4b21488",
    "created_at": "2026-10-20T17:15:51Z"
-  },
-  {
-   "id": "97f820390bcf",
-   "ts": "2026-10-20T17:10:12Z",
-   "headline": "Russia extends its strikes on Ukrainian energy facilities to western Ukraine, causing waves of blackouts",
-   "detail": "Reuters reports, citing Ukrainian energy ministry officials and local authorities, that Russian attacks on energy facilities now reach western Ukraine and have caused repeated blackouts.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "35f60174cb20162e"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myd4u4biml2p",
-     "url": "https://bsky.app/profile/reuters.com/post/3myd4u4biml2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "93f8e0c6c855",
-   "created_at": "2026-10-20T17:10:52Z"
   }
  ]
 }
