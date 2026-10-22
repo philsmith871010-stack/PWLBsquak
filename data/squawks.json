@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T20:10:50Z",
+ "generated_at": "2026-10-22T20:20:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0b9932b9fcc5",
+   "ts": "2026-10-22T20:16:10Z",
+   "headline": "UK relaxes 'fit and proper' rules for holding bankers to account, FT reports",
+   "detail": "The Financial Times reports that the UK is loosening the regulatory regime that requires bankers to be fit and proper. The regime was central to past actions against former Barclays chief executive Jes Staley and hedge fund owner Crispin Odey.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "f564dd3ef9a5f886"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myii6hcxws2i",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myii6hcxws2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "108c92110d61",
+   "created_at": "2026-10-22T20:20:49Z"
+  },
   {
    "id": "b48827d39277",
    "ts": "2026-10-22T20:10:09Z",
@@ -5549,27 +5570,6 @@
    "model": "opus",
    "run_id": "1ed6acf50625",
    "created_at": "2026-10-21T08:25:40Z"
-  },
-  {
-   "id": "b6fc18a778b4",
-   "ts": "2026-10-21T08:05:08Z",
-   "headline": "EU's von der Leyen says the Commission will propose new measures to shield the EU market from cheap imports",
-   "detail": "European Commission President Ursula von der Leyen said on Wednesday that the Commission will propose new tools to protect the EU from unfair competition from cheap imports, Reuters reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "00448d6f60f73211"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myeoudyl5u2w",
-     "url": "https://bsky.app/profile/reuters.com/post/3myeoudyl5u2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a42178ad6207",
-   "created_at": "2026-10-21T08:05:43Z"
   }
  ]
 }
