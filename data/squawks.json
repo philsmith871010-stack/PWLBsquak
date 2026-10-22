@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T15:20:50Z",
+ "generated_at": "2026-10-22T15:45:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6c506ee9906d",
+   "ts": "2026-10-22T15:45:10Z",
+   "headline": "Saudi Aramco orders staff to evacuate its Dhahran headquarters and work remotely, sources say",
+   "detail": "Reuters, citing six people with knowledge of the matter, reported that Saudi Aramco told staff to leave its Dhahran headquarters and work remotely. The move comes a day after an attack on a nearby airport killed two people.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0686c2e28bc2e860"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myhyzusvc42y",
+     "url": "https://bsky.app/profile/reuters.com/post/3myhyzusvc42y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "64e745184420",
+   "created_at": "2026-10-22T15:45:57Z"
+  },
+  {
+   "id": "694ce2de0542",
+   "ts": "2026-10-22T15:43:51Z",
+   "headline": "Trump accuses Iran of inventing attacks and mines to push up oil prices before the US midterm elections",
+   "detail": "In posts on Truth Social, US President Trump said Iran was fabricating hits and mines to drive up the price of oil ahead of the midterm elections.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c438b348a3877f73",
+    "635c7475411ae1c4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhyvtlxif2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhyvtlxif2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhyxjsgas2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhyxjsgas2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "64e745184420",
+   "created_at": "2026-10-22T15:45:57Z"
+  },
+  {
+   "id": "0e4f4fe593f6",
+   "ts": "2026-10-22T15:42:41Z",
+   "headline": "US 10-year Treasury yield falls below 5% for the first time since 23 September, down 14.97bp at 4.996%",
+   "detail": "The 10-year US Treasury yield was last down 14.97bp at 4.996%, below 5% for the first time since 23 September, as the Treasury rally extended.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "15e98119176d5da0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhyvhg3zj26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhyvhg3zj26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "64e745184420",
+   "created_at": "2026-10-22T15:45:57Z"
+  },
   {
    "id": "dbe70ee10189",
    "ts": "2026-10-22T15:18:03Z",
@@ -5735,99 +5804,6 @@
    "model": "opus",
    "run_id": "272b899a6040",
    "created_at": "2026-10-21T05:01:13Z"
-  },
-  {
-   "id": "cc6ab382c1b5",
-   "ts": "2026-10-20T21:51:38Z",
-   "headline": "RBA's Hauser notes some easing in jobs and housing data but says inflation has stayed high for an extended period",
-   "detail": "Reserve Bank of Australia Deputy Governor Andrew Hauser said monetary policy is working but the inflation outlook has worsened, and inflation expectations must stay anchored to target. He also said some easing has been seen in labour market and housing data.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "40fbd3189c9b4932",
-    "efc01e89008899aa",
-    "c027b1f633a2e034",
-    "9c42a2922bb12a18"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydmki7ls22z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydmki7ls22z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydmlbrydf2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydmlbrydf2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydmldomvd2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydmldomvd2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydmmtwxpp2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydmmtwxpp2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6a60e34c36a8",
-   "created_at": "2026-10-20T21:55:43Z"
-  },
-  {
-   "id": "82cc99b59ef6",
-   "ts": "2026-10-20T21:50:13Z",
-   "headline": "RBA's Hauser says the inflation outlook looks slightly worse than forecast and the board's decision is still uncertain",
-   "detail": "Reserve Bank of Australia Deputy Governor Hauser said forecasts are still being finalised and he is uncertain about the board's decision. He said companies name cost pressures as their main concern.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "c6508a88740a944e",
-    "a4a8a312bfe25a72",
-    "a66153d87f20b3fa"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydmis5gmn2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydmis5gmn2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydmhuozg62a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydmhuozg62a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydmjnlhbb2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydmjnlhbb2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "30d14ff36270",
-   "created_at": "2026-10-20T21:50:48Z"
-  },
-  {
-   "id": "6d8342cfdbca",
-   "ts": "2026-10-20T21:40:15Z",
-   "headline": "Iran's Araghchi says Saudi Arabia and the Houthis have not responded to Tehran's offer to mediate",
-   "detail": "In a television interview aired on Tuesday, Iranian Foreign Minister Abbas Araghchi said Iran has had no reply from Saudi Arabia or Yemen's Houthis to its offer to help broker talks to end the fighting between them, Reuters reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4ffb927caedd3a63"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mydlwy5qmo27",
-     "url": "https://bsky.app/profile/reuters.com/post/3mydlwy5qmo27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9e5af066c0f8",
-   "created_at": "2026-10-20T21:40:47Z"
   }
  ]
 }
