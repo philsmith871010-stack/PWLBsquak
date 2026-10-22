@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T17:35:46Z",
+ "generated_at": "2026-10-22T17:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fc04d3e4b466",
+   "ts": "2026-10-22T17:49:35Z",
+   "headline": "Brent extends its rally to a $4 a barrel gain, hitting a five-month high as Houthi attacks raise Middle East supply fears",
+   "detail": "Oil futures pushed further ahead late on Thursday, with Brent crude up $4 a barrel on the day at a five-month high. The rise is reported to be driven by worries over Middle East supply after Houthi attacks on Saudi Arabia.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "cb7e261df2835fc3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myi7yei7t52k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myi7yei7t52k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1416cfe54552",
+   "created_at": "2026-10-22T17:50:48Z"
+  },
   {
    "id": "6cf38fc1f0e7",
    "ts": "2026-10-22T17:32:18Z",
@@ -5645,27 +5666,6 @@
    "model": "opus",
    "run_id": "9855fae7ca31",
    "created_at": "2026-10-21T05:40:50Z"
-  },
-  {
-   "id": "3d5a17ef7711",
-   "ts": "2026-10-21T05:25:07Z",
-   "headline": "APEC finance ministers agree to step up macroeconomic policy coordination against external risks, China's Lan says",
-   "detail": "China's Finance Minister Lan Foan said on Wednesday that finance ministers from APEC member economies have agreed to strengthen communication and coordination on macroeconomic policy to deal with external risks and challenges, Reuters reports.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "da588d394a17d01d"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myefwa4jxo2t",
-     "url": "https://bsky.app/profile/reuters.com/post/3myefwa4jxo2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2fdd5e10d98f",
-   "created_at": "2026-10-21T05:25:43Z"
   }
  ]
 }
