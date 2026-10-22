@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T16:05:41Z",
+ "generated_at": "2026-10-22T16:10:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f8a28376ee1d",
+   "ts": "2026-10-22T16:10:38Z",
+   "headline": "Qatar says it is seeking more LNG deals with buyers outside the Middle East",
+   "detail": "Qatar said it is looking for additional liquefied natural gas supply deals beyond the Middle East region. No volumes or counterparties were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "507b9cb3e85d591d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myi2hgubqt2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myi2hgubqt2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4e41aaa81aff",
+   "created_at": "2026-10-22T16:10:48Z"
+  },
   {
    "id": "0402db9a8603",
    "ts": "2026-10-22T16:02:56Z",
@@ -5742,27 +5763,6 @@
      "author": "cityam.com.web.brid.gy",
      "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mydyenai2sq2",
      "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mydyenai2sq2"
-    }
-   ],
-   "model": "opus",
-   "run_id": "272b899a6040",
-   "created_at": "2026-10-21T05:01:13Z"
-  },
-  {
-   "id": "753b2e491edd",
-   "ts": "2026-10-21T00:25:30Z",
-   "headline": "Brightmine: UK median pay awards rise to 3.1% in the three months to September from 3.0%",
-   "detail": "Brightmine says median UK pay settlements rose to 3.1% in the three months to September, from 3.0% in the periods to July and August. It says wage trends show little sign of shifting and most deals are no bigger than awards a year earlier.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "21b2beb0ac433fc4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydv6hzncs2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydv6hzncs2r"
     }
    ],
    "model": "opus",
