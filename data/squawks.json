@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T10:05:46Z",
+ "generated_at": "2026-10-22T10:10:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "73a55da706ae",
+   "ts": "2026-10-22T10:06:06Z",
+   "headline": "Kremlin says Russia has not yet picked its representative for trilateral talks with the US and Ukraine",
+   "detail": "The Kremlin also said more European diplomatic activity on a peaceful settlement in Ukraine was a positive development. It added that the US is doing a lot for a settlement while the EU is doing nothing.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ae557929bd6f4e40",
+    "adb28a778a456abf",
+    "1deba3bd7fd995ac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhg3lyl5q27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhg3lyl5q27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhg3qdld42f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhg3qdld42f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhg4lcdqj2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhg4lcdqj2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9ddfbf7e713d",
+   "created_at": "2026-10-22T10:10:57Z"
+  },
   {
    "id": "4f617dae99cc",
    "ts": "2026-10-22T10:05:04Z",
@@ -5796,27 +5829,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd5pn2q5y2w",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd5pn2q5y2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6e7c4fdd31ca",
-   "created_at": "2026-10-20T17:25:42Z"
-  },
-  {
-   "id": "b940c8d1db1b",
-   "ts": "2026-10-20T17:25:08Z",
-   "headline": "IEA chief says the agency is ready to coordinate further emergency oil stock releases if needed",
-   "detail": "The head of the International Energy Agency said on Tuesday that the agency stands ready to coordinate more emergency oil releases by member countries, while it pushes for diesel to be released under existing plans to ease surging prices, Reuters reports.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "55c5e49926e9de5c"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myd5osai5u2j",
-     "url": "https://bsky.app/profile/reuters.com/post/3myd5osai5u2j"
     }
    ],
    "model": "opus",
