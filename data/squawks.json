@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T20:20:49Z",
+ "generated_at": "2026-10-22T20:40:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1b4f502c96b8",
+   "ts": "2026-10-22T20:39:46Z",
+   "headline": "Trump warns the US may carry out further strikes on Iran",
+   "detail": "US President Trump says the US has already struck Iran hard and may strike again. No market reaction was reported in the posts.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4d1e9dc6c03c4bb2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myijiooo5i24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myijiooo5i24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "59cf6c7caf60",
+   "created_at": "2026-10-22T20:40:53Z"
+  },
   {
    "id": "0b9932b9fcc5",
    "ts": "2026-10-22T20:16:10Z",
@@ -5549,27 +5570,6 @@
    "model": "opus",
    "run_id": "4b35f23516c5",
    "created_at": "2026-10-21T08:31:02Z"
-  },
-  {
-   "id": "700b6b765df7",
-   "ts": "2026-10-21T08:20:59Z",
-   "headline": "France's 10-year bond yield nears 5%, which would be the highest since 2002",
-   "detail": "The FT reports that concerns over France's public finances and political stability have pushed 10-year OAT yields up from 3.2% in late February to close to 5%, a level last seen in 2002.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "b345d0b2fbd98018"
-   ],
-   "sources": [
-    {
-     "author": "iankmsmith.ft.com",
-     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3myepqorxrk2m",
-     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3myepqorxrk2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1ed6acf50625",
-   "created_at": "2026-10-21T08:25:40Z"
   }
  ]
 }
