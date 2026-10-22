@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T06:50:49Z",
+ "generated_at": "2026-10-22T06:55:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fbe7a9b82eae",
+   "ts": "2026-10-22T06:50:54Z",
+   "headline": "BoJ likely to say inflation has hit its 2% target but hold off on back-to-back hikes in October, Nikkei reports",
+   "detail": "Nikkei reports the Bank of Japan's October meeting is likely to put off consecutive rate increases, even though the bank is expected to say inflation has reached its 2% target. USD/JPY was reported 0.7% lower at 157.11 shortly afterwards.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "0a3f1deb03fb9f49",
+    "170e4ee762231f93",
+    "56da3c359945a61d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh36jv7hc2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh36jv7hc2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh3eqn3zq2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh3eqn3zq2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh3fjuprq2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh3fjuprq2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "66df9eab464e",
+   "created_at": "2026-10-22T06:55:47Z"
+  },
   {
    "id": "2e16c0dd57ec",
    "ts": "2026-10-22T06:47:38Z",
@@ -5873,33 +5906,6 @@
    "model": "opus",
    "run_id": "8442e0274557",
    "created_at": "2026-10-20T17:01:14Z"
-  },
-  {
-   "id": "89010d060973",
-   "ts": "2026-10-20T16:55:09Z",
-   "headline": "Iran's Revolutionary Guards navy says a supertanker carrying more than 2 mln barrels of crude exploded after hitting a mine near Hormuz",
-   "detail": "Iranian media, including IRIB News, carried the Revolutionary Guards navy's account. It said the tanker, which it called 'violating', exploded after striking a mine south of the Strait of Hormuz and was carrying over 2 mln barrels of crude. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b5b7cb56928548e3",
-    "f30e4ab860cc5505"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd3z737k22m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd3z737k22m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd3xgk6jl2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd3xgk6jl2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "994071547113",
-   "created_at": "2026-10-20T16:55:42Z"
   }
  ]
 }
