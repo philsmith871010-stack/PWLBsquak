@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T11:25:43Z",
+ "generated_at": "2026-10-22T11:31:07Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "91e614486e77",
+   "ts": "2026-10-22T11:26:29Z",
+   "headline": "French yields rise about 10bp while US Treasury yields fall about 10bp as the two markets diverge",
+   "detail": "An FT markets journalist reports that French government bond yields are up about 10bp while US yields are down about 10bp. This comes after France's 10-year yield moved above US Treasury yields earlier in the session.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "bfb1cfe29a253efd"
+   ],
+   "sources": [
+    {
+     "author": "iankmsmith.ft.com",
+     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3myhklcvae227",
+     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3myhklcvae227"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bb511d1cb915",
+   "created_at": "2026-10-22T11:31:07Z"
+  },
   {
    "id": "3241a8b03175",
    "ts": "2026-10-22T11:25:04Z",
@@ -5754,27 +5775,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mydcgzqhxc2k",
      "url": "https://bsky.app/profile/reuters.com/post/3mydcgzqhxc2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cc72b22f8267",
-   "created_at": "2026-10-20T18:50:48Z"
-  },
-  {
-   "id": "f7949176cc35",
-   "ts": "2026-10-20T18:47:40Z",
-   "headline": "Rubio says Iran's actions against commercial shipping are unlike anything seen since the Second World War",
-   "detail": "US Secretary of State Marco Rubio described Iran's conduct towards commercial vessels as unmatched since the Second World War.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d23cd3b0d90f3c8f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydccenaqp2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydccenaqp2s"
     }
    ],
    "model": "opus",
