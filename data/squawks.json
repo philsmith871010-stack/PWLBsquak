@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T18:45:53Z",
+ "generated_at": "2026-10-22T18:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "74b637f8c3ba",
+   "ts": "2026-10-22T18:47:59Z",
+   "headline": "Lebanon-Israel talks in Florida end with no breakthrough, US official says",
+   "detail": "A US official told Al Arabiya that the meetings in Florida between Lebanon and Israel ended without a breakthrough. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d7a377b4117a4c52",
+    "691066fde45f55cb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myidasbmwh25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myidasbmwh25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myidcbto3v2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myidcbto3v2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c8c7f67235c9",
+   "created_at": "2026-10-22T18:50:49Z"
+  },
   {
    "id": "291eadbc5c86",
    "ts": "2026-10-22T18:45:37Z",
@@ -5514,27 +5541,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myei7se3gy24",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myei7se3gy24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9bad04dec247",
-   "created_at": "2026-10-21T06:10:54Z"
-  },
-  {
-   "id": "c8940f768c82",
-   "ts": "2026-10-21T06:06:08Z",
-   "headline": "UK core CPI rises to 2.8% in September, in line with forecast; CPIH reaches 3.6% and monthly CPI is 0.4%",
-   "detail": "ONS data show core CPI at 2.8% year on year in September, matching the 2.8% forecast and up from 2.6%. CPIH rose to 3.6% against a 3.5% forecast and 3.3% previously, and CPI rose 0.4% on the month against a 0.3% forecast.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "b3a35d74f81401a7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myei7l3f5q24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myei7l3f5q24"
     }
    ],
    "model": "opus",
