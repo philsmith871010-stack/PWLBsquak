@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T10:45:49Z",
+ "generated_at": "2026-10-22T11:01:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7c22b21aea1a",
+   "ts": "2026-10-22T10:55:58Z",
+   "headline": "Houthis say they will announce several military operations deep inside Saudi Arabia in a statement at 3:00 PM",
+   "detail": "The Yemeni Armed Forces, the Houthis' military, say the statement will also set out their position on what they call a Saudi threat to Yemeni tribes. The announcement follows further Houthi attacks on Saudi Arabia that have been linked to rising oil prices.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "422411346a188b2d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhiuqmpwt2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhiuqmpwt2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "363c70832424",
+   "created_at": "2026-10-22T11:01:15Z"
+  },
   {
    "id": "69f9aef07e82",
    "ts": "2026-10-22T10:45:05Z",
@@ -5789,33 +5810,6 @@
    "model": "opus",
    "run_id": "005862029a58",
    "created_at": "2026-10-20T18:10:50Z"
-  },
-  {
-   "id": "8969047d024f",
-   "ts": "2026-10-20T18:00:15Z",
-   "headline": "BoE's Greene questions the Bank's estimate of pay growth consistent with target, putting it at 3% wage growth for 2% inflation",
-   "detail": "MPC member Megan Greene said she has concerns about the Bank of England's estimate of target-consistent pay growth, and said 3% wage growth is consistent with 2% inflation.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "9ac1d9c3d5a97aae",
-    "a4338dd7b35c89c4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd7mpp77o2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd7mpp77o2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd7nlu5q32f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd7nlu5q32f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aac76113f371",
-   "created_at": "2026-10-20T18:01:15Z"
   }
  ]
 }
