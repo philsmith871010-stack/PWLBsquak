@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T12:31:05Z",
+ "generated_at": "2026-10-22T12:35:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9ef48f3b954e",
+   "ts": "2026-10-22T12:31:07Z",
+   "headline": "US initial jobless claims fall 6K to 194K in week to 17 October, below the 200K forecast",
+   "detail": "US initial jobless claims came in at 194K against a 200K forecast, and the previous week was revised to 200K. Continuing claims rose 25K to 1,728K in the week to 10 October, above the 1,710K estimate.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "63ad047dde4b047b",
+    "76edcd86d64894ad",
+    "d821d69815a68794"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myho6vkih727",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myho6vkih727"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhobjn7yy2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhobjn7yy2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhobvkkwz2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhobvkkwz2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7c9f17273bf2",
+   "created_at": "2026-10-22T12:35:46Z"
+  },
   {
    "id": "48b04b6c49ae",
    "ts": "2026-10-22T12:30:26Z",
@@ -5706,27 +5739,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myddibxfib2y",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myddibxfib2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "79b7b9acca09",
-   "created_at": "2026-10-20T19:10:53Z"
-  },
-  {
-   "id": "b4bca3eab8fd",
-   "ts": "2026-10-20T19:06:18Z",
-   "headline": "Trump says the US is pretty close to a trade deal with India",
-   "detail": "US President Trump spoke on Tuesday evening, after Secretary of State Rubio said earlier that the US-India deal was expected within weeks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2852a5e239bbffcb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydddp2fmx2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydddp2fmx2s"
     }
    ],
    "model": "opus",
