@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T15:45:57Z",
+ "generated_at": "2026-10-22T15:50:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "79563aee2f47",
+   "ts": "2026-10-22T15:50:38Z",
+   "headline": "UK agrees deal for gas supply from Belgium ahead of winter, FT reports",
+   "detail": "The Financial Times reports that Britain has agreed a last-minute deal to secure gas supply from Belgium before winter. The report says the deal follows years of falling UK domestic gas production.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "df1d3ffff490d767"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myhzdo6u7f2x",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myhzdo6u7f2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "248344022be8",
+   "created_at": "2026-10-22T15:50:51Z"
+  },
   {
    "id": "6c506ee9906d",
    "ts": "2026-10-22T15:45:10Z",
@@ -5742,63 +5763,6 @@
      "author": "antbreach.bsky.social",
      "uri": "at://did:plc:nhvpttgooe4ysqxqqq7rz2hh/app.bsky.feed.post/3mydo6jad6c2t",
      "url": "https://bsky.app/profile/antbreach.bsky.social/post/3mydo6jad6c2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "272b899a6040",
-   "created_at": "2026-10-21T05:01:13Z"
-  },
-  {
-   "id": "6cbd0bc8db0a",
-   "ts": "2026-10-20T22:13:31Z",
-   "headline": "RBA's Hauser expects quarterly trimmed mean inflation above expectations and says capacity constraints are tighter than thought",
-   "detail": "RBA Deputy Governor Hauser says the September labour report was somewhat weaker than expected and the labour market is softening, though unemployment is still low. He adds that the bank must respond to supply shocks to keep inflation expectations anchored.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "ed3a050a6835eeb2",
-    "b9d899176c9f8604",
-    "b9478805118d0189",
-    "09b258cf065b1ec6",
-    "41b83424ea0c207c",
-    "5023810542a44ac0",
-    "b063bf00d115f2ee"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydnshput72v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydnshput72v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydmt4v6cy2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydmt4v6cy2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydntznwc52z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydntznwc52z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydnusx2yc2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydnusx2yc2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydo37xpcg2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydo37xpcg2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydo4pkdyb2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydo4pkdyb2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydpfswcfm2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydpfswcfm2b"
     }
    ],
    "model": "opus",
