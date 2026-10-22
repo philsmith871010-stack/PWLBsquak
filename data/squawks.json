@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T19:31:09Z",
+ "generated_at": "2026-10-22T20:01:14Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9be6589cab7b",
+   "ts": "2026-10-22T19:59:47Z",
+   "headline": "Russia agrees to resume trilateral peace talks with the US and Ukraine, with technical talks possibly in Abu Dhabi in mid-November",
+   "detail": "The agreement came during a visit by US envoy Steve Witkoff, who also secured the release of US detainee Stephen Hubbard and discussed Russian diesel shipments, according to a market news account. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6a9300acac5f4e01"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myihb6jqme26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myihb6jqme26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1ca7f6a4fac4",
+   "created_at": "2026-10-22T20:01:14Z"
+  },
   {
    "id": "347c2d52e2cd",
    "ts": "2026-10-22T19:28:58Z",
@@ -5544,27 +5565,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myemfodbit2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myemfodbit2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2dd23540adb7",
-   "created_at": "2026-10-21T07:25:43Z"
-  },
-  {
-   "id": "504defac1071",
-   "ts": "2026-10-21T06:42:50Z",
-   "headline": "UK public sector debt reaches about £3 trillion in September, a week before the Budget",
-   "detail": "Official data released on Wednesday show UK public sector debt close to £3 trillion in September, City AM reports. Debt had first passed £2 trillion in June 2020.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "627cff2ef2abc1e0"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3myemjsdoqvz2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3myemjsdoqvz2"
     }
    ],
    "model": "opus",
