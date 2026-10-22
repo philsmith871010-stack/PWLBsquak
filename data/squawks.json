@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T10:10:57Z",
+ "generated_at": "2026-10-22T10:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8290344ccc62",
+   "ts": "2026-10-22T10:14:06Z",
+   "headline": "France's 10-year bond yield climbs to 5.084%, above US Treasury yields for the first time since 2013",
+   "detail": "France's 10-year government bond yield reached 5.084%, moving above US Treasury yields for the first time since 2013, according to a market report. Earlier in the session it had risen above 5% for the first time in nearly a quarter of a century.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "812f8088e07c86aa"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhgjuzde527",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhgjuzde527"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ff84b2075d7a",
+   "created_at": "2026-10-22T10:15:50Z"
+  },
   {
    "id": "73a55da706ae",
    "ts": "2026-10-22T10:06:06Z",
@@ -5807,33 +5828,6 @@
    "model": "opus",
    "run_id": "cf5d55b0e215",
    "created_at": "2026-10-20T17:31:04Z"
-  },
-  {
-   "id": "7f1cd579c009",
-   "ts": "2026-10-20T17:25:36Z",
-   "headline": "Finland's President Stubb says the Ukraine peace process is back on track after a week of quiet progress",
-   "detail": "Finnish President Alexander Stubb said significant progress had been made out of public view over the past week or so and called the day a good one for peace.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9e46673d6e0fd42b",
-    "40538a0a2c133810"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd5olo4x226",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd5olo4x226"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd5pn2q5y2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd5pn2q5y2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6e7c4fdd31ca",
-   "created_at": "2026-10-20T17:25:42Z"
   }
  ]
 }
