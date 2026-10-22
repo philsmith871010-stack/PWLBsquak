@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T18:20:52Z",
+ "generated_at": "2026-10-22T18:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8138af419c7a",
+   "ts": "2026-10-22T18:25:05Z",
+   "headline": "Egypt urges talks on Yemen as its parliament prepares to vote on military support for Saudi Arabia against the Houthis",
+   "detail": "Egypt's foreign minister said Cairo favours pursuing every diplomatic option to end the Yemen conflict, Reuters reports. The parliament votes next week on whether to authorise the armed forces to support Saudi Arabia against the Iran-aligned Houthis.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d25731d1abecf70e"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myibxtk24j2g",
+     "url": "https://bsky.app/profile/reuters.com/post/3myibxtk24j2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "33f1e06e2059",
+   "created_at": "2026-10-22T18:25:41Z"
+  },
   {
    "id": "48eabc4669f7",
    "ts": "2026-10-22T18:18:36Z",
@@ -5640,27 +5661,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myehwpezbv25",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myehwpezbv25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "34c1e44797cb",
-   "created_at": "2026-10-21T06:01:15Z"
-  },
-  {
-   "id": "d323e781733c",
-   "ts": "2026-10-21T05:59:29Z",
-   "headline": "France's Finance Minister Lescure says the government can pass a budget using constitutional powers",
-   "detail": "France's Finance Minister Lescure said the government has the constitutional tools it needs to get a budget passed.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "5f06146292b84d78"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myehtoyw4j25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myehtoyw4j25"
     }
    ],
    "model": "opus",
