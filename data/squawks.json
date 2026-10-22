@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T17:50:48Z",
+ "generated_at": "2026-10-22T18:20:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "48eabc4669f7",
+   "ts": "2026-10-22T18:18:36Z",
+   "headline": "Canada's chief negotiator on US trade says tariff-free trade with the US is not expected to return",
+   "detail": "Canada's US trade negotiator, Charette, said Canada should not expect a return to tariff-free trade with the United States. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2c3c6aad4d0fd919"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myibmb5hkt2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myibmb5hkt2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3fbd04346a0a",
+   "created_at": "2026-10-22T18:20:52Z"
+  },
   {
    "id": "fc04d3e4b466",
    "ts": "2026-10-22T17:49:35Z",
@@ -5645,27 +5666,6 @@
    "model": "opus",
    "run_id": "34c1e44797cb",
    "created_at": "2026-10-21T06:01:15Z"
-  },
-  {
-   "id": "0f7aedce318c",
-   "ts": "2026-10-21T05:39:12Z",
-   "headline": "Trump says new large data centres must generate their own electricity and supply any surplus to local communities or the grid",
-   "detail": "US President Trump said he has mandated that new large data centres produce their own power and give or sell excess electricity back to local communities or the grid. He gave no timing or further detail on how the requirement would be applied.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "a853239ed0b296fb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myegpgc3q32f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myegpgc3q32f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9855fae7ca31",
-   "created_at": "2026-10-21T05:40:50Z"
   }
  ]
 }
