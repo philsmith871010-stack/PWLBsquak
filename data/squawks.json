@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T14:51:00Z",
+ "generated_at": "2026-10-22T14:55:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "43267acb2557",
+   "ts": "2026-10-22T14:52:44Z",
+   "headline": "20-year gilt yields fall to about a one-month low, heading for their best three-day run since June",
+   "detail": "A UK markets commentator says 20-year gilt yields are close to their lowest level in a month. They are on track for their strongest three days since June. No figures were given.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "a9b72e7615d38d38"
+   ],
+   "sources": [
+    {
+     "author": "bruceandy.bsky.social",
+     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3myhw454rmc23",
+     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3myhw454rmc23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b793dfdc2259",
+   "created_at": "2026-10-22T14:55:47Z"
+  },
   {
    "id": "e0c6515e7cda",
    "ts": "2026-10-22T14:47:53Z",
@@ -5813,33 +5834,6 @@
    "model": "opus",
    "run_id": "f8201930d0d6",
    "created_at": "2026-10-20T21:01:14Z"
-  },
-  {
-   "id": "dc778e7f4729",
-   "ts": "2026-10-20T20:26:13Z",
-   "headline": "Brent settles below $109 a barrel as US-Iran diplomacy continues; longer-dated Treasuries outperform",
-   "detail": "A market wire reports that Brent crude settled below $109 a barrel as diplomatic efforts between the US and Iran went on, and that longer-dated US Treasuries outperformed. It also cites falling oil prices as one reason US stocks rose; it gives no percentage move for oil.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "7abd6bf1e7a72cc3",
-    "d39226ab94c8901e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydhsltx3c2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydhsltx3c2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydhsft2a22q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydhsft2a22q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "74d83754695d",
-   "created_at": "2026-10-20T20:31:02Z"
   }
  ]
 }
