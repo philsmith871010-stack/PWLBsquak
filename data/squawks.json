@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T18:25:41Z",
+ "generated_at": "2026-10-22T18:31:13Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8cf7b12676ab",
+   "ts": "2026-10-22T18:30:11Z",
+   "headline": "Putin describes eastern Ukraine as historically Russian territory",
+   "detail": "Russian President Vladimir Putin made the remark about eastern Ukraine. Ukraine has said it is ready for peace talks, and the Kremlin has not yet named its representative for trilateral talks with the US and Ukraine.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4a333976348e419b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myicaxcwzl27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myicaxcwzl27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "39a85f69a190",
+   "created_at": "2026-10-22T18:31:13Z"
+  },
   {
    "id": "8138af419c7a",
    "ts": "2026-10-22T18:25:05Z",
@@ -5639,33 +5660,6 @@
    "model": "opus",
    "run_id": "ead6681bc3f7",
    "created_at": "2026-10-21T06:05:45Z"
-  },
-  {
-   "id": "118d0a2f1f1f",
-   "ts": "2026-10-21T06:01:07Z",
-   "headline": "UK PPI output prices rise 4.6% year on year, above the 4.4% forecast and up from 3.7%",
-   "detail": "Official figures put UK producer output price inflation at 4.6% year on year, against a forecast of 4.4% and 3.7% previously. Output prices rose 0.8% month on month, against a forecast of 0.6% and 0.7% previously.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "520c13be353da4da",
-    "06e5b6e739851d41"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myehwlpkkd2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myehwlpkkd2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myehwpezbv25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myehwpezbv25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "34c1e44797cb",
-   "created_at": "2026-10-21T06:01:15Z"
   }
  ]
 }
