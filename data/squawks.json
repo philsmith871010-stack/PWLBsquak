@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T08:35:47Z",
+ "generated_at": "2026-10-22T08:40:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "919d7298fb51",
+   "ts": "2026-10-22T08:35:56Z",
+   "headline": "Iran warns the conflict could widen over what it calls illegal transit through the Strait of Hormuz",
+   "detail": "Iran said the scope of the conflict may expand in response to transit through the Strait of Hormuz that it describes as illegal. No market reaction was reported alongside the statement.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "34746de2bed2841a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhb2edhqn2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhb2edhqn2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7c7339de6d87",
+   "created_at": "2026-10-22T08:40:53Z"
+  },
   {
    "id": "87a5a9f8c585",
    "ts": "2026-10-22T08:32:20Z",
@@ -5837,27 +5858,6 @@
    "model": "opus",
    "run_id": "ffc39a9037cf",
    "created_at": "2026-10-20T17:20:52Z"
-  },
-  {
-   "id": "ee598bf19a70",
-   "ts": "2026-10-20T17:15:15Z",
-   "headline": "Turkey sends defence pact with Saudi Arabia and Pakistan to parliament for ratification",
-   "detail": "Three parliamentary sources told Reuters the pact has been submitted, bringing Turkey closer to a formal mutual defence commitment with Riyadh while Saudi Arabia faces Houthi attacks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4d796909877f83cc"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myd554vrap2h",
-     "url": "https://bsky.app/profile/reuters.com/post/3myd554vrap2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9320f4b21488",
-   "created_at": "2026-10-20T17:15:51Z"
   }
  ]
 }
