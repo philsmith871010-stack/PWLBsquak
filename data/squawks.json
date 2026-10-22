@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T13:05:40Z",
+ "generated_at": "2026-10-22T13:10:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b5ce1958f090",
+   "ts": "2026-10-22T13:07:48Z",
+   "headline": "German finance minister Klingbeil says further budget cuts are needed to create new fiscal room",
+   "detail": "German Finance Minister Klingbeil said more budget cuts are required to open up fiscal room. His remarks came as the German tax panel published updated revenue projections, putting this year's state tax revenue €0.1bn above the May forecast.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "d8c9f4c104d0fd62",
+    "118a0437afd06fa3",
+    "c0db05acd222351f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhqaiyepn27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhqaiyepn27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhqbcvhwm2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhqbcvhwm2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhq7zmgjk25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhq7zmgjk25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "84e9b8d286cf",
+   "created_at": "2026-10-22T13:10:50Z"
+  },
   {
    "id": "22701314c824",
    "ts": "2026-10-22T13:01:34Z",
@@ -5765,27 +5798,6 @@
    "model": "opus",
    "run_id": "9b3bf7fe117c",
    "created_at": "2026-10-20T19:31:06Z"
-  },
-  {
-   "id": "4cc33760548d",
-   "ts": "2026-10-20T19:12:48Z",
-   "headline": "Trump says oil prices will fall sharply once the Iran war ends",
-   "detail": "The US President made the comment during remarks at the White House on 20 October, which have now ended. No market reaction was reported.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "b1129332b68adb27"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myddpdj24i2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myddpdj24i2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e1fbc35a127c",
-   "created_at": "2026-10-20T19:15:52Z"
   }
  ]
 }
