@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T18:40:51Z",
+ "generated_at": "2026-10-22T18:45:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "291eadbc5c86",
+   "ts": "2026-10-22T18:45:37Z",
+   "headline": "Brent crude futures settle 4.00% higher at $113.17 a barrel, up $4.35",
+   "detail": "Brent futures closed the session $4.35, or 4.00%, higher at $113.17 a barrel, after Houthi attacks earlier in the day raised fears over Middle East supply.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "90aad1afcc88cd7f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myid4ktkpy27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myid4ktkpy27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "df185fcf6cf0",
+   "created_at": "2026-10-22T18:45:53Z"
+  },
   {
    "id": "8a4a3bf71467",
    "ts": "2026-10-22T18:36:57Z",
@@ -5519,27 +5540,6 @@
    "model": "opus",
    "run_id": "9bad04dec247",
    "created_at": "2026-10-21T06:10:54Z"
-  },
-  {
-   "id": "8e7099af417d",
-   "ts": "2026-10-21T06:02:05Z",
-   "headline": "Trump ruled out an Israeli strike on Iran before the US midterms, blocking a planned offensive, FT reports",
-   "detail": "The FT reports that Israel's Prime Minister Netanyahu told the military this month to plan a major new offensive against Iran. According to the report, the operation did not go ahead because President Trump ruled out a strike before the midterm elections.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "cfee77ae5944562a"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myehycz4i42j",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myehycz4i42j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ead6681bc3f7",
-   "created_at": "2026-10-21T06:05:45Z"
   }
  ]
 }
