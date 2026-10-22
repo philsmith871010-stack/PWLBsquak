@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T15:10:48Z",
+ "generated_at": "2026-10-22T15:15:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "89613d6efa4e",
+   "ts": "2026-10-22T15:15:03Z",
+   "headline": "Bank of Italy Governor Panetta says there is no evidence that bigger banks lead to tighter credit supply",
+   "detail": "Bank of Italy Governor Fabio Panetta, an ECB Governing Council member, said there was no evidence that larger banks tighten credit supply. The remarks did not address interest rates.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "19f0b153c254ad1f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhxe2gkzt2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhxe2gkzt2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a094fec6ece1",
+   "created_at": "2026-10-22T15:15:47Z"
+  },
   {
    "id": "3d6c0ff22829",
    "ts": "2026-10-22T15:06:55Z",
@@ -5807,27 +5828,6 @@
    "model": "opus",
    "run_id": "9e5af066c0f8",
    "created_at": "2026-10-20T21:40:47Z"
-  },
-  {
-   "id": "d94083b93768",
-   "ts": "2026-10-20T21:29:04Z",
-   "headline": "UK ministers set to approve the Jackdaw gasfield in the North Sea on Wednesday, FT reports",
-   "detail": "The Financial Times reports that ministers will give the go-ahead on Wednesday to the Jackdaw gas project, which lies about 150 miles east of Aberdeen.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "7f97bdac7347d9f7"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mydlcyk3sp24",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mydlcyk3sp24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e31fb76d30e8",
-   "created_at": "2026-10-20T21:31:02Z"
   }
  ]
 }
