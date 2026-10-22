@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T11:31:07Z",
+ "generated_at": "2026-10-22T11:35:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7ff2bde29fd3",
+   "ts": "2026-10-22T11:35:06Z",
+   "headline": "Gulf stock markets fall in early trade after new Houthi attacks on Saudi Arabia raise fears of wider regional conflict",
+   "detail": "Reuters reports that the main Gulf stock markets fell early on Thursday after fresh attacks on Saudi Arabia by Yemen's Iran-aligned Houthis. The report says the strikes added to fears of a broader escalation in the region.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "4c093444025abab3"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myhl2qayf52o",
+     "url": "https://bsky.app/profile/reuters.com/post/3myhl2qayf52o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d55ffa1d523f",
+   "created_at": "2026-10-22T11:35:40Z"
+  },
   {
    "id": "91e614486e77",
    "ts": "2026-10-22T11:26:29Z",
@@ -5754,27 +5775,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydchlenx62n",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydchlenx62n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cc72b22f8267",
-   "created_at": "2026-10-20T18:50:48Z"
-  },
-  {
-   "id": "c85f154bdb2d",
-   "ts": "2026-10-20T18:50:16Z",
-   "headline": "BoE's Greene repeats her call for higher rates, citing bigger-than-expected inflation risks from the Iran war energy shock",
-   "detail": "Reuters reports that MPC member Megan Greene said the risk of broader inflation from the energy price shock linked to the Iran war is greater than the Bank expected. She repeated her view that interest rates should rise.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "cecf8c96d544e91c"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mydcgzqhxc2k",
-     "url": "https://bsky.app/profile/reuters.com/post/3mydcgzqhxc2k"
     }
    ],
    "model": "opus",
