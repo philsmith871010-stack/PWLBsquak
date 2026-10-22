@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T11:35:40Z",
+ "generated_at": "2026-10-22T11:50:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ac9f99177fc4",
+   "ts": "2026-10-22T11:47:24Z",
+   "headline": "India's trade minister says the India-EU trade deal will be signed before year-end and could take effect within 4–5 months",
+   "detail": "India's trade minister made the comments during a visit to Germany. He said the agreement could become operational 4–5 months after it is signed.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0eebe0bc9d2ad0f1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhlqq6otl2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhlqq6otl2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7cf6502e67c8",
+   "created_at": "2026-10-22T11:50:54Z"
+  },
   {
    "id": "7ff2bde29fd3",
    "ts": "2026-10-22T11:35:06Z",
@@ -5753,33 +5774,6 @@
    "model": "opus",
    "run_id": "4a80b3ed0d0e",
    "created_at": "2026-10-20T18:55:42Z"
-  },
-  {
-   "id": "ce3456f47aa4",
-   "ts": "2026-10-20T18:50:35Z",
-   "headline": "Trump says Russia wants to reach a deal after the latest talks on Ukraine",
-   "detail": "US President Donald Trump said Russia would like to get a deal done following the latest round of talks on ending the war in Ukraine.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "fd6a5ec7734d9a41",
-    "9b04984fcee492f6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydcglr2zg2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydcglr2zg2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydchlenx62n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydchlenx62n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cc72b22f8267",
-   "created_at": "2026-10-20T18:50:48Z"
   }
  ]
 }
