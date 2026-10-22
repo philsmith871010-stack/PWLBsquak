@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T10:31:08Z",
+ "generated_at": "2026-10-22T10:45:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "69f9aef07e82",
+   "ts": "2026-10-22T10:45:05Z",
+   "headline": "European Parliament approves a three-year delay to the EU's methane emissions rules",
+   "detail": "The European Parliament voted to approve putting back the EU's methane regulation by three years, according to a market news wire. No market reaction was reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "b28eb301708226fb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhibcpmxx2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhibcpmxx2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d602e2f0aafe",
+   "created_at": "2026-10-22T10:45:49Z"
+  },
   {
    "id": "89391517a8b2",
    "ts": "2026-10-22T10:30:45Z",
@@ -5790,33 +5811,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd7nlu5q32f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd7nlu5q32f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aac76113f371",
-   "created_at": "2026-10-20T18:01:15Z"
-  },
-  {
-   "id": "acf8366c07d3",
-   "ts": "2026-10-20T17:56:44Z",
-   "headline": "Iran's President Pezeshkian says he believes the US will attack again if Tehran negotiates",
-   "detail": "Iran's President Pezeshkian said he believes the US would launch another attack if Iran entered negotiations, Tasnim reported. Pakistan's army chief Munir has left Tehran, Nour News reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b52869865b9990f7",
-    "90841052516b1c80"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd7hcyiwr2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd7hcyiwr2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd7kh2pgg2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd7kh2pgg2v"
     }
    ],
    "model": "opus",
