@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T10:20:48Z",
+ "generated_at": "2026-10-22T10:31:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "89391517a8b2",
+   "ts": "2026-10-22T10:30:45Z",
+   "headline": "Resolution Foundation says lower net migration will reduce fiscal headroom in the coming Budget",
+   "detail": "The Resolution Foundation said on 22 October that lower net migration is expected to weigh on the government's fiscal headroom at the upcoming Budget. It gave no figures in its post.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "0782043d0dcab171"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3myhhhnolev2d",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3myhhhnolev2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0bbe051b3b0e",
+   "created_at": "2026-10-22T10:31:08Z"
+  },
   {
    "id": "c0794f6df9c4",
    "ts": "2026-10-22T10:17:00Z",
@@ -5801,27 +5822,6 @@
    "model": "opus",
    "run_id": "aac76113f371",
    "created_at": "2026-10-20T18:01:15Z"
-  },
-  {
-   "id": "fed5e472e9af",
-   "ts": "2026-10-20T17:49:43Z",
-   "headline": "Iran's President Pezeshkian tells Pakistani mediator the US must lift all pressure, threats and sanctions before any negotiations",
-   "detail": "Iran's President Pezeshkian set this precondition for talks with Washington in remarks to the Pakistani mediator, according to a report. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "cfbb1ec2af5d5cfd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd72rn5mx2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd72rn5mx2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "728c66f761a9",
-   "created_at": "2026-10-20T17:50:54Z"
   }
  ]
 }
