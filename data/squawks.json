@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T08:40:53Z",
+ "generated_at": "2026-10-22T10:05:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4f617dae99cc",
+   "ts": "2026-10-22T10:05:04Z",
+   "headline": "Aramco CEO says he sees oil demand rising to 3 million barrels a day after the Iran war as Saudi Arabia seeks stockpile partners",
+   "detail": "Saudi Aramco CEO Amin Nasser told Al Arabiya Business TV on Thursday that Saudi Arabia and Aramco want to work with other countries to expand their strategic oil stockpile. He put oil demand after the Iran war at 3 million barrels per day, Reuters reports.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "022c01dec8563949"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myhfzqb3ur2r",
+     "url": "https://bsky.app/profile/reuters.com/post/3myhfzqb3ur2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "96f349824425",
+   "created_at": "2026-10-22T10:05:46Z"
+  },
   {
    "id": "919d7298fb51",
    "ts": "2026-10-22T08:35:56Z",
@@ -5801,63 +5822,6 @@
    "model": "opus",
    "run_id": "6e7c4fdd31ca",
    "created_at": "2026-10-20T17:25:42Z"
-  },
-  {
-   "id": "2cb30bea3bf7",
-   "ts": "2026-10-20T17:19:34Z",
-   "headline": "Zelenskyy says the US has set out strong security guarantees in a document that will be shared with Russia",
-   "detail": "Speaking at a press conference in Oslo with Nordic leaders, Zelenskyy said US intelligence on missile strikes is working again and that he expects positive results from talks with Rubio on Patriot missiles. Norway's prime minister said Europe needs to be part of talks on the European security order, and Finland's president said it is very important that the US stays engaged.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "38c51f4141396cbe",
-    "b84f078443b5cd55",
-    "f1f0a1a8fb16c519",
-    "236fdc4003faf1b5",
-    "ad5c57d96f2218cb",
-    "2dae6c786c93e757",
-    "cdf9b29476c3627f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd5ejinw724",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd5ejinw724"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd5etv2p62y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd5etv2p62y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd5fxw3bu2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd5fxw3bu2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd5gxy3ap2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd5gxy3ap2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd5h3jbsq2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd5h3jbsq2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd57tt5ef2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd57tt5ef2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd5ditre52m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd5ditre52m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ffc39a9037cf",
-   "created_at": "2026-10-20T17:20:52Z"
   }
  ]
 }
