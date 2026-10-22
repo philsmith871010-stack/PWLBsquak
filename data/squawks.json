@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T05:25:40Z",
+ "generated_at": "2026-10-22T06:15:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d2fba1f792f0",
+   "ts": "2026-10-22T06:12:50Z",
+   "headline": "Japan's 20-year JGB yield falls 2.5bp to 3.68% while the 2-year yield holds at 1.9%",
+   "detail": "In Tokyo trade, the 20-year Japanese government bond yield fell 2.5bp to 3.68% and the 2-year yield held steady at 1.9%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a73b166f52048627",
+    "3fc2dad33a28b916"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygz2i5pfn2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygz2i5pfn2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygz2lvpc72t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygz2lvpc72t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "37ec13dfb222",
+   "created_at": "2026-10-22T06:15:47Z"
+  },
   {
    "id": "40e0de065ba2",
    "ts": "2026-10-22T05:24:11Z",
@@ -5843,27 +5870,6 @@
    "model": "opus",
    "run_id": "bb8c207add55",
    "created_at": "2026-10-20T16:25:42Z"
-  },
-  {
-   "id": "8d43df3d4be1",
-   "ts": "2026-10-20T16:18:41Z",
-   "headline": "Iran tells Pakistan it has nothing new to say to the US, Mehr reports",
-   "detail": "Iran's Mehr news agency reports that Tehran has told Pakistan, which has been mediating, that it has no new message for the US. Earlier reports said a compromise proposal carried by Pakistan's army chief had been put forward in the US-Iran talks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ee103dbb923a40eb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myczxxz7m32n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myczxxz7m32n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7477339d1ed1",
-   "created_at": "2026-10-20T16:20:47Z"
   }
  ]
 }
