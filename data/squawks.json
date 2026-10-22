@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T15:05:42Z",
+ "generated_at": "2026-10-22T15:10:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3d6c0ff22829",
+   "ts": "2026-10-22T15:06:55Z",
+   "headline": "Kansas City Fed manufacturing index falls to 16 in October from 20",
+   "detail": "The Kansas City Fed's manufacturing index came in at 16 for October, down from 20 the previous month. No forecast was given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b5a61ff14ba935ac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhwvitfmn2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhwvitfmn2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "061e8a0244ec",
+   "created_at": "2026-10-22T15:10:48Z"
+  },
   {
    "id": "4f7ebfd380d8",
    "ts": "2026-10-22T15:01:55Z",
@@ -5807,27 +5828,6 @@
    "model": "opus",
    "run_id": "e31fb76d30e8",
    "created_at": "2026-10-20T21:31:02Z"
-  },
-  {
-   "id": "557a3f7be7f7",
-   "ts": "2026-10-20T21:01:58Z",
-   "headline": "Iran's Araghchi rejects the extra US conditions and says Tehran will not negotiate through Washington's network",
-   "detail": "Iran's Foreign Minister Araghchi was responding to the additional conditions the US sought in talks. Iran is negotiating with the US through intermediaries.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5dfae72c78a2b2db"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydjsjm3ml2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydjsjm3ml2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2b6d8b21a8f9",
-   "created_at": "2026-10-20T21:05:38Z"
   }
  ]
 }
