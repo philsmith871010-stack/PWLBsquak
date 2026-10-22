@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T20:45:57Z",
+ "generated_at": "2026-10-22T21:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3396faa745b0",
+   "ts": "2026-10-22T21:50:10Z",
+   "headline": "UK banking watchdog to review how financial regulation affects investment, capital and growth, Reuters reports",
+   "detail": "Reuters reports that the new UK banking watchdog will examine the effect of its rules on competitiveness, with more focus on transparency and on an objective to promote competition.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "ecb64f8501a097d2"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myingktcoq2v",
+     "url": "https://bsky.app/profile/reuters.com/post/3myingktcoq2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7bae97e88a39",
+   "created_at": "2026-10-22T21:50:49Z"
+  },
   {
    "id": "434f0415a90b",
    "ts": "2026-10-22T20:44:45Z",
@@ -5561,27 +5582,6 @@
    "model": "opus",
    "run_id": "aefe147d19c4",
    "created_at": "2026-10-21T08:35:39Z"
-  },
-  {
-   "id": "650fe07834c6",
-   "ts": "2026-10-21T08:28:38Z",
-   "headline": "S&P Global's UK consumer sentiment index drops to its lowest level since July 2023",
-   "detail": "S&P Global's UK consumer sentiment index has fallen to its lowest since July 2023, according to data released earlier this week. GfK's separate consumer confidence survey has recently shown stronger readings.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "4ddcd9a852f25491"
-   ],
-   "sources": [
-    {
-     "author": "bruceandy.bsky.social",
-     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3myeq6f2e2c2i",
-     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3myeq6f2e2c2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4b35f23516c5",
-   "created_at": "2026-10-21T08:31:02Z"
   }
  ]
 }
