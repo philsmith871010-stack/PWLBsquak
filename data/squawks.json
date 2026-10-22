@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T16:31:02Z",
+ "generated_at": "2026-10-22T16:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "179030734bce",
+   "ts": "2026-10-22T16:44:29Z",
+   "headline": "US 5-year Treasury yield extends its fall to 15bp on the day, at 4.80%",
+   "detail": "The US 5-year Treasury yield is down 15bp on the day at 4.80%, a deeper fall than the 14.33bp drop to 4.827% reported earlier in the session.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "a97768cb45239faf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myi4dxecjh2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myi4dxecjh2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "09d55215c029",
+   "created_at": "2026-10-22T16:45:50Z"
+  },
   {
    "id": "5067b5bb26e4",
    "ts": "2026-10-22T16:30:54Z",
@@ -5718,27 +5739,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mye5tgupt62h",
      "url": "https://bsky.app/profile/reuters.com/post/3mye5tgupt62h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5eb8d0c50584",
-   "created_at": "2026-10-21T05:05:59Z"
-  },
-  {
-   "id": "8da8c14a2c45",
-   "ts": "2026-10-21T02:37:11Z",
-   "headline": "Sterling slips below $1.3400 ahead of UK inflation data",
-   "detail": "In Asian trading, GBP/USD fell below 1.3400 as markets waited for the UK inflation release, a market report says.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "2cf64d3f792444dc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mye4jwgdu62e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mye4jwgdu62e"
     }
    ],
    "model": "opus",
