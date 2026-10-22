@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T16:25:44Z",
+ "generated_at": "2026-10-22T16:31:02Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5067b5bb26e4",
+   "ts": "2026-10-22T16:30:54Z",
+   "headline": "Resolution Foundation says fuel prices have risen again since September's CPI reading, when UK inflation reached 3.5%",
+   "detail": "The Resolution Foundation says higher fuel prices made the largest contribution to the rise in UK CPI inflation to 3.5% in September, its highest rate in almost a year. It adds that fuel prices have risen further since the September CPI data were collected.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "9b689b295b4eed36"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3myi3lodh7o2b",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3myi3lodh7o2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "82222da8399d",
+   "created_at": "2026-10-22T16:31:02Z"
+  },
   {
    "id": "ecae7218c395",
    "ts": "2026-10-22T16:21:16Z",
@@ -5718,39 +5739,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mye4jwgdu62e",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mye4jwgdu62e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5eb8d0c50584",
-   "created_at": "2026-10-21T05:05:59Z"
-  },
-  {
-   "id": "fa4e8b42dedc",
-   "ts": "2026-10-21T01:40:03Z",
-   "headline": "20-year JGBs rise after an auction draws record demand",
-   "detail": "The WSJ reports that Japanese 20-year government bonds gained after the auction drew record demand. The 10-year JGB yield was unchanged at 2.895%, and the 30-year yield fell 0.5bp to 3.935%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "47d471d70cbbea85",
-    "d62ebc5897364bb3",
-    "75749f3374563251"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydzdry34o2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydzdry34o2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mye2wkbji72l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mye2wkbji72l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mye2y44rft2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mye2y44rft2t"
     }
    ],
    "model": "opus",
