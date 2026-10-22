@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T18:50:49Z",
+ "generated_at": "2026-10-22T19:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9f14ddb90722",
+   "ts": "2026-10-22T19:04:15Z",
+   "headline": "UK Chancellor plans to cut back business asset disposal relief, Telegraph reports",
+   "detail": "The Telegraph reports that the Chancellor is set to scale back business asset disposal relief. No further details or figures were given.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "f62fc46d10e93e3b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myie5vdtzb2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myie5vdtzb2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "adc99c5ed7f9",
+   "created_at": "2026-10-22T19:05:43Z"
+  },
   {
    "id": "74b637f8c3ba",
    "ts": "2026-10-22T18:47:59Z",
@@ -5525,27 +5546,6 @@
    "model": "opus",
    "run_id": "42b7c66d99c7",
    "created_at": "2026-10-21T07:01:19Z"
-  },
-  {
-   "id": "91784d7518cc",
-   "ts": "2026-10-21T06:06:16Z",
-   "headline": "UK RPI inflation rises to 3.9% in September, in line with forecast and up from 3.4%",
-   "detail": "ONS data show RPI at 3.9% year on year in September, matching the 3.9% forecast, with a monthly rise of 0.1%. RPI excluding mortgage interest payments rose to 3.9% from 3.3%.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "539afa908f85f964"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myei7se3gy24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myei7se3gy24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9bad04dec247",
-   "created_at": "2026-10-21T06:10:54Z"
   }
  ]
 }
