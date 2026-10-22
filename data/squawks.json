@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T07:05:43Z",
+ "generated_at": "2026-10-22T07:25:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5252d8d18b5d",
+   "ts": "2026-10-22T07:22:04Z",
+   "headline": "Aramco CEO says the company wants to work with other countries to build up strategic oil reserves",
+   "detail": "Saudi Aramco's chief executive, Amin Nasser, said the company is looking for partnerships with other countries to increase strategic reserves. No volumes or partner countries were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "74895fbcc7b19b4b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh4wbpn4x2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh4wbpn4x2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d2135783920c",
+   "created_at": "2026-10-22T07:25:44Z"
+  },
   {
    "id": "d59eea67f29d",
    "ts": "2026-10-22T07:01:17Z",
@@ -5897,27 +5918,6 @@
    "model": "opus",
    "run_id": "d8d6e3d4e255",
    "created_at": "2026-10-20T17:05:40Z"
-  },
-  {
-   "id": "96613a07112c",
-   "ts": "2026-10-20T16:57:55Z",
-   "headline": "Lavrov says Russia will hear US envoys Witkoff and Kushner's proposals but will make no political concessions",
-   "detail": "Russian Foreign Minister Sergei Lavrov says Moscow will look at what US envoys Witkoff and Kushner put forward, but will not make political concessions.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2d354ad597a5e408"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd465hxlh2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd465hxlh2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8442e0274557",
-   "created_at": "2026-10-20T17:01:14Z"
   }
  ]
 }
