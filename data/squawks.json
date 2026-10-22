@@ -1,8 +1,95 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T07:35:47Z",
+ "generated_at": "2026-10-22T07:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cb36dfd1dbe7",
+   "ts": "2026-10-22T07:36:47Z",
+   "headline": "SNB minutes find no second-round inflation effects and say a weaker franc has eased monetary conditions since June",
+   "detail": "The Swiss National Bank's minutes of its September meeting say core inflation has risen only slightly, inflation expectations are stable and medium-term inflation pressure is only a little higher than at the June review. They also say the franc's fall outpaced the rise in interest rates, leaving monetary conditions easier, and that a worsening in the Middle East would hit global activity harder.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a4cc3d938c2da4de",
+    "adb19d39f0accbad",
+    "ca94f95e8a3a7f86",
+    "c501a0c99458b2fb",
+    "747a1be6e85d4347",
+    "da87d760dcf51b9e",
+    "51f5411e5a941323",
+    "d704f920351f2e4b",
+    "fc6f4cb24a2b43b6",
+    "dd6f516fcea0a50d",
+    "c752a7f007ab3fb2",
+    "40e09c1d8eb4c3e7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5qlgm2v2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5qlgm2v2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5p7ryr527",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5p7ryr527"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5svsqa32b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5svsqa32b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5syye4t2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5syye4t2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5qotalz2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5qotalz2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5rjosip2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5rjosip2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5qsydfb2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5qsydfb2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5sobsbf27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5sobsbf27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5t4tpe72v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5t4tpe72v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5pbzukq25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5pbzukq25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5po5ulf27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5po5ulf27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5sqbhet2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5sqbhet2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2d4a24a10405",
+   "created_at": "2026-10-22T07:40:50Z"
+  },
   {
    "id": "73964054f408",
    "ts": "2026-10-22T07:32:23Z",
@@ -5909,63 +5996,6 @@
    "model": "opus",
    "run_id": "93f8e0c6c855",
    "created_at": "2026-10-20T17:10:52Z"
-  },
-  {
-   "id": "6d9123dc79fc",
-   "ts": "2026-10-20T17:02:22Z",
-   "headline": "BoE's Greene says wage disinflation has stalled above 2%-consistent levels and second-round inflation risk is greater than thought",
-   "detail": "MPC member Megan Greene said forward-looking data point to pay growth closer to 3.5%, the economy has been surprisingly resilient and labour market slack may have peaked. She said she still believes the MPC should lean proactively against the risk of second-round inflation effects.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "d8e64ce2e7a4b973",
-    "0b8196fe951c43ca",
-    "459490d67b7e3bfc",
-    "c4f36da8e45ef936",
-    "c0b4629ef572b7bd",
-    "3d20e7952ec2351a",
-    "03da4f5307d95468"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4g3thpg2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4g3thpg2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4hd7udz26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4hd7udz26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4hkck5o2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4hkck5o2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4hn4jzo2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4hn4jzo2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4iqlish24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4iqlish24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4iwfqzf2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4iwfqzf2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd4k27mgk26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd4k27mgk26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d8d6e3d4e255",
-   "created_at": "2026-10-20T17:05:40Z"
   }
  ]
 }
