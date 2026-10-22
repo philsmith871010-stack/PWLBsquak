@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T11:50:54Z",
+ "generated_at": "2026-10-22T11:55:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "aeeca4293bfa",
+   "ts": "2026-10-22T11:51:16Z",
+   "headline": "Markets price only 3.5bp of Fed tightening for the 28 October meeting, consistent with the Fed holding",
+   "detail": "A market economist reports that pricing for the Fed's 28 October decision shows just 3.5bp of tightening, which he reads as markets expecting the Fed to stay on hold. He links this to the sell-off in global bond markets.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "32afd0e9d0f19a02"
+   ],
+   "sources": [
+    {
+     "author": "robin-j-brooks.bsky.social",
+     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3myhlxnfqvk2w",
+     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3myhlxnfqvk2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "da71af7931f3",
+   "created_at": "2026-10-22T11:55:41Z"
+  },
   {
    "id": "ac9f99177fc4",
    "ts": "2026-10-22T11:47:24Z",
@@ -5748,27 +5769,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydcottaqg2q",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydcottaqg2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4a80b3ed0d0e",
-   "created_at": "2026-10-20T18:55:42Z"
-  },
-  {
-   "id": "cfa7a36b72d3",
-   "ts": "2026-10-20T18:51:26Z",
-   "headline": "Netanyahu vows Israel will remove the threat from Iran, citing the killing of Nasrallah",
-   "detail": "Israeli Prime Minister Netanyahu said Israel had eliminated Hezbollah leader Nasrallah and would also eliminate the threat posed by Iran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e99efd59a99872b6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydcj4euzk2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydcj4euzk2m"
     }
    ],
    "model": "opus",
