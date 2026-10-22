@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T14:40:51Z",
+ "generated_at": "2026-10-22T14:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "61c056521178",
+   "ts": "2026-10-22T14:43:04Z",
+   "headline": "US Treasury rally deepens: 5-year yield falls 14.33bp to 4.827% and 3-year falls 13.93bp to 4.771%",
+   "detail": "The US 5-year Treasury yield touched 4.825%, its lowest since 23 September, and was last down 14.33bp at 4.827%. The 3-year yield touched 4.768%, its lowest since 18 September, and was last down 13.93bp at 4.771%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "7acd850b2436ff30",
+    "039a998d94687f5d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhvhwabdv26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhvhwabdv26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhvktiadk2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhvktiadk2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d1bfcf2ec729",
+   "created_at": "2026-10-22T14:45:50Z"
+  },
   {
    "id": "953b5373bf77",
    "ts": "2026-10-22T14:40:39Z",
@@ -5807,33 +5834,6 @@
    "model": "opus",
    "run_id": "5e6b67bda477",
    "created_at": "2026-10-20T20:25:43Z"
-  },
-  {
-   "id": "34c09d960296",
-   "ts": "2026-10-20T20:19:52Z",
-   "headline": "Iran's Foreign Minister Araghchi says the US cannot be trusted at all in negotiations",
-   "detail": "Iran's Foreign Minister Araghchi said there should be no trust in the US during the negotiation process. Speaking to Iraq's Al Ekhbariya through an interpreter, he also said Saudi Arabia and Yemen's Houthis have not yet responded to Tehran's mediation initiative.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "721548fc47e6659e",
-    "b639d52ecfd7ef18"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydhhb6hos2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydhhb6hos2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydhfqn67j2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydhfqn67j2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7d87963080e6",
-   "created_at": "2026-10-20T20:20:52Z"
   }
  ]
 }
