@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T14:55:47Z",
+ "generated_at": "2026-10-22T15:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4f7ebfd380d8",
+   "ts": "2026-10-22T15:01:55Z",
+   "headline": "Kansas City Fed composite index slips to 11 in October, below the 12 forecast",
+   "detail": "The Kansas City Fed composite index came in at 11, compared with a forecast of 12 and 14 previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e51e2b5c521a205f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhwmkv4yt2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhwmkv4yt2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5e08f6777429",
+   "created_at": "2026-10-22T15:05:42Z"
+  },
   {
    "id": "43267acb2557",
    "ts": "2026-10-22T14:52:44Z",
@@ -5807,33 +5828,6 @@
    "model": "opus",
    "run_id": "2b6d8b21a8f9",
    "created_at": "2026-10-20T21:05:38Z"
-  },
-  {
-   "id": "2ba32fdcd53d",
-   "ts": "2026-10-20T21:00:35Z",
-   "headline": "Iran's Araghchi says talks with US continue via Pakistan and Qatar, and the US sought added clauses after agreeing Hormuz terms",
-   "detail": "Iran's Foreign Minister Araghchi said indirect negotiations with the US through intermediaries including Pakistan and Qatar are ongoing. He said the Strait of Hormuz was to be fully reopened on the sixth day of the agreed period, and that the US had accepted those terms but then asked to add further clauses.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e769eee3eed24ac7",
-    "b674ce1bfb109c55"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydjq2lohd2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydjq2lohd2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mydjqzywgp2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mydjqzywgp2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f8201930d0d6",
-   "created_at": "2026-10-20T21:01:14Z"
   }
  ]
 }
