@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-22T11:01:15Z",
+ "generated_at": "2026-10-22T11:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a543d62a571d",
+   "ts": "2026-10-22T11:03:20Z",
+   "headline": "France's 10-year bond risk premium widens to 175bp",
+   "detail": "A market newswire reports that France's 10-year government bond risk premium has risen to 175bp. Earlier, France's 10-year yield moved above 5% for the first time in nearly a quarter of a century.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "135234779b300b1e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhjbwtrgb2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhjbwtrgb2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "035fdab6dd06",
+   "created_at": "2026-10-22T11:05:41Z"
+  },
   {
    "id": "7c22b21aea1a",
    "ts": "2026-10-22T10:55:58Z",
@@ -5783,33 +5804,6 @@
    "model": "opus",
    "run_id": "41a2b4a914bd",
    "created_at": "2026-10-20T18:15:48Z"
-  },
-  {
-   "id": "84c18566f5bb",
-   "ts": "2026-10-20T18:05:38Z",
-   "headline": "BoE's Greene says people take notice of inflation once it is above 3% and expects supply shocks to keep coming",
-   "detail": "MPC member Megan Greene said public awareness of inflation picks up when it goes above 3%, and that the economy will continue to face many supply shocks. The comments follow her earlier remarks that wage disinflation has stalled.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "88a0e5e494326dcc",
-    "b0736a9200388f6d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd7x7u5dd2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd7x7u5dd2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myd7z5zwpx2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myd7z5zwpx2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "005862029a58",
-   "created_at": "2026-10-20T18:10:50Z"
   }
  ]
 }
