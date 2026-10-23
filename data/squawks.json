@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T18:25:42Z",
+ "generated_at": "2026-10-23T18:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dea58efebe0d",
+   "ts": "2026-10-23T18:29:05Z",
+   "headline": "Downing Street says Burnham backed Saudi Arabia over Houthi attacks and raised Argentina's Falklands measures in call with Trump",
+   "detail": "Downing Street's readout of the Burnham–Trump call says the prime minister restated UK support for Saudi Arabia in the face of Houthi attacks. It also says he raised the economic consequences for the UK and US of Argentina's coercive measures over the Falkland Islands, and that the two leaders agreed approving the Jackdaw field will benefit the UK.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "09aaec61d070fefa",
+    "b357fa6aa1022bd1",
+    "ebe627eb7f026a41"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myksnwdirk2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myksnwdirk2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myksoqucg42l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myksoqucg42l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myksje3qk62h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myksje3qk62h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "390cc4781ac7",
+   "created_at": "2026-10-23T18:31:03Z"
+  },
   {
    "id": "c426b94d0157",
    "ts": "2026-10-23T18:24:54Z",
@@ -5903,27 +5936,6 @@
    "model": "opus",
    "run_id": "2b28c6856203",
    "created_at": "2026-10-21T18:05:47Z"
-  },
-  {
-   "id": "1a31a670e4d6",
-   "ts": "2026-10-21T17:48:47Z",
-   "headline": "Kuwait Petroleum Corp CEO says there is plenty of crude supply and that refined fuels are the bottleneck",
-   "detail": "Barron's reports the Kuwait Petroleum Corp chief executive describing crude supply as ample and pointing to refined fuels as the constraint. This follows his earlier comments on Kuwait's production and exports.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "93465a0f23bc1446"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfphzfr2h2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfphzfr2h2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9813ce9222e3",
-   "created_at": "2026-10-21T17:50:48Z"
   }
  ]
 }
