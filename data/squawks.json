@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T06:50:53Z",
+ "generated_at": "2026-10-23T07:15:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8802de53d006",
+   "ts": "2026-10-23T07:15:45Z",
+   "headline": "French flash services PMI drops to 48.4 in October from 51.2, well below the 50.7 forecast",
+   "detail": "France's October flash services PMI came in at 48.4, against a forecast of 50.7 and a previous reading of 51.2.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "2b108b07ac249d83"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjmzw4ena2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjmzw4ena2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "df7e7d2bb585",
+   "created_at": "2026-10-23T07:15:49Z"
+  },
   {
    "id": "c710cf812b8f",
    "ts": "2026-10-23T06:50:03Z",
@@ -5736,33 +5757,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewbgylbi2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewbgylbi2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cf4a6a83d661",
-   "created_at": "2026-10-21T10:20:50Z"
-  },
-  {
-   "id": "03e62541e64a",
-   "ts": "2026-10-21T10:18:46Z",
-   "headline": "Brent gains more than $2 to a session high of $111.25 a barrel as Iran denies diplomatic progress",
-   "detail": "Brent crude futures are reported more than $2 higher at a session high of $111.25 a barrel, with Iran's denial of diplomatic progress and falling US oil inventories cited. WTI Midland futures also rise more than $2 to a session high of $99.88 a barrel.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "c2364d9c2f3c7753",
-    "2aebf8078cf01251"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewdch7zy2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewdch7zy2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myew64ycu52j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myew64ycu52j"
     }
    ],
    "model": "opus",
