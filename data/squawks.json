@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T15:35:43Z",
+ "generated_at": "2026-10-23T16:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2b47c9eb5706",
+   "ts": "2026-10-23T16:01:38Z",
+   "headline": "Russian military says Oleshky ceasefire begins at 04:00 local time on 27 October for a humanitarian operation",
+   "detail": "Russia's defence ministry says the ceasefire in Russian-controlled Oleshky in the Kherson direction starts at 04:00 local time on 27 October, Interfax reports. Chief of the general staff Gerasimov says Russian forces will make sure a humanitarian convoy can move safely to Alekseyevka with essential goods.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "357af5bb945697e7",
+    "6eb043408b075bf3",
+    "5e2ed38baff796bf",
+    "8c49a995315cd59d",
+    "7dae5e3444686fb6",
+    "9306bd01ca8d9886"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykkgao4uq2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykkgao4uq2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykkgl5vtk27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykkgl5vtk27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykkidwug227",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykkidwug227"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykkiogmqo24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykkiogmqo24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykklqiuge2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykklqiuge2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykkmsyxf326",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykkmsyxf326"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bc7af7ae7591",
+   "created_at": "2026-10-23T16:05:42Z"
+  },
   {
    "id": "7e709e1b5c67",
    "ts": "2026-10-23T15:35:04Z",
@@ -5885,27 +5936,6 @@
    "model": "opus",
    "run_id": "060e9ff30a57",
    "created_at": "2026-10-21T17:05:41Z"
-  },
-  {
-   "id": "74b8397a3b07",
-   "ts": "2026-10-21T17:01:22Z",
-   "headline": "US 20-year Treasury when-issued yield is 5.460% ahead of $13bn auction",
-   "detail": "The when-issued 20-year US Treasury yield stood at 5.460% before the $13 billion reopening auction, a market post reported.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "02314c418e298ddc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfmt7waxc25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfmt7waxc25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "47b49eace562",
-   "created_at": "2026-10-21T17:01:24Z"
   }
  ]
 }
