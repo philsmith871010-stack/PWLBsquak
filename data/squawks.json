@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T09:40:46Z",
+ "generated_at": "2026-10-23T09:55:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f2425a8a405b",
+   "ts": "2026-10-23T09:55:15Z",
+   "headline": "Germany says an electricity tax cut is on the agenda but depends on budget financing; revenue cost put at about €5bn a year",
+   "detail": "A German government spokesperson said a cut to electricity tax is under consideration, subject to sufficient budget financing being found. A ministry spokesperson said it would reduce annual tax revenues by about €5bn.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "e54ca40cb80227bf",
+    "0f6955988ac9e838"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjvr24afh2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjvr24afh2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjvx4flcw2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjvx4flcw2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4a9e30e8b701",
+   "created_at": "2026-10-23T09:55:43Z"
+  },
   {
    "id": "2a24b5e7c15e",
    "ts": "2026-10-23T09:37:02Z",
@@ -5771,27 +5798,6 @@
    "model": "opus",
    "run_id": "a7553c200e4d",
    "created_at": "2026-10-21T13:15:50Z"
-  },
-  {
-   "id": "64e95ba785a7",
-   "ts": "2026-10-21T13:02:24Z",
-   "headline": "Russian wealth fund head Dmitriev calls Putin's meeting with US envoy Witkoff productive",
-   "detail": "Kirill Dmitriev, head of Russia's sovereign wealth fund, described the Putin-Witkoff talks on a Ukraine settlement as productive, TASS reports. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7f1adc70c54821d7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myf7hvumuz2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myf7hvumuz2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c1bb8c697010",
-   "created_at": "2026-10-21T13:05:43Z"
   }
  ]
 }
