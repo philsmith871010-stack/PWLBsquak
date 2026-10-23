@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T06:40:53Z",
+ "generated_at": "2026-10-23T06:50:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c710cf812b8f",
+   "ts": "2026-10-23T06:50:03Z",
+   "headline": "China pledges to respond to US restrictions on research ties and demands an end to measures against its research bodies",
+   "detail": "China's Commerce Ministry said it would take action after the US imposed curbs on research ties, and called on Washington to stop what it described as discriminatory measures against Chinese research institutions. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8591757a02bbf65c",
+    "0d81520fa8a3be0b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjllwxjuh27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjllwxjuh27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjlmqnho52v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjlmqnho52v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "01c141a64a98",
+   "created_at": "2026-10-23T06:50:53Z"
+  },
   {
    "id": "4253c012af88",
    "ts": "2026-10-23T06:40:08Z",
@@ -5741,27 +5768,6 @@
    "model": "opus",
    "run_id": "cf4a6a83d661",
    "created_at": "2026-10-21T10:20:50Z"
-  },
-  {
-   "id": "3d1c2e11d4cd",
-   "ts": "2026-10-21T10:15:22Z",
-   "headline": "Kremlin says Russia will study the US proposals on Ukraine but that a great deal hinges on Ukraine",
-   "detail": "The Kremlin made the comment after Putin's talks with US envoy Witkoff, at which Witkoff presented documents setting out options for a Ukraine settlement.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3ca2fb5aa37342b6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myew5aartf2e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myew5aartf2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fb89d869d1e9",
-   "created_at": "2026-10-21T10:15:47Z"
   }
  ]
 }
