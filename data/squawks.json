@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T08:25:42Z",
+ "generated_at": "2026-10-23T08:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "065fe2905c4c",
+   "ts": "2026-10-23T08:30:59Z",
+   "headline": "UK flash services PMI rises to 53.1 in October from 52.1, well above the 51.8 forecast",
+   "detail": "The flash UK services PMI for October came in at 53.1, against a forecast of 51.8 and a previous reading of 52.1.",
+   "category": "data",
+   "importance": 3,
+   "source_event_ids": [
+    "e0b5c70d91e01d89"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjragqk2y2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjragqk2y2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8f1b39f61293",
+   "created_at": "2026-10-23T08:31:03Z"
+  },
+  {
+   "id": "fa6077888fd1",
+   "ts": "2026-10-23T08:26:31Z",
+   "headline": "Treasury minister Murray says UK fiscal rules support stability as the Budget comes amid global uncertainty",
+   "detail": "Treasury minister Murray said the fiscal rules underpin the UK economy's stability and that the Budget comes during a period of unprecedented global economic instability. She added that the government is focused on entrepreneurs and on helping businesses grow.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "0eb5584ecdd26e74",
+    "c49ccf2092276ea8",
+    "b784c2e808db8acb",
+    "ea2b57cba6c5673b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjqygwm2r2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjqygwm2r2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjqzibior2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjqzibior2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjr4iognk2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjr4iognk2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjr5dn4vr2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjr5dn4vr2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8f1b39f61293",
+   "created_at": "2026-10-23T08:31:03Z"
+  },
   {
    "id": "1cf42b5d0dc7",
    "ts": "2026-10-23T08:24:24Z",
@@ -5714,54 +5774,6 @@
    "model": "opus",
    "run_id": "7638fd10ab8b",
    "created_at": "2026-10-21T12:15:54Z"
-  },
-  {
-   "id": "27f5d791c198",
-   "ts": "2026-10-21T12:08:52Z",
-   "headline": "Middle East oil exports return to above pre-war levels as Gulf shipments use alternative routes, FT reports",
-   "detail": "The Financial Times reports that daily shipments from Gulf producers now average 24.6mn, against 23.3mn before the conflict. Tankers are using alternative routes.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "5a648d94f96d7b45"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myf4i6yqsc2c",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myf4i6yqsc2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "120031a69a77",
-   "created_at": "2026-10-21T12:10:56Z"
-  },
-  {
-   "id": "db7e8f004a92",
-   "ts": "2026-10-21T12:03:44Z",
-   "headline": "Putin's talks with US envoy Witkoff on a Ukraine settlement end, TASS reports",
-   "detail": "Russian state news agency TASS reports that the meeting between President Putin and US envoy Witkoff has ended. No outcome was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f42ba67155773b2a",
-    "be85ecf06f71583d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myf46ys4kd2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myf46ys4kd2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myf475bn3q24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myf475bn3q24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "49e57d765008",
-   "created_at": "2026-10-21T12:05:41Z"
   }
  ]
 }
