@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T19:46:05Z",
+ "generated_at": "2026-10-23T20:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c67c5d8438c6",
+   "ts": "2026-10-23T20:05:19Z",
+   "headline": "US Treasuries and stocks fall together as higher oil prices revive inflation concerns",
+   "detail": "A US market wrap posted at the close reports that both US bonds and equities fell, with the surge in oil prices renewing inflation worries. No yield levels were given.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c14457e8c8842bf4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykxzystc62k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykxzystc62k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "609a012ba55e",
+   "created_at": "2026-10-23T20:05:41Z"
+  },
   {
    "id": "4de810a86cf0",
    "ts": "2026-10-23T19:41:33Z",
@@ -5904,27 +5925,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myftn7qzrg2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myftn7qzrg2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b0d6e2851e54",
-   "created_at": "2026-10-21T19:05:41Z"
-  },
-  {
-   "id": "ffe2d683d9b3",
-   "ts": "2026-10-21T19:02:39Z",
-   "headline": "EU set to delay its push for cheaper UK university fees for EU students as it works to finalise reset deal",
-   "detail": "The Financial Times reports the EU is set to put off its demand on UK tuition fees for students from the bloc. The concession could help the two sides complete a 'reset' deal at a summit next month.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "edee0879684fc37e"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myftm3sfif2u",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myftm3sfif2u"
     }
    ],
    "model": "opus",
