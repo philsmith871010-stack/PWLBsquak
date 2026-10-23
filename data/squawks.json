@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T20:50:55Z",
+ "generated_at": "2026-10-23T20:55:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "aa29c72804e3",
+   "ts": "2026-10-23T20:51:47Z",
+   "headline": "Moody's says the recent sharp rise in French government bond yields adds to the risk of debt affordability weakening further",
+   "detail": "The ratings agency made the point in its review of France, after a week of heavy selling in French government bonds. No yield figures were given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0566f3b30b1bf15b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myl2n3clph25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myl2n3clph25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f3b0958b1124",
+   "created_at": "2026-10-23T20:55:42Z"
+  },
   {
    "id": "baad140c777e",
    "ts": "2026-10-23T20:48:07Z",
@@ -5897,27 +5918,6 @@
    "model": "opus",
    "run_id": "f8ed681000aa",
    "created_at": "2026-10-21T19:31:02Z"
-  },
-  {
-   "id": "1e82a9124e76",
-   "ts": "2026-10-21T19:16:34Z",
-   "headline": "Trump says the US is getting closer to a settlement of Russia's war with Ukraine",
-   "detail": "US President Trump said on Wednesday evening that a settlement of the Russia-Ukraine war is getting closer. It follows Kremlin comments that three-way talks with the US and Ukraine could resume in November.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5502673877e63448"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfuextk5u2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfuextk5u2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4c13e24ab734",
-   "created_at": "2026-10-21T19:20:50Z"
   }
  ]
 }
