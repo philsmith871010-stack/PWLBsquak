@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T11:35:46Z",
+ "generated_at": "2026-10-23T12:01:18Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d3e5860496cc",
+   "ts": "2026-10-23T12:00:10Z",
+   "headline": "EU ministers seek deals with Beijing to limit Chinese imports in chemicals, machinery and pharmaceuticals",
+   "detail": "EU ministers said on Friday that the bloc should pursue agreements with China to curb imports in several sectors, calling the goods trade deficit with China unsustainable and damaging, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9ef469126a63690b"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myk4wi5kx72n",
+     "url": "https://bsky.app/profile/reuters.com/post/3myk4wi5kx72n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3539555129e8",
+   "created_at": "2026-10-23T12:01:18Z"
+  },
   {
    "id": "0fa1438b7da2",
    "ts": "2026-10-23T11:33:36Z",
@@ -5718,27 +5739,6 @@
      "author": "bruceandy.bsky.social",
      "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3myfb22sz622i",
      "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3myfb22sz622i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6c6dfc4cce64",
-   "created_at": "2026-10-21T13:31:06Z"
-  },
-  {
-   "id": "f5fea16ed449",
-   "ts": "2026-10-21T13:29:34Z",
-   "headline": "WEF could name ECB President Lagarde as its chair as early as November, Reuters reports",
-   "detail": "Reuters cites four people close to the World Economic Forum as saying the appointment could come next month. That would mean Lagarde stepping down early as ECB President.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "62d6aea073b89fa0"
-   ],
-   "sources": [
-    {
-     "author": "robin-j-brooks.bsky.social",
-     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3myfayi3zmk2x",
-     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3myfayi3zmk2x"
     }
    ],
    "model": "opus",
