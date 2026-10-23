@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T18:10:50Z",
+ "generated_at": "2026-10-23T18:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c426b94d0157",
+   "ts": "2026-10-23T18:24:54Z",
+   "headline": "Downing Street says PM Burnham and Trump discussed the energy secretary's approval of the Jackdaw gas field",
+   "detail": "Downing Street's readout of the call between the UK prime minister and the US president says the two discussed the energy secretary's decision to approve the Jackdaw North Sea development. It also says Burnham stressed that Ukraine needs full access to Starlink.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "0926a679bd4d93cb",
+    "e177b81624a3fa92"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myksgh4erk27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myksgh4erk27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykseurahu24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykseurahu24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6dca00589a74",
+   "created_at": "2026-10-23T18:25:42Z"
+  },
   {
    "id": "540d3c793c1a",
    "ts": "2026-10-23T18:06:34Z",
@@ -5897,27 +5924,6 @@
    "model": "opus",
    "run_id": "9813ce9222e3",
    "created_at": "2026-10-21T17:50:48Z"
-  },
-  {
-   "id": "6bb60ab30207",
-   "ts": "2026-10-21T17:41:34Z",
-   "headline": "Kuwait Petroleum Corp CEO reports significant progress in talks on pipelines",
-   "detail": "The chief executive of Kuwait Petroleum Corp said a lot of progress is being made in pipeline talks, adding to earlier remarks on Kuwait's crude output and exports. No further details were given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "93bbfa94da799767"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfp33vckm2e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfp33vckm2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "078b16909d4d",
-   "created_at": "2026-10-21T17:45:49Z"
   }
  ]
 }
