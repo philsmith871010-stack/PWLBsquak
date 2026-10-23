@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T12:10:55Z",
+ "generated_at": "2026-10-23T13:05:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "517319992e3d",
+   "ts": "2026-10-23T13:05:17Z",
+   "headline": "WTI crude extends gains, rising more than $2 to $101.62 a barrel on worries over Middle East escalation",
+   "detail": "US WTI futures climbed by more than $2 a barrel to $101.62, adding to gains as concern grew over rising tension in the Middle East. In the previous session WTI settled at $99.47 and Brent at $113.17.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "7bf4e26072bb6933"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykakvphxk2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykakvphxk2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bf635f66d450",
+   "created_at": "2026-10-23T13:05:53Z"
+  },
   {
    "id": "79346b327317",
    "ts": "2026-10-23T12:10:08Z",
@@ -5723,27 +5744,6 @@
    "model": "opus",
    "run_id": "706161b61f18",
    "created_at": "2026-10-21T13:40:50Z"
-  },
-  {
-   "id": "319818b46b1d",
-   "ts": "2026-10-21T13:33:38Z",
-   "headline": "Kremlin aide Ushakov says a post-war security system for Russia and Ukraine is the main topic for resuming talks",
-   "detail": "Kremlin foreign policy aide Yuri Ushakov said Russia is prepared to resume negotiations chiefly on building a security system for Russia and Ukraine once the conflict ends. He spoke after Putin's talks with US envoy Witkoff.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2d97bcc6f7e87068"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfb7rjfzl25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfb7rjfzl25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "987a6cdcb3a8",
-   "created_at": "2026-10-21T13:35:41Z"
   }
  ]
 }
