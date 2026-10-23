@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T15:10:52Z",
+ "generated_at": "2026-10-23T15:15:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "53b3c10668c1",
+   "ts": "2026-10-23T15:12:10Z",
+   "headline": "Zelenskiy says any peace deal would need strong security guarantees and 10 years of funding for Ukraine's army",
+   "detail": "Ukraine's president set out the conditions for any peace agreement with Russia: strong security guarantees and funding for 10 years to maintain the Ukrainian army. The comments come as the Kremlin says three-way talks with the US are planned for early November.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b61e50ab50699f55"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykhnshco22l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykhnshco22l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "359af6f6b966",
+   "created_at": "2026-10-23T15:15:53Z"
+  },
   {
    "id": "1c522f476456",
    "ts": "2026-10-23T15:10:26Z",
@@ -5897,27 +5918,6 @@
    "model": "opus",
    "run_id": "c598e6788d54",
    "created_at": "2026-10-21T16:55:42Z"
-  },
-  {
-   "id": "79f93ae33fd0",
-   "ts": "2026-10-21T16:48:29Z",
-   "headline": "US adds vessels to its Iran sanctions list",
-   "detail": "The United States has added vessels to its Iran-related sanctions list, according to a market news post. The post gave no figures and reported no market reaction.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2f7e4ce8e1c73b76"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfm46urhi22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfm46urhi22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "10366362c03b",
-   "created_at": "2026-10-21T16:50:50Z"
   }
  ]
 }
