@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T12:01:18Z",
+ "generated_at": "2026-10-23T12:10:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "79346b327317",
+   "ts": "2026-10-23T12:10:08Z",
+   "headline": "Sterling rises to a fresh 17-month high against the euro after mixed UK data",
+   "detail": "Reuters reports that sterling edged up to its highest level against the euro in 17 months on Friday. It is on course for a fourth straight weekly gain after UK data sent mixed signals on the economy.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "280585f223face1d"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myk5icalei2r",
+     "url": "https://bsky.app/profile/reuters.com/post/3myk5icalei2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8c0692d70ac2",
+   "created_at": "2026-10-23T12:10:55Z"
+  },
   {
    "id": "d3e5860496cc",
    "ts": "2026-10-23T12:00:10Z",
@@ -5723,27 +5744,6 @@
    "model": "opus",
    "run_id": "987a6cdcb3a8",
    "created_at": "2026-10-21T13:35:41Z"
-  },
-  {
-   "id": "91b12dfa4e52",
-   "ts": "2026-10-21T13:30:27Z",
-   "headline": "BoE Governor Bailey refers to today's UK inflation figures in an interview with OMFIF",
-   "detail": "An economics journalist reported that Bailey mentioned the September inflation data during the OMFIF interview. No details of his remarks were given.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "635469c8e3da2d43"
-   ],
-   "sources": [
-    {
-     "author": "bruceandy.bsky.social",
-     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3myfb22sz622i",
-     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3myfb22sz622i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6c6dfc4cce64",
-   "created_at": "2026-10-21T13:31:06Z"
   }
  ]
 }
