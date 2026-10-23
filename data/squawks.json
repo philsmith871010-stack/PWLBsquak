@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T20:05:41Z",
+ "generated_at": "2026-10-23T20:50:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "baad140c777e",
+   "ts": "2026-10-23T20:48:07Z",
+   "headline": "Moody's France review says slower growth and higher deficit have increased debt burden; projects 2027 deficit at 5.2% of GDP",
+   "detail": "In its periodic review of France, Moody's says slower growth and a higher deficit have pushed the debt burden up since its last review, and it projects a deficit of 5.2% of GDP in 2027. The agency says France's Aa3 rating assumes that a deficit-reducing budget for 2027 is adopted.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "121a5444590de0b6",
+    "51689db0b0fecb0c",
+    "2aa6d1a642f77ed5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myl2gjjswq26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myl2gjjswq26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myl2hyltex27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myl2hyltex27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myl2je6uwj2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myl2je6uwj2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7f6aef8b5275",
+   "created_at": "2026-10-23T20:50:55Z"
+  },
   {
    "id": "c67c5d8438c6",
    "ts": "2026-10-23T20:05:19Z",
@@ -5885,51 +5918,6 @@
    "model": "opus",
    "run_id": "4c13e24ab734",
    "created_at": "2026-10-21T19:20:50Z"
-  },
-  {
-   "id": "478e74fb0576",
-   "ts": "2026-10-21T19:03:49Z",
-   "headline": "Aramco says Shaybah oilfield operations are unaffected by drone attack; Saudi official says two people killed",
-   "detail": "Saudi state news agency SPA, citing an Energy Ministry official, reports two deaths in the drone attack on the Shaybah oilfield in the Eastern region. A statement says the attack had no impact on Saudi Aramco's operations at the field.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "6b6506344547bef1",
-    "fb4b81b882e168fa",
-    "4fc88a2029be9525",
-    "485e6135629b704d",
-    "dbf343b1f1270534"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfto66vug27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfto66vug27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myftlceuci26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myftlceuci26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myftpsakng27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myftpsakng27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myftkf654o2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myftkf654o2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myftn7qzrg2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myftn7qzrg2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b0d6e2851e54",
-   "created_at": "2026-10-21T19:05:41Z"
   }
  ]
 }
