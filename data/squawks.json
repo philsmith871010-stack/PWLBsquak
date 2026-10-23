@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T09:15:52Z",
+ "generated_at": "2026-10-23T09:20:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "70b1cc20d8e9",
+   "ts": "2026-10-23T09:19:23Z",
+   "headline": "UK October flash PMI shows employment rising for the first time in more than two years",
+   "detail": "An economist reviewing the October flash PMI says the survey records the first increase in jobs in over two years. He adds that the employment balance is moving back into line with output growth.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "886248557e6fbfe5"
+   ],
+   "sources": [
+    {
+     "author": "robwoodecon.bsky.social",
+     "uri": "at://did:plc:elmw6ozilomgz5lluswqo7gt/app.bsky.feed.post/3myjtwxwggs2c",
+     "url": "https://bsky.app/profile/robwoodecon.bsky.social/post/3myjtwxwggs2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ab0c679c66c1",
+   "created_at": "2026-10-23T09:20:54Z"
+  },
   {
    "id": "ff9e94e7b80d",
    "ts": "2026-10-23T09:11:33Z",
@@ -5771,27 +5792,6 @@
    "model": "opus",
    "run_id": "a5a5f3dd0067",
    "created_at": "2026-10-21T12:31:05Z"
-  },
-  {
-   "id": "c0284ccb18f0",
-   "ts": "2026-10-21T12:19:42Z",
-   "headline": "Iran's President Pezeshkian says Trump has openly stated the US wants Iranian oil and gas",
-   "detail": "In remarks carried by reports, Iran's President Pezeshkian also said Iran has held firm despite pressure and war and will keep doing so.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "8ce75312eac1ce44"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myf53kqxox2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myf53kqxox2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "13f08db95e71",
-   "created_at": "2026-10-21T12:20:53Z"
   }
  ]
 }
