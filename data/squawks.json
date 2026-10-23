@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T18:05:43Z",
+ "generated_at": "2026-10-23T18:10:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "540d3c793c1a",
+   "ts": "2026-10-23T18:06:34Z",
+   "headline": "Trump removes US tariffs on nine categories of Canadian goods, Senator Collins' office says",
+   "detail": "US Senator Collins' office says nine product categories from Canada will be exempted from US tariffs, including blueberries, potatoes, apples and seaweed. Collins says Trump has removed the tariffs on these goods.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "635e5bb80f1bf2f7",
+    "6fa6c085dc4e759a",
+    "cd6a15cd94c6c6f0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykrfnfdvq2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykrfnfdvq2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykril4fcz2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykril4fcz2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykrn6aipz26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykrn6aipz26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "586105bd8a32",
+   "created_at": "2026-10-23T18:10:50Z"
+  },
   {
    "id": "fcad7568b4b6",
    "ts": "2026-10-23T18:05:06Z",
@@ -5885,39 +5918,6 @@
    "model": "opus",
    "run_id": "078b16909d4d",
    "created_at": "2026-10-21T17:45:49Z"
-  },
-  {
-   "id": "119275503a65",
-   "ts": "2026-10-21T17:36:33Z",
-   "headline": "Kuwait Petroleum Corp CEO says crude exports are back at pre-war levels, with buyers now coming into the Gulf to load",
-   "detail": "The chief executive of Kuwait Petroleum Corp said Kuwait's crude exports have returned to pre-war levels and that customers are now sending ships into the Gulf to collect cargoes. He also repeated that production is well over 2m barrels a day.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "35926167fc7c2e8e",
-    "68d1ed6aa4a28076",
-    "85108351b322eca5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfos5mpul24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfos5mpul24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfov7of7b2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfov7of7b2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfozidsk22h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfozidsk22h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a25f5d3ef51e",
-   "created_at": "2026-10-21T17:40:48Z"
   }
  ]
 }
