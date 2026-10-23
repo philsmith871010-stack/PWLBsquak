@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T10:10:50Z",
+ "generated_at": "2026-10-23T10:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "464c2d2bd67d",
+   "ts": "2026-10-23T10:30:57Z",
+   "headline": "Bank of Russia holds its key rate at 14%, as forecast",
+   "detail": "The Russian central bank left its key interest rate unchanged at 14%, in line with the 14% forecast and the previous level.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9ae7eb61f7dc4a6b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjxwwt43526",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjxwwt43526"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4e23627d4613",
+   "created_at": "2026-10-23T10:31:03Z"
+  },
   {
    "id": "2b0f6203ac5a",
    "ts": "2026-10-23T10:10:22Z",
@@ -5777,27 +5798,6 @@
    "model": "opus",
    "run_id": "6c6dfc4cce64",
    "created_at": "2026-10-21T13:31:06Z"
-  },
-  {
-   "id": "05b0d6cd4c9c",
-   "ts": "2026-10-21T13:21:53Z",
-   "headline": "Canada's Carney and Ontario's Ford are expected to announce support for steel and auto sectors hit by tariffs, CTV reports",
-   "detail": "Canadian broadcaster CTV reports that Prime Minister Mark Carney and Ontario Premier Doug Ford are expected to unveil tariff support measures for the steel and auto industries. The report gives no figures or timing.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "58ad09790d360cc8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfakqmhx52t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfakqmhx52t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b11f481e4610",
-   "created_at": "2026-10-21T13:25:46Z"
   }
  ]
 }
