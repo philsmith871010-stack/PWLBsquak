@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T07:20:55Z",
+ "generated_at": "2026-10-23T07:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dbf0f3eb4c15",
+   "ts": "2026-10-23T07:30:55Z",
+   "headline": "German flash composite PMI falls to 52.8 in October from 53.8 as services slip to 51.7, while manufacturing rises to 54.2",
+   "detail": "Germany's October flash composite PMI came in at 52.8, below the 53.4 forecast, and services fell to 51.7 from 52.9 against a 52.5 forecast. Manufacturing beat expectations at 54.2, up from 53.9, with 53.5 forecast.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "14e00fc097097da1",
+    "8a254f777dac3b95",
+    "0ff6080506077bc1",
+    "148829f1fb1db0e7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjnuwvcs62l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjnuwvcs62l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjnuz4kj42l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjnuz4kj42l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjnv3el2q2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjnv3el2q2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjnv5m5yu2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjnv5m5yu2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9ff025e683e4",
+   "created_at": "2026-10-23T07:31:03Z"
+  },
   {
    "id": "702b52d23645",
    "ts": "2026-10-23T07:15:51Z",
@@ -5729,33 +5768,6 @@
    "model": "opus",
    "run_id": "d4c7b52ef470",
    "created_at": "2026-10-21T10:31:06Z"
-  },
-  {
-   "id": "e1fe6184ed7a",
-   "ts": "2026-10-21T10:25:24Z",
-   "headline": "Iran's foreign minister says Tehran is open to diplomacy but will defend itself and has no trust in US peace intentions",
-   "detail": "Iran's foreign minister said Tehran is ready for diplomacy but will defend itself, according to the FT, and separately said Iran has no trust at all in the US administration's stated wish for peace. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "108d0a7ac1f474d1",
-    "63dc31de1b251734"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewo6oozl2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewo6oozl2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewp6oyco2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewp6oyco2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cf3ed2060736",
-   "created_at": "2026-10-21T10:25:40Z"
   }
  ]
 }
