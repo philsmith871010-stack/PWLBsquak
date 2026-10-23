@@ -1,8 +1,92 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T05:10:55Z",
+ "generated_at": "2026-10-23T05:15:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d16285d7a0df",
+   "ts": "2026-10-23T05:01:41Z",
+   "headline": "India's October flash composite PMI rises to 56.7 from 55.9 as services reach 56.2",
+   "detail": "The HSBC flash composite PMI for India beat the 56.1 forecast, and services rose to 56.2 from 55.2 against a 55.5 forecast. Manufacturing slipped to 54.9 from 55.1, just below the 55.0 forecast.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a91ee64007097d73",
+    "0b7bc6d9f7ed1f36",
+    "494ed6d3d024f966",
+    "caf7a04c2bd9097a",
+    "8a6a6c2880de9370",
+    "8ae18f4c2e4a9a03"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjfikwjxc26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjfikwjxc26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjfjjuamm27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjfjjuamm27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjfk6rhh426",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjfk6rhh426"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjfkl775l2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjfkl775l2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjfknpm772k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjfknpm772k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjfkqpuef25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjfkqpuef25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "00ab8cb1b1e8",
+   "created_at": "2026-10-23T05:15:48Z"
+  },
+  {
+   "id": "f67d9aa5bb4f",
+   "ts": "2026-10-23T04:35:48Z",
+   "headline": "US envoy Waltz says the US can keep its Iran blockade in place for the foreseeable future and presses Tehran for a nuclear deal",
+   "detail": "In an interview with the FT, Mike Waltz, US ambassador to the UN, said the US is ready for a long stand-off with Iran. He warned that Tehran must reach a meaningful agreement on its nuclear programme.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "dfcfc0fdfbcbbb91",
+    "8244de2c758ba7cc",
+    "76b5c50d2495a15a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjcpf7ngg25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjcpf7ngg25"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myjdrsvx742w",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myjdrsvx742w"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myje3ukfb52i",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myje3ukfb52i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "00ab8cb1b1e8",
+   "created_at": "2026-10-23T05:15:48Z"
+  },
   {
    "id": "5ee9d57a827e",
    "ts": "2026-10-23T02:00:35Z",
@@ -5648,72 +5732,6 @@
    "model": "opus",
    "run_id": "1489197405de",
    "created_at": "2026-10-21T09:40:48Z"
-  },
-  {
-   "id": "b49950dc57b7",
-   "ts": "2026-10-21T09:33:49Z",
-   "headline": "Putin offers to discuss a possible meeting with Trump in China during talks with US envoy Witkoff",
-   "detail": "Russian President Putin offered to discuss the possibility of meeting US President Trump in China. He also proposed that US envoy Witkoff discuss restoring bilateral ties and economic cooperation.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9205a652cf811688",
-    "9d6429c2fa684cfc",
-    "bbe750e64777b5b9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myetsxfv2f2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myetsxfv2f2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myetpccag622",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myetpccag622"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myetpebpjq2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myetpebpjq2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "21a2c6da3cdf",
-   "created_at": "2026-10-21T09:35:41Z"
-  },
-  {
-   "id": "7d0f7eccaa44",
-   "ts": "2026-10-21T09:28:35Z",
-   "headline": "France's Macron says securing diesel and gas supply is the priority and that energy supplies have been secured to avoid shortages",
-   "detail": "French President Macron said the priority is securing diesel and gas supply. He added that France has secured its energy supplies so that shortages are avoided.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "f5a861b14529700d",
-    "de16167670a1bcbd",
-    "e79dff301e6a7eac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myetjlptfm25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myetjlptfm25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myetjpce5s24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myetjpce5s24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myetnms6yq2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myetnms6yq2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e6201d7a7e3e",
-   "created_at": "2026-10-21T09:31:01Z"
   }
  ]
 }
