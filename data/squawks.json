@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T17:25:44Z",
+ "generated_at": "2026-10-23T17:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7c62b489c9f9",
+   "ts": "2026-10-23T17:29:38Z",
+   "headline": "Trump has told CENTCOM to draw up a plan for striking Iran, with no deadline set, Israel's Kan reports",
+   "detail": "Israeli public broadcaster Kan reports that the US president directed Central Command to prepare a strike plan against Iran, and that no deadline was attached. The report comes after Trump said the US would not attack Iran before the midterm elections.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a52945fe90870b4c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykpdm3aev2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykpdm3aev2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "194f1a76eb9a",
+   "created_at": "2026-10-23T17:31:03Z"
+  },
   {
    "id": "5cabb8e2b899",
    "ts": "2026-10-23T17:20:47Z",
@@ -5909,27 +5930,6 @@
    "model": "opus",
    "run_id": "8398828d53a5",
    "created_at": "2026-10-21T17:20:53Z"
-  },
-  {
-   "id": "3941b62561e0",
-   "ts": "2026-10-21T17:13:24Z",
-   "headline": "China and Russia agree to back companies in expanding their oil cooperation, Xinhua reports",
-   "detail": "China's state news agency Xinhua reports that China and Russia have agreed to support companies in widening oil cooperation between the two countries. No figures or timetable were given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "036b96fc624f0f21"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfniqniqt2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfniqniqt2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "30d35fd1c29d",
-   "created_at": "2026-10-21T17:15:53Z"
   }
  ]
 }
