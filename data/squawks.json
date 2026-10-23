@@ -1,8 +1,86 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T15:01:17Z",
+ "generated_at": "2026-10-23T15:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "121aef5c1834",
+   "ts": "2026-10-23T15:02:01Z",
+   "headline": "Trump says the US is very close to a trade deal with Mexico and that Canada is working hard on one",
+   "detail": "US President Trump said a deal with Mexico was close. In the same remarks he said Canada was working hard to reach a deal with the US.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6fad267206f658f8",
+    "3e3b022ab4a35b86",
+    "9cfd40d6961ce199"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykh3nlxtn2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykh3nlxtn2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykh4wp2pt2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykh4wp2pt2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykh5fyrxw25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykh5fyrxw25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aa1bc5a16fa5",
+   "created_at": "2026-10-23T15:05:43Z"
+  },
+  {
+   "id": "28f747c35fb5",
+   "ts": "2026-10-23T15:01:47Z",
+   "headline": "Trump says he discussed opening up North Sea oil in a call with the UK prime minister",
+   "detail": "US President Trump said he talked about opening up North Sea oil with UK prime minister Burnham today. Some earlier posts described the call as being with the British foreign minister.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "6f7411df0642f705",
+    "647dcf3fb8228ca9",
+    "a3cf6cfb95ed37af",
+    "a1edb3cd0f995e11",
+    "e677a7b6a3aa12f4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykh2f3exl2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykh2f3exl2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykh37tyxo25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykh37tyxo25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykh3gy63t26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykh3gy63t26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykh3mrozf2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykh3mrozf2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykh4q6df227",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykh4q6df227"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aa1bc5a16fa5",
+   "created_at": "2026-10-23T15:05:43Z"
+  },
   {
    "id": "89fe7c309d0c",
    "ts": "2026-10-23T14:57:44Z",
@@ -5816,48 +5894,6 @@
    "model": "opus",
    "run_id": "7b911fe59516",
    "created_at": "2026-10-21T16:45:51Z"
-  },
-  {
-   "id": "471910c533c5",
-   "ts": "2026-10-21T16:40:51Z",
-   "headline": "US issues licence permitting talks on the sale of Lukoil International GmbH",
-   "detail": "US authorities have published a licence that permits talks on the sale of Lukoil International GmbH, the international arm of the Russian oil company.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "64860ad3527f47ae"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myflojt62l2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myflojt62l2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7b911fe59516",
-   "created_at": "2026-10-21T16:45:51Z"
-  },
-  {
-   "id": "9acf6a3d368a",
-   "ts": "2026-10-21T16:40:41Z",
-   "headline": "US Treasury announces new Iran-related sanctions",
-   "detail": "The US Treasury Department has issued a new round of sanctions related to Iran. No details of the targets were included in the initial report.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "432efcd6f6ebd90d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfloavnlb2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfloavnlb2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "beb47761a250",
-   "created_at": "2026-10-21T16:40:51Z"
   }
  ]
 }
