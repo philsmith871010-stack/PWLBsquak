@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T13:10:49Z",
+ "generated_at": "2026-10-23T13:20:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "299708e6f815",
+   "ts": "2026-10-23T13:19:01Z",
+   "headline": "White House says Russia and Ukraine agree a local ceasefire in Oleshky, starting 29 October, brokered by Melania Trump",
+   "detail": "The White House says Russia and Ukraine will temporarily halt all military action in the city of Oleshky so humanitarian aid can enter and a civilian evacuation can be prepared through a safe corridor. It credits Melania Trump with securing the deal and says the ceasefire begins on 29 October.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e48aa750d7ecd89b",
+    "333b0994a40c968d",
+    "ba35c446b76cbdef",
+    "17ec100c77a3301e",
+    "d868ca9444de07d5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykbdhk4kf24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykbdhk4kf24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykbds4w6p2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykbds4w6p2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykbe3czcn25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykbe3czcn25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykbeudcce2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykbeudcce2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykbf6wwij2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykbf6wwij2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3a7835617c64",
+   "created_at": "2026-10-23T13:20:51Z"
+  },
   {
    "id": "b0d308a7c2dd",
    "ts": "2026-10-23T13:08:50Z",
@@ -5741,27 +5786,6 @@
    "model": "opus",
    "run_id": "5d702287793e",
    "created_at": "2026-10-21T14:10:54Z"
-  },
-  {
-   "id": "02abf2f5c880",
-   "ts": "2026-10-21T13:59:23Z",
-   "headline": "Aramco's Yanbu and Shaybah facilities are undamaged after Houthi claims of an attack, Argus reports",
-   "detail": "Argus reports that Saudi Aramco's Yanbu and Shaybah facilities were not damaged following Houthi claims of an attack on them. No market reaction was reported.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "d4298c09ebe464d1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfcnt3glt2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfcnt3glt2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d7b45c1ee215",
-   "created_at": "2026-10-21T14:01:17Z"
   }
  ]
 }
