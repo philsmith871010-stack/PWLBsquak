@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T20:55:42Z",
+ "generated_at": "2026-10-23T21:01:23Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0de1d3f3cd6f",
+   "ts": "2026-10-23T20:56:04Z",
+   "headline": "French finance minister Lescure says Moody's decision acknowledges the strength of the French economy",
+   "detail": "France's finance minister Lescure responded on Friday evening to Moody's ratings review of France. The post did not say what Moody's decided.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "eb8a1a62a7b61b91"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myl2uqekxr2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myl2uqekxr2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "51496eeff6aa",
+   "created_at": "2026-10-23T21:01:23Z"
+  },
   {
    "id": "aa29c72804e3",
    "ts": "2026-10-23T20:51:47Z",
@@ -5891,33 +5912,6 @@
    "model": "opus",
    "run_id": "3e24b4fd3471",
    "created_at": "2026-10-21T20:05:46Z"
-  },
-  {
-   "id": "2ce86d3c0f17",
-   "ts": "2026-10-21T19:27:41Z",
-   "headline": "US orders non-emergency government staff and their families to leave Saudi Arabia as Houthi attacks increase",
-   "detail": "The US State Department has issued an ordered departure for non-emergency government employees and their families, covering Saudi Arabia only. A State Department spokesperson said Iranian-backed Houthis have stepped up attacks on Saudi Arabia, including on civilian airports and critical infrastructure.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f4b821d87ce66680",
-    "1b9b4c991f46e18d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfuytp3a32q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfuytp3a32q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfv4eb5uq27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfv4eb5uq27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f8ed681000aa",
-   "created_at": "2026-10-21T19:31:02Z"
   }
  ]
 }
