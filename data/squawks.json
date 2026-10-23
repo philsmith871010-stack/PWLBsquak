@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T09:55:43Z",
+ "generated_at": "2026-10-23T10:10:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2b0f6203ac5a",
+   "ts": "2026-10-23T10:10:22Z",
+   "headline": "Markets stop pricing a Fed rate hike in December as AI sell-off shifts rate expectations, Reuters reports",
+   "detail": "Reuters says markets no longer expect the Federal Reserve to raise rates in December. It links the change in rate expectations to the sell-off in AI-related stocks.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d1a7aeb072771958"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myjws5aqdc2s",
+     "url": "https://bsky.app/profile/reuters.com/post/3myjws5aqdc2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1a324ba5ad98",
+   "created_at": "2026-10-23T10:10:50Z"
+  },
   {
    "id": "f2425a8a405b",
    "ts": "2026-10-23T09:55:15Z",
@@ -5777,27 +5798,6 @@
    "model": "opus",
    "run_id": "b11f481e4610",
    "created_at": "2026-10-21T13:25:46Z"
-  },
-  {
-   "id": "70afb841c721",
-   "ts": "2026-10-21T13:14:46Z",
-   "headline": "US authorises an exchange of supplies from its Northeast home heating oil reserve",
-   "detail": "The US has given formal approval for an exchange from the Northeast home heating oil reserve, according to a market news wire. This comes after its earlier offer to lend up to almost a third of the reserve's 1m barrels.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "003f288262099738"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfa5zuagv25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfa5zuagv25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a7553c200e4d",
-   "created_at": "2026-10-21T13:15:50Z"
   }
  ]
 }
