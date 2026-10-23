@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T15:31:01Z",
+ "generated_at": "2026-10-23T15:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7e709e1b5c67",
+   "ts": "2026-10-23T15:35:04Z",
+   "headline": "October marks the worst month on record for attacks on commercial shipping in and around the Strait of Hormuz",
+   "detail": "Reuters reports the figure from data compiled by a Washington-based think tank that has tracked maritime security incidents worldwide since 2017.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "91d82562c1f1896b"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mykiwqmvro23",
+     "url": "https://bsky.app/profile/reuters.com/post/3mykiwqmvro23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "71fe22248203",
+   "created_at": "2026-10-23T15:35:43Z"
+  },
   {
    "id": "c6c84f7b6e33",
    "ts": "2026-10-23T15:26:09Z",
@@ -5885,27 +5906,6 @@
    "model": "opus",
    "run_id": "47b49eace562",
    "created_at": "2026-10-21T17:01:24Z"
-  },
-  {
-   "id": "0a84d8eb12d5",
-   "ts": "2026-10-21T16:54:37Z",
-   "headline": "Italy's energy minister expects energy price measures agreed with the EU to take effect in January",
-   "detail": "Italy's energy minister said he expects the measures agreed with the EU to curb energy prices to come into force in January.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "cf0b14126e17b74a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfmh5ybiq2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfmh5ybiq2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c598e6788d54",
-   "created_at": "2026-10-21T16:55:42Z"
   }
  ]
 }
