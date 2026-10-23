@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T18:31:03Z",
+ "generated_at": "2026-10-23T18:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "45c93f1bef20",
+   "ts": "2026-10-23T18:31:47Z",
+   "headline": "WTI crude futures settle at $103.27 a barrel, up $3.80 or 3.82% on the day",
+   "detail": "US crude oil futures settled at $103.27 a barrel on Friday, a gain of $3.80 or 3.82%. Earlier in the session the gains had been linked to worries over escalation in the Middle East.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "f4e6b995dedd9a29"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykssqj77m2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykssqj77m2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4083847a48fa",
+   "created_at": "2026-10-23T18:35:44Z"
+  },
   {
    "id": "dea58efebe0d",
    "ts": "2026-10-23T18:29:05Z",
@@ -5915,27 +5936,6 @@
    "model": "opus",
    "run_id": "c488980113e1",
    "created_at": "2026-10-21T18:25:45Z"
-  },
-  {
-   "id": "673eebe6525a",
-   "ts": "2026-10-21T18:03:27Z",
-   "headline": "US Treasury accepts $750M of $4.751B offered in buyback of coupons maturing 2028-2036",
-   "detail": "In its debt buyback operation, the US Treasury accepted $750M of the $4.751B offered, buying 8 of the 27 eligible issues. The operation was aimed at coupon securities maturing between 2028 and 2036.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "2b80cdf63e2dcb94"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfqcag2tk2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfqcag2tk2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2b28c6856203",
-   "created_at": "2026-10-21T18:05:47Z"
   }
  ]
 }
