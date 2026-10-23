@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T06:10:51Z",
+ "generated_at": "2026-10-23T06:40:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4253c012af88",
+   "ts": "2026-10-23T06:40:08Z",
+   "headline": "Tanker with 40,000 tonnes of Russian diesel heads for New York following a Putin-Trump agreement, Reuters reports",
+   "detail": "Reuters reports, citing LSEG shipping data, that a Malta-flagged tanker carrying 40,000 metric tons of Russian diesel is bound for New York following an agreement with US President Trump.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "4b26c3ac40647be2"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myjl27rjxg2m",
+     "url": "https://bsky.app/profile/reuters.com/post/3myjl27rjxg2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f5bf2d09fc10",
+   "created_at": "2026-10-23T06:40:53Z"
+  },
   {
    "id": "159edca3a41e",
    "ts": "2026-10-23T06:09:16Z",
@@ -5741,27 +5762,6 @@
    "model": "opus",
    "run_id": "fb89d869d1e9",
    "created_at": "2026-10-21T10:15:47Z"
-  },
-  {
-   "id": "4884e12b769f",
-   "ts": "2026-10-21T10:03:28Z",
-   "headline": "Russia says its first diesel tanker to the US, carrying 40,000 tons, will sail on 22 October",
-   "detail": "According to reports, Russia's Deputy Prime Minister announced the first shipment of Russian diesel to the US, a cargo of 40,000 tons leaving on 22 October.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "378d003b290907e4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myevhxf3uj2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myevhxf3uj2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7e38918b7874",
-   "created_at": "2026-10-21T10:05:42Z"
   }
  ]
 }
