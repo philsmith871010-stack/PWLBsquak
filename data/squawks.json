@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T05:15:48Z",
+ "generated_at": "2026-10-23T05:45:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6a93d0a0b1cf",
+   "ts": "2026-10-23T05:44:29Z",
+   "headline": "Iran threatens wider attacks on economic and civilian sites in retaliation for US strike, WSJ reports",
+   "detail": "The Wall Street Journal reports that Iran has warned it could widen its attacks to economic and civilian targets in response to a US strike. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c11ed320019d063b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjhwp4ahs2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjhwp4ahs2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "740fe7b73ef8",
+   "created_at": "2026-10-23T05:45:47Z"
+  },
+  {
+   "id": "9b9285410242",
+   "ts": "2026-10-23T05:42:09Z",
+   "headline": "Chancellor Healey to pledge cuts to paperwork for small UK firms, with savings put at £800mn a year, FT reports",
+   "detail": "The Financial Times reports that the Chancellor will promise to remove unnecessary paperwork for small companies. The government says the deregulation drive could reduce business costs by £800mn a year.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "f378f4ff7d33ba04"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myjhsjz6tr2i",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myjhsjz6tr2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "740fe7b73ef8",
+   "created_at": "2026-10-23T05:45:47Z"
+  },
   {
    "id": "d16285d7a0df",
    "ts": "2026-10-23T05:01:41Z",
@@ -5690,48 +5732,6 @@
    "model": "opus",
    "run_id": "e140fcb0955a",
    "created_at": "2026-10-21T09:50:50Z"
-  },
-  {
-   "id": "9eef27cc31d6",
-   "ts": "2026-10-21T09:44:38Z",
-   "headline": "German government says Ukraine cannot have peace unless Ukrainians are involved",
-   "detail": "A German government spokesperson made the statement on Wednesday, as US envoy Witkoff holds talks with Putin on a Ukraine settlement.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "75393caa7a5c7120"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myeugblixy2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myeugblixy2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8f737745ccb3",
-   "created_at": "2026-10-21T09:45:48Z"
-  },
-  {
-   "id": "f855104dc090",
-   "ts": "2026-10-21T09:40:02Z",
-   "headline": "France's Macron says France has secured 2 terawatt-hours a month of Qatari gas for the winter",
-   "detail": "French President Macron said France has secured 2 terawatt-hours of gas per month from Qatar for the winter period. He had earlier said energy supplies were secured to avoid shortages.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "0eff98737abd8540"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myeu627fxh22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myeu627fxh22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1489197405de",
-   "created_at": "2026-10-21T09:40:48Z"
   }
  ]
 }
