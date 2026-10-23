@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T08:20:51Z",
+ "generated_at": "2026-10-23T08:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1cf42b5d0dc7",
+   "ts": "2026-10-23T08:24:24Z",
+   "headline": "Iran says it has halted 'illicit' shipping through the Strait of Hormuz, Fars reports",
+   "detail": "Iran says it has stopped vessel traffic in the Strait of Hormuz that it calls illicit, according to the Fars news agency. The report gives no further details and no market reaction has been reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "06f0ca53c4202e37"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjquno4iu24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjquno4iu24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d3210435e029",
+   "created_at": "2026-10-23T08:25:42Z"
+  },
   {
    "id": "013aa5569c3f",
    "ts": "2026-10-23T08:17:36Z",
@@ -5741,27 +5762,6 @@
    "model": "opus",
    "run_id": "49e57d765008",
    "created_at": "2026-10-21T12:05:41Z"
-  },
-  {
-   "id": "c4aa19c6961b",
-   "ts": "2026-10-21T11:09:39Z",
-   "headline": "UK PM Burnham says the government is considering scrapping standing charges on gas bills",
-   "detail": "Prime Minister Burnham said the government is looking at removing standing charges from household gas bills. He gave no timing or cost.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "b0833134c7d2a18f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myez6ciov522",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myez6ciov522"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b4cab026c680",
-   "created_at": "2026-10-21T11:10:51Z"
   }
  ]
 }
