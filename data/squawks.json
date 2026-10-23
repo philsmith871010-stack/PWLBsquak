@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T08:35:39Z",
+ "generated_at": "2026-10-23T09:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ff9e94e7b80d",
+   "ts": "2026-10-23T09:11:33Z",
+   "headline": "GfK links October slump in UK consumer confidence to the cost of living, inflation and Iran; morale and big-purchase gauges lead the fall",
+   "detail": "The drop in GfK's UK consumer confidence index came mainly from its general economic outlook and major purchase components. A post noted that a fall this large has happened in only six months over the past 52 years.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "007da9b63c5c39ae"
+   ],
+   "sources": [
+    {
+     "author": "bruceandy.bsky.social",
+     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3myjtix6gvs23",
+     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3myjtix6gvs23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f386a9faca17",
+   "created_at": "2026-10-23T09:15:52Z"
+  },
   {
    "id": "7de464ef82a6",
    "ts": "2026-10-23T08:31:16Z",
@@ -5766,27 +5787,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myf53kqxox2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myf53kqxox2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "13f08db95e71",
-   "created_at": "2026-10-21T12:20:53Z"
-  },
-  {
-   "id": "3b97d4ed0ef3",
-   "ts": "2026-10-21T12:19:14Z",
-   "headline": "France's 10-year spread over Bunds stands at 157bp and widens to 175bp at the 30-year tenor",
-   "detail": "An economist's analysis of the French bond sell-off puts the 10-year spread over German Bunds at 157bp today and the 30-year spread at 175bp, so the gap is wider at the long end of the curve.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "f8989ba8bb25ec1a"
-   ],
-   "sources": [
-    {
-     "author": "robin-j-brooks.bsky.social",
-     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3myf52qalwk2x",
-     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3myf52qalwk2x"
     }
    ],
    "model": "opus",
