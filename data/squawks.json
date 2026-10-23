@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T07:15:49Z",
+ "generated_at": "2026-10-23T07:20:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "702b52d23645",
+   "ts": "2026-10-23T07:15:51Z",
+   "headline": "French flash manufacturing PMI slips to 49.3 in October from 50.6 and the composite falls to 48.4, both short of forecasts",
+   "detail": "S&P Global's October flash survey shows French manufacturing at 49.3 against a 50.5 forecast. The composite PMI came in at 48.4, below the expected 50.7, down from 51.2.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c518328a76b347db",
+    "2aae4012765a0e15",
+    "b2bf591eda11cf6b",
+    "223d4660b2e7cdfb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjn22pd272f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjn22pd272f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjn2vtqz32r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjn2vtqz32r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjn32orzh2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjn32orzh2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjn5b3qii2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjn5b3qii2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d00ec6d465c4",
+   "created_at": "2026-10-23T07:20:55Z"
+  },
   {
    "id": "8802de53d006",
    "ts": "2026-10-23T07:15:45Z",
@@ -5717,51 +5756,6 @@
    "model": "opus",
    "run_id": "cf3ed2060736",
    "created_at": "2026-10-21T10:25:40Z"
-  },
-  {
-   "id": "afaa19127083",
-   "ts": "2026-10-21T10:18:54Z",
-   "headline": "Kremlin says a step forward on a Ukraine settlement is theoretically possible and warns Kyiv to make decisions",
-   "detail": "The Kremlin says Putin-Trump talks will be serious and long, that Ukraine's position will worsen if it does not make the necessary decisions, and that Russia is ready for nuclear talks with the US and China. Tass reports a Putin-Trump-Xi meeting is possible but has no agenda yet.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9a705fe14c4bc085",
-    "c03085286eab7e97",
-    "e31ac7dea5df7e2a",
-    "2b77920463de7b54",
-    "2003d12170a0f2d7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewdksa3u25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewdksa3u25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewa467aa22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewa467aa22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewaf2z3n2e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewaf2z3n2e"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewehrupt2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewehrupt2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myewbgylbi2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myewbgylbi2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cf4a6a83d661",
-   "created_at": "2026-10-21T10:20:50Z"
   }
  ]
 }
