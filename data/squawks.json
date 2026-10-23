@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T08:05:42Z",
+ "generated_at": "2026-10-23T08:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6c8d34d2a21f",
+   "ts": "2026-10-23T08:15:05Z",
+   "headline": "BoJ sees rates still far from neutral and is expected to keep raising them quickly, with December in focus, sources say",
+   "detail": "Sources say the Bank of Japan thinks inflation needs to settle near its target and that interest rates remain well short of neutral. The sources also say the central bank is expected to keep raising rates rapidly, with attention on December.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "83514580cbcc0ba4",
+    "d42a0e23c82cbb43",
+    "f32bfdcc811b184d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjqcojkqt2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjqcojkqt2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjqcyzfv62k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjqcyzfv62k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjqdyfnxo2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjqdyfnxo2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dc93160beb54",
+   "created_at": "2026-10-23T08:15:50Z"
+  },
   {
    "id": "87b8af825c9f",
    "ts": "2026-10-23T08:01:25Z",
@@ -5729,27 +5762,6 @@
    "model": "opus",
    "run_id": "20b76fad95a0",
    "created_at": "2026-10-21T11:01:15Z"
-  },
-  {
-   "id": "377b9dca8dff",
-   "ts": "2026-10-21T10:52:15Z",
-   "headline": "Zelenskyy says Ukraine needs a freeze in fighting first, followed by talks and US security guarantees",
-   "detail": "Ukraine's President Zelenskyy set out the order in an interview with Fox News, saying a freeze must come before negotiations and US security guarantees. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "233977b06427597f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myey76wecz25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myey76wecz25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fdbe3787b813",
-   "created_at": "2026-10-21T10:55:43Z"
   }
  ]
 }
