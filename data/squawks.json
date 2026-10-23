@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T17:55:45Z",
+ "generated_at": "2026-10-23T18:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fcad7568b4b6",
+   "ts": "2026-10-23T18:05:06Z",
+   "headline": "China's energy regulator tells oil and gas firms to raise output capacity and speed up national strategic supply bases",
+   "detail": "China's National Energy Administration has told the country's oil and gas companies to expand production capacity and to speed up building national strategic oil and gas supply bases, Reuters reports. It also said the firms should take responsibility for safeguarding national energy security.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "aca1b49b8c18ed28"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mykrczwlh52o",
+     "url": "https://bsky.app/profile/reuters.com/post/3mykrczwlh52o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "381788cb7867",
+   "created_at": "2026-10-23T18:05:43Z"
+  },
   {
    "id": "43c2860d5717",
    "ts": "2026-10-23T17:53:25Z",
@@ -5897,27 +5918,6 @@
    "model": "opus",
    "run_id": "a25f5d3ef51e",
    "created_at": "2026-10-21T17:40:48Z"
-  },
-  {
-   "id": "1e03e00b870d",
-   "ts": "2026-10-21T17:35:39Z",
-   "headline": "Kuwait Petroleum Corp CEO says Kuwait is producing well over 2m barrels a day of crude",
-   "detail": "The chief executive of Kuwait Petroleum Corp put Kuwait's crude production at well over 2m barrels a day. This follows his earlier statement that exports are above 1.1m barrels a day.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "3141a714bdfb9a8f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfoqjvadr2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfoqjvadr2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d810491f8006",
-   "created_at": "2026-10-21T17:35:50Z"
   }
  ]
 }
