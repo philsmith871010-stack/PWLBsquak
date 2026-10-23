@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T10:31:03Z",
+ "generated_at": "2026-10-23T11:01:16Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ca8c630cc120",
+   "ts": "2026-10-23T11:00:28Z",
+   "headline": "France awaits a Moody's ratings verdict today after a week of heavy selling in French government bonds spread to Italy",
+   "detail": "Reuters reports France faces the risk of a Moody's downgrade on Friday while its government struggles with social unrest and strained public finances. Economist Robin Brooks says French government debt sold off sharply this week and the selling spread to Italy, while yields fell in most other markets, especially the US and Japan.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "7156921240e49b80",
+    "317dc93852de25fd"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myjzlplw6e2p",
+     "url": "https://bsky.app/profile/reuters.com/post/3myjzlplw6e2p"
+    },
+    {
+     "author": "robin-j-brooks.bsky.social",
+     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3myjzhb2xqc2t",
+     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3myjzhb2xqc2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "815d25e774e2",
+   "created_at": "2026-10-23T11:01:16Z"
+  },
   {
    "id": "464c2d2bd67d",
    "ts": "2026-10-23T10:30:57Z",
@@ -5730,69 +5757,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfaw7srl52b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfaw7srl52b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6c6dfc4cce64",
-   "created_at": "2026-10-21T13:31:06Z"
-  },
-  {
-   "id": "a18bb1ea5055",
-   "ts": "2026-10-21T13:26:46Z",
-   "headline": "Kremlin says Putin is ready in principle to resume three-way Ukraine peace talks in mid-November",
-   "detail": "After Putin's talks with US envoy Witkoff, the Kremlin said reopening Russia-US-Ukraine talks was discussed, as was implementing the Russia-US diesel deal. It added that Witkoff's briefing on the Oslo talks offered nothing of real use for a settlement.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6f0e2ae61f7b1e8b",
-    "f2a8c4d28b284f5e",
-    "030ee28fdfcdbf89",
-    "dd444d1bf28531ad",
-    "2d16d4f8773e091e",
-    "bcbad98cb19bb4ed",
-    "840a3137ad2c33e3",
-    "1b45e491e2ca46fe"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfati4kvx25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfati4kvx25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfauenkq725",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfauenkq725"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfauw23aj2e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfauw23aj2e"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfavl5nkd2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfavl5nkd2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfavshewj2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfavshewj2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfavv42wx25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfavv42wx25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfaveqiun2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfaveqiun2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfave4rz52b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfave4rz52b"
     }
    ],
    "model": "opus",
