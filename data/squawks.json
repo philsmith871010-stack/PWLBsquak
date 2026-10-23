@@ -1,8 +1,221 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T05:01:14Z",
+ "generated_at": "2026-10-23T05:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c96390fcb6f1",
+   "ts": "2026-10-23T01:16:38Z",
+   "headline": "PBOC sets yuan midpoint at 6.7180 per dollar, the strongest fixing since 2 February 2023",
+   "detail": "The People's Bank of China set its daily yuan reference rate at 6.7180 per dollar. Market estimates had put the fixing at 6.6758.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "140154df3ef6a736",
+    "a10768c25c31667b",
+    "82d79be7e0355278",
+    "60efd0599c4b92c1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiyxr2svu26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiyxr2svu26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiyzmr3vk2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiyzmr3vk2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiz2qmgui2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiz2qmgui2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myivrxmqor26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myivrxmqor26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5e94a84c7fd8",
+   "created_at": "2026-10-23T05:05:43Z"
+  },
+  {
+   "id": "4581811932e0",
+   "ts": "2026-10-23T00:30:59Z",
+   "headline": "Japan's October flash manufacturing PMI falls to 53.3 from 54.1 while services rise to 52.0",
+   "detail": "In S&P Global's October flash survey, Japan's composite PMI was unchanged at 52.3. The services PMI rose to 52.0 from 51.3.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "d4255dfd2a9b5146",
+    "b1347531d697e0f6",
+    "a4c96edc3b713ae5",
+    "da4c61c000ecaa32",
+    "45ad3a655f2abd47",
+    "ca8c2fd9a8f4b719",
+    "45b7822a9835333a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiwg4wxe426",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiwg4wxe426"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiwg76r7e26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiwg76r7e26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiwgbn63e2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiwgbn63e2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiwqlth7u2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiwqlth7u2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiwqnwarc2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiwqnwarc2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiwqpun7e26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiwqpun7e26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiwrshsrb2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiwrshsrb2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5e94a84c7fd8",
+   "created_at": "2026-10-23T05:05:43Z"
+  },
+  {
+   "id": "376cb6812ade",
+   "ts": "2026-10-23T00:09:44Z",
+   "headline": "JGB yields fall in early Tokyo trade, with the 10-year down 7bp at 2.810%",
+   "detail": "The 5-year JGB yield fell 8bp to 2.210% and the 20-year fell 6bp to 3.620%, while 10-year JGB futures gained 0.6 point. Asia-Pacific equities opened lower amid moves into safe-haven assets.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "a8d838b030feae3d",
+    "923df950037eb67b",
+    "d7230c8b8f4f2b73",
+    "8329eaa102bbea85",
+    "8bab4a5a6cdfb552",
+    "3eed8428f68dd583"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiva4id3p2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiva4id3p2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myivfo4nqo26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myivfo4nqo26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myivgyt3uk2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myivgyt3uk2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myixl7utih24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myixl7utih24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myitxp2apl27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myitxp2apl27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myivyrm3qd2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myivyrm3qd2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5e94a84c7fd8",
+   "created_at": "2026-10-23T05:05:43Z"
+  },
+  {
+   "id": "b76bd4551cd3",
+   "ts": "2026-10-23T00:02:02Z",
+   "headline": "UK grid operators expect adequate gas and electricity supply this winter, with peak gas supply at 592 mcm",
+   "detail": "Britain's energy grid operators project that peak daily gas demand this winter will be 493 mcm, against peak supply of 592 mcm. They expect electricity supply to be sufficient.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "a4aeac3043bdc767",
+    "b940f77c3d1c3d3e",
+    "5ec2b2098997640c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiusedpx725",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiusedpx725"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiusbsuzu26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiusbsuzu26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myive2fjkf26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myive2fjkf26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5e94a84c7fd8",
+   "created_at": "2026-10-23T05:05:43Z"
+  },
+  {
+   "id": "5ba07178cf61",
+   "ts": "2026-10-22T23:41:05Z",
+   "headline": "US has strike plans against Iran ready with Israel, including energy facilities, CNN reports citing US officials",
+   "detail": "CNN, citing US officials, reports that Trump's advisers have drawn up plans for strikes on Iran coordinated with Israel that could proceed as soon as he approves. Targets would include nuclear infrastructure, missile and drone depots and energy facilities, and the officials say using the largest US conventional bomb is one option under consideration.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "a8f7dbbab0b8d1cb",
+    "97e0c6ec9bb44c85",
+    "896c0741138b82a8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myitmvtkg725",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myitmvtkg725"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myitmzcbf725",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myitmzcbf725"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myixykq6v526",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myixykq6v526"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5e94a84c7fd8",
+   "created_at": "2026-10-23T05:05:43Z"
+  },
   {
    "id": "132f703e7323",
    "ts": "2026-10-22T23:33:14Z",
@@ -5507,153 +5720,6 @@
    "model": "opus",
    "run_id": "cba1c80b5b5e",
    "created_at": "2026-10-21T09:15:48Z"
-  },
-  {
-   "id": "09bcfd00fb57",
-   "ts": "2026-10-21T09:06:51Z",
-   "headline": "US envoy Witkoff calls Oslo talks productive and hopes Putin will consider resuming Russia-US-Ukraine talks",
-   "detail": "US envoy Witkoff said the talks in Oslo had been productive and that he hoped Putin would consider resuming three-way talks between Russia, the US and Ukraine, Interfax reported. He also thanked Putin for a diesel deal.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "450908c7b9dacfc3",
-    "4fc3b6df7dba6103",
-    "89e9a5bf2d0d6e06"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myescpil7x24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myescpil7x24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myesh3bdah2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myesh3bdah2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myesjmqtst2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myesjmqtst2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9a727d0dbaf6",
-   "created_at": "2026-10-21T09:10:53Z"
-  },
-  {
-   "id": "45f11008feb9",
-   "ts": "2026-10-21T09:04:44Z",
-   "headline": "Russia's Foreign Ministry calls Japanese drone supplies to Ukraine a hostile step and says Russia will respond",
-   "detail": "Russia's Foreign Ministry said it regards Japan's supply of drones to Ukraine as a hostile step. It said Russia will respond but gave no details.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2c30923a842df5d1",
-    "15861a6c57e62fee"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myes6wy5652f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myes6wy5652f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myes5p7nci2e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myes5p7nci2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5ebd7619427b",
-   "created_at": "2026-10-21T09:05:41Z"
-  },
-  {
-   "id": "1de90439b61e",
-   "ts": "2026-10-21T09:01:54Z",
-   "headline": "Putin tells US envoy Witkoff that Russia wants to restore economic ties with the US and can help resolve the Iran conflict",
-   "detail": "Russian President Putin made the remarks in his talks with US envoy Witkoff, according to Interfax. He said Russia is interested in restoring economic ties with the US and is ready to help with a resolution on Iran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a6f70b35c2bec8e7",
-    "7865c5047b19e097"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myerzumpdy25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myerzumpdy25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myes6p6pnw2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myes6p6pnw2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5ebd7619427b",
-   "created_at": "2026-10-21T09:05:41Z"
-  },
-  {
-   "id": "3edd6a242912",
-   "ts": "2026-10-21T09:00:21Z",
-   "headline": "France's 10-year bond yield reaches 5% for the first time since 2002",
-   "detail": "The French 10-year yield has hit 5%, its highest level since 2002, according to a market report early on Wednesday.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "a7d9149a851e42e4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myerx3kgei25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myerx3kgei25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5ed797a8cc15",
-   "created_at": "2026-10-21T09:01:12Z"
-  },
-  {
-   "id": "8b70a47d2f94",
-   "ts": "2026-10-21T08:58:20Z",
-   "headline": "Putin begins talks with US envoy Witkoff and thanks Trump for his attention to a Ukraine settlement",
-   "detail": "Interfax reports that Russia's President Putin has started a meeting with US envoy Witkoff. Putin thanked President Trump for his attention to a Ukraine settlement and asked about Witkoff's meeting in Norway.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "85b288ab509dd15d",
-    "fa887d7c90f1c8bc",
-    "3336944633224933",
-    "0ee8e03d0e86d4c0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myertiws4a25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myertiws4a25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myeruy37e624",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myeruy37e624"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myery5cat62e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myery5cat62e"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myerydfxkc2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myerydfxkc2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5ed797a8cc15",
-   "created_at": "2026-10-21T09:01:12Z"
   }
  ]
 }
