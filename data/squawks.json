@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T18:35:44Z",
+ "generated_at": "2026-10-23T18:50:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0ae149012e69",
+   "ts": "2026-10-23T18:48:31Z",
+   "headline": "Brent crude futures settle at $116.72 a barrel, up $3.55 or 3.14% on the day",
+   "detail": "A market commentator reports that Brent crude futures settled $3.55, or 3.14%, higher at $116.72 a barrel. WTI also settled higher earlier in the session.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "8e6698977b17070a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myktqnz7wz2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myktqnz7wz2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1663760ce3f3",
+   "created_at": "2026-10-23T18:50:52Z"
+  },
   {
    "id": "45c93f1bef20",
    "ts": "2026-10-23T18:31:47Z",
@@ -5903,39 +5924,6 @@
    "model": "opus",
    "run_id": "239c6a983bae",
    "created_at": "2026-10-21T18:31:06Z"
-  },
-  {
-   "id": "25eaa69ee1cb",
-   "ts": "2026-10-21T18:23:37Z",
-   "headline": "Zelenskyy backs US proposal for negotiator-level trilateral talks and hopes they meet by early November",
-   "detail": "Ukraine's President Zelenskyy says he supports the US proposal for three-way talks between negotiators as soon as possible. He says the teams could meet in early November and hopes the meeting happens no later than that.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "071a08e62f93c3f7",
-    "f88acc60d04a8c01",
-    "062ee0fe5324fe61"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfrgcivx32x",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfrgcivx32x"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfrh3utfe2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfrh3utfe2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfrh6el6f2x",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfrh6el6f2x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c488980113e1",
-   "created_at": "2026-10-21T18:25:45Z"
   }
  ]
 }
