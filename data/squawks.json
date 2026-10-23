@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T14:05:53Z",
+ "generated_at": "2026-10-23T14:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "48d86662be89",
+   "ts": "2026-10-23T14:14:54Z",
+   "headline": "Zelenskiy says Ukraine has agreed to a team-level trilateral meeting after a call with US envoys Witkoff and Kushner",
+   "detail": "Ukraine's president said he had spoken with US envoys Witkoff and Kushner, and that a trilateral meeting at team level had been agreed. Russia had already agreed to resume trilateral talks with the US and Ukraine.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b7c1a0a97de75125",
+    "1d45803439788155"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykegmjyxg2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykegmjyxg2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykehfhrau27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykehfhrau27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d906f74d22b4",
+   "created_at": "2026-10-23T14:15:50Z"
+  },
   {
    "id": "3daba025bdc2",
    "ts": "2026-10-23T14:01:34Z",
@@ -5777,27 +5804,6 @@
    "model": "opus",
    "run_id": "de100593fe7c",
    "created_at": "2026-10-21T14:50:53Z"
-  },
-  {
-   "id": "ca0ef786a694",
-   "ts": "2026-10-21T14:45:13Z",
-   "headline": "France's Macron says Saudi Arabia has agreed to extend additional diesel supplies",
-   "detail": "French President Macron said Saudi Arabia has agreed to extend extra diesel deliveries, AFP reports. Earlier he had said securing diesel and gas supply was the priority.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "4f719ae235a890b6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myff7rjyer25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myff7rjyer25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b01f71389214",
-   "created_at": "2026-10-21T14:45:48Z"
   }
  ]
 }
