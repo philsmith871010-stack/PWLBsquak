@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T08:31:03Z",
+ "generated_at": "2026-10-23T08:35:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7de464ef82a6",
+   "ts": "2026-10-23T08:31:16Z",
+   "headline": "UK flash composite PMI climbs to 53.1 in October from 52.0, beating the 51.7 forecast; manufacturing rises to 52.8",
+   "detail": "The October flash composite PMI came in at 53.1, against a forecast of 51.7 and 52.0 the previous month. The flash manufacturing PMI rose to 52.8 from 51.9, also above the 51.8 forecast.",
+   "category": "data",
+   "importance": 3,
+   "source_event_ids": [
+    "4d6d1e1f7c2ee5b3",
+    "8fc7f24a486eb248",
+    "1d325aa71cc3a57b",
+    "2075611186501030",
+    "aca8f7d3322b2472"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjram6u6y2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjram6u6y2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjrax45wi2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjrax45wi2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjrc3qimg2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjrc3qimg2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjrbcvvv526",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjrbcvvv526"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjrf6s2go26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjrf6s2go26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3f9259eb4157",
+   "created_at": "2026-10-23T08:35:39Z"
+  },
   {
    "id": "065fe2905c4c",
    "ts": "2026-10-23T08:30:59Z",
@@ -5747,33 +5792,6 @@
    "model": "opus",
    "run_id": "13f08db95e71",
    "created_at": "2026-10-21T12:20:53Z"
-  },
-  {
-   "id": "68ea00093352",
-   "ts": "2026-10-21T12:11:44Z",
-   "headline": "Kremlin says Norway and Finland have joined the Ukraine peace process",
-   "detail": "The Kremlin said Norway and Finland are now involved in the peace process on Ukraine, according to TASS. The statement follows talks between Putin and US envoy Witkoff on a settlement.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "88c154740f025759",
-    "70d2decc00c85b9f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myf4ncn2v425",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myf4ncn2v425"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myf4nfozar2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myf4nfozar2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7638fd10ab8b",
-   "created_at": "2026-10-21T12:15:54Z"
   }
  ]
 }
