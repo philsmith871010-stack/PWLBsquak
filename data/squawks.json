@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T14:50:50Z",
+ "generated_at": "2026-10-23T14:55:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "19c4136cc0dd",
+   "ts": "2026-10-23T14:51:56Z",
+   "headline": "Turkish foreign minister says no one backs a fresh attack on Iran and that diplomacy is the only route",
+   "detail": "Turkey's foreign minister spoke after talks with regional and European counterparts. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8f343d30d40cc46c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykgjmavvz27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykgjmavvz27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "da8d30ce7687",
+   "created_at": "2026-10-23T14:55:41Z"
+  },
+  {
+   "id": "94157e8f13a7",
+   "ts": "2026-10-23T14:50:56Z",
+   "headline": "German foreign minister says Russia is being urged to agree a new Black Sea security deal",
+   "detail": "Germany's foreign minister said he and his counterparts are jointly urging Russia to agree a new security arrangement for the Black Sea. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6418a1e76bcf36b7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykght5vsp2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykght5vsp2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "da8d30ce7687",
+   "created_at": "2026-10-23T14:55:41Z"
+  },
   {
    "id": "2a714df30f43",
    "ts": "2026-10-23T14:50:15Z",
@@ -5792,48 +5834,6 @@
    "model": "opus",
    "run_id": "16dc94df9728",
    "created_at": "2026-10-21T16:25:42Z"
-  },
-  {
-   "id": "1343b89c6361",
-   "ts": "2026-10-21T15:39:51Z",
-   "headline": "US natural gas futures drop 5% to a five-week low",
-   "detail": "A market newswire reported that US natural gas futures fell 5% to their lowest level in five weeks on 21 October.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "5cc41e5c338123e9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfibhkxsk2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfibhkxsk2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aaf2b76235bf",
-   "created_at": "2026-10-21T15:40:49Z"
-  },
-  {
-   "id": "dd789d6d5b2f",
-   "ts": "2026-10-21T15:27:17Z",
-   "headline": "US official says Russia has accepted a US proposal for a three-way meeting with Ukraine",
-   "detail": "A US official said Russia has agreed to the US proposal for trilateral talks with Ukraine. This follows US envoy Witkoff's talks with Putin. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "401f6f43e1f98b6a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfhkylhij2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfhkylhij2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6f99e7d0f931",
-   "created_at": "2026-10-21T15:31:11Z"
   }
  ]
 }
