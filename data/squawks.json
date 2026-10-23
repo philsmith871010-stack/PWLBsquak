@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T14:15:50Z",
+ "generated_at": "2026-10-23T14:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "add1b8a1b25a",
+   "ts": "2026-10-23T14:26:21Z",
+   "headline": "Zelenskiy says Russia has started its winter attacks and US Patriot interceptor deliveries are still delayed",
+   "detail": "Ukraine's President Zelenskiy said Russia has already begun its winter campaign of attacks. He said delivery of missile interceptors is still delayed and that he hopes the US will deliver Patriot interceptors.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ba97034ced47dd4c",
+    "37639bb8cbf20c3c",
+    "4e2dd6004cac32bb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykf3qcfbe2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykf3qcfbe2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykf3u5fxc2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykf3u5fxc2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykf3ybh342b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykf3ybh342b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8137e6eb05ff",
+   "created_at": "2026-10-23T14:31:03Z"
+  },
   {
    "id": "48d86662be89",
    "ts": "2026-10-23T14:14:54Z",
@@ -5783,27 +5816,6 @@
    "model": "opus",
    "run_id": "c311d28ebda9",
    "created_at": "2026-10-21T15:05:50Z"
-  },
-  {
-   "id": "49caa0d63972",
-   "ts": "2026-10-21T14:50:15Z",
-   "headline": "Russian wealth fund head Dmitriev says Moscow sees the US suspension of the Lindsey Graham Act as an important step",
-   "detail": "Russian wealth fund head Kirill Dmitriev said Russia had noted the US suspension of the act linked to Senator Lindsey Graham and regards it as an important step, according to reports. Russia designates Graham as a terrorist and extremist.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6eaf79c5332820fb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myffirb3sr2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myffirb3sr2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "de100593fe7c",
-   "created_at": "2026-10-21T14:50:53Z"
   }
  ]
 }
