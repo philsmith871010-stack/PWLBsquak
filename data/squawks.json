@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T05:05:43Z",
+ "generated_at": "2026-10-23T05:10:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5ee9d57a827e",
+   "ts": "2026-10-23T02:00:35Z",
+   "headline": "Treasuries post their biggest daily rally in more than three years as a tech sell-off drives a move into safe havens",
+   "detail": "Reuters reports that worries over the funding needs of AI hit technology stocks and pushed investors into sovereign bonds and safe-haven currencies, cutting bets on rate hikes. The FT reports the yen rallying as Asian stocks followed Wall Street lower.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "b28cab8ceae53753",
+    "6cb17bd5da7e3c1f"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myj3gdbjw32m",
+     "url": "https://bsky.app/profile/reuters.com/post/3myj3gdbjw32m"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myjcnd2bdk2w",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myjcnd2bdk2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "72b097255369",
+   "created_at": "2026-10-23T05:10:55Z"
+  },
+  {
+   "id": "9fffb3f40f2d",
+   "ts": "2026-10-23T01:53:58Z",
+   "headline": "2-year JGB yield falls 6bp to 1.840%",
+   "detail": "Japan's 2-year government bond yield fell 6bp to 1.840% in Tokyo trade on Friday.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "04602e15827e6fd2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myj32inpno26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myj32inpno26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "72b097255369",
+   "created_at": "2026-10-23T05:10:55Z"
+  },
   {
    "id": "c96390fcb6f1",
    "ts": "2026-10-23T01:16:38Z",
@@ -5666,60 +5714,6 @@
    "model": "opus",
    "run_id": "e6201d7a7e3e",
    "created_at": "2026-10-21T09:31:01Z"
-  },
-  {
-   "id": "cc548903f3c7",
-   "ts": "2026-10-21T09:12:54Z",
-   "headline": "Putin says Russia could increase its fertiliser supplies to the US",
-   "detail": "Interfax reports that Russian President Putin made the remark during his talks with US envoy Witkoff, which have focused on restoring economic ties with the US.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1ffef331b5038929",
-    "aca1e8539f515fcc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myesnjxplr25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myesnjxplr25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myesohcgik2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myesohcgik2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cba1c80b5b5e",
-   "created_at": "2026-10-21T09:15:48Z"
-  },
-  {
-   "id": "597c44132fb5",
-   "ts": "2026-10-21T09:12:02Z",
-   "headline": "US envoy Witkoff says he has brought Putin documents setting out options for a Ukraine settlement",
-   "detail": "Interfax reports that US envoy Witkoff said this during his talks with Russian President Putin in Moscow.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "462e26205e514339",
-    "79dc55d031780c66"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myeslyrtdj25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myeslyrtdj25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myesm2y6c722",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myesm2y6c722"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cba1c80b5b5e",
-   "created_at": "2026-10-21T09:15:48Z"
   }
  ]
 }
