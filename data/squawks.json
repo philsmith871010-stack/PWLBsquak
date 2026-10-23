@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T08:01:15Z",
+ "generated_at": "2026-10-23T08:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "87b8af825c9f",
+   "ts": "2026-10-23T08:01:25Z",
+   "headline": "ECB consumer survey shows 12-month inflation expectations rise to 3.1% in September; 3-year expectations stay at 2.9%",
+   "detail": "The ECB's consumer expectations survey has 12-month-ahead inflation expectations at 3.1% in September, up from 3.0% in August. Expectations three years ahead are unchanged at 2.9%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "2d1583405de2686e",
+    "e72e57fd8a9aefdd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjpll2edn27",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjpll2edn27"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjplpwocw2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjplpwocw2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7eba6340f50e",
+   "created_at": "2026-10-23T08:05:42Z"
+  },
   {
    "id": "2550cbf6889a",
    "ts": "2026-10-23T08:00:49Z",
@@ -5723,57 +5750,6 @@
    "model": "opus",
    "run_id": "fdbe3787b813",
    "created_at": "2026-10-21T10:55:43Z"
-  },
-  {
-   "id": "2879525b4062",
-   "ts": "2026-10-21T10:46:54Z",
-   "headline": "Zelenskyy says any Ukraine peace deal would need a referendum and calls a trilateral meeting the minimum requirement",
-   "detail": "In an interview, Ukraine's President Zelenskyy said Ukraine would have to back any potential deal, that a deal would require a referendum, and that Ukraine must take part in any meeting, preferably with European participation. He also said US Secretary of State Rubio told him he would work on resolving limits on Starlink access.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a9934acd654ac272",
-    "5304a85c933f167f",
-    "d3d2cc5ac3c3b26e",
-    "6ba17c3e223d5ca9",
-    "729da0b835e18b4d",
-    "f171c563ac095439"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myexu62g2i24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myexu62g2i24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myexvmiwov2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myexvmiwov2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myexxyngby25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myexxyngby25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myexzjspzi2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myexzjspzi2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myexwdinum22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myexwdinum22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myexwhfjkd2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myexwhfjkd2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7269c84aff64",
-   "created_at": "2026-10-21T10:50:49Z"
   }
  ]
 }
