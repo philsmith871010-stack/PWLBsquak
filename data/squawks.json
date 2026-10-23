@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-23T21:01:23Z",
+ "generated_at": "2026-10-23T21:25:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3cf3b815829d",
+   "ts": "2026-10-23T21:25:04Z",
+   "headline": "Canadian dollar reaches five-week high against US dollar as bets on a Bank of Canada rate rise next week build",
+   "detail": "Reuters reports that the Canadian dollar firmed to a five-week high against the US dollar on Friday. It says higher oil prices and domestic retail sales data supported expectations that the Bank of Canada will raise rates next week.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "554881ccff920175"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myl4ili4zi2v",
+     "url": "https://bsky.app/profile/reuters.com/post/3myl4ili4zi2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "56fa2c15e6d5",
+   "created_at": "2026-10-23T21:25:40Z"
+  },
   {
    "id": "0de1d3f3cd6f",
    "ts": "2026-10-23T20:56:04Z",
@@ -5886,27 +5907,6 @@
      "author": "bruceandy.bsky.social",
      "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3myfwz43al22d",
      "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3myfwz43al22d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3e24b4fd3471",
-   "created_at": "2026-10-21T20:05:46Z"
-  },
-  {
-   "id": "80148e42e05e",
-   "ts": "2026-10-21T20:01:48Z",
-   "headline": "US waives record-keeping requirements on red diesel tax to attract buyers",
-   "detail": "US authorities have waived record-keeping requirements linked to red diesel tax in an effort to draw in buyers, a market news account reported.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "5aeda43f6a308bc7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfwvujoh726",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfwvujoh726"
     }
    ],
    "model": "opus",
