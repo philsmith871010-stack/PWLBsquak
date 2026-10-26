@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T07:31:06Z",
+ "generated_at": "2026-10-26T07:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d353fea121b9",
+   "ts": "2026-10-26T07:34:02Z",
+   "headline": "Markets price only 12% odds of a Fed rate rise at this week's meeting",
+   "detail": "An economist reports that markets see a 12% chance of a Fed hike at this week's meeting. He contrasts this with July, when markets pushed for a rise from Chair Warsh.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a4dc49dcc10ca7ef"
+   ],
+   "sources": [
+    {
+     "author": "robin-j-brooks.bsky.social",
+     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3myr7hdgvvc2y",
+     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3myr7hdgvvc2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c77c3fedb586",
+   "created_at": "2026-10-26T07:35:44Z"
+  },
   {
    "id": "7cadfd4334c8",
    "ts": "2026-10-26T07:30:57Z",
@@ -5694,33 +5715,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mygkx6ffzy22",
      "url": "https://bsky.app/profile/reuters.com/post/3mygkx6ffzy22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bb7bcdfd45c5",
-   "created_at": "2026-10-22T05:10:49Z"
-  },
-  {
-   "id": "1d2338c80c05",
-   "ts": "2026-10-22T02:03:14Z",
-   "headline": "RBNZ sectoral factor model puts New Zealand's Q3 core inflation at 2.8% on the year",
-   "detail": "The Reserve Bank of New Zealand's sectoral factor model, a core inflation measure, shows 2.8% annual inflation in the third quarter. It was published after the Q3 CPI print of 3.7%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "012f4cc87dd727c1",
-    "fbcd04a1fe127a36"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygl45mtvx26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygl45mtvx26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygl6l6gcl2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygl6l6gcl2b"
     }
    ],
    "model": "opus",
