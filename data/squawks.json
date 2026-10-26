@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T12:15:50Z",
+ "generated_at": "2026-10-26T12:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b711211af6ff",
+   "ts": "2026-10-26T12:31:15Z",
+   "headline": "US Chicago Fed National Activity Index rises to 0.07 for September, above the -0.095 forecast",
+   "detail": "The Chicago Fed National Activity Index for September came in at 0.07, against a forecast of -0.095 and a previous reading of -0.04.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e9519d04300e2b58",
+    "4d4b7e9cf3111bde"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrq2sqgfa2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrq2sqgfa2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrq3lntm72y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrq3lntm72y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "14b745259aee",
+   "created_at": "2026-10-26T12:35:43Z"
+  },
   {
    "id": "9c5763b48dc2",
    "ts": "2026-10-26T12:12:54Z",
@@ -5447,27 +5474,6 @@
    "model": "opus",
    "run_id": "b32081a16ecd",
    "created_at": "2026-10-22T10:20:48Z"
-  },
-  {
-   "id": "8290344ccc62",
-   "ts": "2026-10-22T10:14:06Z",
-   "headline": "France's 10-year bond yield climbs to 5.084%, above US Treasury yields for the first time since 2013",
-   "detail": "France's 10-year government bond yield reached 5.084%, moving above US Treasury yields for the first time since 2013, according to a market report. Earlier in the session it had risen above 5% for the first time in nearly a quarter of a century.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "812f8088e07c86aa"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhgjuzde527",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhgjuzde527"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ff84b2075d7a",
-   "created_at": "2026-10-22T10:15:50Z"
   }
  ]
 }
