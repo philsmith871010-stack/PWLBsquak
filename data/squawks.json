@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T13:05:44Z",
+ "generated_at": "2026-10-26T13:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bf970098d37a",
+   "ts": "2026-10-26T13:33:33Z",
+   "headline": "Senior Iranian official says Tehran talks with Mecca pact members exclude Iran's nuclear programme",
+   "detail": "A senior Iranian official said the talks with Mecca pact members in Tehran do not include the nuclear issue. The official added that Iran will not discuss its nuclear programme until Tehran's demands are met.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c646d027b0d70c77",
+    "3abab92bebe68c16"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrtk7henl2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrtk7henl2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrtl7b3mn2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrtl7b3mn2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c88f6b4f527c",
+   "created_at": "2026-10-26T13:35:43Z"
+  },
   {
    "id": "9d2e5f607128",
    "ts": "2026-10-26T13:03:34Z",
@@ -5459,27 +5486,6 @@
    "model": "opus",
    "run_id": "363c70832424",
    "created_at": "2026-10-22T11:01:15Z"
-  },
-  {
-   "id": "69f9aef07e82",
-   "ts": "2026-10-22T10:45:05Z",
-   "headline": "European Parliament approves a three-year delay to the EU's methane emissions rules",
-   "detail": "The European Parliament voted to approve putting back the EU's methane regulation by three years, according to a market news wire. No market reaction was reported.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "b28eb301708226fb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhibcpmxx2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhibcpmxx2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d602e2f0aafe",
-   "created_at": "2026-10-22T10:45:49Z"
   }
  ]
 }
