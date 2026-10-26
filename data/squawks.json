@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T10:40:52Z",
+ "generated_at": "2026-10-26T10:55:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d2b440cbcc0f",
+   "ts": "2026-10-26T10:55:08Z",
+   "headline": "Pakistan's central bank lifts its key rate to 12%, citing inflation risks from the Gulf conflict",
+   "detail": "Pakistan's central bank raised its key policy rate to 12%. It pointed to inflation risks from the conflict in the Gulf.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "313330e04ccffc84"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrkoxkl5725",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrkoxkl5725"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2592cf1a90d7",
+   "created_at": "2026-10-26T10:55:43Z"
+  },
   {
    "id": "329f738f8783",
    "ts": "2026-10-26T10:40:15Z",
@@ -5543,45 +5564,6 @@
    "model": "opus",
    "run_id": "d2135783920c",
    "created_at": "2026-10-22T07:25:44Z"
-  },
-  {
-   "id": "d59eea67f29d",
-   "ts": "2026-10-22T07:01:17Z",
-   "headline": "Japan's Rengo union group targets 6% pay rises in 2027 wage talks and sets first medium-term goal of 15% by 2030",
-   "detail": "Rengo, Japan's largest labour union group, puts the centre of its 2027 wage increase target at 6% and keeps its benchmark of 5% or more. It also sets its first medium-term target, a 15% wage increase by 2030.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "7298a4dd199abfc7",
-    "5e63ead11e50ff89",
-    "a0d471c70f6083f0",
-    "a17f0b7395e18cbd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh3r3zyqa27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh3r3zyqa27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh3rakojq2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh3rakojq2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh3resxua2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh3resxua2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh3rimema2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh3rimema2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a39a8f77110e",
-   "created_at": "2026-10-22T07:05:43Z"
   }
  ]
 }
