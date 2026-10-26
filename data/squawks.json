@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T19:50:50Z",
+ "generated_at": "2026-10-26T20:41:01Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b00d3fac5093",
+   "ts": "2026-10-26T20:36:27Z",
+   "headline": "Canadian PM Carney says Canada will not sign the trade terms the US offered in August",
+   "detail": "Canada's prime minister said Ottawa is not prepared to accept the US trade terms put forward in August. This follows reports that the two countries are working on a deal to ease US tariffs on Canadian steel and car imports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "711ec385ce906f4f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mysl6gsrxj25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mysl6gsrxj25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a6ee17a69994",
+   "created_at": "2026-10-26T20:41:01Z"
+  },
   {
    "id": "95eb322cae0d",
    "ts": "2026-10-26T19:47:55Z",
@@ -5393,27 +5414,6 @@
    "model": "opus",
    "run_id": "248344022be8",
    "created_at": "2026-10-22T15:50:51Z"
-  },
-  {
-   "id": "6c506ee9906d",
-   "ts": "2026-10-22T15:45:10Z",
-   "headline": "Saudi Aramco orders staff to evacuate its Dhahran headquarters and work remotely, sources say",
-   "detail": "Reuters, citing six people with knowledge of the matter, reported that Saudi Aramco told staff to leave its Dhahran headquarters and work remotely. The move comes a day after an attack on a nearby airport killed two people.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0686c2e28bc2e860"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myhyzusvc42y",
-     "url": "https://bsky.app/profile/reuters.com/post/3myhyzusvc42y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "64e745184420",
-   "created_at": "2026-10-22T15:45:57Z"
   }
  ]
 }
