@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T11:01:15Z",
+ "generated_at": "2026-10-26T11:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "64f4305c7586",
+   "ts": "2026-10-26T11:01:19Z",
+   "headline": "UK CBI distributive trades balance improves to -10, well above the -48 forecast and the previous -55",
+   "detail": "The CBI distributive trades survey's reported sales balance came in at -10, against a forecast of -48 and a previous reading of -55.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "4b59cd7d0bf3433c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrkzypobq2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrkzypobq2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b2f2a75713f5",
+   "created_at": "2026-10-26T11:05:41Z"
+  },
   {
    "id": "7ad18bdb3a85",
    "ts": "2026-10-26T11:00:41Z",
@@ -5429,93 +5450,6 @@
    "model": "opus",
    "run_id": "b68bf9ac5483",
    "created_at": "2026-10-22T08:01:12Z"
-  },
-  {
-   "id": "cb36dfd1dbe7",
-   "ts": "2026-10-22T07:36:47Z",
-   "headline": "SNB minutes find no second-round inflation effects and say a weaker franc has eased monetary conditions since June",
-   "detail": "The Swiss National Bank's minutes of its September meeting say core inflation has risen only slightly, inflation expectations are stable and medium-term inflation pressure is only a little higher than at the June review. They also say the franc's fall outpaced the rise in interest rates, leaving monetary conditions easier, and that a worsening in the Middle East would hit global activity harder.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a4cc3d938c2da4de",
-    "adb19d39f0accbad",
-    "ca94f95e8a3a7f86",
-    "c501a0c99458b2fb",
-    "747a1be6e85d4347",
-    "da87d760dcf51b9e",
-    "51f5411e5a941323",
-    "d704f920351f2e4b",
-    "fc6f4cb24a2b43b6",
-    "dd6f516fcea0a50d",
-    "c752a7f007ab3fb2",
-    "40e09c1d8eb4c3e7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5qlgm2v2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5qlgm2v2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5p7ryr527",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5p7ryr527"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5svsqa32b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5svsqa32b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5syye4t2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5syye4t2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5qotalz2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5qotalz2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5rjosip2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5rjosip2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5qsydfb2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5qsydfb2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5sobsbf27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5sobsbf27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5t4tpe72v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5t4tpe72v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5pbzukq25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5pbzukq25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5po5ulf27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5po5ulf27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5sqbhet2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5sqbhet2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2d4a24a10405",
-   "created_at": "2026-10-22T07:40:50Z"
   }
  ]
 }
