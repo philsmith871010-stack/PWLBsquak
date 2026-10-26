@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T10:55:43Z",
+ "generated_at": "2026-10-26T11:01:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7ad18bdb3a85",
+   "ts": "2026-10-26T11:00:41Z",
+   "headline": "Fed policymakers have signalled no rate rise this week, but investors expect the pause to be short, Reuters reports",
+   "detail": "Reuters reports that Federal Reserve officials have indicated they will leave US short-term rates unchanged at this week's meeting. It also reports that, with inflation still the main concern, investors do not expect the pause to last long.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "d73a63aa259e7b7b"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myrkyudrko2p",
+     "url": "https://bsky.app/profile/reuters.com/post/3myrkyudrko2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1c67026c9b52",
+   "created_at": "2026-10-26T11:01:15Z"
+  },
+  {
+   "id": "3fc56362d7b7",
+   "ts": "2026-10-26T10:58:51Z",
+   "headline": "Ministers plan apprenticeship funding overhaul that would make training over-25s more expensive, Guardian reports",
+   "detail": "The Guardian reports that ministers are planning to change apprenticeship funding so that training workers over 25 costs more. Employers warn the change could undermine the government's plan to tackle youth unemployment.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "8168580bb93dd5b7"
+   ],
+   "sources": [
+    {
+     "author": "rjpartington.bsky.social",
+     "uri": "at://did:plc:7gxgy7wfvg4tdsspy32rcvvw/app.bsky.feed.post/3myrkvlday22q",
+     "url": "https://bsky.app/profile/rjpartington.bsky.social/post/3myrkvlday22q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1c67026c9b52",
+   "created_at": "2026-10-26T11:01:15Z"
+  },
   {
    "id": "d2b440cbcc0f",
    "ts": "2026-10-26T10:55:08Z",
@@ -5474,96 +5516,6 @@
    "model": "opus",
    "run_id": "2d4a24a10405",
    "created_at": "2026-10-22T07:40:50Z"
-  },
-  {
-   "id": "73964054f408",
-   "ts": "2026-10-22T07:32:23Z",
-   "headline": "SNB minutes say current monetary conditions are appropriate and a greater readiness to intervene in FX is no longer needed",
-   "detail": "Minutes of the Swiss National Bank's latest meeting say medium-term inflationary pressure is only slightly higher than at the June assessment, while inflation is likely to rise somewhat in the short term because of higher energy prices. Board members flagged second-round effects as a risk to inflation, said uncertainty remains high and expect moderate growth in the coming quarters.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "42d115ef30f5bbde",
-    "37c0446bbfe7e4f8",
-    "529ed2d9f1f424f3",
-    "7f5e77258e0e6c2a",
-    "4488af48f43144e4",
-    "51aca3768d11aa3a",
-    "7d4c02745644f074",
-    "f5c158dda781ebdd",
-    "f05cca4a140bd905"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5ipqthl2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5ipqthl2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5jj5t342r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5jj5t342r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5kefuav2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5kefuav2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5kirh4d2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5kirh4d2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5lb4jq72v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5lb4jq72v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5ld3z3427",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5ld3z3427"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5lf4nct26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5lf4nct26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5mvhw4u27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5mvhw4u27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh5nqo7ot2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh5nqo7ot2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "70d7f71fdb0c",
-   "created_at": "2026-10-22T07:35:47Z"
-  },
-  {
-   "id": "5252d8d18b5d",
-   "ts": "2026-10-22T07:22:04Z",
-   "headline": "Aramco CEO says the company wants to work with other countries to build up strategic oil reserves",
-   "detail": "Saudi Aramco's chief executive, Amin Nasser, said the company is looking for partnerships with other countries to increase strategic reserves. No volumes or partner countries were given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "74895fbcc7b19b4b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh4wbpn4x2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh4wbpn4x2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d2135783920c",
-   "created_at": "2026-10-22T07:25:44Z"
   }
  ]
 }
