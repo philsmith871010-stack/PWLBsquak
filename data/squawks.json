@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T15:50:52Z",
+ "generated_at": "2026-10-26T16:01:19Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c323a51e7003",
+   "ts": "2026-10-26T15:56:05Z",
+   "headline": "Brent crude recovers its earlier losses and trades close to $117 a barrel",
+   "detail": "A market newswire reports that Brent has turned around its earlier fall and is trading near $117 a barrel. Crude had fallen earlier in the day while Qatar was pursuing mediation efforts.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "ee1c069c239e8a6a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys3j4a33425",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys3j4a33425"
+    }
+   ],
+   "model": "opus",
+   "run_id": "70f83e9e2540",
+   "created_at": "2026-10-26T16:01:19Z"
+  },
   {
    "id": "5bb943554868",
    "ts": "2026-10-26T15:48:07Z",
@@ -5531,27 +5552,6 @@
    "model": "opus",
    "run_id": "2eef792c4f00",
    "created_at": "2026-10-22T12:05:44Z"
-  },
-  {
-   "id": "ca3182146417",
-   "ts": "2026-10-22T11:57:46Z",
-   "headline": "France's 30-year spread over Germany reaches 190bp, wider than the 175bp gap at the 10-year tenor",
-   "detail": "An economist notes that the French spread over German debt is 190bp at the 30-year tenor today, against 175bp at 10 years.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "3ffbd12e914689db"
-   ],
-   "sources": [
-    {
-     "author": "robin-j-brooks.bsky.social",
-     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3myhmdazkyc2w",
-     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3myhmdazkyc2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1936fd5aa2e8",
-   "created_at": "2026-10-22T12:01:18Z"
   }
  ]
 }
