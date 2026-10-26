@@ -1,8 +1,89 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T17:01:31Z",
+ "generated_at": "2026-10-26T17:05:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f297aac100e8",
+   "ts": "2026-10-26T17:05:33Z",
+   "headline": "Saudi Arabia reportedly offers Houthis $1bn in Iran-brokered deal to end attacks, Israel Hayom reports",
+   "detail": "Israeli newspaper Israel Hayom reports that Saudi Arabia has offered the Houthis $1bn under a deal brokered by Iran to stop their attacks. The report has not been confirmed.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "523fd09b489e94f4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys7fd4n5725",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys7fd4n5725"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f3c3071bfc7f",
+   "created_at": "2026-10-26T17:05:46Z"
+  },
+  {
+   "id": "f4cd29dcde07",
+   "ts": "2026-10-26T17:05:08Z",
+   "headline": "Healey to raise minimum wage by nearly 4% in Budget but slow increase for young workers, The Times reports",
+   "detail": "The Times reports that Chancellor Healey will announce an increase of nearly 4% in the minimum wage, with a slower rise for younger workers. The Budget is due on Wednesday.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "3ea8674b7f934683"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys7ekx7572z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys7ekx7572z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f3c3071bfc7f",
+   "created_at": "2026-10-26T17:05:46Z"
+  },
+  {
+   "id": "2f9da7096feb",
+   "ts": "2026-10-26T17:03:52Z",
+   "headline": "US $69bn 2-year note auction clears at 4.708%, tailing by 0.3bp; bid-to-cover slips to 2.59",
+   "detail": "The US Treasury sold $69bn of 2-year notes at a high yield of 4.708%, against 4.705% when-issued before the sale and 4.787% at the previous auction. Bid-to-cover was 2.59 against 2.63 previously; primary dealers took 13%, directs 41.32% and indirects 45.68%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "5f335a1ba76ffe82",
+    "f82b769d8e69dfd4",
+    "c1bbb41b8a382537",
+    "2cc45fe94fdc6e44"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys7amtpfu2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys7amtpfu2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys7aoykau2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys7aoykau2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys7arfih42p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys7arfih42p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys7ccevnx25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys7ccevnx25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f3c3071bfc7f",
+   "created_at": "2026-10-26T17:05:46Z"
+  },
   {
    "id": "a9211491daa2",
    "ts": "2026-10-26T17:00:56Z",
@@ -5405,81 +5486,6 @@
    "model": "opus",
    "run_id": "4ed0f0eb79b3",
    "created_at": "2026-10-22T14:01:18Z"
-  },
-  {
-   "id": "4d6105fa70b1",
-   "ts": "2026-10-22T14:00:09Z",
-   "headline": "UK ASHE data shows the share of workers in low pay did not fall, the first time in 15 years, says Resolution Foundation",
-   "detail": "According to the Resolution Foundation, the ONS Annual Survey of Hours and Earnings released today shows the low-pay share of the workforce did not fall for the first time in 15 years. The survey covers the labour market from earlier this year.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "f52a880f3c3ed424"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3myht64b5l22l",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3myht64b5l22l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4ed0f0eb79b3",
-   "created_at": "2026-10-22T14:01:18Z"
-  },
-  {
-   "id": "16def01dad25",
-   "ts": "2026-10-22T13:52:21Z",
-   "headline": "US 2-year and 10-year Treasury yields are both down 10bp on the day",
-   "detail": "A market wire reports that US 2-year and 10-year Treasury yields have each fallen 10bp on the day, so the rally covers both the short and long end of the curve.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "a7636fe9ab6ca4a4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhsq5kg6i2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhsq5kg6i2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "72f81fb23508",
-   "created_at": "2026-10-22T13:55:48Z"
-  },
-  {
-   "id": "b5ce1958f090",
-   "ts": "2026-10-22T13:07:48Z",
-   "headline": "German finance minister Klingbeil says further budget cuts are needed to create new fiscal room",
-   "detail": "German Finance Minister Klingbeil said more budget cuts are required to open up fiscal room. His remarks came as the German tax panel published updated revenue projections, putting this year's state tax revenue €0.1bn above the May forecast.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "d8c9f4c104d0fd62",
-    "118a0437afd06fa3",
-    "c0db05acd222351f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhqaiyepn27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhqaiyepn27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhqbcvhwm2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhqbcvhwm2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhq7zmgjk25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhq7zmgjk25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "84e9b8d286cf",
-   "created_at": "2026-10-22T13:10:50Z"
   }
  ]
 }
