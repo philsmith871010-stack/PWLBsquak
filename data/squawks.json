@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T18:10:52Z",
+ "generated_at": "2026-10-26T18:40:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "173b90ffab8f",
+   "ts": "2026-10-26T18:37:34Z",
+   "headline": "US official warns Iran it must change its behaviour or face completion of the mission, Al Jazeera reports",
+   "detail": "Al Jazeera cites an unnamed US official issuing the warning to Tehran. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "06d61c3defeb1e6e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mysejtw3sf25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mysejtw3sf25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "91363caca5da",
+   "created_at": "2026-10-26T18:40:48Z"
+  },
   {
    "id": "f625aff96276",
    "ts": "2026-10-26T17:37:20Z",
@@ -5393,27 +5414,6 @@
    "model": "opus",
    "run_id": "5e08f6777429",
    "created_at": "2026-10-22T15:05:42Z"
-  },
-  {
-   "id": "43267acb2557",
-   "ts": "2026-10-22T14:52:44Z",
-   "headline": "20-year gilt yields fall to about a one-month low, heading for their best three-day run since June",
-   "detail": "A UK markets commentator says 20-year gilt yields are close to their lowest level in a month. They are on track for their strongest three days since June. No figures were given.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "a9b72e7615d38d38"
-   ],
-   "sources": [
-    {
-     "author": "bruceandy.bsky.social",
-     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3myhw454rmc23",
-     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3myhw454rmc23"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b793dfdc2259",
-   "created_at": "2026-10-22T14:55:47Z"
   }
  ]
 }
