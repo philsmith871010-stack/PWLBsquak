@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T07:35:44Z",
+ "generated_at": "2026-10-26T07:40:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "805e9072f4eb",
+   "ts": "2026-10-26T07:39:29Z",
+   "headline": "French 10-year yield falls 5.3bp to 4.9685% after Moody's keeps France's sovereign rating unchanged",
+   "detail": "France's 10-year government bond yield falls 5.3bp to 4.9685% in early trading. The move follows Moody's decision on Friday to leave France's sovereign rating unchanged.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "2318b0794da27298"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr7r43mg325",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr7r43mg325"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4cbc875109dd",
+   "created_at": "2026-10-26T07:40:53Z"
+  },
   {
    "id": "d353fea121b9",
    "ts": "2026-10-26T07:34:02Z",
@@ -5651,75 +5672,6 @@
    "model": "opus",
    "run_id": "9816d689bca5",
    "created_at": "2026-10-22T05:15:46Z"
-  },
-  {
-   "id": "763464f3c3cb",
-   "ts": "2026-10-22T02:25:10Z",
-   "headline": "BoK Governor Shin says growth and inflation pressure are stronger than in August and the restrictive stance should stay",
-   "detail": "After the Bank of Korea held its rate at 3.00%, Governor Shin said it would keep acting until inflation pressure eases to target. He also said the bank does not have to follow market forecasts of the peak policy rate, and that next year's government budget could add 0.5 percentage point to GDP growth.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4fd5cf5325474108",
-    "9d2ae41812769854",
-    "7bfac33ae6ea879b",
-    "ed497a3048cd94fb",
-    "1e4214da87a646d2",
-    "b2dafec0f2124933",
-    "4de860b6f3bae59f",
-    "d09d733c53ae6558",
-    "e4b4f81f80ad6d76"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygmdfbntk26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygmdfbntk26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygme5zshs27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygme5zshs27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygmhb4mc224",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygmhb4mc224"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygofr7bat2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygofr7bat2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygogtd3q62r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygogtd3q62r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygnmbirxd2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygnmbirxd2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygnndnftw2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygnndnftw2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygnsqbdid27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygnsqbdid27"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mygkx6ffzy22",
-     "url": "https://bsky.app/profile/reuters.com/post/3mygkx6ffzy22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bb7bcdfd45c5",
-   "created_at": "2026-10-22T05:10:49Z"
   }
  ]
 }
