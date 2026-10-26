@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T09:55:40Z",
+ "generated_at": "2026-10-26T10:40:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "329f738f8783",
+   "ts": "2026-10-26T10:40:15Z",
+   "headline": "ECB survey finds euro zone firms are struggling more to get bank credit as fuel and other costs rise",
+   "detail": "A European Central Bank survey published on Monday showed firms in the euro zone finding it harder to obtain credit from banks, while higher fuel and other costs squeeze their finances, Reuters reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "bbb57d9ad36c9b6a"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myrjudf2aq2o",
+     "url": "https://bsky.app/profile/reuters.com/post/3myrjudf2aq2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "62a89892d941",
+   "created_at": "2026-10-26T10:40:52Z"
+  },
   {
    "id": "d2344c4765ab",
    "ts": "2026-10-26T09:50:55Z",
@@ -5561,39 +5582,6 @@
    "model": "opus",
    "run_id": "a39a8f77110e",
    "created_at": "2026-10-22T07:05:43Z"
-  },
-  {
-   "id": "fbe7a9b82eae",
-   "ts": "2026-10-22T06:50:54Z",
-   "headline": "BoJ likely to say inflation has hit its 2% target but hold off on back-to-back hikes in October, Nikkei reports",
-   "detail": "Nikkei reports the Bank of Japan's October meeting is likely to put off consecutive rate increases, even though the bank is expected to say inflation has reached its 2% target. USD/JPY was reported 0.7% lower at 157.11 shortly afterwards.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "0a3f1deb03fb9f49",
-    "170e4ee762231f93",
-    "56da3c359945a61d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh36jv7hc2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh36jv7hc2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh3eqn3zq2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh3eqn3zq2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh3fjuprq2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh3fjuprq2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "66df9eab464e",
-   "created_at": "2026-10-22T06:55:47Z"
   }
  ]
 }
