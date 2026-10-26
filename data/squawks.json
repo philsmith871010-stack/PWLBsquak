@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T11:05:41Z",
+ "generated_at": "2026-10-26T11:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "944805510df6",
+   "ts": "2026-10-26T11:36:08Z",
+   "headline": "Large gilt investors want reassurance from Healey's Budget and caution against changes to the fiscal rules, FT reports",
+   "detail": "The Financial Times reports that big bond investors want the new Chancellor's Budget on Wednesday to reassure the gilt market. They warn against adjusting the key fiscal rules.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "fe17b53abd8b7d09"
+   ],
+   "sources": [
+    {
+     "author": "iankmsmith.ft.com",
+     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3myrmyavjds2w",
+     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3myrmyavjds2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "416c8976ee58",
+   "created_at": "2026-10-26T11:40:50Z"
+  },
   {
    "id": "64f4305c7586",
    "ts": "2026-10-26T11:01:19Z",
@@ -5429,27 +5450,6 @@
    "model": "opus",
    "run_id": "887117968e58",
    "created_at": "2026-10-22T08:10:55Z"
-  },
-  {
-   "id": "5d78d80e2e52",
-   "ts": "2026-10-22T07:59:58Z",
-   "headline": "Treasuries extend rally as higher oil prices drive a global risk-off move; eurozone bonds come under pressure",
-   "detail": "The FT reports that US Treasuries are rallying again and eurozone bonds are weaker as rising oil prices prompt a risk-off move. China's CSI 300 index falls 1.8% and European equities are lower.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "ee4b23c26b82ee17"
-   ],
-   "sources": [
-    {
-     "author": "iankmsmith.ft.com",
-     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3myh722bglc2a",
-     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3myh722bglc2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b68bf9ac5483",
-   "created_at": "2026-10-22T08:01:12Z"
   }
  ]
 }
