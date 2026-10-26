@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T11:45:48Z",
+ "generated_at": "2026-10-26T11:55:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8340b29578a6",
+   "ts": "2026-10-26T11:52:10Z",
+   "headline": "Saudi Arabia backs opening negotiation channels as Mecca pact talks take place in Tehran, aiming to end the conflict",
+   "detail": "Saudi Arabia said the negotiations were meant to prevent escalation and open the way to an agreement ending the conflict. It made the comments against the background of Mecca pact talks in Tehran.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "59e892b249733484",
+    "520a102f4186b04e",
+    "042fcc7bba9934a4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrnuwmtlh2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrnuwmtlh2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrnv2ssze25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrnv2ssze25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrnvtfahl2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrnvtfahl2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "789b89ea7c93",
+   "created_at": "2026-10-26T11:55:40Z"
+  },
   {
    "id": "935228de8c5d",
    "ts": "2026-10-26T11:41:44Z",
@@ -5441,27 +5474,6 @@
    "model": "opus",
    "run_id": "7c7339de6d87",
    "created_at": "2026-10-22T08:40:53Z"
-  },
-  {
-   "id": "87a5a9f8c585",
-   "ts": "2026-10-22T08:32:20Z",
-   "headline": "Global equities slide as oil prices rise; China's CSI 300 falls 1.8% and European shares lower",
-   "detail": "The Financial Times reports a broad fall in global stock markets as oil prices climb, with China's CSI 300 index down 1.8% and European equities also lower.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "bfbe61ea20dd8e69"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myhatwiy5l24",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myhatwiy5l24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b7f25ffc4746",
-   "created_at": "2026-10-22T08:35:47Z"
   }
  ]
 }
