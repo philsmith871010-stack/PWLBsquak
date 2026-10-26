@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T19:31:09Z",
+ "generated_at": "2026-10-26T19:40:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "de3aa9023016",
+   "ts": "2026-10-26T19:39:48Z",
+   "headline": "Iran is open to a shorter timeline on the US proposal if conditions are met, state TV reports",
+   "detail": "Iranian state television reported that Tehran is willing to accept a shorter timeline for the US proposal, provided certain conditions are met. The report did not say what the conditions were.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "aab5a8f1a673deaf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myshz4upou25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myshz4upou25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b8f8b09ff3f5",
+   "created_at": "2026-10-26T19:40:52Z"
+  },
   {
    "id": "cc86d9d81767",
    "ts": "2026-10-26T19:27:58Z",
@@ -5394,27 +5415,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhyxjsgas2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhyxjsgas2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "64e745184420",
-   "created_at": "2026-10-22T15:45:57Z"
-  },
-  {
-   "id": "0e4f4fe593f6",
-   "ts": "2026-10-22T15:42:41Z",
-   "headline": "US 10-year Treasury yield falls below 5% for the first time since 23 September, down 14.97bp at 4.996%",
-   "detail": "The 10-year US Treasury yield was last down 14.97bp at 4.996%, below 5% for the first time since 23 September, as the Treasury rally extended.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "15e98119176d5da0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhyvhg3zj26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhyvhg3zj26"
     }
    ],
    "model": "opus",
