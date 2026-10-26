@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T09:01:18Z",
+ "generated_at": "2026-10-26T09:06:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "562cd7896ffd",
+   "ts": "2026-10-26T09:01:42Z",
+   "headline": "German Ifo expectations rise to 91.6, beating forecast, while current conditions slip to 88.8, below forecast",
+   "detail": "The October Ifo expectations index came in at 91.6, against a 90 forecast and 90.4 previously. The current conditions index was 88.8, against an 89.8 forecast and 89.5 previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2faf9488ebe3fab2",
+    "e2aaae9736959384",
+    "3550335e7844c652"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myreds6qys2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myreds6qys2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myree43bdq2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myree43bdq2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrefzqoqd25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrefzqoqd25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f70243007eb1",
+   "created_at": "2026-10-26T09:06:06Z"
+  },
   {
    "id": "05880db6e5ee",
    "ts": "2026-10-26T09:00:57Z",
@@ -5591,33 +5624,6 @@
    "model": "opus",
    "run_id": "8bc27df8a355",
    "created_at": "2026-10-22T06:45:53Z"
-  },
-  {
-   "id": "d2fba1f792f0",
-   "ts": "2026-10-22T06:12:50Z",
-   "headline": "Japan's 20-year JGB yield falls 2.5bp to 3.68% while the 2-year yield holds at 1.9%",
-   "detail": "In Tokyo trade, the 20-year Japanese government bond yield fell 2.5bp to 3.68% and the 2-year yield held steady at 1.9%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a73b166f52048627",
-    "3fc2dad33a28b916"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygz2i5pfn2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygz2i5pfn2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygz2lvpc72t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygz2lvpc72t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "37ec13dfb222",
-   "created_at": "2026-10-22T06:15:47Z"
   }
  ]
 }
