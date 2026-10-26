@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T07:01:18Z",
+ "generated_at": "2026-10-26T07:25:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2c633e23bdbb",
+   "ts": "2026-10-26T07:21:23Z",
+   "headline": "PM Burnham says he is not proposing that the UK rejoin the EU in this parliament and rules out an early election",
+   "detail": "Prime Minister Andy Burnham made the remarks in an ITV interview on 26 October. He said he was not proposing EU membership during the current parliament and ruled out calling an early general election.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1626ca348e91e1e1",
+    "29787af30e736d35",
+    "09967fea201e7b95"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr6qpwyjh2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr6qpwyjh2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr6rkmi6d2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr6rkmi6d2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr6pvneux2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr6pvneux2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d526d4a8d232",
+   "created_at": "2026-10-26T07:25:43Z"
+  },
   {
    "id": "bd4211daf786",
    "ts": "2026-10-26T07:00:58Z",
@@ -5856,33 +5889,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygjqc33x72b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygjqc33x72b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7f4819a00713",
-   "created_at": "2026-10-22T05:05:40Z"
-  },
-  {
-   "id": "c2e30b76c859",
-   "ts": "2026-10-22T00:42:54Z",
-   "headline": "Japan's 30-year government bond yield falls 3bp to 3.895%",
-   "detail": "The 30-year JGB yield fell 3bp to 3.895% in Tokyo trade. The WSJ reports that the Japanese yield curve is flattening amid concern about AI-related credit risks.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "f76b0926603a0479",
-    "0b7cc4470281e514"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myggmizaau2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myggmizaau2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myghdfuxdm22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myghdfuxdm22"
     }
    ],
    "model": "opus",
