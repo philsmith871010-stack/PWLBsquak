@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T16:01:19Z",
+ "generated_at": "2026-10-26T16:20:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1cb3b845d8a4",
+   "ts": "2026-10-26T16:17:47Z",
+   "headline": "Trump administration challenges US wind projects, putting a bipartisan energy permitting deal in doubt, FT reports",
+   "detail": "The Financial Times reports that the administration's new challenge to wind power projects ends a truce on renewables. That truce was aimed at winning bipartisan support for a permitting bill.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "1703876780a38052"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mys4pvbwbq22",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mys4pvbwbq22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "00d8060ebd9b",
+   "created_at": "2026-10-26T16:20:49Z"
+  },
   {
    "id": "c323a51e7003",
    "ts": "2026-10-26T15:56:05Z",
@@ -5513,45 +5534,6 @@
    "model": "opus",
    "run_id": "f7bf54dababf",
    "created_at": "2026-10-22T12:31:05Z"
-  },
-  {
-   "id": "b66f1e711b5b",
-   "ts": "2026-10-22T12:02:05Z",
-   "headline": "Houthis claim attacks on Saudi defence ministry in Riyadh, Aramco site in Yanbu and King Fahd airport in Dammam",
-   "detail": "Yemen's Houthis say they have attacked the Saudi defence ministry in Riyadh, an Aramco facility in Yanbu and King Fahd Airport in Dammam. The UAE foreign ministry condemns the airport attack as a violation of Saudi sovereignty.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "151c57635172046e",
-    "448bfece718615e7",
-    "10645a30a31531a9",
-    "19717611f9a489af"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhmkyfcy42h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhmkyfcy42h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhmmtwroj2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhmmtwroj2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhmpbcxum2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhmpbcxum2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhmq2lkum2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhmq2lkum2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2eef792c4f00",
-   "created_at": "2026-10-22T12:05:44Z"
   }
  ]
 }
