@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T15:35:44Z",
+ "generated_at": "2026-10-26T15:50:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5bb943554868",
+   "ts": "2026-10-26T15:48:07Z",
+   "headline": "Iran, Turkey, Pakistan and Saudi Arabia agree to keep talking after Tehran meeting, Iranian state media reports",
+   "detail": "Iranian state broadcaster IRIB reports that Iran, Turkey, Pakistan and Saudi Arabia have agreed to continue talks. The four met in Tehran on Monday in talks aimed at ending the conflict.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ad6425c1c91effe4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys32tyk6i2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys32tyk6i2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0909723e658e",
+   "created_at": "2026-10-26T15:50:52Z"
+  },
   {
    "id": "1f3459129c34",
    "ts": "2026-10-26T15:33:56Z",
@@ -5531,27 +5552,6 @@
    "model": "opus",
    "run_id": "1936fd5aa2e8",
    "created_at": "2026-10-22T12:01:18Z"
-  },
-  {
-   "id": "aeeca4293bfa",
-   "ts": "2026-10-22T11:51:16Z",
-   "headline": "Markets price only 3.5bp of Fed tightening for the 28 October meeting, consistent with the Fed holding",
-   "detail": "A market economist reports that pricing for the Fed's 28 October decision shows just 3.5bp of tightening, which he reads as markets expecting the Fed to stay on hold. He links this to the sell-off in global bond markets.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "32afd0e9d0f19a02"
-   ],
-   "sources": [
-    {
-     "author": "robin-j-brooks.bsky.social",
-     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3myhlxnfqvk2w",
-     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3myhlxnfqvk2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "da71af7931f3",
-   "created_at": "2026-10-22T11:55:41Z"
   }
  ]
 }
