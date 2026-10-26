@@ -1,8 +1,71 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T06:35:39Z",
+ "generated_at": "2026-10-26T06:40:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0e310450d095",
+   "ts": "2026-10-26T06:31:37Z",
+   "headline": "Fed to keep raising rates quarterly after reversing its 2025 insurance cuts, FT reports",
+   "detail": "The Financial Times reports that the Federal Reserve plans to keep its rate increases on a quarterly pace now that the insurance cuts made in 2025 have been reversed.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "dd9c084aa88610dc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr3xqier62d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr3xqier62d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b237cd9b70b5",
+   "created_at": "2026-10-26T06:40:47Z"
+  },
+  {
+   "id": "3eec80ec11eb",
+   "ts": "2026-10-26T06:29:53Z",
+   "headline": "Crude oil falls as Qatar pursues mediation efforts, FT reports",
+   "detail": "The Financial Times reports that crude oil prices are falling as Qatar pursues mediation. No price levels were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "5664b6881dee7647"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr3unjehk2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr3unjehk2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b237cd9b70b5",
+   "created_at": "2026-10-26T06:40:47Z"
+  },
+  {
+   "id": "7f6a62780f91",
+   "ts": "2026-10-26T06:08:55Z",
+   "headline": "EU leaders aim to finalise €45bn Ukraine loan backed by the EU budget before year-end",
+   "detail": "EU leaders are seeking to complete a €45 billion loan to Ukraine, guaranteed by the EU budget, before the end of the year.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "62e59ea30a9b97cf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr2p5k33x2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr2p5k33x2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b237cd9b70b5",
+   "created_at": "2026-10-26T06:40:47Z"
+  },
   {
    "id": "f905fc904548",
    "ts": "2026-10-26T02:32:24Z",
@@ -5825,87 +5888,6 @@
    "model": "opus",
    "run_id": "7f4819a00713",
    "created_at": "2026-10-22T05:05:40Z"
-  },
-  {
-   "id": "c33b51657c98",
-   "ts": "2026-10-22T00:09:56Z",
-   "headline": "Japan's 10-year JGB yield falls 2bp to 2.87% in early Tokyo trade",
-   "detail": "Benchmark 10-year JGB futures opened 0.17 point higher and the 5-year yield fell 1bp to 2.285%, while Nikkei futures were down 0.7%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "686076ee68b48d8d",
-    "3040b5b55da1153d",
-    "76edf9f1366d7b35",
-    "1e5899a9078ccbb2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygerk6ut72t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygerk6ut72t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygecgkeu42n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygecgkeu42n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myge3mc4sk2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myge3mc4sk2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygedn4kw62t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygedn4kw62t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7d4114535c8e",
-   "created_at": "2026-10-22T05:01:13Z"
-  },
-  {
-   "id": "946d260a6c6e",
-   "ts": "2026-10-22T00:09:25Z",
-   "headline": "Trump says the US inflicted a crushing defeat on Tehran and wants lasting results in Iran",
-   "detail": "US President Trump made the remarks early on 22 October UTC.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "35c3d3ecd30912bb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygeqmstrn2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygeqmstrn2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7d4114535c8e",
-   "created_at": "2026-10-22T05:01:13Z"
-  },
-  {
-   "id": "c1800e39ca57",
-   "ts": "2026-10-21T22:52:17Z",
-   "headline": "US and Israel are drawing up a plan for new strikes on Iran after the US election, NYT reports",
-   "detail": "The New York Times reports that US Defense Secretary Hegseth met Israel's Netanyahu this week to discuss new strikes on Iran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "89ec6ee1a0ed5f50"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygagpwdz32t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygagpwdz32t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7d4114535c8e",
-   "created_at": "2026-10-22T05:01:13Z"
   }
  ]
 }
