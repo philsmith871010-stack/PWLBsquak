@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T18:40:48Z",
+ "generated_at": "2026-10-26T18:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "28cf8b7dd02b",
+   "ts": "2026-10-26T18:43:54Z",
+   "headline": "New York Fed's Williams forecasts no Fed rate rises in 2027, against market expectations",
+   "detail": "New York Fed President John Williams projects no rate increases in 2027, according to a market news report that says his view differs from market pricing. It comes ahead of this week's Fed policy meeting.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "a74cd3a20dde8cb8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mysev6fp732p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mysev6fp732p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "afd3f53996cd",
+   "created_at": "2026-10-26T18:45:51Z"
+  },
   {
    "id": "173b90ffab8f",
    "ts": "2026-10-26T18:37:34Z",
@@ -5393,27 +5414,6 @@
    "model": "opus",
    "run_id": "061e8a0244ec",
    "created_at": "2026-10-22T15:10:48Z"
-  },
-  {
-   "id": "4f7ebfd380d8",
-   "ts": "2026-10-22T15:01:55Z",
-   "headline": "Kansas City Fed composite index slips to 11 in October, below the 12 forecast",
-   "detail": "The Kansas City Fed composite index came in at 11, compared with a forecast of 12 and 14 previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e51e2b5c521a205f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhwmkv4yt2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhwmkv4yt2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5e08f6777429",
-   "created_at": "2026-10-22T15:05:42Z"
   }
  ]
 }
