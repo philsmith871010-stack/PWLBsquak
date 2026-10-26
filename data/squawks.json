@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T11:55:40Z",
+ "generated_at": "2026-10-26T12:09:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4441741376f0",
+   "ts": "2026-10-26T11:43:49Z",
+   "headline": "Banks face an expected tax raid in Wednesday's Budget; London mayor Khan urges them to keep investing in the UK",
+   "detail": "City AM reports that the banking sector is expected to face higher taxes in Chancellor Healey's Budget. On Monday, London mayor Sadiq Khan urged the biggest banks to stay in London but would not say whether he opposed the measure.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "a16bcf0409065a61",
+    "a3718f1a83dca024"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3myroozzoytn2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3myroozzoytn2"
+    },
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3myropwlctuv2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3myropwlctuv2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1aefe32b7b42",
+   "created_at": "2026-10-26T12:09:51Z"
+  },
+  {
+   "id": "0d3702e48725",
+   "ts": "2026-10-26T11:35:38Z",
+   "headline": "Healey's Budget to exempt nearly one million state-pension-dependent retirees from income tax, City AM reports",
+   "detail": "City AM reports that Chancellor Healey's Autumn Budget this week will exempt low-income pensioners who rely on the state pension from income tax. A former pensions minister has warned that the plan could create a £200m cliff edge and a growing bill for future governments.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "03161a15cf60efbd"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3myropeevs6p2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3myropeevs6p2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1aefe32b7b42",
+   "created_at": "2026-10-26T12:09:51Z"
+  },
   {
    "id": "8340b29578a6",
    "ts": "2026-10-26T11:52:10Z",
@@ -5432,48 +5480,6 @@
    "model": "opus",
    "run_id": "9ddfbf7e713d",
    "created_at": "2026-10-22T10:10:57Z"
-  },
-  {
-   "id": "4f617dae99cc",
-   "ts": "2026-10-22T10:05:04Z",
-   "headline": "Aramco CEO says he sees oil demand rising to 3 million barrels a day after the Iran war as Saudi Arabia seeks stockpile partners",
-   "detail": "Saudi Aramco CEO Amin Nasser told Al Arabiya Business TV on Thursday that Saudi Arabia and Aramco want to work with other countries to expand their strategic oil stockpile. He put oil demand after the Iran war at 3 million barrels per day, Reuters reports.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "022c01dec8563949"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myhfzqb3ur2r",
-     "url": "https://bsky.app/profile/reuters.com/post/3myhfzqb3ur2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "96f349824425",
-   "created_at": "2026-10-22T10:05:46Z"
-  },
-  {
-   "id": "919d7298fb51",
-   "ts": "2026-10-22T08:35:56Z",
-   "headline": "Iran warns the conflict could widen over what it calls illegal transit through the Strait of Hormuz",
-   "detail": "Iran said the scope of the conflict may expand in response to transit through the Strait of Hormuz that it describes as illegal. No market reaction was reported alongside the statement.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "34746de2bed2841a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhb2edhqn2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhb2edhqn2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7c7339de6d87",
-   "created_at": "2026-10-22T08:40:53Z"
   }
  ]
 }
