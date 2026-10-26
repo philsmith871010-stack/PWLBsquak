@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T06:15:51Z",
+ "generated_at": "2026-10-26T06:20:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f97f2449c665",
+   "ts": "2026-10-25T22:30:58Z",
+   "headline": "UK government commits a further £432mn to end rough sleeping ahead of the Budget",
+   "detail": "The government has committed a further £432mn to ending rough sleeping. The FT reports that PM Burnham is promising Budget money for the goal, while Chancellor Healey is preparing a fiscal statement intended to reassure markets.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "937292efc3e128f7",
+    "b64292c47e5b5ec7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqb4b7xvu2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqb4b7xvu2p"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myqcv6vgz42i",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myqcv6vgz42i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "701f52f8d6da",
+   "created_at": "2026-10-26T06:20:51Z"
+  },
+  {
+   "id": "eef811b62569",
+   "ts": "2026-10-25T21:58:31Z",
+   "headline": "European gas prices hit their highest level since 2022 as trading opens",
+   "detail": "European gas prices reached their highest level since 2022 at the start of trading, according to a market report. No percentage move was given.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "d23c109d87197c2e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myq7cb77s72b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myq7cb77s72b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "701f52f8d6da",
+   "created_at": "2026-10-26T06:20:51Z"
+  },
+  {
+   "id": "abb8cc0d10cf",
+   "ts": "2026-10-25T21:39:53Z",
+   "headline": "Chancellor Healey expected to announce a 3.9% rise in the full state pension, The Times reports",
+   "detail": "The Times reports that Chancellor John Healey is expected to announce a 3.9% increase to the full state pension.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "7adb2a0ae8987149"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myq6awvj5n2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myq6awvj5n2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "701f52f8d6da",
+   "created_at": "2026-10-26T06:20:51Z"
+  },
   {
    "id": "9ee2bac523c2",
    "ts": "2026-10-25T19:35:11Z",
@@ -5831,93 +5900,6 @@
    "model": "opus",
    "run_id": "21b8432797c2",
    "created_at": "2026-10-21T20:40:49Z"
-  },
-  {
-   "id": "ba27945a0cda",
-   "ts": "2026-10-21T20:29:10Z",
-   "headline": "Senior Iranian security official says Iran expects a US-Israeli attack and treats US diplomatic gestures as invalid",
-   "detail": "Iran's Fars news agency reported the remarks from an unnamed senior Iranian security official on Wednesday evening. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "06b8ba348a5cf8cd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfygsg46t2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfygsg46t2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "733b30dcd2c8",
-   "created_at": "2026-10-21T20:31:04Z"
-  },
-  {
-   "id": "3a459db57d91",
-   "ts": "2026-10-21T20:19:09Z",
-   "headline": "Trump says the US continues to beat Iran and that he cannot say whether a denuclearisation meeting will happen",
-   "detail": "US President Trump made the remarks to reporters on Wednesday evening. He also said he can impose sanctions on any day.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ba0088125ac2b101",
-    "cf9e02c05fea6e8a",
-    "fa0dcd7b1a911360"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfxuv5oq22x",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfxuv5oq22x"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfxrxoxme27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfxrxoxme27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfxuw4xoa26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfxuw4xoa26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "42cfebcf3809",
-   "created_at": "2026-10-21T20:20:49Z"
-  },
-  {
-   "id": "856708f9c570",
-   "ts": "2026-10-21T20:13:04Z",
-   "headline": "Trump says he does not know of any move to pull US embassy staff from the Middle East",
-   "detail": "Asked about reports that US government staff had been told to leave posts in the Gulf, President Trump said he did not know that they were. He also said he has the right to impose sanctions on any day.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "666a2e27bd330fa2",
-    "a5cc652d681d58b2",
-    "a704cfc6b5d9d46d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfxjyyzr427",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfxjyyzr427"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfxkw2vmm27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfxkw2vmm27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myfxnpxidr2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myfxnpxidr2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "21be37933a6f",
-   "created_at": "2026-10-21T20:15:52Z"
   }
  ]
 }
