@@ -1,8 +1,71 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T15:25:42Z",
+ "generated_at": "2026-10-26T15:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1f3459129c34",
+   "ts": "2026-10-26T15:33:56Z",
+   "headline": "US 3-month bill auction clears at 4.05% and 6-month at 4.21%; 6-month cover falls to 2.63",
+   "detail": "The US Treasury sold $95bn of 3-month bills at a high yield of 4.050% with bid-to-cover of 3.07, up from 2.770, and 82.29% of bids at the high were allotted. It also sold $82bn of 6-month bills at 4.210%, against 4.220% previously, with cover of 2.63, down from 2.840, and 61.74% of bids at the high allotted.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "cc400336afc46c61",
+    "45a5df1ec4207a74",
+    "f88c9927ff03a80c",
+    "d53e5f719822864b",
+    "f572e99aa631a1af",
+    "4e2c57b7733ef3a6",
+    "15631540b969316a",
+    "1bf05ff4ef866ffc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys2726mi725",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys2726mi725"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys27tkh5u2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys27tkh5u2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys27wmarx2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys27wmarx2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys2a3b42e2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys2a3b42e2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys2actqko24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys2actqko24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys2anb74y2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys2anb74y2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys2bihknk2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys2bihknk2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys2ciznfr25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys2ciznfr25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4a0d6b6eb532",
+   "created_at": "2026-10-26T15:35:44Z"
+  },
   {
    "id": "cfb1840744be",
    "ts": "2026-10-26T15:23:37Z",
@@ -5489,27 +5552,6 @@
    "model": "opus",
    "run_id": "da71af7931f3",
    "created_at": "2026-10-22T11:55:41Z"
-  },
-  {
-   "id": "ac9f99177fc4",
-   "ts": "2026-10-22T11:47:24Z",
-   "headline": "India's trade minister says the India-EU trade deal will be signed before year-end and could take effect within 4–5 months",
-   "detail": "India's trade minister made the comments during a visit to Germany. He said the agreement could become operational 4–5 months after it is signed.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0eebe0bc9d2ad0f1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhlqq6otl2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhlqq6otl2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7cf6502e67c8",
-   "created_at": "2026-10-22T11:50:54Z"
   }
  ]
 }
