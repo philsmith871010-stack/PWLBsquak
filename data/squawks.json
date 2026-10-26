@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T11:40:50Z",
+ "generated_at": "2026-10-26T11:45:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "935228de8c5d",
+   "ts": "2026-10-26T11:41:44Z",
+   "headline": "Egypt's foreign minister says a military solution with Iran cannot last and Cairo is working to prevent a full-scale war",
+   "detail": "Egypt's foreign minister said Cairo talks every day with both Iran and the US, and that it is trying to avoid another full military conflict. He added that a military solution would not be sustainable.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "94d42367fd421855",
+    "80f3898033b32a40",
+    "2bf4f012b2963f7a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrncbenil2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrncbenil2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrneulk5u22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrneulk5u22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrneyafiv24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrneyafiv24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a23b70fb0746",
+   "created_at": "2026-10-26T11:45:48Z"
+  },
   {
    "id": "944805510df6",
    "ts": "2026-10-26T11:36:08Z",
@@ -5429,27 +5462,6 @@
    "model": "opus",
    "run_id": "b7f25ffc4746",
    "created_at": "2026-10-22T08:35:47Z"
-  },
-  {
-   "id": "c16c369689ed",
-   "ts": "2026-10-22T08:05:54Z",
-   "headline": "Brent futures climb more than 3% to $112.55 a barrel, highest level since May",
-   "detail": "Brent crude futures rose by more than 3% to $112.55 a barrel, their highest level since May, according to a market report.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "71e79f856a632010"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh7eni2fo2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh7eni2fo2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "887117968e58",
-   "created_at": "2026-10-22T08:10:55Z"
   }
  ]
 }
