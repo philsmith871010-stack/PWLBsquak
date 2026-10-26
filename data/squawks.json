@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T17:35:41Z",
+ "generated_at": "2026-10-26T18:10:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f625aff96276",
+   "ts": "2026-10-26T17:37:20Z",
+   "headline": "Reform UK leader Farage says banks should not face new taxes in this week's Budget, partly reversing his earlier stance",
+   "detail": "City AM reports that Farage has come out against new bank taxes in Wednesday's Budget. Earlier this year he had pledged to scrap the interest lenders receive on their deposits at the Bank of England.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "74aee467274d1306"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mysctaqjtts2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mysctaqjtts2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aed065f5e614",
+   "created_at": "2026-10-26T18:10:52Z"
+  },
   {
    "id": "db1eecfb646b",
    "ts": "2026-10-26T17:35:02Z",
@@ -5393,33 +5414,6 @@
    "model": "opus",
    "run_id": "b793dfdc2259",
    "created_at": "2026-10-22T14:55:47Z"
-  },
-  {
-   "id": "e0c6515e7cda",
-   "ts": "2026-10-22T14:47:53Z",
-   "headline": "French 5-year CDS go above 100bp for the first time since October 2012",
-   "detail": "LSEG data shows French 5-year credit default swaps rose above 100bp for the first time since October 2012, and were last quoted at 97.75bp. This comes as France's spread over Bunds widens further.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "f190c4cc86ad6279",
-    "53fc2b18767520b7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhvthq4ga27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhvthq4ga27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhvvxg6xr2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhvvxg6xr2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fb75ffb359f7",
-   "created_at": "2026-10-22T14:51:00Z"
   }
  ]
 }
