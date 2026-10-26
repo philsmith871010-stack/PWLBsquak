@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T15:05:42Z",
+ "generated_at": "2026-10-26T15:15:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4340f01765b3",
+   "ts": "2026-10-26T15:13:43Z",
+   "headline": "US Strategic Petroleum Reserve crude stocks drop to 282.6 million barrels, the lowest level since 1982",
+   "detail": "Crude held in the US Strategic Petroleum Reserve fell to 282.6 million barrels last week, the lowest level since 1982, according to a market news feed.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "2f62d7efaf0fa799"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrz5dwnjg25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrz5dwnjg25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c740bacff241",
+   "created_at": "2026-10-26T15:15:56Z"
+  },
   {
    "id": "85495786b08a",
    "ts": "2026-10-26T15:02:57Z",
@@ -5489,27 +5510,6 @@
    "model": "opus",
    "run_id": "d55ffa1d523f",
    "created_at": "2026-10-22T11:35:40Z"
-  },
-  {
-   "id": "91e614486e77",
-   "ts": "2026-10-22T11:26:29Z",
-   "headline": "French yields rise about 10bp while US Treasury yields fall about 10bp as the two markets diverge",
-   "detail": "An FT markets journalist reports that French government bond yields are up about 10bp while US yields are down about 10bp. This comes after France's 10-year yield moved above US Treasury yields earlier in the session.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "bfb1cfe29a253efd"
-   ],
-   "sources": [
-    {
-     "author": "iankmsmith.ft.com",
-     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3myhklcvae227",
-     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3myhklcvae227"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bb511d1cb915",
-   "created_at": "2026-10-22T11:31:07Z"
   }
  ]
 }
