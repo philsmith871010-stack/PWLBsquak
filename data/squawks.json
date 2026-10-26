@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T12:35:43Z",
+ "generated_at": "2026-10-26T12:55:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "01769176a15a",
+   "ts": "2026-10-26T12:53:59Z",
+   "headline": "French 10-year yield extends its fall, down as much as 10.56bp on the day to 4.9158%",
+   "detail": "The French 10-year yield fell as much as 10.56bp on the day to 4.9158%, a bigger drop than the 5.3bp decline reported earlier after Moody's left France's sovereign rating unchanged.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "a966fb47732bb5c6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrrdhlywm2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrrdhlywm2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c0975c833f39",
+   "created_at": "2026-10-26T12:55:41Z"
+  },
   {
    "id": "b711211af6ff",
    "ts": "2026-10-26T12:31:15Z",
@@ -5453,27 +5474,6 @@
    "model": "opus",
    "run_id": "0bbe051b3b0e",
    "created_at": "2026-10-22T10:31:08Z"
-  },
-  {
-   "id": "c0794f6df9c4",
-   "ts": "2026-10-22T10:17:00Z",
-   "headline": "Kremlin envoy Dmitriev says a diesel fuel deal with the US will start being put into effect tomorrow, reports say",
-   "detail": "Russian envoy Kirill Dmitriev announced that work to implement a diesel fuel deal between Russia and the United States begins tomorrow, according to reports relayed on social media. The reports gave no further terms.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "991f79a2c001e0ad"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhgp3c4uu2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhgp3c4uu2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b32081a16ecd",
-   "created_at": "2026-10-22T10:20:48Z"
   }
  ]
 }
