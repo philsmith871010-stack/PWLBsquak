@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T14:40:50Z",
+ "generated_at": "2026-10-26T14:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "110ccb7c0dcb",
+   "ts": "2026-10-26T14:50:47Z",
+   "headline": "Iran's president repeats that Tehran is not seeking nuclear weapons",
+   "detail": "Iran's president said again on Monday that Tehran is not trying to acquire nuclear weapons. The statement came during the Mecca pact talks being held in Tehran.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "01600e0284b12bbb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrxucrtho2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrxucrtho2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ef64cf9ba535",
+   "created_at": "2026-10-26T14:50:49Z"
+  },
   {
    "id": "327813e716d2",
    "ts": "2026-10-26T14:36:06Z",
@@ -5484,27 +5505,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myhkirmvh42p",
      "url": "https://bsky.app/profile/reuters.com/post/3myhkirmvh42p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4a3a8521a913",
-   "created_at": "2026-10-22T11:25:43Z"
-  },
-  {
-   "id": "7ba40e510131",
-   "ts": "2026-10-22T11:23:09Z",
-   "headline": "Iran's national security council chief says Tehran is in talks with Gulf states on a security framework to prevent conflict",
-   "detail": "The head of Iran's National Security Council said Iran is talking to Gulf states about a regional security architecture aimed at preventing conflict.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9c210ce5648661e3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhkfenutv24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhkfenutv24"
     }
    ],
    "model": "opus",
