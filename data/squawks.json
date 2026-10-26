@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T06:40:47Z",
+ "generated_at": "2026-10-26T07:01:18Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bd4211daf786",
+   "ts": "2026-10-26T07:00:58Z",
+   "headline": "Swedish producer prices rise 3.4% on the month, taking the annual rate to 11.2% from 6.8%",
+   "detail": "Swedish PPI rose 3.4% month on month, up from 0.9% previously, and annual producer price inflation reached 11.2% against 6.8% before. No forecast was given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "38fedb2c6f75a3ab",
+    "05e48b1d976d313f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr5m5r5j32y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr5m5r5j32y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr5m7vrmj2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr5m7vrmj2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "217dd6d67e0b",
+   "created_at": "2026-10-26T07:01:18Z"
+  },
   {
    "id": "0e310450d095",
    "ts": "2026-10-26T06:31:37Z",
@@ -5856,33 +5883,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myghdfuxdm22",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myghdfuxdm22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7f4819a00713",
-   "created_at": "2026-10-22T05:05:40Z"
-  },
-  {
-   "id": "2d24cfcb147c",
-   "ts": "2026-10-22T00:38:57Z",
-   "headline": "Brent and WTI futures rise about 1% after the US orders diplomats to leave Saudi Arabia",
-   "detail": "Crude futures rose about 1% after the US ordered staff to leave Saudi Arabia. The WSJ says concern is growing that conflict in the Middle East will flare up again.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "5f09edcd2baf3940",
-    "7dd832fac3f2ec5c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myggfgqxzt27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myggfgqxzt27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myggklug3u22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myggklug3u22"
     }
    ],
    "model": "opus",
