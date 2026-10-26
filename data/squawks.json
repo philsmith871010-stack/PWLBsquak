@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T07:40:53Z",
+ "generated_at": "2026-10-26T08:01:22Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "473cf09b19cb",
+   "ts": "2026-10-26T07:58:26Z",
+   "headline": "Singapore agrees with Saudi Aramco to store Saudi oil in rock caverns, FT reports",
+   "detail": "The Financial Times reports that the deal with Saudi Aramco is meant to secure energy supplies for south-east Asia while the Middle East war disrupts supply.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "3cdff5ba041284ca"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myrasxybqs2x",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myrasxybqs2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9af8e54cbc89",
+   "created_at": "2026-10-26T08:01:22Z"
+  },
+  {
+   "id": "1e1f28546324",
+   "ts": "2026-10-26T07:58:24Z",
+   "headline": "Iran says Monday's talks will take in Israel, Lebanon and Palestine; warns of a crushing response to any aggressors",
+   "detail": "Iran said the talks on Monday will cover Israel, Lebanon and Palestine. Separately, it said its forces would respond with crushing force to aggressors.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d1dd8533058b49bd",
+    "38e62c20d87456b1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myraswum2r2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myraswum2r2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myraqqmbpu25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myraqqmbpu25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9af8e54cbc89",
+   "created_at": "2026-10-26T08:01:22Z"
+  },
   {
    "id": "805e9072f4eb",
    "ts": "2026-10-26T07:39:29Z",
@@ -5595,78 +5643,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mygugr3vhs2o",
      "url": "https://bsky.app/profile/reuters.com/post/3mygugr3vhs2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9816d689bca5",
-   "created_at": "2026-10-22T05:15:46Z"
-  },
-  {
-   "id": "26661ac5d76e",
-   "ts": "2026-10-22T04:13:54Z",
-   "headline": "Japan's 40-year JGB yield falls 3.5bp to 4.015%",
-   "detail": "The 40-year Japanese government bond yield fell 3.5bp to 4.015% in Tokyo trade.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "30b17b20352303bc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygsfsbgsz25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygsfsbgsz25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9816d689bca5",
-   "created_at": "2026-10-22T05:15:46Z"
-  },
-  {
-   "id": "d9015b723667",
-   "ts": "2026-10-22T03:08:35Z",
-   "headline": "BoK Governor Shin says the inflation target may be reached in 2028 and the bank need not follow market terminal rate pricing",
-   "detail": "Bank of Korea Governor Shin said hitting the inflation target may be feasible in 2028 and that the bank does not necessarily need to follow financial markets' expectations for the terminal policy rate. He also said South Korea is at an early stage of internationalising the won.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7c69a6f204d3edfd",
-    "6c8a9657c5521116",
-    "2fdaba4d4f921b4c",
-    "52a566865a683ffc",
-    "66b37a3fb8a3ff5f",
-    "22971110f1542a82"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygoqzlpei2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygoqzlpei2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygoravdww2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygoravdww2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygonxjdnm2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygonxjdnm2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygrnd4eof2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygrnd4eof2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygrn7uqar27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygrn7uqar27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygsqqjd452b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygsqqjd452b"
     }
    ],
    "model": "opus",
