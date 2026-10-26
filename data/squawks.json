@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T08:01:22Z",
+ "generated_at": "2026-10-26T08:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2bcae7875a72",
+   "ts": "2026-10-26T08:35:12Z",
+   "headline": "Chancellor Healey expected to deliver a cautious first Budget this week, putting gilt market stability first, Reuters reports",
+   "detail": "Reuters reports that Chancellor John Healey is expected to favour bond market stability over large spending increases in this week's Budget. The report contrasts this with the bigger spending plans PM Burnham discussed when he took office.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "e17dea2165f74b4e"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myrcuphqz42o",
+     "url": "https://bsky.app/profile/reuters.com/post/3myrcuphqz42o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "63f6e7dd13ec",
+   "created_at": "2026-10-26T08:35:43Z"
+  },
+  {
+   "id": "72bb66949578",
+   "ts": "2026-10-26T08:33:06Z",
+   "headline": "EU plans import curbs on Chinese chemicals and furniture, which could be presented as early as Q1 2027",
+   "detail": "Reports say the EU is planning import restrictions on Chinese chemicals and furniture and is also looking at caps or quotas on Chinese furniture. The new trade measures could be presented as early as the first quarter of 2027.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fb62edaa6fb842de",
+    "71d9731935629734",
+    "0d329b9bb02c3a2a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrcqxxw5x2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrcqxxw5x2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrcsmapjx2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrcsmapjx2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrctspaot2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrctspaot2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "63f6e7dd13ec",
+   "created_at": "2026-10-26T08:35:43Z"
+  },
   {
    "id": "473cf09b19cb",
    "ts": "2026-10-26T07:58:26Z",
@@ -5564,90 +5618,6 @@
    "model": "opus",
    "run_id": "e3f9e8aaf15f",
    "created_at": "2026-10-22T05:25:40Z"
-  },
-  {
-   "id": "b77f8475472f",
-   "ts": "2026-10-22T04:55:09Z",
-   "headline": "Brent rises to $110.90 a barrel on concerns over supply risks from attacks on Saudi Arabia",
-   "detail": "Brent crude climbed to $110.90 a barrel as the risk of attacks on Saudi Arabia added to supply concerns. Separately, the WSJ said crude was rising as geopolitical risks came back into focus.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "68637b35f0e17705",
-    "37473f2f2e408768"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myguplhvvm2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myguplhvvm2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygrmfiueh2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygrmfiueh2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9816d689bca5",
-   "created_at": "2026-10-22T05:15:46Z"
-  },
-  {
-   "id": "5dd7662485c9",
-   "ts": "2026-10-22T04:18:40Z",
-   "headline": "Iran's Revolutionary Guards navy says seven ships were hit in the Gulf and warns US bases could be targeted",
-   "detail": "The IRGC Navy said four vessels it accused of illegal oil transfers were struck and set on fire in the northern Gulf, and three more hit mines west of the Strait of Hormuz overnight. It warned its response could extend to US bases in the region if Washington keeps urging ships to cross the mined waterway.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "f2483f836097155b",
-    "c1b332913450af56",
-    "9f140e7f0a1722a8",
-    "e8009fb1f6d373b0",
-    "8b2df7655bf94614",
-    "9a67f1278efd229d",
-    "a9c8e334a54c96af"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygsodr7fl27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygsodr7fl27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygsp4kvtg26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygsp4kvtg26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygspcphv52h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygspcphv52h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygspxdlxc27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygspxdlxc27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygsqt57qb25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygsqt57qb25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mygsrvtc4w26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mygsrvtc4w26"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mygugr3vhs2o",
-     "url": "https://bsky.app/profile/reuters.com/post/3mygugr3vhs2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9816d689bca5",
-   "created_at": "2026-10-22T05:15:46Z"
   }
  ]
 }
