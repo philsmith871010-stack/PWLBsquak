@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T12:55:41Z",
+ "generated_at": "2026-10-26T13:05:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9d2e5f607128",
+   "ts": "2026-10-26T13:03:34Z",
+   "headline": "Egypt's parliament authorises the military to help defend Saudi Arabia if the kingdom asks for support",
+   "detail": "Egyptian MPs voted to approve military support for Saudi Arabia's defence, to be given on a Saudi request. The vote follows Houthi missile and drone attacks aimed at Saudi Arabia. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ef9d5675031be1af",
+    "fa8e776cf455430c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrrultpoj2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrrultpoj2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrrvuxfdl2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrrvuxfdl2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5223649fb4cc",
+   "created_at": "2026-10-26T13:05:44Z"
+  },
   {
    "id": "01769176a15a",
    "ts": "2026-10-26T12:53:59Z",
@@ -5453,27 +5480,6 @@
    "model": "opus",
    "run_id": "d602e2f0aafe",
    "created_at": "2026-10-22T10:45:49Z"
-  },
-  {
-   "id": "89391517a8b2",
-   "ts": "2026-10-22T10:30:45Z",
-   "headline": "Resolution Foundation says lower net migration will reduce fiscal headroom in the coming Budget",
-   "detail": "The Resolution Foundation said on 22 October that lower net migration is expected to weigh on the government's fiscal headroom at the upcoming Budget. It gave no figures in its post.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "0782043d0dcab171"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3myhhhnolev2d",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3myhhhnolev2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0bbe051b3b0e",
-   "created_at": "2026-10-22T10:31:08Z"
   }
  ]
 }
