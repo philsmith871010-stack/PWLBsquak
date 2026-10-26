@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T14:35:44Z",
+ "generated_at": "2026-10-26T14:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "327813e716d2",
+   "ts": "2026-10-26T14:36:06Z",
+   "headline": "Slovak foreign minister says Russia told him it stands ready to honour agreed energy contracts",
+   "detail": "Slovakia's foreign minister made the remarks after meeting Russian Foreign Minister Lavrov. He added that Slovakia will keep working with Russia in areas that sanctions do not cover.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1d21ea1e90dbb3d7",
+    "25c66155f76160f8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrx22oblh2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrx22oblh2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrx26uwca2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrx26uwca2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "13a19ea85e9e",
+   "created_at": "2026-10-26T14:40:50Z"
+  },
   {
    "id": "80c9d32c2275",
    "ts": "2026-10-26T14:31:05Z",
@@ -5483,27 +5510,6 @@
    "model": "opus",
    "run_id": "4a3a8521a913",
    "created_at": "2026-10-22T11:25:43Z"
-  },
-  {
-   "id": "dce6cab777b2",
-   "ts": "2026-10-22T11:19:21Z",
-   "headline": "France's 10-year spread over Bunds widens 16bp to 176bp",
-   "detail": "The spread between France's 10-year government bond yield and the German Bund widened by a further 16bp to 176bp, according to a market wire report.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "f27cded4021f1fac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhk6kxtof2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhk6kxtof2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3a05d1e81a51",
-   "created_at": "2026-10-22T11:20:48Z"
   }
  ]
 }
