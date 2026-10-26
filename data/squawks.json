@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T12:09:51Z",
+ "generated_at": "2026-10-26T12:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9c5763b48dc2",
+   "ts": "2026-10-26T12:12:54Z",
+   "headline": "US natural gas futures drop 5% to lowest since April 2026 on higher output and weaker demand forecasts",
+   "detail": "US natural gas futures extended losses to fall 5%, reaching their lowest level since April 2026. The decline was attributed to higher output and forecasts of lower demand.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "06d68f5f3497dad3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrozyueo52d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrozyueo52d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b755727c3fc2",
+   "created_at": "2026-10-26T12:15:50Z"
+  },
   {
    "id": "4441741376f0",
    "ts": "2026-10-26T11:43:49Z",
@@ -5447,39 +5468,6 @@
    "model": "opus",
    "run_id": "ff84b2075d7a",
    "created_at": "2026-10-22T10:15:50Z"
-  },
-  {
-   "id": "73a55da706ae",
-   "ts": "2026-10-22T10:06:06Z",
-   "headline": "Kremlin says Russia has not yet picked its representative for trilateral talks with the US and Ukraine",
-   "detail": "The Kremlin also said more European diplomatic activity on a peaceful settlement in Ukraine was a positive development. It added that the US is doing a lot for a settlement while the EU is doing nothing.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ae557929bd6f4e40",
-    "adb28a778a456abf",
-    "1deba3bd7fd995ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhg3lyl5q27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhg3lyl5q27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhg3qdld42f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhg3qdld42f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhg4lcdqj2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhg4lcdqj2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9ddfbf7e713d",
-   "created_at": "2026-10-22T10:10:57Z"
   }
  ]
 }
