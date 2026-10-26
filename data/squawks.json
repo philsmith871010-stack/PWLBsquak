@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T16:20:49Z",
+ "generated_at": "2026-10-26T16:50:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8a744294de8a",
+   "ts": "2026-10-26T16:46:12Z",
+   "headline": "Federal Reserve bids for US 2-year notes total $7.7bn",
+   "detail": "Federal Reserve bids for US 2-year Treasury notes come to $7.7bn, a market commentator account reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "be2b3bc3f13a4a45"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys6cozkyf2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys6cozkyf2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e7d8d0428258",
+   "created_at": "2026-10-26T16:50:52Z"
+  },
   {
    "id": "1cb3b845d8a4",
    "ts": "2026-10-26T16:17:47Z",
@@ -5513,27 +5534,6 @@
    "model": "opus",
    "run_id": "7c9f17273bf2",
    "created_at": "2026-10-22T12:35:46Z"
-  },
-  {
-   "id": "48b04b6c49ae",
-   "ts": "2026-10-22T12:30:26Z",
-   "headline": "France's 10-year risk premium over Bunds hits a fresh 15-year high, back at euro zone debt crisis levels",
-   "detail": "Reuters reports that the premium investors demand to hold French 10-year government bonds over German Bunds has reached its highest level in 15 years.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "df37d0eb6d60d532"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myho5o6hqa2o",
-     "url": "https://bsky.app/profile/reuters.com/post/3myho5o6hqa2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f7bf54dababf",
-   "created_at": "2026-10-22T12:31:05Z"
   }
  ]
 }
