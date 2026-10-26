@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T09:40:50Z",
+ "generated_at": "2026-10-26T09:55:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d2344c4765ab",
+   "ts": "2026-10-26T09:50:55Z",
+   "headline": "Kremlin says Oleshky truce could be a model for other local ceasefires; renewed talks with Ukraine and US do not limit fighting",
+   "detail": "The Kremlin said the local ceasefire in Oleshky, agreed with US help, could set a precedent for similar ceasefires elsewhere. It added that the agreement to resume three-way talks with Ukraine and the US places no restrictions on either Moscow or Kyiv continuing military action.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "678a0aede4ebe4b8",
+    "f6a73e0b58396909"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrh4236vh25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrh4236vh25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrh44ekye2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrh44ekye2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9fa64a6a94d1",
+   "created_at": "2026-10-26T09:55:40Z"
+  },
   {
    "id": "51e852fc1b95",
    "ts": "2026-10-26T09:36:16Z",
@@ -5567,27 +5594,6 @@
    "model": "opus",
    "run_id": "66df9eab464e",
    "created_at": "2026-10-22T06:55:47Z"
-  },
-  {
-   "id": "2e16c0dd57ec",
-   "ts": "2026-10-22T06:47:38Z",
-   "headline": "Goldman Sachs estimates crude freight costs on Middle Eastern routes are above $35 a barrel as the Hormuz crisis continues",
-   "detail": "Goldman Sachs estimates that global average crude freight rates are above $20 a barrel, compared with about $3 a year ago, and that rates on Middle Eastern routes are above $35 a barrel.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "5a171f8e66f4657c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myh2ypjaps2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myh2ypjaps2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a33333b77a9f",
-   "created_at": "2026-10-22T06:50:49Z"
   }
  ]
 }
