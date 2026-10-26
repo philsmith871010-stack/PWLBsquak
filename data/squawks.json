@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T16:55:41Z",
+ "generated_at": "2026-10-26T17:01:31Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a9211491daa2",
+   "ts": "2026-10-26T17:00:56Z",
+   "headline": "US 2-year when-issued yield stands at 4.705% ahead of $69bn Treasury auction",
+   "detail": "The when-issued US 2-year note yield was 4.705% shortly before the US Treasury's $69bn 2-year note auction.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "abec06b1585bf5f7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mys7527jkp25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mys7527jkp25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "58e863b68958",
+   "created_at": "2026-10-26T17:01:31Z"
+  },
   {
    "id": "0fffb32b770a",
    "ts": "2026-10-26T16:51:11Z",
@@ -5459,75 +5480,6 @@
    "model": "opus",
    "run_id": "84e9b8d286cf",
    "created_at": "2026-10-22T13:10:50Z"
-  },
-  {
-   "id": "22701314c824",
-   "ts": "2026-10-22T13:01:34Z",
-   "headline": "German tax panel raises its 2026-30 total tax revenue projection to €43.4bn above the May forecast",
-   "detail": "The panel puts federal revenue for 2026-30 €3.3bn above the May forecast, with this year €3.0bn below and next year €4.1bn above; the ministry projects 2026 tax at €379.1bn. Germany's finance minister says there will be no new fiscal room in 2027 and that budget consolidation must continue.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c1c8bbb97f672108",
-    "67c0b8f4185d2f2b",
-    "bf7c044c2820face",
-    "c3d7ba54b847d941",
-    "cd7fe41e76c3db3c",
-    "8c62451eb5e9494a",
-    "03ecaef5b96d798c",
-    "ef9aed198f1dbdb0",
-    "7873522d5dd55ee1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhpvead5w2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhpvead5w2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhpwfbuxg2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhpwfbuxg2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhpwpzhft26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhpwpzhft26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhpxfusy326",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhpxfusy326"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhpxgnsrw2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhpxgnsrw2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhpxhfgsr2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhpxhfgsr2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhpxr5muw2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhpxr5muw2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhpxv56vw2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhpxv56vw2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhpxzezqg2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhpxzezqg2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "92945cb56914",
-   "created_at": "2026-10-22T13:05:40Z"
   }
  ]
 }
