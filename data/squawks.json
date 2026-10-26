@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T17:20:50Z",
+ "generated_at": "2026-10-26T17:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "db1eecfb646b",
+   "ts": "2026-10-26T17:35:02Z",
+   "headline": "EU Council adopts eight European Peace Facility decisions for Ukraine, taking total EPF support to €10.8bn",
+   "detail": "The EU Council says €4.7bn will reimburse member states for military aid to Ukraine and €230m will go to the EU military assistance mission for Ukraine (EUMAM). The decisions take the EU's overall European Peace Facility support for Ukraine to €10.8bn.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1e21607923b05794"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mysazzs6k72k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mysazzs6k72k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2e5aeb9dcf14",
+   "created_at": "2026-10-26T17:35:41Z"
+  },
   {
    "id": "768cb42ec953",
    "ts": "2026-10-26T17:15:52Z",
@@ -5399,33 +5420,6 @@
    "model": "opus",
    "run_id": "fb75ffb359f7",
    "created_at": "2026-10-22T14:51:00Z"
-  },
-  {
-   "id": "61c056521178",
-   "ts": "2026-10-22T14:43:04Z",
-   "headline": "US Treasury rally deepens: 5-year yield falls 14.33bp to 4.827% and 3-year falls 13.93bp to 4.771%",
-   "detail": "The US 5-year Treasury yield touched 4.825%, its lowest since 23 September, and was last down 14.33bp at 4.827%. The 3-year yield touched 4.768%, its lowest since 18 September, and was last down 13.93bp at 4.771%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "7acd850b2436ff30",
-    "039a998d94687f5d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhvhwabdv26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhvhwabdv26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhvktiadk2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhvktiadk2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d1bfcf2ec729",
-   "created_at": "2026-10-22T14:45:50Z"
   }
  ]
 }
