@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T08:31:00Z",
+ "generated_at": "2026-10-27T08:55:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "447c4b201d75",
+   "ts": "2026-10-27T08:51:29Z",
+   "headline": "France-Germany 10-year yield spread widens 6bp to 160bp",
+   "detail": "The gap between French and German 10-year government bond yields widened by 6bp to 160bp on Tuesday morning, according to a market wire.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "b130fba276ead714"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytuarlayy2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytuarlayy2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dda483a06d7d",
+   "created_at": "2026-10-27T08:55:40Z"
+  },
   {
    "id": "e5bbba44d389",
    "ts": "2026-10-27T08:27:49Z",
@@ -5537,33 +5558,6 @@
    "model": "opus",
    "run_id": "adc99c5ed7f9",
    "created_at": "2026-10-22T19:05:43Z"
-  },
-  {
-   "id": "74b637f8c3ba",
-   "ts": "2026-10-22T18:47:59Z",
-   "headline": "Lebanon-Israel talks in Florida end with no breakthrough, US official says",
-   "detail": "A US official told Al Arabiya that the meetings in Florida between Lebanon and Israel ended without a breakthrough. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d7a377b4117a4c52",
-    "691066fde45f55cb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myidasbmwh25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myidasbmwh25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myidcbto3v2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myidcbto3v2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c8c7f67235c9",
-   "created_at": "2026-10-22T18:50:49Z"
   }
  ]
 }
