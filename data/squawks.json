@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T18:25:46Z",
+ "generated_at": "2026-10-27T19:10:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5940a773f852",
+   "ts": "2026-10-27T19:07:08Z",
+   "headline": "US is discussing Russian deals for American oil majors as part of Ukraine peace talks, FT reports",
+   "detail": "The Financial Times reports that Washington is discussing deals in Russia for US oil majors within the Ukraine peace negotiations. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d92d070d9542503a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuwnnlhba2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuwnnlhba2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "513a01f46684",
+   "created_at": "2026-10-27T19:10:49Z"
+  },
   {
    "id": "bf328250e653",
    "ts": "2026-10-27T18:21:19Z",
@@ -5244,51 +5265,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykh5fyrxw25",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykh5fyrxw25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aa1bc5a16fa5",
-   "created_at": "2026-10-23T15:05:43Z"
-  },
-  {
-   "id": "28f747c35fb5",
-   "ts": "2026-10-23T15:01:47Z",
-   "headline": "Trump says he discussed opening up North Sea oil in a call with the UK prime minister",
-   "detail": "US President Trump said he talked about opening up North Sea oil with UK prime minister Burnham today. Some earlier posts described the call as being with the British foreign minister.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "6f7411df0642f705",
-    "647dcf3fb8228ca9",
-    "a3cf6cfb95ed37af",
-    "a1edb3cd0f995e11",
-    "e677a7b6a3aa12f4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykh2f3exl2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykh2f3exl2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykh37tyxo25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykh37tyxo25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykh3gy63t26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykh3gy63t26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykh3mrozf2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykh3mrozf2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykh4q6df227",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykh4q6df227"
     }
    ],
    "model": "opus",
