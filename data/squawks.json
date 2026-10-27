@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T12:01:21Z",
+ "generated_at": "2026-10-27T12:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "37eae45f2058",
+   "ts": "2026-10-27T12:15:46Z",
+   "headline": "US ADP weekly employment change slows to 16.75K from 18.5K",
+   "detail": "ADP's weekly US private-sector employment estimate showed a gain of 16.75K, down from 18.5K the previous week. No forecast was given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "45bbf84d6ccaa713"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu7o2r6m72f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu7o2r6m72f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bb3f90bf9ba0",
+   "created_at": "2026-10-27T12:15:52Z"
+  },
   {
    "id": "0c82ab004e22",
    "ts": "2026-10-27T11:56:37Z",
@@ -5369,39 +5390,6 @@
    "model": "opus",
    "run_id": "62cc1a4a95f0",
    "created_at": "2026-10-23T06:05:43Z"
-  },
-  {
-   "id": "f6ed48d9eb46",
-   "ts": "2026-10-23T06:00:39Z",
-   "headline": "UK retail sales growth slows to 0.8% year on year, short of the 1% forecast, as core sales fall 0.7% on the month",
-   "detail": "Official UK retail sales rose 0.8% year on year, below the 1% forecast and down from 2.4% previously. Core sales also grew 0.8% year on year against a 1.4% forecast and 2.7% previously, and fell 0.7% month on month against a forecast fall of 0.1% and a previous rise of 0.6%.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "8dc3b82d13ca220c",
-    "2d3d3dad19fbfb45",
-    "4ea9ef82fbc2ec63"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjitmgmfp26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjitmgmfp26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjiufk4mc2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjiufk4mc2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjiuivls52t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjiuivls52t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f6feedaac617",
-   "created_at": "2026-10-23T06:01:12Z"
   }
  ]
 }
