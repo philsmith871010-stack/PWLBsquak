@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T19:15:54Z",
+ "generated_at": "2026-10-27T19:45:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f5317c0376c9",
+   "ts": "2026-10-27T19:44:53Z",
+   "headline": "US Energy Secretary Wright says Russia cannot export diesel at present and the Iran war has come at a cost",
+   "detail": "The US Energy Secretary also said the Constellation Energy deal will add 1.1 gigawatts of capacity. These remarks came alongside earlier comments on US LNG exports and on flows through the Strait of Hormuz.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "8c0948af721b9647",
+    "80e87e125ecea768"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuyr4thu32z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuyr4thu32z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuyowkhd32y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuyowkhd32y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d9bbdce44440",
+   "created_at": "2026-10-27T19:45:48Z"
+  },
   {
    "id": "476bc6493528",
    "ts": "2026-10-27T19:14:44Z",
@@ -5213,27 +5240,6 @@
    "model": "opus",
    "run_id": "da3f2ba42137",
    "created_at": "2026-10-23T15:31:01Z"
-  },
-  {
-   "id": "53b3c10668c1",
-   "ts": "2026-10-23T15:12:10Z",
-   "headline": "Zelenskiy says any peace deal would need strong security guarantees and 10 years of funding for Ukraine's army",
-   "detail": "Ukraine's president set out the conditions for any peace agreement with Russia: strong security guarantees and funding for 10 years to maintain the Ukrainian army. The comments come as the Kremlin says three-way talks with the US are planned for early November.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b61e50ab50699f55"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykhnshco22l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykhnshco22l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "359af6f6b966",
-   "created_at": "2026-10-23T15:15:53Z"
   }
  ]
 }
