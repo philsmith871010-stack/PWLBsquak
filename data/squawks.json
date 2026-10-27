@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T17:10:55Z",
+ "generated_at": "2026-10-27T17:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a5dbc7d9b165",
+   "ts": "2026-10-27T17:25:30Z",
+   "headline": "Canada and the UAE sign a comprehensive trade deal",
+   "detail": "Canada's Prime Minister Mark Carney and the Crown Prince of Abu Dhabi signed the deal at a joint signing ceremony.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4d4c8cb5527022cf",
+    "992e26c1c91344b4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuqxvyouz2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuqxvyouz2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuqwplmwo2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuqwplmwo2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "471ed27760ac",
+   "created_at": "2026-10-27T17:25:41Z"
+  },
+  {
+   "id": "1e3170160ea7",
+   "ts": "2026-10-27T17:24:36Z",
+   "headline": "Trump says petrol and diesel prices will soon fall sharply as Venezuelan oil shipments begin",
+   "detail": "In posts on Truth Social, the US President said the Venezuelan cargo is the first of billions of barrels to come. He also said US energy output from Alaska to Venezuela has made the Western Hemisphere the world's energy capital.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "29cf640bbf6bc5cc",
+    "75846d416b99160a",
+    "2afd97f7df7f97b3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuqwbxcym2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuqwbxcym2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuqvekf7y2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuqvekf7y2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuqqnux3q2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuqqnux3q2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "471ed27760ac",
+   "created_at": "2026-10-27T17:25:41Z"
+  },
   {
    "id": "41132f21a55e",
    "ts": "2026-10-27T17:07:01Z",
@@ -5240,66 +5300,6 @@
    "model": "opus",
    "run_id": "5555e222e46b",
    "created_at": "2026-10-23T14:50:50Z"
-  },
-  {
-   "id": "197fcb92de60",
-   "ts": "2026-10-23T14:48:18Z",
-   "headline": "German foreign minister says Germany, France and the UK are ready to negotiate with Iran, stressing urgency to avoid escalation",
-   "detail": "Germany's foreign minister said there is great urgency to avoid a new escalation, and that Germany, France and the UK stand ready to negotiate with Iran. He also called for support for Saudi Arabia and the Yemeni government in their defence, and said there was agreement to do everything possible to allow Russian and Ukrainian grain exports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "16bf1e2c76225f40",
-    "ba887362ab1983c4",
-    "7a49f71ed483368b",
-    "ac0b5a2bc979f93d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykgd4rj6h24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykgd4rj6h24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykg7ljryy2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykg7ljryy2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykgak6ezl2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykgak6ezl2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykgger6bo2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykgger6bo2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5555e222e46b",
-   "created_at": "2026-10-23T14:50:50Z"
-  },
-  {
-   "id": "cd39f726f540",
-   "ts": "2026-10-23T14:43:14Z",
-   "headline": "EU trade chief Sefcovic says the EU's trade deficit with China could exceed the 2022 record",
-   "detail": "EU Trade Commissioner Maros Sefcovic said the bloc's trade deficit with China could surpass its 2022 record. He spoke as EU ministers seek deals with Beijing to limit Chinese imports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ac3ce658953febe7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykg22sn5y2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykg22sn5y2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "723f8287380a",
-   "created_at": "2026-10-23T14:45:50Z"
   }
  ]
 }
