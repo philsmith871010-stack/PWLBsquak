@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T16:01:59Z",
+ "generated_at": "2026-10-27T16:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "abae5559e6fe",
+   "ts": "2026-10-27T16:11:02Z",
+   "headline": "EU leans on allies as a shortfall in Ukraine funding approaches, FT reports",
+   "detail": "The Financial Times reports that the EU is pressing allied governments over an approaching gap in funding for Ukraine. The report gives no figures.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3e506b5e117e35e1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myumsq4syt22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myumsq4syt22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "77d7d04f0c6c",
+   "created_at": "2026-10-27T16:15:50Z"
+  },
   {
    "id": "06cd9720c8bf",
    "ts": "2026-10-27T16:01:11Z",
@@ -5291,33 +5312,6 @@
    "model": "opus",
    "run_id": "2c7a6ed7a847",
    "created_at": "2026-10-23T13:50:49Z"
-  },
-  {
-   "id": "b8c5bb0f80c7",
-   "ts": "2026-10-23T13:45:41Z",
-   "headline": "US flash services PMI slips to 57.9 in October from 58.8, near the 58 forecast; manufacturing edges up to 56",
-   "detail": "S&P Global's US flash services PMI came in at 57.9 against a forecast of 58 and a previous 58.8. The flash manufacturing PMI rose to 56, above the 55.5 forecast and up from 55.9.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "494bc351428ce65d",
-    "ad9faae108946131"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykct65lr526",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykct65lr526"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykctdhoml2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykctdhoml2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e4ea71efc8f4",
-   "created_at": "2026-10-23T13:45:50Z"
   }
  ]
 }
