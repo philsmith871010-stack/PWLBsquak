@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T19:45:48Z",
+ "generated_at": "2026-10-27T20:10:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f53b42943af4",
+   "ts": "2026-10-27T20:10:12Z",
+   "headline": "ECB authorises Intesa Sanpaolo to take control of Monte dei Paschi ahead of its €32bn takeover offer",
+   "detail": "Intesa Sanpaolo, Italy's biggest bank, said on Tuesday that it had received European Central Bank authorisation to take control of Monte dei Paschi di Siena, Reuters reports. The approval is a major step towards launching its €32bn ($36bn) offer.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f2d1444060939f9d"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myv26g5iwg2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3myv26g5iwg2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "da6d1686f806",
+   "created_at": "2026-10-27T20:10:51Z"
+  },
   {
    "id": "f5317c0376c9",
    "ts": "2026-10-27T19:44:53Z",
@@ -5219,27 +5240,6 @@
    "model": "opus",
    "run_id": "71fe22248203",
    "created_at": "2026-10-23T15:35:43Z"
-  },
-  {
-   "id": "c6c84f7b6e33",
-   "ts": "2026-10-23T15:26:09Z",
-   "headline": "Trump says the US will not attack Iran before the midterm elections and that talks are under way",
-   "detail": "US President Trump said the US would not strike Iran before the midterms and that talks with Tehran are in progress. The posts do not report any market reaction.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c454573c8d2ed3a5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykigsbism27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykigsbism27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "da3f2ba42137",
-   "created_at": "2026-10-23T15:31:01Z"
   }
  ]
 }
