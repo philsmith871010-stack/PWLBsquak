@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T20:10:51Z",
+ "generated_at": "2026-10-27T20:50:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5a0d825ed1e2",
+   "ts": "2026-10-27T20:50:04Z",
+   "headline": "Kremlin's Peskov says the local Ukraine ceasefire deal at first covered only a halt in fighting around one town",
+   "detail": "Kremlin spokesman Peskov said the ceasefire agreement originally provided for a period of quiet around a single town. Earlier reports said the local ceasefire had been extended beyond Oleshky in the Kherson region.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1d5d87f44f4a5ad9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myv4fpis6h2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myv4fpis6h2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b35d2892e81c",
+   "created_at": "2026-10-27T20:50:51Z"
+  },
+  {
+   "id": "81bc4ec8fd3c",
+   "ts": "2026-10-27T20:48:35Z",
+   "headline": "Chancellor Healey is preparing a £50 cut to household gas bills, Telegraph reports",
+   "detail": "The Telegraph reports that Chancellor Healey is preparing to cut household gas bills by £50. The report comes ahead of the Budget, which is due tomorrow.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "f3aa619614281e27"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myv4d2i6ka2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myv4d2i6ka2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b35d2892e81c",
+   "created_at": "2026-10-27T20:50:51Z"
+  },
   {
    "id": "f53b42943af4",
    "ts": "2026-10-27T20:10:12Z",
@@ -5168,78 +5210,6 @@
    "model": "opus",
    "run_id": "50a3fcc441a0",
    "created_at": "2026-10-23T16:11:29Z"
-  },
-  {
-   "id": "2b47c9eb5706",
-   "ts": "2026-10-23T16:01:38Z",
-   "headline": "Russian military says Oleshky ceasefire begins at 04:00 local time on 27 October for a humanitarian operation",
-   "detail": "Russia's defence ministry says the ceasefire in Russian-controlled Oleshky in the Kherson direction starts at 04:00 local time on 27 October, Interfax reports. Chief of the general staff Gerasimov says Russian forces will make sure a humanitarian convoy can move safely to Alekseyevka with essential goods.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "357af5bb945697e7",
-    "6eb043408b075bf3",
-    "5e2ed38baff796bf",
-    "8c49a995315cd59d",
-    "7dae5e3444686fb6",
-    "9306bd01ca8d9886"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykkgao4uq2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykkgao4uq2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykkgl5vtk27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykkgl5vtk27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykkidwug227",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykkidwug227"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykkiogmqo24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykkiogmqo24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykklqiuge2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykklqiuge2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykkmsyxf326",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykkmsyxf326"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bc7af7ae7591",
-   "created_at": "2026-10-23T16:05:42Z"
-  },
-  {
-   "id": "7e709e1b5c67",
-   "ts": "2026-10-23T15:35:04Z",
-   "headline": "October marks the worst month on record for attacks on commercial shipping in and around the Strait of Hormuz",
-   "detail": "Reuters reports the figure from data compiled by a Washington-based think tank that has tracked maritime security incidents worldwide since 2017.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "91d82562c1f1896b"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mykiwqmvro23",
-     "url": "https://bsky.app/profile/reuters.com/post/3mykiwqmvro23"
-    }
-   ],
-   "model": "opus",
-   "run_id": "71fe22248203",
-   "created_at": "2026-10-23T15:35:43Z"
   }
  ]
 }
