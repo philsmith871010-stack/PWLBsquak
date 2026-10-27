@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T13:40:48Z",
+ "generated_at": "2026-10-27T13:50:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9100de028754",
+   "ts": "2026-10-27T13:46:13Z",
+   "headline": "Houthis claim a ballistic missile strike on Saudi Arabia's defence ministry in Riyadh",
+   "detail": "Yemen's Houthis say they hit the Saudi defence ministry in the capital with a ballistic missile, following their earlier claim of a strike on the Ras Tanura refinery. Saudi Arabia has not confirmed the attack.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "97bd8b5326e33935",
+    "da28a0905cc7cc59",
+    "eba85adbd4d3fcde"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myueprnnsf2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myueprnnsf2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myueqq3q6l22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myueqq3q6l22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuexzcpdv25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuexzcpdv25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "74166fae60d9",
+   "created_at": "2026-10-27T13:50:51Z"
+  },
   {
    "id": "b8cce452892e",
    "ts": "2026-10-27T13:36:28Z",
@@ -5273,27 +5306,6 @@
    "model": "opus",
    "run_id": "3f9259eb4157",
    "created_at": "2026-10-23T08:35:39Z"
-  },
-  {
-   "id": "065fe2905c4c",
-   "ts": "2026-10-23T08:30:59Z",
-   "headline": "UK flash services PMI rises to 53.1 in October from 52.1, well above the 51.8 forecast",
-   "detail": "The flash UK services PMI for October came in at 53.1, against a forecast of 51.8 and a previous reading of 52.1.",
-   "category": "data",
-   "importance": 3,
-   "source_event_ids": [
-    "e0b5c70d91e01d89"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjragqk2y2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjragqk2y2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8f1b39f61293",
-   "created_at": "2026-10-23T08:31:03Z"
   }
  ]
 }
