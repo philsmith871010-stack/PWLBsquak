@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T18:05:46Z",
+ "generated_at": "2026-10-27T18:20:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "642549b40fb9",
+   "ts": "2026-10-27T18:20:20Z",
+   "headline": "US Energy Secretary Wright says more refined products are moving out through the Strait of Hormuz",
+   "detail": "US Energy Secretary Chris Wright said refined product flows from the Strait of Hormuz have risen. He did not give any figures, and no market reaction was reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "ce4b18af07957f08"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myutzx5wad2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myutzx5wad2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "be29049a006b",
+   "created_at": "2026-10-27T18:20:49Z"
+  },
   {
    "id": "d6cd88c1b003",
    "ts": "2026-10-27T18:03:34Z",
@@ -5279,27 +5300,6 @@
    "model": "opus",
    "run_id": "7339fd8fe985",
    "created_at": "2026-10-23T15:01:17Z"
-  },
-  {
-   "id": "19c4136cc0dd",
-   "ts": "2026-10-23T14:51:56Z",
-   "headline": "Turkish foreign minister says no one backs a fresh attack on Iran and that diplomacy is the only route",
-   "detail": "Turkey's foreign minister spoke after talks with regional and European counterparts. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "8f343d30d40cc46c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykgjmavvz27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykgjmavvz27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "da8d30ce7687",
-   "created_at": "2026-10-23T14:55:41Z"
   }
  ]
 }
