@@ -1,8 +1,71 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T10:15:53Z",
+ "generated_at": "2026-10-27T10:25:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "73496e53a43e",
+   "ts": "2026-10-27T10:24:31Z",
+   "headline": "Kremlin says Putin, Stubb and Støre discussed the Oleshky ceasefire and agreed to keep direct contact",
+   "detail": "The Kremlin said the leaders of Finland and Norway requested the call, which covered settling the war in Ukraine, the Oleshky ceasefire and upcoming meetings in Abu Dhabi, TASS reported. Denmark's prime minister was reported as saying she is very sceptical about Norway and Finland talking to Putin.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e679f3efb6f06262",
+    "75939cade982fe42",
+    "308a2e45c47bc30a",
+    "364b81471138a645",
+    "25f997f537c8d60a",
+    "6acf9b3fd4d717f9",
+    "06f1d5c3030e399d",
+    "a97d594b87fc1c4c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytzbbcmow2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytzbbcmow2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytzbbxckx2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytzbbxckx2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytzc3rdky24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytzc3rdky24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytzdrucbo22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytzdrucbo22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytzdutksy25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytzdutksy25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytzh4eooa2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytzh4eooa2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytzhzi5j22a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytzhzi5j22a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytzeoacvc2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytzeoacvc2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c4dad70c6655",
+   "created_at": "2026-10-27T10:25:49Z"
+  },
   {
    "id": "14a7d7326f66",
    "ts": "2026-10-27T10:14:37Z",
@@ -5531,27 +5594,6 @@
    "model": "opus",
    "run_id": "c0aae0189dc0",
    "created_at": "2026-10-23T05:01:14Z"
-  },
-  {
-   "id": "3396faa745b0",
-   "ts": "2026-10-22T21:50:10Z",
-   "headline": "UK banking watchdog to review how financial regulation affects investment, capital and growth, Reuters reports",
-   "detail": "Reuters reports that the new UK banking watchdog will examine the effect of its rules on competitiveness, with more focus on transparency and on an objective to promote competition.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "ecb64f8501a097d2"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myingktcoq2v",
-     "url": "https://bsky.app/profile/reuters.com/post/3myingktcoq2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7bae97e88a39",
-   "created_at": "2026-10-22T21:50:49Z"
   }
  ]
 }
