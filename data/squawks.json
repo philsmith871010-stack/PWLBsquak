@@ -1,8 +1,146 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-26T22:50:50Z",
+ "generated_at": "2026-10-27T06:01:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6210cd6551f2",
+   "ts": "2026-10-27T01:00:37Z",
+   "headline": "Russia-Ukraine ceasefire in Oleshky takes effect; Russia suspends strikes on Kherson",
+   "detail": "The local ceasefire in Oleshky came into force, according to reports. Russia's Defence Ministry said it has suspended strikes on Ukraine's Kherson.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d5eaa6da4ddd3a07",
+    "2d1c772db79b6bc0",
+    "52a7435a667b532f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myszwsl4ij24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myszwsl4ij24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myt24yuf3325",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myt24yuf3325"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myt2akpf3j25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myt2akpf3j25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c13ede63d6f7",
+   "created_at": "2026-10-27T06:01:15Z"
+  },
+  {
+   "id": "aca92fad403a",
+   "ts": "2026-10-27T00:01:00Z",
+   "headline": "UK BRC shop price inflation rises to 2.1% in the year to October from 1.4% in September",
+   "detail": "The British Retail Consortium's figures put annual shop price inflation at 2.1% in October, up from 1.4% in September. Retailers told the Chancellor that discounting is no longer holding back price rises, City AM reports.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "8b38b488f0605ba4"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3myswx55tfo22",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3myswx55tfo22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c13ede63d6f7",
+   "created_at": "2026-10-27T06:01:15Z"
+  },
+  {
+   "id": "dbf23ee758f7",
+   "ts": "2026-10-26T23:18:42Z",
+   "headline": "USTR Greer warns EIB loan to Airbus may breach the US-EU trade truce and aircraft agreement",
+   "detail": "US Trade Representative Jamieson Greer said the European Investment Bank's loan to Airbus may violate the US-EU trade truce. He said US concerns need to be resolved quickly to avoid breaching the large civil aircraft agreement, the FT also reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6b4f80bcdeeefa11",
+    "a6685df475e2e699"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mysuak32qg2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mysuak32qg2y"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myswmsmz2a2k",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myswmsmz2a2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c13ede63d6f7",
+   "created_at": "2026-10-27T06:01:15Z"
+  },
+  {
+   "id": "5160583e005b",
+   "ts": "2026-10-26T23:01:24Z",
+   "headline": "South Korea Q3 GDP grows 1.0% q/q and 3.4% y/y, beating poll forecasts",
+   "detail": "The Bank of Korea's advance estimate shows Q3 GDP up 1.0% on the quarter against a 0.7% poll, and up 3.4% on the year against 3.0%. Private consumption fell 0.2% q/q. A BoK official said the Q3 figure adds 0.35 percentage points to this year's growth forecast.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1ae76b63a9ba523a",
+    "98918cd874683c73",
+    "78066ef5b9605dad",
+    "09bed4c43e9c4b71",
+    "f34bdfb50d770a8a",
+    "4208bd7e3bd04dde",
+    "6286fd101291a253"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mystblyxi32p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mystblyxi32p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mystbpbk5t2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mystbpbk5t2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mystadu4b52d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mystadu4b52d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mystb6zofr2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mystb6zofr2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mystbvotrq2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mystbvotrq2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mysxkimcru2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mysxkimcru2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mysxo7pulk2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mysxo7pulk2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c13ede63d6f7",
+   "created_at": "2026-10-27T06:01:15Z"
+  },
   {
    "id": "205714182b7d",
    "ts": "2026-10-26T22:47:03Z",
@@ -5324,96 +5462,6 @@
    "model": "opus",
    "run_id": "82222da8399d",
    "created_at": "2026-10-22T16:31:02Z"
-  },
-  {
-   "id": "ecae7218c395",
-   "ts": "2026-10-22T16:21:16Z",
-   "headline": "ECB's Pereira calls for Europe to deepen its single market",
-   "detail": "ECB official Pereira said the European single market needs to be deepened. The reported remarks did not touch on interest rates.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "9bf5617b4d1a1c95",
-    "9da6891ab807dcc1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myi32glw7e2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myi32glw7e2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myi3acmp7j2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myi3acmp7j2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "32d4bde49295",
-   "created_at": "2026-10-22T16:25:44Z"
-  },
-  {
-   "id": "f64618681788",
-   "ts": "2026-10-22T16:14:12Z",
-   "headline": "Russian government says gasoline and diesel output has risen and fuel reserves are being built up",
-   "detail": "Interfax reported the Russian government's statement that gasoline and diesel production has increased and that fuel reserves are being built up. The statement gave no figures.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "33eeec2ef5a2b131"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myi2nsj3tl2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myi2nsj3tl2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c7da22f720a1",
-   "created_at": "2026-10-22T16:15:56Z"
-  },
-  {
-   "id": "f8a28376ee1d",
-   "ts": "2026-10-22T16:10:38Z",
-   "headline": "Qatar says it is seeking more LNG deals with buyers outside the Middle East",
-   "detail": "Qatar said it is looking for additional liquefied natural gas supply deals beyond the Middle East region. No volumes or counterparties were given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "507b9cb3e85d591d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myi2hgubqt2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myi2hgubqt2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4e41aaa81aff",
-   "created_at": "2026-10-22T16:10:48Z"
-  },
-  {
-   "id": "0402db9a8603",
-   "ts": "2026-10-22T16:02:56Z",
-   "headline": "French 10-year yield moves 50bp above Italy's for the first time",
-   "detail": "The French 10-year bond yield spread over Italian equivalents reached 50bp for the first time, market reports said. The move comes as France's premium over Bunds hits 15-year highs.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "3ce27621e9d06c0d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myhzznid3l24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myhzznid3l24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6f237358086e",
-   "created_at": "2026-10-22T16:05:41Z"
   }
  ]
 }
