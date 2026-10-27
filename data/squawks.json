@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T11:01:20Z",
+ "generated_at": "2026-10-27T11:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f114987f45bb",
+   "ts": "2026-10-27T11:02:48Z",
+   "headline": "Russia's Novak says Moscow is ready to resume gas supplies to European countries if they want them",
+   "detail": "Russian Deputy Prime Minister Alexander Novak said Russia was prepared to restart gas deliveries to Europe should European countries wish. No market reaction was reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "b395fc2e46fa0e35"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu3llczvr22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu3llczvr22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4bd0ab404124",
+   "created_at": "2026-10-27T11:05:40Z"
+  },
   {
    "id": "7b317e150eba",
    "ts": "2026-10-27T11:01:10Z",
@@ -5430,57 +5451,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiwrshsrb2l",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiwrshsrb2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5e94a84c7fd8",
-   "created_at": "2026-10-23T05:05:43Z"
-  },
-  {
-   "id": "376cb6812ade",
-   "ts": "2026-10-23T00:09:44Z",
-   "headline": "JGB yields fall in early Tokyo trade, with the 10-year down 7bp at 2.810%",
-   "detail": "The 5-year JGB yield fell 8bp to 2.210% and the 20-year fell 6bp to 3.620%, while 10-year JGB futures gained 0.6 point. Asia-Pacific equities opened lower amid moves into safe-haven assets.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "a8d838b030feae3d",
-    "923df950037eb67b",
-    "d7230c8b8f4f2b73",
-    "8329eaa102bbea85",
-    "8bab4a5a6cdfb552",
-    "3eed8428f68dd583"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiva4id3p2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiva4id3p2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myivfo4nqo26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myivfo4nqo26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myivgyt3uk2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myivgyt3uk2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myixl7utih24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myixl7utih24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myitxp2apl27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myitxp2apl27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myivyrm3qd2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myivyrm3qd2v"
     }
    ],
    "model": "opus",
