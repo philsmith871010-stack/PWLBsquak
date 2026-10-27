@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T15:40:53Z",
+ "generated_at": "2026-10-27T15:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "38e093d2ee4e",
+   "ts": "2026-10-27T15:44:22Z",
+   "headline": "Kremlin aide says Putin told Stubb and Støre that Zelenskyy may visit Moscow and security would be guaranteed",
+   "detail": "Kremlin aide Ushakov said Putin confirmed in his call with Finland's Stubb and Norway's Støre that Zelenskyy may visit Moscow. According to Ushakov, Putin said all necessary conditions for such a visit, including security, would be provided.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d9a6e42ba1e815b4",
+    "5fca4f2104b534b6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuld2slpp2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuld2slpp2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myulern4s62d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myulern4s62d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b8c76bc9260e",
+   "created_at": "2026-10-27T15:45:51Z"
+  },
   {
    "id": "2674f8fe1771",
    "ts": "2026-10-27T15:39:43Z",
@@ -5304,39 +5331,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykarbhgy326",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykarbhgy326"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4fcf150fe2f9",
-   "created_at": "2026-10-23T13:10:49Z"
-  },
-  {
-   "id": "ab08ea76a564",
-   "ts": "2026-10-23T13:07:37Z",
-   "headline": "Algeria tells urea fertiliser producers to halt supplies to France as France raises Algerian trade curbs at EU level, sources say",
-   "detail": "Sources say Algeria has instructed urea producers to stop supplying France, following an informal ban on imports of French products in place since July. France has taken the issue of Algerian trade restrictions to EU level, according to the same sources.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a6f01fdf623c3ab3",
-    "5b5b1a2cb499f092",
-    "122dd6e60fff963c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykap3tfl52k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykap3tfl52k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykaodz37g2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykaodz37g2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykaorfnws26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykaorfnws26"
     }
    ],
    "model": "opus",
