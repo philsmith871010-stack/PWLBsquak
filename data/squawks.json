@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T12:35:41Z",
+ "generated_at": "2026-10-27T12:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c62842222ebe",
+   "ts": "2026-10-27T12:37:53Z",
+   "headline": "US 10-year Treasury yield edges up 0.86bp to 4.995% after US data; 30-year flat at 5.304%",
+   "detail": "US Treasury yields moved after the release of US economic data. The 10-year yield was last up 0.86bp at 4.995%, while the 30-year yield was last unchanged at 5.304%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "3df9ab332b49d8b1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuavlpoyn2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuavlpoyn2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3f8fb69676d7",
+   "created_at": "2026-10-27T12:40:50Z"
+  },
   {
    "id": "64f750769e71",
    "ts": "2026-10-27T12:35:00Z",
@@ -5285,45 +5306,6 @@
    "model": "opus",
    "run_id": "c1d55ef192b4",
    "created_at": "2026-10-23T08:01:15Z"
-  },
-  {
-   "id": "dbf0f3eb4c15",
-   "ts": "2026-10-23T07:30:55Z",
-   "headline": "German flash composite PMI falls to 52.8 in October from 53.8 as services slip to 51.7, while manufacturing rises to 54.2",
-   "detail": "Germany's October flash composite PMI came in at 52.8, below the 53.4 forecast, and services fell to 51.7 from 52.9 against a 52.5 forecast. Manufacturing beat expectations at 54.2, up from 53.9, with 53.5 forecast.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "14e00fc097097da1",
-    "8a254f777dac3b95",
-    "0ff6080506077bc1",
-    "148829f1fb1db0e7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjnuwvcs62l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjnuwvcs62l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjnuz4kj42l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjnuz4kj42l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjnv3el2q2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjnv3el2q2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjnv5m5yu2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjnv5m5yu2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9ff025e683e4",
-   "created_at": "2026-10-23T07:31:03Z"
   }
  ]
 }
