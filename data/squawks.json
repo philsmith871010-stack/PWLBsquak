@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T13:05:45Z",
+ "generated_at": "2026-10-27T13:10:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b810c409064c",
+   "ts": "2026-10-27T13:10:31Z",
+   "headline": "US set to approve three more wind projects, Punchbowl reports",
+   "detail": "Punchbowl reports that the US administration will approve three more wind power projects. No other details were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "e8cd7b43711f2675"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myucpxrdsa2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myucpxrdsa2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "74bc357f74e2",
+   "created_at": "2026-10-27T13:10:50Z"
+  },
   {
    "id": "254dbf082c55",
    "ts": "2026-10-27T13:01:32Z",
@@ -5285,27 +5306,6 @@
    "model": "opus",
    "run_id": "d3210435e029",
    "created_at": "2026-10-23T08:25:42Z"
-  },
-  {
-   "id": "013aa5569c3f",
-   "ts": "2026-10-23T08:17:36Z",
-   "headline": "Brent hits $114 a barrel for the first time since May as AI worries weigh on global stocks, FT reports",
-   "detail": "The FT reports oil has reached $114 a barrel for the first time since May, while global equities have been hit by concerns over the AI boom. European and US markets are reported to be steadier.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "f900f42ce1cf9f74"
-   ],
-   "sources": [
-    {
-     "author": "iankmsmith.ft.com",
-     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3myjqiisjls24",
-     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3myjqiisjls24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b2855b6013b0",
-   "created_at": "2026-10-23T08:20:51Z"
   }
  ]
 }
