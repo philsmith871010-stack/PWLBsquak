@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T13:50:51Z",
+ "generated_at": "2026-10-27T14:01:32Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9373fa958a46",
+   "ts": "2026-10-27T14:01:29Z",
+   "headline": "US new home sales fall 0.6% m/m, a smaller drop than the 4.5% decline forecast",
+   "detail": "US new home sales fell 0.6% on the month, against a forecast fall of 4.5%. The previous month showed a 6.4% rise.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b8b50d955f80c2f2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myufl3v3fx2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myufl3v3fx2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8876c8c78efd",
+   "created_at": "2026-10-27T14:01:32Z"
+  },
+  {
+   "id": "82b7944c2324",
+   "ts": "2026-10-27T14:00:43Z",
+   "headline": "US Conference Board consumer confidence jumps to 91.7 in October, well above the 81.0 forecast",
+   "detail": "The Conference Board's October consumer confidence index came in at 91.7 against a consensus of 81.0. September's reading was revised up to 84.2 from 81.9.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "cd8b3692d48fc488",
+    "e5e08490a69c43ea",
+    "4908dd41786599d7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myufjpgrqh2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myufjpgrqh2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myufk25zfj2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myufk25zfj2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myufkdmre522",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myufkdmre522"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8876c8c78efd",
+   "created_at": "2026-10-27T14:01:32Z"
+  },
   {
    "id": "9100de028754",
    "ts": "2026-10-27T13:46:13Z",
@@ -5240,72 +5294,6 @@
    "model": "opus",
    "run_id": "ab0c679c66c1",
    "created_at": "2026-10-23T09:20:54Z"
-  },
-  {
-   "id": "ff9e94e7b80d",
-   "ts": "2026-10-23T09:11:33Z",
-   "headline": "GfK links October slump in UK consumer confidence to the cost of living, inflation and Iran; morale and big-purchase gauges lead the fall",
-   "detail": "The drop in GfK's UK consumer confidence index came mainly from its general economic outlook and major purchase components. A post noted that a fall this large has happened in only six months over the past 52 years.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "007da9b63c5c39ae"
-   ],
-   "sources": [
-    {
-     "author": "bruceandy.bsky.social",
-     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3myjtix6gvs23",
-     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3myjtix6gvs23"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f386a9faca17",
-   "created_at": "2026-10-23T09:15:52Z"
-  },
-  {
-   "id": "7de464ef82a6",
-   "ts": "2026-10-23T08:31:16Z",
-   "headline": "UK flash composite PMI climbs to 53.1 in October from 52.0, beating the 51.7 forecast; manufacturing rises to 52.8",
-   "detail": "The October flash composite PMI came in at 53.1, against a forecast of 51.7 and 52.0 the previous month. The flash manufacturing PMI rose to 52.8 from 51.9, also above the 51.8 forecast.",
-   "category": "data",
-   "importance": 3,
-   "source_event_ids": [
-    "4d6d1e1f7c2ee5b3",
-    "8fc7f24a486eb248",
-    "1d325aa71cc3a57b",
-    "2075611186501030",
-    "aca8f7d3322b2472"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjram6u6y2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjram6u6y2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjrax45wi2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjrax45wi2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjrc3qimg2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjrc3qimg2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjrbcvvv526",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjrbcvvv526"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjrf6s2go26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjrf6s2go26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3f9259eb4157",
-   "created_at": "2026-10-23T08:35:39Z"
   }
  ]
 }
