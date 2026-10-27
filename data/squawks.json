@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T15:15:55Z",
+ "generated_at": "2026-10-27T15:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1fec9052910a",
+   "ts": "2026-10-27T15:34:59Z",
+   "headline": "US Treasury sells $54bn of 52-week bills at a 4.29% high yield, down from 4.400% previously; bid-to-cover 3.15",
+   "detail": "The US 52-week bill auction cleared at a high yield of 4.29%, against 4.400% at the previous sale, with bid-to-cover of 3.15 against 3.070. 65.33% of bids at the high yield were allotted.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ea425c0d159552c6",
+    "441c07a8b49e1d36",
+    "e02f07d8091988c5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuksbmrny2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuksbmrny2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myukovk6ao2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myukovk6ao2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myukpkiq7j25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myukpkiq7j25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "41d060f792e2",
+   "created_at": "2026-10-27T15:35:44Z"
+  },
   {
    "id": "b551eb428782",
    "ts": "2026-10-27T15:12:40Z",
@@ -5303,27 +5336,6 @@
    "model": "opus",
    "run_id": "4fcf150fe2f9",
    "created_at": "2026-10-23T13:10:49Z"
-  },
-  {
-   "id": "517319992e3d",
-   "ts": "2026-10-23T13:05:17Z",
-   "headline": "WTI crude extends gains, rising more than $2 to $101.62 a barrel on worries over Middle East escalation",
-   "detail": "US WTI futures climbed by more than $2 a barrel to $101.62, adding to gains as concern grew over rising tension in the Middle East. In the previous session WTI settled at $99.47 and Brent at $113.17.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "7bf4e26072bb6933"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykakvphxk2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykakvphxk2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bf635f66d450",
-   "created_at": "2026-10-23T13:05:53Z"
   }
  ]
 }
