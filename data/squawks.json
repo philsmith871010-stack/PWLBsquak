@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T14:05:43Z",
+ "generated_at": "2026-10-27T14:25:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "06cbab8f6a27",
+   "ts": "2026-10-27T14:23:38Z",
+   "headline": "Finland's Stubb says he passed on Ukraine's messages to Putin and that the US and Ukraine asked Finland and Norway to do more",
+   "detail": "Finnish President Stubb said he relayed messages from Ukraine during his call with Putin. He said the US and Ukraine had asked Norway and Finland to take a more active role in efforts to end the war.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0c4b2aac2e5502c6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myugsorx532f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myugsorx532f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4873b44f26b0",
+   "created_at": "2026-10-27T14:25:46Z"
+  },
   {
    "id": "d23136d7d215",
    "ts": "2026-10-27T14:05:34Z",
@@ -5285,27 +5306,6 @@
    "model": "opus",
    "run_id": "bf7802c572b4",
    "created_at": "2026-10-23T09:40:46Z"
-  },
-  {
-   "id": "72d47f73d09a",
-   "ts": "2026-10-23T09:22:36Z",
-   "headline": "Trump administration ends programme that rewarded allies for aligning with US export controls",
-   "detail": "A market news account reports that the US administration has halted a programme that rewarded allied countries for aligning with US export controls. No further details or market reaction were reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4d44b94341616dc3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myju4qi2es2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myju4qi2es2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a4760cc42030",
-   "created_at": "2026-10-23T09:25:42Z"
   }
  ]
 }
