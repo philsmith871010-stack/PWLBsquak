@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T11:25:38Z",
+ "generated_at": "2026-10-27T11:31:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "89b513047260",
+   "ts": "2026-10-27T11:31:04Z",
+   "headline": "Putin describes the sabotage of the Nord Stream pipelines as direct acts of terrorism",
+   "detail": "Russian President Vladimir Putin called the attacks on the Nord Stream gas pipelines direct acts of terrorism. Earlier, Deputy Prime Minister Novak said Russia was ready to resume gas supplies to Europe. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f017327a4d57c4cf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu5655n4t22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu5655n4t22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a2ed9553574c",
+   "created_at": "2026-10-27T11:31:08Z"
+  },
   {
    "id": "98c53db13bdb",
    "ts": "2026-10-27T11:24:55Z",
@@ -5358,39 +5379,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjfkqpuef25",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjfkqpuef25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "00ab8cb1b1e8",
-   "created_at": "2026-10-23T05:15:48Z"
-  },
-  {
-   "id": "f67d9aa5bb4f",
-   "ts": "2026-10-23T04:35:48Z",
-   "headline": "US envoy Waltz says the US can keep its Iran blockade in place for the foreseeable future and presses Tehran for a nuclear deal",
-   "detail": "In an interview with the FT, Mike Waltz, US ambassador to the UN, said the US is ready for a long stand-off with Iran. He warned that Tehran must reach a meaningful agreement on its nuclear programme.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "dfcfc0fdfbcbbb91",
-    "8244de2c758ba7cc",
-    "76b5c50d2495a15a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjcpf7ngg25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjcpf7ngg25"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myjdrsvx742w",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myjdrsvx742w"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myje3ukfb52i",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myje3ukfb52i"
     }
    ],
    "model": "opus",
