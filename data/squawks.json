@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T06:15:51Z",
+ "generated_at": "2026-10-27T07:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0603e15b09dd",
+   "ts": "2026-10-27T07:15:46Z",
+   "headline": "China's foreign ministry urges EU not to misuse trade remedy tools as Brussels plans trade measures",
+   "detail": "Responding to EU plans for trade measures, China's foreign ministry said it regards China-EU trade ties as a partnership. It said it hopes the EU will not abuse its trade remedy tools.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5ee080dde73da3e3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytovmfpzn25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytovmfpzn25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "14a5d0251b24",
+   "created_at": "2026-10-27T07:15:50Z"
+  },
   {
    "id": "339a1250cb72",
    "ts": "2026-10-27T06:13:11Z",
@@ -5555,27 +5576,6 @@
    "model": "opus",
    "run_id": "39a85f69a190",
    "created_at": "2026-10-22T18:31:13Z"
-  },
-  {
-   "id": "8138af419c7a",
-   "ts": "2026-10-22T18:25:05Z",
-   "headline": "Egypt urges talks on Yemen as its parliament prepares to vote on military support for Saudi Arabia against the Houthis",
-   "detail": "Egypt's foreign minister said Cairo favours pursuing every diplomatic option to end the Yemen conflict, Reuters reports. The parliament votes next week on whether to authorise the armed forces to support Saudi Arabia against the Iran-aligned Houthis.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d25731d1abecf70e"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myibxtk24j2g",
-     "url": "https://bsky.app/profile/reuters.com/post/3myibxtk24j2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "33f1e06e2059",
-   "created_at": "2026-10-22T18:25:41Z"
   }
  ]
 }
