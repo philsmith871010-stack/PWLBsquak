@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T14:45:50Z",
+ "generated_at": "2026-10-27T15:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7ca322ad5270",
+   "ts": "2026-10-27T15:05:15Z",
+   "headline": "Ukraine's foreign minister says the Oleshky ceasefire could serve as a confidence-building step in peace talks",
+   "detail": "Ukraine's foreign minister also said Kyiv coordinated the call that the Finnish and Norwegian leaders held with Putin.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5206c0866c36e99f",
+    "f80c703f36f68600"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuj54c7g525",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuj54c7g525"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuj32giw42f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuj32giw42f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2fd1b4e73236",
+   "created_at": "2026-10-27T15:05:43Z"
+  },
+  {
+   "id": "5f60372ebfb7",
+   "ts": "2026-10-27T15:03:23Z",
+   "headline": "Russia's Lavrov expects the Ukraine conflict to continue and probably escalate; says the Finland and Norway call with Putin offered…",
+   "detail": "Russian Foreign Minister Lavrov said Europe wants a role in the negotiations, and that the Finnish and Norwegian leaders brought nothing new to their call with Putin, according to Interfax. He also said the Russia-US diesel deal is a purely commercial agreement with no extra conditions.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "563cb33be8223513",
+    "6850d55f89d1ee21",
+    "a1129e1a0b3af645"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuizrauib24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuizrauib24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuizyx2cx25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuizyx2cx25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuj436iph2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuj436iph2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2fd1b4e73236",
+   "created_at": "2026-10-27T15:05:43Z"
+  },
   {
    "id": "e14ecafc8d98",
    "ts": "2026-10-27T14:42:49Z",
@@ -5264,48 +5324,6 @@
    "model": "opus",
    "run_id": "8c0692d70ac2",
    "created_at": "2026-10-23T12:10:55Z"
-  },
-  {
-   "id": "d3e5860496cc",
-   "ts": "2026-10-23T12:00:10Z",
-   "headline": "EU ministers seek deals with Beijing to limit Chinese imports in chemicals, machinery and pharmaceuticals",
-   "detail": "EU ministers said on Friday that the bloc should pursue agreements with China to curb imports in several sectors, calling the goods trade deficit with China unsustainable and damaging, Reuters reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9ef469126a63690b"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myk4wi5kx72n",
-     "url": "https://bsky.app/profile/reuters.com/post/3myk4wi5kx72n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3539555129e8",
-   "created_at": "2026-10-23T12:01:18Z"
-  },
-  {
-   "id": "0fa1438b7da2",
-   "ts": "2026-10-23T11:33:36Z",
-   "headline": "Reuters dealer poll sees 2026/27 gilt sales raised by £3.4bn to £249.6bn, with long-dated share lowest since 1990",
-   "detail": "Bond dealers polled by Reuters ahead of the Budget also see 2026/27 T-bill sales up £5bn to £10bn, public sector net borrowing up about £15bn in both 2026/27 and 2027/28, and headroom of £15bn.",
-   "category": "supply",
-   "importance": 2,
-   "source_event_ids": [
-    "3ef4bdf61124b1f7"
-   ],
-   "sources": [
-    {
-     "author": "davidmilliken.bsky.social",
-     "uri": "at://did:plc:cnkav2txgxnskbjf2f564bjl/app.bsky.feed.post/3myk3gxds322e",
-     "url": "https://bsky.app/profile/davidmilliken.bsky.social/post/3myk3gxds322e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8d86f87e5ac2",
-   "created_at": "2026-10-23T11:35:46Z"
   }
  ]
 }
