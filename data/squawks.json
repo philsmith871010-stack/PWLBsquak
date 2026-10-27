@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T12:20:49Z",
+ "generated_at": "2026-10-27T12:25:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4cfe7530337d",
+   "ts": "2026-10-27T12:20:48Z",
+   "headline": "Norway's Støre says his views on Ukraine match those of the coalition of the willing",
+   "detail": "Norway's prime minister made the remark after his phone call with Putin, held with Finland's Stubb, about efforts to end the war in Ukraine.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "93745334a2e581e7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu7x2bvb22b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu7x2bvb22b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "329bf8bc145f",
+   "created_at": "2026-10-27T12:25:46Z"
+  },
   {
    "id": "50766bf3b6f7",
    "ts": "2026-10-27T12:16:46Z",
@@ -5351,27 +5372,6 @@
    "model": "opus",
    "run_id": "0490f0597728",
    "created_at": "2026-10-23T06:10:51Z"
-  },
-  {
-   "id": "b7120ca601e6",
-   "ts": "2026-10-23T06:04:04Z",
-   "headline": "BoJ Financial Stability Report finds Japan's financial system broadly stable, with no major imbalances",
-   "detail": "The Bank of Japan published its latest Financial Stability Report, which judged the financial system broadly stable and found no major imbalances.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4dc2d53a370d32ab"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjizqcetq25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjizqcetq25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "62cc1a4a95f0",
-   "created_at": "2026-10-23T06:05:43Z"
   }
  ]
 }
