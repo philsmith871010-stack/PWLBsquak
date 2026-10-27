@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T10:05:41Z",
+ "generated_at": "2026-10-27T10:15:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "14a7d7326f66",
+   "ts": "2026-10-27T10:14:37Z",
+   "headline": "Qatar's foreign ministry says Iran must halt threats to Gulf states and reopen the Strait of Hormuz for mediation to work",
+   "detail": "A spokesperson for Qatar's foreign ministry said Iran needs to demonstrate good intentions and stop threatening Arab Gulf states. The spokesperson also said Tehran must open the Strait of Hormuz for mediation efforts to succeed.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "80a4e77ef3d0c20a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytyvgbvrw22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytyvgbvrw22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3f160660060c",
+   "created_at": "2026-10-27T10:15:53Z"
+  },
   {
    "id": "75673574e42d",
    "ts": "2026-10-27T10:05:10Z",
@@ -5531,39 +5552,6 @@
    "model": "opus",
    "run_id": "7bae97e88a39",
    "created_at": "2026-10-22T21:50:49Z"
-  },
-  {
-   "id": "434f0415a90b",
-   "ts": "2026-10-22T20:44:45Z",
-   "headline": "Trump invokes the Defense Production Act to expand US petroleum capacity",
-   "detail": "The US president invoked the Defense Production Act for petroleum capacity, waived the Act's section 303 rules to expand oil capacity and sent a memo on the matter to Defense Secretary Hegseth, according to market news posts.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "23cb8d1cae778790",
-    "5dba26a9ec6adbfb",
-    "a5fb81c21115c638"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myijrlnine2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myijrlnine2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myijrosajv27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myijrosajv27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myijspucph25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myijspucph25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "35347845f72d",
-   "created_at": "2026-10-22T20:45:57Z"
   }
  ]
 }
