@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T12:45:47Z",
+ "generated_at": "2026-10-27T13:01:16Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "48b47ebd9104",
+   "ts": "2026-10-27T12:58:49Z",
+   "headline": "British Business Bank and National Wealth Fund set for a boost in Healey's Budget, Observer reports",
+   "detail": "The Observer reports that public finance institutions, including the British Business Bank and the National Wealth Fund, are due to get extra support in the Chancellor's Budget. The report gives no figures.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "d34782c3521e5abb"
+   ],
+   "sources": [
+    {
+     "author": "benzaranko.bsky.social",
+     "uri": "at://did:plc:kehpugaokgf2xoovbavfsnad/app.bsky.feed.post/3myuc2z5pdc2i",
+     "url": "https://bsky.app/profile/benzaranko.bsky.social/post/3myuc2z5pdc2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3295f360c29d",
+   "created_at": "2026-10-27T13:01:16Z"
+  },
   {
    "id": "9204354a9d44",
    "ts": "2026-10-27T12:40:51Z",
@@ -5279,33 +5300,6 @@
    "model": "opus",
    "run_id": "dc93160beb54",
    "created_at": "2026-10-23T08:15:50Z"
-  },
-  {
-   "id": "87b8af825c9f",
-   "ts": "2026-10-23T08:01:25Z",
-   "headline": "ECB consumer survey shows 12-month inflation expectations rise to 3.1% in September; 3-year expectations stay at 2.9%",
-   "detail": "The ECB's consumer expectations survey has 12-month-ahead inflation expectations at 3.1% in September, up from 3.0% in August. Expectations three years ahead are unchanged at 2.9%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "2d1583405de2686e",
-    "e72e57fd8a9aefdd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjpll2edn27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjpll2edn27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjplpwocw2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjplpwocw2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7eba6340f50e",
-   "created_at": "2026-10-23T08:05:42Z"
   }
  ]
 }
