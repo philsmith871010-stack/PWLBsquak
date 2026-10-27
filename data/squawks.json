@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T16:35:45Z",
+ "generated_at": "2026-10-27T16:50:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4aa79995a3f4",
+   "ts": "2026-10-27T16:47:01Z",
+   "headline": "Iran's President Pezeshkian tells Putin the region can resolve its problems without the US",
+   "detail": "Iran's president made the remarks during talks with Russia's president in Moscow, Tasnim reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "efced6fc35b71b7d",
+    "753cf710fb23cab4",
+    "75f12b4637959562"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuot3racl25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuot3racl25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuoychi6n2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuoychi6n2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuorbsv3q2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuorbsv3q2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "36962be4ebbd",
+   "created_at": "2026-10-27T16:50:52Z"
+  },
   {
    "id": "7783d80e8113",
    "ts": "2026-10-27T16:33:39Z",
@@ -5273,33 +5306,6 @@
    "model": "opus",
    "run_id": "17389a586f20",
    "created_at": "2026-10-23T14:05:53Z"
-  },
-  {
-   "id": "e1ddd659e45c",
-   "ts": "2026-10-23T14:00:53Z",
-   "headline": "US University of Michigan final October consumer sentiment comes in at 48, above the 46.3 forecast",
-   "detail": "The final October reading of University of Michigan consumer sentiment was 48, against a forecast of 46.3. The expectations index was 48.8, above the 47.1 forecast and up from 47.3 previously.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "5c578aaa08d256ba",
-    "3e83970c91de19d0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykdodmzp52l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykdodmzp52l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykdom4llv2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykdom4llv2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2051a9d963df",
-   "created_at": "2026-10-23T14:01:20Z"
   }
  ]
 }
