@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T11:35:40Z",
+ "generated_at": "2026-10-27T11:40:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "46010a6f2de3",
+   "ts": "2026-10-27T11:37:01Z",
+   "headline": "Putin says Russia is open to gas cooperation and is looking at working with US partners, including in the Arctic",
+   "detail": "Russian President Vladimir Putin said Russia is open to cooperation in the gas sector and is looking into possible joint work with partners from the US, including in the Arctic. No market reaction was reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "54f7b9bf01ea881f",
+    "5aea863fa65d0843",
+    "48ad3d129e5fd9cf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu5irq5442g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu5irq5442g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu5lw2ii62d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu5lw2ii62d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu5o2svja24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu5o2svja24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "40e77cdcfc25",
+   "created_at": "2026-10-27T11:40:49Z"
+  },
   {
    "id": "2a25ff46a6d8",
    "ts": "2026-10-27T11:31:29Z",
@@ -5358,27 +5391,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjhwp4ahs2l",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjhwp4ahs2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "740fe7b73ef8",
-   "created_at": "2026-10-23T05:45:47Z"
-  },
-  {
-   "id": "9b9285410242",
-   "ts": "2026-10-23T05:42:09Z",
-   "headline": "Chancellor Healey to pledge cuts to paperwork for small UK firms, with savings put at £800mn a year, FT reports",
-   "detail": "The Financial Times reports that the Chancellor will promise to remove unnecessary paperwork for small companies. The government says the deregulation drive could reduce business costs by £800mn a year.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "f378f4ff7d33ba04"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myjhsjz6tr2i",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myjhsjz6tr2i"
     }
    ],
    "model": "opus",
