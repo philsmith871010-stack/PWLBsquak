@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T09:31:07Z",
+ "generated_at": "2026-10-27T09:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "65f3898a2de3",
+   "ts": "2026-10-27T09:34:58Z",
+   "headline": "Finland's Stubb and Norway's Støre hold phone call with Putin on efforts to end the war in Ukraine",
+   "detail": "Finland's presidential office says President Stubb and Norwegian Prime Minister Støre started the call with President Putin to discuss Russia's war against Ukraine and diplomatic efforts to end it. The office says the call related to upcoming meetings in Abu Dhabi.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5d908d924ccf6517",
+    "ca3b280b635d2248",
+    "3059b9c5e88d8756"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytwojpm3c24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytwojpm3c24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytwnbz3vz2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytwnbz3vz2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytwnr2wub2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytwnr2wub2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "08ceff3e46ba",
+   "created_at": "2026-10-27T09:35:43Z"
+  },
   {
    "id": "654727358652",
    "ts": "2026-10-27T09:28:18Z",
@@ -5531,27 +5564,6 @@
    "model": "opus",
    "run_id": "59cf6c7caf60",
    "created_at": "2026-10-22T20:40:53Z"
-  },
-  {
-   "id": "0b9932b9fcc5",
-   "ts": "2026-10-22T20:16:10Z",
-   "headline": "UK relaxes 'fit and proper' rules for holding bankers to account, FT reports",
-   "detail": "The Financial Times reports that the UK is loosening the regulatory regime that requires bankers to be fit and proper. The regime was central to past actions against former Barclays chief executive Jes Staley and hedge fund owner Crispin Odey.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "f564dd3ef9a5f886"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myii6hcxws2i",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myii6hcxws2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "108c92110d61",
-   "created_at": "2026-10-22T20:20:49Z"
   }
  ]
 }
