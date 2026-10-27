@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T13:01:16Z",
+ "generated_at": "2026-10-27T13:05:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "254dbf082c55",
+   "ts": "2026-10-27T13:01:32Z",
+   "headline": "US Case-Shiller 20-city house prices rise 2.65% y/y in August, above 2.61% forecast; FHFA index up 0.3% m/m",
+   "detail": "The S&P Case-Shiller 20-city index rose 2.65% year on year in August, against a 2.61% forecast and 2.5% previously. The FHFA house price index rose 0.3% month on month, against a 0.2% forecast, and its annual rate eased to 2.4% from 2.6%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "5067aadb04a6022b",
+    "8f5c4a91561313d9",
+    "2869716a192c3a31",
+    "370a24609e73d800"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuc7vkzhx2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuc7vkzhx2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myucbxoful22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myucbxoful22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuca46lzd2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuca46lzd2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myucacerch2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myucacerch2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7a105ab81b61",
+   "created_at": "2026-10-27T13:05:45Z"
+  },
   {
    "id": "48b47ebd9104",
    "ts": "2026-10-27T12:58:49Z",
@@ -5267,39 +5306,6 @@
    "model": "opus",
    "run_id": "b2855b6013b0",
    "created_at": "2026-10-23T08:20:51Z"
-  },
-  {
-   "id": "6c8d34d2a21f",
-   "ts": "2026-10-23T08:15:05Z",
-   "headline": "BoJ sees rates still far from neutral and is expected to keep raising them quickly, with December in focus, sources say",
-   "detail": "Sources say the Bank of Japan thinks inflation needs to settle near its target and that interest rates remain well short of neutral. The sources also say the central bank is expected to keep raising rates rapidly, with attention on December.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "83514580cbcc0ba4",
-    "d42a0e23c82cbb43",
-    "f32bfdcc811b184d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjqcojkqt2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjqcojkqt2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjqcyzfv62k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjqcyzfv62k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjqdyfnxo2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjqdyfnxo2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dc93160beb54",
-   "created_at": "2026-10-23T08:15:50Z"
   }
  ]
 }
