@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T10:25:49Z",
+ "generated_at": "2026-10-27T10:31:10Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9491e2995641",
+   "ts": "2026-10-27T10:26:39Z",
+   "headline": "Kremlin says Russia-US-Ukraine talks will resume in Abu Dhabi in November to address postwar security",
+   "detail": "The Kremlin said the three-way talks between Russia, the US and Ukraine will restart in Abu Dhabi in November. It said the talks will cover postwar security arrangements.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a578ab36071993f8",
+    "46c9c1cce7cd017f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytzkwtzss2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytzkwtzss2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytzpmeg6a22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytzpmeg6a22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f8b2312ec953",
+   "created_at": "2026-10-27T10:31:10Z"
+  },
   {
    "id": "73496e53a43e",
    "ts": "2026-10-27T10:24:31Z",
@@ -5532,63 +5559,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myirjhcydh2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myirjhcydh2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c0aae0189dc0",
-   "created_at": "2026-10-23T05:01:14Z"
-  },
-  {
-   "id": "aaa8e6649aed",
-   "ts": "2026-10-22T22:01:27Z",
-   "headline": "Australia's October flash composite PMI drops to 47.7 from 51.3 as services fall to 47.8",
-   "detail": "S&P Global's flash readings show the services PMI down to 47.8 from 51.9, while manufacturing edged up to 49.7 from 49.6.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e2abbef0c485a9f5",
-    "bb1beee40ed1571c",
-    "e9520f13450c1c41",
-    "1729ee11b704ad41",
-    "324f07baea39dbf3",
-    "a52bae1d514eeb13",
-    "c67a994e575e915a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myinzggchu26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myinzggchu26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myinzkfnr22l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myinzkfnr22l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myio2gj3qy2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myio2gj3qy2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myio2ksxa324",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myio2ksxa324"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myio2q7tds2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myio2q7tds2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myio2tr67e26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myio2tr67e26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiogfapsu27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiogfapsu27"
     }
    ],
    "model": "opus",
