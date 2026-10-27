@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T18:20:49Z",
+ "generated_at": "2026-10-27T18:25:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bf328250e653",
+   "ts": "2026-10-27T18:21:19Z",
+   "headline": "US Energy Secretary Wright says the suspension of sanctions on Russia is temporary and the US is ramping up LNG exports",
+   "detail": "In remarks on CNBC, which have now ended, US Energy Secretary Wright also said Russia cannot currently export diesel.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "1f9ab1e176dad84e",
+    "01fc7d651bbef160",
+    "37fb0d21708756a4",
+    "cd10fd0a2295c07e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuu3pi6bg2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuu3pi6bg2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuu6jgnhq2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuu6jgnhq2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuua7eijr25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuua7eijr25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuub2mki72p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuub2mki72p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "681899acc4cd",
+   "created_at": "2026-10-27T18:25:46Z"
+  },
   {
    "id": "642549b40fb9",
    "ts": "2026-10-27T18:20:20Z",
@@ -5255,51 +5294,6 @@
    "model": "opus",
    "run_id": "aa1bc5a16fa5",
    "created_at": "2026-10-23T15:05:43Z"
-  },
-  {
-   "id": "89fe7c309d0c",
-   "ts": "2026-10-23T14:57:44Z",
-   "headline": "Trump says the US could end the Iran war quickly and claims control of the Strait of Hormuz and its oil",
-   "detail": "US President Trump said the US could bring the Iran war to a rapid end and that the question is whether to finish it or let it wither. He also said the Strait of Hormuz belongs to the US, that the US is taking out as much oil as it wants and that it could take all of Iran's oil.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a1d83fd961162c1f",
-    "3ae0b2238173fe1d",
-    "e49df54cb679dc9f",
-    "38ab93aafc916bec",
-    "091517f6e51d0859"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykgtxu4jl2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykgtxu4jl2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykguuxy7326",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykguuxy7326"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykgvv6ffk26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykgvv6ffk26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykgwedqdt2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykgwedqdt2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykgy3mxxj27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykgy3mxxj27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7339fd8fe985",
-   "created_at": "2026-10-23T15:01:17Z"
   }
  ]
 }
