@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T12:15:52Z",
+ "generated_at": "2026-10-27T12:20:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "50766bf3b6f7",
+   "ts": "2026-10-27T12:16:46Z",
+   "headline": "Norway's Støre says Moscow appears to be preparing thoroughly for the Abu Dhabi talks and calls for de-escalation of the Ukraine war",
+   "detail": "Norway's prime minister said his call with Putin lasted 90 minutes and that his impression was that Moscow is preparing thoroughly for the Abu Dhabi meeting. He also said efforts must be made to de-escalate the war in Ukraine.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0c938ecf955e4fe3",
+    "73ebfb60d749b070",
+    "c4392d296905d8e4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu7pththd2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu7pththd2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu7qvedi625",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu7qvedi625"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu7rx2yuu2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu7rx2yuu2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "47ba9db0ef3b",
+   "created_at": "2026-10-27T12:20:49Z"
+  },
   {
    "id": "37eae45f2058",
    "ts": "2026-10-27T12:15:46Z",
@@ -5334,57 +5367,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjizqcetq25",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjizqcetq25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "62cc1a4a95f0",
-   "created_at": "2026-10-23T06:05:43Z"
-  },
-  {
-   "id": "2c3c1dbe96cc",
-   "ts": "2026-10-23T06:01:13Z",
-   "headline": "UK retail sales fall 0.4% on the month in September, a bigger drop than the 0.1% forecast",
-   "detail": "Including fuel, September retail sales fell 0.4% on the month after a 0.5% rise previously. Excluding fuel, annual growth was 0.8% against a 1.4% estimate and 2.7% previously.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "09bc6fe3790b4d00",
-    "70196275d9132502",
-    "0f4bc02adf73ebee",
-    "049959e6d209ac3f",
-    "133939d0cf35b351",
-    "b3d01fb783613554"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjiumivzf2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjiumivzf2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjixgp2hn2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjixgp2hn2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjix6hvug2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjix6hvug2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjixayiwh25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjixayiwh25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjixegxa327",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjixegxa327"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjiwbpdym2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjiwbpdym2v"
     }
    ],
    "model": "opus",
