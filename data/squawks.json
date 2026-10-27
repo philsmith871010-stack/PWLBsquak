@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T10:40:55Z",
+ "generated_at": "2026-10-27T10:55:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cbe148156814",
+   "ts": "2026-10-27T10:55:14Z",
+   "headline": "Houthis claim a ballistic missile strike on Saudi Arabia's Ras Tanura refinery",
+   "detail": "Yemen's Houthi forces said they hit the Ras Tanura refinery in Saudi Arabia's Eastern Province with a ballistic missile and that the strike caused large fires. Saudi Arabia had earlier said it had contained a fire near the oil hub after an attack.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "7cb8672ff8713ac6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu362nboi2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu362nboi2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1d6c41903d77",
+   "created_at": "2026-10-27T10:55:39Z"
+  },
+  {
+   "id": "5f72d6edc685",
+   "ts": "2026-10-27T10:52:16Z",
+   "headline": "UK sells £4.5bn of 5-year gilts at an average yield of 5.036%, the highest since 2008",
+   "detail": "The UK sold £4.5bn of 5-year debt at an average yield of 5.036%, the highest since 2008. New OBR forecasts are due tomorrow; in March the OBR forecast that debt servicing would soon cost 3.8% of GDP.",
+   "category": "supply",
+   "importance": 2,
+   "source_event_ids": [
+    "7d90cd9873c80030"
+   ],
+   "sources": [
+    {
+     "author": "davidmilliken.bsky.social",
+     "uri": "at://did:plc:cnkav2txgxnskbjf2f564bjl/app.bsky.feed.post/3myu2yqcx4k22",
+     "url": "https://bsky.app/profile/davidmilliken.bsky.social/post/3myu2yqcx4k22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1d6c41903d77",
+   "created_at": "2026-10-27T10:55:39Z"
+  },
   {
    "id": "832c509ae481",
    "ts": "2026-10-27T10:39:05Z",
@@ -5456,60 +5498,6 @@
    "model": "opus",
    "run_id": "5e94a84c7fd8",
    "created_at": "2026-10-23T05:05:43Z"
-  },
-  {
-   "id": "5ba07178cf61",
-   "ts": "2026-10-22T23:41:05Z",
-   "headline": "US has strike plans against Iran ready with Israel, including energy facilities, CNN reports citing US officials",
-   "detail": "CNN, citing US officials, reports that Trump's advisers have drawn up plans for strikes on Iran coordinated with Israel that could proceed as soon as he approves. Targets would include nuclear infrastructure, missile and drone depots and energy facilities, and the officials say using the largest US conventional bomb is one option under consideration.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "a8f7dbbab0b8d1cb",
-    "97e0c6ec9bb44c85",
-    "896c0741138b82a8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myitmvtkg725",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myitmvtkg725"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myitmzcbf725",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myitmzcbf725"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myixykq6v526",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myixykq6v526"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5e94a84c7fd8",
-   "created_at": "2026-10-23T05:05:43Z"
-  },
-  {
-   "id": "132f703e7323",
-   "ts": "2026-10-22T23:33:14Z",
-   "headline": "US Treasury proposes tighter curbs on investment in sensitive Chinese technology, FT reports",
-   "detail": "According to the FT, the proposed restrictions would cover investment in areas including AI, hypersonic weapons and biotech.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "11d87e6e4e00008b"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myit6ucc4p2x",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myit6ucc4p2x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c0aae0189dc0",
-   "created_at": "2026-10-23T05:01:14Z"
   }
  ]
 }
