@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T16:50:52Z",
+ "generated_at": "2026-10-27T17:01:21Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7011b60b4070",
+   "ts": "2026-10-27T17:00:56Z",
+   "headline": "US 5-year Treasury when-issued yield is 4.841% ahead of the $70bn auction",
+   "detail": "Ahead of the US Treasury's $70bn 5-year note auction, the when-issued yield was quoted at 4.841%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4d5e9699fe5b411b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuplxufby25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuplxufby25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dfbe9e0b93eb",
+   "created_at": "2026-10-27T17:01:21Z"
+  },
   {
    "id": "4aa79995a3f4",
    "ts": "2026-10-27T16:47:01Z",
@@ -5279,33 +5300,6 @@
    "model": "opus",
    "run_id": "d906f74d22b4",
    "created_at": "2026-10-23T14:15:50Z"
-  },
-  {
-   "id": "3daba025bdc2",
-   "ts": "2026-10-23T14:01:34Z",
-   "headline": "US University of Michigan final October 5-year inflation expectations hold at 3.5%, in line with forecast",
-   "detail": "The final October University of Michigan survey puts 5-year inflation expectations at 3.5%. That matches both the forecast and the previous reading.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8521a6896ed563c4",
-    "eff4fa60c886818e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykdpku3sn2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykdpku3sn2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykdqn6dpe25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykdqn6dpe25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "17389a586f20",
-   "created_at": "2026-10-23T14:05:53Z"
   }
  ]
 }
