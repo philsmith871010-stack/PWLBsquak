@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T12:31:03Z",
+ "generated_at": "2026-10-27T12:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "64f750769e71",
+   "ts": "2026-10-27T12:35:00Z",
+   "headline": "Norway's Støre says his call with Putin on the Ukraine war revealed big differences",
+   "detail": "Norway's prime minister said there were big differences with the Russian president during their call on the war in Ukraine. Finland's president also took part in the call.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a6c0d2e74db8a463"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuaqgr7772z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuaqgr7772z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bbb73d6a6521",
+   "created_at": "2026-10-27T12:35:41Z"
+  },
   {
    "id": "5dde45bb200d",
    "ts": "2026-10-27T12:31:00Z",
@@ -5303,45 +5324,6 @@
    "model": "opus",
    "run_id": "9ff025e683e4",
    "created_at": "2026-10-23T07:31:03Z"
-  },
-  {
-   "id": "702b52d23645",
-   "ts": "2026-10-23T07:15:51Z",
-   "headline": "French flash manufacturing PMI slips to 49.3 in October from 50.6 and the composite falls to 48.4, both short of forecasts",
-   "detail": "S&P Global's October flash survey shows French manufacturing at 49.3 against a 50.5 forecast. The composite PMI came in at 48.4, below the expected 50.7, down from 51.2.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "c518328a76b347db",
-    "2aae4012765a0e15",
-    "b2bf591eda11cf6b",
-    "223d4660b2e7cdfb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjn22pd272f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjn22pd272f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjn2vtqz32r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjn2vtqz32r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjn32orzh2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjn32orzh2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjn5b3qii2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjn5b3qii2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d00ec6d465c4",
-   "created_at": "2026-10-23T07:20:55Z"
   }
  ]
 }
