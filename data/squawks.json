@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T09:25:46Z",
+ "generated_at": "2026-10-27T09:31:07Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "654727358652",
+   "ts": "2026-10-27T09:28:18Z",
+   "headline": "Kremlin says no breaches of the Oleshky ceasefire have been reported so far",
+   "detail": "The Kremlin said on 27 October that no violations of the Oleshky ceasefire agreement with Ukraine had been reported so far. It also said no date has yet been set for US-Ukraine talks in the UAE, TASS reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "becd19de9d509f38",
+    "555a47271a3b643d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytwcmivba2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytwcmivba2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytwdgtufg2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytwdgtufg2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "85ae06a1b9ad",
+   "created_at": "2026-10-27T09:31:07Z"
+  },
   {
    "id": "ee83b608def4",
    "ts": "2026-10-27T09:23:48Z",
@@ -5525,27 +5552,6 @@
    "model": "opus",
    "run_id": "108c92110d61",
    "created_at": "2026-10-22T20:20:49Z"
-  },
-  {
-   "id": "b48827d39277",
-   "ts": "2026-10-22T20:10:09Z",
-   "headline": "Trump executive order directs US trade negotiations on wind turbine imports",
-   "detail": "A White House executive order released on Thursday tells the Commerce Secretary and the US Trade Representative to pursue negotiations on wind turbine imports, Reuters reports. They must report back to the President on progress within 180 days.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5317dd01b5b27381"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myihtpc6an2y",
-     "url": "https://bsky.app/profile/reuters.com/post/3myihtpc6an2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "38ebd56585c4",
-   "created_at": "2026-10-22T20:10:50Z"
   }
  ]
 }
