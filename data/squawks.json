@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T11:10:48Z",
+ "generated_at": "2026-10-27T11:20:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "98d2de283556",
+   "ts": "2026-10-27T11:19:01Z",
+   "headline": "QatarEnergy extends force majeure on LNG supplies to Italy's Edison through December",
+   "detail": "QatarEnergy has extended the force majeure on its LNG deliveries to Italian energy company Edison until the end of December, according to a market news account. No market reaction was reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "4a270c24a3ac1a27"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu4ilg2m62z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu4ilg2m62z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3a103b7d3765",
+   "created_at": "2026-10-27T11:20:49Z"
+  },
   {
    "id": "490786a8c478",
    "ts": "2026-10-27T11:07:23Z",
@@ -5381,45 +5402,6 @@
    "model": "opus",
    "run_id": "72b097255369",
    "created_at": "2026-10-23T05:10:55Z"
-  },
-  {
-   "id": "c96390fcb6f1",
-   "ts": "2026-10-23T01:16:38Z",
-   "headline": "PBOC sets yuan midpoint at 6.7180 per dollar, the strongest fixing since 2 February 2023",
-   "detail": "The People's Bank of China set its daily yuan reference rate at 6.7180 per dollar. Market estimates had put the fixing at 6.6758.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "140154df3ef6a736",
-    "a10768c25c31667b",
-    "82d79be7e0355278",
-    "60efd0599c4b92c1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiyxr2svu26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiyxr2svu26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiyzmr3vk2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiyzmr3vk2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiz2qmgui2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiz2qmgui2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myivrxmqor26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myivrxmqor26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5e94a84c7fd8",
-   "created_at": "2026-10-23T05:05:43Z"
   }
  ]
 }
