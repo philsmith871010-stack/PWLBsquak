@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T15:50:49Z",
+ "generated_at": "2026-10-27T16:01:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "06cd9720c8bf",
+   "ts": "2026-10-27T16:01:11Z",
+   "headline": "Melania Trump says the local Ukraine ceasefire has begun and now extends beyond Oleshky within the Kherson region",
+   "detail": "US First Lady Melania Trump said the localised ceasefire in Ukraine has started and has been widened beyond Oleshky to cover more of the Kherson region. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "82e15d8af6f7f790",
+    "d2bd75d22a794483"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myumb5ihy72p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myumb5ihy72p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myum35or4222",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myum35or4222"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8396b279c29c",
+   "created_at": "2026-10-27T16:01:59Z"
+  },
   {
    "id": "5c08ad9b9c62",
    "ts": "2026-10-27T15:46:29Z",
@@ -5291,51 +5318,6 @@
    "model": "opus",
    "run_id": "e4ea71efc8f4",
    "created_at": "2026-10-23T13:45:50Z"
-  },
-  {
-   "id": "299708e6f815",
-   "ts": "2026-10-23T13:19:01Z",
-   "headline": "White House says Russia and Ukraine agree a local ceasefire in Oleshky, starting 29 October, brokered by Melania Trump",
-   "detail": "The White House says Russia and Ukraine will temporarily halt all military action in the city of Oleshky so humanitarian aid can enter and a civilian evacuation can be prepared through a safe corridor. It credits Melania Trump with securing the deal and says the ceasefire begins on 29 October.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e48aa750d7ecd89b",
-    "333b0994a40c968d",
-    "ba35c446b76cbdef",
-    "17ec100c77a3301e",
-    "d868ca9444de07d5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykbdhk4kf24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykbdhk4kf24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykbds4w6p2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykbds4w6p2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykbe3czcn25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykbe3czcn25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykbeudcce2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykbeudcce2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykbf6wwij2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykbf6wwij2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3a7835617c64",
-   "created_at": "2026-10-23T13:20:51Z"
   }
  ]
 }
