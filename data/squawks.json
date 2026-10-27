@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T11:20:49Z",
+ "generated_at": "2026-10-27T11:25:38Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "98c53db13bdb",
+   "ts": "2026-10-27T11:24:55Z",
+   "headline": "Oleshky ceasefire will run until 1 November, says senior Ukrainian official",
+   "detail": "A senior Ukrainian official said the local ceasefire in Oleshky will remain in place until 1 November. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "203c8171ec7ce32a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu4t4odjp24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu4t4odjp24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "33ea87f03044",
+   "created_at": "2026-10-27T11:25:38Z"
+  },
+  {
+   "id": "dcbaecb455f7",
+   "ts": "2026-10-27T11:22:22Z",
+   "headline": "Three Russian diesel tankers head for the US, one of them under sanctions, FT reports",
+   "detail": "The Financial Times reports that three tankers of Russian diesel are sailing to the US under the Trump-Putin fuel deal, and that one of them is under sanctions. The FT says the arrangement exposes the companies involved to legal threats from Congress.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "9ff27e1b55ffa3c7"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myu4okegxe2g",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myu4okegxe2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "33ea87f03044",
+   "created_at": "2026-10-27T11:25:38Z"
+  },
   {
    "id": "98d2de283556",
    "ts": "2026-10-27T11:19:01Z",
@@ -5354,54 +5396,6 @@
    "model": "opus",
    "run_id": "00ab8cb1b1e8",
    "created_at": "2026-10-23T05:15:48Z"
-  },
-  {
-   "id": "5ee9d57a827e",
-   "ts": "2026-10-23T02:00:35Z",
-   "headline": "Treasuries post their biggest daily rally in more than three years as a tech sell-off drives a move into safe havens",
-   "detail": "Reuters reports that worries over the funding needs of AI hit technology stocks and pushed investors into sovereign bonds and safe-haven currencies, cutting bets on rate hikes. The FT reports the yen rallying as Asian stocks followed Wall Street lower.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "b28cab8ceae53753",
-    "6cb17bd5da7e3c1f"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myj3gdbjw32m",
-     "url": "https://bsky.app/profile/reuters.com/post/3myj3gdbjw32m"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myjcnd2bdk2w",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myjcnd2bdk2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "72b097255369",
-   "created_at": "2026-10-23T05:10:55Z"
-  },
-  {
-   "id": "9fffb3f40f2d",
-   "ts": "2026-10-23T01:53:58Z",
-   "headline": "2-year JGB yield falls 6bp to 1.840%",
-   "detail": "Japan's 2-year government bond yield fell 6bp to 1.840% in Tokyo trade on Friday.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "04602e15827e6fd2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myj32inpno26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myj32inpno26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "72b097255369",
-   "created_at": "2026-10-23T05:10:55Z"
   }
  ]
 }
