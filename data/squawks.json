@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T11:05:40Z",
+ "generated_at": "2026-10-27T11:10:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "490786a8c478",
+   "ts": "2026-10-27T11:07:23Z",
+   "headline": "Russia's Novak says Moscow can redirect and sell all its gas elsewhere if Europe turns down supplies",
+   "detail": "Russian Deputy Prime Minister Alexander Novak said Russia could reroute its gas and sell all of it if European countries reject supplies. He had earlier said Moscow was ready to resume gas deliveries to Europe.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "0ea86b455351df9d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu3trsfv425",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu3trsfv425"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d85f4fde777d",
+   "created_at": "2026-10-27T11:10:48Z"
+  },
   {
    "id": "f114987f45bb",
    "ts": "2026-10-27T11:02:48Z",
@@ -5394,63 +5415,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myivrxmqor26",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myivrxmqor26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5e94a84c7fd8",
-   "created_at": "2026-10-23T05:05:43Z"
-  },
-  {
-   "id": "4581811932e0",
-   "ts": "2026-10-23T00:30:59Z",
-   "headline": "Japan's October flash manufacturing PMI falls to 53.3 from 54.1 while services rise to 52.0",
-   "detail": "In S&P Global's October flash survey, Japan's composite PMI was unchanged at 52.3. The services PMI rose to 52.0 from 51.3.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "d4255dfd2a9b5146",
-    "b1347531d697e0f6",
-    "a4c96edc3b713ae5",
-    "da4c61c000ecaa32",
-    "45ad3a655f2abd47",
-    "ca8c2fd9a8f4b719",
-    "45b7822a9835333a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiwg4wxe426",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiwg4wxe426"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiwg76r7e26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiwg76r7e26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiwgbn63e2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiwgbn63e2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiwqlth7u2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiwqlth7u2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiwqnwarc2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiwqnwarc2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiwqpun7e26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiwqpun7e26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myiwrshsrb2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myiwrshsrb2l"
     }
    ],
    "model": "opus",
