@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T15:45:51Z",
+ "generated_at": "2026-10-27T15:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5c08ad9b9c62",
+   "ts": "2026-10-27T15:46:29Z",
+   "headline": "Kremlin aide Ushakov says a Russia-Ukraine leaders' meeting would only make sense once negotiations are complete",
+   "detail": "Kremlin aide Yuri Ushakov said contact between the Russian and Ukrainian leaders would be appropriate after the negotiation process has finished, to sign documents. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4c97e18d5aa999b7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myulgtqbxn25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myulgtqbxn25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "581232d2c0b4",
+   "created_at": "2026-10-27T15:50:49Z"
+  },
   {
    "id": "38e093d2ee4e",
    "ts": "2026-10-27T15:44:22Z",
@@ -5315,27 +5336,6 @@
    "model": "opus",
    "run_id": "3a7835617c64",
    "created_at": "2026-10-23T13:20:51Z"
-  },
-  {
-   "id": "b0d308a7c2dd",
-   "ts": "2026-10-23T13:08:50Z",
-   "headline": "USTR proposes extending suspension of its Section 301 probe into China's maritime and shipbuilding sectors to 9 January 2027",
-   "detail": "The Office of the US Trade Representative proposed a further suspension of its Section 301 investigation into China's targeting of the maritime, logistics and shipbuilding sectors, running to 9 January 2027.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "565cf287cf8d317a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mykarbhgy326",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mykarbhgy326"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4fcf150fe2f9",
-   "created_at": "2026-10-23T13:10:49Z"
   }
  ]
 }
