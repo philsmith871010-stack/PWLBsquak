@@ -1,8 +1,104 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T12:25:46Z",
+ "generated_at": "2026-10-27T12:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5dde45bb200d",
+   "ts": "2026-10-27T12:31:00Z",
+   "headline": "US durable goods orders rise 1.8%, just below the 1.9% forecast; core orders up 0.5%",
+   "detail": "US durable goods orders rose 1.8% against a 1.9% forecast, after -0.1% the previous month. Core durable goods rose 0.5% against a 0.6% forecast, after 0.2% the previous month.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e97dbc743518b9a3",
+    "3a5e8e650da73d6b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuajbknn32g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuajbknn32g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuajcdxvr25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuajcdxvr25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4be0a30e8bfc",
+   "created_at": "2026-10-27T12:31:03Z"
+  },
+  {
+   "id": "a99cd1d0bc59",
+   "ts": "2026-10-27T12:30:32Z",
+   "headline": "Resolution Foundation estimates fiscal headroom has halved to about £12bn in 2029-30 before Budget measures",
+   "detail": "The Resolution Foundation estimates that headroom against the fiscal rules will have fallen to around £12bn in 2029-30 before any Budget measures. It says Chancellor John Healey would need £18bn of headroom to keep a buffer equivalent to the one Rachel Reeves had.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "e0ba4dd1c2befa3d"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3myuaihkh742u",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3myuaihkh742u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4be0a30e8bfc",
+   "created_at": "2026-10-27T12:31:03Z"
+  },
+  {
+   "id": "d562b72df7cf",
+   "ts": "2026-10-27T12:30:29Z",
+   "headline": "Poland's Tusk says Finland's Stubb described the European position on the Abu Dhabi talks as moderately optimistic",
+   "detail": "Polish Prime Minister Donald Tusk said Finland's president told him, after his call with Putin, that Europe is moderately optimistic about the Abu Dhabi talks on Ukraine.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3315c5976972890d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuaiezjpf2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuaiezjpf2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4be0a30e8bfc",
+   "created_at": "2026-10-27T12:31:03Z"
+  },
+  {
+   "id": "2432c03ed070",
+   "ts": "2026-10-27T12:27:18Z",
+   "headline": "Downing Street rules out a UK return to EU free movement during the current parliament",
+   "detail": "The Prime Minister's spokeswoman said the UK will not return to EU free movement in this parliament. She added that the coming UK-EU summit may take concrete steps but these will not be enough.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "4e7c1428f06e074b",
+    "03037b9f97aaf722"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuacotexh25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuacotexh25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuad5ygh62z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuad5ygh62z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4be0a30e8bfc",
+   "created_at": "2026-10-27T12:31:03Z"
+  },
   {
    "id": "4cfe7530337d",
    "ts": "2026-10-27T12:20:48Z",
@@ -5246,132 +5342,6 @@
    "model": "opus",
    "run_id": "d00ec6d465c4",
    "created_at": "2026-10-23T07:20:55Z"
-  },
-  {
-   "id": "8802de53d006",
-   "ts": "2026-10-23T07:15:45Z",
-   "headline": "French flash services PMI drops to 48.4 in October from 51.2, well below the 50.7 forecast",
-   "detail": "France's October flash services PMI came in at 48.4, against a forecast of 50.7 and a previous reading of 51.2.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "2b108b07ac249d83"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjmzw4ena2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjmzw4ena2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "df7e7d2bb585",
-   "created_at": "2026-10-23T07:15:49Z"
-  },
-  {
-   "id": "c710cf812b8f",
-   "ts": "2026-10-23T06:50:03Z",
-   "headline": "China pledges to respond to US restrictions on research ties and demands an end to measures against its research bodies",
-   "detail": "China's Commerce Ministry said it would take action after the US imposed curbs on research ties, and called on Washington to stop what it described as discriminatory measures against Chinese research institutions. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "8591757a02bbf65c",
-    "0d81520fa8a3be0b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjllwxjuh27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjllwxjuh27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjlmqnho52v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjlmqnho52v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "01c141a64a98",
-   "created_at": "2026-10-23T06:50:53Z"
-  },
-  {
-   "id": "4253c012af88",
-   "ts": "2026-10-23T06:40:08Z",
-   "headline": "Tanker with 40,000 tonnes of Russian diesel heads for New York following a Putin-Trump agreement, Reuters reports",
-   "detail": "Reuters reports, citing LSEG shipping data, that a Malta-flagged tanker carrying 40,000 metric tons of Russian diesel is bound for New York following an agreement with US President Trump.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "4b26c3ac40647be2"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myjl27rjxg2m",
-     "url": "https://bsky.app/profile/reuters.com/post/3myjl27rjxg2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f5bf2d09fc10",
-   "created_at": "2026-10-23T06:40:53Z"
-  },
-  {
-   "id": "159edca3a41e",
-   "ts": "2026-10-23T06:09:16Z",
-   "headline": "BoJ says Japanese banks can withstand stress from oil and AI risks, and flags energy costs squeezing SME profits",
-   "detail": "The Bank of Japan's Financial Stability Report says higher raw material and energy prices appear to be weighing on profits, particularly at SMEs, and that some firms are relatively exposed to higher crude prices. It also says the Middle East situation, AI-related investment, non-bank developments, asset prices and growing concentration in private funds' portfolios all need close monitoring.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8856bd40cb52f3e8",
-    "244b05b690e6911b",
-    "5916da1f6c278963",
-    "91ed86ab40506962",
-    "09be6de7d0f04cb0",
-    "a355ee419f16a057",
-    "71ff9c802fe95002"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjjczvc3t2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjjczvc3t2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjjdwkeuf2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjjdwkeuf2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjjdzm2sy26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjjdzm2sy26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjjfk4gse27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjjfk4gse27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjjaqisq32l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjjaqisq32l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjjc72ijv2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjjc72ijv2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myjjd5dy6f2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myjjd5dy6f2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0490f0597728",
-   "created_at": "2026-10-23T06:10:51Z"
   }
  ]
 }
