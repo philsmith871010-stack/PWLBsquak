@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T19:05:44Z",
+ "generated_at": "2026-10-28T19:10:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a1ac069569b0",
+   "ts": "2026-10-28T19:06:01Z",
+   "headline": "Warsh ends press conference saying he is comfortable with the Fed tightening financial conditions; Fed not involved in Cook proceedings",
+   "detail": "Fed Chair Warsh said tighter financial conditions show that policy is working and that he is not uncomfortable with them. Asked about the proceedings involving Governor Cook, he said the Fed is not involved as far as he knows, and then ended the press conference.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ed834152510820b2",
+    "3aeb92a6b4f92b45",
+    "424ac513e44bc239",
+    "05ef8a53825b2b76",
+    "e586721cdcbf7329"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxh2kwzwl2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxh2kwzwl2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxh2tvy6u25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxh2tvy6u25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxh3443v625",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxh3443v625"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxh2oernd2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxh2oernd2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxh3wmwe32g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxh3wmwe32g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b1db3e789320",
+   "created_at": "2026-10-28T19:10:52Z"
+  },
   {
    "id": "bc331b3273e9",
    "ts": "2026-10-28T19:05:30Z",
@@ -6773,27 +6818,6 @@
    "model": "opus",
    "run_id": "f3cb11d27dca",
    "created_at": "2026-10-27T14:05:43Z"
-  },
-  {
-   "id": "9373fa958a46",
-   "ts": "2026-10-27T14:01:29Z",
-   "headline": "US new home sales fall 0.6% m/m, a smaller drop than the 4.5% decline forecast",
-   "detail": "US new home sales fell 0.6% on the month, against a forecast fall of 4.5%. The previous month showed a 6.4% rise.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b8b50d955f80c2f2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myufl3v3fx2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myufl3v3fx2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8876c8c78efd",
-   "created_at": "2026-10-27T14:01:32Z"
   }
  ]
 }
