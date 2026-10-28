@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T14:31:08Z",
+ "generated_at": "2026-10-28T14:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a4da3266b730",
+   "ts": "2026-10-28T14:35:14Z",
+   "headline": "Healey makes online marketplaces responsible for collecting VAT owed by sellers on their platforms",
+   "detail": "Reuters reports that the Chancellor said on Wednesday that online marketplaces will have to collect the VAT owed by retailers who sell through them.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "27d33cbdc779febf"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mywxwebolk2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3mywxwebolk2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "76c8ab2db549",
+   "created_at": "2026-10-28T14:35:43Z"
+  },
+  {
+   "id": "ebcf61e1df7f",
+   "ts": "2026-10-28T14:34:15Z",
+   "headline": "Foreign banks are not exempt from the higher UK bank surcharge",
+   "detail": "A market commentary account reports that foreign firms get no exemption from the higher bank surcharge announced in the Budget.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "07a4e131e779002b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywxumgrka2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywxumgrka2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "76c8ab2db549",
+   "created_at": "2026-10-28T14:35:43Z"
+  },
+  {
+   "id": "c8edb4a2a521",
+   "ts": "2026-10-28T14:33:41Z",
+   "headline": "OBR forecasts real household disposable income per person still more than ¾% below its March path in 2030-31",
+   "detail": "The Resolution Foundation, reading the Budget documents, says the OBR has real household disposable income falling this year and real earnings growth at zero in 2027 and 2028. The Guardian reports the living standards outlook was downgraded partly because of the Middle East conflict.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "0b31501c69bbfdc0",
+    "697cac784b3c1073"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mywxtkvvkc22",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mywxtkvvkc22"
+    },
+    {
+     "author": "rjpartington.bsky.social",
+     "uri": "at://did:plc:7gxgy7wfvg4tdsspy32rcvvw/app.bsky.feed.post/3mywxtvadrc2w",
+     "url": "https://bsky.app/profile/rjpartington.bsky.social/post/3mywxtvadrc2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "76c8ab2db549",
+   "created_at": "2026-10-28T14:35:43Z"
+  },
   {
    "id": "1f38dd5b9cc0",
    "ts": "2026-10-28T14:29:14Z",
@@ -6053,81 +6122,6 @@
    "model": "opus",
    "run_id": "7d7f30c8ec26",
    "created_at": "2026-10-27T06:15:51Z"
-  },
-  {
-   "id": "b0eecf06b14b",
-   "ts": "2026-10-27T05:54:53Z",
-   "headline": "China's December 30-year government bond futures rise 0.4% to a record 118.56",
-   "detail": "China's 30-year government bond futures for December delivery rose 0.4% to a record high of 118.56.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "52fe12008e879459"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytkey4g5j2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytkey4g5j2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7d7f30c8ec26",
-   "created_at": "2026-10-27T06:15:51Z"
-  },
-  {
-   "id": "77b1a0a37da2",
-   "ts": "2026-10-27T05:54:22Z",
-   "headline": "India's oil minister says Washington is not pressing India to cut its Russian crude imports",
-   "detail": "India's oil minister said the US is not putting pressure on India to reduce its imports of Russian crude. He also said US cargoes now make up 67% of India's LPG imports.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "cc5413474cce5dbf",
-    "bfa51271c84c1598"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytke2hem72f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytke2hem72f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytke5yydx2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytke5yydx2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7d7f30c8ec26",
-   "created_at": "2026-10-27T06:15:51Z"
-  },
-  {
-   "id": "7016bf7a278b",
-   "ts": "2026-10-27T05:14:52Z",
-   "headline": "Brazil's real suffers its worst day in more than 25 years as Lula faces calls for budget cuts, FT reports",
-   "detail": "The FT reports that investor worries about how the economy is being managed drove falls in the real and the Bovespa index after the president's re-election.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e7b0e724f891ffdd",
-    "4d9ccc2348e12672"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myti5g2psh2r",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myti5g2psh2r"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mytilm3x5h2e",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mytilm3x5h2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "713c1305716f",
-   "created_at": "2026-10-27T06:10:50Z"
   }
  ]
 }
