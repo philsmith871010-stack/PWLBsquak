@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T06:50:49Z",
+ "generated_at": "2026-10-28T07:01:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "66aa92c9b4dd",
+   "ts": "2026-10-28T07:00:44Z",
+   "headline": "German GfK consumer sentiment weakens to -30.8, below the -30.3 forecast",
+   "detail": "The GfK consumer sentiment index for Germany came in at -30.8, compared with a forecast of -30.3 and -30.6 previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e613a03ca2d47013"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myw6jo3hxp2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myw6jo3hxp2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e9ca2345ee52",
+   "created_at": "2026-10-28T07:01:17Z"
+  },
   {
    "id": "7ef0ddb87249",
    "ts": "2026-10-28T06:50:26Z",
@@ -5766,27 +5787,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myq7cb77s72b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myq7cb77s72b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "701f52f8d6da",
-   "created_at": "2026-10-26T06:20:51Z"
-  },
-  {
-   "id": "abb8cc0d10cf",
-   "ts": "2026-10-25T21:39:53Z",
-   "headline": "Chancellor Healey expected to announce a 3.9% rise in the full state pension, The Times reports",
-   "detail": "The Times reports that Chancellor John Healey is expected to announce a 3.9% increase to the full state pension.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "7adb2a0ae8987149"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myq6awvj5n2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myq6awvj5n2b"
     }
    ],
    "model": "opus",
