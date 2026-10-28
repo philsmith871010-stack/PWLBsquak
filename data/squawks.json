@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T17:10:56Z",
+ "generated_at": "2026-10-28T17:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "146b23ffd403",
+   "ts": "2026-10-28T17:14:01Z",
+   "headline": "Budget says 10 new English devolution agreements are in their final stages",
+   "detail": "A post on the Budget says that, if the 10 agreements are completed, devolution deals would cover over 90% of England's population.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "c57647a0aa2bf05f"
+   ],
+   "sources": [
+    {
+     "author": "meganisaac.bsky.social",
+     "uri": "at://did:plc:3wxbohjqryt3ct34kadf7xuc/app.bsky.feed.post/3myxasbhoo227",
+     "url": "https://bsky.app/profile/meganisaac.bsky.social/post/3myxasbhoo227"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ed5e344da5c7",
+   "created_at": "2026-10-28T17:15:52Z"
+  },
   {
    "id": "0c2576b310aa",
    "ts": "2026-10-28T17:07:56Z",
@@ -6174,27 +6195,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu4t4odjp24",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu4t4odjp24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "33ea87f03044",
-   "created_at": "2026-10-27T11:25:38Z"
-  },
-  {
-   "id": "dcbaecb455f7",
-   "ts": "2026-10-27T11:22:22Z",
-   "headline": "Three Russian diesel tankers head for the US, one of them under sanctions, FT reports",
-   "detail": "The Financial Times reports that three tankers of Russian diesel are sailing to the US under the Trump-Putin fuel deal, and that one of them is under sanctions. The FT says the arrangement exposes the companies involved to legal threats from Congress.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "9ff27e1b55ffa3c7"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myu4okegxe2g",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myu4okegxe2g"
     }
    ],
    "model": "opus",
