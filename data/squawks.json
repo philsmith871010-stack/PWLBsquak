@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T14:35:43Z",
+ "generated_at": "2026-10-28T14:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9755417c94e5",
+   "ts": "2026-10-28T14:44:32Z",
+   "headline": "Macklem says the Bank of Canada's policy rate is still low enough not to restrain growth, even after the hike",
+   "detail": "At his press conference after the rate rise, Bank of Canada Governor Tiff Macklem said hiking will limit how much higher oil prices pass through to inflation. He also said investment in the energy sector is rising and investment estimates may be conservative.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "7735941da38b9899",
+    "cb0aeb086eaab943",
+    "f9823d9b8593ff46",
+    "658927511baa74ff"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywygymq6v2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywygymq6v2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywyincbqc25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywyincbqc25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywyfym2nm24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywyfym2nm24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywyeefy2t2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywyeefy2t2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1e70e39fcc7f",
+   "created_at": "2026-10-28T14:45:50Z"
+  },
   {
    "id": "a4da3266b730",
    "ts": "2026-10-28T14:35:14Z",
@@ -6101,27 +6140,6 @@
    "model": "opus",
    "run_id": "14a5d0251b24",
    "created_at": "2026-10-27T07:15:50Z"
-  },
-  {
-   "id": "339a1250cb72",
-   "ts": "2026-10-27T06:13:11Z",
-   "headline": "Japan's 30-year JGB yield rises 1.5bp to 3.820%",
-   "detail": "Japan's 30-year government bond yield rose 1.5bp to 3.820% in early trading on 27 October.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "012c2acff070750f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytlfpjvss24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytlfpjvss24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7d7f30c8ec26",
-   "created_at": "2026-10-27T06:15:51Z"
   }
  ]
 }
