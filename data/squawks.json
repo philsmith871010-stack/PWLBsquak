@@ -1,8 +1,149 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T13:35:45Z",
+ "generated_at": "2026-10-28T13:40:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "43a964a75517",
+   "ts": "2026-10-28T13:37:58Z",
+   "headline": "OBR puts the chance of meeting the fiscal mandate at 56%, down from 59% at Budget 2025",
+   "detail": "The OBR also says the Budget plans slow the near-term pace of fiscal consolidation compared with the previous plans.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "c8f107bf59da2ecf",
+    "4b34737d89a1c79f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywupwzwlu2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywupwzwlu2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywupxtyeu25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywupxtyeu25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a8233b6a4a34",
+   "created_at": "2026-10-28T13:40:55Z"
+  },
+  {
+   "id": "89c2bd993cb9",
+   "ts": "2026-10-28T13:37:18Z",
+   "headline": "OBR expects the UK tax-to-GDP ratio to pass its 37.2% record in 2027-28 and keep rising",
+   "detail": "The OBR says the ratio rises in every year of the forecast. It also expects the bank tax increase to bring in £1bn in receipts in 2027-28.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "68d35e2a992b9ead",
+    "9e21c4dbfb231826"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuorj6y724",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuorj6y724"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywup2nyq725",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywup2nyq725"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a8233b6a4a34",
+   "created_at": "2026-10-28T13:40:55Z"
+  },
+  {
+   "id": "8c1c2b33eaa7",
+   "ts": "2026-10-28T13:37:05Z",
+   "headline": "OBR raises 2026-27 UK borrowing forecast to £133.2bn from £115.5bn, and 2027-28 to £112bn from £96.5bn",
+   "detail": "The OBR's Budget forecast puts government borrowing at £68.3bn in 2031-32. Net borrowing over 2026-31 is reported as £65bn higher than in the previous forecast.",
+   "category": "fiscal",
+   "importance": 3,
+   "source_event_ids": [
+    "99ff8b05e2feb2ce",
+    "c39d23aa2e7d5924",
+    "e34fcff91f37011e",
+    "dcff868ac60e03d4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuoen6ho2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuoen6ho2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuowlxtn2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuowlxtn2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuob26qf2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuob26qf2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywussfar62y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywussfar62y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a8233b6a4a34",
+   "created_at": "2026-10-28T13:40:55Z"
+  },
+  {
+   "id": "7dfdc4e27359",
+   "ts": "2026-10-28T13:36:24Z",
+   "headline": "European benchmark gas price hits €100/MWh, its first time at that level since December 2022",
+   "detail": "The European benchmark gas price is reported reaching €100/MWh, a level last seen during the 2022 energy crisis.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "ae462acea724bb2f",
+    "d9d8a654fa4853af"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywun5axzm2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywun5axzm2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuovtphv2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuovtphv2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a8233b6a4a34",
+   "created_at": "2026-10-28T13:40:55Z"
+  },
+  {
+   "id": "cc30aea5d5de",
+   "ts": "2026-10-28T13:36:11Z",
+   "headline": "OBR expects UK CPI inflation to peak at 3.75% on a quarterly basis in early 2027",
+   "detail": "The quarterly peak is in the OBR's central forecast, published alongside the Budget.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "5dd08a4085d338f9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywumqsn5o2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywumqsn5o2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a8233b6a4a34",
+   "created_at": "2026-10-28T13:40:55Z"
+  },
   {
    "id": "6d97642c5cf7",
    "ts": "2026-10-28T13:35:27Z",
@@ -5969,117 +6110,6 @@
    "model": "opus",
    "run_id": "b8f8b09ff3f5",
    "created_at": "2026-10-26T19:40:52Z"
-  },
-  {
-   "id": "cc86d9d81767",
-   "ts": "2026-10-26T19:27:58Z",
-   "headline": "US and Canada reportedly work on deal to ease US tariffs on Canadian steel and car imports",
-   "detail": "Unnamed sources say the US and Canada are working on an agreement that would ease US tariffs on imports of Canadian steel and cars. The reports give no timing or terms.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0362e8e07e753dd4",
-    "12d0e62c5b9fa102"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myshdxlkbl2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myshdxlkbl2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myshdzpqpm2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myshdzpqpm2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "21db24c01d45",
-   "created_at": "2026-10-26T19:31:09Z"
-  },
-  {
-   "id": "3bb224caab41",
-   "ts": "2026-10-26T19:01:41Z",
-   "headline": "Poll: 13 of 23 economists see RBNZ cash rate at 3.00% by year-end, while 9 expect a rise to 3.25% in December",
-   "detail": "In a poll of economists, 13 of 23 expect the Reserve Bank of New Zealand's cash rate to end the year at 3.00%. Nine expect a further increase to 3.25% in December.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6069c6b3233507a9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mysfuycyib22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mysfuycyib22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c912b31942b9",
-   "created_at": "2026-10-26T19:05:48Z"
-  },
-  {
-   "id": "1dd2b9bba003",
-   "ts": "2026-10-26T19:01:10Z",
-   "headline": "Poll finds 22 of 27 economists expect RBNZ to raise cash rate 25bp to 3.00% on 28 October",
-   "detail": "In a poll of economists, 22 of 27 said they expect the Reserve Bank of New Zealand to raise its cash rate by 25bp to 3.00% at its 28 October decision.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6102a58516a97825"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mysftzu2om2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mysftzu2om2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1974572d1430",
-   "created_at": "2026-10-26T19:01:19Z"
-  },
-  {
-   "id": "28cf8b7dd02b",
-   "ts": "2026-10-26T18:43:54Z",
-   "headline": "New York Fed's Williams forecasts no Fed rate rises in 2027, against market expectations",
-   "detail": "New York Fed President John Williams projects no rate increases in 2027, according to a market news report that says his view differs from market pricing. It comes ahead of this week's Fed policy meeting.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "a74cd3a20dde8cb8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mysev6fp732p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mysev6fp732p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "afd3f53996cd",
-   "created_at": "2026-10-26T18:45:51Z"
-  },
-  {
-   "id": "173b90ffab8f",
-   "ts": "2026-10-26T18:37:34Z",
-   "headline": "US official warns Iran it must change its behaviour or face completion of the mission, Al Jazeera reports",
-   "detail": "Al Jazeera cites an unnamed US official issuing the warning to Tehran. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "06d61c3defeb1e6e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mysejtw3sf25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mysejtw3sf25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "91363caca5da",
-   "created_at": "2026-10-26T18:40:48Z"
   }
  ]
 }
