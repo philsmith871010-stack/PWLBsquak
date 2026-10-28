@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T14:25:44Z",
+ "generated_at": "2026-10-28T14:31:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1f38dd5b9cc0",
+   "ts": "2026-10-28T14:29:14Z",
+   "headline": "OBR says the welfare cap will be missed by £2.8bn, putting the government technically in breach of one fiscal rule",
+   "detail": "The OBR's Budget documents show social security spending on course to exceed the welfare cap by £2.8bn, a technical breach of that rule.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "eeb70b0ccb313837"
+   ],
+   "sources": [
+    {
+     "author": "bruceandy.bsky.social",
+     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3mywxln434c26",
+     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3mywxln434c26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "94691e2c90f1",
+   "created_at": "2026-10-28T14:31:08Z"
+  },
   {
    "id": "14b49048d754",
    "ts": "2026-10-28T14:20:55Z",
@@ -6102,33 +6123,6 @@
      "author": "financialtimes.com",
      "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mytilm3x5h2e",
      "url": "https://bsky.app/profile/financialtimes.com/post/3mytilm3x5h2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "713c1305716f",
-   "created_at": "2026-10-27T06:10:50Z"
-  },
-  {
-   "id": "fda991d61392",
-   "ts": "2026-10-27T05:03:49Z",
-   "headline": "Bank of England orders Section 166 review of Revolut's product approval processes, FT reports",
-   "detail": "According to the FT, the order was made earlier this year and focuses on risks from the rapid launch of new financial products.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "f0bb9f9a8fbbac2d",
-    "4ab3fdd583e60f52"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mythjnyfjw2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mythjnyfjw2g"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mytjygbmrj2o",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mytjygbmrj2o"
     }
    ],
    "model": "opus",
