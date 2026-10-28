@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T20:25:44Z",
+ "generated_at": "2026-10-28T20:31:10Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "79a1c4ec2483",
+   "ts": "2026-10-28T20:29:42Z",
+   "headline": "Budget confirms £1.5bn of devolved loans for mayoral authorities plus extra funding for social housing and rough sleeping",
+   "detail": "Inside Housing reports that the Chancellor's Budget repeats the Prime Minister's earlier announcement giving mayoral authorities access to £1.5bn of devolved loans. The Budget also confirms more funding for the Social and Affordable Homes Programme and for rough sleeping.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "d8e0788b3e1adac0"
+   ],
+   "sources": [
+    {
+     "author": "insidehousing.bsky.social",
+     "uri": "at://did:plc:4crnjat2gafdo4ezfzxgd3gg/app.bsky.feed.post/3myxlq6sbnb2g",
+     "url": "https://bsky.app/profile/insidehousing.bsky.social/post/3myxlq6sbnb2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e7b040ab4771",
+   "created_at": "2026-10-28T20:31:10Z"
+  },
   {
    "id": "001ce9d74dc5",
    "ts": "2026-10-28T20:22:38Z",
@@ -6875,27 +6896,6 @@
    "model": "opus",
    "run_id": "a48d2d9ea0d4",
    "created_at": "2026-10-27T16:35:45Z"
-  },
-  {
-   "id": "9e8751429362",
-   "ts": "2026-10-27T16:19:04Z",
-   "headline": "Kremlin's Peskov says it is too early to tell whether the Putin call with Stubb and Støre will affect the Abu Dhabi talks",
-   "detail": "Kremlin spokesman Dmitry Peskov said Putin's phone call with Finland's Stubb and Norway's Støre could, in some circumstances, influence contacts in Abu Dhabi, but that it is premature to say so yet.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a0186a89cda40781"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myunb4btdq2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myunb4btdq2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "80e991ec3c38",
-   "created_at": "2026-10-27T16:20:57Z"
   }
  ]
 }
