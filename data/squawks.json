@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T13:50:52Z",
+ "generated_at": "2026-10-28T13:55:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bacb92661727",
+   "ts": "2026-10-28T13:54:25Z",
+   "headline": "Losses on the BoE's quantitative tightening for 2027-28 are put at £5.7bn more than forecast in March",
+   "detail": "The higher estimate of losses on the Bank of England's QT programme for 2027-28 was reported on Budget day. It is £5.7bn above the March forecast.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "2a1957a0414c2c1c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywvnelayw2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywvnelayw2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "623960292c05",
+   "created_at": "2026-10-28T13:55:42Z"
+  },
+  {
+   "id": "aa37378e6ea9",
+   "ts": "2026-10-28T13:53:57Z",
+   "headline": "Kremlin says Europeans will not join the trilateral Ukraine talks and a date will be announced soon",
+   "detail": "Kremlin aide Ushakov said European representatives are not being invited to the negotiations on Ukraine, Interfax reported. The Kremlin also said the date of the trilateral talks would be announced soon.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e88770dcecb667a8",
+    "b2b7b2466d2c0c66",
+    "c8764bc6689da254"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywvme3ypf2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywvme3ypf2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywvmkbybu25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywvmkbybu25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywvnhdwep2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywvnhdwep2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "623960292c05",
+   "created_at": "2026-10-28T13:55:42Z"
+  },
   {
    "id": "789ac9be78ee",
    "ts": "2026-10-28T13:47:45Z",
@@ -6213,54 +6267,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myt2akpf3j25",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myt2akpf3j25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c13ede63d6f7",
-   "created_at": "2026-10-27T06:01:15Z"
-  },
-  {
-   "id": "aca92fad403a",
-   "ts": "2026-10-27T00:01:00Z",
-   "headline": "UK BRC shop price inflation rises to 2.1% in the year to October from 1.4% in September",
-   "detail": "The British Retail Consortium's figures put annual shop price inflation at 2.1% in October, up from 1.4% in September. Retailers told the Chancellor that discounting is no longer holding back price rises, City AM reports.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "8b38b488f0605ba4"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3myswx55tfo22",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3myswx55tfo22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c13ede63d6f7",
-   "created_at": "2026-10-27T06:01:15Z"
-  },
-  {
-   "id": "dbf23ee758f7",
-   "ts": "2026-10-26T23:18:42Z",
-   "headline": "USTR Greer warns EIB loan to Airbus may breach the US-EU trade truce and aircraft agreement",
-   "detail": "US Trade Representative Jamieson Greer said the European Investment Bank's loan to Airbus may violate the US-EU trade truce. He said US concerns need to be resolved quickly to avoid breaching the large civil aircraft agreement, the FT also reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6b4f80bcdeeefa11",
-    "a6685df475e2e699"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mysuak32qg2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mysuak32qg2y"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myswmsmz2a2k",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myswmsmz2a2k"
     }
    ],
    "model": "opus",
