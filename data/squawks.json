@@ -1,8 +1,107 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T14:55:43Z",
+ "generated_at": "2026-10-28T15:03:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bb436216d85f",
+   "ts": "2026-10-28T14:57:56Z",
+   "headline": "Dutch PM says no European ally is willing to buy Russian energy",
+   "detail": "The Dutch prime minister said no European ally is prepared to buy Russian energy and described doing so as a foolish decision.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "11d93e4bd4b9d4be",
+    "56f1a3f948827036"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywz6wytxe2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywz6wytxe2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywzhhhjpv25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywzhhhjpv25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c47a9f833e29",
+   "created_at": "2026-10-28T15:03:15Z"
+  },
+  {
+   "id": "5a6c6d6a97f3",
+   "ts": "2026-10-28T14:57:16Z",
+   "headline": "BoC's Rogers says policymakers broadly agreed inflation risks had risen and discussed both holding and raising rates",
+   "detail": "Bank of Canada Senior Deputy Governor Carolyn Rogers said there was strong consensus that inflation risks were rising. She said the Governing Council discussed whether to hold or raise rates, which she called common practice.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4b1418c53d1a6999",
+    "195405d22070aa99",
+    "ebdf475402f37a64"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywz5rgmbm2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywz5rgmbm2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywzg4gxxr25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywzg4gxxr25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywzgnvnvj25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywzgnvnvj25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c47a9f833e29",
+   "created_at": "2026-10-28T15:03:15Z"
+  },
+  {
+   "id": "fddf2c6cdfc8",
+   "ts": "2026-10-28T14:55:52Z",
+   "headline": "Zelenskiy expects clarity on peace talks after the US elections and will discuss territory only at leaders' level",
+   "detail": "Ukraine's President Zelenskiy said he expects clarity on talks with Russia and the US after the US elections. He said territory would only be discussed at leaders' level and called for European unity to help end the war.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "043880ac4475756f",
+    "2bdc97360657ce4f",
+    "ba33b43707a9cb73",
+    "453eccbc3d607961"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywz3aqjcm2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywz3aqjcm2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywz434fbc2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywz434fbc2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywz6scpbe2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywz6scpbe2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywzhkcfss2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywzhkcfss2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c47a9f833e29",
+   "created_at": "2026-10-28T15:03:15Z"
+  },
   {
    "id": "d73e23bda9e7",
    "ts": "2026-10-28T14:55:23Z",
@@ -6119,69 +6218,6 @@
    "model": "opus",
    "run_id": "a305a86b52cb",
    "created_at": "2026-10-27T09:01:15Z"
-  },
-  {
-   "id": "447c4b201d75",
-   "ts": "2026-10-27T08:51:29Z",
-   "headline": "France-Germany 10-year yield spread widens 6bp to 160bp",
-   "detail": "The gap between French and German 10-year government bond yields widened by 6bp to 160bp on Tuesday morning, according to a market wire.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "b130fba276ead714"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytuarlayy2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytuarlayy2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dda483a06d7d",
-   "created_at": "2026-10-27T08:55:40Z"
-  },
-  {
-   "id": "e5bbba44d389",
-   "ts": "2026-10-27T08:27:49Z",
-   "headline": "Saudi Arabia says it has contained a fire near the Ras Tanura oil hub after an attack",
-   "detail": "Saudi Arabia reports that a fire near its Ras Tanura oil hub, which broke out after an attack, has been contained. The report gave no details on damage to oil supply and no market reaction.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "4274704cd22a28cb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytswgvtna2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytswgvtna2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d0d554c54c1d",
-   "created_at": "2026-10-27T08:31:00Z"
-  },
-  {
-   "id": "94069f19b5e5",
-   "ts": "2026-10-27T08:15:12Z",
-   "headline": "UK business minister says Britain and EU are making progress on concerns over the bloc's proposed 'Made in Europe' rules",
-   "detail": "UK business minister Jonathan Reynolds said on Tuesday that London and Brussels are working through concerns over the EU's planned 'Made in Europe' rules, according to Reuters. The rules have caused uncertainty for UK manufacturers and investors.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "584c8e5a00f50da8"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myts7usv2b2w",
-     "url": "https://bsky.app/profile/reuters.com/post/3myts7usv2b2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f85094236ac7",
-   "created_at": "2026-10-27T08:15:52Z"
   }
  ]
 }
