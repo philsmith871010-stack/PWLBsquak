@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T09:40:53Z",
+ "generated_at": "2026-10-28T10:05:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cebeefe457cc",
+   "ts": "2026-10-28T10:02:22Z",
+   "headline": "Iran's president says the government is working to end the state of 'neither war nor peace'",
+   "detail": "Iran's President Pezeshkian said the government is working to get beyond the current state of neither war nor peace. Qatari mediators have given Iran a new draft deal, and Iran is expected to respond by the end of the week.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "22ab661f53e359ac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywiogi3u52d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywiogi3u52d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "120980aa6448",
+   "created_at": "2026-10-28T10:05:44Z"
+  },
+  {
+   "id": "8ea69a55d2d5",
+   "ts": "2026-10-28T10:01:35Z",
+   "headline": "Italian producer prices rise 3.6% m/m in September",
+   "detail": "Italian producer prices rose 3.6% month on month in September, according to the data release.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "7bea505e071c9977"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywin24ufv25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywin24ufv25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "120980aa6448",
+   "created_at": "2026-10-28T10:05:44Z"
+  },
   {
    "id": "be258725d7f5",
    "ts": "2026-10-28T09:37:58Z",
@@ -5702,48 +5744,6 @@
    "model": "opus",
    "run_id": "217dd6d67e0b",
    "created_at": "2026-10-26T07:01:18Z"
-  },
-  {
-   "id": "0e310450d095",
-   "ts": "2026-10-26T06:31:37Z",
-   "headline": "Fed to keep raising rates quarterly after reversing its 2025 insurance cuts, FT reports",
-   "detail": "The Financial Times reports that the Federal Reserve plans to keep its rate increases on a quarterly pace now that the insurance cuts made in 2025 have been reversed.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "dd9c084aa88610dc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr3xqier62d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr3xqier62d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b237cd9b70b5",
-   "created_at": "2026-10-26T06:40:47Z"
-  },
-  {
-   "id": "3eec80ec11eb",
-   "ts": "2026-10-26T06:29:53Z",
-   "headline": "Crude oil falls as Qatar pursues mediation efforts, FT reports",
-   "detail": "The Financial Times reports that crude oil prices are falling as Qatar pursues mediation. No price levels were given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "5664b6881dee7647"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr3unjehk2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr3unjehk2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b237cd9b70b5",
-   "created_at": "2026-10-26T06:40:47Z"
   }
  ]
 }
