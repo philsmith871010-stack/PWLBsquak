@@ -1,8 +1,143 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T12:50:49Z",
+ "generated_at": "2026-10-28T12:55:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c532dd44d226",
+   "ts": "2026-10-28T12:54:56Z",
+   "headline": "Budget extends the 5p fuel duty cut to July 2027 and suspends tariffs on more than 100 supermarket products",
+   "detail": "Chancellor Healey announced in the Budget that the 5p cut in fuel duty is extended to July 2027. He also announced that tariffs on more than 100 supermarket products are being suspended.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "776693349318c6e3",
+    "8e17c6ad5a19a9b7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywscyv3km2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywscyv3km2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myws5gbeab24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myws5gbeab24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9d174e790066",
+   "created_at": "2026-10-28T12:55:47Z"
+  },
+  {
+   "id": "23173a87a2d3",
+   "ts": "2026-10-28T12:54:00Z",
+   "headline": "OBR raises its 2027-28 UK borrowing forecast to 3.4% of GDP from 2.9%",
+   "detail": "The OBR's Budget forecast raises borrowing for 2027-28 to 3.4% of GDP from 2.9%. It also has the deficit falling to 1.8% of GDP by 2031-32.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "554434443828cfd1",
+    "2b227b8febb531e7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsbdge6m2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsbdge6m2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsb7jxwb24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsb7jxwb24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9d174e790066",
+   "created_at": "2026-10-28T12:55:47Z"
+  },
+  {
+   "id": "96c7fc2621b1",
+   "ts": "2026-10-28T12:53:52Z",
+   "headline": "OBR forecasts UK net financial debt at 83.1% of GDP in 2029-30, easing to 82.3% by 2030-31",
+   "detail": "Budget forecasts put UK net financial debt at 83.1% of GDP in 2029-30. The OBR projects the ratio easing to 82.3% by 2030-31.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "ed8b56d723f8b373",
+    "21392a990ee87d9a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsawvxtd2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsawvxtd2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsb3isvz2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsb3isvz2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9d174e790066",
+   "created_at": "2026-10-28T12:55:47Z"
+  },
+  {
+   "id": "c212bed46a32",
+   "ts": "2026-10-28T12:53:23Z",
+   "headline": "Healey raises the national living wage by 3.9% in the Budget",
+   "detail": "Chancellor Rachel Healey announced a 3.9% rise in the national living wage in his Budget statement.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "5615b332532b45f7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsaap6u32p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsaap6u32p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9d174e790066",
+   "created_at": "2026-10-28T12:55:47Z"
+  },
+  {
+   "id": "5eae420c0a9b",
+   "ts": "2026-10-28T12:52:38Z",
+   "headline": "Healey exempts pensioners with income up to the full state pension from income tax under a new pension allowance",
+   "detail": "Chancellor Healey announced a new pension tax allowance in the Budget. Under it, pensioners whose income is no higher than the new full state pension will not pay income tax.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "36094725f79beb67",
+    "297b1fb7d135a080",
+    "fbbcb351955aa9b9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myws6voeum25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myws6voeum25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myws6kvrdk2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myws6kvrdk2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsbh6fpl2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsbh6fpl2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9d174e790066",
+   "created_at": "2026-10-28T12:55:47Z"
+  },
   {
    "id": "9a7548d7946c",
    "ts": "2026-10-28T12:49:56Z",
@@ -5771,129 +5906,6 @@
    "model": "opus",
    "run_id": "c88f6b4f527c",
    "created_at": "2026-10-26T13:35:43Z"
-  },
-  {
-   "id": "9d2e5f607128",
-   "ts": "2026-10-26T13:03:34Z",
-   "headline": "Egypt's parliament authorises the military to help defend Saudi Arabia if the kingdom asks for support",
-   "detail": "Egyptian MPs voted to approve military support for Saudi Arabia's defence, to be given on a Saudi request. The vote follows Houthi missile and drone attacks aimed at Saudi Arabia. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ef9d5675031be1af",
-    "fa8e776cf455430c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrrultpoj2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrrultpoj2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrrvuxfdl2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrrvuxfdl2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5223649fb4cc",
-   "created_at": "2026-10-26T13:05:44Z"
-  },
-  {
-   "id": "01769176a15a",
-   "ts": "2026-10-26T12:53:59Z",
-   "headline": "French 10-year yield extends its fall, down as much as 10.56bp on the day to 4.9158%",
-   "detail": "The French 10-year yield fell as much as 10.56bp on the day to 4.9158%, a bigger drop than the 5.3bp decline reported earlier after Moody's left France's sovereign rating unchanged.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "a966fb47732bb5c6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrrdhlywm2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrrdhlywm2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c0975c833f39",
-   "created_at": "2026-10-26T12:55:41Z"
-  },
-  {
-   "id": "b711211af6ff",
-   "ts": "2026-10-26T12:31:15Z",
-   "headline": "US Chicago Fed National Activity Index rises to 0.07 for September, above the -0.095 forecast",
-   "detail": "The Chicago Fed National Activity Index for September came in at 0.07, against a forecast of -0.095 and a previous reading of -0.04.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e9519d04300e2b58",
-    "4d4b7e9cf3111bde"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrq2sqgfa2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrq2sqgfa2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrq3lntm72y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrq3lntm72y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "14b745259aee",
-   "created_at": "2026-10-26T12:35:43Z"
-  },
-  {
-   "id": "9c5763b48dc2",
-   "ts": "2026-10-26T12:12:54Z",
-   "headline": "US natural gas futures drop 5% to lowest since April 2026 on higher output and weaker demand forecasts",
-   "detail": "US natural gas futures extended losses to fall 5%, reaching their lowest level since April 2026. The decline was attributed to higher output and forecasts of lower demand.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "06d68f5f3497dad3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrozyueo52d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrozyueo52d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b755727c3fc2",
-   "created_at": "2026-10-26T12:15:50Z"
-  },
-  {
-   "id": "4441741376f0",
-   "ts": "2026-10-26T11:43:49Z",
-   "headline": "Banks face an expected tax raid in Wednesday's Budget; London mayor Khan urges them to keep investing in the UK",
-   "detail": "City AM reports that the banking sector is expected to face higher taxes in Chancellor Healey's Budget. On Monday, London mayor Sadiq Khan urged the biggest banks to stay in London but would not say whether he opposed the measure.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "a16bcf0409065a61",
-    "a3718f1a83dca024"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3myroozzoytn2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3myroozzoytn2"
-    },
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3myropwlctuv2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3myropwlctuv2"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1aefe32b7b42",
-   "created_at": "2026-10-26T12:09:51Z"
   }
  ]
 }
