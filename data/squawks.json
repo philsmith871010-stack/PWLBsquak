@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T15:03:15Z",
+ "generated_at": "2026-10-28T15:10:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3e51125b4cdf",
+   "ts": "2026-10-28T15:08:41Z",
+   "headline": "BoC's Rogers says the Bank does not see a Middle East resolution as imminent",
+   "detail": "Bank of Canada Senior Deputy Governor Rogers made the remark at the press conference following the Bank's 25bp rate rise to 2.5%. The press conference has now ended.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "cb071254eb86993c",
+    "1a42dd3be5d48e38"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywzs6v5yt22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywzs6v5yt22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywzsy7wdn2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywzsy7wdn2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "97d5338ca258",
+   "created_at": "2026-10-28T15:10:54Z"
+  },
+  {
+   "id": "e7f3306a1d70",
+   "ts": "2026-10-28T15:08:15Z",
+   "headline": "Zelenskiy says the energy ceasefire is not holding and Ukraine is hitting Russian energy sites in response to attacks",
+   "detail": "Ukraine's President Zelenskiy said the energy ceasefire is not working. He said Ukraine now responds to Russian attacks on its energy infrastructure by striking Russian energy infrastructure.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6e206d02e92b8c50",
+    "bd7ba8df99de8fc3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywzrfwc7q2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywzrfwc7q2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywzt5ppdi2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywzt5ppdi2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "97d5338ca258",
+   "created_at": "2026-10-28T15:10:54Z"
+  },
   {
    "id": "bb436216d85f",
    "ts": "2026-10-28T14:57:56Z",
@@ -6164,60 +6218,6 @@
    "model": "opus",
    "run_id": "07b46fb592f9",
    "created_at": "2026-10-27T09:25:46Z"
-  },
-  {
-   "id": "f67b56c647de",
-   "ts": "2026-10-27T09:20:50Z",
-   "headline": "French finance minister Lescure says France must answer protesters without adding to spending",
-   "detail": "In an FT interview, Finance Minister Roland Lescure said the government can find creative solutions without widening the budget deficit. He also said an unwinding of carry trades had added to pressure on short-dated French debt during this month's volatility.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "6db57f8b45891c38"
-   ],
-   "sources": [
-    {
-     "author": "iankmsmith.ft.com",
-     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3mytvvaj3zk2t",
-     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3mytvvaj3zk2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "07b46fb592f9",
-   "created_at": "2026-10-27T09:25:46Z"
-  },
-  {
-   "id": "2b3ede8997ee",
-   "ts": "2026-10-27T09:01:02Z",
-   "headline": "Eurozone M3 money supply grows 3.5% y/y, slightly above the 3.4% forecast; lending growth holds steady",
-   "detail": "Eurozone annual M3 growth was 3.5%, unchanged from the previous reading and against a 3.4% forecast. Loans to non-financial firms grew 4.2% and loans to households grew 3.1%, both the same as the previous month.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "be8ceac96e5548ac",
-    "d3064b80c99ef82c",
-    "ae3d4c814842a12f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myturudfk62d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myturudfk62d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myturwvyk52y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myturwvyk52y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myturzko3g2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myturzko3g2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a305a86b52cb",
-   "created_at": "2026-10-27T09:01:15Z"
   }
  ]
 }
