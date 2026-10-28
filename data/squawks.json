@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T08:35:48Z",
+ "generated_at": "2026-10-28T09:40:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "be258725d7f5",
+   "ts": "2026-10-28T09:37:58Z",
+   "headline": "China's commerce minister notes recent EU trade restrictions on China and calls the EU an important trade partner",
+   "detail": "China's commerce minister said in a statement that China has taken note of recent EU restrictive trade measures against it, and described China and the EU as important economic and trade partners.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "731b936c927d37bb",
+    "f5e5215bf883638f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywhbywp6b2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywhbywp6b2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywhcsbpe425",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywhcsbpe425"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c4ed3b93a1aa",
+   "created_at": "2026-10-28T09:40:53Z"
+  },
   {
    "id": "50479ef0e048",
    "ts": "2026-10-28T08:22:28Z",
@@ -5712,27 +5739,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr3unjehk2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr3unjehk2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b237cd9b70b5",
-   "created_at": "2026-10-26T06:40:47Z"
-  },
-  {
-   "id": "7f6a62780f91",
-   "ts": "2026-10-26T06:08:55Z",
-   "headline": "EU leaders aim to finalise €45bn Ukraine loan backed by the EU budget before year-end",
-   "detail": "EU leaders are seeking to complete a €45 billion loan to Ukraine, guaranteed by the EU budget, before the end of the year.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "62e59ea30a9b97cf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr2p5k33x2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr2p5k33x2b"
     }
    ],
    "model": "opus",
