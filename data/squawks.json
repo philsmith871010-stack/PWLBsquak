@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T16:35:45Z",
+ "generated_at": "2026-10-28T16:40:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0e370464dc70",
+   "ts": "2026-10-28T16:38:32Z",
+   "headline": "Markets price about a 93% chance that the Fed holds rates at 3.75%–4.00% ahead of today's decision",
+   "detail": "A market commentator said a hold at 3.75%–4.00% is about 93% priced for the Federal Reserve decision at 2:00pm ET, with Chair Warsh's press conference due at 2:30pm ET.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "fd583f76069db91c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myx6stdqyu25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myx6stdqyu25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ed18b4ed4bcd",
+   "created_at": "2026-10-28T16:40:53Z"
+  },
   {
    "id": "b0fcc51c1ffe",
    "ts": "2026-10-28T16:31:44Z",
@@ -6149,27 +6170,6 @@
    "model": "opus",
    "run_id": "f67234c36a9a",
    "created_at": "2026-10-27T11:01:20Z"
-  },
-  {
-   "id": "cbe148156814",
-   "ts": "2026-10-27T10:55:14Z",
-   "headline": "Houthis claim a ballistic missile strike on Saudi Arabia's Ras Tanura refinery",
-   "detail": "Yemen's Houthi forces said they hit the Ras Tanura refinery in Saudi Arabia's Eastern Province with a ballistic missile and that the strike caused large fires. Saudi Arabia had earlier said it had contained a fire near the oil hub after an attack.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "7cb8672ff8713ac6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu362nboi2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu362nboi2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1d6c41903d77",
-   "created_at": "2026-10-27T10:55:39Z"
   }
  ]
 }
