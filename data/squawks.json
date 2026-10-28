@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T17:35:42Z",
+ "generated_at": "2026-10-28T18:01:20Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5b3bebf31af2",
+   "ts": "2026-10-28T18:00:27Z",
+   "headline": "Fed holds rates at 3.75%–4.00% on a 10-2 vote",
+   "detail": "The Federal Reserve left its target range for the federal funds rate at 3.75%–4.00%, as expected, with two FOMC members dissenting. The Fed said gathering more information will help it decide the appropriate policy stance.",
+   "category": "global_rates",
+   "importance": 3,
+   "source_event_ids": [
+    "3dd12d523cd64aec",
+    "e46f0c4a439cb84b",
+    "ca532786a44f3ce3",
+    "67d2d7c4641e808c",
+    "1bc1c164b17d81e3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdfcvfmx2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdfcvfmx2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdg5hupc25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdg5hupc25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdggzgtn2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdggzgtn2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdgkoj5h25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdgkoj5h25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdgqrhms2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdgqrhms2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c53c38012065",
+   "created_at": "2026-10-28T18:01:20Z"
+  },
   {
    "id": "e22ca195a952",
    "ts": "2026-10-28T17:33:05Z",
@@ -6149,57 +6194,6 @@
    "model": "opus",
    "run_id": "40e77cdcfc25",
    "created_at": "2026-10-27T11:40:49Z"
-  },
-  {
-   "id": "2a25ff46a6d8",
-   "ts": "2026-10-27T11:31:29Z",
-   "headline": "Putin warns that trying to shut Russia out of the global gas market has serious consequences and urges gas exporters to coordinate routes",
-   "detail": "Russian President Vladimir Putin said global natural gas prices have risen sharply but may fall again, and that gas supply needs to increase. He proposed that gas-exporting countries work together to optimise export and transport routes.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "2652b5da1e6578d5",
-    "97cb9f082af9a44d",
-    "9ca3d146ce7c15d6",
-    "3aa10812d05b891c",
-    "6c53e65beecd6696",
-    "f275c9d72f031d27"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu56v22ko2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu56v22ko2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu57p6vcw2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu57p6vcw2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu5blfedg2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu5blfedg2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu5dhmzca24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu5dhmzca24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu5eih35k2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu5eih35k2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu5fbrtev2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu5fbrtev2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cd65a2fd0f70",
-   "created_at": "2026-10-27T11:35:40Z"
   }
  ]
 }
