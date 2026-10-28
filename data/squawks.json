@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T07:35:50Z",
+ "generated_at": "2026-10-28T07:40:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "241f4f80f2ea",
+   "ts": "2026-10-28T07:40:10Z",
+   "headline": "China urges Germany and the EU to take a rational approach on trade and supply chains",
+   "detail": "China's foreign ministry said on Wednesday that it is committed to keeping global industrial and supply chains stable and secure. It was responding to German Chancellor Merz's proposal for wider EU-Asia market access to counter trade restrictions.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d35d7d863249ae1f"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mywaq5qctf2d",
+     "url": "https://bsky.app/profile/reuters.com/post/3mywaq5qctf2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "47f0a683d296",
+   "created_at": "2026-10-28T07:40:53Z"
+  },
   {
    "id": "8f7627cfadea",
    "ts": "2026-10-28T07:34:20Z",
@@ -5748,39 +5769,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqmwamqw42b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqmwamqw42b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3b02c91c6044",
-   "created_at": "2026-10-26T06:31:04Z"
-  },
-  {
-   "id": "35299065d35f",
-   "ts": "2026-10-26T01:40:09Z",
-   "headline": "China's onshore yuan strengthens to 6.6682 per dollar, strongest since June 2022, after PBOC sets firmest fixing since 2023",
-   "detail": "The PBOC set the yuan midpoint at 6.7162 per dollar, against 6.7180 previously, its strongest fixing since 2 February 2023. The onshore yuan then rose to 6.6682 in early trade, its strongest level since 9 June 2022.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b9382d8e2a048961",
-    "fb7a63bc7a644c52",
-    "337f860512efb2e7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqkgisyas25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqkgisyas25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqkr4qsv524",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqkr4qsv524"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqlokmdvm2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqlokmdvm2a"
     }
    ],
    "model": "opus",
