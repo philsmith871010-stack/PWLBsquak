@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T10:10:59Z",
+ "generated_at": "2026-10-28T10:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0e93a562a622",
+   "ts": "2026-10-28T10:13:53Z",
+   "headline": "Zelenskiy says Russia could also get security guarantees as part of a Ukraine peace deal, FT reports",
+   "detail": "The Financial Times reports that Ukraine's president has acknowledged Moscow could receive security guarantees under a peace settlement. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "92b8758814255576"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mywjczipge2e",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mywjczipge2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b7807a696897",
+   "created_at": "2026-10-28T10:15:52Z"
+  },
   {
    "id": "7721a69a552c",
    "ts": "2026-10-28T10:07:44Z",
@@ -5735,39 +5756,6 @@
    "model": "opus",
    "run_id": "ac21c9e36a2a",
    "created_at": "2026-10-26T07:31:06Z"
-  },
-  {
-   "id": "2c633e23bdbb",
-   "ts": "2026-10-26T07:21:23Z",
-   "headline": "PM Burnham says he is not proposing that the UK rejoin the EU in this parliament and rules out an early election",
-   "detail": "Prime Minister Andy Burnham made the remarks in an ITV interview on 26 October. He said he was not proposing EU membership during the current parliament and ruled out calling an early general election.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1626ca348e91e1e1",
-    "29787af30e736d35",
-    "09967fea201e7b95"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr6qpwyjh2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr6qpwyjh2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr6rkmi6d2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr6rkmi6d2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr6pvneux2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr6pvneux2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d526d4a8d232",
-   "created_at": "2026-10-26T07:25:43Z"
   }
  ]
 }
