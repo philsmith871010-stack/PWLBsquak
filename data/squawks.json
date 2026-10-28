@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T10:50:53Z",
+ "generated_at": "2026-10-28T11:10:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7ada20f449fe",
+   "ts": "2026-10-28T11:10:12Z",
+   "headline": "Gulf stocks fall after an attack on Saudi Arabia's Ras Tanura refinery revives fears of Middle East escalation",
+   "detail": "Reuters reports that Gulf equity markets fell in early trade on Wednesday after an attack on the Ras Tanura refinery in Saudi Arabia, the largest crude exporter. The attack revived concerns that the conflict in the Middle East could escalate.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "0cbb6dba1340418a"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mywmhpya5r2a",
+     "url": "https://bsky.app/profile/reuters.com/post/3mywmhpya5r2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ff863461c8fc",
+   "created_at": "2026-10-28T11:10:54Z"
+  },
   {
    "id": "80a3cb062044",
    "ts": "2026-10-28T10:47:12Z",
@@ -5712,39 +5733,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myrcuphqz42o",
      "url": "https://bsky.app/profile/reuters.com/post/3myrcuphqz42o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "63f6e7dd13ec",
-   "created_at": "2026-10-26T08:35:43Z"
-  },
-  {
-   "id": "72bb66949578",
-   "ts": "2026-10-26T08:33:06Z",
-   "headline": "EU plans import curbs on Chinese chemicals and furniture, which could be presented as early as Q1 2027",
-   "detail": "Reports say the EU is planning import restrictions on Chinese chemicals and furniture and is also looking at caps or quotas on Chinese furniture. The new trade measures could be presented as early as the first quarter of 2027.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "fb62edaa6fb842de",
-    "71d9731935629734",
-    "0d329b9bb02c3a2a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrcqxxw5x2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrcqxxw5x2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrcsmapjx2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrcsmapjx2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrctspaot2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrctspaot2p"
     }
    ],
    "model": "opus",
