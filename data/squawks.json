@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T13:05:44Z",
+ "generated_at": "2026-10-28T13:10:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "36d42dff14ed",
+   "ts": "2026-10-28T13:08:10Z",
+   "headline": "Healey announces a founders relief within capital gains tax in the Budget",
+   "detail": "Chancellor Healey announced a new founders relief in capital gains tax during the Budget speech. No further details were given in the reports.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "b921405b38f34374"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywt2oewns2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywt2oewns2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "de139f47a224",
+   "created_at": "2026-10-28T13:10:54Z"
+  },
+  {
+   "id": "74717ca0b646",
+   "ts": "2026-10-28T13:07:19Z",
+   "headline": "Budget sets out £140mn investment in strategic British AI companies",
+   "detail": "The UK Budget includes £140mn of investment for strategic British AI firms, as announced during Chancellor Healey's speech.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "371ce5febaff97df"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsz625dd24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsz625dd24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "de139f47a224",
+   "created_at": "2026-10-28T13:10:54Z"
+  },
   {
    "id": "2796c01df66c",
    "ts": "2026-10-28T13:04:45Z",
@@ -5906,48 +5948,6 @@
    "model": "opus",
    "run_id": "ad86a2fe001c",
    "created_at": "2026-10-26T15:25:42Z"
-  },
-  {
-   "id": "4340f01765b3",
-   "ts": "2026-10-26T15:13:43Z",
-   "headline": "US Strategic Petroleum Reserve crude stocks drop to 282.6 million barrels, the lowest level since 1982",
-   "detail": "Crude held in the US Strategic Petroleum Reserve fell to 282.6 million barrels last week, the lowest level since 1982, according to a market news feed.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "2f62d7efaf0fa799"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrz5dwnjg25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrz5dwnjg25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c740bacff241",
-   "created_at": "2026-10-26T15:15:56Z"
-  },
-  {
-   "id": "85495786b08a",
-   "ts": "2026-10-26T15:02:57Z",
-   "headline": "US Treasury plans to buy back up to $6bn of longer-dated debt on Tuesday",
-   "detail": "The US Treasury will hold a buyback operation on Tuesday for up to $6bn of longer-dated securities.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0384c753eea44355"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myryk35yo622",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myryk35yo622"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f5adb6faed25",
-   "created_at": "2026-10-26T15:05:42Z"
   }
  ]
 }
