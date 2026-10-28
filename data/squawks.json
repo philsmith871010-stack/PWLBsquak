@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T15:35:41Z",
+ "generated_at": "2026-10-28T15:45:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "489b3f66ae1e",
+   "ts": "2026-10-28T15:41:48Z",
+   "headline": "US crude futures rise $3 a barrel as fighting in Yemen raises Middle East supply concerns",
+   "detail": "A market newswire reports US crude prices up $3 a barrel. The move is attributed to concerns over Middle East supply after fighting in Yemen.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "7fc97f71f6f72c91"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myx3nfr2o62y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myx3nfr2o62y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "47b793459332",
+   "created_at": "2026-10-28T15:45:52Z"
+  },
   {
    "id": "18fa2f3a2852",
    "ts": "2026-10-28T15:35:19Z",
@@ -6179,27 +6200,6 @@
    "model": "opus",
    "run_id": "c4dad70c6655",
    "created_at": "2026-10-27T10:25:49Z"
-  },
-  {
-   "id": "14a7d7326f66",
-   "ts": "2026-10-27T10:14:37Z",
-   "headline": "Qatar's foreign ministry says Iran must halt threats to Gulf states and reopen the Strait of Hormuz for mediation to work",
-   "detail": "A spokesperson for Qatar's foreign ministry said Iran needs to demonstrate good intentions and stop threatening Arab Gulf states. The spokesperson also said Tehran must open the Strait of Hormuz for mediation efforts to succeed.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "80a4e77ef3d0c20a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytyvgbvrw22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytyvgbvrw22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3f160660060c",
-   "created_at": "2026-10-27T10:15:53Z"
   }
  ]
 }
