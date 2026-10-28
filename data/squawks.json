@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T15:50:51Z",
+ "generated_at": "2026-10-28T16:10:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "42f137c4c7e9",
+   "ts": "2026-10-28T16:09:05Z",
+   "headline": "Meloni says Italy's 2027 budget includes €26bn of tax cuts and spending increases",
+   "detail": "Italian Prime Minister Giorgia Meloni said the 2027 budget contains tax cuts and spending increases worth €26bn.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9a4440805c102421"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myx566iwcw2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myx566iwcw2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1feec36bf5b7",
+   "created_at": "2026-10-28T16:10:56Z"
+  },
   {
    "id": "9d91f33d1961",
    "ts": "2026-10-28T15:45:50Z",
@@ -6131,33 +6152,6 @@
    "model": "opus",
    "run_id": "cad25172239b",
    "created_at": "2026-10-27T10:35:48Z"
-  },
-  {
-   "id": "9491e2995641",
-   "ts": "2026-10-27T10:26:39Z",
-   "headline": "Kremlin says Russia-US-Ukraine talks will resume in Abu Dhabi in November to address postwar security",
-   "detail": "The Kremlin said the three-way talks between Russia, the US and Ukraine will restart in Abu Dhabi in November. It said the talks will cover postwar security arrangements.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a578ab36071993f8",
-    "46c9c1cce7cd017f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytzkwtzss2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytzkwtzss2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytzpmeg6a22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytzpmeg6a22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f8b2312ec953",
-   "created_at": "2026-10-27T10:31:10Z"
   }
  ]
 }
