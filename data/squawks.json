@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T11:10:54Z",
+ "generated_at": "2026-10-28T12:05:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "490e0ff9e187",
+   "ts": "2026-10-28T12:01:27Z",
+   "headline": "US secured overnight financing rate rises to 3.95% on 27 October from 3.93%",
+   "detail": "The US secured overnight financing rate was 3.95% on 27 October, compared with 3.93% on 26 October.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "66bc0ade39d205b0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywpdenjqv2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywpdenjqv2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7e60abf54432",
+   "created_at": "2026-10-28T12:05:48Z"
+  },
   {
    "id": "7ada20f449fe",
    "ts": "2026-10-28T11:10:12Z",
@@ -5717,27 +5738,6 @@
    "model": "opus",
    "run_id": "d10bb34a39e4",
    "created_at": "2026-10-26T09:01:18Z"
-  },
-  {
-   "id": "2bcae7875a72",
-   "ts": "2026-10-26T08:35:12Z",
-   "headline": "Chancellor Healey expected to deliver a cautious first Budget this week, putting gilt market stability first, Reuters reports",
-   "detail": "Reuters reports that Chancellor John Healey is expected to favour bond market stability over large spending increases in this week's Budget. The report contrasts this with the bigger spending plans PM Burnham discussed when he took office.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "e17dea2165f74b4e"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myrcuphqz42o",
-     "url": "https://bsky.app/profile/reuters.com/post/3myrcuphqz42o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "63f6e7dd13ec",
-   "created_at": "2026-10-26T08:35:43Z"
   }
  ]
 }
