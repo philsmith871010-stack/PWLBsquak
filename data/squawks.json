@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T07:20:55Z",
+ "generated_at": "2026-10-28T07:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "72fc3e858647",
+   "ts": "2026-10-28T07:21:39Z",
+   "headline": "Russia's Ryabkov says Moscow is preparing for Ukraine negotiations and hopes US dialogue can address the conflict's root causes",
+   "detail": "Russian Deputy Foreign Minister Sergei Ryabkov said Russia is in the preparation phase for negotiations on Ukraine. He also said Moscow hopes close dialogue with the US administration will help resolve the root causes of the conflict.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a1fada588aee237c",
+    "47533a0b9b07efd0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myw7p2embv2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myw7p2embv2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myw7smxc4i2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myw7smxc4i2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "146fe2374f52",
+   "created_at": "2026-10-28T07:25:42Z"
+  },
   {
    "id": "0a8a6969c5e7",
    "ts": "2026-10-28T07:16:55Z",
@@ -5754,33 +5781,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqjporz3w2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqjporz3w2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "92a4445d13c1",
-   "created_at": "2026-10-26T06:25:41Z"
-  },
-  {
-   "id": "24b71b6aad10",
-   "ts": "2026-10-25T23:47:15Z",
-   "headline": "White House adviser Hassett says US-Canada trade deal is very close; Trump says tariff dispute will be settled soon",
-   "detail": "Hassett said Commerce Secretary Lutnick is still negotiating, although US officials cautioned that progress was uncertain because Canada had not offered enough concessions. Speaking at a Michigan border rally, Trump said the dispute would be resolved soon but did not say what a deal would involve.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ca5fbb25524a222c",
-    "1bcb298aea3b5fd3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqfeolrbu25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqfeolrbu25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqfxoxfvr2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqfxoxfvr2b"
     }
    ],
    "model": "opus",
