@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T13:55:42Z",
+ "generated_at": "2026-10-28T14:05:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8f66b6df50e7",
+   "ts": "2026-10-28T14:05:24Z",
+   "headline": "DMO says its standing repo facility for Treasury bills will start in January",
+   "detail": "The UK Debt Management Office says a standing repo facility covering Treasury bills will begin operating in January.",
+   "category": "supply",
+   "importance": 2,
+   "source_event_ids": [
+    "000519476f2b648c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywwaz3sos2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywwaz3sos2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4b75921428db",
+   "created_at": "2026-10-28T14:05:45Z"
+  },
+  {
+   "id": "8ff56ea34b26",
+   "ts": "2026-10-28T14:01:42Z",
+   "headline": "OBR puts UK headroom before Budget measures at £12.5bn in 2029-30",
+   "detail": "The OBR estimates fiscal headroom in 2029-30 at £12.5bn before the Budget measures are taken into account.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "59c8f1b94b6d3ae7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myww2fgwpb2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myww2fgwpb2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4b75921428db",
+   "created_at": "2026-10-28T14:05:45Z"
+  },
   {
    "id": "bacb92661727",
    "ts": "2026-10-28T13:54:25Z",
@@ -6218,60 +6260,6 @@
    "model": "opus",
    "run_id": "d07a13678c3b",
    "created_at": "2026-10-27T06:05:46Z"
-  },
-  {
-   "id": "d9d04d9c567a",
-   "ts": "2026-10-27T01:22:36Z",
-   "headline": "People's Bank of China injects 1 trillion yuan through overnight reverse repos",
-   "detail": "China's central bank said in a statement that it had added 1 trillion yuan of liquidity through overnight reverse repurchase operations.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6c2faf1b262a49ec"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myt364l6ku2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myt364l6ku2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d07a13678c3b",
-   "created_at": "2026-10-27T06:05:46Z"
-  },
-  {
-   "id": "6210cd6551f2",
-   "ts": "2026-10-27T01:00:37Z",
-   "headline": "Russia-Ukraine ceasefire in Oleshky takes effect; Russia suspends strikes on Kherson",
-   "detail": "The local ceasefire in Oleshky came into force, according to reports. Russia's Defence Ministry said it has suspended strikes on Ukraine's Kherson.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d5eaa6da4ddd3a07",
-    "2d1c772db79b6bc0",
-    "52a7435a667b532f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myszwsl4ij24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myszwsl4ij24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myt24yuf3325",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myt24yuf3325"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myt2akpf3j25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myt2akpf3j25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c13ede63d6f7",
-   "created_at": "2026-10-27T06:01:15Z"
   }
  ]
 }
