@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T17:21:03Z",
+ "generated_at": "2026-10-28T17:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e22ca195a952",
+   "ts": "2026-10-28T17:33:05Z",
+   "headline": "HMRC draws up list of 200 billionaires as part of a tax compliance drive on the UK's wealthiest",
+   "detail": "The FT reports that HMRC has identified 200 billionaires and is inviting each of them and their representatives to a voluntary early or pre-filing discussion.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "6b8a0b4afccf6a22"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myxbueni7n22",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myxbueni7n22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d89ead5e5aea",
+   "created_at": "2026-10-28T17:35:42Z"
+  },
   {
    "id": "6a4a01a87662",
    "ts": "2026-10-28T17:17:18Z",
@@ -6179,27 +6200,6 @@
    "model": "opus",
    "run_id": "cd65a2fd0f70",
    "created_at": "2026-10-27T11:35:40Z"
-  },
-  {
-   "id": "89b513047260",
-   "ts": "2026-10-27T11:31:04Z",
-   "headline": "Putin describes the sabotage of the Nord Stream pipelines as direct acts of terrorism",
-   "detail": "Russian President Vladimir Putin called the attacks on the Nord Stream gas pipelines direct acts of terrorism. Earlier, Deputy Prime Minister Novak said Russia was ready to resume gas supplies to Europe. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f017327a4d57c4cf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu5655n4t22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu5655n4t22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a2ed9553574c",
-   "created_at": "2026-10-27T11:31:08Z"
   }
  ]
 }
