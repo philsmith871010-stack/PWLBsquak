@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T15:20:57Z",
+ "generated_at": "2026-10-28T15:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "18fa2f3a2852",
+   "ts": "2026-10-28T15:35:19Z",
+   "headline": "Healey says the main UK minimum wage rate will rise by 3.9%",
+   "detail": "Chancellor John Healey announced on Wednesday that the main minimum wage rate will increase by 3.9%, Reuters reports.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "85f61dc8f4c92360"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myx3bsddjk2i",
+     "url": "https://bsky.app/profile/reuters.com/post/3myx3bsddjk2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a11db88a01c8",
+   "created_at": "2026-10-28T15:35:41Z"
+  },
   {
    "id": "f2545494e73a",
    "ts": "2026-10-28T15:18:43Z",
@@ -6179,27 +6200,6 @@
    "model": "opus",
    "run_id": "3f160660060c",
    "created_at": "2026-10-27T10:15:53Z"
-  },
-  {
-   "id": "75673574e42d",
-   "ts": "2026-10-27T10:05:10Z",
-   "headline": "Gulf stock markets rise after Saudi, Turkish and Pakistani officials meet Iran in Tehran to ease escalation",
-   "detail": "Reuters reports that major Gulf stock markets rose in early trade on Tuesday. The gains came a day after senior officials from Saudi Arabia, Turkey and Pakistan met Iranian officials in Tehran to try to ease military escalation.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c7e948e01ea10b4a"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mytyej5lmr2t",
-     "url": "https://bsky.app/profile/reuters.com/post/3mytyej5lmr2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d6cac0c90158",
-   "created_at": "2026-10-27T10:05:41Z"
   }
  ]
 }
