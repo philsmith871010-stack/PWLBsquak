@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T07:15:58Z",
+ "generated_at": "2026-10-28T07:20:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0a8a6969c5e7",
+   "ts": "2026-10-28T07:16:55Z",
+   "headline": "Zelenskiy says Ukraine will not target Russian ships carrying diesel bound for the US",
+   "detail": "Ukraine's President Zelenskiy said Ukraine would not attack Russian vessels transporting diesel to the United States. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "33822b492dbb2139"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myw7glsbwg2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myw7glsbwg2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "649124876f45",
+   "created_at": "2026-10-28T07:20:55Z"
+  },
   {
    "id": "9e36d7276ba7",
    "ts": "2026-10-28T07:10:58Z",
@@ -5765,33 +5786,6 @@
    "model": "opus",
    "run_id": "92a4445d13c1",
    "created_at": "2026-10-26T06:25:41Z"
-  },
-  {
-   "id": "f97f2449c665",
-   "ts": "2026-10-25T22:30:58Z",
-   "headline": "UK government commits a further £432mn to end rough sleeping ahead of the Budget",
-   "detail": "The government has committed a further £432mn to ending rough sleeping. The FT reports that PM Burnham is promising Budget money for the goal, while Chancellor Healey is preparing a fiscal statement intended to reassure markets.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "937292efc3e128f7",
-    "b64292c47e5b5ec7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqb4b7xvu2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqb4b7xvu2p"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myqcv6vgz42i",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myqcv6vgz42i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "701f52f8d6da",
-   "created_at": "2026-10-26T06:20:51Z"
   }
  ]
 }
