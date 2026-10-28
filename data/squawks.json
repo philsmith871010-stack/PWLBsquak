@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T10:20:54Z",
+ "generated_at": "2026-10-28T10:35:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "810a333b7f4e",
+   "ts": "2026-10-28T10:35:10Z",
+   "headline": "US regulator proposes rules to speed up LNG projects and expand export capacity",
+   "detail": "Reuters reports that a US regulator on Wednesday proposed new rules to speed up liquefied natural gas projects and expand export capacity. The proposal is part of the Trump administration's wider push on energy infrastructure.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "9b1a9bc7298a5368"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mywkj3mfty2i",
+     "url": "https://bsky.app/profile/reuters.com/post/3mywkj3mfty2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0640efd08fac",
+   "created_at": "2026-10-28T10:35:47Z"
+  },
+  {
+   "id": "c2a7e1cbd2e3",
+   "ts": "2026-10-28T10:32:43Z",
+   "headline": "Germany's 10-year Bund auction averages 3.37%, down from 3.58% last time; bid-to-cover falls to 1.1",
+   "detail": "The average yield at Germany's 10-year Bund auction was 3.37%, compared with 3.58% at the previous sale. The bid-to-cover ratio was 1.1, down from 1.2.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "fc785eb306bb7c21",
+    "918ae502af375cce"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywkepfpph2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywkepfpph2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywkextvbb25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywkextvbb25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0640efd08fac",
+   "created_at": "2026-10-28T10:35:47Z"
+  },
   {
    "id": "cece1a5401f2",
    "ts": "2026-10-28T10:17:38Z",
@@ -5702,48 +5750,6 @@
    "model": "opus",
    "run_id": "9af8e54cbc89",
    "created_at": "2026-10-26T08:01:22Z"
-  },
-  {
-   "id": "805e9072f4eb",
-   "ts": "2026-10-26T07:39:29Z",
-   "headline": "French 10-year yield falls 5.3bp to 4.9685% after Moody's keeps France's sovereign rating unchanged",
-   "detail": "France's 10-year government bond yield falls 5.3bp to 4.9685% in early trading. The move follows Moody's decision on Friday to leave France's sovereign rating unchanged.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "2318b0794da27298"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr7r43mg325",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr7r43mg325"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4cbc875109dd",
-   "created_at": "2026-10-26T07:40:53Z"
-  },
-  {
-   "id": "d353fea121b9",
-   "ts": "2026-10-26T07:34:02Z",
-   "headline": "Markets price only 12% odds of a Fed rate rise at this week's meeting",
-   "detail": "An economist reports that markets see a 12% chance of a Fed hike at this week's meeting. He contrasts this with July, when markets pushed for a rise from Chair Warsh.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a4dc49dcc10ca7ef"
-   ],
-   "sources": [
-    {
-     "author": "robin-j-brooks.bsky.social",
-     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3myr7hdgvvc2y",
-     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3myr7hdgvvc2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c77c3fedb586",
-   "created_at": "2026-10-26T07:35:44Z"
   }
  ]
 }
