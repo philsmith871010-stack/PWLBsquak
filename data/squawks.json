@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T20:40:57Z",
+ "generated_at": "2026-10-28T21:01:18Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "584497740ad2",
+   "ts": "2026-10-28T20:59:20Z",
+   "headline": "Fitch says US fiscal pressures will persist whatever the midterm election result",
+   "detail": "Fitch Ratings said pressure on US public finances is set to continue regardless of the outcome of the midterm elections. The post reported no rating action.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6fff7d17d5f0f438"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxnf6enrd2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxnf6enrd2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "76fc13b0aab0",
+   "created_at": "2026-10-28T21:01:18Z"
+  },
   {
    "id": "f5c9b49ff356",
    "ts": "2026-10-28T20:36:49Z",
@@ -6863,39 +6884,6 @@
    "model": "opus",
    "run_id": "dfbe9e0b93eb",
    "created_at": "2026-10-27T17:01:21Z"
-  },
-  {
-   "id": "4aa79995a3f4",
-   "ts": "2026-10-27T16:47:01Z",
-   "headline": "Iran's President Pezeshkian tells Putin the region can resolve its problems without the US",
-   "detail": "Iran's president made the remarks during talks with Russia's president in Moscow, Tasnim reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "efced6fc35b71b7d",
-    "753cf710fb23cab4",
-    "75f12b4637959562"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuot3racl25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuot3racl25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuoychi6n2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuoychi6n2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuorbsv3q2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuorbsv3q2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "36962be4ebbd",
-   "created_at": "2026-10-27T16:50:52Z"
   }
  ]
 }
