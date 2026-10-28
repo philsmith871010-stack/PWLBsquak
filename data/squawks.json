@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T21:01:18Z",
+ "generated_at": "2026-10-28T21:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5fb1e09a3083",
+   "ts": "2026-10-28T21:15:16Z",
+   "headline": "Trump says he did not instruct Vance to write to Iran",
+   "detail": "President Trump said he had not told Vice President Vance to send the letter to Iran. The WSJ had reported that Vance wrote to a senior Iranian hard-liner to try to restart peace talks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e37e4843960e8120"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxobojci42g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxobojci42g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "03662803b500",
+   "created_at": "2026-10-28T21:15:52Z"
+  },
   {
    "id": "584497740ad2",
    "ts": "2026-10-28T20:59:20Z",
@@ -6863,27 +6884,6 @@
    "model": "opus",
    "run_id": "b3bfee853083",
    "created_at": "2026-10-27T17:05:44Z"
-  },
-  {
-   "id": "7011b60b4070",
-   "ts": "2026-10-27T17:00:56Z",
-   "headline": "US 5-year Treasury when-issued yield is 4.841% ahead of the $70bn auction",
-   "detail": "Ahead of the US Treasury's $70bn 5-year note auction, the when-issued yield was quoted at 4.841%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4d5e9699fe5b411b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuplxufby25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuplxufby25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dfbe9e0b93eb",
-   "created_at": "2026-10-27T17:01:21Z"
   }
  ]
 }
