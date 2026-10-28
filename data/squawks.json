@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T19:21:03Z",
+ "generated_at": "2026-10-28T19:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f8388285345d",
+   "ts": "2026-10-28T19:21:21Z",
+   "headline": "US CENTCOM says US forces have cleared sea mines from the main transit routes through the Strait of Hormuz",
+   "detail": "US Central Command says all internationally recognised primary transit routes through the Strait of Hormuz have been cleared of sea mines by US forces and remain clear. It says thousands of commercial vessels have used the lanes safely and are still using them today.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "603728ba5c245541"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxhvylf5r2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxhvylf5r2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "54431022b756",
+   "created_at": "2026-10-28T19:25:42Z"
+  },
   {
    "id": "7a0f7ff8074d",
    "ts": "2026-10-28T19:20:07Z",
@@ -6785,27 +6806,6 @@
    "model": "opus",
    "run_id": "d06872ce3f4b",
    "created_at": "2026-10-27T14:40:52Z"
-  },
-  {
-   "id": "cde99532f1f1",
-   "ts": "2026-10-27T14:32:04Z",
-   "headline": "Dallas Fed services activity index rises to 4.0 in October, against a -2.9 forecast",
-   "detail": "The Dallas Fed's services activity index for October came in at 4.0. The forecast was -2.9 and the previous reading was -1.8.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "5cd12b959cc4327e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuhbqzitb2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuhbqzitb2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "00fc17a68890",
-   "created_at": "2026-10-27T14:35:40Z"
   }
  ]
 }
