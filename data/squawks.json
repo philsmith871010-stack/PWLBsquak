@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T16:15:56Z",
+ "generated_at": "2026-10-28T16:20:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7649079dc3fa",
+   "ts": "2026-10-28T16:18:06Z",
+   "headline": "Senior US official says any Iran strike does not depend on Israeli politics and Trump aims to remove threats to Hormuz",
+   "detail": "Israel Hayom quotes an unnamed senior US diplomatic official as saying a strike on Iran does not depend on Israel's political process. The official also says Trump is still determined to fully neutralise Iran's military nuclear programme and remove military threats to the Strait of Hormuz and to Iran's neighbours.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9cae3c65e4572b42",
+    "54e446403fd51376"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myx5oc5fd62f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myx5oc5fd62f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myx5s4d6cy2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myx5s4d6cy2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fa2a35e7ef2e",
+   "created_at": "2026-10-28T16:20:56Z"
+  },
   {
    "id": "3ab0fbae57a2",
    "ts": "2026-10-28T16:14:25Z",
@@ -6119,33 +6146,6 @@
    "model": "opus",
    "run_id": "b87042767d79",
    "created_at": "2026-10-27T10:40:55Z"
-  },
-  {
-   "id": "8cde9e2c6709",
-   "ts": "2026-10-27T10:33:40Z",
-   "headline": "Kremlin says Putin told Stubb and Støre peace needs Russia's interests met in full and EU and NATO policies prolong the war",
-   "detail": "The Kremlin said Putin told the leaders of Finland and Norway that peace can only come if Russia's interests are taken into account fully and without conditions. It said he also told them that confrontational EU and NATO policies are dragging out the conflict.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "82accf2763adf30c",
-    "28f75e45343be77f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytzxhqo4r24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytzxhqo4r24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytzzapkhe2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytzzapkhe2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cad25172239b",
-   "created_at": "2026-10-27T10:35:48Z"
   }
  ]
 }
