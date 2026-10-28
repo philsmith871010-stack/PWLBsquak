@@ -1,8 +1,80 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T20:20:54Z",
+ "generated_at": "2026-10-28T20:25:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "001ce9d74dc5",
+   "ts": "2026-10-28T20:22:38Z",
+   "headline": "Bessent says US trade deals are largely locked in and consumer and business behaviour is strong",
+   "detail": "US Treasury Secretary Bessent told CNBC that much of Trump's economic agenda, including tax cuts, is already in place, and that the trade deals are mostly locked in. He also said France has a tough hand. His CNBC appearance has now ended.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e5bd2ccd7a8f80b7",
+    "ec01d455ab196629",
+    "7384a6d983544df7",
+    "1065bf8771a2cf58",
+    "decb4cbc40188df7",
+    "0a8e93ed96f16360"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxldkeure2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxldkeure2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxlcaqtox2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxlcaqtox2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxldjm5pp24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxldjm5pp24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxlel54pz2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxlel54pz2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxlbw6udz2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxlbw6udz2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxleswvki2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxleswvki2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8b4d8e36c03d",
+   "created_at": "2026-10-28T20:25:44Z"
+  },
+  {
+   "id": "9cce2a5fa218",
+   "ts": "2026-10-28T20:21:26Z",
+   "headline": "Resolution Foundation says UK plans a much larger fiscal consolidation than other high-income OECD countries",
+   "detail": "In its post-Budget analysis, the Resolution Foundation said the government's planned fiscal consolidation is much bigger than those of other high-income OECD countries. It added that it is not yet clear whether the plans will be delivered.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "8ea38b48564bfe0e"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3myxlbg7qmb2g",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3myxlbg7qmb2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8b4d8e36c03d",
+   "created_at": "2026-10-28T20:25:44Z"
+  },
   {
    "id": "a672714a8346",
    "ts": "2026-10-28T20:17:54Z",
@@ -6824,54 +6896,6 @@
    "model": "opus",
    "run_id": "80e991ec3c38",
    "created_at": "2026-10-27T16:20:57Z"
-  },
-  {
-   "id": "abae5559e6fe",
-   "ts": "2026-10-27T16:11:02Z",
-   "headline": "EU leans on allies as a shortfall in Ukraine funding approaches, FT reports",
-   "detail": "The Financial Times reports that the EU is pressing allied governments over an approaching gap in funding for Ukraine. The report gives no figures.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3e506b5e117e35e1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myumsq4syt22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myumsq4syt22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "77d7d04f0c6c",
-   "created_at": "2026-10-27T16:15:50Z"
-  },
-  {
-   "id": "06cd9720c8bf",
-   "ts": "2026-10-27T16:01:11Z",
-   "headline": "Melania Trump says the local Ukraine ceasefire has begun and now extends beyond Oleshky within the Kherson region",
-   "detail": "US First Lady Melania Trump said the localised ceasefire in Ukraine has started and has been widened beyond Oleshky to cover more of the Kherson region. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "82e15d8af6f7f790",
-    "d2bd75d22a794483"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myumb5ihy72p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myumb5ihy72p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myum35or4222",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myum35or4222"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8396b279c29c",
-   "created_at": "2026-10-27T16:01:59Z"
   }
  ]
 }
