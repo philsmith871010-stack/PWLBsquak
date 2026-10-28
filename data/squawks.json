@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T19:31:05Z",
+ "generated_at": "2026-10-28T19:50:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b617b1ba81c5",
+   "ts": "2026-10-28T19:46:13Z",
+   "headline": "Iran proposal also covers lifting the blockade, the nuclear issue and the return of inspectors, Al Arabiya says",
+   "detail": "Al Arabiya reports that the schedule of the new proposal under discussion with Iran covers reopening the Strait of Hormuz, lifting the blockade, dealing with Iran's nuclear programme and calling in inspectors. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5a9a413313fdbb7c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxjchhh7p2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxjchhh7p2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "35df79181c61",
+   "created_at": "2026-10-28T19:50:51Z"
+  },
   {
    "id": "334a0d6229cf",
    "ts": "2026-10-28T19:29:27Z",
@@ -6779,33 +6800,6 @@
    "model": "opus",
    "run_id": "c00d8c7761bd",
    "created_at": "2026-10-27T14:45:50Z"
-  },
-  {
-   "id": "9969925cccbb",
-   "ts": "2026-10-27T14:40:44Z",
-   "headline": "Russia's Novak says Russia-US Arctic projects could cover gas fields or joint LNG, and refineries are restarting quickly",
-   "detail": "Russian Deputy Prime Minister Novak said possible Russia-US projects in the Arctic could involve developing gas fields or taking part in joint LNG projects. He also said Russian refineries are bringing units back online very quickly after maintenance.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "14747fded05d14f1",
-    "73cda5c846ef7adf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuhrbr7y42y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuhrbr7y42y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuhre2zcm2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuhre2zcm2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d06872ce3f4b",
-   "created_at": "2026-10-27T14:40:52Z"
   }
  ]
 }
