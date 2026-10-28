@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T20:01:17Z",
+ "generated_at": "2026-10-28T20:05:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6c2efc904520",
+   "ts": "2026-10-28T20:05:11Z",
+   "headline": "Germany will let offshore wind developers hand back auctioned sites if they pay a penalty",
+   "detail": "German Economy Minister Katherina Reiche said on Wednesday that companies may return offshore wind sites they won at auction, as long as they pay a penalty to the transmission system operators. Reuters reports that the sector is under growing economic pressure.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "fbccd0d8465f66b0"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myxkeefbnp2n",
+     "url": "https://bsky.app/profile/reuters.com/post/3myxkeefbnp2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "69eeb4a2a91c",
+   "created_at": "2026-10-28T20:05:44Z"
+  },
+  {
+   "id": "8ac047340183",
+   "ts": "2026-10-28T20:02:09Z",
+   "headline": "US Vice President Vance writes to a senior Iranian hard-liner in an attempt to restart peace talks, WSJ reports",
+   "detail": "The WSJ reports that Vance sent the letter to the secretary of Iran's top security body, a former long-serving IRGC commander. One person said the letter was sent at Trump's direction and that Trump knows about the continuing outreach.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d00dd9ccb6cf8b63",
+    "0bd639c9d8ca5918",
+    "95ee99daca80ba07",
+    "5be121234094daee"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxk6wzgaq2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxk6wzgaq2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxk6lxoez25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxk6lxoez25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxkbesggq24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxkbesggq24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxkbpb5c622",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxkbpb5c622"
+    }
+   ],
+   "model": "opus",
+   "run_id": "69eeb4a2a91c",
+   "created_at": "2026-10-28T20:05:44Z"
+  },
   {
    "id": "6741815c7782",
    "ts": "2026-10-28T19:59:24Z",
@@ -6770,54 +6830,6 @@
    "model": "opus",
    "run_id": "41d060f792e2",
    "created_at": "2026-10-27T15:35:44Z"
-  },
-  {
-   "id": "b551eb428782",
-   "ts": "2026-10-27T15:12:40Z",
-   "headline": "Poland's energy minister expects a schedule for releasing oil stockpiles to be ready by the end of November",
-   "detail": "Polish Energy Minister Motyka said the timetable for releasing oil from stockpiles should be finalised by the end of November. No volumes were given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "c2f6a2880185cf05"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myujkenptu2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myujkenptu2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c55ed7a700ad",
-   "created_at": "2026-10-27T15:15:55Z"
-  },
-  {
-   "id": "7ca322ad5270",
-   "ts": "2026-10-27T15:05:15Z",
-   "headline": "Ukraine's foreign minister says the Oleshky ceasefire could serve as a confidence-building step in peace talks",
-   "detail": "Ukraine's foreign minister also said Kyiv coordinated the call that the Finnish and Norwegian leaders held with Putin.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5206c0866c36e99f",
-    "f80c703f36f68600"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuj54c7g525",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuj54c7g525"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuj32giw42f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuj32giw42f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2fd1b4e73236",
-   "created_at": "2026-10-27T15:05:43Z"
   }
  ]
 }
