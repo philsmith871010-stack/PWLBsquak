@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T12:31:10Z",
+ "generated_at": "2026-10-28T12:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5edaaa3d9c7d",
+   "ts": "2026-10-28T12:35:04Z",
+   "headline": "US preliminary wholesale inventories rise 0.6% m/m in September, above the 0.5% forecast",
+   "detail": "US wholesale inventories rose 0.6% m/m in the preliminary September reading, against a forecast and a previous reading of 0.5%. Advance retail inventories excluding autos rose 0.4%, after 0.0% the month before.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2e6d6edbb1e5b0b2",
+    "1359ef4a7d3bc563"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywr7iasxo2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywr7iasxo2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywqyxmvga22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywqyxmvga22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "adf6eb23d295",
+   "created_at": "2026-10-28T12:35:41Z"
+  },
+  {
+   "id": "e4e3cc014e9d",
+   "ts": "2026-10-28T12:34:09Z",
+   "headline": "Healey opens Budget speech saying it rests on fiscal discipline and backs British business for growth",
+   "detail": "As he opened the Budget statement, Chancellor Healey said the Budget was for working people, would be built on fiscal discipline and would back British enterprise to drive growth. These were his opening remarks to the Commons.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "6e6c8b52f1dabc01",
+    "b34338a2a7f00089",
+    "3b6a577c373c2100",
+    "e2ea42a31fbfd4fc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywr34xmn52z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywr34xmn52z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywr4u6aug2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywr4u6aug2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywr5trpc62d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywr5trpc62d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywr5wykpx25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywr5wykpx25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "adf6eb23d295",
+   "created_at": "2026-10-28T12:35:41Z"
+  },
   {
    "id": "c7a134f52e08",
    "ts": "2026-10-28T12:30:49Z",
@@ -5684,54 +5750,6 @@
    "model": "opus",
    "run_id": "9fa64a6a94d1",
    "created_at": "2026-10-26T09:55:40Z"
-  },
-  {
-   "id": "51e852fc1b95",
-   "ts": "2026-10-26T09:36:16Z",
-   "headline": "Kalshi traders price a 93% chance the Fed holds this week and a 6% chance of a hike; Goldman expects a December rise",
-   "detail": "Kalshi prediction-market pricing shows a 93% chance the Fed holds this week and 6% for a hike. Goldman Sachs expects a hold now and a 25bp rise in December.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "12abca888648c231"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrgbwcf4y2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrgbwcf4y2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e96a48661459",
-   "created_at": "2026-10-26T09:40:50Z"
-  },
-  {
-   "id": "c9c02cfbe54d",
-   "ts": "2026-10-26T08:37:10Z",
-   "headline": "Chancellor Healey reportedly plans to borrow billions for military investment in Wednesday's Budget",
-   "detail": "City AM cites reports that the Chancellor will fund defence investment with borrowing in the Budget. UK defence shares rose in early Monday trading, with Rolls-Royce up nearly 2% and Melrose up 1.4%.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "624ff7e72d268912",
-    "8cedfa27a832a584"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3myrghfogkkp2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3myrghfogkkp2"
-    },
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3myrgi4mgnbp2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3myrgi4mgnbp2"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e96a48661459",
-   "created_at": "2026-10-26T09:40:50Z"
   }
  ]
 }
