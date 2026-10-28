@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T16:31:12Z",
+ "generated_at": "2026-10-28T16:35:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b0fcc51c1ffe",
+   "ts": "2026-10-28T16:31:44Z",
+   "headline": "US Energy Secretary Wright says Russia can benefit from diesel exports only by ending the war in Ukraine",
+   "detail": "The US Energy Secretary tied any Russian gain from diesel exports to an end to the war. He repeated that he expects diesel prices to fall significantly and Gulf diesel exports to rise.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "550ddf2769ecdb0b",
+    "b1883319739973bc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myx6go7njr2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myx6go7njr2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myx6ha2zfu25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myx6ha2zfu25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d69a20acb5e0",
+   "created_at": "2026-10-28T16:35:45Z"
+  },
   {
    "id": "2ac63f1f7493",
    "ts": "2026-10-28T16:28:48Z",
@@ -6138,27 +6165,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu362nboi2a",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu362nboi2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1d6c41903d77",
-   "created_at": "2026-10-27T10:55:39Z"
-  },
-  {
-   "id": "5f72d6edc685",
-   "ts": "2026-10-27T10:52:16Z",
-   "headline": "UK sells £4.5bn of 5-year gilts at an average yield of 5.036%, the highest since 2008",
-   "detail": "The UK sold £4.5bn of 5-year debt at an average yield of 5.036%, the highest since 2008. New OBR forecasts are due tomorrow; in March the OBR forecast that debt servicing would soon cost 3.8% of GDP.",
-   "category": "supply",
-   "importance": 2,
-   "source_event_ids": [
-    "7d90cd9873c80030"
-   ],
-   "sources": [
-    {
-     "author": "davidmilliken.bsky.social",
-     "uri": "at://did:plc:cnkav2txgxnskbjf2f564bjl/app.bsky.feed.post/3myu2yqcx4k22",
-     "url": "https://bsky.app/profile/davidmilliken.bsky.social/post/3myu2yqcx4k22"
     }
    ],
    "model": "opus",
