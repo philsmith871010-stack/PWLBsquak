@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T08:01:16Z",
+ "generated_at": "2026-10-28T08:35:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "50479ef0e048",
+   "ts": "2026-10-28T08:22:28Z",
+   "headline": "Healey's Budget is set to focus on the cost of living, with modest measures and major decisions put off, Guardian reports",
+   "detail": "The Guardian reports that Chancellor Healey will frame today's Budget around the cost of living crisis at what he calls a difficult moment. It says only modest policies are expected and that important decisions will be deferred.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "b06bf34ef76e8134"
+   ],
+   "sources": [
+    {
+     "author": "rjpartington.bsky.social",
+     "uri": "at://did:plc:7gxgy7wfvg4tdsspy32rcvvw/app.bsky.feed.post/3mywd3secck2t",
+     "url": "https://bsky.app/profile/rjpartington.bsky.social/post/3mywd3secck2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a4da83489e9a",
+   "created_at": "2026-10-28T08:35:48Z"
+  },
   {
    "id": "f0d4946281fa",
    "ts": "2026-10-28T07:58:01Z",
@@ -5717,45 +5738,6 @@
    "model": "opus",
    "run_id": "b237cd9b70b5",
    "created_at": "2026-10-26T06:40:47Z"
-  },
-  {
-   "id": "f905fc904548",
-   "ts": "2026-10-26T02:32:24Z",
-   "headline": "Houthis claim drone attack on Saudi Arabia's East-West crude pumping stations and Riyadh airport; Saudi Arabia has not confirmed",
-   "detail": "Yemen's Houthi group said on Monday it had targeted Saudi Arabia's East-West crude oil pumping stations and King Khalid International Airport in Riyadh, with no immediate Saudi confirmation. Reuters reported that oil prices slipped on Monday from near six-month highs, while the attacks on Saudi Arabia kept supply concerns in focus.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "764f7b438b26cb00",
-    "e4478f83aad02ddc",
-    "50a4c0abd1c23700",
-    "7d0822eae2324703"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqolykhp32p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqolykhp32p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqoo5jdvg2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqoo5jdvg2b"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myqtjosate24",
-     "url": "https://bsky.app/profile/reuters.com/post/3myqtjosate24"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myqq62wfdy2t",
-     "url": "https://bsky.app/profile/reuters.com/post/3myqq62wfdy2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8583d64b2d6d",
-   "created_at": "2026-10-26T06:35:39Z"
   }
  ]
 }
