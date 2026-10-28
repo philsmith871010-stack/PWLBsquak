@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T10:40:55Z",
+ "generated_at": "2026-10-28T10:50:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "80a3cb062044",
+   "ts": "2026-10-28T10:47:12Z",
+   "headline": "Healey's Budget bank tax rise is reported to be temporary, with the surcharge set below 8%",
+   "detail": "Reports ahead of Chancellor Healey's Budget say the higher tax on banks will be temporary and the bank surcharge will come in under 8%.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "a1be0697c8677d73",
+    "a22abc8ec9c6062d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywl6lthi42b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywl6lthi42b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywlenjr5u2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywlenjr5u2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d5d95c66e156",
+   "created_at": "2026-10-28T10:50:53Z"
+  },
   {
    "id": "b440e30a8e93",
    "ts": "2026-10-28T10:40:16Z",
@@ -5723,27 +5750,6 @@
    "model": "opus",
    "run_id": "63f6e7dd13ec",
    "created_at": "2026-10-26T08:35:43Z"
-  },
-  {
-   "id": "473cf09b19cb",
-   "ts": "2026-10-26T07:58:26Z",
-   "headline": "Singapore agrees with Saudi Aramco to store Saudi oil in rock caverns, FT reports",
-   "detail": "The Financial Times reports that the deal with Saudi Aramco is meant to secure energy supplies for south-east Asia while the Middle East war disrupts supply.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "3cdff5ba041284ca"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myrasxybqs2x",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myrasxybqs2x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9af8e54cbc89",
-   "created_at": "2026-10-26T08:01:22Z"
   }
  ]
 }
