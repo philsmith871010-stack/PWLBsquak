@@ -1,8 +1,89 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T13:40:55Z",
+ "generated_at": "2026-10-28T13:46:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a4fcd066bb73",
+   "ts": "2026-10-28T13:45:45Z",
+   "headline": "Bank of Canada raises its key rate by 25bp to 2.5%, in line with forecasts",
+   "detail": "The Bank of Canada lifted its key rate to 2.5% from 2.25%, matching the 2.5% forecast. It is the bank's first rate rise in three years.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "3ada4ffe783b1a97",
+    "ac39f3a2391dad7d",
+    "e9454a5475c40a9d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywv5vftmb2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywv5vftmb2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywv5wlkuc2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywv5wlkuc2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywv634m5w2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywv634m5w2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a5cd3b944423",
+   "created_at": "2026-10-28T13:46:00Z"
+  },
+  {
+   "id": "6030a26e25cd",
+   "ts": "2026-10-28T13:45:17Z",
+   "headline": "UK plans to extend its forthcoming carbon border tax to refined products, Treasury documents show",
+   "detail": "Treasury Budget documents show the government plans to widen the scope of its upcoming carbon border tax to cover refined products.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "d3471387231c64d5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywv526rap2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywv526rap2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a5cd3b944423",
+   "created_at": "2026-10-28T13:46:00Z"
+  },
+  {
+   "id": "829dcfebbf54",
+   "ts": "2026-10-28T13:43:38Z",
+   "headline": "OBR says headroom would be £10.2bn if fuel duty stayed frozen; cumulative cost of freezes and 5p cut reaches £139bn",
+   "detail": "The OBR's Budget documents put headroom at £10.2bn if fuel duty had stayed frozen. It also says the cumulative cost of fuel duty freezes and the 5p cut has risen to £139bn.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "a49280dd0d704245",
+    "a103d629db585ea2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywv23h4zy2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywv23h4zy2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuz4r3uy25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuz4r3uy25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a5cd3b944423",
+   "created_at": "2026-10-28T13:46:00Z"
+  },
   {
    "id": "43a964a75517",
    "ts": "2026-10-28T13:37:58Z",
@@ -6047,69 +6128,6 @@
    "model": "opus",
    "run_id": "1319351856d7",
    "created_at": "2026-10-26T20:45:49Z"
-  },
-  {
-   "id": "b00d3fac5093",
-   "ts": "2026-10-26T20:36:27Z",
-   "headline": "Canadian PM Carney says Canada will not sign the trade terms the US offered in August",
-   "detail": "Canada's prime minister said Ottawa is not prepared to accept the US trade terms put forward in August. This follows reports that the two countries are working on a deal to ease US tariffs on Canadian steel and car imports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "711ec385ce906f4f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mysl6gsrxj25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mysl6gsrxj25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a6ee17a69994",
-   "created_at": "2026-10-26T20:41:01Z"
-  },
-  {
-   "id": "95eb322cae0d",
-   "ts": "2026-10-26T19:47:55Z",
-   "headline": "UK reportedly in talks with the EU on a return to free movement, The Times reports",
-   "detail": "The Times reports that the UK is holding talks with the EU on a return to free movement. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6507434772391399"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mysihndpmp2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mysihndpmp2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4d5a4549f23c",
-   "created_at": "2026-10-26T19:50:50Z"
-  },
-  {
-   "id": "de3aa9023016",
-   "ts": "2026-10-26T19:39:48Z",
-   "headline": "Iran is open to a shorter timeline on the US proposal if conditions are met, state TV reports",
-   "detail": "Iranian state television reported that Tehran is willing to accept a shorter timeline for the US proposal, provided certain conditions are met. The report did not say what the conditions were.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "aab5a8f1a673deaf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myshz4upou25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myshz4upou25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b8f8b09ff3f5",
-   "created_at": "2026-10-26T19:40:52Z"
   }
  ]
 }
