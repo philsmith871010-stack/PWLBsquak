@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T19:15:52Z",
+ "generated_at": "2026-10-28T19:21:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7a0f7ff8074d",
+   "ts": "2026-10-28T19:20:07Z",
+   "headline": "Resolution Foundation says OBR sees UK welfare bill rising by £38bn by 2031-32 while reform waits on reviews",
+   "detail": "The Resolution Foundation says the OBR expects welfare spending to increase by £38bn by 2031-32, led by the State Pension and by health and disability benefits for people of working age. It says welfare reform is paused until the Milburn and Timms reviews report.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "722c56f9ca60c29d"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3myxhtram6x2j",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3myxhtram6x2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3a03d1d99d69",
+   "created_at": "2026-10-28T19:21:03Z"
+  },
   {
    "id": "6273db5ebd38",
    "ts": "2026-10-28T19:12:12Z",
@@ -6785,27 +6806,6 @@
    "model": "opus",
    "run_id": "00fc17a68890",
    "created_at": "2026-10-27T14:35:40Z"
-  },
-  {
-   "id": "06cbab8f6a27",
-   "ts": "2026-10-27T14:23:38Z",
-   "headline": "Finland's Stubb says he passed on Ukraine's messages to Putin and that the US and Ukraine asked Finland and Norway to do more",
-   "detail": "Finnish President Stubb said he relayed messages from Ukraine during his call with Putin. He said the US and Ukraine had asked Norway and Finland to take a more active role in efforts to end the war.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0c4b2aac2e5502c6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myugsorx532f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myugsorx532f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4873b44f26b0",
-   "created_at": "2026-10-27T14:25:46Z"
   }
  ]
 }
