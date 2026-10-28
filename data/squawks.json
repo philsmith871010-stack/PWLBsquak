@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T07:40:53Z",
+ "generated_at": "2026-10-28T08:01:16Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f0d4946281fa",
+   "ts": "2026-10-28T07:58:01Z",
+   "headline": "Qatari mediators give Iran a new draft deal with a seven-day timeline; Iran's response is expected by the end of the week",
+   "detail": "An official briefed on the negotiations says Qatari mediators handed Iran the draft in Tehran on Sunday. Under the draft, both sides would take confidence-building steps every day, several countries would act as guarantors, and the timeline could begin early next week.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7d4bb4e7880987e2",
+    "bbf7897cae07fc4f",
+    "2ae5aede633aa381"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywbq3fvcp2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywbq3fvcp2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywbs5vtav24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywbs5vtav24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywbsbcbwp2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywbsbcbwp2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6b41fa245d8a",
+   "created_at": "2026-10-28T08:01:16Z"
+  },
   {
    "id": "241f4f80f2ea",
    "ts": "2026-10-28T07:40:10Z",
@@ -5723,57 +5756,6 @@
    "model": "opus",
    "run_id": "8583d64b2d6d",
    "created_at": "2026-10-26T06:35:39Z"
-  },
-  {
-   "id": "48fc26345cb4",
-   "ts": "2026-10-26T01:58:31Z",
-   "headline": "Saudi-led coalition destroys Houthi missile launchers in Sanaa after intercepting ballistic missile fired at Riyadh",
-   "detail": "The Saudi-led coalition said its air defences intercepted a Houthi ballistic missile aimed at Riyadh. It then destroyed two launch platforms in Sanaa, one of them used in that attack, and said its operation against the Houthi ballistic missile network is continuing.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3c48625af65482b4",
-    "b6427100b4608d50",
-    "04b05487ae6d54d6",
-    "9804ca2381d9e4ce",
-    "f0a0070b108d2612",
-    "c2e656f69d2938c7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqjvmpdpz2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqjvmpdpz2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqjzgbmgs2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqjzgbmgs2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqmpf3zmy2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqmpf3zmy2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqmq72ma425",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqmq72ma425"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqmrso2ap2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqmrso2ap2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqmwamqw42b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqmwamqw42b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3b02c91c6044",
-   "created_at": "2026-10-26T06:31:04Z"
   }
  ]
 }
