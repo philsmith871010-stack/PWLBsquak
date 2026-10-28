@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T16:20:56Z",
+ "generated_at": "2026-10-28T16:31:12Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2ac63f1f7493",
+   "ts": "2026-10-28T16:28:48Z",
+   "headline": "US Energy Secretary Wright expects diesel prices to fall sharply as Gulf exports rise and China resumes shipments",
+   "detail": "US Energy Secretary Chris Wright said diesel exports from the Arabian Gulf are likely to increase and China is likely to resume exporting diesel. He said diesel prices will drop significantly.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "48c640040b98bee0",
+    "82d0d1ad63f23492",
+    "50ab6b7d6d86c5cc",
+    "7461f0ab3ef790c7",
+    "d5a52a3f2bb9054a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myx6bgk7tz25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myx6bgk7tz25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myx6ce6d2f2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myx6ce6d2f2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myx6cnqq7i2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myx6cnqq7i2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myx6f2ywqu25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myx6f2ywqu25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myx6fglqxm25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myx6fglqxm25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "84b5c81c3217",
+   "created_at": "2026-10-28T16:31:12Z"
+  },
   {
    "id": "7649079dc3fa",
    "ts": "2026-10-28T16:18:06Z",
@@ -6119,33 +6164,6 @@
    "model": "opus",
    "run_id": "1d6c41903d77",
    "created_at": "2026-10-27T10:55:39Z"
-  },
-  {
-   "id": "832c509ae481",
-   "ts": "2026-10-27T10:39:05Z",
-   "headline": "Iran's supreme leader calls for conditions to be met to end the war and discusses Hormuz management with Rezaee",
-   "detail": "Iran's supreme leader called for the conditions for ending the war to be met. Separately, he discussed national unity and the management of the Strait of Hormuz with Rezaee. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "58b1338436f1f4a1",
-    "a56d408bbadbd385"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu2b5whac2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu2b5whac2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu24gp7ax2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu24gp7ax2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b87042767d79",
-   "created_at": "2026-10-27T10:40:55Z"
   }
  ]
 }
