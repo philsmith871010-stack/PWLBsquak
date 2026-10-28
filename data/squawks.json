@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T14:10:51Z",
+ "generated_at": "2026-10-28T14:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0c0de9d960f8",
+   "ts": "2026-10-28T14:15:18Z",
+   "headline": "UK plans reform of electricity standing charges, Treasury Budget documents show",
+   "detail": "Treasury documents published with the Budget say the government will reform electricity standing charges. No further details were given in the report.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "b32bb55f3612bd4f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywwsqaigu2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywwsqaigu2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4fa73cbeea16",
+   "created_at": "2026-10-28T14:15:52Z"
+  },
   {
    "id": "2f34975b3c59",
    "ts": "2026-10-28T14:10:14Z",
@@ -6144,39 +6165,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytghmuogu2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytghmuogu2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "713c1305716f",
-   "created_at": "2026-10-27T06:10:50Z"
-  },
-  {
-   "id": "ee2b081289df",
-   "ts": "2026-10-27T04:30:24Z",
-   "headline": "HSBC third-quarter profit rises 32% and the bank announces a buyback of up to $1bn",
-   "detail": "The bank said higher rates supported net interest income, and it expects banking NII of at least $46bn in 2026. Pre-tax profit of $9.63bn and revenue of $18.6bn were both below estimates.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6dc1a33d7e26611f",
-    "da5a706b07369157",
-    "24b6ac4179e82938"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mytfnvrcd42a",
-     "url": "https://bsky.app/profile/reuters.com/post/3mytfnvrcd42a"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mytfx4ocjl2w",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mytfx4ocjl2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytefjgbs524",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytefjgbs524"
     }
    ],
    "model": "opus",
