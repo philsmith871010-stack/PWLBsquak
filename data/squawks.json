@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T07:25:42Z",
+ "generated_at": "2026-10-28T07:35:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8f7627cfadea",
+   "ts": "2026-10-28T07:34:20Z",
+   "headline": "China says it will pay consumption subsidies faster to support spending",
+   "detail": "China announced on 28 October that it will speed up subsidy payments aimed at lifting consumption. The report gave no amounts or timetable.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "3b07e140251b4281"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywafq24242b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywafq24242b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1b24c8e3a954",
+   "created_at": "2026-10-28T07:35:50Z"
+  },
   {
    "id": "72fc3e858647",
    "ts": "2026-10-28T07:21:39Z",
@@ -5765,27 +5786,6 @@
    "model": "opus",
    "run_id": "3b02c91c6044",
    "created_at": "2026-10-26T06:31:04Z"
-  },
-  {
-   "id": "011f1b98267d",
-   "ts": "2026-10-26T01:04:59Z",
-   "headline": "RBA signals interest rates could go higher; Australian dollar weakens",
-   "detail": "The Reserve Bank of Australia signalled that higher interest rates are possible. The Australian dollar still weakened, according to reports early on Monday in Asia.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "30b6f9c28cc4b79c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myqjporz3w2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myqjporz3w2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "92a4445d13c1",
-   "created_at": "2026-10-26T06:25:41Z"
   }
  ]
 }
