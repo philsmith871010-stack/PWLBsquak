@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T20:05:44Z",
+ "generated_at": "2026-10-28T20:10:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d033875b5fca",
+   "ts": "2026-10-28T20:06:02Z",
+   "headline": "Trump signs proclamation on US imports of robotics and industrial machinery but imposes no immediate tariffs",
+   "detail": "The White House says President Trump has signed a proclamation adjusting US imports of robotics, industrial machinery and their parts and components. It says these imports pose national security risks, but no tariffs take effect immediately.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d491ff4a2954cf5e",
+    "1d701be0f16642c3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxkfuqbte25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxkfuqbte25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxkmmk5hk2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxkmmk5hk2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e018ed07bfef",
+   "created_at": "2026-10-28T20:10:54Z"
+  },
   {
    "id": "6c2efc904520",
    "ts": "2026-10-28T20:05:11Z",
@@ -6797,39 +6824,6 @@
    "model": "opus",
    "run_id": "1d485b24bafb",
    "created_at": "2026-10-27T15:40:53Z"
-  },
-  {
-   "id": "1fec9052910a",
-   "ts": "2026-10-27T15:34:59Z",
-   "headline": "US Treasury sells $54bn of 52-week bills at a 4.29% high yield, down from 4.400% previously; bid-to-cover 3.15",
-   "detail": "The US 52-week bill auction cleared at a high yield of 4.29%, against 4.400% at the previous sale, with bid-to-cover of 3.15 against 3.070. 65.33% of bids at the high yield were allotted.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ea425c0d159552c6",
-    "441c07a8b49e1d36",
-    "e02f07d8091988c5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuksbmrny2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuksbmrny2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myukovk6ao2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myukovk6ao2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myukpkiq7j25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myukpkiq7j25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "41d060f792e2",
-   "created_at": "2026-10-27T15:35:44Z"
   }
  ]
 }
