@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T16:40:53Z",
+ "generated_at": "2026-10-28T16:46:10Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e3f1660f6ef0",
+   "ts": "2026-10-28T16:41:29Z",
+   "headline": "IFS says OBR sees UK growth slowing markedly next year, with GDP level back to its March path by 2030-31",
+   "detail": "The Institute for Fiscal Studies says the OBR puts next year's slowdown down to higher energy prices and interest rates. The OBR expects GDP to fully regain its March-forecast level by 2030-31, with energy prices and inflation forecast to return to pre-war levels.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "6bc6073345275ae9"
+   ],
+   "sources": [
+    {
+     "author": "theifs.bsky.social",
+     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3myx6y4hkp22z",
+     "url": "https://bsky.app/profile/theifs.bsky.social/post/3myx6y4hkp22z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7fee4536cd9a",
+   "created_at": "2026-10-28T16:46:10Z"
+  },
   {
    "id": "0e370464dc70",
    "ts": "2026-10-28T16:38:32Z",
@@ -6149,27 +6170,6 @@
    "model": "opus",
    "run_id": "4bd0ab404124",
    "created_at": "2026-10-27T11:05:40Z"
-  },
-  {
-   "id": "7b317e150eba",
-   "ts": "2026-10-27T11:01:10Z",
-   "headline": "Russia's Novak says a fourth tanker of Russian diesel under the Russia-US deal leaves on 28 October",
-   "detail": "Russian Deputy Prime Minister Alexander Novak said a fourth tanker of Russian diesel under the Russia-US diesel deal will depart on 28 October. He said three more tankers are currently en route.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "0da658011c74a8de"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myu3iob7ox2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myu3iob7ox2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f67234c36a9a",
-   "created_at": "2026-10-27T11:01:20Z"
   }
  ]
 }
