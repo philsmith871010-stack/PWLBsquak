@@ -1,8 +1,152 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T12:40:51Z",
+ "generated_at": "2026-10-28T12:45:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4ebe1e427827",
+   "ts": "2026-10-28T12:44:10Z",
+   "headline": "OBR raises its 2026 UK GDP growth forecast to 1.2% from 1.1% in March",
+   "detail": "Chancellor Healey gave the upgraded OBR growth forecast in his Budget speech.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "047d01b0d2acf735",
+    "e9ffd322c1431508"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywrpqf3hi2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywrpqf3hi2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywrpuhviq2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywrpuhviq2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6c69cd2afe03",
+   "created_at": "2026-10-28T12:45:56Z"
+  },
+  {
+   "id": "44b9646bbf49",
+   "ts": "2026-10-28T12:43:09Z",
+   "headline": "Healey says fiscal headroom rises from £15bn to £22bn by 2030-31, with the rules met in the third forecast year",
+   "detail": "The OBR's £15bn headroom against the current budget rule is down from £23.6bn in March and in line with the £15bn poll. The Chancellor said it climbs to £22bn by 2030-31 and that the fiscal rules will be met in the third year of the forecast.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "8626bc20d57f84f8",
+    "93861bc384989311",
+    "416dce1fe13eb73e",
+    "cfad06e08e6e4f9e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywrnx6x3r22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywrnx6x3r22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywrjvklwn2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywrjvklwn2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywrk5ag7s2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywrk5ag7s2y"
+    },
+    {
+     "author": "instituteforgovernment.org.uk",
+     "uri": "at://did:plc:d656x5rt365ylfpbzpwgpl4i/app.bsky.feed.post/3mywrmgsx3k27",
+     "url": "https://bsky.app/profile/instituteforgovernment.org.uk/post/3mywrmgsx3k27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6c69cd2afe03",
+   "created_at": "2026-10-28T12:45:56Z"
+  },
+  {
+   "id": "5b6634e9f2fe",
+   "ts": "2026-10-28T12:42:34Z",
+   "headline": "Healey rules out broad tax rises and cuts to public services in the Budget",
+   "detail": "The Chancellor told Parliament his Budget aims to give families and businesses breathing space. He also said he will start a radical reform of energy to bring bills down.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "5749140e07f41be7",
+    "d7cc544afb6a6d86",
+    "30ccbee6954fd93c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywrmvh7an2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywrmvh7an2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywrrkotp32b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywrrkotp32b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywrsi2uji25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywrsi2uji25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6c69cd2afe03",
+   "created_at": "2026-10-28T12:45:56Z"
+  },
+  {
+   "id": "e4f91f5bc6a6",
+   "ts": "2026-10-28T12:41:05Z",
+   "headline": "OBR forecasts UK borrowing at 4.2% of GDP in 2026-27, up from 3.6% previously, falling to 1.8% by 2031-32",
+   "detail": "Chancellor Healey set out the OBR's Budget forecasts. They put public sector net financial liabilities at 83.2% of GDP in 2026-27, against 82.6% in March, and net financial debt at 82.3% of GDP in 2030-31.",
+   "category": "fiscal",
+   "importance": 3,
+   "source_event_ids": [
+    "7f805e13226128a3",
+    "9994a6de5b9e2c58",
+    "03ce08084ea30128",
+    "36a9a37aa337c62c",
+    "f2bba1cc468274ba"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywrkaczp22p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywrkaczp22p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywrky2oyi2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywrky2oyi2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywrlcnf3c2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywrlcnf3c2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywrljnlwp2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywrljnlwp2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywrlm5hkc2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywrlm5hkc2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6c69cd2afe03",
+   "created_at": "2026-10-28T12:45:56Z"
+  },
   {
    "id": "ca6ca6a2311a",
    "ts": "2026-10-28T12:40:42Z",
@@ -5714,90 +5858,6 @@
    "model": "opus",
    "run_id": "416c8976ee58",
    "created_at": "2026-10-26T11:40:50Z"
-  },
-  {
-   "id": "64f4305c7586",
-   "ts": "2026-10-26T11:01:19Z",
-   "headline": "UK CBI distributive trades balance improves to -10, well above the -48 forecast and the previous -55",
-   "detail": "The CBI distributive trades survey's reported sales balance came in at -10, against a forecast of -48 and a previous reading of -55.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "4b59cd7d0bf3433c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrkzypobq2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrkzypobq2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b2f2a75713f5",
-   "created_at": "2026-10-26T11:05:41Z"
-  },
-  {
-   "id": "7ad18bdb3a85",
-   "ts": "2026-10-26T11:00:41Z",
-   "headline": "Fed policymakers have signalled no rate rise this week, but investors expect the pause to be short, Reuters reports",
-   "detail": "Reuters reports that Federal Reserve officials have indicated they will leave US short-term rates unchanged at this week's meeting. It also reports that, with inflation still the main concern, investors do not expect the pause to last long.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "d73a63aa259e7b7b"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myrkyudrko2p",
-     "url": "https://bsky.app/profile/reuters.com/post/3myrkyudrko2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1c67026c9b52",
-   "created_at": "2026-10-26T11:01:15Z"
-  },
-  {
-   "id": "3fc56362d7b7",
-   "ts": "2026-10-26T10:58:51Z",
-   "headline": "Ministers plan apprenticeship funding overhaul that would make training over-25s more expensive, Guardian reports",
-   "detail": "The Guardian reports that ministers are planning to change apprenticeship funding so that training workers over 25 costs more. Employers warn the change could undermine the government's plan to tackle youth unemployment.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "8168580bb93dd5b7"
-   ],
-   "sources": [
-    {
-     "author": "rjpartington.bsky.social",
-     "uri": "at://did:plc:7gxgy7wfvg4tdsspy32rcvvw/app.bsky.feed.post/3myrkvlday22q",
-     "url": "https://bsky.app/profile/rjpartington.bsky.social/post/3myrkvlday22q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1c67026c9b52",
-   "created_at": "2026-10-26T11:01:15Z"
-  },
-  {
-   "id": "d2b440cbcc0f",
-   "ts": "2026-10-26T10:55:08Z",
-   "headline": "Pakistan's central bank lifts its key rate to 12%, citing inflation risks from the Gulf conflict",
-   "detail": "Pakistan's central bank raised its key policy rate to 12%. It pointed to inflation risks from the conflict in the Gulf.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "313330e04ccffc84"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myrkoxkl5725",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myrkoxkl5725"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2592cf1a90d7",
-   "created_at": "2026-10-26T10:55:43Z"
   }
  ]
 }
