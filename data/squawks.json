@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T15:15:51Z",
+ "generated_at": "2026-10-28T15:20:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f2545494e73a",
+   "ts": "2026-10-28T15:18:43Z",
+   "headline": "Budget's cost of living package centres on a £100 council tax rebate for Band A–D homes to help with winter energy bills",
+   "detail": "According to the Resolution Foundation, the main measure in the Chancellor's cost of living package is a £100 council tax rebate for households in Bands A to D, aimed at rising energy bills this winter.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "59960a6c55b9349e"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3myx2e4oz7v2o",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3myx2e4oz7v2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6c9d3fb1ebe4",
+   "created_at": "2026-10-28T15:20:57Z"
+  },
   {
    "id": "58a535b5ad57",
    "ts": "2026-10-28T15:14:33Z",
@@ -6179,39 +6200,6 @@
    "model": "opus",
    "run_id": "d6cac0c90158",
    "created_at": "2026-10-27T10:05:41Z"
-  },
-  {
-   "id": "65f3898a2de3",
-   "ts": "2026-10-27T09:34:58Z",
-   "headline": "Finland's Stubb and Norway's Støre hold phone call with Putin on efforts to end the war in Ukraine",
-   "detail": "Finland's presidential office says President Stubb and Norwegian Prime Minister Støre started the call with President Putin to discuss Russia's war against Ukraine and diplomatic efforts to end it. The office says the call related to upcoming meetings in Abu Dhabi.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5d908d924ccf6517",
-    "ca3b280b635d2248",
-    "3059b9c5e88d8756"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytwojpm3c24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytwojpm3c24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytwnbz3vz2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytwnbz3vz2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytwnr2wub2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytwnr2wub2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "08ceff3e46ba",
-   "created_at": "2026-10-27T09:35:43Z"
   }
  ]
 }
