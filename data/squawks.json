@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T14:05:45Z",
+ "generated_at": "2026-10-28T14:10:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2f34975b3c59",
+   "ts": "2026-10-28T14:10:14Z",
+   "headline": "Government says England's regions will keep a share of locally raised income tax and business rates",
+   "detail": "Reuters reports the government's fiscal devolution plan, published on Wednesday alongside the Budget, will let England's regions retain part of the income tax and business rates raised in their areas.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "c53f1e04f6576756"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mywwjnqu6r2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3mywwjnqu6r2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f30fc547d34e",
+   "created_at": "2026-10-28T14:10:51Z"
+  },
+  {
+   "id": "a5582b31fb51",
+   "ts": "2026-10-28T14:09:41Z",
+   "headline": "Gilts extend rally as UK 30-year yield drops 5bp to a day low of 5.70%",
+   "detail": "Market wire reports UK gilts extending gains during the Budget, with the 30-year yield down 5bp at an intraday low of 5.70%.",
+   "category": "supply",
+   "importance": 3,
+   "source_event_ids": [
+    "cec8a4dcd3feda2f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywwio6ron2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywwio6ron2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f30fc547d34e",
+   "created_at": "2026-10-28T14:10:51Z"
+  },
+  {
+   "id": "e2bd5746bef4",
+   "ts": "2026-10-28T14:07:19Z",
+   "headline": "DMO expects to price Treasury bill repo facility 20bp below Bank Rate and sets up £250mn collateral pool per bill",
+   "detail": "The DMO said its Treasury bill standing repo facility is likely to be priced at 20bp below BoE Bank Rate, subject to review. It is also introducing a collateral pool holding £250mn of each Treasury bill.",
+   "category": "supply",
+   "importance": 2,
+   "source_event_ids": [
+    "e411a65e68fa68b5",
+    "45295f33ace99d17"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywwegldxs2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywwegldxs2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywwel7gup24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywwel7gup24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f30fc547d34e",
+   "created_at": "2026-10-28T14:10:51Z"
+  },
   {
    "id": "8f66b6df50e7",
    "ts": "2026-10-28T14:05:24Z",
@@ -6113,153 +6182,6 @@
    "model": "opus",
    "run_id": "713c1305716f",
    "created_at": "2026-10-27T06:10:50Z"
-  },
-  {
-   "id": "84787db9a5fe",
-   "ts": "2026-10-27T04:10:27Z",
-   "headline": "Taiwan central bank calls its policy stance tightening and forecasts 5.82% GDP growth for next year",
-   "detail": "The central bank named geopolitical risks and climate conditions as the main uncertainties for inflation, said bank loan quality was stable, and reported that the Taiwan dollar fell 1.25% against the US dollar in the first half.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e496cd89b2a02094",
-    "780b0fe17947dd20",
-    "590a771ed8a70679",
-    "af2b277d959c7940",
-    "2ffb6a1215322914",
-    "74224f5db77e03be",
-    "03006f01f83781a3",
-    "d8d25bafe16b200b",
-    "1dbbf25f839f7a6a",
-    "3ae6b58769de04ed",
-    "4880e4f7229a8759"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytekapgy222",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytekapgy222"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytefpczlj25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytefpczlj25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytegpqum22b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytegpqum22b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myteh5n5bp2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myteh5n5bp2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytekmpndg2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytekmpndg2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytelfc5al2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytelfc5al2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytemex6is2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytemex6is2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myteq273572d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myteq273572d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myterqck7425",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myterqck7425"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myteyti4zh2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myteyti4zh2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytezoaugn24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytezoaugn24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "713c1305716f",
-   "created_at": "2026-10-27T06:10:50Z"
-  },
-  {
-   "id": "fd83aa58c1b4",
-   "ts": "2026-10-27T03:10:15Z",
-   "headline": "Japan corporate services prices rise 3.7% y/y in September",
-   "detail": "Data published on Tuesday show Japan's corporate services price index, a key gauge of service-sector inflation, up 3.7% on a year earlier in September. Reuters says the figure points to mounting price pressures.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "3d36bc33989ebaf9",
-    "02a5b85fc6a951ed"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mytb6lhdiz2t",
-     "url": "https://bsky.app/profile/reuters.com/post/3mytb6lhdiz2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mytc2uroin2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mytc2uroin2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d07a13678c3b",
-   "created_at": "2026-10-27T06:05:46Z"
-  },
-  {
-   "id": "516b909c49bd",
-   "ts": "2026-10-27T01:33:40Z",
-   "headline": "China industrial profits rise 14.4% y/y in September, up from 4.2% in August; year-to-date growth eases to 15.5%",
-   "detail": "China's statistics bureau says industrial profits for January to September are up 15.5% on a year earlier, compared with 15.7% for the year to August. September profits alone rose 14.4% year on year.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6605207bc5ef32c7",
-    "3edc814b796db744",
-    "f6cf2745695fdac5",
-    "fe5664ddda1fec8e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myt3nouxrs2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myt3nouxrs2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myt3r4kmsf25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myt3r4kmsf25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myt3rv7oeu2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myt3rv7oeu2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myt3rx52tb2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myt3rx52tb2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d07a13678c3b",
-   "created_at": "2026-10-27T06:05:46Z"
   }
  ]
 }
