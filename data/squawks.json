@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T10:35:47Z",
+ "generated_at": "2026-10-28T10:40:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b440e30a8e93",
+   "ts": "2026-10-28T10:40:16Z",
+   "headline": "Bank of Canada is widely expected to raise its key rate by 25bp to 2.5% on Wednesday, its first hike in three years",
+   "detail": "Reuters reports that most economists expect the Bank of Canada to raise its benchmark rate by 25bp to 2.5% on Wednesday. Economists see the move as protection against energy inflation spreading more widely.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1a0ba482c5dd651f"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mywks76t252h",
+     "url": "https://bsky.app/profile/reuters.com/post/3mywks76t252h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0f41419b9e00",
+   "created_at": "2026-10-28T10:40:55Z"
+  },
   {
    "id": "810a333b7f4e",
    "ts": "2026-10-28T10:35:10Z",
@@ -5718,33 +5739,6 @@
      "author": "financialtimes.com",
      "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myrasxybqs2x",
      "url": "https://bsky.app/profile/financialtimes.com/post/3myrasxybqs2x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9af8e54cbc89",
-   "created_at": "2026-10-26T08:01:22Z"
-  },
-  {
-   "id": "1e1f28546324",
-   "ts": "2026-10-26T07:58:24Z",
-   "headline": "Iran says Monday's talks will take in Israel, Lebanon and Palestine; warns of a crushing response to any aggressors",
-   "detail": "Iran said the talks on Monday will cover Israel, Lebanon and Palestine. Separately, it said its forces would respond with crushing force to aggressors.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d1dd8533058b49bd",
-    "38e62c20d87456b1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myraswum2r2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myraswum2r2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myraqqmbpu25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myraqqmbpu25"
     }
    ],
    "model": "opus",
