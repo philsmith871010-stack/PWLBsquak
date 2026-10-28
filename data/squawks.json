@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T10:15:52Z",
+ "generated_at": "2026-10-28T10:20:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cece1a5401f2",
+   "ts": "2026-10-28T10:17:38Z",
+   "headline": "Russia's Novak denies that Moscow is in talks with the US about American companies returning to Russian oil projects",
+   "detail": "Russian Deputy Prime Minister Alexander Novak said Russia is not negotiating with the US on a return to oil projects, TASS reported. This follows FT reports that the US was discussing Russian deals for American oil majors as part of the Ukraine peace talks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9c344836ca808563"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywjjqvow42y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywjjqvow42y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cec2cee3397e",
+   "created_at": "2026-10-28T10:20:54Z"
+  },
   {
    "id": "0e93a562a622",
    "ts": "2026-10-28T10:13:53Z",
@@ -5723,39 +5744,6 @@
    "model": "opus",
    "run_id": "c77c3fedb586",
    "created_at": "2026-10-26T07:35:44Z"
-  },
-  {
-   "id": "7cadfd4334c8",
-   "ts": "2026-10-26T07:30:57Z",
-   "headline": "PM Burnham says Healey will set out on Wednesday how the UK meets NATO commitments; signals savings from youth job support",
-   "detail": "Prime Minister Burnham said Chancellor Healey would set out the path to meeting the UK's NATO commitments on Wednesday, and that youth job support needs changing in a way that can save money. Speaking on the same occasion, he also said he would like to see the UK rejoin the EU in his lifetime.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "6d55a3a89718ff2b",
-    "ba65b7505e795567",
-    "25d2aaae2feaa628"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr7bttxyk24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr7bttxyk24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr7bvunop2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr7bvunop2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myr72qef2f25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myr72qef2f25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ac21c9e36a2a",
-   "created_at": "2026-10-26T07:31:06Z"
   }
  ]
 }
