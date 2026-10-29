@@ -1,8 +1,86 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T17:01:17Z",
+ "generated_at": "2026-10-29T17:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bf389721c252",
+   "ts": "2026-10-29T17:05:03Z",
+   "headline": "Iranian media report Houthi missile attacks targeting Saudi Aramco",
+   "detail": "Fars News reported that Yemen's Houthi-run army had targeted Saudi Aramco in a broad wave of missile attacks, and other Iranian outlets carried similar reports. Saudi civil defence separately said the danger had passed in Najran city.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "7723a51ceb6e2b20",
+    "db8effd9ba58086f",
+    "eeb2185dc804d5c5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzqr67vkz2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzqr67vkz2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzqs6rtkc25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzqs6rtkc25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzqqz7y3w24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzqqz7y3w24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c3d163730ea2",
+   "created_at": "2026-10-29T17:05:42Z"
+  },
+  {
+   "id": "af913d6aa73c",
+   "ts": "2026-10-29T17:04:30Z",
+   "headline": "US $44bn 7-year note auction stops on the screws at 4.894%, with bid-to-cover at 2.46",
+   "detail": "The high yield of 4.894% matched the when-issued level, against 5.085% at the previous auction, and bid-to-cover rose from 2.420. Indirect bidders took 57.77%, direct bidders 32.82% and primary dealers 9.41%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "12c09578391bf76e",
+    "56e058e1947e6061",
+    "596e79265d783a05",
+    "724dbfc8b6c71537",
+    "cf017b7027a76672"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzqnxwqvb25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzqnxwqvb25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzqo5tuys2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzqo5tuys2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzqq6wry32b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzqq6wry32b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzqr3gcc22d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzqr3gcc22d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzqklp4tt2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzqklp4tt2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c3d163730ea2",
+   "created_at": "2026-10-29T17:05:42Z"
+  },
   {
    "id": "291019e2cb8c",
    "ts": "2026-10-29T17:00:48Z",
@@ -6441,108 +6519,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywughlpzu2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywughlpzu2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7d0192c3e576",
-   "created_at": "2026-10-28T13:35:45Z"
-  },
-  {
-   "id": "4a6aad8f24db",
-   "ts": "2026-10-28T13:35:18Z",
-   "headline": "OBR raises UK inflation forecast to 3.1% for 2026 and 3.5% for 2027",
-   "detail": "The OBR's Economic and Fiscal Outlook puts 2026 inflation at 3.1%, up from 2.3%, and 2027 inflation at 3.5% in its central forecast, up from 2% in March.",
-   "category": "data",
-   "importance": 3,
-   "source_event_ids": [
-    "ab8a01357413153c",
-    "ffc0965980220023",
-    "5b528502c8acbdf0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuka44sr2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuka44sr2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywul6lij62y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywul6lij62y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywufebxrn2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywufebxrn2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7d0192c3e576",
-   "created_at": "2026-10-28T13:35:45Z"
-  },
-  {
-   "id": "71dacee75f18",
-   "ts": "2026-10-28T13:34:49Z",
-   "headline": "OBR calls fiscal margins very small and says a 1% rate move shifts debt interest by £16bn",
-   "detail": "The OBR describes the UK fiscal position as very challenging and says a higher, longer energy price peak could lift 2027-28 borrowing £17bn above its central forecast. It adds that productivity growth 0.5 percentage points higher or lower could leave borrowing £50bn lower or £40bn higher.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "86792a8b17cca776",
-    "d42374d94540ffab",
-    "75d9475e5509a6ff",
-    "2d33cd8472fe610f",
-    "ef17b84b44876a98",
-    "302ebd3c153c2d56",
-    "36e48b869122ea74",
-    "cd11bc34dce92d9d",
-    "77da912c24c20fe0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywukdih6c22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywukdih6c22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywukha7nb2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywukha7nb2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywugkgyyw2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywugkgyyw2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywujp6hbx2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywujp6hbx2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywukgiabg2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywukgiabg2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywulgctkg2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywulgctkg2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywulr2j4s25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywulr2j4s25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuhv2ylo2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuhv2ylo2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuis4xel2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuis4xel2z"
     }
    ],
    "model": "opus",
