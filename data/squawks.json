@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T14:05:48Z",
+ "generated_at": "2026-10-29T14:10:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8edc8e8fecf6",
+   "ts": "2026-10-29T14:06:32Z",
+   "headline": "Lagarde says ECB Governing Council discussed whether a rate rise would be appropriate but kept its measured approach",
+   "detail": "ECB President Lagarde said at the post-decision press conference that the Governing Council debated a hike, but that a measured approach is still suitable for now. She said the ECB is unanimously seen as well positioned and strong enough to wait for further data.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d6f9e3f718bc03c8",
+    "4fa46546f9724956",
+    "54e0d8289ee9dad4",
+    "a5bdb580ed68e994",
+    "6fda7d07685df487"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzgr5mb6l24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzgr5mb6l24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzgrxheyb2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzgrxheyb2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzgst64g22d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzgst64g22d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzgstrzbe2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzgstrzbe2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzgxuxh6525",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzgxuxh6525"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4cbd08cc9e20",
+   "created_at": "2026-10-29T14:10:53Z"
+  },
+  {
+   "id": "9e9cfdd6ce8d",
+   "ts": "2026-10-29T12:07:09Z",
+   "headline": "Budget changes how self-assessment income taxpayers make payments on account",
+   "detail": "Chancellor Healey confirmed in the Autumn Budget that the government will change how income tax self-assessment taxpayers make their advance payments on account, City AM reports. Tax advisers have raised concerns about the effect on cash flow for the self-employed.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "927899c581a6e1e8"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3myzgucr5ond2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3myzgucr5ond2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4cbd08cc9e20",
+   "created_at": "2026-10-29T14:10:53Z"
+  },
   {
    "id": "76c1640541ea",
    "ts": "2026-10-29T14:03:57Z",
@@ -6548,60 +6614,6 @@
    "model": "opus",
    "run_id": "b086b6bdcc2f",
    "created_at": "2026-10-28T12:50:49Z"
-  },
-  {
-   "id": "8ed9568e27d8",
-   "ts": "2026-10-28T12:46:06Z",
-   "headline": "OBR cuts its 2027 UK GDP growth forecast to 1% from 1.6%",
-   "detail": "The Budget forecasts cut UK GDP growth for 2027 to 1% from 1.6%, while 2026 growth was raised to 1.2% from 1.1%.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "5bd3204e1ef6e433",
-    "1606da383e19c926"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywrt7zrtd2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywrt7zrtd2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywrtea4js2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywrtea4js2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b086b6bdcc2f",
-   "created_at": "2026-10-28T12:50:49Z"
-  },
-  {
-   "id": "4ebe1e427827",
-   "ts": "2026-10-28T12:44:10Z",
-   "headline": "OBR raises its 2026 UK GDP growth forecast to 1.2% from 1.1% in March",
-   "detail": "Chancellor Healey gave the upgraded OBR growth forecast in his Budget speech.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "047d01b0d2acf735",
-    "e9ffd322c1431508"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywrpqf3hi2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywrpqf3hi2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywrpuhviq2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywrpuhviq2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6c69cd2afe03",
-   "created_at": "2026-10-28T12:45:56Z"
   }
  ]
 }
