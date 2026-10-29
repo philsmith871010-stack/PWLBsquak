@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T20:05:43Z",
+ "generated_at": "2026-10-29T20:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "da4e435a716b",
+   "ts": "2026-10-29T20:32:50Z",
+   "headline": "Greek PM backs continued sanctions on Russia; says Greek shipowners would resume Black Sea trade if safe passage is assured",
+   "detail": "Greek Prime Minister Mitsotakis restated his support for economic sanctions on Russia. He also said Greek shipowners are ready to resume Black Sea trading if safe passage is guaranteed, and urged the EU to send more naval assets to its Aspides mission in the Red Sea.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9b852ca87cbc5549",
+    "e603e61a02ee7876",
+    "61eda893139e2a5c",
+    "0d5de06f02cd7c10"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz24eq7edd2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz24eq7edd2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz24eugh7m2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz24eugh7m2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz24euz5a32d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz24euz5a32d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz24f3kv5d2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz24f3kv5d2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f44ccdc70b92",
+   "created_at": "2026-10-29T20:35:44Z"
+  },
   {
    "id": "6a0f0a380058",
    "ts": "2026-10-29T20:04:51Z",
@@ -6335,27 +6374,6 @@
    "model": "opus",
    "run_id": "50e38df0e7dc",
    "created_at": "2026-10-28T14:25:44Z"
-  },
-  {
-   "id": "0c0de9d960f8",
-   "ts": "2026-10-28T14:15:18Z",
-   "headline": "UK plans reform of electricity standing charges, Treasury Budget documents show",
-   "detail": "Treasury documents published with the Budget say the government will reform electricity standing charges. No further details were given in the report.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "b32bb55f3612bd4f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywwsqaigu2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywwsqaigu2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4fa73cbeea16",
-   "created_at": "2026-10-28T14:15:52Z"
   }
  ]
 }
