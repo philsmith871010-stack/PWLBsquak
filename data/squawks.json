@@ -1,8 +1,107 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T06:01:16Z",
+ "generated_at": "2026-10-29T06:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8521dd59961e",
+   "ts": "2026-10-29T01:00:49Z",
+   "headline": "RBNZ Governor Breman says the chance of a December rate hike is high",
+   "detail": "Reserve Bank of New Zealand Governor Anna Breman said on Thursday that the likelihood of the bank raising the official cash rate in December is high.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "2c3245873559dd4f"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myy2uxxfve2a",
+     "url": "https://bsky.app/profile/reuters.com/post/3myy2uxxfve2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dec5c96a22cc",
+   "created_at": "2026-10-29T06:05:42Z"
+  },
+  {
+   "id": "b7197f6515b4",
+   "ts": "2026-10-29T00:50:05Z",
+   "headline": "JGB yields rise ahead of the BoJ policy announcement, with the 5-year up 1.5bp at 2.28%",
+   "detail": "The 5-year Japanese government bond yield rose 1.5bp to 2.28% as investors waited for the Bank of Japan's policy decision, WSJ reported.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "37248229f25c111a",
+    "ceef16f818e3aa7d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myy2bs7eza2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myy2bs7eza2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myy67wr3qn22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myy67wr3qn22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dec5c96a22cc",
+   "created_at": "2026-10-29T06:05:42Z"
+  },
+  {
+   "id": "8aafa16703fd",
+   "ts": "2026-10-29T00:37:40Z",
+   "headline": "South Korea's finance minister says Seoul will act promptly on market turbulence and review November bond issuance",
+   "detail": "South Korea's finance minister said the government will respond quickly to any jump in market volatility, will carefully assess the size of November treasury bond issuance and will buy back treasury bonds if needed.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4f375fe6d924954e",
+    "3a0205ef9bd20ab2",
+    "cac7517bec54ce91",
+    "962664db25333761",
+    "6174743557aa2269",
+    "17613adbc3e0780f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxzlmftlg2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxzlmftlg2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxzmv4ugt24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxzmv4ugt24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxzrhgiqp2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxzrhgiqp2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxzsei7uz2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxzsei7uz2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxzte4tyj2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxzte4tyj2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxztl5tgl24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxztl5tgl24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dec5c96a22cc",
+   "created_at": "2026-10-29T06:05:42Z"
+  },
   {
    "id": "b6156f6cc291",
    "ts": "2026-10-28T23:38:46Z",
@@ -6785,87 +6884,6 @@
    "model": "opus",
    "run_id": "bf0d696d563d",
    "created_at": "2026-10-27T18:05:46Z"
-  },
-  {
-   "id": "8d1db27078d0",
-   "ts": "2026-10-27T17:47:16Z",
-   "headline": "Fiscal devolution roadmap on mayors' revenue-raising and spending is due to be published in tomorrow's Budget",
-   "detail": "The Institute for Government says the government's fiscal devolution roadmap will be unveiled in the Budget on 28 October. It will set out changes to how mayors raise and spend money.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "709fb79b5de341b2"
-   ],
-   "sources": [
-    {
-     "author": "instituteforgovernment.org.uk",
-     "uri": "at://did:plc:d656x5rt365ylfpbzpwgpl4i/app.bsky.feed.post/3myus6sjyys2g",
-     "url": "https://bsky.app/profile/instituteforgovernment.org.uk/post/3myus6sjyys2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "082f411c8a5a",
-   "created_at": "2026-10-27T17:50:54Z"
-  },
-  {
-   "id": "a5dbc7d9b165",
-   "ts": "2026-10-27T17:25:30Z",
-   "headline": "Canada and the UAE sign a comprehensive trade deal",
-   "detail": "Canada's Prime Minister Mark Carney and the Crown Prince of Abu Dhabi signed the deal at a joint signing ceremony.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4d4c8cb5527022cf",
-    "992e26c1c91344b4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuqxvyouz2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuqxvyouz2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuqwplmwo2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuqwplmwo2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "471ed27760ac",
-   "created_at": "2026-10-27T17:25:41Z"
-  },
-  {
-   "id": "1e3170160ea7",
-   "ts": "2026-10-27T17:24:36Z",
-   "headline": "Trump says petrol and diesel prices will soon fall sharply as Venezuelan oil shipments begin",
-   "detail": "In posts on Truth Social, the US President said the Venezuelan cargo is the first of billions of barrels to come. He also said US energy output from Alaska to Venezuela has made the Western Hemisphere the world's energy capital.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "29cf640bbf6bc5cc",
-    "75846d416b99160a",
-    "2afd97f7df7f97b3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuqwbxcym2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuqwbxcym2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuqvekf7y2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuqvekf7y2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuqqnux3q2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuqqnux3q2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "471ed27760ac",
-   "created_at": "2026-10-27T17:25:41Z"
   }
  ]
 }
