@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T09:31:07Z",
+ "generated_at": "2026-10-29T09:35:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "23367312a2bf",
+   "ts": "2026-10-29T09:31:08Z",
+   "headline": "UK mortgage approvals fall to 53.4K in September, below the 54K forecast; M4 money supply grows 0.1% on the month",
+   "detail": "Bank of England data put September mortgage approvals at 53.443K against a forecast of 54K, with August revised to 54.814K. M4 money supply rose 0.1% on the month and 3.9% on the year, down from 4.4%, and M4 excluding intermediate OFCs grew at a 1.6% three-month annualised rate, down from 2.8%.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "94acfff2a00763f9",
+    "cfb8cb17082f035a",
+    "557c166a965cc18e",
+    "ba30bd7942f84fd8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyxfioejb2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyxfioejb2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyxgs5o2w2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyxgs5o2w2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyxfmuuy52p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyxfmuuy52p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyxhmwmw62k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyxhmwmw62k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2f1ad2de8326",
+   "created_at": "2026-10-29T09:35:45Z"
+  },
   {
    "id": "93f2571e238d",
    "ts": "2026-10-29T09:31:02Z",
@@ -6582,45 +6621,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myvnr45fti2x",
      "url": "https://bsky.app/profile/reuters.com/post/3myvnr45fti2x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "68320d8858d8",
-   "created_at": "2026-10-28T06:10:52Z"
-  },
-  {
-   "id": "f681447c1cd8",
-   "ts": "2026-10-28T01:26:49Z",
-   "headline": "RBA's Bullock says inflation is unacceptably high and domestic demand still exceeds supply",
-   "detail": "The Reserve Bank of Australia Governor said Australian domestic demand remains above domestic supply and that inflation is too high.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "603319d62b2a5d35",
-    "288ac7ef95080180",
-    "55543ef1aa803e11",
-    "03e0561ca0fcb43b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvluksoot25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvluksoot25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvlup3bxl22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvlup3bxl22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvlmrdafn2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvlmrdafn2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvln4byod2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvln4byod2b"
     }
    ],
    "model": "opus",
