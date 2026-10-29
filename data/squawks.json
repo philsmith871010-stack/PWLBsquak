@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T19:55:42Z",
+ "generated_at": "2026-10-29T20:01:14Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8f88eb1b072e",
+   "ts": "2026-10-29T19:58:40Z",
+   "headline": "US Energy Department says companies will borrow 16.75m barrels of crude from the SPR out of 17m offered",
+   "detail": "The US Energy Department said five companies, including Trafigura, Gunvor and Vitol, are taking loans of crude from the Strategic Petroleum Reserve. They will borrow 16.75 million of the 17 million barrels offered.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "62bf0bb7259b5ee3",
+    "7aff5c183775cfef",
+    "5d7e7315630ab5e1",
+    "5ab285a428b41877",
+    "935aef352a293065"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz22hmhq7q2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz22hmhq7q2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz22ihxngy2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz22ihxngy2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz22im5t2425",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz22im5t2425"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz22jflyh32d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz22jflyh32d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz22k6y2522f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz22k6y2522f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cc7793ca1eab",
+   "created_at": "2026-10-29T20:01:14Z"
+  },
   {
    "id": "1d45615ef255",
    "ts": "2026-10-29T19:54:08Z",
@@ -6306,27 +6351,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mywwjnqu6r2h",
      "url": "https://bsky.app/profile/reuters.com/post/3mywwjnqu6r2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f30fc547d34e",
-   "created_at": "2026-10-28T14:10:51Z"
-  },
-  {
-   "id": "a5582b31fb51",
-   "ts": "2026-10-28T14:09:41Z",
-   "headline": "Gilts extend rally as UK 30-year yield drops 5bp to a day low of 5.70%",
-   "detail": "Market wire reports UK gilts extending gains during the Budget, with the 30-year yield down 5bp at an intraday low of 5.70%.",
-   "category": "supply",
-   "importance": 3,
-   "source_event_ids": [
-    "cec8a4dcd3feda2f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywwio6ron2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywwio6ron2z"
     }
    ],
    "model": "opus",
