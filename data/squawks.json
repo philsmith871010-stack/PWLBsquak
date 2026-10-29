@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T07:50:57Z",
+ "generated_at": "2026-10-29T08:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "410fb3995968",
+   "ts": "2026-10-29T08:05:00Z",
+   "headline": "EU energy commissioner says the bloc uses 18% less gas than in 2022 and is better placed for the current crisis",
+   "detail": "The EU energy commissioner said the bloc is better able to handle the current energy crisis than in 2022 because gas use is 18% lower. The commissioner also said the crisis is made worse by its impact on oil products.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "e6bc9785e7aac1d0",
+    "ff7abfa33fb948c7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyslitysu2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyslitysu2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyskq5hbt2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyskq5hbt2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bed67c180968",
+   "created_at": "2026-10-29T08:05:43Z"
+  },
+  {
+   "id": "5f9d0c25a146",
+   "ts": "2026-10-29T08:02:28Z",
+   "headline": "South Korea sets November treasury bond issuance at 12tn won",
+   "detail": "South Korea will issue 12tn won of treasury bonds in November. The finance minister had earlier said Seoul would review November issuance in response to market turbulence.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f3f481566741e91a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myysgxojyg2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myysgxojyg2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bed67c180968",
+   "created_at": "2026-10-29T08:05:43Z"
+  },
   {
    "id": "9ae3dfae468e",
    "ts": "2026-10-29T07:48:08Z",
@@ -6938,48 +6986,6 @@
    "model": "opus",
    "run_id": "5c1d0df04c21",
    "created_at": "2026-10-28T06:01:17Z"
-  },
-  {
-   "id": "1bbe9ac3dfbf",
-   "ts": "2026-10-27T22:44:27Z",
-   "headline": "Healey puts energy reform at the centre of his Budget and pledges more support for businesses and households, FT reports",
-   "detail": "The Financial Times reports that the Chancellor will put energy reform at the centre of what it calls a 'do no harm' Budget. It also says he will pledge extra support for businesses, entrepreneurs and households.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "acfd4e0223c2055d"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myvcsaa53n2k",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myvcsaa53n2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "70cb672df5c9",
-   "created_at": "2026-10-27T22:45:49Z"
-  },
-  {
-   "id": "d66417e653bf",
-   "ts": "2026-10-27T22:42:31Z",
-   "headline": "Chancellor Healey is set to reverse the cuts to cash ISA limits, FT reports",
-   "detail": "According to the Financial Times, Chancellor Rachel Healey plans to reverse the earlier cuts to cash ISA allowances. The report came the evening before the Budget.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "e059802dec43726c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvcoriezw2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvcoriezw2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "70cb672df5c9",
-   "created_at": "2026-10-27T22:45:49Z"
   }
  ]
 }
