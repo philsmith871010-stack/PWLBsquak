@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T07:10:52Z",
+ "generated_at": "2026-10-29T07:15:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c525eb3e2b97",
+   "ts": "2026-10-29T07:15:18Z",
+   "headline": "China's commerce ministry says it will take all necessary measures if the EU imposes discriminatory restrictions on Chinese goods",
+   "detail": "China's Ministry of Commerce issued the warning about any EU curbs on Chinese products on 29 October. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "77d0bdd1e5a3e8ab"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myypsmxnn724",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myypsmxnn724"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8973a890e0c2",
+   "created_at": "2026-10-29T07:15:53Z"
+  },
   {
    "id": "f4ebc0249eaf",
    "ts": "2026-10-29T07:06:07Z",
@@ -6965,27 +6986,6 @@
    "model": "opus",
    "run_id": "0e565ae34f17",
    "created_at": "2026-10-27T21:05:45Z"
-  },
-  {
-   "id": "5a0d825ed1e2",
-   "ts": "2026-10-27T20:50:04Z",
-   "headline": "Kremlin's Peskov says the local Ukraine ceasefire deal at first covered only a halt in fighting around one town",
-   "detail": "Kremlin spokesman Peskov said the ceasefire agreement originally provided for a period of quiet around a single town. Earlier reports said the local ceasefire had been extended beyond Oleshky in the Kherson region.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1d5d87f44f4a5ad9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myv4fpis6h2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myv4fpis6h2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b35d2892e81c",
-   "created_at": "2026-10-27T20:50:51Z"
   }
  ]
 }
