@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T15:45:51Z",
+ "generated_at": "2026-10-29T16:01:24Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5c5b310aa858",
+   "ts": "2026-10-29T16:01:11Z",
+   "headline": "US and Hungary sign a pipeline framework agreement, Hungary's foreign minister says",
+   "detail": "Hungary's foreign minister said the US and Hungary have signed an agreement on what is being called the 'Trump Peace Pipeline Framework'. No further terms were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "06379db9dd4b756a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzn6xvyal2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzn6xvyal2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0b6fcd3b0666",
+   "created_at": "2026-10-29T16:01:24Z"
+  },
   {
    "id": "96f13a9368eb",
    "ts": "2026-10-29T15:45:48Z",
@@ -6552,39 +6573,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mywtz45e7o2q",
      "url": "https://bsky.app/profile/reuters.com/post/3mywtz45e7o2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "01650844ae9d",
-   "created_at": "2026-10-28T13:25:46Z"
-  },
-  {
-   "id": "e970846ab1cd",
-   "ts": "2026-10-28T13:24:02Z",
-   "headline": "Budget sets up a defence finance taskforce, with the National Wealth Fund and National Bank deploying up to £5bn on defence",
-   "detail": "Healey said the government will start treaty talks with Finland, Poland and the Netherlands on a multilateral defence mechanism and will set out how it meets its NATO defence commitment. The National Wealth Fund and the National Bank will put up to £5bn of funding and investment into the defence industrial base.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "e58dfd5d1167517b",
-    "b56fafd7bd0327c2",
-    "da96fa43699c565f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywtwzz3sd2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywtwzz3sd2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywtz7ak442y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywtz7ak442y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywttq4jsg2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywttq4jsg2b"
     }
    ],
    "model": "opus",
