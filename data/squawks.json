@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T16:50:52Z",
+ "generated_at": "2026-10-29T16:55:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c39cd73e0512",
+   "ts": "2026-10-29T16:52:43Z",
+   "headline": "Saudi civil defence issues danger alerts for Riyadh, Al Kharj and Najran",
+   "detail": "Saudi Arabia's civil defence authority warned of potential danger in Najran, then in Riyadh and Al Kharj, in two alerts minutes apart. It gave no details of the threat, and no market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2b8b17c564c376c2",
+    "5f4c200302bc797e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzpy3iwex2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzpy3iwex2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzq34stwy2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzq34stwy2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "70aae6521841",
+   "created_at": "2026-10-29T16:55:44Z"
+  },
   {
    "id": "449ea5cfa37e",
    "ts": "2026-10-29T16:46:05Z",
@@ -6534,51 +6561,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuewx5qh2y",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuewx5qh2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7d0192c3e576",
-   "created_at": "2026-10-28T13:35:45Z"
-  },
-  {
-   "id": "fbffece5631d",
-   "ts": "2026-10-28T13:31:33Z",
-   "headline": "World Bank forecasts global energy prices up 32% in 2026, a four-year high, on Middle East war",
-   "detail": "The World Bank expects global oil supply to fall 5.2% in 2026 and overall commodity prices to rise 23% before falling 7% in 2027. It warns that further Middle East escalation or damage to Russian oil infrastructure could lift energy prices further.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "7c585ae37e254373",
-    "31d822f8b007c5f2",
-    "7a4446456fce24e7",
-    "2e19c0c7f800a7d2",
-    "4ee2bc044854b6ea"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywueifj6n2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywueifj6n2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuenpdqg2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuenpdqg2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuff75hv2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuff75hv2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywugcpvvo2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywugcpvvo2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywugdoztr22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywugdoztr22"
     }
    ],
    "model": "opus",
