@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T15:25:44Z",
+ "generated_at": "2026-10-29T15:31:13Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "387e4efd45e7",
+   "ts": "2026-10-29T15:28:34Z",
+   "headline": "ECB policymakers see a December rate hike followed by a pause, sources say",
+   "detail": "Sources say new ECB staff estimates show the rise in bond yields reducing growth by a cumulative 100bp and inflation by 90bp over 2027-28 compared with the September baseline.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "078e4bbb724bf723"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzlensgke2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzlensgke2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7b38ccfd0e27",
+   "created_at": "2026-10-29T15:31:13Z"
+  },
   {
    "id": "fb95d0180a96",
    "ts": "2026-10-29T15:24:45Z",
@@ -6587,45 +6608,6 @@
    "model": "opus",
    "run_id": "60a44c0e38f7",
    "created_at": "2026-10-28T13:20:54Z"
-  },
-  {
-   "id": "d125db300882",
-   "ts": "2026-10-28T13:13:32Z",
-   "headline": "Healey says local authorities will keep 100% of business rates by the end of the decade as he moves to devolve tax revenues",
-   "detail": "In his Budget statement, Chancellor Healey said the government is taking steps to devolve tax revenues. He said local authorities will retain all business rates by the end of the decade.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "6ae2d651bf106638",
-    "73793b56756a3dfc",
-    "f386e68eb64c3ee0",
-    "3d240742caf3d364"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywtebtdc32f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywtebtdc32f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywtfbzisr2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywtfbzisr2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywtdaxick2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywtdaxick2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywtf3uzag24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywtf3uzag24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "29497e49e9f7",
-   "created_at": "2026-10-28T13:15:52Z"
   }
  ]
 }
