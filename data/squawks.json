@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T06:15:50Z",
+ "generated_at": "2026-10-29T07:01:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b3585b6d674b",
+   "ts": "2026-10-29T07:01:06Z",
+   "headline": "Swedish GDP growth slows to 2.8% year on year in advance estimate, just below the 2.9% forecast",
+   "detail": "Sweden's advance GDP estimate showed annual growth of 2.8%, against a forecast of 2.9% and down from 3.3% previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "03a74e0eff4147c2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyozagud52b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyozagud52b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b34311fc69b8",
+   "created_at": "2026-10-29T07:01:17Z"
+  },
   {
    "id": "deab38c5070a",
    "ts": "2026-10-29T05:07:46Z",
@@ -6905,27 +6926,6 @@
    "model": "opus",
    "run_id": "d9bbdce44440",
    "created_at": "2026-10-27T19:45:48Z"
-  },
-  {
-   "id": "476bc6493528",
-   "ts": "2026-10-27T19:14:44Z",
-   "headline": "Trump to announce looser rules on methane leaks from oil companies, Washington Post reports",
-   "detail": "The Washington Post reports that President Trump will announce relaxed regulations on methane leaks from oil firms.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "ec0b490e9ddd613c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myux3a7krv24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myux3a7krv24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0ad8386d5b8b",
-   "created_at": "2026-10-27T19:15:54Z"
   }
  ]
 }
