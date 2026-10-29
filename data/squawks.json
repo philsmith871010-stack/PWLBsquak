@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T18:25:45Z",
+ "generated_at": "2026-10-29T18:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "859011557e05",
+   "ts": "2026-10-29T18:31:41Z",
+   "headline": "Trump pledges $5,000 payment to every adult US citizen if Republicans win the House and Senate, at a cost of about $1tn",
+   "detail": "Trump puts the cost of the proposed $5,000 payment at about $1 trillion and says tariff revenue would help pay for it. He says recipients would have to spend the payments in the US.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "c0edaa02d04fdb09"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzvm3p2yo2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzvm3p2yo2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "333004eacdef",
+   "created_at": "2026-10-29T18:35:43Z"
+  },
   {
    "id": "d897e25a6506",
    "ts": "2026-10-29T18:23:04Z",
@@ -6474,27 +6495,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywvbcp3ub2z",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywvbcp3ub2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "77177f39aedd",
-   "created_at": "2026-10-28T13:50:52Z"
-  },
-  {
-   "id": "009ad22bfdc5",
-   "ts": "2026-10-28T13:46:31Z",
-   "headline": "OBR expects the Employment Rights Act to have a negative economic impact",
-   "detail": "The Office for Budget Responsibility gave this assessment of the Employment Rights Act alongside the Budget. No figures were reported.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "e877a925d37ce907"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywv7am6uw2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywv7am6uw2f"
     }
    ],
    "model": "opus",
