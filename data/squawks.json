@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T12:45:51Z",
+ "generated_at": "2026-10-29T12:55:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d29caf70afd3",
+   "ts": "2026-10-29T12:52:32Z",
+   "headline": "US September PCE supercore inflation rises to 3.596% year on year from 3.493%; monthly pace at 0.367%",
+   "detail": "US PCE supercore prices rose 3.596% on the year in September, up from 3.493% the previous month. The monthly rate was 0.367%, compared with 0.373% previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ba0d2a49b1c848ae"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzcnnrcan2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzcnnrcan2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ba9380b8443e",
+   "created_at": "2026-10-29T12:55:46Z"
+  },
   {
    "id": "9f86d1f0aa0d",
    "ts": "2026-10-29T12:45:41Z",
@@ -6407,27 +6428,6 @@
    "model": "opus",
    "run_id": "0640efd08fac",
    "created_at": "2026-10-28T10:35:47Z"
-  },
-  {
-   "id": "cece1a5401f2",
-   "ts": "2026-10-28T10:17:38Z",
-   "headline": "Russia's Novak denies that Moscow is in talks with the US about American companies returning to Russian oil projects",
-   "detail": "Russian Deputy Prime Minister Alexander Novak said Russia is not negotiating with the US on a return to oil projects, TASS reported. This follows FT reports that the US was discussing Russian deals for American oil majors as part of the Ukraine peace talks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9c344836ca808563"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywjjqvow42y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywjjqvow42y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cec2cee3397e",
-   "created_at": "2026-10-28T10:20:54Z"
   }
  ]
 }
