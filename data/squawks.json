@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T12:10:54Z",
+ "generated_at": "2026-10-29T12:15:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "56527e5442be",
+   "ts": "2026-10-29T12:15:17Z",
+   "headline": "Resolution Foundation says the forecast for the level of GDP in 2030 is unchanged after the Budget",
+   "detail": "The Resolution Foundation says the GDP growth forecast picks up after a hit in the near term. It adds that other population assumptions make up for lower migration, so the 2030 level is unchanged.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "1dd70b3ee09e12ba"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3myzakzmjpq2g",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3myzakzmjpq2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e30f4266ab26",
+   "created_at": "2026-10-29T12:15:53Z"
+  },
   {
    "id": "6dc8edb086db",
    "ts": "2026-10-29T11:49:18Z",
@@ -6359,33 +6380,6 @@
    "model": "opus",
    "run_id": "1b24c8e3a954",
    "created_at": "2026-10-28T07:35:50Z"
-  },
-  {
-   "id": "72fc3e858647",
-   "ts": "2026-10-28T07:21:39Z",
-   "headline": "Russia's Ryabkov says Moscow is preparing for Ukraine negotiations and hopes US dialogue can address the conflict's root causes",
-   "detail": "Russian Deputy Foreign Minister Sergei Ryabkov said Russia is in the preparation phase for negotiations on Ukraine. He also said Moscow hopes close dialogue with the US administration will help resolve the root causes of the conflict.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a1fada588aee237c",
-    "47533a0b9b07efd0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myw7p2embv2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myw7p2embv2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myw7smxc4i2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myw7smxc4i2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "146fe2374f52",
-   "created_at": "2026-10-28T07:25:42Z"
   }
  ]
 }
