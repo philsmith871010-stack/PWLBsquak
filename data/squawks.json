@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T10:31:09Z",
+ "generated_at": "2026-10-29T10:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e78e720c463d",
+   "ts": "2026-10-29T10:31:59Z",
+   "headline": "ECB formally confirms Lagarde has resigned as President, effective 7 February",
+   "detail": "The European Central Bank said in a statement on Thursday that President Christine Lagarde has resigned and will leave on 7 February. This follows earlier reports that she had told staff of her plans.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "b8ce3d267e6656c9"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myz2scndx22i",
+     "url": "https://bsky.app/profile/reuters.com/post/3myz2scndx22i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5308a30e52f5",
+   "created_at": "2026-10-29T10:35:43Z"
+  },
   {
    "id": "7b0400a962f5",
    "ts": "2026-10-29T10:28:30Z",
@@ -6342,33 +6363,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvw7dmdhb2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvw7dmdhb2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "16c13ee245f1",
-   "created_at": "2026-10-28T06:20:54Z"
-  },
-  {
-   "id": "73be621f7775",
-   "ts": "2026-10-28T04:11:46Z",
-   "headline": "Japan's 2-year government bond yield rises 2bp to 1.895%",
-   "detail": "The 2-year JGB yield climbed 2bp to 1.895%, while the 5-year yield rose 3.5bp to 2.265%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "08d97200163596bc",
-    "c077dde781d34d33"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvv3jokjd2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvv3jokjd2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvv4qfhgu2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvv4qfhgu2z"
     }
    ],
    "model": "opus",
