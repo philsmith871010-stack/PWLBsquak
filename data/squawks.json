@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T20:55:42Z",
+ "generated_at": "2026-10-29T21:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e1c6f362009f",
+   "ts": "2026-10-29T21:13:17Z",
+   "headline": "LGA publishes briefing on the local government measures in the 28 October Autumn Budget",
+   "detail": "The Local Government Association has released a briefing that summarises the Budget announcements relevant to councils and gives its initial view. The Chancellor delivered the Budget on 28 October 2026.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "34308ce7656d6d61"
+   ],
+   "sources": [
+    {
+     "author": "local.gov.uk",
+     "uri": "at://did:plc:xktc34svc3aeeovgbigfwg2d/app.bsky.feed.post/3mz26n27ios2f",
+     "url": "https://bsky.app/profile/local.gov.uk/post/3mz26n27ios2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "646e63badb3a",
+   "created_at": "2026-10-29T21:15:52Z"
+  },
   {
    "id": "097d63ad3037",
    "ts": "2026-10-29T20:51:59Z",
@@ -6342,33 +6363,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywxumgrka2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywxumgrka2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "76c8ab2db549",
-   "created_at": "2026-10-28T14:35:43Z"
-  },
-  {
-   "id": "c8edb4a2a521",
-   "ts": "2026-10-28T14:33:41Z",
-   "headline": "OBR forecasts real household disposable income per person still more than ¾% below its March path in 2030-31",
-   "detail": "The Resolution Foundation, reading the Budget documents, says the OBR has real household disposable income falling this year and real earnings growth at zero in 2027 and 2028. The Guardian reports the living standards outlook was downgraded partly because of the Middle East conflict.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "0b31501c69bbfdc0",
-    "697cac784b3c1073"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mywxtkvvkc22",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mywxtkvvkc22"
-    },
-    {
-     "author": "rjpartington.bsky.social",
-     "uri": "at://did:plc:7gxgy7wfvg4tdsspy32rcvvw/app.bsky.feed.post/3mywxtvadrc2w",
-     "url": "https://bsky.app/profile/rjpartington.bsky.social/post/3mywxtvadrc2w"
     }
    ],
    "model": "opus",
