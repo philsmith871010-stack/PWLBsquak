@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T09:55:44Z",
+ "generated_at": "2026-10-29T10:01:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8cb4ba41bd1b",
+   "ts": "2026-10-29T09:58:41Z",
+   "headline": "ECB President Lagarde tells staff she plans to step down on 7 February",
+   "detail": "Reports on 29 October say ECB President Christine Lagarde has told staff she intends to leave her post on 7 February. The reports give no reason for her departure and name no successor.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "9947c70eedcf6496",
+    "7b8593e6eca4c4a7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyywrm6bj2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyywrm6bj2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyyycckgf25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyyycckgf25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d0cf087214b6",
+   "created_at": "2026-10-29T10:01:17Z"
+  },
   {
    "id": "b52c8be0b807",
    "ts": "2026-10-29T09:53:15Z",
@@ -6594,33 +6621,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvlnbakmf2p",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvlnbakmf2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "68320d8858d8",
-   "created_at": "2026-10-28T06:10:52Z"
-  },
-  {
-   "id": "fdca16164325",
-   "ts": "2026-10-28T02:09:27Z",
-   "headline": "Japanese government bond yields rise 4bp, with the 10-year at 2.825% and the 20-year at 3.635%",
-   "detail": "The 20-year JGB yield rose 4bp to 3.635% and the 10-year rose 4bp to 2.825% in Asian trading on Wednesday.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "36c70fc6e7dd0ec3",
-    "c62670cb6cefd375"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvoarufrh2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvoarufrh2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvm5afov52y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvm5afov52y"
     }
    ],
    "model": "opus",
