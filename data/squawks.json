@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T11:45:54Z",
+ "generated_at": "2026-10-29T12:10:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6dc8edb086db",
+   "ts": "2026-10-29T11:49:18Z",
+   "headline": "RBC analysts say NatWest, Nationwide and Lloyds take the biggest profit hit from the Budget's doubled bank surcharge",
+   "detail": "City AM reports RBC analysts' view that UK-focused lenders are more exposed than HSBC and Barclays to the Budget's doubling of the bank surcharge.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "cfa1830675bcb7cc"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3myza4u6fcej2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3myza4u6fcej2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cd38be9f9f6b",
+   "created_at": "2026-10-29T12:10:54Z"
+  },
+  {
+   "id": "b21146294a1e",
+   "ts": "2026-10-29T11:11:12Z",
+   "headline": "Budget shields low-income pensioners from income tax as state pension rises; report says some face a 53% effective rate",
+   "detail": "City AM reports that new Budget rules from Chancellor Healey exempt low-income pensioners from income tax on the state pension. The report says hundreds of thousands of pensioners would pay an effective 53% rate on part of their retirement income.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "311b7a2d4b474cc5"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3myza5gwvsp42",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3myza5gwvsp42"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cd38be9f9f6b",
+   "created_at": "2026-10-29T12:10:54Z"
+  },
   {
    "id": "d5dd5860d7f4",
    "ts": "2026-10-29T11:45:13Z",
@@ -6344,48 +6386,6 @@
    "model": "opus",
    "run_id": "146fe2374f52",
    "created_at": "2026-10-28T07:25:42Z"
-  },
-  {
-   "id": "0a8a6969c5e7",
-   "ts": "2026-10-28T07:16:55Z",
-   "headline": "Zelenskiy says Ukraine will not target Russian ships carrying diesel bound for the US",
-   "detail": "Ukraine's President Zelenskiy said Ukraine would not attack Russian vessels transporting diesel to the United States. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "33822b492dbb2139"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myw7glsbwg2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myw7glsbwg2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "649124876f45",
-   "created_at": "2026-10-28T07:20:55Z"
-  },
-  {
-   "id": "9e36d7276ba7",
-   "ts": "2026-10-28T07:10:58Z",
-   "headline": "Brent and US crude futures rise more than $2 as supply risks return",
-   "detail": "Brent and US crude futures were reported up by more than $2 a barrel, with the rise put down to renewed supply risks.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "544da36549ac8fb1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myw73x2gno2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myw73x2gno2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f2bbf5bb76d3",
-   "created_at": "2026-10-28T07:15:58Z"
   }
  ]
 }
