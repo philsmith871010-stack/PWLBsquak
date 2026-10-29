@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T17:55:43Z",
+ "generated_at": "2026-10-29T18:10:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2fe75c711756",
+   "ts": "2026-10-29T17:00:00Z",
+   "headline": "Centre for Social Justice says a £33bn rise in UK benefits spending from 2027 to 2032 would offset frozen tax threshold gains",
+   "detail": "Analysis by the Centre for Social Justice, reported by City AM, finds that the £33bn increase in benefits spending between 2027 and 2032 would broadly match the rise in projected receipts from frozen income tax thresholds.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "dbd46a62290a9486"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3myzuc7laefd2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3myzuc7laefd2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f7f9eb790730",
+   "created_at": "2026-10-29T18:10:50Z"
+  },
   {
    "id": "12bae51e1a0b",
    "ts": "2026-10-29T17:50:58Z",
@@ -6486,27 +6507,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywv634m5w2f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywv634m5w2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5cd3b944423",
-   "created_at": "2026-10-28T13:46:00Z"
-  },
-  {
-   "id": "6030a26e25cd",
-   "ts": "2026-10-28T13:45:17Z",
-   "headline": "UK plans to extend its forthcoming carbon border tax to refined products, Treasury documents show",
-   "detail": "Treasury Budget documents show the government plans to widen the scope of its upcoming carbon border tax to cover refined products.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "d3471387231c64d5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywv526rap2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywv526rap2d"
     }
    ],
    "model": "opus",
