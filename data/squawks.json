@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-28T21:15:52Z",
+ "generated_at": "2026-10-29T06:01:16Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b6156f6cc291",
+   "ts": "2026-10-28T23:38:46Z",
+   "headline": "BoC's Macklem says Canada's neutral rate estimate could rise and the inflation forecast assumes fuel costs pass through",
+   "detail": "Bank of Canada Governor Tiff Macklem said the estimate of the neutral interest rate may be revised up and the bank's inflation forecast rests on fuel costs passing through to prices. He added that a new model lets the bank break inflation down by component, and described earlier core CPI forecasts as a shortcut.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "9bb4482c2ff4c3b1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxwcbw6oc2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxwcbw6oc2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f6f75f4a92f6",
+   "created_at": "2026-10-29T06:01:16Z"
+  },
+  {
+   "id": "438bf7424d17",
+   "ts": "2026-10-28T23:33:10Z",
+   "headline": "Hong Kong Monetary Authority leaves its base rate at 4.25%",
+   "detail": "The Hong Kong Monetary Authority kept its base rate unchanged at 4.25% after the Federal Reserve's decision to hold rates.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f460e95e3cc312f1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxvybah3r22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxvybah3r22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f6f75f4a92f6",
+   "created_at": "2026-10-29T06:01:16Z"
+  },
   {
    "id": "5fb1e09a3083",
    "ts": "2026-10-28T21:15:16Z",
@@ -6824,66 +6866,6 @@
    "model": "opus",
    "run_id": "471ed27760ac",
    "created_at": "2026-10-27T17:25:41Z"
-  },
-  {
-   "id": "41132f21a55e",
-   "ts": "2026-10-27T17:07:01Z",
-   "headline": "Trump says the Venezuelan oil cargo the US is taking is only the first shipment",
-   "detail": "US President Trump said the shipment of Venezuelan oil bound for the US is the first of more to come. One report gave the cargo as 1 million barrels and another as 100 million barrels; the earlier blotter entry carried 1 million barrels.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "76ab0abfadf339cc",
-    "be50125bd4caed6f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myupwu7k2q2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myupwu7k2q2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuq2af3vi25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuq2af3vi25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ec3c9dda0eba",
-   "created_at": "2026-10-27T17:10:55Z"
-  },
-  {
-   "id": "7a28f195f8ed",
-   "ts": "2026-10-27T17:03:57Z",
-   "headline": "US Treasury sells $70bn of 5-year notes at a 4.845% high yield with a 0.4bp tail; bid-to-cover 2.33",
-   "detail": "The high yield compares with 5.033% at the previous 5-year sale, and bid-to-cover rose to 2.33 from 2.210. Indirect bidders took 60.0%, directs 29.4% and primary dealers 10.6%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "8b2ca30f5cf67c31",
-    "ca6d0d2fe6565273",
-    "06de8ad2925863b4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuprehqry24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuprehqry24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuppuc2vx2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuppuc2vx2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuppy7n4c25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuppy7n4c25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b3bfee853083",
-   "created_at": "2026-10-27T17:05:44Z"
   }
  ]
 }
