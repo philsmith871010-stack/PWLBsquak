@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T07:15:53Z",
+ "generated_at": "2026-10-29T07:20:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3af9ed97b62c",
+   "ts": "2026-10-29T07:16:09Z",
+   "headline": "Lloyds Q3 net interest income comes in at £3.81bn, just below the £3.83bn estimate",
+   "detail": "Lloyds reported Q3 2026 loan-loss provisions of £313.0m (estimate £311.8m) and operating costs of £2.37bn (estimate £2.39bn). Total deposits were £502.8bn, against an estimate of £502.41bn.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "6f9685ae47c69da8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myypu5kcrd2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myypu5kcrd2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1e0b5c8451b0",
+   "created_at": "2026-10-29T07:20:54Z"
+  },
   {
    "id": "c525eb3e2b97",
    "ts": "2026-10-29T07:15:18Z",
@@ -6954,33 +6975,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myv56brmra2z",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myv56brmra2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0e565ae34f17",
-   "created_at": "2026-10-27T21:05:45Z"
-  },
-  {
-   "id": "76d0f4818815",
-   "ts": "2026-10-27T21:01:29Z",
-   "headline": "US sells first Venezuelan crude cargo, received at no cost, to Citgo and Exxon Mobil, White House official says",
-   "detail": "A White House official says the US government received the first Venezuelan crude cargo from NABEP at no cost under an August deal. The official says the cargo has been sold to Citgo Petroleum and Exxon Mobil.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "f5b0334c2db55362",
-    "6e7b932f20bde960"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myv5243anx2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myv5243anx2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myv52f4qwr24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myv52f4qwr24"
     }
    ],
    "model": "opus",
