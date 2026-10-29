@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T15:05:46Z",
+ "generated_at": "2026-10-29T15:10:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "362ddc74e253",
+   "ts": "2026-10-29T15:05:52Z",
+   "headline": "Trump weighs further military strikes on Iran after the midterms but is open to more diplomacy, Semafor reports",
+   "detail": "Semafor reports that President Trump is seriously considering more military operations against Iran after the US election while appearing willing to give diplomacy another chance. The report says many inside the administration doubt the case for resuming strikes.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e3b51777fe539541"
+   ],
+   "sources": [
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3myzk42qb2w25",
+     "url": "https://bsky.app/profile/semafor.com/post/3myzk42qb2w25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aaa397780c18",
+   "created_at": "2026-10-29T15:10:52Z"
+  },
   {
    "id": "aa87a5876bce",
    "ts": "2026-10-29T15:02:45Z",
@@ -6605,45 +6626,6 @@
    "model": "opus",
    "run_id": "de139f47a224",
    "created_at": "2026-10-28T13:10:54Z"
-  },
-  {
-   "id": "2796c01df66c",
-   "ts": "2026-10-28T13:04:45Z",
-   "headline": "Healey allocates £20.4bn to the National Wealth Fund in the Budget",
-   "detail": "Chancellor Healey announced £20.4bn for the National Wealth Fund in his Budget speech. He also announced a new British data centre covenant but gave no figures for it.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "2fc105b909f11870",
-    "92f271a9d78177f1",
-    "bf4ef9cf8be5ff9c",
-    "2185a6d97f277b4a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsula3xw25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsula3xw25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsumacoi24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsumacoi24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsuwqwt525",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsuwqwt525"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsvz7k7d22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsvz7k7d22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4504214b5672",
-   "created_at": "2026-10-28T13:05:44Z"
   }
  ]
 }
