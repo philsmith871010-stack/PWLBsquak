@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T12:35:41Z",
+ "generated_at": "2026-10-29T12:40:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7fa662a1773b",
+   "ts": "2026-10-29T12:40:10Z",
+   "headline": "PM Starmer's spokesman says Burnham and Healey both think the welfare bill needs to fall",
+   "detail": "The Prime Minister's spokesman said Burnham and Healey share the view that welfare spending should be reduced. This follows Healey's commitment to cut welfare spending before the next election, with plans due by the end of the year.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "38360b23d9f4b1de"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbxjq4pm24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbxjq4pm24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c68f2c3fc32c",
+   "created_at": "2026-10-29T12:40:52Z"
+  },
   {
    "id": "1c7034eee51c",
    "ts": "2026-10-29T12:33:01Z",
@@ -6437,27 +6458,6 @@
    "model": "opus",
    "run_id": "ea23661fce96",
    "created_at": "2026-10-28T10:10:59Z"
-  },
-  {
-   "id": "cebeefe457cc",
-   "ts": "2026-10-28T10:02:22Z",
-   "headline": "Iran's president says the government is working to end the state of 'neither war nor peace'",
-   "detail": "Iran's President Pezeshkian said the government is working to get beyond the current state of neither war nor peace. Qatari mediators have given Iran a new draft deal, and Iran is expected to respond by the end of the week.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "22ab661f53e359ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywiogi3u52d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywiogi3u52d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "120980aa6448",
-   "created_at": "2026-10-28T10:05:44Z"
   }
  ]
 }
