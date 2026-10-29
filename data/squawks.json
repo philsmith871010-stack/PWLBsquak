@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T16:55:44Z",
+ "generated_at": "2026-10-29T17:01:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "291019e2cb8c",
+   "ts": "2026-10-29T17:00:48Z",
+   "headline": "UK welfare bill will not fall during this parliament, according to a market headline",
+   "detail": "A market news feed reported at 17:00 GMT that the UK welfare bill will not come down this parliament; the post did not name a source. Earlier, ministers said the welfare bill needs to fall.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "8137ebcecd2c210a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzqjkoqwb2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzqjkoqwb2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9c4e06816509",
+   "created_at": "2026-10-29T17:01:17Z"
+  },
   {
    "id": "c39cd73e0512",
    "ts": "2026-10-29T16:52:43Z",
@@ -6522,45 +6543,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuis4xel2z",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuis4xel2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7d0192c3e576",
-   "created_at": "2026-10-28T13:35:45Z"
-  },
-  {
-   "id": "83e1d7c027f1",
-   "ts": "2026-10-28T13:33:37Z",
-   "headline": "DMO cuts long conventional syndication to £12.5bn and raises index-linked syndication to £7.8bn for 2026-27",
-   "detail": "The revised DMO remit sets long-dated conventional gilt syndications at £12.5bn, down from £15bn in April. Index-linked syndications rise to £7.8bn from £7bn, and index-linked auctions fall to £15.6bn from £16bn.",
-   "category": "supply",
-   "importance": 2,
-   "source_event_ids": [
-    "c7c34986d489c702",
-    "4b7e4de3550973fe",
-    "2d41847ab9e8d96c",
-    "cd06adfe2a40ce45"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywui6op4k22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywui6op4k22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuikomhf2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuikomhf2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuiwcpcf25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuiwcpcf25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuewx5qh2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuewx5qh2y"
     }
    ],
    "model": "opus",
