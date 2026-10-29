@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T10:01:17Z",
+ "generated_at": "2026-10-29T10:05:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "71812a5d87de",
+   "ts": "2026-10-29T10:01:46Z",
+   "headline": "Lagarde's successor at the ECB is to be appointed by the European Council under the EU treaty nomination process",
+   "detail": "The European Council will appoint the next ECB President using the nomination procedure in Article 283 of the Treaty on the Functioning of the European Union. This follows Lagarde telling staff she plans to step down on 7 February.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "efccc3fc3f7bfdb6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyz4cgc422y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyz4cgc422y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b318d144fa72",
+   "created_at": "2026-10-29T10:05:44Z"
+  },
   {
    "id": "8cb4ba41bd1b",
    "ts": "2026-10-29T09:58:41Z",
@@ -6551,81 +6572,6 @@
    "model": "opus",
    "run_id": "5e424a04586b",
    "created_at": "2026-10-28T06:15:48Z"
-  },
-  {
-   "id": "258d0f58d4c9",
-   "ts": "2026-10-28T02:11:58Z",
-   "headline": "RBNZ Governor Breman says more rate hikes are probable at coming meetings and a lasting NZD fall could lift imported inflation",
-   "detail": "The RBNZ Governor said policy may need to become more restrictive depending on the economy, and that the committee looked at market pricing and the fall in the New Zealand dollar. The Australian dollar rose 2% against the New Zealand dollar to NZ$1.2602, its highest since early 2013.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "986b541ce4aba3e5",
-    "1f255c355a3e7a1d",
-    "8d38ba29206aaed6",
-    "554c6cc57cae5ca9",
-    "578b13dc6edee3a0",
-    "f75e12c1420d5f08",
-    "35cf379125c39df7",
-    "d4eb0262f8269fa6",
-    "bf433b4bcfb4efd2",
-    "cec11d598786995e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvofco6sf25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvofco6sf25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvog6hxrg2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvog6hxrg2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvnwei3yl2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvnwei3yl2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvnwidddr2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvnwidddr2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvocovey62y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvocovey62y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvo22uiir2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvo22uiir2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvo2zlz2r2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvo2zlz2r2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvogysdwm2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvogysdwm2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvllqsquz2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvllqsquz2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvlnbakmf2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvlnbakmf2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "68320d8858d8",
-   "created_at": "2026-10-28T06:10:52Z"
   }
  ]
 }
