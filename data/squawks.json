@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T10:15:51Z",
+ "generated_at": "2026-10-29T10:31:09Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7b0400a962f5",
+   "ts": "2026-10-29T10:28:30Z",
+   "headline": "Healey says preventative spending will be ringfenced at the 2027 spending review",
+   "detail": "According to the Institute for Government, John Healey has announced that the government will put a ringfence around preventative spending at the 2027 spending review.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "e5b4c3e16f334b6f"
+   ],
+   "sources": [
+    {
+     "author": "instituteforgovernment.org.uk",
+     "uri": "at://did:plc:d656x5rt365ylfpbzpwgpl4i/app.bsky.feed.post/3myz2m3i6k22n",
+     "url": "https://bsky.app/profile/instituteforgovernment.org.uk/post/3myz2m3i6k22n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "382c1279e038",
+   "created_at": "2026-10-29T10:31:09Z"
+  },
   {
    "id": "ee0c4cd08c69",
    "ts": "2026-10-29T10:11:59Z",
@@ -6353,27 +6374,6 @@
    "model": "opus",
    "run_id": "16c13ee245f1",
    "created_at": "2026-10-28T06:20:54Z"
-  },
-  {
-   "id": "f96a5494ebeb",
-   "ts": "2026-10-28T04:00:26Z",
-   "headline": "Sterling edges lower towards $1.3300 ahead of the Budget and the Fed decision",
-   "detail": "GBP/USD drifted towards 1.3300 in Asian trading, ahead of Chancellor Healey's Budget and the Federal Reserve rate decision, according to an FX market report.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "27ca03db9af7bbc2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvuhazthl2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvuhazthl2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5e424a04586b",
-   "created_at": "2026-10-28T06:15:48Z"
   }
  ]
 }
