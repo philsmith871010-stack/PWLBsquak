@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T07:05:43Z",
+ "generated_at": "2026-10-29T07:10:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f4ebc0249eaf",
+   "ts": "2026-10-29T07:06:07Z",
+   "headline": "Healey commits to cutting welfare spending before the next election, with plans due by the end of the year",
+   "detail": "The Financial Times reports that the Chancellor, having delivered her first Budget, has promised to publish plans by the end of the year to reduce a welfare bill she called unsustainable.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "4611ee48aff95896"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myypc6uymq2x",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myypc6uymq2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b096494f2e29",
+   "created_at": "2026-10-29T07:10:52Z"
+  },
   {
    "id": "dbde50bc0a4f",
    "ts": "2026-10-29T07:03:29Z",
@@ -6960,27 +6981,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myv4fpis6h2f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myv4fpis6h2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b35d2892e81c",
-   "created_at": "2026-10-27T20:50:51Z"
-  },
-  {
-   "id": "81bc4ec8fd3c",
-   "ts": "2026-10-27T20:48:35Z",
-   "headline": "Chancellor Healey is preparing a £50 cut to household gas bills, Telegraph reports",
-   "detail": "The Telegraph reports that Chancellor Healey is preparing to cut household gas bills by £50. The report comes ahead of the Budget, which is due tomorrow.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "f3aa619614281e27"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myv4d2i6ka2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myv4d2i6ka2y"
     }
    ],
    "model": "opus",
