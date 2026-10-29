@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T18:50:50Z",
+ "generated_at": "2026-10-29T19:01:19Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5a2359a56121",
+   "ts": "2026-10-29T19:00:45Z",
+   "headline": "Trump says Canada has been treating the US very well lately, amid the two countries' tariff dispute",
+   "detail": "Reuters reports that US President Trump told a rally on Thursday that Canada has recently been treating the US very nicely. The US has been in a tariff war with Canada.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f8e489229a52e478"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myzxa2idde2i",
+     "url": "https://bsky.app/profile/reuters.com/post/3myzxa2idde2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7425446d54ab",
+   "created_at": "2026-10-29T19:01:19Z"
+  },
   {
    "id": "30437faa5e77",
    "ts": "2026-10-29T18:45:49Z",
@@ -6288,39 +6309,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywvnelayw2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywvnelayw2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "623960292c05",
-   "created_at": "2026-10-28T13:55:42Z"
-  },
-  {
-   "id": "aa37378e6ea9",
-   "ts": "2026-10-28T13:53:57Z",
-   "headline": "Kremlin says Europeans will not join the trilateral Ukraine talks and a date will be announced soon",
-   "detail": "Kremlin aide Ushakov said European representatives are not being invited to the negotiations on Ukraine, Interfax reported. The Kremlin also said the date of the trilateral talks would be announced soon.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e88770dcecb667a8",
-    "b2b7b2466d2c0c66",
-    "c8764bc6689da254"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywvme3ypf2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywvme3ypf2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywvmkbybu25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywvmkbybu25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywvnhdwep2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywvnhdwep2b"
     }
    ],
    "model": "opus",
