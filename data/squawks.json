@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T16:01:24Z",
+ "generated_at": "2026-10-29T16:10:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8b524609a083",
+   "ts": "2026-10-29T16:10:17Z",
+   "headline": "Japan to start scaling back gasoline subsidies from December, PM Takaichi says",
+   "detail": "Japanese Prime Minister Sanae Takaichi said the government will raise its target pump price for gasoline by 5 yen per litre each month from December into the spring. She said the aim is to contain the growing cost of fuel oil subsidies, Reuters reports.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "ccefe4556b55efaf"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myznpa5nmd2t",
+     "url": "https://bsky.app/profile/reuters.com/post/3myznpa5nmd2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "37d24f46e5fa",
+   "created_at": "2026-10-29T16:10:51Z"
+  },
   {
    "id": "5c5b310aa858",
    "ts": "2026-10-29T16:01:11Z",
@@ -6557,27 +6578,6 @@
    "model": "opus",
    "run_id": "b046ab9c1baf",
    "created_at": "2026-10-28T13:31:08Z"
-  },
-  {
-   "id": "fe93324c0d81",
-   "ts": "2026-10-28T13:25:11Z",
-   "headline": "Canadian official says trade talks with the US have made limited progress",
-   "detail": "Reuters cited a Canadian government official familiar with the talks, speaking on Wednesday.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e8281dbe760c071a"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mywtz45e7o2q",
-     "url": "https://bsky.app/profile/reuters.com/post/3mywtz45e7o2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "01650844ae9d",
-   "created_at": "2026-10-28T13:25:46Z"
   }
  ]
 }
