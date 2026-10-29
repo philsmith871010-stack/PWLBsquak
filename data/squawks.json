@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T07:20:54Z",
+ "generated_at": "2026-10-29T07:50:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9ae3dfae468e",
+   "ts": "2026-10-29T07:48:08Z",
+   "headline": "India's trade minister says the US trade deal will protect farmers and all stakeholders and leave India at a strong comparative advantage",
+   "detail": "India's trade minister said that no sensitive interest of farmers or any other stakeholder would be compromised by the planned trade deal with the US. He added that India would hold a strong comparative advantage once the deal is completed.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "436fd75237447a74",
+    "20e5d39871e0881c",
+    "628dadad1b149b2d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyrnd5hle2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyrnd5hle2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyroseg5d2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyroseg5d2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyrqyres624",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyrqyres624"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5d89d9dbc49a",
+   "created_at": "2026-10-29T07:50:57Z"
+  },
   {
    "id": "3af9ed97b62c",
    "ts": "2026-10-29T07:16:09Z",
@@ -6947,39 +6980,6 @@
    "model": "opus",
    "run_id": "70cb672df5c9",
    "created_at": "2026-10-27T22:45:49Z"
-  },
-  {
-   "id": "ecf6da9e8811",
-   "ts": "2026-10-27T21:01:41Z",
-   "headline": "Chile's central bank says it will set the rate path meeting by meeting and will monitor inflation persistence closely",
-   "detail": "Chile's central bank says it will assess the future path of interest rates at each meeting and will watch closely for signs that shocks are passing through more widely or that inflation is persisting. It says the economy may regain momentum by 2027, but current weakness could last longer than expected.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7f0d5eb9694b23ff",
-    "6a2952abedce3911",
-    "085cfe733ff89640"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myv52hyc762d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myv52hyc762d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myv53jvy7h2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myv53jvy7h2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myv56brmra2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myv56brmra2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0e565ae34f17",
-   "created_at": "2026-10-27T21:05:45Z"
   }
  ]
 }
