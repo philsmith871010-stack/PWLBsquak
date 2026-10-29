@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T15:35:45Z",
+ "generated_at": "2026-10-29T15:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "96f13a9368eb",
+   "ts": "2026-10-29T15:45:48Z",
+   "headline": "Russia is set to extend its diesel export ban to the end of the year, sources say",
+   "detail": "Sources say Russia is preparing to keep its ban on diesel exports in place until the end of the year. The report gives no market reaction.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "2ace8e2fff1bc35d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzmdhmen62b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzmdhmen62b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c6b6960ad976",
+   "created_at": "2026-10-29T15:45:51Z"
+  },
+  {
+   "id": "f40047b8aa80",
+   "ts": "2026-10-29T15:45:12Z",
+   "headline": "Trump says Vance's outreach to Iran was about helping it obtain medical supplies",
+   "detail": "US President Trump says Vice President Vance's contact with Iran was about medical supplies, Reuters reports. US media had reported that Vance wrote to Iran's top security official to revive peace talks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "dfc582cdd5da9bb0"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myzmcewnfs2i",
+     "url": "https://bsky.app/profile/reuters.com/post/3myzmcewnfs2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c6b6960ad976",
+   "created_at": "2026-10-29T15:45:51Z"
+  },
   {
    "id": "ceced132f174",
    "ts": "2026-10-29T15:34:16Z",
@@ -6548,66 +6590,6 @@
    "model": "opus",
    "run_id": "01650844ae9d",
    "created_at": "2026-10-28T13:25:46Z"
-  },
-  {
-   "id": "e0c278db2296",
-   "ts": "2026-10-28T13:22:21Z",
-   "headline": "Healey commits £10bn more in support for Ukraine in the Budget",
-   "detail": "In his Budget speech, Chancellor Healey announced a further £10bn of support for Ukraine and said Britain would back Ukraine for as long as needed.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "94a78887ed4aa95a",
-    "892675a4c9ff5557",
-    "fd36df0f32101a70"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywttzyofz2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywttzyofz2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywtwwo7fm2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywtwwo7fm2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywtrpfyve2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywtrpfyve2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "01650844ae9d",
-   "created_at": "2026-10-28T13:25:46Z"
-  },
-  {
-   "id": "d40561fc23bc",
-   "ts": "2026-10-28T13:19:28Z",
-   "headline": "Healey says triple lock changes save £50bn by 2050, with a pensions double lock saving £15bn",
-   "detail": "In his Budget speech, Chancellor Healey said changes to the state pension triple lock will save £50bn by 2050. He also said a double lock on pensions will save £15bn.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "42942890ed68208b",
-    "c44f3ebc92b02503"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywtoulahg24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywtoulahg24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywtpp5h5x25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywtpp5h5x25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "60a44c0e38f7",
-   "created_at": "2026-10-28T13:20:54Z"
   }
  ]
 }
