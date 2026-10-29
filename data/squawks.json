@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T19:01:19Z",
+ "generated_at": "2026-10-29T19:15:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6a26b2aad7b6",
+   "ts": "2026-10-29T19:15:46Z",
+   "headline": "Top US Middle East commander briefs Trump in person on Iran military options as US weighs resuming major combat, WSJ reports",
+   "detail": "The Wall Street Journal, citing US officials and others with direct knowledge, says the commander briefed Trump at the White House on Thursday. The report describes the in-person visit as rare.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "45dbb5821f01223d",
+    "5cae33398c8d57ac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzy2vgvbg2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzy2vgvbg2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzxzxdmpp2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzxzxdmpp2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d27d77049992",
+   "created_at": "2026-10-29T19:15:53Z"
+  },
+  {
+   "id": "b600be17079f",
+   "ts": "2026-10-29T19:13:23Z",
+   "headline": "Think-tanks question whether Chancellor Healey's Budget deficit-reduction pledge is credible, FT reports",
+   "detail": "The Financial Times reports that leading think-tanks see the pledge to cut the deficit as unlikely to be met. They point to pressures on public services and households.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "e2f0497947f2e708"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myzxwnmn5w2w",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myzxwnmn5w2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d27d77049992",
+   "created_at": "2026-10-29T19:15:53Z"
+  },
   {
    "id": "5a2359a56121",
    "ts": "2026-10-29T19:00:45Z",
@@ -6272,48 +6320,6 @@
    "model": "opus",
    "run_id": "4b75921428db",
    "created_at": "2026-10-28T14:05:45Z"
-  },
-  {
-   "id": "8ff56ea34b26",
-   "ts": "2026-10-28T14:01:42Z",
-   "headline": "OBR puts UK headroom before Budget measures at £12.5bn in 2029-30",
-   "detail": "The OBR estimates fiscal headroom in 2029-30 at £12.5bn before the Budget measures are taken into account.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "59c8f1b94b6d3ae7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myww2fgwpb2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myww2fgwpb2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4b75921428db",
-   "created_at": "2026-10-28T14:05:45Z"
-  },
-  {
-   "id": "bacb92661727",
-   "ts": "2026-10-28T13:54:25Z",
-   "headline": "Losses on the BoE's quantitative tightening for 2027-28 are put at £5.7bn more than forecast in March",
-   "detail": "The higher estimate of losses on the Bank of England's QT programme for 2027-28 was reported on Budget day. It is £5.7bn above the March forecast.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "2a1957a0414c2c1c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywvnelayw2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywvnelayw2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "623960292c05",
-   "created_at": "2026-10-28T13:55:42Z"
   }
  ]
 }
