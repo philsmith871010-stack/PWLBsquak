@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T19:15:53Z",
+ "generated_at": "2026-10-29T19:50:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3cb139273968",
+   "ts": "2026-10-29T19:50:34Z",
+   "headline": "Houthis claim several separate military operations deep inside Saudi territory",
+   "detail": "Yemen's Houthi movement says it has carried out a number of distinct military operations deep inside Saudi Arabia. This follows earlier Iranian media reports of Houthi missile attacks aimed at Saudi Aramco.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "684f46e8d3b38687"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzzz4sa2t25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzzz4sa2t25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "26febd751733",
+   "created_at": "2026-10-29T19:50:50Z"
+  },
   {
    "id": "6a26b2aad7b6",
    "ts": "2026-10-29T19:15:46Z",
@@ -6299,27 +6320,6 @@
    "model": "opus",
    "run_id": "f30fc547d34e",
    "created_at": "2026-10-28T14:10:51Z"
-  },
-  {
-   "id": "8f66b6df50e7",
-   "ts": "2026-10-28T14:05:24Z",
-   "headline": "DMO says its standing repo facility for Treasury bills will start in January",
-   "detail": "The UK Debt Management Office says a standing repo facility covering Treasury bills will begin operating in January.",
-   "category": "supply",
-   "importance": 2,
-   "source_event_ids": [
-    "000519476f2b648c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywwaz3sos2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywwaz3sos2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4b75921428db",
-   "created_at": "2026-10-28T14:05:45Z"
   }
  ]
 }
