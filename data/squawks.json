@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T20:35:44Z",
+ "generated_at": "2026-10-29T20:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "87c27e66d827",
+   "ts": "2026-10-29T20:36:00Z",
+   "headline": "US bonds rally as a tech share selloff drives broad rotation across markets",
+   "detail": "A US market wrap reports that bonds rallied on Thursday as a selloff in technology stocks set off a wider rotation. No yield figures were given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "86c71e3c436f6e0b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz24kf4krh2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz24kf4krh2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bdc88d61507a",
+   "created_at": "2026-10-29T20:40:50Z"
+  },
   {
    "id": "da4e435a716b",
    "ts": "2026-10-29T20:32:50Z",
@@ -6353,27 +6374,6 @@
    "model": "opus",
    "run_id": "94691e2c90f1",
    "created_at": "2026-10-28T14:31:08Z"
-  },
-  {
-   "id": "14b49048d754",
-   "ts": "2026-10-28T14:20:55Z",
-   "headline": "ADNOC tells clients its new pipeline bypassing the Strait of Hormuz will start in early 2027",
-   "detail": "Abu Dhabi's national oil company has told clients that its new pipeline route avoiding the Strait of Hormuz is due to begin operating in early 2027, according to a market commentary account. The post did not report any price reaction.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "86b3f4ee420bd134"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywx4raxpk22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywx4raxpk22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "50e38df0e7dc",
-   "created_at": "2026-10-28T14:25:44Z"
   }
  ]
 }
