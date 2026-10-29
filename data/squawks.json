@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T14:20:53Z",
+ "generated_at": "2026-10-29T14:25:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a152925202d3",
+   "ts": "2026-10-29T14:22:15Z",
+   "headline": "FT reports Hernández de Cos and Knot are frontrunners to succeed Lagarde as ECB President",
+   "detail": "The Financial Times reports that Pablo Hernández de Cos and Klaas Knot lead the race to become the ECB's fifth president, after Lagarde confirmed she will step down on 7 February.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "3f964391f98e2110"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myzho2ll3d22",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myzho2ll3d22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a51129ae707e",
+   "created_at": "2026-10-29T14:25:44Z"
+  },
+  {
+   "id": "adebc0eedb8a",
+   "ts": "2026-10-29T14:20:52Z",
+   "headline": "QatarEnergy aims to lift outside LNG purchases well beyond 7 million tonnes a year by end-2026",
+   "detail": "QatarEnergy is reported to be securing long-term LNG supplies from the US and elsewhere to hedge against future Hormuz disruption, and plans to expand those purchases to well beyond 7 million tonnes a year by the end of 2026.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "1e74383b348c67ee"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzhllfslb22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzhllfslb22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a51129ae707e",
+   "created_at": "2026-10-29T14:25:44Z"
+  },
   {
    "id": "eacd7389cd01",
    "ts": "2026-10-29T14:20:38Z",
@@ -6609,60 +6651,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myws5gbeab24",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myws5gbeab24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9d174e790066",
-   "created_at": "2026-10-28T12:55:47Z"
-  },
-  {
-   "id": "23173a87a2d3",
-   "ts": "2026-10-28T12:54:00Z",
-   "headline": "OBR raises its 2027-28 UK borrowing forecast to 3.4% of GDP from 2.9%",
-   "detail": "The OBR's Budget forecast raises borrowing for 2027-28 to 3.4% of GDP from 2.9%. It also has the deficit falling to 1.8% of GDP by 2031-32.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "554434443828cfd1",
-    "2b227b8febb531e7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsbdge6m2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsbdge6m2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsb7jxwb24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsb7jxwb24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9d174e790066",
-   "created_at": "2026-10-28T12:55:47Z"
-  },
-  {
-   "id": "96c7fc2621b1",
-   "ts": "2026-10-28T12:53:52Z",
-   "headline": "OBR forecasts UK net financial debt at 83.1% of GDP in 2029-30, easing to 82.3% by 2030-31",
-   "detail": "Budget forecasts put UK net financial debt at 83.1% of GDP in 2029-30. The OBR projects the ratio easing to 82.3% by 2030-31.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "ed8b56d723f8b373",
-    "21392a990ee87d9a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsawvxtd2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsawvxtd2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsb3isvz2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsb3isvz2b"
     }
    ],
    "model": "opus",
