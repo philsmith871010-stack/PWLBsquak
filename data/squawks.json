@@ -1,8 +1,167 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T12:31:04Z",
+ "generated_at": "2026-10-29T12:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1c7034eee51c",
+   "ts": "2026-10-29T12:33:01Z",
+   "headline": "US Q3 GDP price index rises 2.3%, below the 3.2% forecast; quarterly core PCE prices up 2.5%",
+   "detail": "The US advance Q3 GDP report puts the GDP price index at 2.3% against a 3.2% forecast and 3.5% previously. Core PCE prices rose 2.5% against a 2.4% forecast and 3.3% previously, and headline PCE prices rose 2.1% after 5.0%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "7fa45b21b8c2ebf2",
+    "6935a7209134d603",
+    "70c86e49ce2c46f1",
+    "c9fe5cd9cabcb61c",
+    "803be4cdce552104",
+    "67f3113bc773eddf",
+    "70225fdb6b868a93"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbkq5ohm24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbkq5ohm24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbj5cqsf25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbj5cqsf25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbkuswov25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbkuswov25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbjlepdv2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbjlepdv2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbmakkrn25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbmakkrn25"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myzbndpumv2i",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myzbndpumv2i"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbo2x3ol2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbo2x3ol2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "295d1c790398",
+   "created_at": "2026-10-29T12:35:41Z"
+  },
+  {
+   "id": "436fbbca54e2",
+   "ts": "2026-10-29T12:32:40Z",
+   "headline": "US September PCE prices rise 0.5% on the month and core 0.3%, both as forecast; core annual rate at 3.1%",
+   "detail": "US data show headline PCE prices up 0.5% on the month (previous 0.3%) and core up 0.3% (previous 0.2%), both matching forecasts. Core PCE is 3.1% year on year against a 3.1% forecast; reports of the headline annual rate differ. Personal income rose 0.2% against a 0.3% forecast, spending rose 0.5% against 0.6%, and real consumption was flat against a 0.1% forecast.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "b02df72ee961f2b1",
+    "47e0862a7a2b2a94",
+    "b998382c9b6e4176",
+    "bed30f14ebafc7c2",
+    "6316a36aa9efac6f",
+    "a7c8ab83e32cc6fd",
+    "22992a8980952b15",
+    "66b79230f5f40d1a",
+    "fae5cd7b283306c7",
+    "1fb6305d9f93ca60"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbk4wzcy22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbk4wzcy22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbke2es62b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbke2es62b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbkslckp2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbkslckp2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbknzp7v2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbknzp7v2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbmfcf6f25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbmfcf6f25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbmi7csn25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbmi7csn25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbhn34hd24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbhn34hd24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbio6hwm2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbio6hwm2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzblvennn25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzblvennn25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbpfxuas2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbpfxuas2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "295d1c790398",
+   "created_at": "2026-10-29T12:35:41Z"
+  },
+  {
+   "id": "000306870bea",
+   "ts": "2026-10-29T12:31:08Z",
+   "headline": "US initial jobless claims hold at 194K, below the 198K forecast",
+   "detail": "US weekly initial jobless claims were 194K, unchanged from the previous week and below the forecast of 198K.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1f729935a794bc8a",
+    "743b015cccce307e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbhex2fj2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbhex2fj2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbm53wi32z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbm53wi32z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "295d1c790398",
+   "created_at": "2026-10-29T12:35:41Z"
+  },
   {
    "id": "273c96c6a946",
    "ts": "2026-10-29T12:31:01Z",
@@ -6299,75 +6458,6 @@
    "model": "opus",
    "run_id": "120980aa6448",
    "created_at": "2026-10-28T10:05:44Z"
-  },
-  {
-   "id": "8ea69a55d2d5",
-   "ts": "2026-10-28T10:01:35Z",
-   "headline": "Italian producer prices rise 3.6% m/m in September",
-   "detail": "Italian producer prices rose 3.6% month on month in September, according to the data release.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7bea505e071c9977"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywin24ufv25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywin24ufv25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "120980aa6448",
-   "created_at": "2026-10-28T10:05:44Z"
-  },
-  {
-   "id": "be258725d7f5",
-   "ts": "2026-10-28T09:37:58Z",
-   "headline": "China's commerce minister notes recent EU trade restrictions on China and calls the EU an important trade partner",
-   "detail": "China's commerce minister said in a statement that China has taken note of recent EU restrictive trade measures against it, and described China and the EU as important economic and trade partners.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "731b936c927d37bb",
-    "f5e5215bf883638f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywhbywp6b2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywhbywp6b2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywhcsbpe425",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywhcsbpe425"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c4ed3b93a1aa",
-   "created_at": "2026-10-28T09:40:53Z"
-  },
-  {
-   "id": "50479ef0e048",
-   "ts": "2026-10-28T08:22:28Z",
-   "headline": "Healey's Budget is set to focus on the cost of living, with modest measures and major decisions put off, Guardian reports",
-   "detail": "The Guardian reports that Chancellor Healey will frame today's Budget around the cost of living crisis at what he calls a difficult moment. It says only modest policies are expected and that important decisions will be deferred.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "b06bf34ef76e8134"
-   ],
-   "sources": [
-    {
-     "author": "rjpartington.bsky.social",
-     "uri": "at://did:plc:7gxgy7wfvg4tdsspy32rcvvw/app.bsky.feed.post/3mywd3secck2t",
-     "url": "https://bsky.app/profile/rjpartington.bsky.social/post/3mywd3secck2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a4da83489e9a",
-   "created_at": "2026-10-28T08:35:48Z"
   }
  ]
 }
