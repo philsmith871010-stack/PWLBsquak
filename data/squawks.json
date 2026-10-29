@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T12:55:46Z",
+ "generated_at": "2026-10-29T13:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9903ea8e027a",
+   "ts": "2026-10-29T13:04:26Z",
+   "headline": "EUR/GBP falls to its lowest level since April 2025 as sterling firms against the euro",
+   "detail": "A market commentary account reported that the euro fell against sterling to its lowest level since April 2025. The post gave no exchange rate.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "60b64dfd5a2d310c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzdcw4bnu2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzdcw4bnu2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "608d16a12bcc",
+   "created_at": "2026-10-29T13:05:41Z"
+  },
   {
    "id": "d29caf70afd3",
    "ts": "2026-10-29T12:52:32Z",
@@ -6396,33 +6417,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mywkj3mfty2i",
      "url": "https://bsky.app/profile/reuters.com/post/3mywkj3mfty2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0640efd08fac",
-   "created_at": "2026-10-28T10:35:47Z"
-  },
-  {
-   "id": "c2a7e1cbd2e3",
-   "ts": "2026-10-28T10:32:43Z",
-   "headline": "Germany's 10-year Bund auction averages 3.37%, down from 3.58% last time; bid-to-cover falls to 1.1",
-   "detail": "The average yield at Germany's 10-year Bund auction was 3.37%, compared with 3.58% at the previous sale. The bid-to-cover ratio was 1.1, down from 1.2.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "fc785eb306bb7c21",
-    "918ae502af375cce"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywkepfpph2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywkepfpph2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywkextvbb25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywkextvbb25"
     }
    ],
    "model": "opus",
