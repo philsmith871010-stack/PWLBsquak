@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T18:35:43Z",
+ "generated_at": "2026-10-29T18:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0d830bd6e5a1",
+   "ts": "2026-10-29T18:40:56Z",
+   "headline": "Reuters says Chancellor Healey's first Budget passes with little market reaction, though some details leaked beforehand",
+   "detail": "Reuters reports that markets barely moved on Chancellor John Healey's first Budget. It contrasts this with the leaks, U-turns and bond market jitters seen around earlier budgets, while noting that this one was not entirely free of leaks.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "c1f3f2fac234367a"
+   ],
+   "sources": [
+    {
+     "author": "bruceandy.bsky.social",
+     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3myzw4n32422u",
+     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3myzw4n32422u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b1a7450f3250",
+   "created_at": "2026-10-29T18:45:50Z"
+  },
   {
    "id": "859011557e05",
    "ts": "2026-10-29T18:31:41Z",
@@ -6474,27 +6495,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywvgtqexl2p",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywvgtqexl2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "77177f39aedd",
-   "created_at": "2026-10-28T13:50:52Z"
-  },
-  {
-   "id": "c2ee77cc0c53",
-   "ts": "2026-10-28T13:47:40Z",
-   "headline": "OBR says the government's council housebuilding ambition could cost an extra £3bn-£4bn a year",
-   "detail": "The Office for Budget Responsibility put this estimate on the council housebuilding plans in its Budget documents.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "07fac06b655658a2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywvbcp3ub2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywvbcp3ub2z"
     }
    ],
    "model": "opus",
