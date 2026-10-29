@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T17:05:42Z",
+ "generated_at": "2026-10-29T17:16:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6e7b97637b8f",
+   "ts": "2026-10-29T17:12:29Z",
+   "headline": "Saudi civil defence lifts danger alerts for Riyadh, Al Kharj and Najran",
+   "detail": "Saudi civil defence said the danger had passed in Riyadh, Al Kharj and Najran. It had issued the alerts earlier, after reports of Houthi missile attacks targeting Saudi Aramco.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7f970603bf9f5ab9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzr6hkltf2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzr6hkltf2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ec6f3f22059c",
+   "created_at": "2026-10-29T17:16:00Z"
+  },
   {
    "id": "bf389721c252",
    "ts": "2026-10-29T17:05:03Z",
@@ -6485,45 +6506,6 @@
    "model": "opus",
    "run_id": "a8233b6a4a34",
    "created_at": "2026-10-28T13:40:55Z"
-  },
-  {
-   "id": "6d97642c5cf7",
-   "ts": "2026-10-28T13:35:27Z",
-   "headline": "OBR cuts headroom against the debt rule to £24bn from £27.1bn",
-   "detail": "The OBR says Budget policies add £3.5bn to borrowing in 2027-28 and cut it by £11.7bn in 2031-32. Reported calculations show £65bn more borrowing over 2026-27 to 2030-31 than in the March forecast.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "1a1b46333786e30d",
-    "b9cdc3f2d977369f",
-    "52ae1ff25b59d01a",
-    "1530375db53d48c0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywulh4jj72f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywulh4jj72f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywulmgecl2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywulmgecl2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywujvbsid2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywujvbsid2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywughlpzu2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywughlpzu2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7d0192c3e576",
-   "created_at": "2026-10-28T13:35:45Z"
   }
  ]
 }
