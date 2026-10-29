@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T09:35:45Z",
+ "generated_at": "2026-10-29T09:55:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b52c8be0b807",
+   "ts": "2026-10-29T09:53:15Z",
+   "headline": "Haskel says ONS productivity revisions came too late for the OBR forecast; OBR raised total factor productivity for AI",
+   "detail": "Speaking at a Resolution Foundation event, former MPC member Jonathan Haskel said recent ONS revisions that lift output per hour arrived too late to go into the OBR forecast and do not change the outlook for productivity growth. He noted that the OBR raised its total factor productivity assumption because of the effect of AI.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "ed4908189b64a9c5"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3myyyn2ky6k2h",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3myyyn2ky6k2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "594273244c49",
+   "created_at": "2026-10-29T09:55:44Z"
+  },
   {
    "id": "23367312a2bf",
    "ts": "2026-10-29T09:31:08Z",
@@ -6600,27 +6621,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvm5afov52y",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvm5afov52y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "68320d8858d8",
-   "created_at": "2026-10-28T06:10:52Z"
-  },
-  {
-   "id": "a18a0fe2a886",
-   "ts": "2026-10-28T02:00:41Z",
-   "headline": "Chancellor Healey is set to present a cautious Budget on Wednesday amid bond market pressure, Reuters reports",
-   "detail": "Reuters reports that Chancellor John Healey will set out a low-key Budget plan on Wednesday, aiming not to add to bond market pressure on Prime Minister Andy Burnham's new government.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "69897961b8fb2d04"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myvnr45fti2x",
-     "url": "https://bsky.app/profile/reuters.com/post/3myvnr45fti2x"
     }
    ],
    "model": "opus",
