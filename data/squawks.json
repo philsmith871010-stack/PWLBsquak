@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T18:10:50Z",
+ "generated_at": "2026-10-29T18:25:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d897e25a6506",
+   "ts": "2026-10-29T18:23:04Z",
+   "headline": "Trump says the US is working with Venezuela to produce millions of barrels of oil for the US",
+   "detail": "US President Trump said the US is working with Venezuela on oil production for the US, citing millions of barrels. He gave no timetable or further detail.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "0d1be4ab668deecf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzv4oa7eu2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzv4oa7eu2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "56db0f363319",
+   "created_at": "2026-10-29T18:25:45Z"
+  },
   {
    "id": "2fe75c711756",
    "ts": "2026-10-29T17:00:00Z",
@@ -6479,39 +6500,6 @@
    "model": "opus",
    "run_id": "77177f39aedd",
    "created_at": "2026-10-28T13:50:52Z"
-  },
-  {
-   "id": "a4fcd066bb73",
-   "ts": "2026-10-28T13:45:45Z",
-   "headline": "Bank of Canada raises its key rate by 25bp to 2.5%, in line with forecasts",
-   "detail": "The Bank of Canada lifted its key rate to 2.5% from 2.25%, matching the 2.5% forecast. It is the bank's first rate rise in three years.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "3ada4ffe783b1a97",
-    "ac39f3a2391dad7d",
-    "e9454a5475c40a9d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywv5vftmb2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywv5vftmb2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywv5wlkuc2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywv5wlkuc2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywv634m5w2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywv634m5w2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5cd3b944423",
-   "created_at": "2026-10-28T13:46:00Z"
   }
  ]
 }
