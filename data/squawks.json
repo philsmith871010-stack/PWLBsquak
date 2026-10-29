@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T13:20:49Z",
+ "generated_at": "2026-10-29T13:25:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "78ff5368d6e6",
+   "ts": "2026-10-29T13:25:11Z",
+   "headline": "BoE opens consultation on rules for central counterparties accepting tokenised collateral",
+   "detail": "The Bank of England said on Thursday it is consulting on the requirements central counterparties must meet before they can accept tokenised collateral. The Bank said this could make margin calls and wider collateral management easier, Reuters reports.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "29adab90d56f6f08"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myzehz7cot2q",
+     "url": "https://bsky.app/profile/reuters.com/post/3myzehz7cot2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fed91ed189a2",
+   "created_at": "2026-10-29T13:25:43Z"
+  },
   {
    "id": "14548c1670e8",
    "ts": "2026-10-29T13:19:11Z",
@@ -6522,27 +6543,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywpw6wbwr2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywpw6wbwr2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "89c3ce5abf15",
-   "created_at": "2026-10-28T12:15:52Z"
-  },
-  {
-   "id": "01d85c1e8179",
-   "ts": "2026-10-28T12:11:39Z",
-   "headline": "Chancellor Healey begins presenting the UK Budget",
-   "detail": "Reuters is carrying a live broadcast of Chancellor John Healey presenting the Budget on 28 October.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "f23f5a5200989eae"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mywpvmcg3k2y",
-     "url": "https://bsky.app/profile/reuters.com/post/3mywpvmcg3k2y"
     }
    ],
    "model": "opus",
