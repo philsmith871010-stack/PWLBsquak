@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T16:20:53Z",
+ "generated_at": "2026-10-29T16:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0aec792757ad",
+   "ts": "2026-10-29T16:21:06Z",
+   "headline": "UK public's year-ahead inflation expectations fall to 4.2% in October from 4.5%, Citi/YouGov survey shows",
+   "detail": "The Citi/YouGov survey shows the public's year-ahead inflation expectations at 4.2% in October, down from 4.5% in September. Citi economists said there was no obvious explanation for the fall and that they were wary of reading it as more than normal volatility.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "ee85481f8aee418e",
+    "f554f4472faa1ab1",
+    "a3d028d491339f0f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzoclhipx25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzoclhipx25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzogsq5an2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzogsq5an2p"
+    },
+    {
+     "author": "bruceandy.bsky.social",
+     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3myzok7grp22d",
+     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3myzok7grp22d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "292c078545f1",
+   "created_at": "2026-10-29T16:25:41Z"
+  },
   {
    "id": "752a5b55e727",
    "ts": "2026-10-29T16:20:38Z",
@@ -6546,27 +6579,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywu3ydqvs25",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywu3ydqvs25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b046ab9c1baf",
-   "created_at": "2026-10-28T13:31:08Z"
-  },
-  {
-   "id": "40d9bf2f813e",
-   "ts": "2026-10-28T13:29:01Z",
-   "headline": "Healey sets a target of 3% of GDP for UK defence spending in 2030",
-   "detail": "Chancellor Healey gave the target for UK defence spending during his Budget speech.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "c5ed6259426859a8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywu7xhaeg2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywu7xhaeg2b"
     }
    ],
    "model": "opus",
