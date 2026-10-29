@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T13:25:43Z",
+ "generated_at": "2026-10-29T13:31:10Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "db5233b1a568",
+   "ts": "2026-10-29T13:28:03Z",
+   "headline": "French-German 10-year yield spread narrows 4bp to 150bp after ECB decision",
+   "detail": "A market newswire reports that the gap between French and German 10-year government bond yields tightened by 4bp to 150bp after the ECB's rate decision.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "098f42e306abd2bb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzen625462d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzen625462d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4aa9b085781c",
+   "created_at": "2026-10-29T13:31:10Z"
+  },
   {
    "id": "78ff5368d6e6",
    "ts": "2026-10-29T13:25:11Z",
@@ -6527,27 +6548,6 @@
    "model": "opus",
    "run_id": "68ade0eb69a9",
    "created_at": "2026-10-28T12:31:10Z"
-  },
-  {
-   "id": "b39874ace000",
-   "ts": "2026-10-28T12:11:58Z",
-   "headline": "PM Burnham pledges to do all he can to secure a better EU deal for the UK",
-   "detail": "Prime Minister Burnham said he would do everything he could to obtain an improved deal with the EU for the UK.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4eb244c3195cfbe1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywpw6wbwr2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywpw6wbwr2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "89c3ce5abf15",
-   "created_at": "2026-10-28T12:15:52Z"
   }
  ]
 }
