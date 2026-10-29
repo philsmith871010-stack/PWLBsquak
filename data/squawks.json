@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T16:10:51Z",
+ "generated_at": "2026-10-29T16:20:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "752a5b55e727",
+   "ts": "2026-10-29T16:20:38Z",
+   "headline": "UK public's long-term inflation expectations ease to 4.0% in October from 4.3%, Citi/YouGov survey shows",
+   "detail": "The Citi/YouGov survey puts the UK public's long-term inflation expectations at 4.0% in October, down from 4.3% in September.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "d7c60ad90d10c4c4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzobrb4g32f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzobrb4g32f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8552324dcf99",
+   "created_at": "2026-10-29T16:20:53Z"
+  },
   {
    "id": "8b524609a083",
    "ts": "2026-10-29T16:10:17Z",
@@ -6546,33 +6567,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywu7xhaeg2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywu7xhaeg2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b046ab9c1baf",
-   "created_at": "2026-10-28T13:31:08Z"
-  },
-  {
-   "id": "5d5f1fd62981",
-   "ts": "2026-10-28T13:27:48Z",
-   "headline": "Healey replaces the lifetime ISA with a first-time buyer ISA and gives £4.7bn to a 'Your first home' scheme",
-   "detail": "Chancellor Healey announced both measures in his Budget speech.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "b23932fe7676a8b4",
-    "a0d918cc801f6a8d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywu5msjsu2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywu5msjsu2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywu5s6slt2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywu5s6slt2k"
     }
    ],
    "model": "opus",
