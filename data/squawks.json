@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T17:35:44Z",
+ "generated_at": "2026-10-29T17:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2deec0671bda",
+   "ts": "2026-10-29T17:41:10Z",
+   "headline": "Dallas Fed trimmed mean PCE inflation rises to 2.8% annualised in September from 2.0% in August",
+   "detail": "The Dallas Fed's trimmed mean PCE price index rose at a 2.8% annualised rate in September, compared with 2.0% in August.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "205d5a17441755d1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzsrrd2kp2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzsrrd2kp2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e1fbab94ff60",
+   "created_at": "2026-10-29T17:45:51Z"
+  },
   {
    "id": "5fd63fed5a20",
    "ts": "2026-10-29T17:33:40Z",
@@ -6468,45 +6489,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywup2nyq725",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywup2nyq725"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a8233b6a4a34",
-   "created_at": "2026-10-28T13:40:55Z"
-  },
-  {
-   "id": "8c1c2b33eaa7",
-   "ts": "2026-10-28T13:37:05Z",
-   "headline": "OBR raises 2026-27 UK borrowing forecast to £133.2bn from £115.5bn, and 2027-28 to £112bn from £96.5bn",
-   "detail": "The OBR's Budget forecast puts government borrowing at £68.3bn in 2031-32. Net borrowing over 2026-31 is reported as £65bn higher than in the previous forecast.",
-   "category": "fiscal",
-   "importance": 3,
-   "source_event_ids": [
-    "99ff8b05e2feb2ce",
-    "c39d23aa2e7d5924",
-    "e34fcff91f37011e",
-    "dcff868ac60e03d4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuoen6ho2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuoen6ho2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuowlxtn2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuowlxtn2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuob26qf2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuob26qf2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywussfar62y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywussfar62y"
     }
    ],
    "model": "opus",
