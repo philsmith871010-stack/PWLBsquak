@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T10:45:58Z",
+ "generated_at": "2026-10-29T10:55:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6aefd80b22a9",
+   "ts": "2026-10-29T10:51:59Z",
+   "headline": "Lagarde resigned from the ECB because she could no longer stay neutral on French politics, a source says",
+   "detail": "An unnamed source gave this as the reason for ECB President Lagarde's resignation, which takes effect on 7 February. The ECB had already formally confirmed that she is leaving.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ebc60338d96973da"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myz3w3jpnr2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myz3w3jpnr2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3cfba25784cc",
+   "created_at": "2026-10-29T10:55:43Z"
+  },
   {
    "id": "d577772c8e9e",
    "ts": "2026-10-29T10:45:04Z",
@@ -6359,27 +6380,6 @@
    "model": "opus",
    "run_id": "5a06243c8142",
    "created_at": "2026-10-28T06:50:49Z"
-  },
-  {
-   "id": "8626a615128a",
-   "ts": "2026-10-28T05:40:37Z",
-   "headline": "Bank of England is set to begin short-term precautionary monetary tightening in November, FT reports",
-   "detail": "The Financial Times reports that the Bank of England plans to start short-term precautionary tightening at its November meeting. The report came out before the UK Budget.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "b517f8047ba21217"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myw22f6vdo2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myw22f6vdo2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "16c13ee245f1",
-   "created_at": "2026-10-28T06:20:54Z"
   }
  ]
 }
