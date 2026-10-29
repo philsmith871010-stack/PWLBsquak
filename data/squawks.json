@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T15:10:52Z",
+ "generated_at": "2026-10-29T15:20:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3c355705a5b2",
+   "ts": "2026-10-29T15:19:30Z",
+   "headline": "Chancellor Healey pledges to set out benefit cuts before the end of this year",
+   "detail": "The FT reports that the Chancellor made the commitment while answering criticism that Wednesday's Budget relies on unrealistic spending assumptions.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "0d183a005f50426a"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myzkugjo2z2k",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3myzkugjo2z2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "df71be88cbed",
+   "created_at": "2026-10-29T15:20:52Z"
+  },
+  {
+   "id": "d969104ad25b",
+   "ts": "2026-10-29T15:18:33Z",
+   "headline": "IMF backs Fed Chair Warsh's focus on price stability",
+   "detail": "The IMF said it fully supports Fed Chair Warsh's comments on focusing on price stability and that the Fed is right to watch the data closely.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "37d6e854528b715e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzksqw5mh2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzksqw5mh2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "df71be88cbed",
+   "created_at": "2026-10-29T15:20:52Z"
+  },
   {
    "id": "362ddc74e253",
    "ts": "2026-10-29T15:05:52Z",
@@ -6584,48 +6626,6 @@
    "model": "opus",
    "run_id": "29497e49e9f7",
    "created_at": "2026-10-28T13:15:52Z"
-  },
-  {
-   "id": "36d42dff14ed",
-   "ts": "2026-10-28T13:08:10Z",
-   "headline": "Healey announces a founders relief within capital gains tax in the Budget",
-   "detail": "Chancellor Healey announced a new founders relief in capital gains tax during the Budget speech. No further details were given in the reports.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "b921405b38f34374"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywt2oewns2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywt2oewns2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "de139f47a224",
-   "created_at": "2026-10-28T13:10:54Z"
-  },
-  {
-   "id": "74717ca0b646",
-   "ts": "2026-10-28T13:07:19Z",
-   "headline": "Budget sets out £140mn investment in strategic British AI companies",
-   "detail": "The UK Budget includes £140mn of investment for strategic British AI firms, as announced during Chancellor Healey's speech.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "371ce5febaff97df"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsz625dd24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsz625dd24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "de139f47a224",
-   "created_at": "2026-10-28T13:10:54Z"
   }
  ]
 }
