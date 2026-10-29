@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T14:50:57Z",
+ "generated_at": "2026-10-29T15:05:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "aa87a5876bce",
+   "ts": "2026-10-29T15:02:45Z",
+   "headline": "Netherlands releases its final 700K barrels of oil products to the market",
+   "detail": "The Netherlands is releasing a last tranche of 700K barrels of oil products from its stocks to the market, according to a market newswire report.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "56be02b19bbb8129"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzjwiessk2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzjwiessk2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cde5258f274e",
+   "created_at": "2026-10-29T15:05:46Z"
+  },
   {
    "id": "95295cc0d73a",
    "ts": "2026-10-29T14:46:54Z",
@@ -6618,33 +6639,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsvz7k7d22",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsvz7k7d22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4504214b5672",
-   "created_at": "2026-10-28T13:05:44Z"
-  },
-  {
-   "id": "72ad6233f990",
-   "ts": "2026-10-28T13:02:14Z",
-   "headline": "Budget lifts the bank surcharge to 6% from 3% for 15 months starting in January",
-   "detail": "In the Budget, Chancellor Healey's 3 percentage point increase takes the bank surcharge to 6% from 3%. The extra charge applies for 15 months from January.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "04b8b9511b721116",
-    "5ea3450fa8c8c52f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsq2ubin2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsq2ubin2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywsqpxgrk22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywsqpxgrk22"
     }
    ],
    "model": "opus",
