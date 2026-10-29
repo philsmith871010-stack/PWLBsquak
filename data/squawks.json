@@ -1,8 +1,110 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T06:05:42Z",
+ "generated_at": "2026-10-29T06:10:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a56773374d60",
+   "ts": "2026-10-29T04:30:52Z",
+   "headline": "Bank of Korea board member Hwang says it is time to focus on inflation and the won is moving faster than expected",
+   "detail": "Hwang said the Bank of Korea is watching the FX market closely and that high borrowing costs are limiting gains for small and medium firms. He cited an upward revision to the 2026 current account surplus to $500bn from $450bn.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "67de96398e60e861",
+    "e5b7c261f8523f2f",
+    "c5ac0c18eb4ed0ce",
+    "5ea71fd0672367cb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myygmlvumn2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myygmlvumn2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myygnmg3ba2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myygnmg3ba2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myygnwpxff2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myygnwpxff2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myygo2pzjx25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myygo2pzjx25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c6ee3703df7b",
+   "created_at": "2026-10-29T06:10:57Z"
+  },
+  {
+   "id": "256cf44b9804",
+   "ts": "2026-10-29T04:00:00Z",
+   "headline": "Budget scorecard assumes approval of North Sea discovery drilling producing more than a billion barrels",
+   "detail": "City AM reports that the Budget scorecard assumes the government will approve North Sea discovery drilling projects producing over a billion barrels of oil and gas, following Jackdaw and Rosebank.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "ee3e80b798a0b783"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3myyfcef5w5x2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3myyfcef5w5x2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c6ee3703df7b",
+   "created_at": "2026-10-29T06:10:57Z"
+  },
+  {
+   "id": "d204100867f6",
+   "ts": "2026-10-29T02:44:55Z",
+   "headline": "US 30-year Treasury yield falls 5bp to 5.311% in Asian trading",
+   "detail": "The long bond yield fell 5 basis points to 5.311% during Asian hours on Thursday, while US equity futures sold off.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e99cd26b49804066"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyap4ku5e24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyap4ku5e24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c6ee3703df7b",
+   "created_at": "2026-10-29T06:10:57Z"
+  },
+  {
+   "id": "353e3192da70",
+   "ts": "2026-10-29T02:30:57Z",
+   "headline": "China's onshore yuan strengthens to 6.6621 per dollar, its strongest since 7 June 2022",
+   "detail": "The onshore yuan rose to 6.6621 per US dollar in Asian trading on Thursday, its strongest level since 7 June 2022.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "93e2b7819eaf71fb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myy7w5rc6j2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myy7w5rc6j2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c6ee3703df7b",
+   "created_at": "2026-10-29T06:10:57Z"
+  },
   {
    "id": "8521dd59961e",
    "ts": "2026-10-29T01:00:49Z",
@@ -6776,114 +6878,6 @@
    "model": "opus",
    "run_id": "0ad8386d5b8b",
    "created_at": "2026-10-27T19:15:54Z"
-  },
-  {
-   "id": "5940a773f852",
-   "ts": "2026-10-27T19:07:08Z",
-   "headline": "US is discussing Russian deals for American oil majors as part of Ukraine peace talks, FT reports",
-   "detail": "The Financial Times reports that Washington is discussing deals in Russia for US oil majors within the Ukraine peace negotiations. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d92d070d9542503a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuwnnlhba2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuwnnlhba2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "513a01f46684",
-   "created_at": "2026-10-27T19:10:49Z"
-  },
-  {
-   "id": "bf328250e653",
-   "ts": "2026-10-27T18:21:19Z",
-   "headline": "US Energy Secretary Wright says the suspension of sanctions on Russia is temporary and the US is ramping up LNG exports",
-   "detail": "In remarks on CNBC, which have now ended, US Energy Secretary Wright also said Russia cannot currently export diesel.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "1f9ab1e176dad84e",
-    "01fc7d651bbef160",
-    "37fb0d21708756a4",
-    "cd10fd0a2295c07e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuu3pi6bg2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuu3pi6bg2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuu6jgnhq2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuu6jgnhq2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuua7eijr25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuua7eijr25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myuub2mki72p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myuub2mki72p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "681899acc4cd",
-   "created_at": "2026-10-27T18:25:46Z"
-  },
-  {
-   "id": "642549b40fb9",
-   "ts": "2026-10-27T18:20:20Z",
-   "headline": "US Energy Secretary Wright says more refined products are moving out through the Strait of Hormuz",
-   "detail": "US Energy Secretary Chris Wright said refined product flows from the Strait of Hormuz have risen. He did not give any figures, and no market reaction was reported.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "ce4b18af07957f08"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myutzx5wad2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myutzx5wad2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "be29049a006b",
-   "created_at": "2026-10-27T18:20:49Z"
-  },
-  {
-   "id": "d6cd88c1b003",
-   "ts": "2026-10-27T18:03:34Z",
-   "headline": "US Treasury accepts $6bn of offers in a buyback of 2046-2056 coupons, taking the maximum from $10.746bn offered",
-   "detail": "The US Treasury received $10.746bn of offers in a buyback aimed at coupon securities maturing between 2046 and 2056. It accepted $6bn, the maximum, across 6 of the 35 eligible issues.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ec53786709cf04ed",
-    "c5c3958b3b0f70a7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myut3xuilt2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myut3xuilt2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myut45ahcn2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myut45ahcn2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bf0d696d563d",
-   "created_at": "2026-10-27T18:05:46Z"
   }
  ]
 }
