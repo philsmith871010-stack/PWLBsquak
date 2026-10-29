@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T17:50:51Z",
+ "generated_at": "2026-10-29T17:55:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "12bae51e1a0b",
+   "ts": "2026-10-29T17:50:58Z",
+   "headline": "Trump says the US had to strike Iran to stop it obtaining a nuclear weapon",
+   "detail": "US President Trump said military action against Iran was needed to prevent it from acquiring a nuclear weapon. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "042d809c9c6d6280"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myztdbrfbx2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myztdbrfbx2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a82a6620ce9f",
+   "created_at": "2026-10-29T17:55:43Z"
+  },
   {
    "id": "49b72259f09b",
    "ts": "2026-10-29T17:48:27Z",
@@ -6486,33 +6507,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywv526rap2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywv526rap2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a5cd3b944423",
-   "created_at": "2026-10-28T13:46:00Z"
-  },
-  {
-   "id": "829dcfebbf54",
-   "ts": "2026-10-28T13:43:38Z",
-   "headline": "OBR says headroom would be £10.2bn if fuel duty stayed frozen; cumulative cost of freezes and 5p cut reaches £139bn",
-   "detail": "The OBR's Budget documents put headroom at £10.2bn if fuel duty had stayed frozen. It also says the cumulative cost of fuel duty freezes and the 5p cut has risen to £139bn.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "a49280dd0d704245",
-    "a103d629db585ea2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywv23h4zy2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywv23h4zy2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywuz4r3uy25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywuz4r3uy25"
     }
    ],
    "model": "opus",
