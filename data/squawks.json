@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T16:40:56Z",
+ "generated_at": "2026-10-29T16:50:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "449ea5cfa37e",
+   "ts": "2026-10-29T16:46:05Z",
+   "headline": "Federal Reserve bids for US 7-year notes come to $4.9bn",
+   "detail": "A market news account reported that the Federal Reserve's bids for US 7-year notes came to $4.9bn.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "542fd4ed33a133b2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzppbmjyh2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzppbmjyh2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "50f85b2f2ab1",
+   "created_at": "2026-10-29T16:50:52Z"
+  },
   {
    "id": "2b0d2e87bfcd",
    "ts": "2026-10-29T16:38:57Z",
@@ -6563,27 +6584,6 @@
    "model": "opus",
    "run_id": "7d0192c3e576",
    "created_at": "2026-10-28T13:35:45Z"
-  },
-  {
-   "id": "27c690d55713",
-   "ts": "2026-10-28T13:30:59Z",
-   "headline": "DMO sets 2026-27 gross gilt issuance at £250.6bn, above the £249.6bn poll and the April remit of £246.2bn",
-   "detail": "The UK Debt Management Office published its revised 2026-27 financing remit alongside the Budget. Planned gross gilt issuance is £250.6bn, compared with £249.6bn expected in a poll and £246.2bn in the April remit.",
-   "category": "supply",
-   "importance": 3,
-   "source_event_ids": [
-    "9300b5642129a765"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywudi73b225",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywudi73b225"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b046ab9c1baf",
-   "created_at": "2026-10-28T13:31:08Z"
   }
  ]
 }
