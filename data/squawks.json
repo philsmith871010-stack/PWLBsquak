@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T10:35:43Z",
+ "generated_at": "2026-10-29T10:40:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c55e00addbc3",
+   "ts": "2026-10-29T10:36:28Z",
+   "headline": "IFS says Budget plans for public service spending are very tight and doubts the government will deliver them",
+   "detail": "At its post-Budget briefing, the Institute for Fiscal Studies questioned whether defence spending can reach 3% of GDP entirely within existing spending envelopes. It also said repeated small changes from Budget to Budget have left the tax system overly complex.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "fa9a29b8e969ae41",
+    "74565dcc94358876",
+    "a3b3d37a267c434c"
+   ],
+   "sources": [
+    {
+     "author": "theifs.bsky.social",
+     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3myz32dfuns2m",
+     "url": "https://bsky.app/profile/theifs.bsky.social/post/3myz32dfuns2m"
+    },
+    {
+     "author": "theifs.bsky.social",
+     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3myz33y5hlk27",
+     "url": "https://bsky.app/profile/theifs.bsky.social/post/3myz33y5hlk27"
+    },
+    {
+     "author": "theifs.bsky.social",
+     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3myz3av2occ2l",
+     "url": "https://bsky.app/profile/theifs.bsky.social/post/3myz3av2occ2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ed6910db69a8",
+   "created_at": "2026-10-29T10:40:53Z"
+  },
   {
    "id": "e78e720c463d",
    "ts": "2026-10-29T10:31:59Z",
@@ -6342,27 +6375,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvwixump52p",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvwixump52p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "16c13ee245f1",
-   "created_at": "2026-10-28T06:20:54Z"
-  },
-  {
-   "id": "76bea625d26c",
-   "ts": "2026-10-28T04:31:48Z",
-   "headline": "Trump says Ukraine peace efforts are progressing and he hopes to hold talks with Putin and Zelenskiy soon",
-   "detail": "President Trump said efforts on Ukraine are moving forward and that he hopes to meet both Putin and Zelenskiy in the near future.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "8d029652c0b30006"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myvw7dmdhb2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myvw7dmdhb2d"
     }
    ],
    "model": "opus",
