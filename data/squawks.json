@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T13:31:10Z",
+ "generated_at": "2026-10-29T13:40:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "977acdfbf1fa",
+   "ts": "2026-10-29T13:40:16Z",
+   "headline": "UK September mortgage approvals are the lowest since December 2023; unsecured lending growth is the fastest since 2018",
+   "detail": "Reuters reports that lenders approved the fewest mortgages since December 2023 last month as borrowing costs rose. Unsecured lending to households grew at its fastest annual pace since 2018.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "28201e6be3d35467"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myzfcyl6hc2i",
+     "url": "https://bsky.app/profile/reuters.com/post/3myzfcyl6hc2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ec11ba3fd9ce",
+   "created_at": "2026-10-29T13:40:55Z"
+  },
+  {
+   "id": "19964ab47071",
+   "ts": "2026-10-29T13:37:35Z",
+   "headline": "Treasury lowers its 2031-32 day-to-day spending assumption by £5.5bn in Budget plans",
+   "detail": "An economics journalist reports that the Treasury trimmed its assumption for day-to-day departmental spending in 2031-32 by £5.5bn. No department yet has a budget set for that year.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "80ee795f8c140387"
+   ],
+   "sources": [
+    {
+     "author": "bruceandy.bsky.social",
+     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3myzf66yp4c27",
+     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3myzf66yp4c27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ec11ba3fd9ce",
+   "created_at": "2026-10-29T13:40:55Z"
+  },
   {
    "id": "db5233b1a568",
    "ts": "2026-10-29T13:28:03Z",
@@ -6482,72 +6524,6 @@
    "model": "opus",
    "run_id": "adf6eb23d295",
    "created_at": "2026-10-28T12:35:41Z"
-  },
-  {
-   "id": "e4e3cc014e9d",
-   "ts": "2026-10-28T12:34:09Z",
-   "headline": "Healey opens Budget speech saying it rests on fiscal discipline and backs British business for growth",
-   "detail": "As he opened the Budget statement, Chancellor Healey said the Budget was for working people, would be built on fiscal discipline and would back British enterprise to drive growth. These were his opening remarks to the Commons.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "6e6c8b52f1dabc01",
-    "b34338a2a7f00089",
-    "3b6a577c373c2100",
-    "e2ea42a31fbfd4fc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywr34xmn52z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywr34xmn52z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywr4u6aug2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywr4u6aug2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywr5trpc62d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywr5trpc62d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywr5wykpx25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywr5wykpx25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "adf6eb23d295",
-   "created_at": "2026-10-28T12:35:41Z"
-  },
-  {
-   "id": "c7a134f52e08",
-   "ts": "2026-10-28T12:30:49Z",
-   "headline": "US advance goods trade deficit widens to $134.9bn, more than the $130.2bn forecast",
-   "detail": "The advance US goods trade balance came in at -$134.9bn, against a forecast of -$130.2bn and -$132.07bn previously. In the same release, advance wholesale inventories rose 0.6% m/m, against a forecast of 0.5% and 0.5% previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ea8486fe59f39528",
-    "f781e78760ae3f14"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywqxun5mr2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywqxun5mr2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywqxx2tux2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywqxx2tux2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "68ade0eb69a9",
-   "created_at": "2026-10-28T12:31:10Z"
   }
  ]
 }
