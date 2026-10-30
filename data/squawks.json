@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T16:35:41Z",
+ "generated_at": "2026-10-30T16:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9a151b7fd07e",
+   "ts": "2026-10-30T16:40:58Z",
+   "headline": "Canada and EU sign political agreement on digital trade deal as Carney launches strategic alliance",
+   "detail": "Canada and the European Union signed a political agreement on an EU-Canada digital trade agreement and agreed a strategic alliance, leaving the definition of their new relationship until 2027. Canadian Prime Minister Carney called it a historic day and said the world is becoming more dangerous and divided.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fb4b88ed1cfce872",
+    "fd0c8d210a367148",
+    "e6c9cf7714cdf748",
+    "54c848c1cf42f859",
+    "d9f12155cface164",
+    "00aa469806815e9d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz47uzyoup25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz47uzyoup25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz47xqtpe32k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz47xqtpe32k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz47zhrzfx2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz47zhrzfx2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4a2gnoyr2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4a2gnoyr2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4a3gwujz22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4a3gwujz22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4a5lp6wz2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4a5lp6wz2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1955817c15bf",
+   "created_at": "2026-10-30T16:45:50Z"
+  },
   {
    "id": "44359d016ac7",
    "ts": "2026-10-30T16:35:33Z",
@@ -6341,33 +6392,6 @@
    "model": "opus",
    "run_id": "af97c41c0f02",
    "created_at": "2026-10-29T11:45:54Z"
-  },
-  {
-   "id": "450504652a7a",
-   "ts": "2026-10-29T11:01:49Z",
-   "headline": "Italian consumer confidence falls to 90.3, below the 91 forecast; manufacturing confidence holds at 91.9",
-   "detail": "Italy's October consumer confidence came in at 90.3, against a forecast of 91 and down from 91.2 previously. Manufacturing business confidence was 91.9, the same as the previous reading and just below the 92 forecast.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "babda033375b0ddd",
-    "e520f5e1c16805b2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myz4hnu4x22y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myz4hnu4x22y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myz4hlbjpt2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myz4hlbjpt2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8b7287d41ccd",
-   "created_at": "2026-10-29T11:05:45Z"
   }
  ]
 }
