@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T15:05:54Z",
+ "generated_at": "2026-10-30T15:31:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "70d1ad9a379c",
+   "ts": "2026-10-30T15:30:50Z",
+   "headline": "Resolution Foundation puts real per-person public services spending growth at 1.7% a year from 2023-24 to 2028-29",
+   "detail": "In its Budget analysis, the Resolution Foundation says day-to-day spending is rising moderately in this Parliament. It puts real per-person growth in public services spending at 1.7% a year between 2023-24 and 2028-29, close to the two latest periods under Conservative governments.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "24d8628a27f1192c"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mz43xmtumw2j",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mz43xmtumw2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b1bacc70e849",
+   "created_at": "2026-10-30T15:31:08Z"
+  },
   {
    "id": "b0a84fb2c857",
    "ts": "2026-10-30T15:04:33Z",
@@ -6251,39 +6272,6 @@
    "model": "opus",
    "run_id": "543633f2e780",
    "created_at": "2026-10-29T10:15:51Z"
-  },
-  {
-   "id": "66c59b1f74da",
-   "ts": "2026-10-29T10:08:11Z",
-   "headline": "EU's Costa says the search for Lagarde's successor as ECB President begins today and will go ahead without delay",
-   "detail": "European Council President Costa said Lagarde had told him she intends to leave the ECB presidency on 7 February 2027. He said the appointment process for her successor starts today.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "bba5178c075939ff",
-    "f59176e6366bec50",
-    "8336a029b5ee36b5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyzffhczj2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyzffhczj2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyzhre5ip2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyzhre5ip2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyzimhggh2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyzimhggh2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6381f7ec2877",
-   "created_at": "2026-10-29T10:10:54Z"
   }
  ]
 }
