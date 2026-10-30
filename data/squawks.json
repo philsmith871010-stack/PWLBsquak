@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T09:10:54Z",
+ "generated_at": "2026-10-30T09:15:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3dc6b2540c05",
+   "ts": "2026-10-30T09:15:13Z",
+   "headline": "Merz to pass Asian partners' concerns over EU 'Made in Europe' protectionism risk on to Brussels",
+   "detail": "Reuters reported that German Chancellor Friedrich Merz said on Friday he would take to Brussels concerns from key Asian trading partners that the EU's Made in Europe initiatives could become a new form of protectionism.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "43638062e8e7d0b1"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mz3gxy6vg42o",
+     "url": "https://bsky.app/profile/reuters.com/post/3mz3gxy6vg42o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d9b0cc91eb88",
+   "created_at": "2026-10-30T09:15:54Z"
+  },
+  {
+   "id": "d5b6e09bea47",
+   "ts": "2026-10-30T09:11:39Z",
+   "headline": "EU carbon price climbs to €90 a tonne, its highest level since January",
+   "detail": "A market commentator reported that EU carbon allowances reached €90 per tonne on Friday morning, the first time at that level since January.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "4174b9588f35584d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3grlk3mw25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3grlk3mw25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d9b0cc91eb88",
+   "created_at": "2026-10-30T09:15:54Z"
+  },
   {
    "id": "5fda97dbca67",
    "ts": "2026-10-30T09:06:47Z",
@@ -6212,48 +6254,6 @@
    "model": "opus",
    "run_id": "8b1107d012cd",
    "created_at": "2026-10-28T19:31:05Z"
-  },
-  {
-   "id": "f8388285345d",
-   "ts": "2026-10-28T19:21:21Z",
-   "headline": "US CENTCOM says US forces have cleared sea mines from the main transit routes through the Strait of Hormuz",
-   "detail": "US Central Command says all internationally recognised primary transit routes through the Strait of Hormuz have been cleared of sea mines by US forces and remain clear. It says thousands of commercial vessels have used the lanes safely and are still using them today.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "603728ba5c245541"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxhvylf5r2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxhvylf5r2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "54431022b756",
-   "created_at": "2026-10-28T19:25:42Z"
-  },
-  {
-   "id": "7a0f7ff8074d",
-   "ts": "2026-10-28T19:20:07Z",
-   "headline": "Resolution Foundation says OBR sees UK welfare bill rising by £38bn by 2031-32 while reform waits on reviews",
-   "detail": "The Resolution Foundation says the OBR expects welfare spending to increase by £38bn by 2031-32, led by the State Pension and by health and disability benefits for people of working age. It says welfare reform is paused until the Milburn and Timms reviews report.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "722c56f9ca60c29d"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3myxhtram6x2j",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3myxhtram6x2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3a03d1d99d69",
-   "created_at": "2026-10-28T19:21:03Z"
   }
  ]
 }
