@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T18:01:16Z",
+ "generated_at": "2026-10-30T18:31:13Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c7a0baea8960",
+   "ts": "2026-10-30T18:27:23Z",
+   "headline": "Gilts rally with core bonds in a risk-off move as sterling holds steady",
+   "detail": "A UK market commentator reports that gilts are rallying alongside other core government bonds amid risk-off trading on Friday, with sterling steady. No yield levels were given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6d3950b43eba71ba"
+   ],
+   "sources": [
+    {
+     "author": "tobyn.bsky.social",
+     "uri": "at://did:plc:n7qmptitg3fcep3mo7uecwb7/app.bsky.feed.post/3mz4ftczjyc27",
+     "url": "https://bsky.app/profile/tobyn.bsky.social/post/3mz4ftczjyc27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "10a6806b2728",
+   "created_at": "2026-10-30T18:31:13Z"
+  },
   {
    "id": "9104ae5ae19d",
    "ts": "2026-10-30T18:01:00Z",
@@ -6426,27 +6447,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzcbfh5xm25",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzcbfh5xm25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f53896e7fb4a",
-   "created_at": "2026-10-29T12:45:51Z"
-  },
-  {
-   "id": "bdf8ef707b96",
-   "ts": "2026-10-29T12:45:21Z",
-   "headline": "Resolution Foundation says typical household energy bills this year are close to 2022-23 levels",
-   "detail": "The Resolution Foundation said the typical UK household will pay nearly as much for energy this year as it did in 2022-23.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "e07962adc45a26de"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3myzcasgkz42g",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3myzcasgkz42g"
     }
    ],
    "model": "opus",
