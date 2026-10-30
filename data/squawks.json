@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T14:35:47Z",
+ "generated_at": "2026-10-30T14:45:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b0b39d32fffd",
+   "ts": "2026-10-30T14:45:53Z",
+   "headline": "Russia's Novak says attacks on oil refineries will hurt diesel supplies to the global market",
+   "detail": "Russian Deputy Prime Minister Alexander Novak said strikes on Russian oil refineries will have a negative effect on global diesel supply. He had earlier said Ukraine had resumed such strikes.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "7976b6fbc98ca585"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3zha3krm2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3zha3krm2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6ebe2827aef4",
+   "created_at": "2026-10-30T14:45:54Z"
+  },
   {
    "id": "974f9446d12b",
    "ts": "2026-10-30T14:34:39Z",
@@ -6251,27 +6272,6 @@
    "model": "opus",
    "run_id": "d0cf087214b6",
    "created_at": "2026-10-29T10:01:17Z"
-  },
-  {
-   "id": "b52c8be0b807",
-   "ts": "2026-10-29T09:53:15Z",
-   "headline": "Haskel says ONS productivity revisions came too late for the OBR forecast; OBR raised total factor productivity for AI",
-   "detail": "Speaking at a Resolution Foundation event, former MPC member Jonathan Haskel said recent ONS revisions that lift output per hour arrived too late to go into the OBR forecast and do not change the outlook for productivity growth. He noted that the OBR raised its total factor productivity assumption because of the effect of AI.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "ed4908189b64a9c5"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3myyyn2ky6k2h",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3myyyn2ky6k2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "594273244c49",
-   "created_at": "2026-10-29T09:55:44Z"
   }
  ]
 }
