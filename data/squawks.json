@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T11:31:06Z",
+ "generated_at": "2026-10-30T11:40:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5e123c6e0aae",
+   "ts": "2026-10-30T11:40:32Z",
+   "headline": "ECB's Makhlouf says keeping rates on hold does not mean the ECB has finished",
+   "detail": "ECB Governing Council member Makhlouf said the decision to hold rates should not be read as a sign that the ECB is done.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "294d943d372360c7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3p3tdlxm2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3p3tdlxm2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cf12847b429b",
+   "created_at": "2026-10-30T11:40:52Z"
+  },
+  {
+   "id": "1c961f662fac",
+   "ts": "2026-10-30T11:39:03Z",
+   "headline": "Trump says the Iran war will end very soon, one way or another",
+   "detail": "US President Trump said the war with Iran would be over very soon, without giving further detail. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d27b757b06c6f203"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3oz5pdqo2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3oz5pdqo2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cf12847b429b",
+   "created_at": "2026-10-30T11:40:52Z"
+  },
   {
    "id": "0dde2b1315b5",
    "ts": "2026-10-30T11:25:52Z",
@@ -6182,48 +6224,6 @@
    "model": "opus",
    "run_id": "f6f75f4a92f6",
    "created_at": "2026-10-29T06:01:16Z"
-  },
-  {
-   "id": "5fb1e09a3083",
-   "ts": "2026-10-28T21:15:16Z",
-   "headline": "Trump says he did not instruct Vance to write to Iran",
-   "detail": "President Trump said he had not told Vice President Vance to send the letter to Iran. The WSJ had reported that Vance wrote to a senior Iranian hard-liner to try to restart peace talks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e37e4843960e8120"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxobojci42g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxobojci42g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "03662803b500",
-   "created_at": "2026-10-28T21:15:52Z"
-  },
-  {
-   "id": "584497740ad2",
-   "ts": "2026-10-28T20:59:20Z",
-   "headline": "Fitch says US fiscal pressures will persist whatever the midterm election result",
-   "detail": "Fitch Ratings said pressure on US public finances is set to continue regardless of the outcome of the midterm elections. The post reported no rating action.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6fff7d17d5f0f438"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxnf6enrd2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxnf6enrd2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "76fc13b0aab0",
-   "created_at": "2026-10-28T21:01:18Z"
   }
  ]
 }
