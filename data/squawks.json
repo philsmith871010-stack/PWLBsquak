@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T09:35:41Z",
+ "generated_at": "2026-10-30T09:40:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d6bdfc3e2d2d",
+   "ts": "2026-10-30T09:38:27Z",
+   "headline": "ECB's Nagel sees no significant second-round effects yet but says a price rise in the coming weeks cannot be ruled out",
+   "detail": "ECB Governing Council member Nagel said the decision to hold rates had not been easy. He also said medium-term inflation expectations must stay firmly anchored.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1b4fdd5ad5962333",
+    "b5c6ec933f585cbc",
+    "3d4c82ef15b7abc6",
+    "0a8758633728efb0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3ibjckrr24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3ibjckrr24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3ibnwws62d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3ibnwws62d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3ichb5ni25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3ichb5ni25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3ickbug42f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3ickbug42f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "29238e7c8901",
+   "created_at": "2026-10-30T09:40:51Z"
+  },
   {
    "id": "baef10b55996",
    "ts": "2026-10-30T09:31:30Z",
@@ -6233,27 +6272,6 @@
    "model": "opus",
    "run_id": "35df79181c61",
    "created_at": "2026-10-28T19:50:51Z"
-  },
-  {
-   "id": "334a0d6229cf",
-   "ts": "2026-10-28T19:29:27Z",
-   "headline": "US CENTCOM rejects Iranian media claims that commercial ships are hitting sea mines in the Strait of Hormuz",
-   "detail": "US Central Command said claims carried by Iranian-controlled media in recent days and weeks, that commercial vessels transiting the Strait of Hormuz were striking sea mines, are false.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e36b738224be20f2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxiehkc6w22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxiehkc6w22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8b1107d012cd",
-   "created_at": "2026-10-28T19:31:05Z"
   }
  ]
 }
