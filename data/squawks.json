@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T07:01:21Z",
+ "generated_at": "2026-10-30T07:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e51d3b12372a",
+   "ts": "2026-10-30T07:02:25Z",
+   "headline": "Nationwide UK house prices flat m/m in October against -0.2% forecast; annual growth slows to 0.5%",
+   "detail": "Nationwide's October index shows UK house prices unchanged on the month, after -0.2% in September, against a -0.2% forecast. Annual growth (NSA) eases to 0.5% from 0.8%, below the 0.6% forecast.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "e0a024798fee0773",
+    "4b88e679c455f575"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz37kie2nd2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz37kie2nd2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz37lb2hqg2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz37lb2hqg2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4312f24216c6",
+   "created_at": "2026-10-30T07:05:42Z"
+  },
   {
    "id": "8acdcf24a651",
    "ts": "2026-10-30T07:00:56Z",
@@ -6827,27 +6854,6 @@
    "model": "opus",
    "run_id": "ed5e344da5c7",
    "created_at": "2026-10-28T17:15:52Z"
-  },
-  {
-   "id": "0c2576b310aa",
-   "ts": "2026-10-28T17:07:56Z",
-   "headline": "Long-dated gilt yields fall to a one-month low as Budget borrowing figures match gilt dealers' forecasts",
-   "detail": "Reuters reports that the 2026-27 gilt issuance rise of £4.4bn to £250.6bn was close to the £249.6bn Reuters poll. The 2027-28 PSNB forecast of £112bn was in line with the poll.",
-   "category": "supply",
-   "importance": 2,
-   "source_event_ids": [
-    "ea032f57b9827a29"
-   ],
-   "sources": [
-    {
-     "author": "davidmilliken.bsky.social",
-     "uri": "at://did:plc:cnkav2txgxnskbjf2f564bjl/app.bsky.feed.post/3myxahfgzmk2d",
-     "url": "https://bsky.app/profile/davidmilliken.bsky.social/post/3myxahfgzmk2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f9c236897d12",
-   "created_at": "2026-10-28T17:10:56Z"
   }
  ]
 }
