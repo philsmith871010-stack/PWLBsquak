@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T07:40:52Z",
+ "generated_at": "2026-10-30T07:45:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c243e29231d0",
+   "ts": "2026-10-30T07:45:42Z",
+   "headline": "French producer prices rise 1.7% m/m in September, up from 1.0% the previous month",
+   "detail": "French PPI rose 1.7% month on month, compared with 1.0% in the previous reading. No forecast was given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6d4911426fe643cb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3bxv6xwo2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3bxv6xwo2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3e3367e377cf",
+   "created_at": "2026-10-30T07:45:52Z"
+  },
   {
    "id": "bf25208e944d",
    "ts": "2026-10-30T07:36:44Z",
@@ -6732,33 +6753,6 @@
      "author": "financialtimes.com",
      "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myxdxu6lb52w",
      "url": "https://bsky.app/profile/financialtimes.com/post/3myxdxu6lb52w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "92b4ca4e3115",
-   "created_at": "2026-10-28T18:10:51Z"
-  },
-  {
-   "id": "154efeb3948e",
-   "ts": "2026-10-28T18:08:39Z",
-   "headline": "Axios says possible post-midterm strikes on Iran could target its leadership as the US and Israel coordinate",
-   "detail": "Axios cites Israeli and regional sources as saying Iran is under pressure to make nuclear concessions, and that the Israeli military and the US are coordinating ahead of any attacks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "bad9cc90cc0b06d5",
-    "12338512c1bae250"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdpdselb22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdpdselb22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdty5eze2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdty5eze2g"
     }
    ],
    "model": "opus",
