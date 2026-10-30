@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T18:31:13Z",
+ "generated_at": "2026-10-30T18:35:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e2760d4b5c45",
+   "ts": "2026-10-30T18:31:59Z",
+   "headline": "WTI crude futures settle up 2.08% at $104.12 a barrel",
+   "detail": "NYMEX December WTI crude futures settled $2.12 higher at $104.12 a barrel. November diesel futures settled at $4.7905 a gallon and November gasoline at $3.3120 a gallon.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "16376d4c4985734e",
+    "4521eb220fbe9841",
+    "55c2e208e55de3db",
+    "afa7a61d3df0cb0e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4g3k6yi42y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4g3k6yi42y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4g3megk32b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4g3megk32b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4g4j4ene2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4g4j4ene2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4g3po24x2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4g3po24x2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8abde22dd3d3",
+   "created_at": "2026-10-30T18:35:45Z"
+  },
   {
    "id": "c7a0baea8960",
    "ts": "2026-10-30T18:27:23Z",
@@ -6431,27 +6470,6 @@
    "model": "opus",
    "run_id": "ba9380b8443e",
    "created_at": "2026-10-29T12:55:46Z"
-  },
-  {
-   "id": "9f86d1f0aa0d",
-   "ts": "2026-10-29T12:45:41Z",
-   "headline": "Kremlin aide warns large Ukrainian attacks over 4 November celebrations could shift Russia's stance on trilateral talks",
-   "detail": "A Kremlin aide said, according to Interfax, that major Ukrainian attacks during the 4 November celebrations could affect Russia's attitude towards the trilateral negotiations on Ukraine.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3b71299cf7071fc8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzcbfh5xm25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzcbfh5xm25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f53896e7fb4a",
-   "created_at": "2026-10-29T12:45:51Z"
   }
  ]
 }
