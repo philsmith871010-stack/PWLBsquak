@@ -1,8 +1,80 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T06:31:05Z",
+ "generated_at": "2026-10-30T06:35:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "572e1f92064c",
+   "ts": "2026-10-30T06:34:18Z",
+   "headline": "BoJ Governor Ueda expects Japan's economy to keep growing moderately; puts mid- to long-term inflation expectations at around 2%",
+   "detail": "The BoJ Governor made the remarks after the bank kept its short-term rate at 1.25%. He said medium- to long-term inflation expectations are around 2%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "e2a88d8e08c4f58d",
+    "75cd03e878d831c6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz35ya6doq2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz35ya6doq2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz362isqta2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz362isqta2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "29d239a6e2d7",
+   "created_at": "2026-10-30T06:35:47Z"
+  },
+  {
+   "id": "332e843547b2",
+   "ts": "2026-10-30T06:32:17Z",
+   "headline": "French GDP falls 0.1% y/y in preliminary Q3 estimate against 0.3% forecast; September consumer spending down 0.4% y/y",
+   "detail": "The annual GDP figure compares with growth of 0.5% in the previous quarter. Consumer spending fell 0.4% y/y in September, against a forecast rise of 0.4% and a previous reading of 0.8%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "71159918c0643cfe",
+    "2058b90cba18535b",
+    "39a067eebd6d4601",
+    "a9ff54c8cc8b2c7b",
+    "d4982cc6b0380c7c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz35umsetu2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz35umsetu2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz35yyc2ou2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz35yyc2ou2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz35tpsdao2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz35tpsdao2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz35upgc5w2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz35upgc5w2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz35tsq7tt22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz35tsq7tt22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "29d239a6e2d7",
+   "created_at": "2026-10-30T06:35:47Z"
+  },
   {
    "id": "88a1141d50c7",
    "ts": "2026-10-30T06:30:49Z",
@@ -6722,48 +6794,6 @@
    "model": "opus",
    "run_id": "1feec36bf5b7",
    "created_at": "2026-10-28T16:10:56Z"
-  },
-  {
-   "id": "9d91f33d1961",
-   "ts": "2026-10-28T15:45:50Z",
-   "headline": "Budget documents show mayors' share of income tax will cover basic-rate receipts only",
-   "detail": "Government Budget documents show that the devolved income tax share for mayors will be limited to basic-rate revenues, an economist noted. Higher and additional rate receipts are not included.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "2759353d73de2d2a"
-   ],
-   "sources": [
-    {
-     "author": "benzaranko.bsky.social",
-     "uri": "at://did:plc:kehpugaokgf2xoovbavfsnad/app.bsky.feed.post/3myx3um3xlk2h",
-     "url": "https://bsky.app/profile/benzaranko.bsky.social/post/3myx3um3xlk2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "eeac8ccdbbcc",
-   "created_at": "2026-10-28T15:50:51Z"
-  },
-  {
-   "id": "489b3f66ae1e",
-   "ts": "2026-10-28T15:41:48Z",
-   "headline": "US crude futures rise $3 a barrel as fighting in Yemen raises Middle East supply concerns",
-   "detail": "A market newswire reports US crude prices up $3 a barrel. The move is attributed to concerns over Middle East supply after fighting in Yemen.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "7fc97f71f6f72c91"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myx3nfr2o62y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myx3nfr2o62y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "47b793459332",
-   "created_at": "2026-10-28T15:45:52Z"
   }
  ]
 }
