@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T14:50:54Z",
+ "generated_at": "2026-10-30T15:05:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b0a84fb2c857",
+   "ts": "2026-10-30T15:04:33Z",
+   "headline": "European Commission proposes Council approval of the remaining €45bn Ukraine loan tranche for 2027",
+   "detail": "The European Commission has proposed that the EU Council approve the remaining €45bn of the Ukraine loan for 2027.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "cb144d306c68d727"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz42imn3qg2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz42imn3qg2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5928f26419bd",
+   "created_at": "2026-10-30T15:05:54Z"
+  },
   {
    "id": "cd77bdd8bbfc",
    "ts": "2026-10-30T14:48:25Z",
@@ -6258,33 +6279,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyzimhggh2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyzimhggh2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6381f7ec2877",
-   "created_at": "2026-10-29T10:10:54Z"
-  },
-  {
-   "id": "0c80a98304e7",
-   "ts": "2026-10-29T10:06:16Z",
-   "headline": "Japan's PM Takaichi says subsidies to curb electricity and gas bills will run from December to February",
-   "detail": "Japanese Prime Minister Takaichi said the government will introduce support measures for household electricity and gas bills starting in December and running until February.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "1d45f59bed92deee",
-    "435b0dbd9a31f35d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyzedarfr2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyzedarfr2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyzhl3vaa22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyzhl3vaa22"
     }
    ],
    "model": "opus",
