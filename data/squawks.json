@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T08:01:12Z",
+ "generated_at": "2026-10-30T08:05:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "73777b7ac2ac",
+   "ts": "2026-10-30T08:01:28Z",
+   "headline": "Spanish Q3 GDP grows 0.6% q/q in line with forecast, slowing from 0.7%; annual growth picks up to 2.7%",
+   "detail": "Spain's preliminary third-quarter estimate shows 0.6% growth on the quarter, as forecast and down from 0.7% previously. Annual growth is 2.7%, matching the forecast and up from 2.6%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8e8f568d85145a0b",
+    "d10dc2986dbb0ad0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3cu3z23u2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3cu3z23u2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3ctva77e2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3ctva77e2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f48b1f161dff",
+   "created_at": "2026-10-30T08:05:44Z"
+  },
+  {
+   "id": "979f7f43dc66",
+   "ts": "2026-10-30T08:01:18Z",
+   "headline": "Spanish flash October national CPI holds at 4.9% y/y as forecast; monthly rise of 0.6% is below the 0.7% forecast",
+   "detail": "Spain's flash national CPI for October is unchanged at 4.9% y/y, in line with forecast. On the month, prices rise 0.6%, against a 0.7% forecast and 0.3% previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e82937bbe111e5cf",
+    "6c2d3a09e0f44286"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3ctrvfae2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3ctrvfae2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3ctljjse2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3ctljjse2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f48b1f161dff",
+   "created_at": "2026-10-30T08:05:44Z"
+  },
   {
    "id": "cb0467adb06b",
    "ts": "2026-10-30T08:01:09Z",
@@ -6740,48 +6794,6 @@
    "model": "opus",
    "run_id": "aa45bd7273a4",
    "created_at": "2026-10-28T18:25:44Z"
-  },
-  {
-   "id": "f4acc1748cde",
-   "ts": "2026-10-28T18:21:55Z",
-   "headline": "Resolution Foundation says global developments since March add £11bn a year on average to OBR underlying borrowing forecast",
-   "detail": "The Resolution Foundation says global news since March has raised the OBR's underlying borrowing forecast by £11bn on average across the next five years.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "a43e800ca4472857"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3myxelplonh2i",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3myxelplonh2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aa45bd7273a4",
-   "created_at": "2026-10-28T18:25:44Z"
-  },
-  {
-   "id": "48ce4296c0a9",
-   "ts": "2026-10-28T18:12:04Z",
-   "headline": "Arab mediators press Iran for a deal on IAEA inspections and US sanctions relief, Axios says",
-   "detail": "Axios reports that Arab mediators are pushing Tehran towards an agreement covering IAEA inspections and relief from US sanctions.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "dbbd523a8945dd8e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxe23tevf2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxe23tevf2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a6972736dae3",
-   "created_at": "2026-10-28T18:15:54Z"
   }
  ]
 }
