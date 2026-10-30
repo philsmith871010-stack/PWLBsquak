@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T13:01:18Z",
+ "generated_at": "2026-10-30T13:10:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9675ffe09209",
+   "ts": "2026-10-30T13:08:39Z",
+   "headline": "Kremlin says Ukrainian refinery strikes will not derail upcoming Ukraine talks and will not be raised in Abu Dhabi",
+   "detail": "Kremlin spokesman Peskov said Russia will not bring up Kyiv's attacks on Russian oil refineries at the upcoming Abu Dhabi meeting. Interfax reported the Kremlin as saying the strikes do not put the negotiations in doubt.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ef80ff5be26b73be",
+    "f2387039c8704068",
+    "3deb706ca6dfb243"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3tzernvl2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3tzernvl2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3tumbtq22g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3tumbtq22g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3u4eyr6r25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3u4eyr6r25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bbd124d32109",
+   "created_at": "2026-10-30T13:10:58Z"
+  },
   {
    "id": "392b6a7eaf52",
    "ts": "2026-10-30T13:00:59Z",
@@ -6149,39 +6182,6 @@
    "model": "opus",
    "run_id": "bed67c180968",
    "created_at": "2026-10-29T08:05:43Z"
-  },
-  {
-   "id": "9ae3dfae468e",
-   "ts": "2026-10-29T07:48:08Z",
-   "headline": "India's trade minister says the US trade deal will protect farmers and all stakeholders and leave India at a strong comparative advantage",
-   "detail": "India's trade minister said that no sensitive interest of farmers or any other stakeholder would be compromised by the planned trade deal with the US. He added that India would hold a strong comparative advantage once the deal is completed.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "436fd75237447a74",
-    "20e5d39871e0881c",
-    "628dadad1b149b2d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyrnd5hle2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyrnd5hle2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyroseg5d2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyroseg5d2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyrqyres624",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyrqyres624"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5d89d9dbc49a",
-   "created_at": "2026-10-29T07:50:57Z"
   }
  ]
 }
