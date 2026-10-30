@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T14:20:56Z",
+ "generated_at": "2026-10-30T14:35:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "974f9446d12b",
+   "ts": "2026-10-30T14:34:39Z",
+   "headline": "Exxon says UAE oil production is back in line with historical output",
+   "detail": "Exxon said on Friday that output in the UAE has recovered to levels consistent with its historical production.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "01c819ec9dea6456"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3yt6giv222",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3yt6giv222"
+    }
+   ],
+   "model": "opus",
+   "run_id": "891b76b3a8ec",
+   "created_at": "2026-10-30T14:35:47Z"
+  },
   {
    "id": "5ae5d298d1b0",
    "ts": "2026-10-30T14:20:31Z",
@@ -6251,45 +6272,6 @@
    "model": "opus",
    "run_id": "594273244c49",
    "created_at": "2026-10-29T09:55:44Z"
-  },
-  {
-   "id": "23367312a2bf",
-   "ts": "2026-10-29T09:31:08Z",
-   "headline": "UK mortgage approvals fall to 53.4K in September, below the 54K forecast; M4 money supply grows 0.1% on the month",
-   "detail": "Bank of England data put September mortgage approvals at 53.443K against a forecast of 54K, with August revised to 54.814K. M4 money supply rose 0.1% on the month and 3.9% on the year, down from 4.4%, and M4 excluding intermediate OFCs grew at a 1.6% three-month annualised rate, down from 2.8%.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "94acfff2a00763f9",
-    "cfb8cb17082f035a",
-    "557c166a965cc18e",
-    "ba30bd7942f84fd8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyxfioejb2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyxfioejb2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyxgs5o2w2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyxgs5o2w2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyxfmuuy52p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyxfmuuy52p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyxhmwmw62k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyxhmwmw62k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2f1ad2de8326",
-   "created_at": "2026-10-29T09:35:45Z"
   }
  ]
 }
