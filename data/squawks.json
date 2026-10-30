@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T07:31:11Z",
+ "generated_at": "2026-10-30T07:35:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e71ae7a2c189",
+   "ts": "2026-10-30T07:35:27Z",
+   "headline": "BoJ's Ueda says the policy rate is still below neutral and will be adjusted at the right time to stop risks materialising",
+   "detail": "Bank of Japan Governor Ueda said at his post-decision press conference that work remains because the policy rate is below the neutral level. He also said rate adjustments would be timed to prevent risks from materialising.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ac63d4efc77314da",
+    "610085b786744c5d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3bakhkak2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3bakhkak2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3bfl4n6e2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3bfl4n6e2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "117bc7329f84",
+   "created_at": "2026-10-30T07:35:46Z"
+  },
   {
    "id": "3a556e58d14a",
    "ts": "2026-10-30T07:28:58Z",
@@ -6792,39 +6819,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdmdxzn52y",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdmdxzn52y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0152e9474af0",
-   "created_at": "2026-10-28T18:05:50Z"
-  },
-  {
-   "id": "87b9eb9ce5d4",
-   "ts": "2026-10-28T18:04:56Z",
-   "headline": "Axios reports US and Israel anticipate a week of strikes on Iran after the midterms if nuclear talks fail",
-   "detail": "According to Axios, possible strikes would target Iran's leadership, energy and nuclear sites, Iran is being pressed to make nuclear concessions, and the Israeli military and the US are coordinating. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "bc5c3ab12596e2ee",
-    "7dc169c0cf0af58b",
-    "88e31f395c6bd929"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdndmwqg2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdndmwqg2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdldkzvc2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdldkzvc2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdohcd5o2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdohcd5o2p"
     }
    ],
    "model": "opus",
