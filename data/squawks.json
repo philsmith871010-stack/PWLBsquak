@@ -1,8 +1,107 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T12:31:08Z",
+ "generated_at": "2026-10-30T12:35:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ebed94dd965e",
+   "ts": "2026-10-30T12:35:12Z",
+   "headline": "ECB asks EU leaders to begin the search for a successor to chief economist Lane",
+   "detail": "The ECB has asked EU leaders to start the process of finding a successor to Philip Lane on its Executive Board.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "906e8e658b29312d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3s5lfh6q25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3s5lfh6q25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "39c5bc734484",
+   "created_at": "2026-10-30T12:35:45Z"
+  },
+  {
+   "id": "30f5488691ed",
+   "ts": "2026-10-30T12:33:28Z",
+   "headline": "Russia's Novak says Ukraine has resumed strikes on Russian oil refineries after a pause, hitting three refineries and a chemical plant",
+   "detail": "Russian Deputy Prime Minister Novak said Ukrainian drones attacked three Russian oil refineries and one petrochemical complex, with minor damage at one site. He said the attacks resumed after a period of pause.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "7ed78bd907ac66f9",
+    "e21562f52c99d921",
+    "47a9864a6382a5b7",
+    "a41da74af71a2a19",
+    "f2241961f2147bdf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3s2i7uma2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3s2i7uma2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3s3hv2fn2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3s3hv2fn2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3s4j3bli25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3s4j3bli25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3s5ae57f2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3s5ae57f2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3s5vythh2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3s5vythh2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "39c5bc734484",
+   "created_at": "2026-10-30T12:35:45Z"
+  },
+  {
+   "id": "4a33a6cc5150",
+   "ts": "2026-10-30T12:31:16Z",
+   "headline": "Canadian GDP flat m/m in August against 0.2% forecast; StatCan flash estimate points to a 0.1% fall in September",
+   "detail": "Statistics Canada said August GDP was unchanged on the month, missing the 0.2% forecast, and July was also flat. Its flash estimate suggests GDP most likely fell 0.1% in September.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6a214393ae7f7960",
+    "8ff876d907fdc1b1",
+    "025253769e2f93ac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3rwjocan2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3rwjocan2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3rwumkxv2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3rwumkxv2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3rxxtowi25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3rxxtowi25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "39c5bc734484",
+   "created_at": "2026-10-30T12:35:45Z"
+  },
   {
    "id": "4b1b47f970d0",
    "ts": "2026-10-30T12:30:45Z",
@@ -6047,135 +6146,6 @@
    "model": "opus",
    "run_id": "b096494f2e29",
    "created_at": "2026-10-29T07:10:52Z"
-  },
-  {
-   "id": "dbde50bc0a4f",
-   "ts": "2026-10-29T07:03:29Z",
-   "headline": "Swedish Q3 GDP rises 0.4% on the quarter, above the 0.3% forecast; September GDP indicator falls 0.7% on the month",
-   "detail": "Sweden's Q3 GDP indicator rose 0.4% quarter on quarter, against a 0.3% forecast and 1.4% previously. The monthly indicator for September fell 0.7% after a 1.1% rise, and its annual rate slowed to 2.1% from 3.5%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "596b7471adb8b8e0",
-    "b128c831d3229517",
-    "4535e898abd6b12a",
-    "fea4a9c2276cfe02",
-    "a5b296d0c031bb45",
-    "6fb222e2d689d44f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyp5ibbbv2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyp5ibbbv2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyp5ltwub2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyp5ltwub2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyp6fie652y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyp6fie652y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyp7nqbps2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyp7nqbps2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyp7psuqk24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyp7psuqk24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyp5ejszf2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyp5ejszf2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ab370ceb0e3a",
-   "created_at": "2026-10-29T07:05:43Z"
-  },
-  {
-   "id": "7502b5e2e035",
-   "ts": "2026-10-29T07:03:20Z",
-   "headline": "Swedish retail sales fall 0.4% in September and consumer confidence drops to 94.3 in October",
-   "detail": "Swedish retail sales fell 0.4% month on month in September after a revised 0.9% rise, and annual growth slowed to 5.5% from a revised 7.2%. Consumer confidence fell to 94.3 in October from 102.2, while manufacturing confidence rose to 111.5 from 106.3.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0b1552f63dd59861",
-    "c8709f4fb60a61be",
-    "7f8e32c9cbadbbc9",
-    "c531a68154c135a9",
-    "9120e5dc29e016be",
-    "de57c78e7ecb9f56",
-    "70415e730f63ae3a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyp57zqik2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyp57zqik2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyp53obdv2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyp53obdv2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyp7rw55i22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyp7rw55i22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyp6odqno2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyp6odqno2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyp6jla6n2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyp6jla6n2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyp6rwu4j2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyp6rwu4j2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyp6v4jkv2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyp6v4jkv2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ab370ceb0e3a",
-   "created_at": "2026-10-29T07:05:43Z"
-  },
-  {
-   "id": "b3585b6d674b",
-   "ts": "2026-10-29T07:01:06Z",
-   "headline": "Swedish GDP growth slows to 2.8% year on year in advance estimate, just below the 2.9% forecast",
-   "detail": "Sweden's advance GDP estimate showed annual growth of 2.8%, against a forecast of 2.9% and down from 3.3% previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "03a74e0eff4147c2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyozagud52b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyozagud52b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b34311fc69b8",
-   "created_at": "2026-10-29T07:01:17Z"
   }
  ]
 }
