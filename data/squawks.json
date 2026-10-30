@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T17:10:57Z",
+ "generated_at": "2026-10-30T17:15:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f9bceda29bc7",
+   "ts": "2026-10-30T17:11:21Z",
+   "headline": "Carney says Canada will contribute €500m to the EU's Ukraine support loan",
+   "detail": "Canadian Prime Minister Mark Carney announced a €500m contribution to the EU's loan for Ukraine. This follows the earlier EU-Canada agreement on Canada joining the loan.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f4c00f8b271b0ff2",
+    "404af6447ddc80c0",
+    "37527c3b0cf5a8c0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4ble3shx2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4ble3shx2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4bmc6pnh2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4bmc6pnh2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4bncr2tl2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4bncr2tl2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a6ac0f446e11",
+   "created_at": "2026-10-30T17:15:53Z"
+  },
   {
    "id": "3f226d7dc99e",
    "ts": "2026-10-30T17:10:05Z",
@@ -6426,33 +6459,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbpfxuas2y",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbpfxuas2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "295d1c790398",
-   "created_at": "2026-10-29T12:35:41Z"
-  },
-  {
-   "id": "000306870bea",
-   "ts": "2026-10-29T12:31:08Z",
-   "headline": "US initial jobless claims hold at 194K, below the 198K forecast",
-   "detail": "US weekly initial jobless claims were 194K, unchanged from the previous week and below the forecast of 198K.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1f729935a794bc8a",
-    "743b015cccce307e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbhex2fj2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbhex2fj2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbm53wi32z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbm53wi32z"
     }
    ],
    "model": "opus",
