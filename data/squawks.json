@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T14:15:52Z",
+ "generated_at": "2026-10-30T14:20:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5ae5d298d1b0",
+   "ts": "2026-10-30T14:20:31Z",
+   "headline": "US officials say Thursday's Iran meeting focused on a blockade and economic pressure, not strikes, Axios reports",
+   "detail": "Axios cites several US officials as saying more than 20 people attended Thursday's meeting on Iran, which discussed a blockade and economic pressure at length. The officials said strikes remain possible straight after the midterms.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "70fe99ccc0c496a9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3xzusxlo2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3xzusxlo2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fe1fe3c54401",
+   "created_at": "2026-10-30T14:20:56Z"
+  },
   {
    "id": "2fffc36a8ba8",
    "ts": "2026-10-30T14:13:09Z",
@@ -6269,33 +6290,6 @@
    "model": "opus",
    "run_id": "2f1ad2de8326",
    "created_at": "2026-10-29T09:35:45Z"
-  },
-  {
-   "id": "93f2571e238d",
-   "ts": "2026-10-29T09:31:02Z",
-   "headline": "UK consumer credit rises £1.914bn and mortgage lending £3.866bn, both below forecasts, BoE data show",
-   "detail": "Bank of England figures show consumer credit of £1.914bn against a £2bn forecast and £2.464bn previously. Net mortgage lending was £3.866bn against a £4.2bn forecast, with the previous month revised to £4.174bn from £4.410bn.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "7a6583b382d2d19e",
-    "7ed2859422e55916"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyxfdbbt42d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyxfdbbt42d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyxffljgj2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyxffljgj2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6da9eba9d45b",
-   "created_at": "2026-10-29T09:31:07Z"
   }
  ]
 }
