@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T12:20:52Z",
+ "generated_at": "2026-10-30T12:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1002f6b3c834",
+   "ts": "2026-10-30T12:23:30Z",
+   "headline": "Iranian state media says a supertanker exploded after striking a sea mine in the Strait of Hormuz",
+   "detail": "Iran's IRIB News said the supertanker hit a mine about an hour before its report, on what it called an unauthorised route through the strait, and Fars also reported the mine strike. No market reaction was reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "3210c4ae497ceb8d",
+    "09b2f894e650df90"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3rinv5ff2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3rinv5ff2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3rlrrpr52d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3rlrrpr52d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bfa947d4ab3a",
+   "created_at": "2026-10-30T12:25:42Z"
+  },
   {
    "id": "2a47bd3c4096",
    "ts": "2026-10-30T12:15:56Z",
@@ -6198,27 +6225,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myygo2pzjx25",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myygo2pzjx25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c6ee3703df7b",
-   "created_at": "2026-10-29T06:10:57Z"
-  },
-  {
-   "id": "256cf44b9804",
-   "ts": "2026-10-29T04:00:00Z",
-   "headline": "Budget scorecard assumes approval of North Sea discovery drilling producing more than a billion barrels",
-   "detail": "City AM reports that the Budget scorecard assumes the government will approve North Sea discovery drilling projects producing over a billion barrels of oil and gas, following Jackdaw and Rosebank.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "ee3e80b798a0b783"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3myyfcef5w5x2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3myyfcef5w5x2"
     }
    ],
    "model": "opus",
