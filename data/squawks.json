@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T16:15:51Z",
+ "generated_at": "2026-10-30T16:20:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "39216402c6f3",
+   "ts": "2026-10-30T16:17:08Z",
+   "headline": "ECB's Lane says AI adoption is still at a fairly early stage, and the scale and timing of its economy-wide impact are very uncertain",
+   "detail": "ECB chief economist Philip Lane added this point to his earlier remarks on AI and the euro area economy. He did not mention interest rates.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "fd69238051c7241d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz46kgbzxe2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz46kgbzxe2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0a3d6611f89d",
+   "created_at": "2026-10-30T16:20:53Z"
+  },
   {
    "id": "05e08e3aeb2e",
    "ts": "2026-10-30T16:12:25Z",
@@ -6263,39 +6284,6 @@
    "model": "opus",
    "run_id": "0fa1f2bf5051",
    "created_at": "2026-10-29T10:45:58Z"
-  },
-  {
-   "id": "c55e00addbc3",
-   "ts": "2026-10-29T10:36:28Z",
-   "headline": "IFS says Budget plans for public service spending are very tight and doubts the government will deliver them",
-   "detail": "At its post-Budget briefing, the Institute for Fiscal Studies questioned whether defence spending can reach 3% of GDP entirely within existing spending envelopes. It also said repeated small changes from Budget to Budget have left the tax system overly complex.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "fa9a29b8e969ae41",
-    "74565dcc94358876",
-    "a3b3d37a267c434c"
-   ],
-   "sources": [
-    {
-     "author": "theifs.bsky.social",
-     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3myz32dfuns2m",
-     "url": "https://bsky.app/profile/theifs.bsky.social/post/3myz32dfuns2m"
-    },
-    {
-     "author": "theifs.bsky.social",
-     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3myz33y5hlk27",
-     "url": "https://bsky.app/profile/theifs.bsky.social/post/3myz33y5hlk27"
-    },
-    {
-     "author": "theifs.bsky.social",
-     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3myz3av2occ2l",
-     "url": "https://bsky.app/profile/theifs.bsky.social/post/3myz3av2occ2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ed6910db69a8",
-   "created_at": "2026-10-29T10:40:53Z"
   }
  ]
 }
