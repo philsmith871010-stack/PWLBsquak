@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T20:05:43Z",
+ "generated_at": "2026-10-30T20:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f4b59dfd889d",
+   "ts": "2026-10-30T20:34:30Z",
+   "headline": "Lavrov says Russia's stance is unchanged ahead of the Abu Dhabi talks",
+   "detail": "Russian Foreign Minister Sergei Lavrov said Moscow's position had not changed before the negotiations in Abu Dhabi. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0725e62485c78516"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4mwmkcfv2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4mwmkcfv2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b2cdfc69ba16",
+   "created_at": "2026-10-30T20:35:44Z"
+  },
   {
    "id": "c4753e037c8c",
    "ts": "2026-10-30T20:04:16Z",
@@ -6336,27 +6357,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myzfcyl6hc2i",
      "url": "https://bsky.app/profile/reuters.com/post/3myzfcyl6hc2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ec11ba3fd9ce",
-   "created_at": "2026-10-29T13:40:55Z"
-  },
-  {
-   "id": "19964ab47071",
-   "ts": "2026-10-29T13:37:35Z",
-   "headline": "Treasury lowers its 2031-32 day-to-day spending assumption by £5.5bn in Budget plans",
-   "detail": "An economics journalist reports that the Treasury trimmed its assumption for day-to-day departmental spending in 2031-32 by £5.5bn. No department yet has a budget set for that year.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "80ee795f8c140387"
-   ],
-   "sources": [
-    {
-     "author": "bruceandy.bsky.social",
-     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3myzf66yp4c27",
-     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3myzf66yp4c27"
     }
    ],
    "model": "opus",
