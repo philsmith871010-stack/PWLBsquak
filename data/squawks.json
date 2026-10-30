@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T12:05:41Z",
+ "generated_at": "2026-10-30T12:10:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f4125256c3ac",
+   "ts": "2026-10-30T12:10:14Z",
+   "headline": "Iran's IRGC navy says it stopped two oil tankers south of the Strait of Hormuz",
+   "detail": "Iran's Revolutionary Guards navy said on Friday that two oil tankers were involved in incidents and were stopped south of the Strait of Hormuz. It said the tankers had ignored radio warnings and tried to use what it called an unauthorised route through the waterway, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3791d32857cb03fc"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mz3qqvvseb2q",
+     "url": "https://bsky.app/profile/reuters.com/post/3mz3qqvvseb2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "959e116e5ba5",
+   "created_at": "2026-10-30T12:10:53Z"
+  },
+  {
+   "id": "edb4bfe3b060",
+   "ts": "2026-10-30T12:05:47Z",
+   "headline": "Kremlin aide Ushakov says Kyiv probably could not have attacked Russian oil refineries without European backing",
+   "detail": "Kremlin aide Yuri Ushakov said Ukraine was unlikely to have carried out strikes on Russian oil refineries without support from Europe.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8721ce61f90c1929"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3qixl7sw2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3qixl7sw2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "959e116e5ba5",
+   "created_at": "2026-10-30T12:10:53Z"
+  },
   {
    "id": "784012bb69db",
    "ts": "2026-10-30T12:03:37Z",
@@ -6170,48 +6212,6 @@
    "model": "opus",
    "run_id": "c6ee3703df7b",
    "created_at": "2026-10-29T06:10:57Z"
-  },
-  {
-   "id": "353e3192da70",
-   "ts": "2026-10-29T02:30:57Z",
-   "headline": "China's onshore yuan strengthens to 6.6621 per dollar, its strongest since 7 June 2022",
-   "detail": "The onshore yuan rose to 6.6621 per US dollar in Asian trading on Thursday, its strongest level since 7 June 2022.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "93e2b7819eaf71fb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myy7w5rc6j2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myy7w5rc6j2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c6ee3703df7b",
-   "created_at": "2026-10-29T06:10:57Z"
-  },
-  {
-   "id": "8521dd59961e",
-   "ts": "2026-10-29T01:00:49Z",
-   "headline": "RBNZ Governor Breman says the chance of a December rate hike is high",
-   "detail": "Reserve Bank of New Zealand Governor Anna Breman said on Thursday that the likelihood of the bank raising the official cash rate in December is high.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "2c3245873559dd4f"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myy2uxxfve2a",
-     "url": "https://bsky.app/profile/reuters.com/post/3myy2uxxfve2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dec5c96a22cc",
-   "created_at": "2026-10-29T06:05:42Z"
   }
  ]
 }
