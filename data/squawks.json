@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T06:20:54Z",
+ "generated_at": "2026-10-30T06:31:05Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "88a1141d50c7",
+   "ts": "2026-10-30T06:30:49Z",
+   "headline": "French GDP shrinks 0.1% q/q in preliminary Q3 estimate, below 0.1% forecast; consumer spending falls 0.5% m/m",
+   "detail": "Preliminary French GDP fell 0.1% q/q against a forecast rise of 0.1% and 0.0% previously, and was down 0.1% y/y against a forecast 0.3% and 0.5% previously. Consumer spending fell 0.5% m/m against a forecast rise of 0.1%, matching the previous -0.5%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c344180a0087fd65",
+    "f2317ad9e5e60574",
+    "2b053fc45c9c9c22"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz35ryoeni2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz35ryoeni2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz35s2pbbg2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz35s2pbbg2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz35s4ts7d22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz35s4ts7d22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d232fcd90652",
+   "created_at": "2026-10-30T06:31:05Z"
+  },
   {
    "id": "fdb2c5fdf841",
    "ts": "2026-10-30T06:16:48Z",
@@ -6731,27 +6764,6 @@
    "model": "opus",
    "run_id": "47b793459332",
    "created_at": "2026-10-28T15:45:52Z"
-  },
-  {
-   "id": "18fa2f3a2852",
-   "ts": "2026-10-28T15:35:19Z",
-   "headline": "Healey says the main UK minimum wage rate will rise by 3.9%",
-   "detail": "Chancellor John Healey announced on Wednesday that the main minimum wage rate will increase by 3.9%, Reuters reports.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "85f61dc8f4c92360"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myx3bsddjk2i",
-     "url": "https://bsky.app/profile/reuters.com/post/3myx3bsddjk2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a11db88a01c8",
-   "created_at": "2026-10-28T15:35:41Z"
   }
  ]
 }
