@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T07:50:51Z",
+ "generated_at": "2026-10-30T07:55:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a816a044286a",
+   "ts": "2026-10-30T07:52:43Z",
+   "headline": "ECB's Dolenc says the energy shock is not yet feeding broader price pressures but warns inflation may stay above 2% for years",
+   "detail": "ECB Governing Council member Dolenc said the energy shock had not yet spread into wider price pressures, but that higher energy prices risk more persistent inflation. He added that inflation could remain above 2% in the coming years.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "75d343cfdd26b2c0",
+    "d518de462dccac04",
+    "5ffd343c8b913bb4",
+    "83974778fa802067"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3cehiqdo22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3cehiqdo22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3cg3ariw22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3cg3ariw22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3cgvfnzl2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3cgvfnzl2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3cieayqe2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3cieayqe2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "23bd5d38b6fc",
+   "created_at": "2026-10-30T07:55:39Z"
+  },
   {
    "id": "ec16d7b63f08",
    "ts": "2026-10-30T07:46:09Z",
@@ -6732,27 +6771,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdzys2j62y",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdzys2j62y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a6972736dae3",
-   "created_at": "2026-10-28T18:15:54Z"
-  },
-  {
-   "id": "bc7937d798d5",
-   "ts": "2026-10-28T18:11:19Z",
-   "headline": "UK to tax sovereign wealth funds on their UK property investments",
-   "detail": "The Financial Times reports the change will affect countries such as the Gulf states, which are large property investors in Britain.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "3c397382e064a74b"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myxdyqpoum2g",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myxdyqpoum2g"
     }
    ],
    "model": "opus",
