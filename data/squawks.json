@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T14:10:53Z",
+ "generated_at": "2026-10-30T14:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2fffc36a8ba8",
+   "ts": "2026-10-30T14:13:09Z",
+   "headline": "Exxon estimates half of Russia's refining capacity is offline; CEO sees global refining starting to recover next year, possibly later",
+   "detail": "Exxon estimates that half of Russia's refining capacity is out of action. Its chief executive says global refining capacity could start to recover next year but warns it may take longer.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "2c3b0f90d8e612a2",
+    "298568d9ff3ef19d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3xmpn6uk2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3xmpn6uk2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3xofic6424",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3xofic6424"
+    }
+   ],
+   "model": "opus",
+   "run_id": "df142e7f54b7",
+   "created_at": "2026-10-30T14:15:52Z"
+  },
   {
    "id": "006b7fa353bc",
    "ts": "2026-10-30T14:09:07Z",
@@ -6264,27 +6291,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyxffljgj2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyxffljgj2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6da9eba9d45b",
-   "created_at": "2026-10-29T09:31:07Z"
-  },
-  {
-   "id": "43512a26e660",
-   "ts": "2026-10-29T09:29:58Z",
-   "headline": "UK 10-year gilt yield falls 3bp to 5.29%, a five-week low",
-   "detail": "The benchmark 10-year gilt yield fell 3bp to 5.29% in morning trading, its lowest level in five weeks.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "631f8c331025f3bb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyxdgprmy2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyxdgprmy2d"
     }
    ],
    "model": "opus",
