@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T08:40:53Z",
+ "generated_at": "2026-10-30T08:50:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "299196299816",
+   "ts": "2026-10-30T08:46:56Z",
+   "headline": "ECB's Rehn says growth and inflation outlook remains highly uncertain and upside inflation risks are still elevated",
+   "detail": "ECB Governing Council member Olli Rehn said the outlook for growth and inflation is still very uncertain and that risks of higher inflation remain clearly elevated. He added that policymakers need to stay vigilant about second-round effects.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4de1c59ac1036112",
+    "27b0ccabdca6b81e",
+    "563f43faf8e45ad2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3fffiy552p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3fffiy552p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3fip4xz624",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3fip4xz624"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3fkdqwt425",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3fkdqwt425"
+    }
+   ],
+   "model": "opus",
+   "run_id": "36e26f7bed6c",
+   "created_at": "2026-10-30T08:50:51Z"
+  },
   {
    "id": "9ed744fcf417",
    "ts": "2026-10-30T08:40:40Z",
@@ -6737,27 +6770,6 @@
    "model": "opus",
    "run_id": "4a1794c6c034",
    "created_at": "2026-10-28T18:40:54Z"
-  },
-  {
-   "id": "021d9da03faf",
-   "ts": "2026-10-28T18:32:04Z",
-   "headline": "WTI December crude settles up 2.88% at $102.78 a barrel",
-   "detail": "NYMEX WTI December futures settled $2.88 higher at $102.78 a barrel on Wednesday.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "fc6034f227c00a77"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxf5uejdy25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxf5uejdy25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4f60b4ff3c8d",
-   "created_at": "2026-10-28T18:35:44Z"
   }
  ]
 }
