@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T13:45:54Z",
+ "generated_at": "2026-10-30T13:50:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "405b037ddf22",
+   "ts": "2026-10-30T13:45:59Z",
+   "headline": "US Chicago PMI falls to 55.3 in October, below 56.0 forecast and down from 58.8",
+   "detail": "MNI's Chicago Business Barometer came in at 55.3 for October, short of the 56.0 consensus, after 58.8 in September.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "c24fe54783c52491",
+    "cd75eeff4cd75e56",
+    "f0dacba04b363881"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3w454c5u2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3w454c5u2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3w4bgx4e2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3w4bgx4e2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3w4eqdhb22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3w4eqdhb22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c1599837956a",
+   "created_at": "2026-10-30T13:50:53Z"
+  },
   {
    "id": "137237d939bd",
    "ts": "2026-10-30T13:43:49Z",
@@ -6239,27 +6272,6 @@
    "model": "opus",
    "run_id": "dc38493348e8",
    "created_at": "2026-10-29T08:50:49Z"
-  },
-  {
-   "id": "cdcab6833a3a",
-   "ts": "2026-10-29T08:27:05Z",
-   "headline": "Saudi Aramco sets its November butane price at $780 a tonne",
-   "detail": "Saudi Aramco has set its contract price for November butane at $780 per tonne, according to a market wire headline.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "7337de446f369e60"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myytsxxw3y2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myytsxxw3y2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "587a73f3d16d",
-   "created_at": "2026-10-29T08:31:05Z"
   }
  ]
 }
