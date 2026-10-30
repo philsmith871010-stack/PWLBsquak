@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T17:01:18Z",
+ "generated_at": "2026-10-30T17:10:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3f226d7dc99e",
+   "ts": "2026-10-30T17:10:05Z",
+   "headline": "Von der Leyen says the EU and Canada have agreed that Canada will take part in the EU's loan for Ukraine",
+   "detail": "European Commission President von der Leyen said Canada's participation in the EU loan for Ukraine has been agreed. Earlier, a joint statement said Canada wanted to join the €90bn support loan.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1bd0cffbe417e3da"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4bj3zeiw2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4bj3zeiw2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1dc4b389c465",
+   "created_at": "2026-10-30T17:10:57Z"
+  },
   {
    "id": "af59b2b8625d",
    "ts": "2026-10-30T17:00:23Z",
@@ -6437,27 +6458,6 @@
    "model": "opus",
    "run_id": "295d1c790398",
    "created_at": "2026-10-29T12:35:41Z"
-  },
-  {
-   "id": "273c96c6a946",
-   "ts": "2026-10-29T12:31:01Z",
-   "headline": "US continuing jobless claims fall to 1.701M, below the 1.72M forecast",
-   "detail": "US continuing jobless claims came in at 1.701M, down from 1.728M previously and below the 1.72M forecast.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "02158b2939851d9c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbh5rdfl2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbh5rdfl2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c3650e424b90",
-   "created_at": "2026-10-29T12:31:04Z"
   }
  ]
 }
