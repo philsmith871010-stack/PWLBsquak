@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T07:55:39Z",
+ "generated_at": "2026-10-30T08:01:12Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cb0467adb06b",
+   "ts": "2026-10-30T08:01:09Z",
+   "headline": "Spanish flash October HICP eases to 4.9% y/y, in line with forecast and down from 5.0%; up 0.5% m/m",
+   "detail": "Spain's flash October HICP rose 4.9% y/y, matching the 4.9% forecast, after 5.0% the month before. On the month it rose 0.5%, also in line with forecast, after 0.6% previously.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "56301e7b60930f70",
+    "1ba8862ac37cf04c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3ctiygm22y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3ctiygm22y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3ctftnkx2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3ctftnkx2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b2aca999c66f",
+   "created_at": "2026-10-30T08:01:12Z"
+  },
   {
    "id": "a816a044286a",
    "ts": "2026-10-30T07:52:43Z",
@@ -6750,27 +6777,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxe23tevf2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxe23tevf2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a6972736dae3",
-   "created_at": "2026-10-28T18:15:54Z"
-  },
-  {
-   "id": "cfcf7bce83fa",
-   "ts": "2026-10-28T18:12:01Z",
-   "headline": "Traders now price an 80% chance of a December Fed hike",
-   "detail": "Market pricing for a December Fed hike stands at 80%, according to a market commentary feed. This follows the Fed's hold earlier today.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "46957746e98fe3f6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdzys2j62y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdzys2j62y"
     }
    ],
    "model": "opus",
