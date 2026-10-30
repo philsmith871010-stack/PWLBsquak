@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T13:50:53Z",
+ "generated_at": "2026-10-30T13:55:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ec0addb05745",
+   "ts": "2026-10-30T13:51:16Z",
+   "headline": "Chevron CEO Wirth says crude oil and refined product prices are elevated worldwide",
+   "detail": "Chevron chief executive Mike Wirth said in a CNBC interview that prices for both crude oil and refined products are running high around the world.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "985bba2b79d1512c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3wflujmk2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3wflujmk2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d4f4ed795699",
+   "created_at": "2026-10-30T13:55:44Z"
+  },
   {
    "id": "405b037ddf22",
    "ts": "2026-10-30T13:45:59Z",
@@ -6245,33 +6266,6 @@
    "model": "opus",
    "run_id": "826bb7d76f38",
    "created_at": "2026-10-29T09:01:19Z"
-  },
-  {
-   "id": "b5f1f26419a0",
-   "ts": "2026-10-29T08:46:40Z",
-   "headline": "Iran's Revolutionary Guards navy says three oil tankers hit mines and caught fire south of the Strait of Hormuz",
-   "detail": "Iranian reports cite the IRGC navy as saying three tankers caught fire after hitting mines over the past 24 hours while using an unauthorised route off the southern side of the strait. US CENTCOM had earlier rejected Iranian media claims of ships hitting mines and said main transit routes had been cleared.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "94ea256497db447d",
-    "9ad834eba9cb50d2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyuvyg2us22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyuvyg2us22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyuzw3ghs22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyuzw3ghs22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dc38493348e8",
-   "created_at": "2026-10-29T08:50:49Z"
   }
  ]
 }
