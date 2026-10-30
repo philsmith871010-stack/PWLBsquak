@@ -1,8 +1,218 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T06:01:17Z",
+ "generated_at": "2026-10-30T06:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4e2361d88917",
+   "ts": "2026-10-30T03:03:01Z",
+   "headline": "BoJ holds short-term rate at 1.25% on an 8-1 vote; Takata dissents in favour of a rise to 1.5%",
+   "detail": "The Bank of Japan said underlying inflation is in line with its target, risks to prices are tilted to the upside and it will keep raising rates. Board medians are 2.5% for fiscal 2026 core CPI, 2.7% for fiscal 2027 core-core CPI and 0.7% for fiscal 2026 real GDP growth.",
+   "category": "global_rates",
+   "importance": 3,
+   "source_event_ids": [
+    "e851c12725a9c6ed",
+    "8aac86e722a9d176",
+    "cc1a27a6b573e32e",
+    "3cc5156ac3805f79",
+    "65eecec4980c7658",
+    "05d34665a7405a40",
+    "9c42d0c36e56b499",
+    "1b4fd959da14fd73",
+    "4af365ae12b514bc",
+    "29671be0ae0595f3",
+    "1c1049c75f2229ac",
+    "9865762da30ebeeb",
+    "37cc47c0a3764b63",
+    "c268580a154e4e53",
+    "b4f2a2496ca795c1",
+    "cbda675ce75eaafe",
+    "4e96a7cc4ca30654",
+    "30ac0675da5bc011"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2s6g6a5a25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2s6g6a5a25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2s6mjac72f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2s6mjac72f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2s7pjvq22p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2s7pjvq22p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2s7udc4p2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2s7udc4p2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2s6jl6d72z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2s6jl6d72z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2s7ku7ex2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2s7ku7ex2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2sa6bcu22y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2sa6bcu22y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2s7h56lj2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2s7h56lj2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2sacda6e2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2sacda6e2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2safwyf422",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2safwyf422"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2sb72lji2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2sb72lji2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2sbfok2s2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2sbfok2s2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2sbhp5572z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2sbhp5572z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2sbjovhw25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2sbjovhw25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2sblnfic2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2sblnfic2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2sbnmia72k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2sbnmia72k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2sbpmfde22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2sbpmfde22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2sa26bwj24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2sa26bwj24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fd9ce1c17a15",
+   "created_at": "2026-10-30T06:05:42Z"
+  },
+  {
+   "id": "5aa1f50698b6",
+   "ts": "2026-10-30T02:50:14Z",
+   "headline": "Bonds head for their largest monthly gain in nearly three years as Asian tech shares slump on AI spending worries",
+   "detail": "Reuters says investors moved into safe havens on Friday, with the yen rising and tech stocks falling on worries about returns on AI spending. Japan's 5-year JGB yield fell 5bp to 2.220%, the Nikkei dropped 3% and Taiwan's Taiex 3.5%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "636de2df57f3c3d3",
+    "dfd1c1290c6c6d41",
+    "ac2fb54f1824e1cf",
+    "1c9b73fbeaef6b38"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mz2rhkhzuo2t",
+     "url": "https://bsky.app/profile/reuters.com/post/3mz2rhkhzuo2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2n3sivtw2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2n3sivtw2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2odjx3kz25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2odjx3kz25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2oimr5pt2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2oimr5pt2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fd9ce1c17a15",
+   "created_at": "2026-10-30T06:05:42Z"
+  },
+  {
+   "id": "f4996fe22bf1",
+   "ts": "2026-10-30T01:41:41Z",
+   "headline": "Brent and WTI rise $2 a barrel on growing US-Iran geopolitical risk",
+   "detail": "Market reports say crude rebounded in Asian trade as doubts grew over the prospects of a peace deal, with both Brent and WTI up $2 a barrel.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "27b4edae3e2200ae",
+    "d782cef3588a7ece"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2nmxtfbr25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2nmxtfbr25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2peu7vyb2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2peu7vyb2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fd9ce1c17a15",
+   "created_at": "2026-10-30T06:05:42Z"
+  },
+  {
+   "id": "d7f6b3df5a1b",
+   "ts": "2026-10-30T01:41:12Z",
+   "headline": "Sterling rises in Asian trade on a hawkish BoE outlook and broad dollar weakness",
+   "detail": "A market report says sterling gained on expectations of a hawkish Bank of England and a broadly weaker US dollar; no levels were given.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "d5d93131899e8b84"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2nm4vbzb2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2nm4vbzb2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fd9ce1c17a15",
+   "created_at": "2026-10-30T06:05:42Z"
+  },
   {
    "id": "a6dc110b608d",
    "ts": "2026-10-30T01:02:55Z",
@@ -6296,132 +6506,6 @@
    "model": "opus",
    "run_id": "c47a9f833e29",
    "created_at": "2026-10-28T15:03:15Z"
-  },
-  {
-   "id": "fddf2c6cdfc8",
-   "ts": "2026-10-28T14:55:52Z",
-   "headline": "Zelenskiy expects clarity on peace talks after the US elections and will discuss territory only at leaders' level",
-   "detail": "Ukraine's President Zelenskiy said he expects clarity on talks with Russia and the US after the US elections. He said territory would only be discussed at leaders' level and called for European unity to help end the war.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "043880ac4475756f",
-    "2bdc97360657ce4f",
-    "ba33b43707a9cb73",
-    "453eccbc3d607961"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywz3aqjcm2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywz3aqjcm2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywz434fbc2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywz434fbc2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywz6scpbe2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywz6scpbe2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywzhkcfss2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywzhkcfss2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c47a9f833e29",
-   "created_at": "2026-10-28T15:03:15Z"
-  },
-  {
-   "id": "d73e23bda9e7",
-   "ts": "2026-10-28T14:55:23Z",
-   "headline": "Zelenskiy hopes for Ukraine-US-Russia talks between 6 and 10 November and no later than end-November",
-   "detail": "Ukraine's President Zelenskiy said Kyiv hopes the trilateral talks with the US and Russia will take place between 6 and 10 November, and that they should happen no later than the end of November.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c29a0eb03d431f8a",
-    "30743d8c191ac96c",
-    "7e3229f08f971328"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywz2fapzr22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywz2fapzr22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywyyhc4kf2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywyyhc4kf2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywytyweij22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywytyweij22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aaf6abaff640",
-   "created_at": "2026-10-28T14:55:43Z"
-  },
-  {
-   "id": "41dd52b1522e",
-   "ts": "2026-10-28T14:52:29Z",
-   "headline": "Budget commits to ringfencing preventative spending at the 2027 Spending Review",
-   "detail": "The Institute for Government reported that the Chancellor will ringfence preventative spending at the 2027 Spending Review, a Budget measure the IfG had argued for.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "db0de3b0d2c2c917"
-   ],
-   "sources": [
-    {
-     "author": "instituteforgovernment.org.uk",
-     "uri": "at://did:plc:d656x5rt365ylfpbzpwgpl4i/app.bsky.feed.post/3mywyv75e2c2f",
-     "url": "https://bsky.app/profile/instituteforgovernment.org.uk/post/3mywyv75e2c2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aaf6abaff640",
-   "created_at": "2026-10-28T14:55:43Z"
-  },
-  {
-   "id": "0a17d3ba8777",
-   "ts": "2026-10-28T14:51:14Z",
-   "headline": "Macklem says US trade and Middle East uncertainty could change the BoC outlook; Rogers calls housing forecast subdued",
-   "detail": "Speaking after the rate decision, Bank of Canada Governor Macklem said uncertainty over US trade and the Middle East could alter the outlook. Senior Deputy Governor Rogers said uncertainty over the economy and borrowing rates is weighing on housing, and called the bank's housing forecast subdued.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e0d5052c7a65aa3d",
-    "2393bfcd6b16d015",
-    "5220bd7444ccec1c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywysy2t3h2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywysy2t3h2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywyw2ezi325",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywyw2ezi325"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywyzerrja2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywyzerrja2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aaf6abaff640",
-   "created_at": "2026-10-28T14:55:43Z"
   }
  ]
 }
