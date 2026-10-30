@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T08:05:44Z",
+ "generated_at": "2026-10-30T08:10:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3c8cd62973c5",
+   "ts": "2026-10-30T08:10:28Z",
+   "headline": "Germany's Merz says he is working to end the Iran war quickly, citing its heavy impact on Europe",
+   "detail": "German Chancellor Merz said the Iran war is having a major impact on Europe and that this is why he is holding intensive talks on his Asia trip. He also said the US is shifting its foreign policy and Germany must do likewise.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3444bbf0653177fe",
+    "ff575abb79292747",
+    "d79943062dc29f8b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3de6iscs2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3de6iscs2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3dedyxfu2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3dedyxfu2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3dc5nopi2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3dc5nopi2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "72caba9fc4f1",
+   "created_at": "2026-10-30T08:10:54Z"
+  },
   {
    "id": "73777b7ac2ac",
    "ts": "2026-10-30T08:01:28Z",
@@ -6768,27 +6801,6 @@
      "author": "theifs.bsky.social",
      "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3myxersu4hk2s",
      "url": "https://bsky.app/profile/theifs.bsky.social/post/3myxersu4hk2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aa45bd7273a4",
-   "created_at": "2026-10-28T18:25:44Z"
-  },
-  {
-   "id": "de92e1e40648",
-   "ts": "2026-10-28T18:25:11Z",
-   "headline": "Canadian 2-year yield reaches a two-year high after the Bank of Canada's rate hike",
-   "detail": "Reuters reports Canadian bond yields rose and the Canadian dollar edged higher against the US dollar after the Bank of Canada raised rates for the first time in more than three years.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "613799eb5f987f3f"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myxerjyln32i",
-     "url": "https://bsky.app/profile/reuters.com/post/3myxerjyln32i"
     }
    ],
    "model": "opus",
