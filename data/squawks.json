@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T13:40:57Z",
+ "generated_at": "2026-10-30T13:45:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "137237d939bd",
+   "ts": "2026-10-30T13:43:49Z",
+   "headline": "Fed's Barkin says business demand stays solid, with weakness only in housing and non-profits, and firms plan to pass on price rises",
+   "detail": "Richmond Fed President Barkin said businesses describe broad cost pressures and plans to raise prices, adding that consumer spending has been surprisingly resilient given broadly flat incomes. He made the remarks at a business briefing, which has now ended.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1a9bec2d3fd9d71b",
+    "c5434926cbb00400",
+    "52ac90a44c20b72f",
+    "cb5c456949eb91b6",
+    "e6da880151f04a49",
+    "e154b74b606a0e53"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3vybopr42y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3vybopr42y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3vylprng2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3vylprng2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3vypisvi2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3vypisvi2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3vzmg4nd24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3vzmg4nd24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3vzn2twe2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3vzn2twe2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3w3bygp22k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3w3bygp22k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "df075319dc4f",
+   "created_at": "2026-10-30T13:45:54Z"
+  },
   {
    "id": "5a467a44c0e2",
    "ts": "2026-10-30T13:40:19Z",
@@ -6209,27 +6260,6 @@
    "model": "opus",
    "run_id": "587a73f3d16d",
    "created_at": "2026-10-29T08:31:05Z"
-  },
-  {
-   "id": "16a217ee4de8",
-   "ts": "2026-10-29T08:05:43Z",
-   "headline": "EU energy commissioner says the threat to jet fuel supply security seen this summer has passed",
-   "detail": "The EU's energy chief said there had been a risk to the security of jet fuel supply this summer and that the risk is no longer present.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "0e52dc51d6f5be4a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myysmr5d4e2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myysmr5d4e2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "160ffc57ca12",
-   "created_at": "2026-10-29T08:10:52Z"
   }
  ]
 }
