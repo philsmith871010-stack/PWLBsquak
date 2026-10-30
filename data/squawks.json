@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T20:35:44Z",
+ "generated_at": "2026-10-30T21:10:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f6437c45b99f",
+   "ts": "2026-10-30T21:10:45Z",
+   "headline": "Poland's Sikorski calls for a Black Sea ceasefire and ties any Russian energy sales to Europe to a fair end to the Ukraine war",
+   "detail": "Polish Foreign Minister Sikorski said G20 members discussed food security, freedom of navigation and energy. He said Poland wants a Black Sea ceasefire so Ukrainian and Russian food supplies can be shipped out, and that the war in Ukraine must end fairly if Russia wants to sell energy to Europe again.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b22896e253204722",
+    "c5a1ed1faf510c49",
+    "37aa7167b370254b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4osw2klj2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4osw2klj2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4ovaczlc2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4ovaczlc2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4oxgk2ee2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4oxgk2ee2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8d0f0135c6cd",
+   "created_at": "2026-10-30T21:10:55Z"
+  },
   {
    "id": "f4b59dfd889d",
    "ts": "2026-10-30T20:34:30Z",
@@ -6341,27 +6374,6 @@
    "model": "opus",
    "run_id": "ca1758bb4fa1",
    "created_at": "2026-10-29T13:50:56Z"
-  },
-  {
-   "id": "977acdfbf1fa",
-   "ts": "2026-10-29T13:40:16Z",
-   "headline": "UK September mortgage approvals are the lowest since December 2023; unsecured lending growth is the fastest since 2018",
-   "detail": "Reuters reports that lenders approved the fewest mortgages since December 2023 last month as borrowing costs rose. Unsecured lending to households grew at its fastest annual pace since 2018.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "28201e6be3d35467"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myzfcyl6hc2i",
-     "url": "https://bsky.app/profile/reuters.com/post/3myzfcyl6hc2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ec11ba3fd9ce",
-   "created_at": "2026-10-29T13:40:55Z"
   }
  ]
 }
