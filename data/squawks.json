@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T07:25:42Z",
+ "generated_at": "2026-10-30T07:31:11Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3a556e58d14a",
+   "ts": "2026-10-30T07:28:58Z",
+   "headline": "BoJ's Ueda says he wants to bring the policy rate to a neutral level in an appropriate way",
+   "detail": "Bank of Japan Governor Ueda said this at his press conference after the BoJ held its short-term rate at 1.25%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4c39b1f3c145f0c8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3azybi6y25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3azybi6y25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9211e16c854f",
+   "created_at": "2026-10-30T07:31:11Z"
+  },
   {
    "id": "acc9368127c3",
    "ts": "2026-10-30T07:24:56Z",
@@ -6809,51 +6830,6 @@
    "model": "opus",
    "run_id": "0152e9474af0",
    "created_at": "2026-10-28T18:05:50Z"
-  },
-  {
-   "id": "5b3bebf31af2",
-   "ts": "2026-10-28T18:00:27Z",
-   "headline": "Fed holds rates at 3.75%–4.00% on a 10-2 vote",
-   "detail": "The Federal Reserve left its target range for the federal funds rate at 3.75%–4.00%, as expected, with two FOMC members dissenting. The Fed said gathering more information will help it decide the appropriate policy stance.",
-   "category": "global_rates",
-   "importance": 3,
-   "source_event_ids": [
-    "3dd12d523cd64aec",
-    "e46f0c4a439cb84b",
-    "ca532786a44f3ce3",
-    "67d2d7c4641e808c",
-    "1bc1c164b17d81e3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdfcvfmx2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdfcvfmx2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdg5hupc25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdg5hupc25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdggzgtn2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdggzgtn2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdgkoj5h25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdgkoj5h25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxdgqrhms2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxdgqrhms2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c53c38012065",
-   "created_at": "2026-10-28T18:01:20Z"
   }
  ]
 }
