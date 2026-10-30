@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T13:15:52Z",
+ "generated_at": "2026-10-30T13:35:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cb20692b735a",
+   "ts": "2026-10-30T13:35:37Z",
+   "headline": "Fed's Barkin says the Fed's direction of travel is clear and the open question is the pace, with a gradual approach signalled",
+   "detail": "Richmond Fed President Barkin said in a SiriusXM interview that the Fed has signalled a gradual approach. He added that the Fed will see what it learns over the coming period.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8c8780661137d437",
+    "57908798ff8dcfb4",
+    "f664047a6d8fbb2f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3vicwna42a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3vicwna42a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3vjhwkr32y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3vjhwkr32y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3vjlqmfx22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3vjlqmfx22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4d9851af2c06",
+   "created_at": "2026-10-30T13:35:47Z"
+  },
   {
    "id": "b13d90ca515e",
    "ts": "2026-10-30T13:15:41Z",
@@ -6155,33 +6188,6 @@
    "model": "opus",
    "run_id": "160ffc57ca12",
    "created_at": "2026-10-29T08:10:52Z"
-  },
-  {
-   "id": "410fb3995968",
-   "ts": "2026-10-29T08:05:00Z",
-   "headline": "EU energy commissioner says the bloc uses 18% less gas than in 2022 and is better placed for the current crisis",
-   "detail": "The EU energy commissioner said the bloc is better able to handle the current energy crisis than in 2022 because gas use is 18% lower. The commissioner also said the crisis is made worse by its impact on oil products.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "e6bc9785e7aac1d0",
-    "ff7abfa33fb948c7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyslitysu2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyslitysu2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyskq5hbt2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyskq5hbt2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bed67c180968",
-   "created_at": "2026-10-29T08:05:43Z"
   }
  ]
 }
