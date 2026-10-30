@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T12:25:42Z",
+ "generated_at": "2026-10-30T12:31:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4b1b47f970d0",
+   "ts": "2026-10-30T12:30:45Z",
+   "headline": "US Q3 employment cost index rises 0.8%, in line with consensus; wages and salaries slow to 0.7% from 0.9%",
+   "detail": "US Q3 employment costs rose 0.8%, down from 0.9% in Q2 and matching consensus. Wages and salaries rose 0.7% and benefit costs 0.9%, after 0.9% and 1.0% respectively in Q2.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "1d5d5bdd6771dbe9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3rvmlinj2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3rvmlinj2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "41221f2d4b3e",
+   "created_at": "2026-10-30T12:31:08Z"
+  },
+  {
+   "id": "dd35e6d180df",
+   "ts": "2026-10-30T12:28:22Z",
+   "headline": "Iran's IRGC says three oil tankers hit mines in Hormuz on Friday; burning supertanker carrying over 2m barrels abandoned",
+   "detail": "The IRGC says the latest vessel was the third oil tanker to strike a mine on Friday, and Iranian state broadcaster IRIB says a supertanker holding more than 2 million barrels has been abandoned and is on fire at the mouth of the Strait. Separately, the FT reports that attackers in a speedboat hit a tanker with limpet mines on Thursday, the first such incident since 2019.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "137ead8de69834c9",
+    "f15a76e6b95f2f0c",
+    "c87a633d925e62e3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3rreblc72d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3rreblc72d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3rqeta4q24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3rqeta4q24"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mz3rtixukf2t",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mz3rtixukf2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "41221f2d4b3e",
+   "created_at": "2026-10-30T12:31:08Z"
+  },
   {
    "id": "1002f6b3c834",
    "ts": "2026-10-30T12:23:30Z",
@@ -6122,114 +6176,6 @@
    "model": "opus",
    "run_id": "b34311fc69b8",
    "created_at": "2026-10-29T07:01:17Z"
-  },
-  {
-   "id": "deab38c5070a",
-   "ts": "2026-10-29T05:07:46Z",
-   "headline": "China opposes US move to put Chinese firms on a Xinjiang-related entity list and vows to protect its interests",
-   "detail": "China's commerce ministry said the US listing of Chinese companies goes against the consensus reached by the two heads of state. It called on Washington to stop immediately and said China will take the steps needed to protect its interests.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "980ae0b36bcad89a",
-    "25939d4289d4e783",
-    "cfdd9ae8182704fc",
-    "715164fa2c96829e",
-    "2be9f14917d6c03e",
-    "c39c9e3f6da3a41c",
-    "726dd117e7dd209c",
-    "5f3d3c9cbd08ce34",
-    "940d1fd0b387a610"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyiokvqo522",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyiokvqo522"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyiomu4j32z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyiomu4j32z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyipn65r32b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyipn65r32b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyiqsgitq2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyiqsgitq2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyiswfzis2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyiswfzis2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyiv4dalx2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyiv4dalx2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyivgmfw72a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyivgmfw72a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyivqybw72f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyivqybw72f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyiw3delw25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyiw3delw25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2dc187fe8b50",
-   "created_at": "2026-10-29T06:15:50Z"
-  },
-  {
-   "id": "a56773374d60",
-   "ts": "2026-10-29T04:30:52Z",
-   "headline": "Bank of Korea board member Hwang says it is time to focus on inflation and the won is moving faster than expected",
-   "detail": "Hwang said the Bank of Korea is watching the FX market closely and that high borrowing costs are limiting gains for small and medium firms. He cited an upward revision to the 2026 current account surplus to $500bn from $450bn.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "67de96398e60e861",
-    "e5b7c261f8523f2f",
-    "c5ac0c18eb4ed0ce",
-    "5ea71fd0672367cb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myygmlvumn2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myygmlvumn2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myygnmg3ba2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myygnmg3ba2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myygnwpxff2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myygnwpxff2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myygo2pzjx25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myygo2pzjx25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c6ee3703df7b",
-   "created_at": "2026-10-29T06:10:57Z"
   }
  ]
 }
