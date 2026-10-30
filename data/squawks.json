@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T13:10:58Z",
+ "generated_at": "2026-10-30T13:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b13d90ca515e",
+   "ts": "2026-10-30T13:15:41Z",
+   "headline": "OBR chair Haskel says revised ONS productivity figures leave the UK productivity puzzle unresolved",
+   "detail": "OBR Chair Jonathan Haskel made the remarks about the ONS's revised productivity numbers at a Resolution Foundation event on 29 October, the think tank reports.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "824a3dcf6b179a1a"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mz3ufwwyna2i",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mz3ufwwyna2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9a38f50693de",
+   "created_at": "2026-10-30T13:15:52Z"
+  },
   {
    "id": "9675ffe09209",
    "ts": "2026-10-30T13:08:39Z",
@@ -6156,27 +6177,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyskq5hbt2a",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyskq5hbt2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bed67c180968",
-   "created_at": "2026-10-29T08:05:43Z"
-  },
-  {
-   "id": "5f9d0c25a146",
-   "ts": "2026-10-29T08:02:28Z",
-   "headline": "South Korea sets November treasury bond issuance at 12tn won",
-   "detail": "South Korea will issue 12tn won of treasury bonds in November. The finance minister had earlier said Seoul would review November issuance in response to market turbulence.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "f3f481566741e91a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myysgxojyg2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myysgxojyg2p"
     }
    ],
    "model": "opus",
