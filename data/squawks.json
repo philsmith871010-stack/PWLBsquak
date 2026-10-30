@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T09:40:51Z",
+ "generated_at": "2026-10-30T09:45:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5626b1f7fb01",
+   "ts": "2026-10-30T09:45:18Z",
+   "headline": "ECB's Nagel says the ECB will act decisively if needed",
+   "detail": "Bundesbank President and ECB Governing Council member Joachim Nagel said the central bank is prepared to take decisive action if required. He spoke after earlier saying that a price rise in the coming weeks cannot be ruled out.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b7bcfe1ce8504da7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3inr365f2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3inr365f2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "55727ebd9070",
+   "created_at": "2026-10-30T09:45:55Z"
+  },
   {
    "id": "d6bdfc3e2d2d",
    "ts": "2026-10-30T09:38:27Z",
@@ -6251,27 +6272,6 @@
    "model": "opus",
    "run_id": "14980854b8fc",
    "created_at": "2026-10-28T19:55:41Z"
-  },
-  {
-   "id": "b617b1ba81c5",
-   "ts": "2026-10-28T19:46:13Z",
-   "headline": "Iran proposal also covers lifting the blockade, the nuclear issue and the return of inspectors, Al Arabiya says",
-   "detail": "Al Arabiya reports that the schedule of the new proposal under discussion with Iran covers reopening the Strait of Hormuz, lifting the blockade, dealing with Iran's nuclear programme and calling in inspectors. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5a9a413313fdbb7c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxjchhh7p2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxjchhh7p2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "35df79181c61",
-   "created_at": "2026-10-28T19:50:51Z"
   }
  ]
 }
