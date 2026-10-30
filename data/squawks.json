@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T13:55:44Z",
+ "generated_at": "2026-10-30T14:05:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4a8aeee036c0",
+   "ts": "2026-10-30T14:03:19Z",
+   "headline": "China's commerce ministry opposes US FCC curbs on Chinese testing labs and says further countermeasures will follow if the US continues",
+   "detail": "China's commerce ministry says the FCC vote restricting Chinese testing labs breaches a consensus agreed between the two heads of state and seriously disrupts the stability of global supply chains. It says Beijing had repeatedly proposed talks on a mutual recognition pact but the US stance was extremely negative, and that China will take further countermeasures if the US continues.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "369b9f8b8737f827",
+    "03be1d542b87bfb4",
+    "c089306a768732e4",
+    "92cce2abaf886e02",
+    "364a64f4c7280611"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3x24eero2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3x24eero2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3x2yhnks25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3x2yhnks25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3x34qjsf2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3x34qjsf2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3x3xlqph2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3x3xlqph2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3x64fwgp2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3x64fwgp2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "79926828dce6",
+   "created_at": "2026-10-30T14:05:44Z"
+  },
   {
    "id": "ec0addb05745",
    "ts": "2026-10-30T13:51:16Z",
@@ -6240,27 +6285,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyvozqwup2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyvozqwup2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "826bb7d76f38",
-   "created_at": "2026-10-29T09:01:19Z"
-  },
-  {
-   "id": "3bf09401ada1",
-   "ts": "2026-10-29T08:57:55Z",
-   "headline": "Trump administration is in continuing talks on a temporary peace deal, Semafor reports",
-   "detail": "Semafor reports that the US administration is in ongoing talks on a temporary peace deal. The report did not say which conflict the talks cover.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "13fb1bf9e025025e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyvk45ki322",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyvk45ki322"
     }
    ],
    "model": "opus",
