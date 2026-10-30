@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T18:50:52Z",
+ "generated_at": "2026-10-30T18:55:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "40c53a58a9a0",
+   "ts": "2026-10-30T18:53:34Z",
+   "headline": "US Treasury report finds the blockade and sanctions are crippling Iran's economy, Axios reports",
+   "detail": "Axios cites a US Treasury report saying the US blockade and sanctions are inflicting severe damage on Iran's economy. The report adds to the running US-Iran pressure campaign story.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "317e8d4d444aabab"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4hc5i32l25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4hc5i32l25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "06048adfaa7c",
+   "created_at": "2026-10-30T18:55:46Z"
+  },
   {
    "id": "8c427e525b19",
    "ts": "2026-10-30T18:48:43Z",
@@ -6443,33 +6464,6 @@
    "model": "opus",
    "run_id": "27a27a71d6c6",
    "created_at": "2026-10-29T13:15:52Z"
-  },
-  {
-   "id": "a00fa4feff60",
-   "ts": "2026-10-29T13:08:02Z",
-   "headline": "France's Macron thanks Lagarde and says the ECB leadership handover must be orderly and balanced, prepared with European partners",
-   "detail": "French President Macron thanked Christine Lagarde after the ECB confirmed her resignation as President, effective 7 February. He said the transition at the top of the ECB should now be prepared with European partners in an orderly and balanced way.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "fef80970fbd4e16f",
-    "37ad02bf978d423e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzdfzpmlf2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzdfzpmlf2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzdjefg3x25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzdjefg3x25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "885e259b09aa",
-   "created_at": "2026-10-29T13:10:51Z"
   }
  ]
 }
