@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T12:35:45Z",
+ "generated_at": "2026-10-30T12:40:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7c8508014e78",
+   "ts": "2026-10-30T12:38:23Z",
+   "headline": "US Treasury yields hold most of their losses after US data; 10-year down 6.22bp at 4.927%, 2-year down 7.05bp at 4.586%",
+   "detail": "US Treasury yields mostly held their declines after the release of US economic data. The 10-year yield was last 6.22bp lower at 4.927% and the 2-year yield 7.05bp lower at 4.586%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "724a1ccbbb907ab3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3sdbf6i72d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3sdbf6i72d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5998b2afd8ba",
+   "created_at": "2026-10-30T12:40:53Z"
+  },
+  {
+   "id": "dc97e0970cda",
+   "ts": "2026-10-30T12:37:45Z",
+   "headline": "Russia plans to extend its diesel export ban, with some exceptions, to the end of January",
+   "detail": "Interfax reports that Russia plans to extend the diesel export ban, with certain exceptions, until the end of January. TASS cites Deputy Prime Minister Novak as saying Russia plans to export 510,000 tonnes of diesel in October and 2.15m tonnes in November.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "c3b3b49954bd491d",
+    "a8322736bbc829b8",
+    "271341bc5ca21f23"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3sc52boj25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3sc52boj25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3sdlppvy2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3sdlppvy2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3seindaw2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3seindaw2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5998b2afd8ba",
+   "created_at": "2026-10-30T12:40:53Z"
+  },
   {
    "id": "ebed94dd965e",
    "ts": "2026-10-30T12:35:12Z",
@@ -6104,48 +6158,6 @@
    "model": "opus",
    "run_id": "1e0b5c8451b0",
    "created_at": "2026-10-29T07:20:54Z"
-  },
-  {
-   "id": "c525eb3e2b97",
-   "ts": "2026-10-29T07:15:18Z",
-   "headline": "China's commerce ministry says it will take all necessary measures if the EU imposes discriminatory restrictions on Chinese goods",
-   "detail": "China's Ministry of Commerce issued the warning about any EU curbs on Chinese products on 29 October. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "77d0bdd1e5a3e8ab"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myypsmxnn724",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myypsmxnn724"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8973a890e0c2",
-   "created_at": "2026-10-29T07:15:53Z"
-  },
-  {
-   "id": "f4ebc0249eaf",
-   "ts": "2026-10-29T07:06:07Z",
-   "headline": "Healey commits to cutting welfare spending before the next election, with plans due by the end of the year",
-   "detail": "The Financial Times reports that the Chancellor, having delivered her first Budget, has promised to publish plans by the end of the year to reduce a welfare bill she called unsustainable.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "4611ee48aff95896"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myypc6uymq2x",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myypc6uymq2x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b096494f2e29",
-   "created_at": "2026-10-29T07:10:52Z"
   }
  ]
 }
