@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T18:45:56Z",
+ "generated_at": "2026-10-30T18:50:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8c427e525b19",
+   "ts": "2026-10-30T18:48:43Z",
+   "headline": "Brent crude futures settle up 2.4% at $117.64 a barrel",
+   "detail": "Brent crude futures settled $2.76 higher at $117.64 a barrel, a gain of 2.4%.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "47872a8225fa8b77"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4gzhwwdw2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4gzhwwdw2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2e9b43879bc1",
+   "created_at": "2026-10-30T18:50:52Z"
+  },
   {
    "id": "38ba87981082",
    "ts": "2026-10-30T18:45:16Z",
@@ -6449,27 +6470,6 @@
    "model": "opus",
    "run_id": "885e259b09aa",
    "created_at": "2026-10-29T13:10:51Z"
-  },
-  {
-   "id": "9903ea8e027a",
-   "ts": "2026-10-29T13:04:26Z",
-   "headline": "EUR/GBP falls to its lowest level since April 2025 as sterling firms against the euro",
-   "detail": "A market commentary account reported that the euro fell against sterling to its lowest level since April 2025. The post gave no exchange rate.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "60b64dfd5a2d310c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzdcw4bnu2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzdcw4bnu2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "608d16a12bcc",
-   "created_at": "2026-10-29T13:05:41Z"
   }
  ]
 }
