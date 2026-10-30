@@ -1,8 +1,110 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T06:15:52Z",
+ "generated_at": "2026-10-30T06:20:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fdb2c5fdf841",
+   "ts": "2026-10-30T06:16:48Z",
+   "headline": "ECB's Simkus says risk of energy spillover has risen but second-round effects are not yet visible",
+   "detail": "ECB Governing Council member Simkus said the likelihood of energy prices spilling over into wider inflation has increased. He added that second-round effects are not yet visible.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "06884e5b49b92ab4",
+    "b1b345d721620d83"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz34ywkgte2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz34ywkgte2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz352gz7c32a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz352gz7c32a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "80d797073ce6",
+   "created_at": "2026-10-30T06:20:54Z"
+  },
+  {
+   "id": "92b073395278",
+   "ts": "2026-10-30T06:10:59Z",
+   "headline": "Sterling moves above $1.3350 in early trade",
+   "detail": "A market report said sterling rose past 1.3350 against the dollar but stayed below its 100-day moving average.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e69999fbd2cf03b9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz34okaobq2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz34okaobq2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "80d797073ce6",
+   "created_at": "2026-10-30T06:20:54Z"
+  },
+  {
+   "id": "841ea40c1a9c",
+   "ts": "2026-10-30T05:02:58Z",
+   "headline": "Japan's 20-year JGB yield falls 6.5bp to 3.605% after BoJ decision",
+   "detail": "The 20-year Japanese government bond yield dropped 6.5bp to 3.605% following the Bank of Japan's decision to hold rates. Market reports also said the yen strengthened and the Nikkei fell further after the decision.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e5c1a24876638f69",
+    "3ec2260d5c25a0fb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2yuvswkn2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2yuvswkn2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2ydnl5w224",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2ydnl5w224"
+    }
+   ],
+   "model": "opus",
+   "run_id": "80d797073ce6",
+   "created_at": "2026-10-30T06:20:54Z"
+  },
+  {
+   "id": "665ed14ad0aa",
+   "ts": "2026-10-30T05:00:27Z",
+   "headline": "BoJ raises its inflation forecast while keeping rates on hold",
+   "detail": "Reuters reports that the Bank of Japan revised up its inflation forecast on Friday and said again that it was ready to keep raising borrowing costs to head off growing inflation risks.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "46a0749abb926998",
+    "8eaddc45ae35d76f"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mz2yqg7moo2x",
+     "url": "https://bsky.app/profile/reuters.com/post/3mz2yqg7moo2x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2ypk6kae2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2ypk6kae2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "80d797073ce6",
+   "created_at": "2026-10-30T06:20:54Z"
+  },
   {
    "id": "a020dd182070",
    "ts": "2026-10-30T04:32:46Z",
@@ -6650,90 +6752,6 @@
    "model": "opus",
    "run_id": "a11db88a01c8",
    "created_at": "2026-10-28T15:35:41Z"
-  },
-  {
-   "id": "f2545494e73a",
-   "ts": "2026-10-28T15:18:43Z",
-   "headline": "Budget's cost of living package centres on a £100 council tax rebate for Band A–D homes to help with winter energy bills",
-   "detail": "According to the Resolution Foundation, the main measure in the Chancellor's cost of living package is a £100 council tax rebate for households in Bands A to D, aimed at rising energy bills this winter.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "59960a6c55b9349e"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3myx2e4oz7v2o",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3myx2e4oz7v2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6c9d3fb1ebe4",
-   "created_at": "2026-10-28T15:20:57Z"
-  },
-  {
-   "id": "58a535b5ad57",
-   "ts": "2026-10-28T15:14:33Z",
-   "headline": "IFS says current budget surplus by 2029-30 is still on track but smaller, with day-to-day borrowing likely in 2028-29",
-   "detail": "The Institute for Fiscal Studies says the government remains on track for a current budget surplus by 2029-30, but a smaller one, with more of the fall in borrowing coming in later years. It says the government is now likely to be borrowing for day-to-day spending in 2028-29.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "17c4c482188ca810"
-   ],
-   "sources": [
-    {
-     "author": "theifs.bsky.social",
-     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3myx24nf2a22g",
-     "url": "https://bsky.app/profile/theifs.bsky.social/post/3myx24nf2a22g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "84a13d2bda32",
-   "created_at": "2026-10-28T15:15:51Z"
-  },
-  {
-   "id": "11bb6d3b3f0e",
-   "ts": "2026-10-28T15:14:03Z",
-   "headline": "UK markets react calmly to Healey's first Budget after pledge to keep to borrowing rules",
-   "detail": "Reuters reports that UK markets took the chancellor's first Budget calmly on Wednesday. Investors drew comfort from the government's commitment to stick to its borrowing rules.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "1bcf6013866d9245"
-   ],
-   "sources": [
-    {
-     "author": "bruceandy.bsky.social",
-     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3myx23qu4ee26",
-     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3myx23qu4ee26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "84a13d2bda32",
-   "created_at": "2026-10-28T15:15:51Z"
-  },
-  {
-   "id": "ca7bd78dd6ba",
-   "ts": "2026-10-28T15:12:44Z",
-   "headline": "Mexico's Sheinbaum says US trade deal talks continue and Mexico is weighing whether a deal before the midterms is possible",
-   "detail": "Mexican President Claudia Sheinbaum said talks with the US on a trade deal are continuing. Mexico is assessing whether an agreement can be reached before the US midterm elections.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "efce44b85a864c07"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mywzzfwb3k2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mywzzfwb3k2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "84a13d2bda32",
-   "created_at": "2026-10-28T15:15:51Z"
   }
  ]
 }
