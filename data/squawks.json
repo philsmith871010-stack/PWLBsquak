@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T21:25:43Z",
+ "generated_at": "2026-10-30T21:50:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "44167336cc1a",
+   "ts": "2026-10-30T21:46:05Z",
+   "headline": "US approves $2.1bn sale of Patriot interceptors to Ukraine",
+   "detail": "The Financial Times reports that the US has approved a $2.1bn sale of Patriot interceptors to Ukraine. President Zelenskyy had accused the Trump administration of holding up the weapons as relations between the two countries worsened.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5210c1e22bdeb7dc"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mz4qwmqjit24",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mz4qwmqjit24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "91e04780dfa2",
+   "created_at": "2026-10-30T21:50:56Z"
+  },
   {
    "id": "fab15162fadc",
    "ts": "2026-10-30T21:21:05Z",
@@ -6354,51 +6375,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzfvy44lr2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzfvy44lr2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ca1758bb4fa1",
-   "created_at": "2026-10-29T13:50:56Z"
-  },
-  {
-   "id": "892bee1eac7c",
-   "ts": "2026-10-29T13:49:35Z",
-   "headline": "White House adviser Hassett says Trump believes rates can be lower but respects Fed independence",
-   "detail": "Speaking to Fox Business, Hassett said inflation came in close to expectations, that GDP is moving towards 4% growth and that a supply-side boom is pushing prices down. He said Trump thinks rates can be lower and respects the Fed's independence.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7960fa0a061a829f",
-    "5e25bd40ea74d39c",
-    "678ec2c8960874b2",
-    "9d226fb6093c871d",
-    "315e018efcb7e956"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzftndi2t25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzftndi2t25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzfnv3u372f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzfnv3u372f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzfpoer2j2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzfpoer2j2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzfqj36mw24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzfqj36mw24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzfufuli32p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzfufuli32p"
     }
    ],
    "model": "opus",
