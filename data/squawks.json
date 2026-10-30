@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T14:45:54Z",
+ "generated_at": "2026-10-30T14:50:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cd77bdd8bbfc",
+   "ts": "2026-10-30T14:48:25Z",
+   "headline": "Russia's Novak says October oil output is above September's, with December diesel export plan due at the end of November",
+   "detail": "Russian Deputy Prime Minister Novak says Russian oil production in October was higher than in September. He adds that Russia will set its plan for December diesel exports at the end of November.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "43e8e4d77a9f0c31",
+    "437ac5d1dcf5e7fd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3zlrmhye22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3zlrmhye22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3zpk3wp32f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3zpk3wp32f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "66cfdb90d087",
+   "created_at": "2026-10-30T14:50:54Z"
+  },
+  {
+   "id": "708d5ed7402c",
+   "ts": "2026-10-30T14:47:18Z",
+   "headline": "Fitch says the UK budget keeps broad policy continuity but leaves a large delivery challenge, and still expects significant fiscal slippage",
+   "detail": "Fitch Ratings says the UK fiscal consolidation plan becomes much harder to deliver from 2027 and expects significant slippage against spending plans. It also sees moderately more policy risk as the next general election approaches.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "1825531d9172b215",
+    "f64844504c81c8b8",
+    "728177f1bac3ea89",
+    "9982bb951390da36"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3zjrr5522g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3zjrr5522g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3zluhxdu25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3zluhxdu25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3zlwcbhc2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3zlwcbhc2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3zmn33k22k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3zmn33k22k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "66cfdb90d087",
+   "created_at": "2026-10-30T14:50:54Z"
+  },
   {
    "id": "b0b39d32fffd",
    "ts": "2026-10-30T14:45:53Z",
@@ -6224,54 +6290,6 @@
    "model": "opus",
    "run_id": "6381f7ec2877",
    "created_at": "2026-10-29T10:10:54Z"
-  },
-  {
-   "id": "71812a5d87de",
-   "ts": "2026-10-29T10:01:46Z",
-   "headline": "Lagarde's successor at the ECB is to be appointed by the European Council under the EU treaty nomination process",
-   "detail": "The European Council will appoint the next ECB President using the nomination procedure in Article 283 of the Treaty on the Functioning of the European Union. This follows Lagarde telling staff she plans to step down on 7 February.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "efccc3fc3f7bfdb6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyz4cgc422y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyz4cgc422y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b318d144fa72",
-   "created_at": "2026-10-29T10:05:44Z"
-  },
-  {
-   "id": "8cb4ba41bd1b",
-   "ts": "2026-10-29T09:58:41Z",
-   "headline": "ECB President Lagarde tells staff she plans to step down on 7 February",
-   "detail": "Reports on 29 October say ECB President Christine Lagarde has told staff she intends to leave her post on 7 February. The reports give no reason for her departure and name no successor.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "9947c70eedcf6496",
-    "7b8593e6eca4c4a7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyywrm6bj2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyywrm6bj2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyyycckgf25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyyycckgf25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d0cf087214b6",
-   "created_at": "2026-10-29T10:01:17Z"
   }
  ]
 }
