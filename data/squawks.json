@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T11:45:51Z",
+ "generated_at": "2026-10-30T12:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "784012bb69db",
+   "ts": "2026-10-30T12:03:37Z",
+   "headline": "Kremlin says Kyiv is disregarding Trump's calls to halt strikes on Russian oil refineries",
+   "detail": "Kremlin aide Ushakov said on Friday that Ukraine has not heeded Trump's repeated demands to stop attacking Russian refineries.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "130cf23f622a6ee6",
+    "195b478b95b4d3b8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3qf3zjks2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3qf3zjks2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3qgxp6uo25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3qgxp6uo25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7eb39d03f51d",
+   "created_at": "2026-10-30T12:05:41Z"
+  },
   {
    "id": "a713045ea40d",
    "ts": "2026-10-30T11:44:39Z",
@@ -6180,33 +6207,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3myy2uxxfve2a",
      "url": "https://bsky.app/profile/reuters.com/post/3myy2uxxfve2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dec5c96a22cc",
-   "created_at": "2026-10-29T06:05:42Z"
-  },
-  {
-   "id": "b7197f6515b4",
-   "ts": "2026-10-29T00:50:05Z",
-   "headline": "JGB yields rise ahead of the BoJ policy announcement, with the 5-year up 1.5bp at 2.28%",
-   "detail": "The 5-year Japanese government bond yield rose 1.5bp to 2.28% as investors waited for the Bank of Japan's policy decision, WSJ reported.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "37248229f25c111a",
-    "ceef16f818e3aa7d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myy2bs7eza2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myy2bs7eza2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myy67wr3qn22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myy67wr3qn22"
     }
    ],
    "model": "opus",
