@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T18:35:45Z",
+ "generated_at": "2026-10-30T18:45:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "38ba87981082",
+   "ts": "2026-10-30T18:45:16Z",
+   "headline": "US orders non-emergency government staff to leave Saudi Arabia, citing Houthi attacks on airports and infrastructure",
+   "detail": "The US embassy in Riyadh said on Friday that non-emergency government employees and their families have been ordered to leave Saudi Arabia, effective 23 October, because of safety risks, Reuters reports. The embassy cited Houthi attacks on civilian airports and other critical infrastructure.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "870168268db40b36"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mz4gtcguor2t",
+     "url": "https://bsky.app/profile/reuters.com/post/3mz4gtcguor2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5da2662d1dd2",
+   "created_at": "2026-10-30T18:45:56Z"
+  },
   {
    "id": "e2760d4b5c45",
    "ts": "2026-10-30T18:31:59Z",
@@ -6449,27 +6470,6 @@
    "model": "opus",
    "run_id": "608d16a12bcc",
    "created_at": "2026-10-29T13:05:41Z"
-  },
-  {
-   "id": "d29caf70afd3",
-   "ts": "2026-10-29T12:52:32Z",
-   "headline": "US September PCE supercore inflation rises to 3.596% year on year from 3.493%; monthly pace at 0.367%",
-   "detail": "US PCE supercore prices rose 3.596% on the year in September, up from 3.493% the previous month. The monthly rate was 0.367%, compared with 0.373% previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ba0d2a49b1c848ae"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzcnnrcan2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzcnnrcan2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ba9380b8443e",
-   "created_at": "2026-10-29T12:55:46Z"
   }
  ]
 }
