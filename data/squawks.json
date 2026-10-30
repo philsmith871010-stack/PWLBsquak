@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T11:20:50Z",
+ "generated_at": "2026-10-30T11:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6099860bf83d",
+   "ts": "2026-10-30T11:24:57Z",
+   "headline": "US Centcom commander says the Strait of Hormuz transit route has been cleared of sea mines",
+   "detail": "The commander of US Central Command said the transit route through the Strait of Hormuz had been cleared of sea mines, and that 1.5 billion barrels of crude had been exported through the strait since the summer. He added that he saw no IRGC presence when he visited the strait earlier this week.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "af9d711c655a4952",
+    "3e1c5200217fbfb8",
+    "04e2bffd233b18a0",
+    "3578c2b7a8644c09"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3o7wzmmr24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3o7wzmmr24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3oaqzeqd2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3oaqzeqd2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3o6gyrov2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3o6gyrov2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3o7a5umb24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3o7a5umb24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "46f3fd63a6fe",
+   "created_at": "2026-10-30T11:25:42Z"
+  },
   {
    "id": "068b07c61f4e",
    "ts": "2026-10-30T11:18:52Z",
@@ -6185,27 +6224,6 @@
    "model": "opus",
    "run_id": "19541afefbb7",
    "created_at": "2026-10-28T20:40:57Z"
-  },
-  {
-   "id": "79a1c4ec2483",
-   "ts": "2026-10-28T20:29:42Z",
-   "headline": "Budget confirms £1.5bn of devolved loans for mayoral authorities plus extra funding for social housing and rough sleeping",
-   "detail": "Inside Housing reports that the Chancellor's Budget repeats the Prime Minister's earlier announcement giving mayoral authorities access to £1.5bn of devolved loans. The Budget also confirms more funding for the Social and Affordable Homes Programme and for rough sleeping.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "d8e0788b3e1adac0"
-   ],
-   "sources": [
-    {
-     "author": "insidehousing.bsky.social",
-     "uri": "at://did:plc:4crnjat2gafdo4ezfzxgd3gg/app.bsky.feed.post/3myxlq6sbnb2g",
-     "url": "https://bsky.app/profile/insidehousing.bsky.social/post/3myxlq6sbnb2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e7b040ab4771",
-   "created_at": "2026-10-28T20:31:10Z"
   }
  ]
 }
