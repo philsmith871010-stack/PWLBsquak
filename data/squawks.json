@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T16:55:45Z",
+ "generated_at": "2026-10-30T17:01:18Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "af59b2b8625d",
+   "ts": "2026-10-30T17:00:23Z",
+   "headline": "Fed's Musalem says he is focused on preventing second-round inflation effects, such as in services",
+   "detail": "St Louis Fed President Musalem said his focus is on stopping inflation from feeding through in second-round effects, naming the service sector as an example.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0e36067f32b047ca"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4axqlnxt25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4axqlnxt25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "84e486dc097b",
+   "created_at": "2026-10-30T17:01:18Z"
+  },
+  {
+   "id": "aa13717677bf",
+   "ts": "2026-10-30T16:58:10Z",
+   "headline": "UK approves a 2 gigawatt undersea power cable",
+   "detail": "A market news account reported that the UK has given approval for a 2 gigawatt undersea electricity cable. The post did not give further details.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "a88d4ae060fdb786"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4atrw6q62y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4atrw6q62y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "84e486dc097b",
+   "created_at": "2026-10-30T17:01:18Z"
+  },
   {
    "id": "144b64a50986",
    "ts": "2026-10-30T16:54:20Z",
@@ -6411,48 +6453,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbh5rdfl2y",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbh5rdfl2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c3650e424b90",
-   "created_at": "2026-10-29T12:31:04Z"
-  },
-  {
-   "id": "40960b2dd0e7",
-   "ts": "2026-10-29T12:30:58Z",
-   "headline": "US Q3 GDP grows 3.4% in advance estimate, above the 3.2% consensus",
-   "detail": "The advance estimate puts US third-quarter GDP growth at 3.4%, compared with a consensus of 3.2%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "6ed93cdb8170299f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzbh2sffo2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzbh2sffo2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c3650e424b90",
-   "created_at": "2026-10-29T12:31:04Z"
-  },
-  {
-   "id": "9bdee11afc66",
-   "ts": "2026-10-29T12:26:02Z",
-   "headline": "Germany's Merz says the search for Lagarde's successor at the ECB will be finished by the end of the year",
-   "detail": "The German Chancellor said the process to choose the next ECB President will be completed by year-end. Lagarde's resignation takes effect on 7 February.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "f2520b5e6bdbce80"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzb6au5if2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzb6au5if2b"
     }
    ],
    "model": "opus",
