@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T19:25:53Z",
+ "generated_at": "2026-10-30T19:40:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "815bfce05f5b",
+   "ts": "2026-10-30T19:40:20Z",
+   "headline": "White House pushes back hearing on mortgage fraud allegations against Fed Governor Cook to December, Hassett says",
+   "detail": "Kevin Hassett, President Trump's top economic adviser, said the White House hearing into mortgage fraud allegations against Federal Reserve Governor Lisa Cook has been delayed until December, Reuters reports. On Friday, Cook's lawyers would not confirm that any date had been agreed.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f33a220ee122d65a"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mz4jvqu7qg2o",
+     "url": "https://bsky.app/profile/reuters.com/post/3mz4jvqu7qg2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d12b6babfdd8",
+   "created_at": "2026-10-30T19:40:52Z"
+  },
   {
    "id": "3507a7081e17",
    "ts": "2026-10-30T19:22:26Z",
@@ -6419,39 +6440,6 @@
    "model": "opus",
    "run_id": "d738269787ba",
    "created_at": "2026-10-29T13:20:49Z"
-  },
-  {
-   "id": "0a9f4da55f73",
-   "ts": "2026-10-29T13:15:32Z",
-   "headline": "ECB holds rates as expected, with the deposit facility rate at 2.50% and the main refinancing rate at 2.65%",
-   "detail": "The ECB kept its October policy rates unchanged. The deposit facility rate stays at 2.50% and the main refinancing rate at 2.65%, both in line with forecasts, including the Reuters poll.",
-   "category": "global_rates",
-   "importance": 3,
-   "source_event_ids": [
-    "05c8d74da44432e1",
-    "09ddf5db4aee9843",
-    "fa3960b4e188059d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzdwrsqpt22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzdwrsqpt22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzdx6pikz2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzdx6pikz2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzdx7e5ud22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzdx7e5ud22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "27a27a71d6c6",
-   "created_at": "2026-10-29T13:15:52Z"
   }
  ]
 }
