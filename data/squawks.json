@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T11:25:42Z",
+ "generated_at": "2026-10-30T11:31:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0dde2b1315b5",
+   "ts": "2026-10-30T11:25:52Z",
+   "headline": "Kremlin says European representatives will need to take part in Ukraine settlement talks at some point",
+   "detail": "The Kremlin said European participation in talks on a peaceful settlement in Ukraine will be required at some stage. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a44fedc1b1e663d4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3oblikn42k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3oblikn42k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f854cf0765c2",
+   "created_at": "2026-10-30T11:31:06Z"
+  },
   {
    "id": "6099860bf83d",
    "ts": "2026-10-30T11:24:57Z",
@@ -6203,27 +6224,6 @@
    "model": "opus",
    "run_id": "76fc13b0aab0",
    "created_at": "2026-10-28T21:01:18Z"
-  },
-  {
-   "id": "f5c9b49ff356",
-   "ts": "2026-10-28T20:36:49Z",
-   "headline": "Kremlin aide Ushakov says timing of Abu Dhabi talks on Ukraine depends partly on the battlefield situation",
-   "detail": "Kremlin foreign policy aide Yuri Ushakov said the date for the negotiations in Abu Dhabi will depend on factors including the situation on the battlefield and the wider situation. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ce47cf1c3afea2e7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myxm4w3zbw2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myxm4w3zbw2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "19541afefbb7",
-   "created_at": "2026-10-28T20:40:57Z"
   }
  ]
 }
