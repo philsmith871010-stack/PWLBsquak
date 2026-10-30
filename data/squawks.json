@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T14:05:44Z",
+ "generated_at": "2026-10-30T14:10:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "006b7fa353bc",
+   "ts": "2026-10-30T14:09:07Z",
+   "headline": "OBR estimates £3bn-£4bn a year in extra grant needed to return council housebuilding to 1980s levels",
+   "detail": "The Office for Budget Responsibility estimates that returning council housebuilding to 1980s levels could need £3bn to £4bn a year of extra grant funding on top of SAHP money, Inside Housing reports.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "c06a1fcc35be76aa"
+   ],
+   "sources": [
+    {
+     "author": "insidehousing.bsky.social",
+     "uri": "at://did:plc:4crnjat2gafdo4ezfzxgd3gg/app.bsky.feed.post/3mz3xfirn5l2m",
+     "url": "https://bsky.app/profile/insidehousing.bsky.social/post/3mz3xfirn5l2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1a92601e52a1",
+   "created_at": "2026-10-30T14:10:53Z"
+  },
   {
    "id": "4a8aeee036c0",
    "ts": "2026-10-30T14:03:19Z",
@@ -6269,27 +6290,6 @@
    "model": "opus",
    "run_id": "6da9eba9d45b",
    "created_at": "2026-10-29T09:31:07Z"
-  },
-  {
-   "id": "0dfe43019d52",
-   "ts": "2026-10-29T09:00:40Z",
-   "headline": "Italian unemployment rate rises to 6.3%, above the 6.2% forecast",
-   "detail": "Italy's unemployment rate came in at 6.3%, against a forecast of 6.2% and a previous reading of 6.2%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "9095453aaf159fca"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myyvozqwup2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myyvozqwup2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "826bb7d76f38",
-   "created_at": "2026-10-29T09:01:19Z"
   }
  ]
 }
