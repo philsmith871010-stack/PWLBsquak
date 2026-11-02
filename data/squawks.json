@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T15:46:00Z",
+ "generated_at": "2026-11-02T16:01:19Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "040582e53557",
+   "ts": "2026-11-02T15:58:00Z",
+   "headline": "Iran threatens US bases in Europe if the US carries out new airstrikes, The Times reports",
+   "detail": "The Times reports that Iran has threatened to target US bases in Europe in response to any new US airstrikes. No market reaction was reported in the post.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9f60d9f390dba1be"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdouxszjx2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdouxszjx2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "80970843452b",
+   "created_at": "2026-11-02T16:01:19Z"
+  },
   {
    "id": "db62c0230df9",
    "ts": "2026-11-02T15:44:09Z",
@@ -5735,33 +5756,6 @@
    "model": "opus",
    "run_id": "4312f24216c6",
    "created_at": "2026-10-30T07:05:42Z"
-  },
-  {
-   "id": "8acdcf24a651",
-   "ts": "2026-10-30T07:00:56Z",
-   "headline": "German import prices rise 10.4% y/y in September, above 10.3% forecast; up 2.1% m/m",
-   "detail": "German import prices rose 10.4% from a year earlier, against a 10.3% forecast and 8.3% previously. On the month they rose 2.1%, against a 2% forecast and 1.0% previously.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "3c06b4eb1219f34c",
-    "55f2ba05eae09b45"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz37huixe625",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz37huixe625"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz37hwj7oa2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz37hwj7oa2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b8306e2734e8",
-   "created_at": "2026-10-30T07:01:21Z"
   }
  ]
 }
