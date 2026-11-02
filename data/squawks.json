@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T14:31:21Z",
+ "generated_at": "2026-11-02T14:40:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a11e3f271641",
+   "ts": "2026-11-02T14:39:53Z",
+   "headline": "UK 10-year gilt yield heads for its largest one-day drop since 20 May",
+   "detail": "A market report says the 10-year gilt yield is on course for its biggest single-day fall since 20 May.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "27e6aa04e968d0c0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdkjb6hle24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdkjb6hle24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1e66f54b610e",
+   "created_at": "2026-11-02T14:40:58Z"
+  },
   {
    "id": "00c04f43e3d9",
    "ts": "2026-11-02T14:30:52Z",
@@ -5820,45 +5841,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2x6vzapv2a",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2x6vzapv2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2f8a7518054c",
-   "created_at": "2026-10-30T06:15:52Z"
-  },
-  {
-   "id": "937d8950d143",
-   "ts": "2026-10-30T04:00:25Z",
-   "headline": "Japan finance minister Katayama expects BoJ to work closely with government to reach 2% inflation target",
-   "detail": "Japan's finance minister Katayama said she expects the Bank of Japan to keep coordinating closely with the government on the 2% inflation target. She declined to comment on the day's BoJ decision.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1be7d71ff1d91883",
-    "0035a6bb4525945b",
-    "77b6c31090de9420",
-    "d7c5e2c2df6ff97c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2vf35ypl22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2vf35ypl22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2vfv6elu2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2vfv6elu2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2vizq2652b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2vizq2652b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2vjj2avk2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2vjj2avk2d"
     }
    ],
    "model": "opus",
