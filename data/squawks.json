@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T13:40:54Z",
+ "generated_at": "2026-11-02T13:46:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "84a2e7661add",
+   "ts": "2026-11-02T13:40:57Z",
+   "headline": "Brent drops to a fresh intraday low near $106 a barrel",
+   "detail": "Brent was reported trading near $106 a barrel at its intraday low on Monday afternoon. Earlier on Monday it had fallen 3% to $108.34 as hopes grew for an end to the US-Iran conflict.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "2c321856bd3ebca5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdh7vdhlv2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdh7vdhlv2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "794b3ccf9c51",
+   "created_at": "2026-11-02T13:46:06Z"
+  },
   {
    "id": "8dc042f7c256",
    "ts": "2026-11-02T13:37:32Z",
@@ -6161,39 +6182,6 @@
    "model": "opus",
    "run_id": "fd9ce1c17a15",
    "created_at": "2026-10-30T06:05:42Z"
-  },
-  {
-   "id": "a6dc110b608d",
-   "ts": "2026-10-30T01:02:55Z",
-   "headline": "Japanese government bond yields slide, with 10-year at 2.775% and 20-year at 3.620%, ahead of BoJ",
-   "detail": "The 10-year JGB yield slid to 2.775% and the 20-year to 3.620% in Asian trading as traders waited for the Bank of Japan decision.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "052ba0b416f3f944",
-    "2304cd45c5383a66",
-    "38998df15a1dec12"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2lhnz4d62a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2lhnz4d62a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2lydfj7q22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2lydfj7q22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2iux6pzk22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2iux6pzk22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d911a699c10f",
-   "created_at": "2026-10-30T06:01:17Z"
   }
  ]
 }
