@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T19:40:51Z",
+ "generated_at": "2026-11-02T19:56:02Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "695a2c806d52",
+   "ts": "2026-11-02T19:54:02Z",
+   "headline": "Trump says an Iran deal is coming together well, which is why oil is falling, and that the US will stop killing Iran's leaders as asked",
+   "detail": "Speaking at the Reflecting Pool, President Trump said Iran had asked the US to stop killing its leaders and that the US would do so. He said things with Iran were coming together well and linked this to the fall in oil.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "f93a88607142cb99",
+    "f7958fa5d28b1cb2",
+    "c1685dc0029050f7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze3z3dbhu2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze3z3dbhu2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze42zmftr2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze42zmftr2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze45au5yf2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze45au5yf2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8164416e97f5",
+   "created_at": "2026-11-02T19:56:02Z"
+  },
+  {
+   "id": "79aff286d63c",
+   "ts": "2026-11-02T19:53:01Z",
+   "headline": "Brent crude futures settle down $8.66, or 7.63%, at $104.77 a barrel",
+   "detail": "Brent settles at $104.77 a barrel, down $8.66 or 7.63% on the day, amid hopes of a deal to end the Iran war.",
+   "category": "energy",
+   "importance": 3,
+   "source_event_ids": [
+    "60e20f2154784766"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze3z75v5v2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze3z75v5v2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8164416e97f5",
+   "created_at": "2026-11-02T19:56:02Z"
+  },
   {
    "id": "212c6f47a028",
    "ts": "2026-11-02T19:36:28Z",
@@ -5714,60 +5768,6 @@
    "model": "opus",
    "run_id": "3c402acf197f",
    "created_at": "2026-10-30T08:56:16Z"
-  },
-  {
-   "id": "5d55dd556655",
-   "ts": "2026-10-30T08:55:11Z",
-   "headline": "Japan's Katayama says the budget process will consider how much surplus the BoJ's ETF sales produce and how to handle it",
-   "detail": "Japan's finance minister Katayama said the government would consider the specific amount of surplus from the BoJ's ETF sales, and how to treat it, when drawing up the budget.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "16986703090eca62"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3fu53lj725",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3fu53lj725"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3c402acf197f",
-   "created_at": "2026-10-30T08:56:16Z"
-  },
-  {
-   "id": "299196299816",
-   "ts": "2026-10-30T08:46:56Z",
-   "headline": "ECB's Rehn says growth and inflation outlook remains highly uncertain and upside inflation risks are still elevated",
-   "detail": "ECB Governing Council member Olli Rehn said the outlook for growth and inflation is still very uncertain and that risks of higher inflation remain clearly elevated. He added that policymakers need to stay vigilant about second-round effects.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4de1c59ac1036112",
-    "27b0ccabdca6b81e",
-    "563f43faf8e45ad2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3fffiy552p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3fffiy552p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3fip4xz624",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3fip4xz624"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3fkdqwt425",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3fkdqwt425"
-    }
-   ],
-   "model": "opus",
-   "run_id": "36e26f7bed6c",
-   "created_at": "2026-10-30T08:50:51Z"
   }
  ]
 }
