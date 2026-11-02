@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T16:01:19Z",
+ "generated_at": "2026-11-02T16:25:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6b9958f2db03",
+   "ts": "2026-11-02T16:24:51Z",
+   "headline": "Brent futures drop by more than $8 a barrel on hopes of progress towards ending the Iran war",
+   "detail": "Brent crude futures were reported down by more than $8 a barrel on the day, as hopes grew for progress towards ending the US-Iran conflict.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "c2d79c8a82406bd8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqeyi6xv2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqeyi6xv2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4e68f9e20185",
+   "created_at": "2026-11-02T16:25:48Z"
+  },
   {
    "id": "040582e53557",
    "ts": "2026-11-02T15:58:00Z",
@@ -5729,33 +5750,6 @@
    "model": "opus",
    "run_id": "f8cd3cd4da9c",
    "created_at": "2026-10-30T07:10:52Z"
-  },
-  {
-   "id": "e51d3b12372a",
-   "ts": "2026-10-30T07:02:25Z",
-   "headline": "Nationwide UK house prices flat m/m in October against -0.2% forecast; annual growth slows to 0.5%",
-   "detail": "Nationwide's October index shows UK house prices unchanged on the month, after -0.2% in September, against a -0.2% forecast. Annual growth (NSA) eases to 0.5% from 0.8%, below the 0.6% forecast.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "e0a024798fee0773",
-    "4b88e679c455f575"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz37kie2nd2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz37kie2nd2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz37lb2hqg2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz37lb2hqg2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4312f24216c6",
-   "created_at": "2026-10-30T07:05:42Z"
   }
  ]
 }
