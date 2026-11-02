@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T11:45:51Z",
+ "generated_at": "2026-11-02T11:50:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "11a4793a4e28",
+   "ts": "2026-11-02T11:49:34Z",
+   "headline": "Equinor CEO says Europe enters winter more vulnerable than usual, with gas storage at its lowest in 15 years",
+   "detail": "The Equinor chief executive said European gas storage is at the lowest level the company has seen in 15 years, leaving the region more exposed than normal going into winter. He also said more customers are seeking long-term Norwegian gas contracts, with pipeline gas deals now running to 15 years and beyond.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "071760192431318e",
+    "608f6e4681043740",
+    "a3455017eafea03a",
+    "d235555bf0309d96"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdayqj53z25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdayqj53z25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdb2bqf2b2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdb2bqf2b2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdatl6kk32k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdatl6kk32k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdavrs4c322",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdavrs4c322"
+    }
+   ],
+   "model": "opus",
+   "run_id": "704e928b992b",
+   "created_at": "2026-11-02T11:50:52Z"
+  },
   {
    "id": "93e1e6566880",
    "ts": "2026-11-02T11:45:08Z",
@@ -6281,33 +6320,6 @@
    "model": "opus",
    "run_id": "26febd751733",
    "created_at": "2026-10-29T19:50:50Z"
-  },
-  {
-   "id": "6a26b2aad7b6",
-   "ts": "2026-10-29T19:15:46Z",
-   "headline": "Top US Middle East commander briefs Trump in person on Iran military options as US weighs resuming major combat, WSJ reports",
-   "detail": "The Wall Street Journal, citing US officials and others with direct knowledge, says the commander briefed Trump at the White House on Thursday. The report describes the in-person visit as rare.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "45dbb5821f01223d",
-    "5cae33398c8d57ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzy2vgvbg2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzy2vgvbg2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzxzxdmpp2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzxzxdmpp2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d27d77049992",
-   "created_at": "2026-10-29T19:15:53Z"
   }
  ]
 }
