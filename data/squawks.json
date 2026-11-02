@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T18:10:57Z",
+ "generated_at": "2026-11-02T18:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d6f0c0c6a928",
+   "ts": "2026-11-02T18:34:09Z",
+   "headline": "Iran's Fars News, citing a source, says there is no new development in message exchanges with the US",
+   "detail": "A source quoted by Fars News Agency said exchanges with the US through intermediaries are routine and there will be no new steps until the US meets Iran's seven conditions. The source also said the Strait of Hormuz is under Iran's full military control.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f47d55a69f6548ca",
+    "ce2789ea1b144eaf",
+    "0b94ecdf897a2922"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdxm6icps2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdxm6icps2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdxnpc24g2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdxnpc24g2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdxntatzn2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdxntatzn2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cf56119a2b50",
+   "created_at": "2026-11-02T18:35:44Z"
+  },
   {
    "id": "c70da658cd37",
    "ts": "2026-11-02T18:10:42Z",
@@ -5711,33 +5744,6 @@
    "model": "opus",
    "run_id": "f48b1f161dff",
    "created_at": "2026-10-30T08:05:44Z"
-  },
-  {
-   "id": "cb0467adb06b",
-   "ts": "2026-10-30T08:01:09Z",
-   "headline": "Spanish flash October HICP eases to 4.9% y/y, in line with forecast and down from 5.0%; up 0.5% m/m",
-   "detail": "Spain's flash October HICP rose 4.9% y/y, matching the 4.9% forecast, after 5.0% the month before. On the month it rose 0.5%, also in line with forecast, after 0.6% previously.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "56301e7b60930f70",
-    "1ba8862ac37cf04c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3ctiygm22y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3ctiygm22y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3ctftnkx2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3ctftnkx2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b2aca999c66f",
-   "created_at": "2026-10-30T08:01:12Z"
   }
  ]
 }
