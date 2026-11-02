@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T06:35:47Z",
+ "generated_at": "2026-11-02T07:01:20Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c87284b76011",
+   "ts": "2026-11-02T07:01:00Z",
+   "headline": "German real retail sales fall 2% in September, against a 0.4% rise forecast",
+   "detail": "German real retail sales dropped 2% month on month in September, after a 1.3% rise the previous month. They were down 2.3% year on year, compared with a -0.2% forecast and -0.4% previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "20c18b665114a621",
+    "cd9c4171bb785a03",
+    "0e983a75db783cfc",
+    "ef7d7b3f6a2cfd6f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcquntyed24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcquntyed24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcqupzl5h22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcqupzl5h22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcquudq3b2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcquudq3b2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcqux7fbq25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcqux7fbq25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0ff4216339f1",
+   "created_at": "2026-11-02T07:01:20Z"
+  },
+  {
+   "id": "8a6e3ceabe1a",
+   "ts": "2026-11-02T07:00:28Z",
+   "headline": "Goldman Sachs now expects a 25bp BoE rate rise in February 2027 on top of a quarter-point hike next week",
+   "detail": "Reuters reports that Goldman Sachs has added a February 25bp Bank of England rate rise to its forecast, alongside its existing call for a quarter-point increase next week. The bank cited higher energy prices and stronger economic data.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "3613462e6d781404"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzcqtrcazf2t",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzcqtrcazf2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0ff4216339f1",
+   "created_at": "2026-11-02T07:01:20Z"
+  },
   {
    "id": "cb49028aec20",
    "ts": "2026-11-02T06:07:58Z",
@@ -6296,66 +6356,6 @@
    "model": "opus",
    "run_id": "963b5b98e2d9",
    "created_at": "2026-10-29T14:40:53Z"
-  },
-  {
-   "id": "48839914b639",
-   "ts": "2026-10-29T14:29:00Z",
-   "headline": "Lagarde says ECB QT continues mechanically with no plan to change, and she is leaving early to speak freely on non-monetary issues",
-   "detail": "At her post-decision press conference, ECB President Lagarde said the approach to bond repayments under quantitative tightening is unchanged and there is no plan to readjust it. She also said she is stepping down early so that she has freedom of expression on matters other than monetary policy.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "df9beeddae36218e",
-    "3476315054ac3bad",
-    "bf4c80503107e0e3",
-    "9c162fb193624bf4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzi25iget2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzi25iget2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzi3c6pxy25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzi3c6pxy25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzi3eqceu2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzi3eqceu2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzi4egvgk22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzi4egvgk22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "897c8fde02a9",
-   "created_at": "2026-10-29T14:31:10Z"
-  },
-  {
-   "id": "a152925202d3",
-   "ts": "2026-10-29T14:22:15Z",
-   "headline": "FT reports Hernández de Cos and Knot are frontrunners to succeed Lagarde as ECB President",
-   "detail": "The Financial Times reports that Pablo Hernández de Cos and Klaas Knot lead the race to become the ECB's fifth president, after Lagarde confirmed she will step down on 7 February.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "3f964391f98e2110"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myzho2ll3d22",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3myzho2ll3d22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a51129ae707e",
-   "created_at": "2026-10-29T14:25:44Z"
   }
  ]
 }
