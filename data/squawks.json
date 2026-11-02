@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T12:45:52Z",
+ "generated_at": "2026-11-02T13:10:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d64fdeef0ba2",
+   "ts": "2026-11-02T13:09:41Z",
+   "headline": "India tells liquor firms it will honour the India-UK trade pact and settle the Scotch tariff dispute, sources say",
+   "detail": "According to sources, India told a meeting with the drinks industry that bulk Scotch imports are among the concessions in the India-UK trade deal and that it will resolve the tariff dispute.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e2bd9b5793badaeb",
+    "f8000502fa0f7d8d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdfhyc6jh2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdfhyc6jh2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdfgp4xyb2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdfgp4xyb2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dc4648c6ca49",
+   "created_at": "2026-11-02T13:10:50Z"
+  },
   {
    "id": "cc6f65b8ad57",
    "ts": "2026-11-02T12:41:55Z",
@@ -6257,27 +6284,6 @@
    "model": "opus",
    "run_id": "d911a699c10f",
    "created_at": "2026-10-30T06:01:17Z"
-  },
-  {
-   "id": "e1c6f362009f",
-   "ts": "2026-10-29T21:13:17Z",
-   "headline": "LGA publishes briefing on the local government measures in the 28 October Autumn Budget",
-   "detail": "The Local Government Association has released a briefing that summarises the Budget announcements relevant to councils and gives its initial view. The Chancellor delivered the Budget on 28 October 2026.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "34308ce7656d6d61"
-   ],
-   "sources": [
-    {
-     "author": "local.gov.uk",
-     "uri": "at://did:plc:xktc34svc3aeeovgbigfwg2d/app.bsky.feed.post/3mz26n27ios2f",
-     "url": "https://bsky.app/profile/local.gov.uk/post/3mz26n27ios2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "646e63badb3a",
-   "created_at": "2026-10-29T21:15:52Z"
   }
  ]
 }
