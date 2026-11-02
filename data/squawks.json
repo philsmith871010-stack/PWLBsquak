@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T11:01:27Z",
+ "generated_at": "2026-11-02T11:15:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "19ba40fe4193",
+   "ts": "2026-11-02T11:13:54Z",
+   "headline": "Trump says Iran wants a deal with the US but it remains to be seen whether one is reached",
+   "detail": "US President Trump made the remarks on Iran in comments reported on 2 November, and also said the US has knocked out two of Iran's regimes. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ad0069b6878304db",
+    "4a71a89c987d71b8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd6ywv6ze2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd6ywv6ze2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd6xgyoen2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd6xgyoen2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6fdba3806a34",
+   "created_at": "2026-11-02T11:15:51Z"
+  },
   {
    "id": "5b67b9800c1e",
    "ts": "2026-11-02T10:59:50Z",
@@ -6275,27 +6302,6 @@
    "model": "opus",
    "run_id": "b1a7450f3250",
    "created_at": "2026-10-29T18:45:50Z"
-  },
-  {
-   "id": "859011557e05",
-   "ts": "2026-10-29T18:31:41Z",
-   "headline": "Trump pledges $5,000 payment to every adult US citizen if Republicans win the House and Senate, at a cost of about $1tn",
-   "detail": "Trump puts the cost of the proposed $5,000 payment at about $1 trillion and says tariff revenue would help pay for it. He says recipients would have to spend the payments in the US.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c0edaa02d04fdb09"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzvm3p2yo2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzvm3p2yo2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "333004eacdef",
-   "created_at": "2026-10-29T18:35:43Z"
   }
  ]
 }
