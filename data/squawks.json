@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T16:25:48Z",
+ "generated_at": "2026-11-02T16:31:19Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9bf3e9412957",
+   "ts": "2026-11-02T16:25:49Z",
+   "headline": "European gas prices extend their fall to as much as 10%, reaching €93.55/MWh",
+   "detail": "European gas prices fell by as much as 10% to €93.55/MWh, a bigger fall than the earlier drop of up to 5.3% to €98.49/MWh. The move comes as hopes build for an end to the US-Iran conflict.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "7793ee65b72978da"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqgpleyt24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqgpleyt24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ff702cfd03d6",
+   "created_at": "2026-11-02T16:31:19Z"
+  },
   {
    "id": "6b9958f2db03",
    "ts": "2026-11-02T16:24:51Z",
@@ -5724,27 +5745,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz37xhrm4724",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz37xhrm4724"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f8cd3cd4da9c",
-   "created_at": "2026-10-30T07:10:52Z"
-  },
-  {
-   "id": "e67ac2337e79",
-   "ts": "2026-10-30T07:06:29Z",
-   "headline": "BoJ's Ueda says a rate rise will be considered at every meeting, the next one included",
-   "detail": "BoJ Governor Ueda said the bank will weigh a rate increase at each policy meeting, including the next one. He spoke after the BoJ held its short-term rate at 1.25%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "97f35857c8b0479d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz37rrez5m2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz37rrez5m2y"
     }
    ],
    "model": "opus",
