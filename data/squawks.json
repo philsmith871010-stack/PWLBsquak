@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T17:55:44Z",
+ "generated_at": "2026-11-02T18:01:18Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f40d7083fac5",
+   "ts": "2026-11-02T18:00:31Z",
+   "headline": "Brent's fall widens to more than $9 a barrel and WTI drops $8 on hopes of a deal to end the Iran war",
+   "detail": "Oil futures fell further late on Monday, with Brent down by more than $9 a barrel and US WTI down $8. The moves were reported as driven by hopes of a deal to end the Iran war.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "abf4053449aa8b6b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdvq23ewt2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdvq23ewt2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c362bb867811",
+   "created_at": "2026-11-02T18:01:18Z"
+  },
   {
    "id": "aeac95bf6289",
    "ts": "2026-11-02T17:53:52Z",
@@ -5759,27 +5780,6 @@
    "model": "opus",
    "run_id": "c115ee885ea3",
    "created_at": "2026-10-30T07:50:51Z"
-  },
-  {
-   "id": "c243e29231d0",
-   "ts": "2026-10-30T07:45:42Z",
-   "headline": "French producer prices rise 1.7% m/m in September, up from 1.0% the previous month",
-   "detail": "French PPI rose 1.7% month on month, compared with 1.0% in the previous reading. No forecast was given.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6d4911426fe643cb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3bxv6xwo2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3bxv6xwo2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3e3367e377cf",
-   "created_at": "2026-10-30T07:45:52Z"
   }
  ]
 }
