@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T17:15:56Z",
+ "generated_at": "2026-11-02T17:25:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1828b26629f7",
+   "ts": "2026-11-02T17:22:36Z",
+   "headline": "Italy runs a €20.8bn budget deficit in October",
+   "detail": "Italy's state budget showed a deficit of €20.8bn for October, according to a market news post. No market reaction was reported.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "12ea9bc0916fc652"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdtmaca5g2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdtmaca5g2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aecbeb03051b",
+   "created_at": "2026-11-02T17:25:43Z"
+  },
   {
    "id": "3140d7f140a2",
    "ts": "2026-11-02T17:15:14Z",
@@ -5771,33 +5792,6 @@
    "model": "opus",
    "run_id": "88cc02426508",
    "created_at": "2026-10-30T07:40:52Z"
-  },
-  {
-   "id": "e71ae7a2c189",
-   "ts": "2026-10-30T07:35:27Z",
-   "headline": "BoJ's Ueda says the policy rate is still below neutral and will be adjusted at the right time to stop risks materialising",
-   "detail": "Bank of Japan Governor Ueda said at his post-decision press conference that work remains because the policy rate is below the neutral level. He also said rate adjustments would be timed to prevent risks from materialising.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ac63d4efc77314da",
-    "610085b786744c5d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3bakhkak2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3bakhkak2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3bfl4n6e2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3bfl4n6e2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "117bc7329f84",
-   "created_at": "2026-10-30T07:35:46Z"
   }
  ]
 }
