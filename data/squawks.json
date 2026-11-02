@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T10:25:42Z",
+ "generated_at": "2026-11-02T10:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d209a5e1deef",
+   "ts": "2026-11-02T10:34:38Z",
+   "headline": "Russian Foreign Ministry voices extreme concern over signals that new military action against Iran is planned",
+   "detail": "Russia's Foreign Ministry said signs of planned fresh military action against Iran were causing it extreme concern, Tass reported. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6b59e0180973fe3f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd4sqi53a25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd4sqi53a25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e2ab806ea43c",
+   "created_at": "2026-11-02T10:35:41Z"
+  },
   {
    "id": "2c99812435f9",
    "ts": "2026-11-02T10:21:13Z",
@@ -6275,27 +6296,6 @@
    "model": "opus",
    "run_id": "f7f9eb790730",
    "created_at": "2026-10-29T18:10:50Z"
-  },
-  {
-   "id": "12bae51e1a0b",
-   "ts": "2026-10-29T17:50:58Z",
-   "headline": "Trump says the US had to strike Iran to stop it obtaining a nuclear weapon",
-   "detail": "US President Trump said military action against Iran was needed to prevent it from acquiring a nuclear weapon. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "042d809c9c6d6280"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myztdbrfbx2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myztdbrfbx2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a82a6620ce9f",
-   "created_at": "2026-10-29T17:55:43Z"
   }
  ]
 }
