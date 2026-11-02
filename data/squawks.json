@@ -1,8 +1,80 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T19:31:11Z",
+ "generated_at": "2026-11-02T19:35:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0577aefec04b",
+   "ts": "2026-11-02T19:33:21Z",
+   "headline": "Trump says oil will fall further because the US is winning with Iran, and a deal could happen",
+   "detail": "US President Trump said oil prices will go down further, that Iran wants to make a deal which could happen, and that Iran has said recently it will not have a nuclear weapon.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d0f8d0f35ccbf111",
+    "69b5e1d2d29ed880"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2w22xcz2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2w22xcz2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2yaihnd2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2yaihnd2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7cc375e17b83",
+   "created_at": "2026-11-02T19:35:46Z"
+  },
+  {
+   "id": "b5d140278b02",
+   "ts": "2026-11-02T19:31:37Z",
+   "headline": "WTI December crude settles down $7.66, or 7.36%, at $96.46 a barrel",
+   "detail": "NYMEX WTI December futures settled at $96.46 a barrel, down $7.66 or 7.36%. December gasoline settled at $2.9001 a gallon, diesel at $4.4216 a gallon and natural gas at $2.8560/MMBtu.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "b261c7d246686b2f",
+    "d62ca03b50302446",
+    "6ee15ba98ab32ecd",
+    "d06b74b86ee91e08",
+    "84eb03c358aaedb0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2swz6wx2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2swz6wx2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2trid3z2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2trid3z2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2sz3lpb2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2sz3lpb2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2u3gqkc2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2u3gqkc2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2v7sxdt2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2v7sxdt2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7cc375e17b83",
+   "created_at": "2026-11-02T19:35:46Z"
+  },
   {
    "id": "8145d8cddbd9",
    "ts": "2026-11-02T19:29:24Z",
@@ -5684,66 +5756,6 @@
    "model": "opus",
    "run_id": "856973da9c04",
    "created_at": "2026-10-30T08:40:53Z"
-  },
-  {
-   "id": "a2571ceb1c9f",
-   "ts": "2026-10-30T08:30:48Z",
-   "headline": "Dutch Q3 GDP grows 0.6% q/q, above 0.3% forecast; annual growth picks up to 2.1%",
-   "detail": "Preliminary figures show Dutch GDP grew 0.6% q/q in the third quarter, against a 0.3% forecast and matching the previous quarter's 0.6%. Annual growth came in at 2.1%, compared with a forecast of 1.3% and 1.6% previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "cfbf99be1a804c13",
-    "deeae65a813d0ba9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3eikg3ox2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3eikg3ox2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3eioie3h2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3eioie3h2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fe5d1a84e07f",
-   "created_at": "2026-10-30T08:31:07Z"
-  },
-  {
-   "id": "3c8cd62973c5",
-   "ts": "2026-10-30T08:10:28Z",
-   "headline": "Germany's Merz says he is working to end the Iran war quickly, citing its heavy impact on Europe",
-   "detail": "German Chancellor Merz said the Iran war is having a major impact on Europe and that this is why he is holding intensive talks on his Asia trip. He also said the US is shifting its foreign policy and Germany must do likewise.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3444bbf0653177fe",
-    "ff575abb79292747",
-    "d79943062dc29f8b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3de6iscs2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3de6iscs2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3dedyxfu2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3dedyxfu2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3dc5nopi2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3dc5nopi2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "72caba9fc4f1",
-   "created_at": "2026-10-30T08:10:54Z"
   }
  ]
 }
