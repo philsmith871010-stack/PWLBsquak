@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T18:05:42Z",
+ "generated_at": "2026-11-02T18:10:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c70da658cd37",
+   "ts": "2026-11-02T18:10:42Z",
+   "headline": "US Treasury yields fall to their lowest since 10 September, with the 10-year down 5.76bp at 4.871%",
+   "detail": "Market reports show US Treasury yields at their lowest level since 10 September. The 10-year note yield was last 5.76bp lower on the day at 4.871%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "b281974b4c54cec3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdwcay2vl25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdwcay2vl25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7f153e5cb84c",
+   "created_at": "2026-11-02T18:10:57Z"
+  },
   {
    "id": "c3b17ff7fe13",
    "ts": "2026-11-02T18:03:58Z",
@@ -5717,45 +5738,6 @@
    "model": "opus",
    "run_id": "b2aca999c66f",
    "created_at": "2026-10-30T08:01:12Z"
-  },
-  {
-   "id": "a816a044286a",
-   "ts": "2026-10-30T07:52:43Z",
-   "headline": "ECB's Dolenc says the energy shock is not yet feeding broader price pressures but warns inflation may stay above 2% for years",
-   "detail": "ECB Governing Council member Dolenc said the energy shock had not yet spread into wider price pressures, but that higher energy prices risk more persistent inflation. He added that inflation could remain above 2% in the coming years.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "75d343cfdd26b2c0",
-    "d518de462dccac04",
-    "5ffd343c8b913bb4",
-    "83974778fa802067"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3cehiqdo22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3cehiqdo22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3cg3ariw22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3cg3ariw22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3cgvfnzl2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3cgvfnzl2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3cieayqe2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3cieayqe2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "23bd5d38b6fc",
-   "created_at": "2026-10-30T07:55:39Z"
   }
  ]
 }
