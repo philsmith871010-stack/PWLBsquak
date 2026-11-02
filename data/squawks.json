@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T11:15:51Z",
+ "generated_at": "2026-11-02T11:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cf9ed1e106f3",
+   "ts": "2026-11-02T11:34:39Z",
+   "headline": "ECB's Makhlouf says the French government must repair its public finances",
+   "detail": "ECB Governing Council member Makhlouf said on Monday that France needs to put its public finances in order. The post reported no market reaction.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "fdcbd7a4198b4f84"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzda62xlah25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzda62xlah25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5d38fb895317",
+   "created_at": "2026-11-02T11:35:41Z"
+  },
   {
    "id": "19ba40fe4193",
    "ts": "2026-11-02T11:13:54Z",
@@ -6281,27 +6302,6 @@
    "model": "opus",
    "run_id": "daa62eece75b",
    "created_at": "2026-10-29T18:50:50Z"
-  },
-  {
-   "id": "0d830bd6e5a1",
-   "ts": "2026-10-29T18:40:56Z",
-   "headline": "Reuters says Chancellor Healey's first Budget passes with little market reaction, though some details leaked beforehand",
-   "detail": "Reuters reports that markets barely moved on Chancellor John Healey's first Budget. It contrasts this with the leaks, U-turns and bond market jitters seen around earlier budgets, while noting that this one was not entirely free of leaks.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "c1f3f2fac234367a"
-   ],
-   "sources": [
-    {
-     "author": "bruceandy.bsky.social",
-     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3myzw4n32422u",
-     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3myzw4n32422u"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b1a7450f3250",
-   "created_at": "2026-10-29T18:45:50Z"
   }
  ]
 }
