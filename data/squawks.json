@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T19:25:46Z",
+ "generated_at": "2026-11-02T19:31:11Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8145d8cddbd9",
+   "ts": "2026-11-02T19:29:24Z",
+   "headline": "Qatari mediators head to Tehran for talks with Iran's foreign minister on a draft US-Iran deal",
+   "detail": "An official briefed on the talks told Reuters that Qatari mediators were travelling to Tehran late on Monday to meet Foreign Minister Araghchi. The official said the talks would cover a version of a draft US-Iran deal that has been under negotiation for the past eight days.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f83590e51af3fab7",
+    "38bf96ee61d2e4c2",
+    "52d1d71cb730acb2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2oxkdxv2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2oxkdxv2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2pcynav2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2pcynav2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2qq2k2t25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2qq2k2t25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9efef34c6d56",
+   "created_at": "2026-11-02T19:31:11Z"
+  },
   {
    "id": "767a63d5a8a3",
    "ts": "2026-11-02T19:25:21Z",
@@ -5711,33 +5744,6 @@
    "model": "opus",
    "run_id": "72caba9fc4f1",
    "created_at": "2026-10-30T08:10:54Z"
-  },
-  {
-   "id": "73777b7ac2ac",
-   "ts": "2026-10-30T08:01:28Z",
-   "headline": "Spanish Q3 GDP grows 0.6% q/q in line with forecast, slowing from 0.7%; annual growth picks up to 2.7%",
-   "detail": "Spain's preliminary third-quarter estimate shows 0.6% growth on the quarter, as forecast and down from 0.7% previously. Annual growth is 2.7%, matching the forecast and up from 2.6%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8e8f568d85145a0b",
-    "d10dc2986dbb0ad0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3cu3z23u2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3cu3z23u2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3ctva77e2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3ctva77e2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f48b1f161dff",
-   "created_at": "2026-10-30T08:05:44Z"
   }
  ]
 }
