@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T12:15:52Z",
+ "generated_at": "2026-11-02T12:40:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "15763346efcf",
+   "ts": "2026-11-02T12:36:38Z",
+   "headline": "Vitol CEO says oil demand will be about 3m bpd lower by end-2026 and the system has low inventories and no spare capacity",
+   "detail": "The Vitol chief executive said oil demand will take a year to get back to its 2025 level and that the world could not cope with a bigger disruption than the current one. He also said the market could face a difficult spring.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "6cfdeaeded17f268",
+    "06b42f6298c1df76",
+    "2d322eee12efc8c7",
+    "c4321de0a08e3483"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzddmv5zrd2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzddmv5zrd2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzddow5qm722",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzddow5qm722"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzddr7d4iy2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzddr7d4iy2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzddsnkibp22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzddsnkibp22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3753daf5de87",
+   "created_at": "2026-11-02T12:40:52Z"
+  },
   {
    "id": "bccafe7f9108",
    "ts": "2026-11-02T12:15:44Z",
@@ -6239,27 +6278,6 @@
    "model": "opus",
    "run_id": "7d35b8a8278e",
    "created_at": "2026-10-29T20:55:42Z"
-  },
-  {
-   "id": "87c27e66d827",
-   "ts": "2026-10-29T20:36:00Z",
-   "headline": "US bonds rally as a tech share selloff drives broad rotation across markets",
-   "detail": "A US market wrap reports that bonds rallied on Thursday as a selloff in technology stocks set off a wider rotation. No yield figures were given.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "86c71e3c436f6e0b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz24kf4krh2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz24kf4krh2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bdc88d61507a",
-   "created_at": "2026-10-29T20:40:50Z"
   }
  ]
 }
