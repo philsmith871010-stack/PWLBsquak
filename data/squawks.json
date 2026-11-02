@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T11:50:52Z",
+ "generated_at": "2026-11-02T12:01:18Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d26172fea92f",
+   "ts": "2026-11-02T11:59:30Z",
+   "headline": "Equinor CEO says shipping costs have changed rapidly and the efficient market of the past is gone",
+   "detail": "The Equinor chief executive said shipping costs have shifted quickly and that the efficient market the industry was used to no longer exists. No market reaction was reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "2b253dc2b13db278"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdbkidbhj25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdbkidbhj25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7ce1964bb662",
+   "created_at": "2026-11-02T12:01:18Z"
+  },
+  {
+   "id": "0118cd7c7e57",
+   "ts": "2026-11-02T11:59:06Z",
+   "headline": "Israel's Netanyahu urges Trump to carry out new strikes on Iran",
+   "detail": "A wire headline reports that Israeli Prime Minister Netanyahu is pressing US President Trump for renewed military strikes against Iran. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "24c8d73a5a1900a8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdbjrj3ar25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdbjrj3ar25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7ce1964bb662",
+   "created_at": "2026-11-02T12:01:18Z"
+  },
   {
    "id": "11a4793a4e28",
    "ts": "2026-11-02T11:49:34Z",
@@ -6260,66 +6302,6 @@
    "model": "opus",
    "run_id": "cc7793ca1eab",
    "created_at": "2026-10-29T20:01:14Z"
-  },
-  {
-   "id": "1d45615ef255",
-   "ts": "2026-10-29T19:54:08Z",
-   "headline": "Houthis say they hit Aramco's Abqaiq site and the Ras Tanura and Rabigh refineries; Saudi Arabia has not yet confirmed",
-   "detail": "In statements, Yemen's Houthis said they attacked an Aramco facility at Abqaiq, the Ras Tanura and Rabigh oil refineries, and King Khalid airport in Riyadh and King Fahd airport in Dammam. There was no immediate Saudi confirmation, and no market reaction has been reported.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "71f1b6bc30965496",
-    "0cc7d7f9ee68fd89",
-    "b63a2b57f023e28d",
-    "a4d3cd844634a759"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz225wgurc2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz225wgurc2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz227j6faw2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz227j6faw2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz22abnypj2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz22abnypj2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz22b2tayw2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz22b2tayw2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ff34daaa8f55",
-   "created_at": "2026-10-29T19:55:42Z"
-  },
-  {
-   "id": "3cb139273968",
-   "ts": "2026-10-29T19:50:34Z",
-   "headline": "Houthis claim several separate military operations deep inside Saudi territory",
-   "detail": "Yemen's Houthi movement says it has carried out a number of distinct military operations deep inside Saudi Arabia. This follows earlier Iranian media reports of Houthi missile attacks aimed at Saudi Aramco.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "684f46e8d3b38687"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzzz4sa2t25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzzz4sa2t25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "26febd751733",
-   "created_at": "2026-10-29T19:50:50Z"
   }
  ]
 }
