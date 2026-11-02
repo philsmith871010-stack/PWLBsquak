@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T15:40:54Z",
+ "generated_at": "2026-11-02T15:46:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "db62c0230df9",
+   "ts": "2026-11-02T15:44:09Z",
+   "headline": "ECB's Escrivá says he is optimistic about AI and sees large productivity gains",
+   "detail": "ECB Governing Council member José Luis Escrivá made the remarks on Monday, in the same set of comments in which he called AI valuations clearly high.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "fd33d827387fd576"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdo47d3je24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdo47d3je24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b2b036fb8edb",
+   "created_at": "2026-11-02T15:46:00Z"
+  },
   {
    "id": "4fd39eb1beb9",
    "ts": "2026-11-02T15:40:40Z",
@@ -5736,33 +5757,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz37hwj7oa2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz37hwj7oa2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b8306e2734e8",
-   "created_at": "2026-10-30T07:01:21Z"
-  },
-  {
-   "id": "245dda94ed49",
-   "ts": "2026-10-30T07:00:04Z",
-   "headline": "BoJ's Ueda says inflation expectations remain only weakly anchored around 2%; declines to discuss revising government accord",
-   "detail": "At his post-decision news conference, BoJ Governor Ueda said inflation expectations are still weakly anchored around 2%. He would not say whether the accord between the BoJ and the government needs revising.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "633356b3a556d58e",
-    "1f229065d5cfd7b0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz37gcbkmy24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz37gcbkmy24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz37cz7wz322",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz37cz7wz322"
     }
    ],
    "model": "opus",
