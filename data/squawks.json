@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T12:05:43Z",
+ "generated_at": "2026-11-02T12:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bccafe7f9108",
+   "ts": "2026-11-02T12:15:44Z",
+   "headline": "European gas prices drop as much as 5.3% to €98.49/MWh",
+   "detail": "European benchmark gas fell by up to 5.3% to €98.49/MWh on Monday, according to a market wire report. The move came as Brent was also reported trading lower.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "91a83320da04b8fe"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdchjih4r2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdchjih4r2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "571ee74a641e",
+   "created_at": "2026-11-02T12:15:52Z"
+  },
   {
    "id": "dcc64dbab461",
    "ts": "2026-11-02T12:04:45Z",
@@ -6239,45 +6260,6 @@
    "model": "opus",
    "run_id": "bdc88d61507a",
    "created_at": "2026-10-29T20:40:50Z"
-  },
-  {
-   "id": "da4e435a716b",
-   "ts": "2026-10-29T20:32:50Z",
-   "headline": "Greek PM backs continued sanctions on Russia; says Greek shipowners would resume Black Sea trade if safe passage is assured",
-   "detail": "Greek Prime Minister Mitsotakis restated his support for economic sanctions on Russia. He also said Greek shipowners are ready to resume Black Sea trading if safe passage is guaranteed, and urged the EU to send more naval assets to its Aspides mission in the Red Sea.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9b852ca87cbc5549",
-    "e603e61a02ee7876",
-    "61eda893139e2a5c",
-    "0d5de06f02cd7c10"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz24eq7edd2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz24eq7edd2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz24eugh7m2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz24eugh7m2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz24euz5a32d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz24euz5a32d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz24f3kv5d2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz24f3kv5d2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f44ccdc70b92",
-   "created_at": "2026-10-29T20:35:44Z"
   }
  ]
 }
