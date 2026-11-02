@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T08:05:47Z",
+ "generated_at": "2026-11-02T08:10:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "425646d18a37",
+   "ts": "2026-11-02T08:06:49Z",
+   "headline": "Iran says a letter from US Vice President Vance gives no new basis for talks and its demands have not changed",
+   "detail": "Iran's response to the letter from US Vice President Vance was reported in a market headline. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9364fbe6558a025c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcukgcus425",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcukgcus425"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e8a2d7a9e2a3",
+   "created_at": "2026-11-02T08:10:53Z"
+  },
   {
    "id": "aca564d41482",
    "ts": "2026-11-02T08:01:23Z",
@@ -6323,27 +6344,6 @@
    "model": "opus",
    "run_id": "df71be88cbed",
    "created_at": "2026-10-29T15:20:52Z"
-  },
-  {
-   "id": "362ddc74e253",
-   "ts": "2026-10-29T15:05:52Z",
-   "headline": "Trump weighs further military strikes on Iran after the midterms but is open to more diplomacy, Semafor reports",
-   "detail": "Semafor reports that President Trump is seriously considering more military operations against Iran after the US election while appearing willing to give diplomacy another chance. The report says many inside the administration doubt the case for resuming strikes.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e3b51777fe539541"
-   ],
-   "sources": [
-    {
-     "author": "semafor.com",
-     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3myzk42qb2w25",
-     "url": "https://bsky.app/profile/semafor.com/post/3myzk42qb2w25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aaa397780c18",
-   "created_at": "2026-10-29T15:10:52Z"
   }
  ]
 }
