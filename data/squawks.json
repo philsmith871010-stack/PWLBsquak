@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T17:25:43Z",
+ "generated_at": "2026-11-02T17:55:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "aeac95bf6289",
+   "ts": "2026-11-02T17:53:52Z",
+   "headline": "US-Iran talks reach a breakthrough after Qatari mediation clears procedural hurdles, Al-Jadeed reports",
+   "detail": "Lebanese broadcaster Al-Jadeed, citing diplomatic sources, reports that Qatari mediation overcame procedural obstacles in the US-Iranian negotiations. No official confirmation or market reaction has been reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "83133ff4b00b06d2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdve5uf7f2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdve5uf7f2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c4e302fea8fe",
+   "created_at": "2026-11-02T17:55:44Z"
+  },
   {
    "id": "1828b26629f7",
    "ts": "2026-11-02T17:22:36Z",
@@ -5759,39 +5780,6 @@
    "model": "opus",
    "run_id": "3e3367e377cf",
    "created_at": "2026-10-30T07:45:52Z"
-  },
-  {
-   "id": "bf25208e944d",
-   "ts": "2026-10-30T07:36:44Z",
-   "headline": "BoJ's Ueda says the BoJ is watching spring wage talks closely, which must make 2% inflation built in",
-   "detail": "Speaking after the BoJ's policy decision, Governor Ueda said the bank is watching next spring's wage negotiations closely and that annual wage talks need to reach a point where 2% inflation is built in. He added that the BoJ still needs to watch whether the price trend becomes anchored.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "d04dd0fbd6cd9bf5",
-    "ce87bccb3b442954",
-    "6dd756c1cb9c337d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3bgfiujc2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3bgfiujc2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3bhurqpq2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3bhurqpq2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3botjses2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3botjses2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "88cc02426508",
-   "created_at": "2026-10-30T07:40:52Z"
   }
  ]
 }
