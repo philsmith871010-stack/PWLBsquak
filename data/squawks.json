@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T14:55:46Z",
+ "generated_at": "2026-11-02T15:01:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "11fdb68bd35c",
+   "ts": "2026-11-02T15:01:02Z",
+   "headline": "US construction spending falls 1.9% on the month, against a forecast 0.3% rise",
+   "detail": "US construction spending fell 1.9% month on month, compared with a forecast rise of 0.3% and a previous reading of 0.9%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "7b9dd3189d27d5cc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdlp3xcj72b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdlp3xcj72b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "71f869cfb82c",
+   "created_at": "2026-11-02T15:01:56Z"
+  },
+  {
+   "id": "4c3f088e6dff",
+   "ts": "2026-11-02T15:00:53Z",
+   "headline": "US October ISM manufacturing index rises to 55.5, above the 54.5 forecast, as prices paid ease to 75.2",
+   "detail": "The US ISM October manufacturing index came in at 55.5, against a forecast of 54.5 and 54.5 the previous month. New orders were 55.5 (forecast 55, previous 55.3), employment was 52.4 (forecast 52, previous 52.7) and prices paid were 75.2 (forecast 77.2, previous 77.9).",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "cb92ba021a05582f",
+    "8dd83beb2b487397",
+    "cc0f4224779878a7",
+    "10ad86652f8064dd",
+    "e64114b9ca59ede1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdlotivte2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdlotivte2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdlotzdfw2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdlotzdfw2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdlow5zgx2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdlow5zgx2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdloynjuj2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdloynjuj2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdlpabxnp2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdlpabxnp2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "71f869cfb82c",
+   "created_at": "2026-11-02T15:01:56Z"
+  },
   {
    "id": "6a9d072e2e46",
    "ts": "2026-11-02T14:55:30Z",
@@ -5787,54 +5853,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz352gz7c32a",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz352gz7c32a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "80d797073ce6",
-   "created_at": "2026-10-30T06:20:54Z"
-  },
-  {
-   "id": "92b073395278",
-   "ts": "2026-10-30T06:10:59Z",
-   "headline": "Sterling moves above $1.3350 in early trade",
-   "detail": "A market report said sterling rose past 1.3350 against the dollar but stayed below its 100-day moving average.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e69999fbd2cf03b9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz34okaobq2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz34okaobq2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "80d797073ce6",
-   "created_at": "2026-10-30T06:20:54Z"
-  },
-  {
-   "id": "841ea40c1a9c",
-   "ts": "2026-10-30T05:02:58Z",
-   "headline": "Japan's 20-year JGB yield falls 6.5bp to 3.605% after BoJ decision",
-   "detail": "The 20-year Japanese government bond yield dropped 6.5bp to 3.605% following the Bank of Japan's decision to hold rates. Market reports also said the yen strengthened and the Nikkei fell further after the decision.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e5c1a24876638f69",
-    "3ec2260d5c25a0fb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2yuvswkn2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2yuvswkn2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2ydnl5w224",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2ydnl5w224"
     }
    ],
    "model": "opus",
