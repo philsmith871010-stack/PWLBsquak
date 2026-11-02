@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T15:31:08Z",
+ "generated_at": "2026-11-02T15:35:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b8fe25d3f0fb",
+   "ts": "2026-11-02T15:31:56Z",
+   "headline": "ECB's Escrivá says markets have been fairly insensitive to price risk in recent years",
+   "detail": "ECB Governing Council member José Luis Escrivá made the remark on Monday, in further comments alongside his earlier statements on rates and inflation.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "491532fecebce079"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdngdptks2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdngdptks2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "45c827c633ab",
+   "created_at": "2026-11-02T15:35:54Z"
+  },
   {
    "id": "dcc76892b890",
    "ts": "2026-11-02T15:30:08Z",
@@ -5748,45 +5769,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz375xyxfq2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz375xyxfq2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "95ce704de89c",
-   "created_at": "2026-10-30T06:55:43Z"
-  },
-  {
-   "id": "54a34ba99d9c",
-   "ts": "2026-10-30T06:52:22Z",
-   "headline": "BoJ's Ueda stops short of declaring the 2% inflation target met; sees overshoot risks little changed from a month ago",
-   "detail": "At his post-decision press conference, the Bank of Japan Governor said inflation must sit stably and sustainably around 2% before the target is deemed met, and that the BoJ will not make a formal announcement when it is achieved. He added that the risk of inflation exceeding the target is not significantly higher than a month ago, and that whether wage growth is sustainable remains an important consideration.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "b08a844b9661833c",
-    "2cae833937ca4d34",
-    "8093945b114caf13",
-    "0066ef40308c4371"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz36yjujqd22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz36yjujqd22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz374vrixo25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz374vrixo25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz375pvuog2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz375pvuog2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz375u7sp625",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz375u7sp625"
     }
    ],
    "model": "opus",
