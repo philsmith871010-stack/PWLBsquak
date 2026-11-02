@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T13:46:06Z",
+ "generated_at": "2026-11-02T13:50:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "59b7b5391d73",
+   "ts": "2026-11-02T13:47:49Z",
+   "headline": "Iran's President Pezeshkian says Tehran will seek to settle the war with the US through dialogue",
+   "detail": "Iranian state media reported the comments from President Pezeshkian on the conflict with the US.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d61cef645070efea"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdhm6aoto2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdhm6aoto2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "813d189ee6af",
+   "created_at": "2026-11-02T13:50:55Z"
+  },
+  {
+   "id": "a4d9aec91d7a",
+   "ts": "2026-11-02T13:46:15Z",
+   "headline": "China's Foreign Minister calls for regional energy and shipping lane security to be safeguarded",
+   "detail": "China's Foreign Minister made the call amid the Middle East conflict and disruption in the Strait of Hormuz.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b43011171516d0f9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdhjeslwc22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdhjeslwc22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "813d189ee6af",
+   "created_at": "2026-11-02T13:50:55Z"
+  },
   {
    "id": "84a2e7661add",
    "ts": "2026-11-02T13:40:57Z",
@@ -6129,54 +6171,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2oimr5pt2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2oimr5pt2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fd9ce1c17a15",
-   "created_at": "2026-10-30T06:05:42Z"
-  },
-  {
-   "id": "f4996fe22bf1",
-   "ts": "2026-10-30T01:41:41Z",
-   "headline": "Brent and WTI rise $2 a barrel on growing US-Iran geopolitical risk",
-   "detail": "Market reports say crude rebounded in Asian trade as doubts grew over the prospects of a peace deal, with both Brent and WTI up $2 a barrel.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "27b4edae3e2200ae",
-    "d782cef3588a7ece"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2nmxtfbr25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2nmxtfbr25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2peu7vyb2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2peu7vyb2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fd9ce1c17a15",
-   "created_at": "2026-10-30T06:05:42Z"
-  },
-  {
-   "id": "d7f6b3df5a1b",
-   "ts": "2026-10-30T01:41:12Z",
-   "headline": "Sterling rises in Asian trade on a hawkish BoE outlook and broad dollar weakness",
-   "detail": "A market report says sterling gained on expectations of a hawkish Bank of England and a broadly weaker US dollar; no levels were given.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "d5d93131899e8b84"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2nm4vbzb2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2nm4vbzb2g"
     }
    ],
    "model": "opus",
