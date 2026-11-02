@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T10:20:52Z",
+ "generated_at": "2026-11-02T10:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2c99812435f9",
+   "ts": "2026-11-02T10:21:13Z",
+   "headline": "Belgian PM De Wever offers resignation after budget talks fail; King holds decision in reserve",
+   "detail": "The Belgian Royal Palace says Prime Minister Bart De Wever offered his resignation after budget negotiations failed. The King has not yet decided and will begin consultations with majority party leaders tomorrow.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "10a37efa722eaedc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd42qyqmx2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd42qyqmx2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9caa21ecbb68",
+   "created_at": "2026-11-02T10:25:42Z"
+  },
   {
    "id": "7d4dc5062326",
    "ts": "2026-11-02T10:20:23Z",
@@ -6275,33 +6296,6 @@
    "model": "opus",
    "run_id": "a82a6620ce9f",
    "created_at": "2026-10-29T17:55:43Z"
-  },
-  {
-   "id": "49b72259f09b",
-   "ts": "2026-10-29T17:48:27Z",
-   "headline": "Trump says US military operations against Iran are going very well and repeats that the conflict will end very soon",
-   "detail": "US President Trump made the remarks on 29 October. No market reaction was reported in the posts.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "dcbb025ac3a04341",
-    "bba8b8feb9a880d9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzt6rzi4l2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzt6rzi4l2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myztbe3wnu2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myztbe3wnu2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "02a6a00eda73",
-   "created_at": "2026-10-29T17:50:51Z"
   }
  ]
 }
