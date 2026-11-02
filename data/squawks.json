@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T09:01:23Z",
+ "generated_at": "2026-11-02T09:06:02Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3361f595a84e",
+   "ts": "2026-11-02T09:05:40Z",
+   "headline": "PBOC to run swap facility operations for securities, fund and insurance firms on 3 November",
+   "detail": "China's central bank said it will carry out swap facility operations for securities firms, fund managers and insurers on 3 November.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "fa8985ce1dabdc07"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcxtnuezv25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcxtnuezv25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3555871250c1",
+   "created_at": "2026-11-02T09:06:02Z"
+  },
+  {
+   "id": "3e9712653adf",
+   "ts": "2026-11-02T09:05:30Z",
+   "headline": "ECB's Kazimir says the debate is now about how much further ECB action is needed, not whether it is",
+   "detail": "ECB Governing Council member Peter Kazimir said further policy action is increasingly a question of scale rather than whether it will happen.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "dbe349660285621d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcxtenjhw2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcxtenjhw2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3555871250c1",
+   "created_at": "2026-11-02T09:06:02Z"
+  },
   {
    "id": "7fa36ff7e1d7",
    "ts": "2026-11-02T09:00:59Z",
@@ -6320,48 +6362,6 @@
    "model": "opus",
    "run_id": "37d24f46e5fa",
    "created_at": "2026-10-29T16:10:51Z"
-  },
-  {
-   "id": "5c5b310aa858",
-   "ts": "2026-10-29T16:01:11Z",
-   "headline": "US and Hungary sign a pipeline framework agreement, Hungary's foreign minister says",
-   "detail": "Hungary's foreign minister said the US and Hungary have signed an agreement on what is being called the 'Trump Peace Pipeline Framework'. No further terms were given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "06379db9dd4b756a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzn6xvyal2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzn6xvyal2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0b6fcd3b0666",
-   "created_at": "2026-10-29T16:01:24Z"
-  },
-  {
-   "id": "96f13a9368eb",
-   "ts": "2026-10-29T15:45:48Z",
-   "headline": "Russia is set to extend its diesel export ban to the end of the year, sources say",
-   "detail": "Sources say Russia is preparing to keep its ban on diesel exports in place until the end of the year. The report gives no market reaction.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "2ace8e2fff1bc35d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzmdhmen62b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzmdhmen62b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c6b6960ad976",
-   "created_at": "2026-10-29T15:45:51Z"
   }
  ]
 }
