@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T16:35:43Z",
+ "generated_at": "2026-11-02T16:56:09Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "649bea975689",
+   "ts": "2026-11-02T16:53:24Z",
+   "headline": "USTR plans to suspend South Africa and Rwanda from duty-free US market access under AGOA",
+   "detail": "The US Trade Representative said in a statement that it intends to suspend both countries' duty-free access under the African Growth and Opportunity Act. USTR Greer said Trump had found that the two governments' practices do not meet AGOA's eligibility criteria.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8e0c5e271686c369",
+    "1dce3b832f0383d7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdrxzve2j2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdrxzve2j2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdryebdle2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdryebdle2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "07bd2b673053",
+   "created_at": "2026-11-02T16:56:09Z"
+  },
   {
    "id": "2bec80c72e3b",
    "ts": "2026-11-02T16:33:44Z",
@@ -5771,27 +5798,6 @@
    "model": "opus",
    "run_id": "9211e16c854f",
    "created_at": "2026-10-30T07:31:11Z"
-  },
-  {
-   "id": "acc9368127c3",
-   "ts": "2026-10-30T07:24:56Z",
-   "headline": "BoJ's Ueda expects faster ETF sales to have only a limited market impact; says upside risks need an appropriate response",
-   "detail": "Bank of Japan Governor Ueda spoke after the decision to speed up ETF sales. He said the faster pace should have only a limited effect on markets and that the bank must respond appropriately to upside risks.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a92b77dcadf900e8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3asrfg2p24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3asrfg2p24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "70c1a6e2aaf3",
-   "created_at": "2026-10-30T07:25:42Z"
   }
  ]
 }
