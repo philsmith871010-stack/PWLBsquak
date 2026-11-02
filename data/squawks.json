@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T09:15:51Z",
+ "generated_at": "2026-11-02T09:20:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fdeef5aee2ee",
+   "ts": "2026-11-02T09:17:38Z",
+   "headline": "Brent's fall widens to 4% as hopes build for an end to the US-Iran conflict",
+   "detail": "A market commentary account reports that Brent crude is down 4%, more than the 3% intraday fall recorded earlier. It links the drop to growing hopes that the US-Iran conflict can be resolved.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "1eedf1597a859984"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcyj2aonu2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcyj2aonu2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "20ab0a5eb95a",
+   "created_at": "2026-11-02T09:20:53Z"
+  },
   {
    "id": "0935ac01ee84",
    "ts": "2026-11-02T09:11:31Z",
@@ -6341,39 +6362,6 @@
    "model": "opus",
    "run_id": "50f85b2f2ab1",
    "created_at": "2026-10-29T16:50:52Z"
-  },
-  {
-   "id": "2b0d2e87bfcd",
-   "ts": "2026-10-29T16:38:57Z",
-   "headline": "EU states reaffirm accelerated release of 42.6 million barrels of oil stocks, half of it diesel, says Commissioner Jorgensen",
-   "detail": "EU Energy Commissioner Jorgensen says member states have recommitted to an accelerated release of 42.6 million barrels from oil stocks, and half of the releases in the coming months will be diesel. He says the EU does not expect problems with oil and gas supply security but that citizens are struggling to pay their bills.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "601856b14e35ef09",
-    "91fcfe9fb43d9297",
-    "9436bebd8d50ffb7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzpciqpmy2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzpciqpmy2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzpdopflq2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzpdopflq2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzpc45agd25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzpc45agd25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "eda60c617920",
-   "created_at": "2026-10-29T16:40:56Z"
   }
  ]
 }
