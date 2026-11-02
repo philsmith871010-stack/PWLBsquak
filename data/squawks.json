@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T13:35:45Z",
+ "generated_at": "2026-11-02T13:40:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8dc042f7c256",
+   "ts": "2026-11-02T13:37:32Z",
+   "headline": "Iran's President Pezeshkian rejects what he calls false claims and excessive demands from Iran's enemies",
+   "detail": "Iranian state outlet Press TV reported the remarks by President Pezeshkian on Monday, as efforts to restart US-Iran talks continue.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4cfe2fcbb11eb1fb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdgzrolby24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdgzrolby24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bb15e50bf003",
+   "created_at": "2026-11-02T13:40:54Z"
+  },
   {
    "id": "e7796132c018",
    "ts": "2026-11-02T13:31:40Z",
@@ -6168,39 +6189,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2iux6pzk22",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2iux6pzk22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d911a699c10f",
-   "created_at": "2026-10-30T06:01:17Z"
-  },
-  {
-   "id": "dab0c5c1d06c",
-   "ts": "2026-10-30T00:58:54Z",
-   "headline": "US Treasury yields fall to seven-week lows as market odds of a December Fed hike ease to 70%",
-   "detail": "The US 10-year Treasury yield fell 8.5bp to a seven-week low, and the 2-year yield fell further to 4.5648%, also a seven-week low, in Asian trading. Fed funds futures gained as the implied odds of a December rate rise eased to 70%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "bb7d1068e2b12d2e",
-    "992a0e692d631631",
-    "f824dc0866467ab0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2laic5so25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2laic5so25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2labvehd2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2labvehd2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz2l7ne2vi2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz2l7ne2vi2f"
     }
    ],
    "model": "opus",
