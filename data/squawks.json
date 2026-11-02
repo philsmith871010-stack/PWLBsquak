@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T15:35:54Z",
+ "generated_at": "2026-11-02T15:40:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4fd39eb1beb9",
+   "ts": "2026-11-02T15:40:40Z",
+   "headline": "ECB's Escrivá says AI valuations are clearly high",
+   "detail": "ECB Governing Council member José Luis Escrivá said valuations linked to artificial intelligence are obviously elevated. The comment came on the same day as his other remarks on rates and inflation.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e8faee0b139913b2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdnvxjeuk2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdnvxjeuk2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "802465a42119",
+   "created_at": "2026-11-02T15:40:54Z"
+  },
   {
    "id": "b8fe25d3f0fb",
    "ts": "2026-11-02T15:31:56Z",
@@ -5747,33 +5768,6 @@
    "model": "opus",
    "run_id": "b8306e2734e8",
    "created_at": "2026-10-30T07:01:21Z"
-  },
-  {
-   "id": "f4218c86c87c",
-   "ts": "2026-10-30T06:54:21Z",
-   "headline": "French finance minister Lescure says economy has stalled in 2026 and calls for a budget to support confidence",
-   "detail": "France's finance minister said the economy came to a standstill in 2026 and that the country needs a budget to boost confidence and growth. His remarks came after preliminary Q3 GDP data showed a contraction.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "de56bf60361390c7",
-    "dea8ca8dfff9234e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3743slaf25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3743slaf25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz375xyxfq2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz375xyxfq2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "95ce704de89c",
-   "created_at": "2026-10-30T06:55:43Z"
   }
  ]
 }
