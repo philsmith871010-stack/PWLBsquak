@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T11:35:41Z",
+ "generated_at": "2026-11-02T11:40:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8e49bf597d2f",
+   "ts": "2026-11-02T11:37:04Z",
+   "headline": "Trump says oil rose less than he expected during the Iran war and predicts US petrol prices will drop below $2 a gallon",
+   "detail": "US President Trump made the comments on 2 November and also said the US is receiving millions of barrels of oil from Venezuela. No market reaction was reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "ff9fee3f6b670ec9",
+    "0915471711161fa2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdacexp6y2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdacexp6y2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdad7iugz2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdad7iugz2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bd7715469cf6",
+   "created_at": "2026-11-02T11:40:54Z"
+  },
   {
    "id": "cf9ed1e106f3",
    "ts": "2026-11-02T11:34:39Z",
@@ -6281,27 +6308,6 @@
    "model": "opus",
    "run_id": "7425446d54ab",
    "created_at": "2026-10-29T19:01:19Z"
-  },
-  {
-   "id": "30437faa5e77",
-   "ts": "2026-10-29T18:45:49Z",
-   "headline": "US is planning to strike Iran after next week's elections, Newsmax reports, citing officials",
-   "detail": "Newsmax, citing unnamed officials, reports that the US plans strikes on Iran after next week's US elections. The batch gives no market reaction.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "73c8f474d77e30b7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzwfec7th25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzwfec7th25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "daa62eece75b",
-   "created_at": "2026-10-29T18:50:50Z"
   }
  ]
 }
