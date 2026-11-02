@@ -1,8 +1,71 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T16:31:19Z",
+ "generated_at": "2026-11-02T16:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2bec80c72e3b",
+   "ts": "2026-11-02T16:33:44Z",
+   "headline": "US Treasury sells $95bn of 3-month bills at 4.040% and $82bn of 6-month bills at 4.150%",
+   "detail": "The 3-month bill sale drew a bid-to-cover of 2.88, against 3.07 at the previous sale, and its high yield was 4.04% against 4.05% previously. The 6-month bill drew cover of 2.89, against 2.63, with a high yield of 4.15% against 4.21% previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f6abbe6f07d085b5",
+    "e7804236ec29e647",
+    "d701e927782e7b6a",
+    "4b58b1f79a395469",
+    "e0dce7ebb7254751",
+    "7a760051c61d77d0",
+    "20d1caa66ea2f8b9",
+    "8bfec660e20fa93a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqtdw5ac25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqtdw5ac25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqtfxe2h2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqtfxe2h2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqti5gdk25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqti5gdk25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqtm3uqx2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqtm3uqx2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqueyt5i22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqueyt5i22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqupb6xr2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqupb6xr2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqutn3k225",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqutn3k225"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqvnjkcl2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqvnjkcl2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3aea521bb1fd",
+   "created_at": "2026-11-02T16:35:43Z"
+  },
   {
    "id": "9bf3e9412957",
    "ts": "2026-11-02T16:25:49Z",
@@ -5729,27 +5792,6 @@
    "model": "opus",
    "run_id": "70c1a6e2aaf3",
    "created_at": "2026-10-30T07:25:42Z"
-  },
-  {
-   "id": "731e3b4b1dc8",
-   "ts": "2026-10-30T07:09:40Z",
-   "headline": "China's most-active 30-year government bond futures contract drops 1.00% intraday to 117.34 yuan",
-   "detail": "The most-active TL contract on 30-year Chinese government bonds fell 1.00% during the session to 117.34 yuan.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "558581bfa24ee6e5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz37xhrm4724",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz37xhrm4724"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f8cd3cd4da9c",
-   "created_at": "2026-10-30T07:10:52Z"
   }
  ]
 }
