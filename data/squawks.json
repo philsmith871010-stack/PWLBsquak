@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T10:35:41Z",
+ "generated_at": "2026-11-02T10:50:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e7a10f266d7a",
+   "ts": "2026-11-02T10:46:25Z",
+   "headline": "Gazprom's daily gas exports to China through Power of Siberia reach a record",
+   "detail": "Gazprom's daily gas exports to China through the Power of Siberia pipeline have hit a record high, according to a market news post. The post gave no volume.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "342aad403a97bd6a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd5hs3i4f25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd5hs3i4f25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4f4c2e8b95be",
+   "created_at": "2026-11-02T10:50:56Z"
+  },
   {
    "id": "d209a5e1deef",
    "ts": "2026-11-02T10:34:38Z",
@@ -6275,27 +6296,6 @@
    "model": "opus",
    "run_id": "56db0f363319",
    "created_at": "2026-10-29T18:25:45Z"
-  },
-  {
-   "id": "2fe75c711756",
-   "ts": "2026-10-29T17:00:00Z",
-   "headline": "Centre for Social Justice says a £33bn rise in UK benefits spending from 2027 to 2032 would offset frozen tax threshold gains",
-   "detail": "Analysis by the Centre for Social Justice, reported by City AM, finds that the £33bn increase in benefits spending between 2027 and 2032 would broadly match the rise in projected receipts from frozen income tax thresholds.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "dbd46a62290a9486"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3myzuc7laefd2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3myzuc7laefd2"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f7f9eb790730",
-   "created_at": "2026-10-29T18:10:50Z"
   }
  ]
 }
