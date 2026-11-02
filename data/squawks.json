@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T10:50:56Z",
+ "generated_at": "2026-11-02T11:01:27Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5b67b9800c1e",
+   "ts": "2026-11-02T10:59:50Z",
+   "headline": "China proposes looser foreign exchange rules for current account transactions",
+   "detail": "Chinese authorities have put forward proposals to ease foreign exchange rules on current account transactions. The post gave no further details.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0d19deb47c28ede4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd67saouz2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd67saouz2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "22bec82f33a1",
+   "created_at": "2026-11-02T11:01:27Z"
+  },
   {
    "id": "e7a10f266d7a",
    "ts": "2026-11-02T10:46:25Z",
@@ -6275,27 +6296,6 @@
    "model": "opus",
    "run_id": "333004eacdef",
    "created_at": "2026-10-29T18:35:43Z"
-  },
-  {
-   "id": "d897e25a6506",
-   "ts": "2026-10-29T18:23:04Z",
-   "headline": "Trump says the US is working with Venezuela to produce millions of barrels of oil for the US",
-   "detail": "US President Trump said the US is working with Venezuela on oil production for the US, citing millions of barrels. He gave no timetable or further detail.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "0d1be4ab668deecf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzv4oa7eu2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzv4oa7eu2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "56db0f363319",
-   "created_at": "2026-10-29T18:25:45Z"
   }
  ]
 }
