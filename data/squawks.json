@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T08:10:53Z",
+ "generated_at": "2026-11-02T08:15:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7c99cffacf76",
+   "ts": "2026-11-02T08:15:47Z",
+   "headline": "Spain's October manufacturing PMI rises to 52.2, above the 50.5 forecast",
+   "detail": "Spain's manufacturing PMI came in at 52.2, against a forecast of 50.5 and a previous reading of 51.0.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "11f6921f462fcaa8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcv2hcybe2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcv2hcybe2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6c4d75128f96",
+   "created_at": "2026-11-02T08:15:54Z"
+  },
   {
    "id": "425646d18a37",
    "ts": "2026-11-02T08:06:49Z",
@@ -6318,27 +6339,6 @@
      "author": "financialtimes.com",
      "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3myzkugjo2z2k",
      "url": "https://bsky.app/profile/financialtimes.com/post/3myzkugjo2z2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "df71be88cbed",
-   "created_at": "2026-10-29T15:20:52Z"
-  },
-  {
-   "id": "d969104ad25b",
-   "ts": "2026-10-29T15:18:33Z",
-   "headline": "IMF backs Fed Chair Warsh's focus on price stability",
-   "detail": "The IMF said it fully supports Fed Chair Warsh's comments on focusing on price stability and that the Fed is right to watch the data closely.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "37d6e854528b715e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzksqw5mh2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzksqw5mh2a"
     }
    ],
    "model": "opus",
