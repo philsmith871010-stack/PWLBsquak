@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T09:55:46Z",
+ "generated_at": "2026-11-02T10:01:14Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e09db0e6c7f8",
+   "ts": "2026-11-02T10:00:29Z",
+   "headline": "China's Wang Yi urges all sides in the Middle East conflict to pursue political solutions rather than renewed fighting",
+   "detail": "Chinese Foreign Minister Wang Yi made the call on Monday during a meeting in Beijing with an Iranian national security official, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5d467bc7d6574ea0"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzd2vofot62p",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzd2vofot62p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e31199f51e83",
+   "created_at": "2026-11-02T10:01:14Z"
+  },
   {
    "id": "3b1ea193c69f",
    "ts": "2026-11-02T09:53:59Z",
@@ -6305,39 +6326,6 @@
    "model": "opus",
    "run_id": "e1fbab94ff60",
    "created_at": "2026-10-29T17:45:51Z"
-  },
-  {
-   "id": "5fd63fed5a20",
-   "ts": "2026-10-29T17:33:40Z",
-   "headline": "Iran's parliament speaker Ghalibaf says talks can progress only once mediators accept Iran's seven conditions",
-   "detail": "Iran's Parliament Speaker Ghalibaf said Iran has set out its conditions to mediators many times and that pressure combined with incentives will not work on Iran. He said progress depends on all seven conditions being agreed.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9e8c560ef55401db",
-    "f40de7312d3dc7f8",
-    "059f03242567dda5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzsee5fa52a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzsee5fa52a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzsg55tbn2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzsg55tbn2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzsg7rt272d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzsg7rt272d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3c7bc3ca54b1",
-   "created_at": "2026-10-29T17:35:44Z"
   }
  ]
 }
