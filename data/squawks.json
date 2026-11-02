@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T09:51:07Z",
+ "generated_at": "2026-11-02T09:55:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3b1ea193c69f",
+   "ts": "2026-11-02T09:53:59Z",
+   "headline": "UK 30-year gilt yield falls more than 7bp on the day to 5.648%, its lowest since 7 August",
+   "detail": "The 30-year gilt yield dropped by more than 7bp on the day to 5.648%, its lowest level since 7 August, according to a market report. Earlier, the 10-year yield fell 5bp to 5.23%.",
+   "category": "global_rates",
+   "importance": 3,
+   "source_event_ids": [
+    "10513ee3bf3d6466"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd2k2uuzj2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd2k2uuzj2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b92a07108411",
+   "created_at": "2026-11-02T09:55:46Z"
+  },
   {
    "id": "c8217032b67d",
    "ts": "2026-11-02T09:49:24Z",
@@ -6317,27 +6338,6 @@
    "model": "opus",
    "run_id": "3c7bc3ca54b1",
    "created_at": "2026-10-29T17:35:44Z"
-  },
-  {
-   "id": "cf1995568eca",
-   "ts": "2026-10-29T17:27:50Z",
-   "headline": "Trump says the Federal Reserve is reluctant to cut interest rates",
-   "detail": "US President Trump said the Fed dislikes cutting interest rates, according to a market headline. No market reaction was reported.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a8b196c199ff9208"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3myzrzvnqtl2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3myzrzvnqtl2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c0c12fdf323b",
-   "created_at": "2026-10-29T17:31:05Z"
   }
  ]
 }
