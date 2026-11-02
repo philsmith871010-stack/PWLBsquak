@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T15:15:56Z",
+ "generated_at": "2026-11-02T15:20:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "24879406f157",
+   "ts": "2026-11-02T15:19:13Z",
+   "headline": "ECB's Escrivá says the outlook for interest rates is highly complex",
+   "detail": "ECB Governing Council member José Luis Escrivá said the rates scenario is marked by high complexity. He gave no figures.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "89a24b7a89973812"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdmpmo6of25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdmpmo6of25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dc3a5f31645b",
+   "created_at": "2026-11-02T15:20:56Z"
+  },
   {
    "id": "2c2d7a3e0745",
    "ts": "2026-11-02T15:13:51Z",
@@ -5825,33 +5846,6 @@
    "model": "opus",
    "run_id": "71530cbab534",
    "created_at": "2026-10-30T06:40:49Z"
-  },
-  {
-   "id": "572e1f92064c",
-   "ts": "2026-10-30T06:34:18Z",
-   "headline": "BoJ Governor Ueda expects Japan's economy to keep growing moderately; puts mid- to long-term inflation expectations at around 2%",
-   "detail": "The BoJ Governor made the remarks after the bank kept its short-term rate at 1.25%. He said medium- to long-term inflation expectations are around 2%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "e2a88d8e08c4f58d",
-    "75cd03e878d831c6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz35ya6doq2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz35ya6doq2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz362isqta2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz362isqta2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "29d239a6e2d7",
-   "created_at": "2026-10-30T06:35:47Z"
   }
  ]
 }
