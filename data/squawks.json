@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T19:56:02Z",
+ "generated_at": "2026-11-02T20:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5891e08ae141",
+   "ts": "2026-11-02T20:04:51Z",
+   "headline": "Trump answers no when asked whether the US will strike Iran after the elections",
+   "detail": "US President Trump said no when asked about striking Iran after the elections, according to a White House pool report.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "bc4a130dca25bdfa"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze4oesxwh2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze4oesxwh2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "60cbe6bc1122",
+   "created_at": "2026-11-02T20:05:43Z"
+  },
+  {
+   "id": "081e03388338",
+   "ts": "2026-11-02T20:02:34Z",
+   "headline": "US Treasury puts privately held net marketable borrowing at $739bn in its quarterly refunding estimate",
+   "detail": "The US Treasury's quarterly refunding estimate puts privately held net marketable borrowing at $739bn for the July-September 2026 quarter, assuming an end-September cash balance of $950bn. Excluding a higher-than-expected cash balance at the start of the quarter, the estimate is $87bn above the May projection.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "477e1460cbaf84a5",
+    "2bf26db3c45129fe",
+    "37ecb0a013c92546",
+    "ada9c57575288708"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze4kbhyzf25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze4kbhyzf25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze4ljzo7u2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze4ljzo7u2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze4jazsar2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze4jazsar2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze4mkfdz525",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze4mkfdz525"
+    }
+   ],
+   "model": "opus",
+   "run_id": "60cbe6bc1122",
+   "created_at": "2026-11-02T20:05:43Z"
+  },
   {
    "id": "695a2c806d52",
    "ts": "2026-11-02T19:54:02Z",
@@ -5720,54 +5780,6 @@
    "model": "opus",
    "run_id": "f7c2964e9065",
    "created_at": "2026-10-30T09:01:21Z"
-  },
-  {
-   "id": "27fad2c26ac3",
-   "ts": "2026-10-30T08:57:32Z",
-   "headline": "Kremlin aide Ushakov says Russia, the US and Ukraine have agreed to resume trilateral negotiations",
-   "detail": "Kremlin aide Yuri Ushakov said the three countries had agreed to restart trilateral talks, responding to media reports about Europe's possible involvement in the negotiations.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c540511a725e1a82"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3fydskxg2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3fydskxg2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f7c2964e9065",
-   "created_at": "2026-10-30T09:01:21Z"
-  },
-  {
-   "id": "46b2910b4187",
-   "ts": "2026-10-30T08:55:44Z",
-   "headline": "German unemployment rises by 4k in October, below 5k forecast; jobless rate holds at 6.4% as expected",
-   "detail": "German seasonally adjusted unemployment rose by 4k, against a 5k forecast and 12k previously. The unemployment rate was 6.4%, in line with the forecast and unchanged from the previous month.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7dcae4641dbd3127",
-    "893e0b65d897ee4a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3fv4rdo72g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3fv4rdo72g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3fvxkqiv2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3fvxkqiv2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3c402acf197f",
-   "created_at": "2026-10-30T08:56:16Z"
   }
  ]
 }
