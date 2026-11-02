@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T19:35:46Z",
+ "generated_at": "2026-11-02T19:40:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "212c6f47a028",
+   "ts": "2026-11-02T19:36:28Z",
+   "headline": "Trump tells Axios he is in no hurry to decide whether to restart the war with Iran",
+   "detail": "In a phone interview with Axios, the US President said he did not need to decide quickly on resuming the war with Iran. He also said Iran had recently stated again that it will not have a nuclear weapon.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "386cac933168ce12",
+    "b4fbaa1ac0343a59",
+    "3a589735c4818622",
+    "106dcd2c79fbe07f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze33meiuc24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze33meiuc24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze34ha46t2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze34ha46t2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze37gwpfx2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze37gwpfx2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze35wymv525",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze35wymv525"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a45240334f02",
+   "created_at": "2026-11-02T19:40:51Z"
+  },
   {
    "id": "0577aefec04b",
    "ts": "2026-11-02T19:33:21Z",
@@ -5729,33 +5768,6 @@
    "model": "opus",
    "run_id": "36e26f7bed6c",
    "created_at": "2026-10-30T08:50:51Z"
-  },
-  {
-   "id": "9ed744fcf417",
-   "ts": "2026-10-30T08:40:40Z",
-   "headline": "Saxony's October CPI slows to 2.8% y/y from 3.4%, with prices down 0.2% m/m",
-   "detail": "Figures for the German state of Saxony show annual inflation easing to 2.8% in October from 3.4% the previous month. Prices fell 0.2% m/m, after a 0.6% rise previously; no forecast was given.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "7e2259ad98396a48",
-    "193cb7f116c8d5b8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3f22vcup2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3f22vcup2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3f26vrcv2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3f26vrcv2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "856973da9c04",
-   "created_at": "2026-10-30T08:40:53Z"
   }
  ]
 }
