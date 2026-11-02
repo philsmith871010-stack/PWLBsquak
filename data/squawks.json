@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T18:01:18Z",
+ "generated_at": "2026-11-02T18:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c3b17ff7fe13",
+   "ts": "2026-11-02T18:03:58Z",
+   "headline": "Israel says it will back whatever the US decides on Iran and that a nuclear strike is not under discussion",
+   "detail": "Israel's UN envoy Danon told Al Arabiya that Israel will support the US decision on Iran, and that Israel and the US are not discussing a nuclear strike on Iran.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c2f1c907f80db2a9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdvw7dtmr2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdvw7dtmr2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4e428629158d",
+   "created_at": "2026-11-02T18:05:42Z"
+  },
   {
    "id": "f40d7083fac5",
    "ts": "2026-11-02T18:00:31Z",
@@ -5735,51 +5756,6 @@
    "model": "opus",
    "run_id": "23bd5d38b6fc",
    "created_at": "2026-10-30T07:55:39Z"
-  },
-  {
-   "id": "ec16d7b63f08",
-   "ts": "2026-10-30T07:46:09Z",
-   "headline": "French flash October HICP rises 3.8% y/y, above 3.6% forecast and up from 3.4% in September",
-   "detail": "France's preliminary October harmonised inflation came in at 3.8% y/y and 0.4% m/m, against forecasts of 3.6% and 0.3%. National CPI rose 3.4% y/y against a 3.3% forecast (previously 3.1%), and 0.4% m/m against a 0.2% forecast (previously -0.3%).",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "082e6d1a7d259591",
-    "27b686d916a70684",
-    "7e206778ccb1f7d3",
-    "f48bd634b02f6850",
-    "75c9b10d2027d0b0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3bypsodb2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3bypsodb2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3bz4kihm24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3bz4kihm24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3bz7melo2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3bz7melo2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3bzbwptz2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3bzbwptz2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3bze6cht25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3bze6cht25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c115ee885ea3",
-   "created_at": "2026-10-30T07:50:51Z"
   }
  ]
 }
