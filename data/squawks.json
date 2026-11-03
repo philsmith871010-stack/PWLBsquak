@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T09:55:44Z",
+ "generated_at": "2026-11-03T10:05:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3a6153e66d74",
+   "ts": "2026-11-03T10:04:07Z",
+   "headline": "UK 10-year gilt auction clears at 5.268% with cover of 3.38, compared with 5.418% and 3.61 at the previous sale",
+   "detail": "The 10-year gilt auction gave an average yield of 5.268%, down from 5.418% at the previous sale. The bid-to-cover ratio was 3.38, against 3.61 last time.",
+   "category": "supply",
+   "importance": 2,
+   "source_event_ids": [
+    "8c1598f681f13531",
+    "c50e21399a22cdc1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfll3fi742y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfll3fi742y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfllacqtj2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfllacqtj2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "354490a0fee1",
+   "created_at": "2026-11-03T10:05:50Z"
+  },
   {
    "id": "120c8a712f39",
    "ts": "2026-11-03T09:55:00Z",
@@ -6239,27 +6266,6 @@
    "model": "opus",
    "run_id": "4d9851af2c06",
    "created_at": "2026-10-30T13:35:47Z"
-  },
-  {
-   "id": "b13d90ca515e",
-   "ts": "2026-10-30T13:15:41Z",
-   "headline": "OBR chair Haskel says revised ONS productivity figures leave the UK productivity puzzle unresolved",
-   "detail": "OBR Chair Jonathan Haskel made the remarks about the ONS's revised productivity numbers at a Resolution Foundation event on 29 October, the think tank reports.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "824a3dcf6b179a1a"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mz3ufwwyna2i",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mz3ufwwyna2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9a38f50693de",
-   "created_at": "2026-10-30T13:15:52Z"
   }
  ]
 }
