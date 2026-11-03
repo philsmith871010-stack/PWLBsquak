@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T12:50:52Z",
+ "generated_at": "2026-11-03T13:01:22Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8a6371f1e4ad",
+   "ts": "2026-11-03T13:00:55Z",
+   "headline": "UK to make a guaranteed lifetime retirement income the default option for private sector pensions",
+   "detail": "Plans unveiled by the UK government on Tuesday will make a guaranteed income for life the default retirement option for private sector workers, so that savers do not have to manage their pension pots themselves, Reuters reports.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "6ead829c3d0f9da1"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzfvhaja4x2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzfvhaja4x2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2e1a0b04b861",
+   "created_at": "2026-11-03T13:01:22Z"
+  },
+  {
+   "id": "06b4320ae504",
+   "ts": "2026-11-03T12:59:59Z",
+   "headline": "Brent crude drops below $105 a barrel to session lows",
+   "detail": "Brent crude was reported trading below $105 a barrel, its lowest level of the session, while Iran and the US review the mediators' latest proposals.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "d6ad29f5edb8cd5b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfvfl4yej2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfvfl4yej2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2e1a0b04b861",
+   "created_at": "2026-11-03T13:01:22Z"
+  },
   {
    "id": "68aa78b3c897",
    "ts": "2026-11-03T12:49:09Z",
@@ -6158,54 +6200,6 @@
    "model": "opus",
    "run_id": "bf780e0c9ec1",
    "created_at": "2026-10-30T16:15:51Z"
-  },
-  {
-   "id": "3a1399ae6ad3",
-   "ts": "2026-10-30T16:08:29Z",
-   "headline": "Kremlin aide Ushakov says Russia and the US are coordinating dates for a three-way meeting in Abu Dhabi in November",
-   "detail": "Ushakov said Russia has sent the US its thoughts on dates for the trilateral talks with Ukraine and is waiting for a reply. He said the meeting will be held in Abu Dhabi in November.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5da09f59d99c796a",
-    "496e512c28cbba12"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz462x423u2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz462x423u2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz462mtv4b2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz462mtv4b2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f5a587e69740",
-   "created_at": "2026-10-30T16:10:52Z"
-  },
-  {
-   "id": "962fb1d5995a",
-   "ts": "2026-10-30T16:06:59Z",
-   "headline": "Fed's Daly says AI is important to how policymakers think about policy in the near and medium term",
-   "detail": "San Francisco Fed President Daly said artificial intelligence is a significant factor in how the Fed approaches policy over the near and medium term.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7b2dc9eab27cea1d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz45yawwcd2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz45yawwcd2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f5a587e69740",
-   "created_at": "2026-10-30T16:10:52Z"
   }
  ]
 }
