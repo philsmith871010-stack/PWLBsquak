@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T13:05:48Z",
+ "generated_at": "2026-11-03T13:10:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e7e56ca5e104",
+   "ts": "2026-11-03T13:08:50Z",
+   "headline": "US Energy Secretary Wright says the overnight US strikes on Iran's Qeshm Island have not affected oil flows",
+   "detail": "US Energy Secretary Wright said the overnight US strikes on Iran, including the attack on Qeshm Island, have not affected the flow of oil.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "01e98dd69acd1ff1",
+    "98085316b66c150b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfvveufjg2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfvveufjg2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfvvfizoe2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfvvfizoe2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d2d1c390bad0",
+   "created_at": "2026-11-03T13:10:57Z"
+  },
   {
    "id": "6296f8c5c9ed",
    "ts": "2026-11-03T13:01:50Z",
@@ -6155,27 +6182,6 @@
    "model": "opus",
    "run_id": "920855901487",
    "created_at": "2026-10-30T16:35:41Z"
-  },
-  {
-   "id": "39216402c6f3",
-   "ts": "2026-10-30T16:17:08Z",
-   "headline": "ECB's Lane says AI adoption is still at a fairly early stage, and the scale and timing of its economy-wide impact are very uncertain",
-   "detail": "ECB chief economist Philip Lane added this point to his earlier remarks on AI and the euro area economy. He did not mention interest rates.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "fd69238051c7241d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz46kgbzxe2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz46kgbzxe2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0a3d6611f89d",
-   "created_at": "2026-10-30T16:20:53Z"
   }
  ]
 }
