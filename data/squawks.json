@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T07:05:43Z",
+ "generated_at": "2026-11-03T07:10:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4f3b2820101d",
+   "ts": "2026-11-03T07:07:17Z",
+   "headline": "Iran's parliament speaker Qalibaf says Tehran has sent Washington its response and the next move is for the US",
+   "detail": "Iranian state media reported Parliament Speaker Qalibaf as saying Tehran had given the US a strong and rational response, leaving the next step to Washington. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f09a4519ee55fd14",
+    "f22933562428709b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfbov5f342b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfbov5f342b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfbpuru6u2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfbpuru6u2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a2a8dc0b1369",
+   "created_at": "2026-11-03T07:10:53Z"
+  },
   {
    "id": "65e38b5a4426",
    "ts": "2026-11-03T07:01:23Z",
@@ -6215,33 +6242,6 @@
    "model": "opus",
    "run_id": "46f3fd63a6fe",
    "created_at": "2026-10-30T11:25:42Z"
-  },
-  {
-   "id": "068b07c61f4e",
-   "ts": "2026-10-30T11:18:52Z",
-   "headline": "China's Xi calls the EU a partner and says differences can be resolved through equal dialogue",
-   "detail": "Chinese President Xi Jinping said China sees the EU as a partner, according to state broadcaster CCTV. He added that the two sides can always resolve their differences and problems if they keep to that partnership and to equal dialogue.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b603589037ba6847",
-    "7ebc971391e1585a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3ntnqpbr2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3ntnqpbr2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3nv3enit2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3nv3enit2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f14c85539303",
-   "created_at": "2026-10-30T11:20:50Z"
   }
  ]
 }
