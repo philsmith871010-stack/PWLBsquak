@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T08:40:56Z",
+ "generated_at": "2026-11-03T08:50:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1fc4ee6546a9",
+   "ts": "2026-11-03T08:46:10Z",
+   "headline": "ECB's Machado calls for strong bank capital standards to be kept, including an output floor",
+   "detail": "ECB official Machado said it is important to keep strong capital standards for banks and to retain an output floor. The remarks were about bank regulation, not interest rates.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "7f13e120ef21f926"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfh7p5prs25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfh7p5prs25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "94affc9e58d1",
+   "created_at": "2026-11-03T08:50:54Z"
+  },
   {
    "id": "f25abefde701",
    "ts": "2026-11-03T08:38:10Z",
@@ -6258,39 +6279,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3rvmlinj2a",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3rvmlinj2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "41221f2d4b3e",
-   "created_at": "2026-10-30T12:31:08Z"
-  },
-  {
-   "id": "dd35e6d180df",
-   "ts": "2026-10-30T12:28:22Z",
-   "headline": "Iran's IRGC says three oil tankers hit mines in Hormuz on Friday; burning supertanker carrying over 2m barrels abandoned",
-   "detail": "The IRGC says the latest vessel was the third oil tanker to strike a mine on Friday, and Iranian state broadcaster IRIB says a supertanker holding more than 2 million barrels has been abandoned and is on fire at the mouth of the Strait. Separately, the FT reports that attackers in a speedboat hit a tanker with limpet mines on Thursday, the first such incident since 2019.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "137ead8de69834c9",
-    "f15a76e6b95f2f0c",
-    "c87a633d925e62e3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3rreblc72d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3rreblc72d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3rqeta4q24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3rqeta4q24"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mz3rtixukf2t",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mz3rtixukf2t"
     }
    ],
    "model": "opus",
