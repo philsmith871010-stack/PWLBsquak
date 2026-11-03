@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T09:20:54Z",
+ "generated_at": "2026-11-03T09:25:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b45205bd5523",
+   "ts": "2026-11-03T09:21:34Z",
+   "headline": "Iran's Gharibabadi says Tehran would respond if a nuclear weapon were used against it",
+   "detail": "Iranian official Gharibabadi told ISNA that Iran's hands would not be tied if it were the target of a nuclear weapon. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "abce326a6b310468",
+    "b86ddfd2015abf3b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfj6zfpgf2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfj6zfpgf2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfj752e4p24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfj752e4p24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dc35239fe982",
+   "created_at": "2026-11-03T09:25:48Z"
+  },
   {
    "id": "0c02d9503294",
    "ts": "2026-11-03T09:16:51Z",
@@ -6216,39 +6243,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3sdbf6i72d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3sdbf6i72d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5998b2afd8ba",
-   "created_at": "2026-10-30T12:40:53Z"
-  },
-  {
-   "id": "dc97e0970cda",
-   "ts": "2026-10-30T12:37:45Z",
-   "headline": "Russia plans to extend its diesel export ban, with some exceptions, to the end of January",
-   "detail": "Interfax reports that Russia plans to extend the diesel export ban, with certain exceptions, until the end of January. TASS cites Deputy Prime Minister Novak as saying Russia plans to export 510,000 tonnes of diesel in October and 2.15m tonnes in November.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "c3b3b49954bd491d",
-    "a8322736bbc829b8",
-    "271341bc5ca21f23"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3sc52boj25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3sc52boj25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3sdlppvy2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3sdlppvy2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3seindaw2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3seindaw2y"
     }
    ],
    "model": "opus",
