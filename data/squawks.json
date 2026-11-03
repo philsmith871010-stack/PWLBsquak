@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T21:46:03Z",
+ "generated_at": "2026-11-03T22:01:21Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "28715b2d375c",
+   "ts": "2026-11-03T22:00:52Z",
+   "headline": "Australia's final services PMI rises to 48.5 from 47.8 and the composite PMI to 48.2 from 47.7",
+   "detail": "Australia's final October services PMI came in at 48.5, up from 47.8.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "c50ffe773a96d0fa",
+    "9932efe912452190"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgtmqyf6d22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgtmqyf6d22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgtmt67nj2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgtmt67nj2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "05fb3277d5e3",
+   "created_at": "2026-11-03T22:01:21Z"
+  },
   {
    "id": "bc2fd1309605",
    "ts": "2026-11-03T21:45:50Z",
@@ -5867,27 +5894,6 @@
    "model": "opus",
    "run_id": "e080d9f34827",
    "created_at": "2026-11-02T08:05:47Z"
-  },
-  {
-   "id": "6401ce05ed07",
-   "ts": "2026-11-02T07:53:57Z",
-   "headline": "Start of US-Iran negotiations depends on the naval blockade ending, report says",
-   "detail": "A market news account reports that opening negotiations between Iran and the US is conditional on an end to the naval blockade; the post does not name the source of the statement. No market reaction is reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e39c0eb9b65459e7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcttfy4px2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcttfy4px2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "91a45f077120",
-   "created_at": "2026-11-02T07:55:41Z"
   }
  ]
 }
