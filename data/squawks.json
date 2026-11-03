@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T08:50:54Z",
+ "generated_at": "2026-11-03T09:10:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "91e225269a12",
+   "ts": "2026-11-03T09:09:48Z",
+   "headline": "Iranian assessments increasingly see a return to war as likely, report says",
+   "detail": "A newswire headline reports that assessments inside Iran increasingly see a return to war as likely. The report gives no source for the assessments and no market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6206f68ef4382b38"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfijxtutx2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfijxtutx2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "58d1fd2ec6b6",
+   "created_at": "2026-11-03T09:10:56Z"
+  },
+  {
+   "id": "7fa74e834c87",
+   "ts": "2026-11-03T09:09:44Z",
+   "headline": "Iran's president, parliament speaker and foreign minister press the military to engage with Qatar's proposal",
+   "detail": "President Pezeshkian, parliament speaker Qalibaf and foreign minister Araqchi have urged Iran's armed forces to engage with the Qatari mediation proposal on a US-Iran deal. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "37c06fb9a42ef713"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfiju2sgh22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfiju2sgh22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "58d1fd2ec6b6",
+   "created_at": "2026-11-03T09:10:56Z"
+  },
   {
    "id": "1fc4ee6546a9",
    "ts": "2026-11-03T08:46:10Z",
@@ -6230,60 +6272,6 @@
    "model": "opus",
    "run_id": "39c5bc734484",
    "created_at": "2026-10-30T12:35:45Z"
-  },
-  {
-   "id": "4a33a6cc5150",
-   "ts": "2026-10-30T12:31:16Z",
-   "headline": "Canadian GDP flat m/m in August against 0.2% forecast; StatCan flash estimate points to a 0.1% fall in September",
-   "detail": "Statistics Canada said August GDP was unchanged on the month, missing the 0.2% forecast, and July was also flat. Its flash estimate suggests GDP most likely fell 0.1% in September.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6a214393ae7f7960",
-    "8ff876d907fdc1b1",
-    "025253769e2f93ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3rwjocan2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3rwjocan2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3rwumkxv2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3rwumkxv2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3rxxtowi25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3rxxtowi25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "39c5bc734484",
-   "created_at": "2026-10-30T12:35:45Z"
-  },
-  {
-   "id": "4b1b47f970d0",
-   "ts": "2026-10-30T12:30:45Z",
-   "headline": "US Q3 employment cost index rises 0.8%, in line with consensus; wages and salaries slow to 0.7% from 0.9%",
-   "detail": "US Q3 employment costs rose 0.8%, down from 0.9% in Q2 and matching consensus. Wages and salaries rose 0.7% and benefit costs 0.9%, after 0.9% and 1.0% respectively in Q2.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "1d5d5bdd6771dbe9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3rvmlinj2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3rvmlinj2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "41221f2d4b3e",
-   "created_at": "2026-10-30T12:31:08Z"
   }
  ]
 }
