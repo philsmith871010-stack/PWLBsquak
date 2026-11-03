@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T07:20:57Z",
+ "generated_at": "2026-11-03T07:25:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2e353376a977",
+   "ts": "2026-11-03T07:23:45Z",
+   "headline": "ECB's Radev says the October pause does not mark the end of tightening as the economic environment becomes more challenging",
+   "detail": "ECB Governing Council member Radev said the economic environment is getting more challenging and that the ECB's pause in October does not mean tightening has finished.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "2b2d5ccab9b865ce",
+    "d0a5dbc7743cbde2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfckt7tl322",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfckt7tl322"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfcmdkszg24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfcmdkszg24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3feb79814d12",
+   "created_at": "2026-11-03T07:25:47Z"
+  },
   {
    "id": "04a4e7ae8401",
    "ts": "2026-11-03T07:16:24Z",
@@ -6239,27 +6266,6 @@
    "model": "opus",
    "run_id": "01e762dca22c",
    "created_at": "2026-10-30T11:45:51Z"
-  },
-  {
-   "id": "5e123c6e0aae",
-   "ts": "2026-10-30T11:40:32Z",
-   "headline": "ECB's Makhlouf says keeping rates on hold does not mean the ECB has finished",
-   "detail": "ECB Governing Council member Makhlouf said the decision to hold rates should not be read as a sign that the ECB is done.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "294d943d372360c7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3p3tdlxm2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3p3tdlxm2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cf12847b429b",
-   "created_at": "2026-10-30T11:40:52Z"
   }
  ]
 }
