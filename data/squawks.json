@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T12:20:58Z",
+ "generated_at": "2026-11-03T12:25:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3f33c75fe44e",
+   "ts": "2026-11-03T12:25:19Z",
+   "headline": "Iran's supreme leader warns foreign forces in the Persian Gulf that they belong only at the bottom of its waters",
+   "detail": "Iran's supreme leader said in a statement that outside powers acting from thousands of kilometres away in the Gulf have no place there, as the US and Iran weigh Qatar's mediation proposals. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8db6a8cfadd37674"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfthl3j5w2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfthl3j5w2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d496c3ff6cb2",
+   "created_at": "2026-11-03T12:25:51Z"
+  },
   {
    "id": "87fa6ccdeb7d",
    "ts": "2026-11-03T12:17:47Z",
@@ -6179,33 +6200,6 @@
    "model": "opus",
    "run_id": "5928f26419bd",
    "created_at": "2026-10-30T15:05:54Z"
-  },
-  {
-   "id": "cd77bdd8bbfc",
-   "ts": "2026-10-30T14:48:25Z",
-   "headline": "Russia's Novak says October oil output is above September's, with December diesel export plan due at the end of November",
-   "detail": "Russian Deputy Prime Minister Novak says Russian oil production in October was higher than in September. He adds that Russia will set its plan for December diesel exports at the end of November.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "43e8e4d77a9f0c31",
-    "437ac5d1dcf5e7fd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3zlrmhye22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3zlrmhye22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3zpk3wp32f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3zpk3wp32f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "66cfdb90d087",
-   "created_at": "2026-10-30T14:50:54Z"
   }
  ]
 }
