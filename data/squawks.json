@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T18:35:57Z",
+ "generated_at": "2026-11-03T18:41:07Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "342509389c41",
+   "ts": "2026-11-03T18:39:44Z",
+   "headline": "ECB's Nagel says he is confident France will sort out its budget problems and that this is not a job for monetary policy",
+   "detail": "Bundesbank President and ECB Governing Council member Joachim Nagel commented on France's fiscal position on 3 November. He said dealing with the budget is not a task for monetary policy.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2b808c5975a160fd",
+    "bf4a010935622384"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgif3jv6q2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgif3jv6q2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgif7sbp32b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgif7sbp32b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2c7f4586d572",
+   "created_at": "2026-11-03T18:41:07Z"
+  },
   {
    "id": "804d31ba45fb",
    "ts": "2026-11-03T18:32:14Z",
@@ -5849,45 +5876,6 @@
    "model": "opus",
    "run_id": "051865b4df08",
    "created_at": "2026-11-02T07:31:07Z"
-  },
-  {
-   "id": "c87284b76011",
-   "ts": "2026-11-02T07:01:00Z",
-   "headline": "German real retail sales fall 2% in September, against a 0.4% rise forecast",
-   "detail": "German real retail sales dropped 2% month on month in September, after a 1.3% rise the previous month. They were down 2.3% year on year, compared with a -0.2% forecast and -0.4% previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "20c18b665114a621",
-    "cd9c4171bb785a03",
-    "0e983a75db783cfc",
-    "ef7d7b3f6a2cfd6f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcquntyed24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcquntyed24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcqupzl5h22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcqupzl5h22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcquudq3b2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcquudq3b2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcqux7fbq25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcqux7fbq25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0ff4216339f1",
-   "created_at": "2026-11-02T07:01:20Z"
   }
  ]
 }
