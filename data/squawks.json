@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T09:25:48Z",
+ "generated_at": "2026-11-03T09:36:01Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3655b7baa424",
+   "ts": "2026-11-03T09:32:14Z",
+   "headline": "Kremlin confirms three-way Ukraine talks in Abu Dhabi next week, with Putin aide Medinsky leading Russia's delegation",
+   "detail": "The Kremlin confirmed the tripartite talks on Ukraine due in Abu Dhabi next week and named presidential aide Vladimir Medinsky as Russia's lead negotiator. It said all sides broadly agree the meeting would be useful.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "dd78e9a8b184d69f",
+    "3f8749ee0de3d3f7",
+    "dfb31afe9ad10d8b",
+    "532e509fa1de45f7",
+    "9f576357bf0d15fc",
+    "e1d65d41839f861e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfjs35fj32b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfjs35fj32b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfjrxut5v2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfjrxut5v2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfjsd6ns42z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfjsd6ns42z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfjvcf3j62f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfjvcf3j62f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfjvfvfvi2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfjvfvfvi2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfjvk5hon2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfjvk5hon2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7f1012113f1d",
+   "created_at": "2026-11-03T09:36:01Z"
+  },
   {
    "id": "b45205bd5523",
    "ts": "2026-11-03T09:21:34Z",
@@ -6227,27 +6278,6 @@
    "model": "opus",
    "run_id": "1e49036e4310",
    "created_at": "2026-10-30T13:01:18Z"
-  },
-  {
-   "id": "7c8508014e78",
-   "ts": "2026-10-30T12:38:23Z",
-   "headline": "US Treasury yields hold most of their losses after US data; 10-year down 6.22bp at 4.927%, 2-year down 7.05bp at 4.586%",
-   "detail": "US Treasury yields mostly held their declines after the release of US economic data. The 10-year yield was last 6.22bp lower at 4.927% and the 2-year yield 7.05bp lower at 4.586%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "724a1ccbbb907ab3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3sdbf6i72d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3sdbf6i72d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5998b2afd8ba",
-   "created_at": "2026-10-30T12:40:53Z"
   }
  ]
 }
