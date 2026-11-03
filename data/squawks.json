@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T10:35:43Z",
+ "generated_at": "2026-11-03T10:40:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1343359e6aaa",
+   "ts": "2026-11-03T10:35:50Z",
+   "headline": "ECB's Moulin says the ECB has to stop inflation from spreading beyond energy",
+   "detail": "ECB official Moulin said the central bank needs to keep energy-driven inflation from spilling over into wider prices. No market reaction was reported.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1bde8623dd069f8e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfnds7i4724",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfnds7i4724"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3ec19d78cdf5",
+   "created_at": "2026-11-03T10:40:59Z"
+  },
   {
    "id": "451738db9520",
    "ts": "2026-11-03T10:32:20Z",
@@ -6197,51 +6218,6 @@
    "model": "opus",
    "run_id": "1a92601e52a1",
    "created_at": "2026-10-30T14:10:53Z"
-  },
-  {
-   "id": "4a8aeee036c0",
-   "ts": "2026-10-30T14:03:19Z",
-   "headline": "China's commerce ministry opposes US FCC curbs on Chinese testing labs and says further countermeasures will follow if the US continues",
-   "detail": "China's commerce ministry says the FCC vote restricting Chinese testing labs breaches a consensus agreed between the two heads of state and seriously disrupts the stability of global supply chains. It says Beijing had repeatedly proposed talks on a mutual recognition pact but the US stance was extremely negative, and that China will take further countermeasures if the US continues.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "369b9f8b8737f827",
-    "03be1d542b87bfb4",
-    "c089306a768732e4",
-    "92cce2abaf886e02",
-    "364a64f4c7280611"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3x24eero2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3x24eero2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3x2yhnks25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3x2yhnks25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3x34qjsf2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3x34qjsf2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3x3xlqph2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3x3xlqph2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3x64fwgp2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3x64fwgp2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "79926828dce6",
-   "created_at": "2026-10-30T14:05:44Z"
   }
  ]
 }
