@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T07:50:52Z",
+ "generated_at": "2026-11-03T08:10:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "611906282ac1",
+   "ts": "2026-11-03T08:07:51Z",
+   "headline": "German Chancellor Merz calls for a cut to electricity tax in the 2027 budget and says he has ideas on how to deliver it",
+   "detail": "German Chancellor Friedrich Merz said a reduction in electricity tax needs to be secured in Germany's 2027 budget. He did not say how it would be paid for.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "06acdc221bb5a030"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzff36j5wk2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzff36j5wk2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d1cfccc869f7",
+   "created_at": "2026-11-03T08:10:55Z"
+  },
   {
    "id": "adb01d7806d0",
    "ts": "2026-11-03T07:45:59Z",
@@ -6263,33 +6284,6 @@
    "model": "opus",
    "run_id": "959e116e5ba5",
    "created_at": "2026-10-30T12:10:53Z"
-  },
-  {
-   "id": "784012bb69db",
-   "ts": "2026-10-30T12:03:37Z",
-   "headline": "Kremlin says Kyiv is disregarding Trump's calls to halt strikes on Russian oil refineries",
-   "detail": "Kremlin aide Ushakov said on Friday that Ukraine has not heeded Trump's repeated demands to stop attacking Russian refineries.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "130cf23f622a6ee6",
-    "195b478b95b4d3b8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3qf3zjks2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3qf3zjks2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3qgxp6uo25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3qgxp6uo25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7eb39d03f51d",
-   "created_at": "2026-10-30T12:05:41Z"
   }
  ]
 }
