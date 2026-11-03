@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T17:31:07Z",
+ "generated_at": "2026-11-03T17:35:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5aedee2e850c",
+   "ts": "2026-11-03T17:31:09Z",
+   "headline": "Russia's foreign ministry says it will seek removal of sanctions on Russian assets in Norway and invokes the Svalbard Treaty",
+   "detail": "Russian reports cite the foreign ministry as saying Moscow will try to have the sanctions on Russian assets in Norway lifted. The ministry also demands that Oslo comply fully with international law, including the Svalbard Treaty.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a5d3e65a40f34311",
+    "a18f9936238cd513"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgekgycyz2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgekgycyz2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgelbpmek2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgelbpmek2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ab8a60ef92b9",
+   "created_at": "2026-11-03T17:35:46Z"
+  },
   {
    "id": "1790c923a0c6",
    "ts": "2026-11-03T17:28:59Z",
@@ -5921,39 +5948,6 @@
    "model": "opus",
    "run_id": "6d08e8b17767",
    "created_at": "2026-11-02T06:31:06Z"
-  },
-  {
-   "id": "2e030946eebd",
-   "ts": "2026-11-02T03:08:34Z",
-   "headline": "Brent drops to $109.52 in Asian trade, heading for its lowest level in more than a week; WTI nears $100",
-   "detail": "Brent was reported down more than $3 at $110.37 a barrel. It then fell nearly 2% more to $109.52, while WTI dropped about 2% towards $100 after earlier sliding more than $3 to $101.11.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "78e2da9854f94c72",
-    "b2df82ce3d0331f2",
-    "bded22406afe5718"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcbxsogk42d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcbxsogk42d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcbwbamiu2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcbwbamiu2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcdv4ijwr2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcdv4ijwr2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c406026c1fe7",
-   "created_at": "2026-11-02T06:25:43Z"
   }
  ]
 }
