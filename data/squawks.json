@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T08:35:53Z",
+ "generated_at": "2026-11-03T08:40:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f25abefde701",
+   "ts": "2026-11-03T08:38:10Z",
+   "headline": "Iran's armed forces chief seeks recognition of Tehran's sovereignty over Hormuz and an end to the US security umbrella",
+   "detail": "Further principles set out by Iran's armed forces chief, as reported by Tasnim and other outlets, include war reparations, guarantees against further aggression and security arrangements led from within the region. He also calls for recognition of Iranian sovereignty over the Strait of Hormuz and for the US security umbrella to be replaced.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fef5fa4817370977",
+    "f6b9b4f4bcb949da"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfgpk7mjh22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfgpk7mjh22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfgrfik2c2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfgrfik2c2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cc19788aad7c",
+   "created_at": "2026-11-03T08:40:56Z"
+  },
   {
    "id": "0557b4646acf",
    "ts": "2026-11-03T08:34:58Z",
@@ -6269,33 +6296,6 @@
    "model": "opus",
    "run_id": "41221f2d4b3e",
    "created_at": "2026-10-30T12:31:08Z"
-  },
-  {
-   "id": "1002f6b3c834",
-   "ts": "2026-10-30T12:23:30Z",
-   "headline": "Iranian state media says a supertanker exploded after striking a sea mine in the Strait of Hormuz",
-   "detail": "Iran's IRIB News said the supertanker hit a mine about an hour before its report, on what it called an unauthorised route through the strait, and Fars also reported the mine strike. No market reaction was reported.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "3210c4ae497ceb8d",
-    "09b2f894e650df90"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3rinv5ff2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3rinv5ff2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3rlrrpr52d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3rlrrpr52d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bfa947d4ab3a",
-   "created_at": "2026-10-30T12:25:42Z"
   }
  ]
 }
