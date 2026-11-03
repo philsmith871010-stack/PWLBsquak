@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T16:35:46Z",
+ "generated_at": "2026-11-03T17:31:07Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1790c923a0c6",
+   "ts": "2026-11-03T17:28:59Z",
+   "headline": "Russia summons Norway's chargé d'affaires to protest over the seizure of Russian assets requested by Ukraine",
+   "detail": "Russian reports say the foreign ministry lodged a protest with Norway's chargé d'affaires after Russian assets were seized following a request from Ukraine.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "977101a5f4c9fc31"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgegkyffr22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgegkyffr22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9e24cbfa3031",
+   "created_at": "2026-11-03T17:31:07Z"
+  },
+  {
+   "id": "76d9397e2d46",
+   "ts": "2026-11-03T17:28:55Z",
+   "headline": "Zelenskiy says Russia would not survive fully enforced sanctions and urges pressure rather than dialogue alone with Putin",
+   "detail": "Ukraine's president said Russia could not survive if all sanctions were fully applied with no exemptions for some oligarchs. He also said Putin responds to pressure and strong steps, and that Europe is several times stronger than Russia.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6d39865192ad7d25",
+    "3b4cd020b273fb58",
+    "f682a54fb11da4fa"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgegh7hn62f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgegh7hn62f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgegj3gbi2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgegj3gbi2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgefjtqcf25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgefjtqcf25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9e24cbfa3031",
+   "created_at": "2026-11-03T17:31:07Z"
+  },
   {
    "id": "05336736aff2",
    "ts": "2026-11-03T16:31:19Z",
@@ -5895,72 +5949,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcdv4ijwr2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcdv4ijwr2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c406026c1fe7",
-   "created_at": "2026-11-02T06:25:43Z"
-  },
-  {
-   "id": "ed700677dfd8",
-   "ts": "2026-11-02T02:04:55Z",
-   "headline": "US pushes to restore Russian gas flows to Europe through Ukraine as part of a Moscow-Kyiv energy truce, WSJ reports",
-   "detail": "The Wall Street Journal reports that Washington is seeking to resume Russian gas shipments to Europe via Ukraine. The aim is an energy truce between Russia and Ukraine.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "bb6c8f9a00e7a0bb",
-    "8a20b8f279c9b708"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcadcfj4f25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcadcfj4f25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcag76mz32k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcag76mz32k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c406026c1fe7",
-   "created_at": "2026-11-02T06:25:43Z"
-  },
-  {
-   "id": "a907298f4cbb",
-   "ts": "2026-11-02T01:46:04Z",
-   "headline": "China's RatingDog manufacturing PMI eases to 52.0 in October, above the 51.6 forecast",
-   "detail": "China's RatingDog manufacturing PMI fell to 52.0 in October from 52.1 in September. The forecast was 51.6.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1f488774273acbe6",
-    "afa035ce00c0f81e",
-    "95ff8ceb1daabe6a",
-    "b68c012d0559da37"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzc7bli3xq22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzc7bli3xq22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzc7bnq2nn2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzc7bnq2nn2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzc7dgu2cy2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzc7dgu2cy2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzc7bjajq62b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzc7bjajq62b"
     }
    ],
    "model": "opus",
