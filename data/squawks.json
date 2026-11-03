@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T13:01:22Z",
+ "generated_at": "2026-11-03T13:05:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6296f8c5c9ed",
+   "ts": "2026-11-03T13:01:50Z",
+   "headline": "Kremlin's Peskov says Russia will in time need to talk to Europe about a future security system, but who it talks to matters",
+   "detail": "Kremlin spokesman Dmitry Peskov said Russia would eventually have to discuss a future European security system with Europe, and stressed the importance of who its counterparts would be. He spoke ahead of the US-mediated three-way Ukraine talks in Abu Dhabi.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a3be4a693a49d709"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfvium5mo2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfvium5mo2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cb8b77617fc8",
+   "created_at": "2026-11-03T13:05:48Z"
+  },
   {
    "id": "8a6371f1e4ad",
    "ts": "2026-11-03T13:00:55Z",
@@ -6155,51 +6176,6 @@
    "model": "opus",
    "run_id": "0a3d6611f89d",
    "created_at": "2026-10-30T16:20:53Z"
-  },
-  {
-   "id": "05e08e3aeb2e",
-   "ts": "2026-10-30T16:12:25Z",
-   "headline": "ECB's Lane says AI is lifting euro area activity, with AI-related price pressures visible but limited effect on headline inflation",
-   "detail": "ECB chief economist Lane said artificial intelligence is driving growth and credit trends and could significantly raise productivity, and that AI companies are more sensitive to monetary policy. He said AI-related price pressures can be seen but have had limited impact on headline inflation.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "442ae859c04be69b",
-    "e1268a56e98559e0",
-    "b4bf14a1638e22ef",
-    "5359a8305f15d929",
-    "30c7492a773c04ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz46byjtx32f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz46byjtx32f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz46czpqdu25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz46czpqdu25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz46dcre3m2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz46dcre3m2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz46dj5zve2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz46dj5zve2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz46ggqz2o2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz46ggqz2o2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bf780e0c9ec1",
-   "created_at": "2026-10-30T16:15:51Z"
   }
  ]
 }
