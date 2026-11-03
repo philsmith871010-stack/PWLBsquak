@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T16:25:45Z",
+ "generated_at": "2026-11-03T16:35:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "05336736aff2",
+   "ts": "2026-11-03T16:31:19Z",
+   "headline": "Resolution Foundation says Budget headroom fell from £24bn to £15bn as energy prices top the OBR's central forecast",
+   "detail": "The Resolution Foundation says oil and gas prices have gone above the OBR's central forecast since its forecast window closed in mid-August, and are nearer its severe scenario. It says gilt yields are still in line with the OBR's central forecast.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "ac50338a71e0f4df"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mzgb7hati22o",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mzgb7hati22o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "022275254996",
+   "created_at": "2026-11-03T16:35:46Z"
+  },
   {
    "id": "8afc388cb07c",
    "ts": "2026-11-03T16:23:57Z",
@@ -5945,39 +5966,6 @@
    "model": "opus",
    "run_id": "c406026c1fe7",
    "created_at": "2026-11-02T06:25:43Z"
-  },
-  {
-   "id": "c9e0b1b5d452",
-   "ts": "2026-11-02T00:58:55Z",
-   "headline": "Brent and WTI fall a further $2 a barrel in Asian trade as efforts to restart Middle East talks gather pace",
-   "detail": "Brent and WTI crude were each reported down $2 a barrel early on Monday. The WSJ linked the fall to efforts to get Middle East parties back to negotiations, and Reuters said high oil prices were limiting demand for sovereign bonds as a safe haven.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "fc3ddeb6ce3e538e",
-    "8499ba537957b10f",
-    "7c11e4397ebf2995"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzc4nbgbcf2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzc4nbgbcf2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzc6ombjfl2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzc6ombjfl2f"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzc4qluafi2a",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzc4qluafi2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "808305e69d02",
-   "created_at": "2026-11-02T06:20:52Z"
   }
  ]
 }
