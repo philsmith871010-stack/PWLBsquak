@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T09:45:56Z",
+ "generated_at": "2026-11-03T09:55:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "120c8a712f39",
+   "ts": "2026-11-03T09:55:00Z",
+   "headline": "China says it will keep a moderately loose monetary policy and sets out five focus areas for financial policy",
+   "detail": "Xinhua reports that China will continue its moderately loose monetary policy and has named five main areas of focus for financial policy. These include stopping illegal financial activity and looking into the use of AI in financial oversight.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e2cb306dc89a3653",
+    "bf11ce0cbf38a6b2",
+    "b67cac0b57ffb568",
+    "fe50d4b90f6b8941"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfl2sjzc72b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfl2sjzc72b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfkzz5pic2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfkzz5pic2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfkwmikp62d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfkwmikp62d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfkwplyph2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfkwplyph2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "06329ff868e4",
+   "created_at": "2026-11-03T09:55:44Z"
+  },
   {
    "id": "62dc8edc4f42",
    "ts": "2026-11-03T09:45:12Z",
@@ -6221,39 +6260,6 @@
    "model": "opus",
    "run_id": "9a38f50693de",
    "created_at": "2026-10-30T13:15:52Z"
-  },
-  {
-   "id": "9675ffe09209",
-   "ts": "2026-10-30T13:08:39Z",
-   "headline": "Kremlin says Ukrainian refinery strikes will not derail upcoming Ukraine talks and will not be raised in Abu Dhabi",
-   "detail": "Kremlin spokesman Peskov said Russia will not bring up Kyiv's attacks on Russian oil refineries at the upcoming Abu Dhabi meeting. Interfax reported the Kremlin as saying the strikes do not put the negotiations in doubt.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ef80ff5be26b73be",
-    "f2387039c8704068",
-    "3deb706ca6dfb243"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3tzernvl2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3tzernvl2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3tumbtq22g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3tumbtq22g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3u4eyr6r25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3u4eyr6r25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bbd124d32109",
-   "created_at": "2026-10-30T13:10:58Z"
   }
  ]
 }
