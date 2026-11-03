@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T07:31:23Z",
+ "generated_at": "2026-11-03T07:50:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "adb01d7806d0",
+   "ts": "2026-11-03T07:45:59Z",
+   "headline": "French year-to-date budget balance comes in at -159.173bn, compared with -159.60bn previously",
+   "detail": "France's latest state budget balance figure is -159.173bn, against -159.60bn in the previous release. No forecast was given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8e0f0b1ab2e20fb7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfdu44x4z2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfdu44x4z2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0c15401c9046",
+   "created_at": "2026-11-03T07:50:52Z"
+  },
   {
    "id": "1af837a00c67",
    "ts": "2026-11-03T07:31:06Z",
@@ -6269,27 +6290,6 @@
    "model": "opus",
    "run_id": "7eb39d03f51d",
    "created_at": "2026-10-30T12:05:41Z"
-  },
-  {
-   "id": "a713045ea40d",
-   "ts": "2026-10-30T11:44:39Z",
-   "headline": "Trump was briefed on Thursday on possible military options in Iran, Fox reports",
-   "detail": "Fox reports that US President Trump received a briefing on Thursday on potential military options against Iran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "daefad26e1b71c5d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3pd6hton2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3pd6hton2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "01e762dca22c",
-   "created_at": "2026-10-30T11:45:51Z"
   }
  ]
 }
