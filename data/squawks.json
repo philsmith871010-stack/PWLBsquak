@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T22:05:47Z",
+ "generated_at": "2026-11-03T22:11:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9ea9684a4ba3",
+   "ts": "2026-11-03T22:06:53Z",
+   "headline": "Canada's Carney says the US is asking for fewer concessions and offering more, and some Canadian red lines have been dropped",
+   "detail": "Canadian Prime Minister Mark Carney said some of Canada's limits in the US trade talks have been removed and discussions will intensify, though no deal has been reached yet. He added that lines of communication remain open even when negotiators are not meeting the USTR.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "744e28a384166a09",
+    "c61fa7dc0758638d",
+    "4f2123e8afc76781",
+    "4befc2a99b45c4f2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgtwo5rh322",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgtwo5rh322"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgtxijycy2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgtxijycy2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgtztxntn2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgtztxntn2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgu5grhot2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgu5grhot2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ef300317ef8c",
+   "created_at": "2026-11-03T22:11:06Z"
+  },
   {
    "id": "98b49ec0513d",
    "ts": "2026-11-03T22:04:36Z",
@@ -5885,27 +5924,6 @@
    "model": "opus",
    "run_id": "6c4d75128f96",
    "created_at": "2026-11-02T08:15:54Z"
-  },
-  {
-   "id": "425646d18a37",
-   "ts": "2026-11-02T08:06:49Z",
-   "headline": "Iran says a letter from US Vice President Vance gives no new basis for talks and its demands have not changed",
-   "detail": "Iran's response to the letter from US Vice President Vance was reported in a market headline. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9364fbe6558a025c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcukgcus425",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcukgcus425"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e8a2d7a9e2a3",
-   "created_at": "2026-11-02T08:10:53Z"
   }
  ]
 }
