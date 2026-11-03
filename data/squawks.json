@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T16:05:47Z",
+ "generated_at": "2026-11-03T16:16:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d6031662fdae",
+   "ts": "2026-11-03T16:13:24Z",
+   "headline": "BoC's Macklem says he does not see fiscal policy currently making it harder to bring inflation down",
+   "detail": "Bank of Canada Governor Tiff Macklem said that, in present circumstances, he does not believe fiscal policy is complicating efforts to lower inflation. He made the remark after earlier saying further rate hikes may be needed.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a6d34e91a2c3ee9f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzga7fws6x2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzga7fws6x2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "adde692fd0f4",
+   "created_at": "2026-11-03T16:16:00Z"
+  },
   {
    "id": "683e1c0e58ec",
    "ts": "2026-11-03T16:05:35Z",
@@ -6042,51 +6063,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzc3v4zhky25",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzc3v4zhky25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "808305e69d02",
-   "created_at": "2026-11-02T06:20:52Z"
-  },
-  {
-   "id": "80b8ab695b30",
-   "ts": "2026-11-02T00:33:00Z",
-   "headline": "South Korea and Taiwan October manufacturing PMIs fall; Japan's final reading holds at 53.3",
-   "detail": "S&P Global's October manufacturing PMI fell to 51.3 from 53.9 in South Korea and to 54.9 from 56.7 in Taiwan. Japan's final reading was unchanged from the flash estimate at 53.3.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1bcc71a34bc5dbc3",
-    "f12e76bd45357872",
-    "19f57f223387af17",
-    "f38b08038f2a4930",
-    "af1000d95c277950"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzc36wv25622",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzc36wv25622"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzc36uqndg2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzc36uqndg2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzc34zhuse2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzc34zhuse2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzc36psest2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzc36psest2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzc3gugdul25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzc3gugdul25"
     }
    ],
    "model": "opus",
