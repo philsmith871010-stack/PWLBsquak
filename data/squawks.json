@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T18:41:07Z",
+ "generated_at": "2026-11-03T19:05:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3adae24162ba",
+   "ts": "2026-11-03T19:03:26Z",
+   "headline": "ECB's Sleijpen says France's problems have to be resolved by Paris",
+   "detail": "ECB Governing Council member Sleijpen said France's problems need to be solved in Paris. No market reaction was reported.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "5cad4665d2f4ed77"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgjphswjp2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgjphswjp2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3777099eaf76",
+   "created_at": "2026-11-03T19:05:48Z"
+  },
   {
    "id": "342509389c41",
    "ts": "2026-11-03T18:39:44Z",
@@ -5855,27 +5876,6 @@
    "model": "opus",
    "run_id": "22e748d7c178",
    "created_at": "2026-11-02T07:40:57Z"
-  },
-  {
-   "id": "c4717d21c993",
-   "ts": "2026-11-02T07:28:37Z",
-   "headline": "Iran says its seven-step proposal underpins diplomacy with the US and could be implemented within days",
-   "detail": "Iran's foreign ministry spokesperson Baghaei said Iran's seven-step proposal is the basis for its diplomacy with the US. He said there is a chance it could be implemented over the next few days.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5a0556e083232cfe"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcsg4la5b25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcsg4la5b25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "051865b4df08",
-   "created_at": "2026-11-02T07:31:07Z"
   }
  ]
 }
