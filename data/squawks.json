@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T15:20:54Z",
+ "generated_at": "2026-11-03T15:50:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4483ae7bd400",
+   "ts": "2026-11-03T15:50:16Z",
+   "headline": "Gulf oil exports fall in October from September, their highest level since the Iran war began, ship-tracking data show",
+   "detail": "Reuters cites data from two ship-tracking companies showing Gulf oil exports fell in October from September's levels. Both companies said the October figures could be revised up as more shipment details come in.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "ecd35eb1792e92c1"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzg6w2i7xn2x",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzg6w2i7xn2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "07cd815e895d",
+   "created_at": "2026-11-03T15:50:53Z"
+  },
   {
    "id": "e55f3eb83afc",
    "ts": "2026-11-03T15:16:53Z",
@@ -6035,27 +6056,6 @@
    "model": "opus",
    "run_id": "814c8c269d2b",
    "created_at": "2026-11-02T06:15:53Z"
-  },
-  {
-   "id": "44167336cc1a",
-   "ts": "2026-10-30T21:46:05Z",
-   "headline": "US approves $2.1bn sale of Patriot interceptors to Ukraine",
-   "detail": "The Financial Times reports that the US has approved a $2.1bn sale of Patriot interceptors to Ukraine. President Zelenskyy had accused the Trump administration of holding up the weapons as relations between the two countries worsened.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5210c1e22bdeb7dc"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mz4qwmqjit24",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mz4qwmqjit24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "91e04780dfa2",
-   "created_at": "2026-10-30T21:50:56Z"
   }
  ]
 }
