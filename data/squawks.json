@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T10:47:06Z",
+ "generated_at": "2026-11-03T11:31:07Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "eb062f9c8f67",
+   "ts": "2026-11-03T11:30:33Z",
+   "headline": "IFS director criticises the Budget's Founders Relief tax break for entrepreneurs at Treasury Committee hearing",
+   "detail": "Helen Miller, head of the Institute for Fiscal Studies, told the Treasury Committee she did not see how Treasury officials could have concluded from the evidence on entrepreneurship that the Founders Relief tax break was good policy.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "7a05b90e98aba8ae"
+   ],
+   "sources": [
+    {
+     "author": "bruceandy.bsky.social",
+     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3mzfqfmvqsk2y",
+     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3mzfqfmvqsk2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "737ad55fb97f",
+   "created_at": "2026-11-03T11:31:07Z"
+  },
   {
    "id": "11a57e46a34e",
    "ts": "2026-11-03T10:46:10Z",
@@ -6203,27 +6224,6 @@
    "model": "opus",
    "run_id": "891b76b3a8ec",
    "created_at": "2026-10-30T14:35:47Z"
-  },
-  {
-   "id": "5ae5d298d1b0",
-   "ts": "2026-10-30T14:20:31Z",
-   "headline": "US officials say Thursday's Iran meeting focused on a blockade and economic pressure, not strikes, Axios reports",
-   "detail": "Axios cites several US officials as saying more than 20 people attended Thursday's meeting on Iran, which discussed a blockade and economic pressure at length. The officials said strikes remain possible straight after the midterms.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "70fe99ccc0c496a9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3xzusxlo2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3xzusxlo2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fe1fe3c54401",
-   "created_at": "2026-10-30T14:20:56Z"
   }
  ]
 }
