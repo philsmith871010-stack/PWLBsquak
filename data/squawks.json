@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T17:55:44Z",
+ "generated_at": "2026-11-03T18:01:25Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b12582fd6f39",
+   "ts": "2026-11-03T18:00:45Z",
+   "headline": "ECB's Nagel says a December rate hike is very likely needed as inflation pressures near the adverse scenario",
+   "detail": "Bundesbank President and ECB Governing Council member Joachim Nagel said September inflation pressures were higher than expected and approaching the ECB's adverse scenario. He said the ECB must stop the energy price spike from feeding into broad-based inflation.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "358ffb958606e359",
+    "a9b9989eeaef5627",
+    "bc5fdd53c755b747"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgg7ffex62k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgg7ffex62k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzggabdlgt2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzggabdlgt2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzggafxkqo25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzggafxkqo25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "411355d1fcfd",
+   "created_at": "2026-11-03T18:01:25Z"
+  },
   {
    "id": "6104e18418fe",
    "ts": "2026-11-03T17:51:42Z",
@@ -5850,63 +5883,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzcnqvuja72x",
      "url": "https://bsky.app/profile/reuters.com/post/3mzcnqvuja72x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "886c7aae1a93",
-   "created_at": "2026-11-02T06:35:47Z"
-  },
-  {
-   "id": "91da211548c6",
-   "ts": "2026-11-02T05:47:05Z",
-   "headline": "China's Xi warns against the Middle East and Gulf becoming a battleground for great power rivalry",
-   "detail": "China's President Xi said, according to state broadcaster CCTV, that China will keep pursuing political and diplomatic settlement of disputes. He also said Beijing is willing to step up dialogue and cooperation with Arab nations to restore regional peace and stability soon.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2971239262848f72",
-    "de2cfee471065cff",
-    "aeb50ecf795b0519",
-    "6a2777d204815a16",
-    "e153963e09a8ca2e",
-    "227afb9a3172a5e7",
-    "1fba10ddd2bd8267"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcmqky43q2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcmqky43q2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcmrfm3ra2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcmrfm3ra2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcmrj5uhw22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcmrj5uhw22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcmsd7pzj25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcmsd7pzj25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcmslvesn2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcmslvesn2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcmtga7vw2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcmtga7vw2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcmudzouo2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcmudzouo2d"
     }
    ],
    "model": "opus",
