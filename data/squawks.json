@@ -1,8 +1,104 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T06:01:15Z",
+ "generated_at": "2026-11-03T06:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9397f56d6bcd",
+   "ts": "2026-11-03T01:50:18Z",
+   "headline": "Oil rises in early Asian trade after report of US strike on Iran's Qeshm Island, then stabilises",
+   "detail": "Reuters reported oil prices rising in early Asian trading on Tuesday after the Wall Street Journal said the US had struck Qeshm Island. A later Reuters report said oil had stabilised after the previous session's sharp fall, with Asian stocks lower ahead of the US midterm elections.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "32c5fbd3a9c88018",
+    "368db3d40c5668ab"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzepy3eigq2t",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzepy3eigq2t"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzes7u5ksy2i",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzes7u5ksy2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5ad79eb7bab9",
+   "created_at": "2026-11-03T06:05:42Z"
+  },
+  {
+   "id": "530dd4324b8d",
+   "ts": "2026-11-03T01:25:15Z",
+   "headline": "Offshore yuan falls as much as 0.34% to 6.67 per dollar after PBOC raises FX deposit reserve ratio",
+   "detail": "The offshore yuan fell 0.26% to 6.6642 per dollar, its largest daily drop since June, before extending losses to 0.34% at 6.67. The move followed the PBOC's increase in the foreign currency deposit reserve ratio to 6% from 4%. The PBOC fixed the yuan midpoint at 6.7150 per dollar.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "959ab7ca07b3ff2d",
+    "df360e4893b1775c",
+    "fc29229aafeecc47",
+    "d1d12ccc7c6ae1f0",
+    "aa188ed7ece969e9",
+    "1a228d8fd605a1f3",
+    "f52617ab5d753a9f",
+    "955ca357c703fb5f",
+    "9a42ead24035341a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzeniyi4qv2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzeniyi4qv2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzenj2v2b52p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzenj2v2b52p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzenr3rhfn2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzenr3rhfn2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzenrwy44u2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzenrwy44u2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzeolbhxlo2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzeolbhxlo2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzeom7dfhs2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzeom7dfhs2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzesawyfgw2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzesawyfgw2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzeseqykys25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzeseqykys25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzeo3kvx4x25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzeo3kvx4x25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5ad79eb7bab9",
+   "created_at": "2026-11-03T06:05:42Z"
+  },
   {
    "id": "5711597227c2",
    "ts": "2026-11-03T00:48:25Z",
@@ -5828,66 +5924,6 @@
    "model": "opus",
    "run_id": "5aeee84f035c",
    "created_at": "2026-10-30T09:50:53Z"
-  },
-  {
-   "id": "5626b1f7fb01",
-   "ts": "2026-10-30T09:45:18Z",
-   "headline": "ECB's Nagel says the ECB will act decisively if needed",
-   "detail": "Bundesbank President and ECB Governing Council member Joachim Nagel said the central bank is prepared to take decisive action if required. He spoke after earlier saying that a price rise in the coming weeks cannot be ruled out.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b7bcfe1ce8504da7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3inr365f2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3inr365f2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "55727ebd9070",
-   "created_at": "2026-10-30T09:45:55Z"
-  },
-  {
-   "id": "d6bdfc3e2d2d",
-   "ts": "2026-10-30T09:38:27Z",
-   "headline": "ECB's Nagel sees no significant second-round effects yet but says a price rise in the coming weeks cannot be ruled out",
-   "detail": "ECB Governing Council member Nagel said the decision to hold rates had not been easy. He also said medium-term inflation expectations must stay firmly anchored.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1b4fdd5ad5962333",
-    "b5c6ec933f585cbc",
-    "3d4c82ef15b7abc6",
-    "0a8758633728efb0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3ibjckrr24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3ibjckrr24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3ibnwws62d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3ibnwws62d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3ichb5ni25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3ichb5ni25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3ickbug42f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3ickbug42f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "29238e7c8901",
-   "created_at": "2026-10-30T09:40:51Z"
   }
  ]
 }
