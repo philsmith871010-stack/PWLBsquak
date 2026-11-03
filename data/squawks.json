@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T13:55:45Z",
+ "generated_at": "2026-11-03T14:10:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "84f1d3fde861",
+   "ts": "2026-11-03T14:09:41Z",
+   "headline": "Russian crude exports climb to 3.65m b/d as attacks on its refineries resume",
+   "detail": "A market news account reports that Russia's crude exports have risen to 3.65 million barrels a day amid renewed attacks on Russian refineries. No price reaction was reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "b37a8cd298d90c81"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfzc6p4u42g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfzc6p4u42g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9523a27c395b",
+   "created_at": "2026-11-03T14:10:55Z"
+  },
   {
    "id": "6948257f7832",
    "ts": "2026-11-03T13:53:34Z",
@@ -6035,27 +6056,6 @@
    "model": "opus",
    "run_id": "2e9b43879bc1",
    "created_at": "2026-10-30T18:50:52Z"
-  },
-  {
-   "id": "38ba87981082",
-   "ts": "2026-10-30T18:45:16Z",
-   "headline": "US orders non-emergency government staff to leave Saudi Arabia, citing Houthi attacks on airports and infrastructure",
-   "detail": "The US embassy in Riyadh said on Friday that non-emergency government employees and their families have been ordered to leave Saudi Arabia, effective 23 October, because of safety risks, Reuters reports. The embassy cited Houthi attacks on civilian airports and other critical infrastructure.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "870168268db40b36"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mz4gtcguor2t",
-     "url": "https://bsky.app/profile/reuters.com/post/3mz4gtcguor2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5da2662d1dd2",
-   "created_at": "2026-10-30T18:45:56Z"
   }
  ]
 }
