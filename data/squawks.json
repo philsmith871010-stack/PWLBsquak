@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T14:35:52Z",
+ "generated_at": "2026-11-03T14:40:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "81c1760bfadc",
+   "ts": "2026-11-03T14:36:49Z",
+   "headline": "ECB's Moulin calls France's 0.4% growth forecast optimistic and says a downgrade is likely",
+   "detail": "ECB policymaker Moulin said France's 0.4% GDP growth forecast is optimistic and will probably need to be revised down. He described euro area growth as fairly resilient.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2e20c90d7453f04f",
+    "0ed0b4b79e976364",
+    "5ac2e1c454b3fb0e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg2sq7kns2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg2sq7kns2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg2thqndt2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg2thqndt2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg2uajeqw2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg2uajeqw2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8de431f5af7c",
+   "created_at": "2026-11-03T14:40:59Z"
+  },
   {
    "id": "fafaa75c27b7",
    "ts": "2026-11-03T14:34:13Z",
@@ -6047,27 +6080,6 @@
    "model": "opus",
    "run_id": "7fc30af43702",
    "created_at": "2026-10-30T20:05:43Z"
-  },
-  {
-   "id": "3724853bb035",
-   "ts": "2026-10-30T20:01:01Z",
-   "headline": "Canadian dollar reaches six-week high against the US dollar as higher oil prices support bets on more Bank of Canada tightening",
-   "detail": "Reuters reports the Canadian dollar extended its monthly gain on Friday as the oil price jump lifted expectations that the Bank of Canada will tighten further. The move outweighed weaker-than-expected Canadian GDP data.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "53cd6270c42ee66b"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mz4l2qkw762t",
-     "url": "https://bsky.app/profile/reuters.com/post/3mz4l2qkw762t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "451c22ffd787",
-   "created_at": "2026-10-30T20:01:22Z"
   }
  ]
 }
