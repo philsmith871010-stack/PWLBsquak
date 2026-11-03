@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T18:31:10Z",
+ "generated_at": "2026-11-03T18:35:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "804d31ba45fb",
+   "ts": "2026-11-03T18:32:14Z",
+   "headline": "ECB's Sleijpen sees no clear second-round inflation effects yet but says tightening is slowing Europe's economy",
+   "detail": "ECB Governing Council member Sleijpen said second-round effects are not yet really visible, that rising energy risks carry knock-on effects for inflation, and that policy tightening is slowing the European economy.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2415f44987f8bb61",
+    "eb1200b074051b8c",
+    "81fd1c8f5879ce2a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzghxo6rcd25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzghxo6rcd25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgi4fqqoc2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgi4fqqoc2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgi5m75gr2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgi5m75gr2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8567a8c325d6",
+   "created_at": "2026-11-03T18:35:57Z"
+  },
   {
    "id": "609090c7a858",
    "ts": "2026-11-03T18:27:56Z",
@@ -5850,27 +5883,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcqux7fbq25",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcqux7fbq25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0ff4216339f1",
-   "created_at": "2026-11-02T07:01:20Z"
-  },
-  {
-   "id": "8a6e3ceabe1a",
-   "ts": "2026-11-02T07:00:28Z",
-   "headline": "Goldman Sachs now expects a 25bp BoE rate rise in February 2027 on top of a quarter-point hike next week",
-   "detail": "Reuters reports that Goldman Sachs has added a February 25bp Bank of England rate rise to its forecast, alongside its existing call for a quarter-point increase next week. The bank cited higher energy prices and stronger economic data.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "3613462e6d781404"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzcqtrcazf2t",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzcqtrcazf2t"
     }
    ],
    "model": "opus",
