@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T11:45:50Z",
+ "generated_at": "2026-11-03T12:15:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "35a3c9f20b62",
+   "ts": "2026-11-03T12:15:26Z",
+   "headline": "Iran's president says the supreme leader has authorised talks on issues previously treated as non-negotiable",
+   "detail": "Iran's president made the statement on Tuesday as Iran and the US consider the mediators' latest proposals. The report did not say which issues are covered or describe any market reaction.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "75d24851b9083c74"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfsvvzj532g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfsvvzj532g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a96863d8d992",
+   "created_at": "2026-11-03T12:15:54Z"
+  },
   {
    "id": "b26d4d33b496",
    "ts": "2026-11-03T11:45:22Z",
@@ -6203,27 +6224,6 @@
    "model": "opus",
    "run_id": "66cfdb90d087",
    "created_at": "2026-10-30T14:50:54Z"
-  },
-  {
-   "id": "b0b39d32fffd",
-   "ts": "2026-10-30T14:45:53Z",
-   "headline": "Russia's Novak says attacks on oil refineries will hurt diesel supplies to the global market",
-   "detail": "Russian Deputy Prime Minister Alexander Novak said strikes on Russian oil refineries will have a negative effect on global diesel supply. He had earlier said Ukraine had resumed such strikes.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "7976b6fbc98ca585"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3zha3krm2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3zha3krm2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6ebe2827aef4",
-   "created_at": "2026-10-30T14:45:54Z"
   }
  ]
 }
