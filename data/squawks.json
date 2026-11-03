@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T15:01:29Z",
+ "generated_at": "2026-11-03T15:05:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a65272e2f42a",
+   "ts": "2026-11-03T15:04:50Z",
+   "headline": "US Treasury yields rise after US data; 10-year up 5.36bp at 4.948%, 2-year up 3.13bp at 4.614%",
+   "detail": "US Treasury yields moved higher after the release of US factory orders and JOLTS job openings data. The 10-year yield was last up 5.36bp at 4.948% and the 2-year was up 3.13bp at 4.614%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "5500104040873daa"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg4esy77m2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg4esy77m2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1fac819b48b2",
+   "created_at": "2026-11-03T15:05:45Z"
+  },
+  {
+   "id": "d82e99f0e9c8",
+   "ts": "2026-11-03T15:01:29Z",
+   "headline": "US September durable goods orders revised up to 1.9%, against a 1.8% forecast and initial reading",
+   "detail": "The revised US durable goods orders figure for September is 1.9%. The forecast and the previous reading were both 1.8%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a6e30aff57cb8546",
+    "14d0b7b0e2a475e0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg46svmmc2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg46svmmc2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg4aatiw42d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg4aatiw42d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1fac819b48b2",
+   "created_at": "2026-11-03T15:05:45Z"
+  },
   {
    "id": "e504677a5adb",
    "ts": "2026-11-03T15:00:48Z",
@@ -6020,54 +6068,6 @@
    "model": "opus",
    "run_id": "8d0f0135c6cd",
    "created_at": "2026-10-30T21:10:55Z"
-  },
-  {
-   "id": "f4b59dfd889d",
-   "ts": "2026-10-30T20:34:30Z",
-   "headline": "Lavrov says Russia's stance is unchanged ahead of the Abu Dhabi talks",
-   "detail": "Russian Foreign Minister Sergei Lavrov said Moscow's position had not changed before the negotiations in Abu Dhabi. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0725e62485c78516"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4mwmkcfv2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4mwmkcfv2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b2cdfc69ba16",
-   "created_at": "2026-10-30T20:35:44Z"
-  },
-  {
-   "id": "c4753e037c8c",
-   "ts": "2026-10-30T20:04:16Z",
-   "headline": "Fourth tanker explodes after striking a mine in the Strait of Hormuz, Iran's IRGC says via state broadcaster",
-   "detail": "Iran's IRGC, as reported by Iranian state broadcaster IRIB, says a fourth tanker exploded after hitting a mine in the Strait of Hormuz. The IRGC says the tanker had ignored warnings not to use an 'unauthorised route' through the strait.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "8c244ff789fce5cf",
-    "7185c7c2fbac1a52"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4lakgfab2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4lakgfab2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4lcvdwet2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4lcvdwet2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7fc30af43702",
-   "created_at": "2026-10-30T20:05:43Z"
   }
  ]
 }
