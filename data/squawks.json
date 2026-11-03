@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T10:15:53Z",
+ "generated_at": "2026-11-03T10:20:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3807e613d6be",
+   "ts": "2026-11-03T10:18:24Z",
+   "headline": "Iranian state broadcaster says three oil tankers caught fire in the Strait of Hormuz on Tuesday",
+   "detail": "Iran's state broadcaster IRIB reported on Tuesday that three oil tankers caught fire in the Strait of Hormuz. The report gave no cause, and no market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fc7b3b561fcfa18a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfmengahb2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfmengahb2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6d9baa6f2a72",
+   "created_at": "2026-11-03T10:20:53Z"
+  },
   {
    "id": "8bbc7434ac02",
    "ts": "2026-11-03T10:14:48Z",
@@ -6209,69 +6230,6 @@
    "model": "opus",
    "run_id": "df075319dc4f",
    "created_at": "2026-10-30T13:45:54Z"
-  },
-  {
-   "id": "5a467a44c0e2",
-   "ts": "2026-10-30T13:40:19Z",
-   "headline": "Fed's Barkin says AI investment is driving demand-side inflation that the Fed can lean against, and cost pressures are hitting firms",
-   "detail": "Richmond Fed President Barkin said the AI investment surge has strained supply chains and that many cost pressures are hitting US businesses. He said years of elevated inflation make it easier for firms to justify price rises, and that consumer spending has held up surprisingly well despite fairly flat incomes.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "108ecf2dbbeffcab",
-    "24d13a70ba22c239",
-    "91255e5b9bdefcdd",
-    "a6bfddb34121662f",
-    "03b819d8a8787175",
-    "0229c36f571eac71",
-    "c777062dda80c888",
-    "7aa5aef611521a83"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3vkephpj2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3vkephpj2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3vlcajp32y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3vlcajp32y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3vmbllyf2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3vmbllyf2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3vnxchw32b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3vnxchw32b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3vors4dd2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3vors4dd2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3vr2kwrd24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3vr2kwrd24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3vrz5tlt2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3vrz5tlt2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3vs5ft5t2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3vs5ft5t2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f6476bbb7ee0",
-   "created_at": "2026-10-30T13:40:57Z"
   }
  ]
 }
