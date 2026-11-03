@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T14:31:12Z",
+ "generated_at": "2026-11-03T14:35:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fafaa75c27b7",
+   "ts": "2026-11-03T14:34:13Z",
+   "headline": "Russia launches a large-scale attack on Ukraine's energy infrastructure, hitting power plants and substations in nine regions",
+   "detail": "The Financial Times reports that Russian missiles and drones struck power plants and substations across nine Ukrainian regions, and that Ukraine's air force struggled to intercept them. The attack comes ahead of the three-way talks in Abu Dhabi, where Ukraine has asked for an energy ceasefire to be discussed.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "168d815d6e6344dd"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzg2o2r2rf2i",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mzg2o2r2rf2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "259e89cbc9ac",
+   "created_at": "2026-11-03T14:35:52Z"
+  },
   {
    "id": "0bf40e6286e0",
    "ts": "2026-11-03T14:27:53Z",
@@ -6047,27 +6068,6 @@
    "model": "opus",
    "run_id": "451c22ffd787",
    "created_at": "2026-10-30T20:01:22Z"
-  },
-  {
-   "id": "815bfce05f5b",
-   "ts": "2026-10-30T19:40:20Z",
-   "headline": "White House pushes back hearing on mortgage fraud allegations against Fed Governor Cook to December, Hassett says",
-   "detail": "Kevin Hassett, President Trump's top economic adviser, said the White House hearing into mortgage fraud allegations against Federal Reserve Governor Lisa Cook has been delayed until December, Reuters reports. On Friday, Cook's lawyers would not confirm that any date had been agreed.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "f33a220ee122d65a"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mz4jvqu7qg2o",
-     "url": "https://bsky.app/profile/reuters.com/post/3mz4jvqu7qg2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d12b6babfdd8",
-   "created_at": "2026-10-30T19:40:52Z"
   }
  ]
 }
