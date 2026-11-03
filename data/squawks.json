@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T06:20:53Z",
+ "generated_at": "2026-11-03T06:31:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c6fde361915e",
+   "ts": "2026-11-03T06:27:44Z",
+   "headline": "China halts IPOs and share offerings in a bid to stabilise weak markets, FT reports",
+   "detail": "The Financial Times reports that China's securities regulator has privately told investment banks in recent days to pause initial public offerings.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8f4338712d0bbee0",
+    "f0f25ca06c921508"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzf7i5z7gh2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzf7i5z7gh2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzf7l6raxv2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzf7l6raxv2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1d6b5e9b02cd",
+   "created_at": "2026-11-03T06:31:15Z"
+  },
   {
    "id": "74a773e5e4ca",
    "ts": "2026-11-03T06:19:45Z",
@@ -6191,27 +6218,6 @@
    "model": "opus",
    "run_id": "e575a2216003",
    "created_at": "2026-10-30T11:10:53Z"
-  },
-  {
-   "id": "40662f83f61a",
-   "ts": "2026-10-30T11:02:49Z",
-   "headline": "Kremlin calls the Oleshky situation an isolated case that should not be applied to the wider Ukraine settlement process",
-   "detail": "The Kremlin said the incident in Oleshky should not be taken as representative of the overall peace process in Ukraine.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "69e4590f6ad81ec0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3myeho6a2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3myeho6a2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "473472fc6565",
-   "created_at": "2026-10-30T11:05:41Z"
   }
  ]
 }
