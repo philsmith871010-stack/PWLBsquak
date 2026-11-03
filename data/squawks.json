@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T09:10:56Z",
+ "generated_at": "2026-11-03T09:15:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d6594fc45e8a",
+   "ts": "2026-11-03T09:13:14Z",
+   "headline": "ECB's Kocher says it is crucial to stop inflation becoming entrenched",
+   "detail": "ECB Governing Council member Martin Kocher said on Tuesday that the ECB must make sure inflation does not become entrenched.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0f8294d96422a483",
+    "cfeb2c8d2908f533"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfiq43sdd2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfiq43sdd2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfiqwrito2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfiqwrito2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6fd4503305a3",
+   "created_at": "2026-11-03T09:15:53Z"
+  },
   {
    "id": "91e225269a12",
    "ts": "2026-11-03T09:09:48Z",
@@ -6222,51 +6249,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3s5lfh6q25",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3s5lfh6q25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "39c5bc734484",
-   "created_at": "2026-10-30T12:35:45Z"
-  },
-  {
-   "id": "30f5488691ed",
-   "ts": "2026-10-30T12:33:28Z",
-   "headline": "Russia's Novak says Ukraine has resumed strikes on Russian oil refineries after a pause, hitting three refineries and a chemical plant",
-   "detail": "Russian Deputy Prime Minister Novak said Ukrainian drones attacked three Russian oil refineries and one petrochemical complex, with minor damage at one site. He said the attacks resumed after a period of pause.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "7ed78bd907ac66f9",
-    "e21562f52c99d921",
-    "47a9864a6382a5b7",
-    "a41da74af71a2a19",
-    "f2241961f2147bdf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3s2i7uma2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3s2i7uma2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3s3hv2fn2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3s3hv2fn2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3s4j3bli25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3s4j3bli25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3s5ae57f2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3s5ae57f2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3s5vythh2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3s5vythh2d"
     }
    ],
    "model": "opus",
