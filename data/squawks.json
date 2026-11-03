@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T09:15:53Z",
+ "generated_at": "2026-11-03T09:20:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0c02d9503294",
+   "ts": "2026-11-03T09:16:51Z",
+   "headline": "Iran says it would regard any action it takes as legitimate self-defence",
+   "detail": "Iran says any action it takes would be legitimate self-defence. The statement comes as the US and Iran review mediators' proposals after US strikes on Qeshm Island. The report does not name the official who made it.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1441db5f37475cec"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfiwlgsmu2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfiwlgsmu2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2f35ab1b3751",
+   "created_at": "2026-11-03T09:20:54Z"
+  },
   {
    "id": "d6594fc45e8a",
    "ts": "2026-11-03T09:13:14Z",
@@ -6233,27 +6254,6 @@
    "model": "opus",
    "run_id": "5998b2afd8ba",
    "created_at": "2026-10-30T12:40:53Z"
-  },
-  {
-   "id": "ebed94dd965e",
-   "ts": "2026-10-30T12:35:12Z",
-   "headline": "ECB asks EU leaders to begin the search for a successor to chief economist Lane",
-   "detail": "The ECB has asked EU leaders to start the process of finding a successor to Philip Lane on its Executive Board.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "906e8e658b29312d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3s5lfh6q25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3s5lfh6q25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "39c5bc734484",
-   "created_at": "2026-10-30T12:35:45Z"
   }
  ]
 }
