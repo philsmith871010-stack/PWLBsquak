@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T12:40:54Z",
+ "generated_at": "2026-11-03T12:50:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "68aa78b3c897",
+   "ts": "2026-11-03T12:49:09Z",
+   "headline": "UK PM's spokesman rules out a return to EU freedom of movement during this parliament",
+   "detail": "The Prime Minister's official spokesman said on Tuesday that the UK will not return to EU freedom of movement in the current parliament.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "320c78e16c8633bb",
+    "de418f6219ab5b1d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfus6up5c24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfus6up5c24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfuqs4gwg2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfuqs4gwg2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "afe60ef7b7c2",
+   "created_at": "2026-11-03T12:50:52Z"
+  },
   {
    "id": "7009d43edfed",
    "ts": "2026-11-03T12:40:35Z",
@@ -6179,27 +6206,6 @@
    "model": "opus",
    "run_id": "f5a587e69740",
    "created_at": "2026-10-30T16:10:52Z"
-  },
-  {
-   "id": "70d1ad9a379c",
-   "ts": "2026-10-30T15:30:50Z",
-   "headline": "Resolution Foundation puts real per-person public services spending growth at 1.7% a year from 2023-24 to 2028-29",
-   "detail": "In its Budget analysis, the Resolution Foundation says day-to-day spending is rising moderately in this Parliament. It puts real per-person growth in public services spending at 1.7% a year between 2023-24 and 2028-29, close to the two latest periods under Conservative governments.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "24d8628a27f1192c"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mz43xmtumw2j",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mz43xmtumw2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b1bacc70e849",
-   "created_at": "2026-10-30T15:31:08Z"
   }
  ]
 }
