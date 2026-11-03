@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T22:01:21Z",
+ "generated_at": "2026-11-03T22:05:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "98b49ec0513d",
+   "ts": "2026-11-03T22:04:36Z",
+   "headline": "Canada's Carney says trade talks with the US have made progress but are not finished, with red lines still to be resolved",
+   "detail": "Canadian Prime Minister Mark Carney said negotiations with the US will become more intensive, and that key issues and some red lines still have to be addressed. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "aece418f69f66ac0",
+    "d82fea51d0ef8947",
+    "967154452346cba2",
+    "09a1e827b4ea26ab"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgttg7bgi2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgttg7bgi2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgttgo7t32b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgttgo7t32b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgtu7hqxx2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgtu7hqxx2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgtv2yqon2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgtv2yqon2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "df599b789639",
+   "created_at": "2026-11-03T22:05:47Z"
+  },
   {
    "id": "28715b2d375c",
    "ts": "2026-11-03T22:00:52Z",
@@ -5867,33 +5906,6 @@
    "model": "opus",
    "run_id": "e8a2d7a9e2a3",
    "created_at": "2026-11-02T08:10:53Z"
-  },
-  {
-   "id": "aca564d41482",
-   "ts": "2026-11-02T08:01:23Z",
-   "headline": "Poland's October manufacturing PMI rises to 50.0, above the 49.4 forecast; Hungary's reading is 53.1",
-   "detail": "Poland's manufacturing purchasing managers' index came in at 50.0 for October, against a forecast of 49.4. Hungary's manufacturing PMI for October was 53.1.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e00016196d4a5c35",
-    "1796d7d84ef7fb84"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcuaoyevr2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcuaoyevr2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcubjkyjd24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcubjkyjd24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e080d9f34827",
-   "created_at": "2026-11-02T08:05:47Z"
   }
  ]
 }
