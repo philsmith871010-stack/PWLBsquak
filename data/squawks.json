@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T10:31:06Z",
+ "generated_at": "2026-11-03T10:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "451738db9520",
+   "ts": "2026-11-03T10:32:20Z",
+   "headline": "German 5-year Bobl auction clears at 3.14% with cover of 1.4, compared with 3.22% and 1.1 at the previous sale",
+   "detail": "Germany's 5-year Bobl auction came in at an average yield of 3.14%, down from 3.22% at the previous sale. Bid-to-cover was 1.4, up from 1.1.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9eb5f32b2e7340fc",
+    "daab93640029ced2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfn5fxhmv2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfn5fxhmv2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfn5khypy25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfn5khypy25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6c5b51c08436",
+   "created_at": "2026-11-03T10:35:43Z"
+  },
   {
    "id": "a28656b37de8",
    "ts": "2026-11-03T10:27:01Z",
@@ -6215,27 +6242,6 @@
    "model": "opus",
    "run_id": "79926828dce6",
    "created_at": "2026-10-30T14:05:44Z"
-  },
-  {
-   "id": "ec0addb05745",
-   "ts": "2026-10-30T13:51:16Z",
-   "headline": "Chevron CEO Wirth says crude oil and refined product prices are elevated worldwide",
-   "detail": "Chevron chief executive Mike Wirth said in a CNBC interview that prices for both crude oil and refined products are running high around the world.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "985bba2b79d1512c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz3wflujmk2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz3wflujmk2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d4f4ed795699",
-   "created_at": "2026-10-30T13:55:44Z"
   }
  ]
 }
