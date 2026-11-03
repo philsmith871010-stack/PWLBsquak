@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T17:35:46Z",
+ "generated_at": "2026-11-03T17:55:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6104e18418fe",
+   "ts": "2026-11-03T17:51:42Z",
+   "headline": "Israel tells the US that Iran is considering chemical weapons use, NYT reports, and US officials are divided on the claim",
+   "detail": "The New York Times, citing US and regional officials, reports that Israel has shared intelligence with the US asserting that Iran is weighing the use of chemical weapons against its adversaries. Some US officials reacted with alarm and others with deep scepticism, and some see it as part of an Israeli push for the US to return to major combat operations against Iran.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b2a21d6b8bbf445b",
+    "b7cec311fa0654f7",
+    "eb23bc24991a1979",
+    "ac93c63f8cf80ef8",
+    "93896cb7f2d7a99b",
+    "fa394d823aaf6a4d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgfp75gxw2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgfp75gxw2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgfpzlkd62f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgfpzlkd62f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgfslefaz2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgfslefaz2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgfteqghk2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgfteqghk2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgfu6wivq22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgfu6wivq22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgfuehb322d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgfuehb322d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "918cd837c250",
+   "created_at": "2026-11-03T17:55:44Z"
+  },
   {
    "id": "5aedee2e850c",
    "ts": "2026-11-03T17:31:09Z",
@@ -5861,93 +5912,6 @@
    "model": "opus",
    "run_id": "886c7aae1a93",
    "created_at": "2026-11-02T06:35:47Z"
-  },
-  {
-   "id": "72ee3d9d0952",
-   "ts": "2026-11-02T05:03:24Z",
-   "headline": "BoJ says rate rises should ease inflation and support consumption, and notes higher real yields at the long end",
-   "detail": "The Bank of Japan says underlying inflation has risen to about 2% and is becoming embedded at that level. It also says real interest rates have climbed recently, especially for long and super-long maturities, while median real rates stay low, and that it is watching equity and currency moves as part of a broad review of financial conditions.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "6f85047266f07927",
-    "d7e927db5306c9c5",
-    "f913ca58999d64ae",
-    "d8f7d4cff673cf0a",
-    "08cfd410357517d3",
-    "2659e22c9872e562",
-    "71ed5d3aa9c107c7",
-    "aeb3282230232d5c",
-    "e82dcd02bdea9ae3",
-    "dc3fcd28485694ae",
-    "0fc9a22b655f36c6",
-    "f379ab3dcb77b55c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzckch5ot425",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzckch5ot425"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzckdc5kww2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzckdc5kww2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzckgbzvmh2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzckgbzvmh2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzckgisgih2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzckgisgih2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzckhfikhc2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzckhfikhc2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzckifs4cd2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzckifs4cd2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzckjisg7x2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzckjisg7x2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzckjprlt72k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzckjprlt72k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzckkk3yct2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzckkk3yct2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcklppp4m2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcklppp4m2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzckmk2eax2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzckmk2eax2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcknnoxw72b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcknnoxw72b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6d08e8b17767",
-   "created_at": "2026-11-02T06:31:06Z"
   }
  ]
 }
