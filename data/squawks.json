@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T13:15:53Z",
+ "generated_at": "2026-11-03T13:20:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a297daf32828",
+   "ts": "2026-11-03T13:19:18Z",
+   "headline": "Trump says the US is halting $4b of aid to Israel under a deal agreed months ago and will not raise payments",
+   "detail": "US President Trump said in a Fox News interview that he would not increase payments to Israel and that a deal reached months ago means $4b of aid is being stopped. Asked about Iran after the elections, he said only that it remained to be seen.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2456f9d02a5b33a2",
+    "427d6b2534d5c9ae",
+    "468df39bc52e4621",
+    "064a90450a7270a7",
+    "bde4b1fd6a14157a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwi3zsnj24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwi3zsnj24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwj3dme62b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwj3dme62b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwdj7kjr22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwdj7kjr22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwhrowbg25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwhrowbg25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwk3vd2y2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwk3vd2y2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2b63a5f4dcea",
+   "created_at": "2026-11-03T13:20:53Z"
+  },
   {
    "id": "490bb41e662b",
    "ts": "2026-11-03T13:12:05Z",
@@ -6083,39 +6128,6 @@
    "model": "opus",
    "run_id": "1955817c15bf",
    "created_at": "2026-10-30T16:45:50Z"
-  },
-  {
-   "id": "44359d016ac7",
-   "ts": "2026-10-30T16:35:33Z",
-   "headline": "Canada and EU agree to define by 2027 summit an 'ever-closer association' for Canada that stops short of membership",
-   "detail": "The commitment is in a joint statement issued at the EU-Canada summit. The statement was signed by Prime Minister Carney, European Council President Costa and Commission President von der Leyen.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "8ecc6d9265088262",
-    "abb0ed343925bffd",
-    "3d3748e4a31c280f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz47lec3d62d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz47lec3d62d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz47j7sf2b2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz47j7sf2b2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz47jzjgir2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz47jzjgir2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "920855901487",
-   "created_at": "2026-10-30T16:35:41Z"
   }
  ]
 }
