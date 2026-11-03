@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T13:50:55Z",
+ "generated_at": "2026-11-03T13:55:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6948257f7832",
+   "ts": "2026-11-03T13:53:34Z",
+   "headline": "Germany's Merz says third countries should not discuss Ukraine at the G20 meeting in Miami without Ukraine present",
+   "detail": "German Chancellor Merz said it would be unacceptable for third countries to talk about Ukraine at the G20 meeting in Miami without Ukraine taking part.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0dc9f5c1a0edf922"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfyffgwne2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfyffgwne2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4c74062ec141",
+   "created_at": "2026-11-03T13:55:45Z"
+  },
+  {
+   "id": "d6352de400c0",
+   "ts": "2026-11-03T13:51:30Z",
+   "headline": "Zelenskiy hopes US-mediated talks lead to a leaders' meeting and calls Russia's invitation to Moscow destructive",
+   "detail": "Ukraine's President Zelenskiy said he hopes the US-mediated talks open the way to a meeting of leaders. He also described Russia's invitation for him to come to Moscow as destructive.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "bf5f33d3400b858f",
+    "5c516efd744cb448"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfybot2bh25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfybot2bh25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfydtslmn2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfydtslmn2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4c74062ec141",
+   "created_at": "2026-11-03T13:55:45Z"
+  },
   {
    "id": "385fe22fcadd",
    "ts": "2026-11-03T13:46:26Z",
@@ -6008,66 +6056,6 @@
    "model": "opus",
    "run_id": "5da2662d1dd2",
    "created_at": "2026-10-30T18:45:56Z"
-  },
-  {
-   "id": "e2760d4b5c45",
-   "ts": "2026-10-30T18:31:59Z",
-   "headline": "WTI crude futures settle up 2.08% at $104.12 a barrel",
-   "detail": "NYMEX December WTI crude futures settled $2.12 higher at $104.12 a barrel. November diesel futures settled at $4.7905 a gallon and November gasoline at $3.3120 a gallon.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "16376d4c4985734e",
-    "4521eb220fbe9841",
-    "55c2e208e55de3db",
-    "afa7a61d3df0cb0e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4g3k6yi42y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4g3k6yi42y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4g3megk32b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4g3megk32b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4g4j4ene2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4g4j4ene2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mz4g3po24x2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mz4g3po24x2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8abde22dd3d3",
-   "created_at": "2026-10-30T18:35:45Z"
-  },
-  {
-   "id": "c7a0baea8960",
-   "ts": "2026-10-30T18:27:23Z",
-   "headline": "Gilts rally with core bonds in a risk-off move as sterling holds steady",
-   "detail": "A UK market commentator reports that gilts are rallying alongside other core government bonds amid risk-off trading on Friday, with sterling steady. No yield levels were given.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6d3950b43eba71ba"
-   ],
-   "sources": [
-    {
-     "author": "tobyn.bsky.social",
-     "uri": "at://did:plc:n7qmptitg3fcep3mo7uecwb7/app.bsky.feed.post/3mz4ftczjyc27",
-     "url": "https://bsky.app/profile/tobyn.bsky.social/post/3mz4ftczjyc27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "10a6806b2728",
-   "created_at": "2026-10-30T18:31:13Z"
   }
  ]
 }
