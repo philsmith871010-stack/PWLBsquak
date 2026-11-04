@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T13:20:54Z",
+ "generated_at": "2026-11-04T13:35:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bd39cea1dbb8",
+   "ts": "2026-11-04T13:31:54Z",
+   "headline": "US trade deficit narrows to $105bn in September, smaller than the $107.9bn forecast",
+   "detail": "US data put the September trade balance at -$105bn, against a forecast of -$107.9bn. The previous month's figure was revised to -$105.7bn from -$105.6bn.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "d0c772424f1241ad"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzihnkoh5r2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzihnkoh5r2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0c4c222846ec",
+   "created_at": "2026-11-04T13:35:45Z"
+  },
   {
    "id": "b2b4bedab7ae",
    "ts": "2026-11-04T13:15:53Z",
@@ -6173,27 +6194,6 @@
    "model": "opus",
    "run_id": "794b3ccf9c51",
    "created_at": "2026-11-02T13:46:06Z"
-  },
-  {
-   "id": "8dc042f7c256",
-   "ts": "2026-11-02T13:37:32Z",
-   "headline": "Iran's President Pezeshkian rejects what he calls false claims and excessive demands from Iran's enemies",
-   "detail": "Iranian state outlet Press TV reported the remarks by President Pezeshkian on Monday, as efforts to restart US-Iran talks continue.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4cfe2fcbb11eb1fb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdgzrolby24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdgzrolby24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bb15e50bf003",
-   "created_at": "2026-11-02T13:40:54Z"
   }
  ]
 }
