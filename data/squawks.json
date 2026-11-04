@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T18:01:12Z",
+ "generated_at": "2026-11-04T18:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7df7c709d2c9",
+   "ts": "2026-11-04T18:02:27Z",
+   "headline": "US Treasury sanctions 4 India-based individuals and 9 companies for supporting Iran's shadow fleet",
+   "detail": "The US Treasury says the 4 individuals and 9 companies, all based in India, are being sanctioned for supporting Iran's shadow fleet. It is part of the Iran sanctions action announced earlier today, which also included a warning that falsely flagged vessels have no valid protection or insurance.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d32ca036e838ccb8",
+    "dc0a859110487926"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziwrdzpas2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziwrdzpas2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziwpjsirf2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziwpjsirf2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5b7012137bab",
+   "created_at": "2026-11-04T18:05:42Z"
+  },
   {
    "id": "cb217871a935",
    "ts": "2026-11-04T18:00:54Z",
@@ -6089,27 +6116,6 @@
    "model": "opus",
    "run_id": "c4e302fea8fe",
    "created_at": "2026-11-02T17:55:44Z"
-  },
-  {
-   "id": "1828b26629f7",
-   "ts": "2026-11-02T17:22:36Z",
-   "headline": "Italy runs a €20.8bn budget deficit in October",
-   "detail": "Italy's state budget showed a deficit of €20.8bn for October, according to a market news post. No market reaction was reported.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "12ea9bc0916fc652"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdtmaca5g2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdtmaca5g2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aecbeb03051b",
-   "created_at": "2026-11-02T17:25:43Z"
   }
  ]
 }
