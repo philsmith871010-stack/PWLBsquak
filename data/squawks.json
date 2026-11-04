@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T14:55:46Z",
+ "generated_at": "2026-11-04T15:01:20Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2d1b3e5c30de",
+   "ts": "2026-11-04T15:01:06Z",
+   "headline": "US ISM services PMI eases to 54.5 in October, just below the 54.8 forecast; prices paid falls to 73",
+   "detail": "The ISM services index came in at 54.5, down from 54.9 and below the 54.8 forecast. Prices paid fell to 73 from 74.0 (74.6 forecast), new orders dropped to 55.9 from 59.8 (58.5 forecast) and employment rose to 51.4 from 50.1 (50 forecast).",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "4f01311f41ec0bc4",
+    "af781610171abfb7",
+    "b0e2a0e5f52dcb81",
+    "346db3d54a4021a4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzimn2diht2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzimn2diht2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzimmudokn2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzimmudokn2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzimmuwgkb22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzimmuwgkb22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzimmztjwl2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzimmztjwl2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "71ba64f3fa5e",
+   "created_at": "2026-11-04T15:01:20Z"
+  },
   {
    "id": "31da16a6d2a9",
    "ts": "2026-11-04T14:53:37Z",
@@ -6155,27 +6194,6 @@
    "model": "opus",
    "run_id": "c7a996ac6226",
    "created_at": "2026-11-02T15:10:52Z"
-  },
-  {
-   "id": "11fdb68bd35c",
-   "ts": "2026-11-02T15:01:02Z",
-   "headline": "US construction spending falls 1.9% on the month, against a forecast 0.3% rise",
-   "detail": "US construction spending fell 1.9% month on month, compared with a forecast rise of 0.3% and a previous reading of 0.9%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7b9dd3189d27d5cc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdlp3xcj72b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdlp3xcj72b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "71f869cfb82c",
-   "created_at": "2026-11-02T15:01:56Z"
   }
  ]
 }
