@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T14:50:58Z",
+ "generated_at": "2026-11-04T14:55:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "31da16a6d2a9",
+   "ts": "2026-11-04T14:53:37Z",
+   "headline": "UK new car sales rise 26.9% y/y in October to 154,407 units",
+   "detail": "Figures from New AutoMotive put total UK new car sales in October at 154,407 units, an increase of 26.9% on a year earlier.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "2872d1cfb2ac0b4c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzim7ojxsd2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzim7ojxsd2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a0e3238d69e3",
+   "created_at": "2026-11-04T14:55:46Z"
+  },
   {
    "id": "971fa419e4f5",
    "ts": "2026-11-04T14:46:05Z",
@@ -6150,51 +6171,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdlp3xcj72b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdlp3xcj72b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "71f869cfb82c",
-   "created_at": "2026-11-02T15:01:56Z"
-  },
-  {
-   "id": "4c3f088e6dff",
-   "ts": "2026-11-02T15:00:53Z",
-   "headline": "US October ISM manufacturing index rises to 55.5, above the 54.5 forecast, as prices paid ease to 75.2",
-   "detail": "The US ISM October manufacturing index came in at 55.5, against a forecast of 54.5 and 54.5 the previous month. New orders were 55.5 (forecast 55, previous 55.3), employment was 52.4 (forecast 52, previous 52.7) and prices paid were 75.2 (forecast 77.2, previous 77.9).",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "cb92ba021a05582f",
-    "8dd83beb2b487397",
-    "cc0f4224779878a7",
-    "10ad86652f8064dd",
-    "e64114b9ca59ede1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdlotivte2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdlotivte2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdlotzdfw2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdlotzdfw2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdlow5zgx2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdlow5zgx2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdloynjuj2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdloynjuj2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdlpabxnp2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdlpabxnp2b"
     }
    ],
    "model": "opus",
