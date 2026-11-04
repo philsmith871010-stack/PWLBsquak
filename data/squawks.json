@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T18:10:51Z",
+ "generated_at": "2026-11-04T18:15:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e8b31da6c1e1",
+   "ts": "2026-11-04T18:11:56Z",
+   "headline": "Trump says the US will keep up its Iran campaign and that it was worth the midterm cost, as Iran cannot have a nuclear weapon",
+   "detail": "In unscheduled remarks at the White House, President Trump said the action against Iran had been necessary and would continue. He said the war was worth it because Iran could not be allowed a nuclear weapon, and that he would probably get along with the Democrats unless they set out to be destructive.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d0586799e076e3dc",
+    "4e24fb37b9b29eea",
+    "09ccdfd8da441dde",
+    "0b247b0bf0f2a9c3",
+    "16334242fc0b3e04",
+    "24f64a3af96429e1",
+    "5b7d21def4e01484",
+    "167139e48c1be4c3",
+    "c2d786b376ab43d3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzixcbtuth2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzixcbtuth2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzixchocl625",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzixchocl625"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzixcflps72d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzixcflps72d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzixcjnwg72f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzixcjnwg72f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzixcmegdt2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzixcmegdt2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzixewds7x2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzixewds7x2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzixcdogih2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzixcdogih2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzixe2xrpu2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzixe2xrpu2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzixf6axev2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzixf6axev2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "03a31e9da19d",
+   "created_at": "2026-11-04T18:15:48Z"
+  },
   {
    "id": "06ddbd02f479",
    "ts": "2026-11-04T18:10:35Z",
@@ -6095,27 +6164,6 @@
    "model": "opus",
    "run_id": "7f153e5cb84c",
    "created_at": "2026-11-02T18:10:57Z"
-  },
-  {
-   "id": "c3b17ff7fe13",
-   "ts": "2026-11-02T18:03:58Z",
-   "headline": "Israel says it will back whatever the US decides on Iran and that a nuclear strike is not under discussion",
-   "detail": "Israel's UN envoy Danon told Al Arabiya that Israel will support the US decision on Iran, and that Israel and the US are not discussing a nuclear strike on Iran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c2f1c907f80db2a9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdvw7dtmr2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdvw7dtmr2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4e428629158d",
-   "created_at": "2026-11-02T18:05:42Z"
   }
  ]
 }
