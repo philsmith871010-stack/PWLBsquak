@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T08:45:53Z",
+ "generated_at": "2026-11-04T08:50:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6ab803d868e4",
+   "ts": "2026-11-04T08:46:17Z",
+   "headline": "Italy's October composite PMI eases to 50.8, in line with forecasts",
+   "detail": "Italy's composite PMI fell to 50.8 in October from 51.0 in September, matching the 50.8 forecast. The services PMI rose to 52.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "ef66d98944f71719",
+    "49679332a6e6973d",
+    "777be0c7934d61a1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhxoti5w22g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhxoti5w22g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhxpnup332f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhxpnup332f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhxqp6dbc2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhxqp6dbc2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "607f5378bae2",
+   "created_at": "2026-11-04T08:50:52Z"
+  },
   {
    "id": "61ccdbc6f137",
    "ts": "2026-11-04T08:45:47Z",
@@ -6066,39 +6099,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzczsjuj3w2z",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzczsjuj3w2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6abe0cd0bdcc",
-   "created_at": "2026-11-02T09:40:54Z"
-  },
-  {
-   "id": "43e1f96616b3",
-   "ts": "2026-11-02T09:40:45Z",
-   "headline": "Kremlin says no further humanitarian ceasefires like Oleshky are planned so far, after Ukraine accuses Russia of regrouping",
-   "detail": "Ukraine's General Staff said Russian forces used last week's humanitarian ceasefire in Oleshky to reinforce their positions. The Kremlin replied that both sides could regroup during a ceasefire and called this normal practice.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "aa2b78cae51e96a9",
-    "8b4aed93dd29d46f",
-    "2fe55725f6543e9a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzczsfmttj2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzczsfmttj2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzczshtbi22g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzczshtbi22g"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzczrdazis2a",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzczrdazis2a"
     }
    ],
    "model": "opus",
