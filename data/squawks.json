@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T14:20:56Z",
+ "generated_at": "2026-11-04T14:46:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ce9368edd9c0",
+   "ts": "2026-11-04T14:46:02Z",
+   "headline": "US final October S&P Global composite PMI falls to 55.9, below the 57.3 forecast and down from 57.6",
+   "detail": "S&P Global's final US composite PMI for October came in at 55.9, against a forecast of 57.3 and a previous reading of 57.6.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "a77e17dc437dcbf9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzils4krxo2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzils4krxo2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6e36fdefa3cc",
+   "created_at": "2026-11-04T14:46:06Z"
+  },
   {
    "id": "af8365bd6015",
    "ts": "2026-11-04T14:17:28Z",
@@ -6161,39 +6182,6 @@
    "model": "opus",
    "run_id": "3d1c5056189e",
    "created_at": "2026-11-02T14:55:46Z"
-  },
-  {
-   "id": "a46e72010a0d",
-   "ts": "2026-11-02T14:45:32Z",
-   "headline": "US final October manufacturing PMI is revised down to 54.9 from the 56.0 flash reading",
-   "detail": "S&P Global's final US manufacturing PMI for October came in at 54.9, below the 56.0 flash estimate and forecast. September's reading was 55.9.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "7c7e53a5043a8fc8",
-    "3f5b82a6d69077ab",
-    "2b11753afc8e99d0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdktf7lpj2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdktf7lpj2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdkuawpqn2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdkuawpqn2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdkuf45vf2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdkuf45vf2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7223cf966e9a",
-   "created_at": "2026-11-02T14:47:11Z"
   }
  ]
 }
