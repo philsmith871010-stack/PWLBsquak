@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T15:35:39Z",
+ "generated_at": "2026-11-04T15:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "19af6ca89ac6",
+   "ts": "2026-11-04T15:42:29Z",
+   "headline": "US Vice President Vance says the war was the reason Republicans lost the midterms, and the Israel relationship was another",
+   "detail": "Vance said the war was the main reason for the Republican defeat in the US midterm elections and named the relationship with Israel as a further reason. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c2dfbe9e6ec3a937",
+    "4adaa38df170c476",
+    "af21290a795ab123"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziox2nopb25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziox2nopb25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzip3i5in22y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzip3i5in22y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzip4p22op24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzip4p22op24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "eadca3e025b1",
+   "created_at": "2026-11-04T15:45:50Z"
+  },
   {
    "id": "a5e89cb197c7",
    "ts": "2026-11-04T15:35:08Z",
@@ -6132,51 +6165,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdmfzd3f32y",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdmfzd3f32y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "18cefd097d6b",
-   "created_at": "2026-11-02T15:15:56Z"
-  },
-  {
-   "id": "8ff77d23046c",
-   "ts": "2026-11-02T15:12:15Z",
-   "headline": "ECB's Moulin says France will very probably get a budget and markets may be overreacting to the French situation",
-   "detail": "Bank of France Governor Moulin said France's budget position is poor and must be dealt with. He also said the country is very likely to pass a budget and that markets may be overreacting.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "d1e042a5094cb90c",
-    "4d58e5122312fa3f",
-    "cd3bdcc3cdfe0f6b",
-    "e14eec944eb35248",
-    "ea23194f91c7021e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdmcc3zun2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdmcc3zun2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdmd644b32p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdmd644b32p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdmddxnyj2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdmddxnyj2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdmdkcs4d2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdmdkcs4d2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdmeeyxhh2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdmeeyxhh2g"
     }
    ],
    "model": "opus",
