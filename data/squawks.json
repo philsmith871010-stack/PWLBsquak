@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T09:05:41Z",
+ "generated_at": "2026-11-04T09:20:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "00acae3933be",
+   "ts": "2026-11-04T09:19:16Z",
+   "headline": "Gold rises 3% as the dollar and yields fall after Democrats win the US midterms",
+   "detail": "A market wire reports gold up 3%, with the dollar and yields lower after the Democrats won control of Congress in the US midterm elections.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a4ea7ded3918a4cc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhzjt7dfz25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhzjt7dfz25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d4d92d24ff4c",
+   "created_at": "2026-11-04T09:20:57Z"
+  },
   {
    "id": "30ec61098e81",
    "ts": "2026-11-04T09:01:59Z",
@@ -6114,27 +6135,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd3zanb2d24",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd3zanb2d24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c2805a75b958",
-   "created_at": "2026-11-02T10:20:52Z"
-  },
-  {
-   "id": "1ab01859b2a5",
-   "ts": "2026-11-02T10:19:25Z",
-   "headline": "IRGC says 11 tankers have burned in the Strait of Hormuz since 25 October",
-   "detail": "Iran's Islamic Revolutionary Guard Corps gave a count of 11 tankers burned in the Strait of Hormuz since 25 October. No market reaction was reported with the statement.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a426d43b764bf4d2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd3xk36qb2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd3xk36qb2a"
     }
    ],
    "model": "opus",
