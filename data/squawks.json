@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T08:55:43Z",
+ "generated_at": "2026-11-04T09:01:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9a3e359ad0a7",
+   "ts": "2026-11-04T09:01:04Z",
+   "headline": "Eurozone final October services PMI is revised down to 51.4 from 51.7; composite PMI cut to 51.7",
+   "detail": "The eurozone's final October services PMI was 51.4, below the 51.7 flash reading and forecast. The composite PMI came in at 51.7, against a flash reading and forecast of 51.9.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d779b5151c58ecfc",
+    "96e062a416b52abc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhyj4ftj22d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhyj4ftj22d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhyjavtvs2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhyjavtvs2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "811402db7ca3",
+   "created_at": "2026-11-04T09:01:17Z"
+  },
+  {
+   "id": "10646f4f3f2e",
+   "ts": "2026-11-04T08:55:49Z",
+   "headline": "Germany's final October services PMI is revised up to 52.5 from a 51.7 flash; composite PMI rises to 53.4",
+   "detail": "Germany's final October services PMI came in at 52.5, compared with a 51.7 flash reading and forecast. The composite PMI was 53.4, up from a preliminary 52.8 and above the 52.8 forecast.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8fb23401a4caa6f9",
+    "79150131c9f15029",
+    "57dc8399b1008e34",
+    "652bdd9969fbc0d6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhy7qveks2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhy7qveks2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhy7ulkm22d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhy7ulkm22d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhyc3xvaf22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhyc3xvaf22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhyc6dpjs2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhyc6dpjs2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "811402db7ca3",
+   "created_at": "2026-11-04T09:01:17Z"
+  },
   {
    "id": "a8b5911fbe83",
    "ts": "2026-11-04T08:50:52Z",
@@ -6074,54 +6140,6 @@
    "model": "opus",
    "run_id": "e31199f51e83",
    "created_at": "2026-11-02T10:01:14Z"
-  },
-  {
-   "id": "3b1ea193c69f",
-   "ts": "2026-11-02T09:53:59Z",
-   "headline": "UK 30-year gilt yield falls more than 7bp on the day to 5.648%, its lowest since 7 August",
-   "detail": "The 30-year gilt yield dropped by more than 7bp on the day to 5.648%, its lowest level since 7 August, according to a market report. Earlier, the 10-year yield fell 5bp to 5.23%.",
-   "category": "global_rates",
-   "importance": 3,
-   "source_event_ids": [
-    "10513ee3bf3d6466"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd2k2uuzj2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd2k2uuzj2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b92a07108411",
-   "created_at": "2026-11-02T09:55:46Z"
-  },
-  {
-   "id": "c8217032b67d",
-   "ts": "2026-11-02T09:49:24Z",
-   "headline": "UAE energy minister declines to give current oil export levels and says the country will be better prepared whatever happens in the war",
-   "detail": "The UAE's energy and infrastructure minister would not say how much oil the country is exporting now. He said the course of the war cannot be predicted but the UAE will be more prepared than before.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "30563fcd115b629e",
-    "cbbdb4724bc854ab"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd2bu4l3p2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd2bu4l3p2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd24vpaty22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd24vpaty22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9226353e8a4f",
-   "created_at": "2026-11-02T09:51:07Z"
   }
  ]
 }
