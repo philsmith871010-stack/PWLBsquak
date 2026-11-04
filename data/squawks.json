@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T14:01:22Z",
+ "generated_at": "2026-11-04T14:05:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9235f2e30716",
+   "ts": "2026-11-04T14:05:24Z",
+   "headline": "WTI crude falls 3% to $93.25 a barrel",
+   "detail": "US WTI crude futures are reported down 3% at $93.25 a barrel, adding to the day's earlier oil price losses.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "1ea84f865d5ff278"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzijjhymny2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzijjhymny2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2ac14b8a835d",
+   "created_at": "2026-11-04T14:05:50Z"
+  },
+  {
+   "id": "2be2af0aa9e1",
+   "ts": "2026-11-04T14:03:25Z",
+   "headline": "Houthis say they fired a ballistic missile at Riyadh's King Khalid airport; Saudi Arabia has not confirmed",
+   "detail": "A Houthi spokesperson in Yemen says the group launched a ballistic missile at King Khalid International Airport in Riyadh and urges international airlines not to fly over Saudi airspace. There is no Saudi confirmation.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "21992d4a1e04a4bb",
+    "4bb7a13f177e8979",
+    "2634d0c8872b151d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzijfw6mgc2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzijfw6mgc2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzijgtkf6c25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzijgtkf6c25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzijgxnqlr2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzijgxnqlr2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2ac14b8a835d",
+   "created_at": "2026-11-04T14:05:50Z"
+  },
   {
    "id": "61ce4cdf2bca",
    "ts": "2026-11-04T14:00:41Z",
@@ -6122,66 +6176,6 @@
    "model": "opus",
    "run_id": "4c3db0f80264",
    "created_at": "2026-11-02T14:31:21Z"
-  },
-  {
-   "id": "9cc56c4e5657",
-   "ts": "2026-11-02T14:27:37Z",
-   "headline": "US Strategic Petroleum Reserve falls to 282.2m barrels, its lowest level since 1982",
-   "detail": "Crude stocks in the US Strategic Petroleum Reserve fell to 282.2 million barrels last week, the lowest level since 1982.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "5b9f331c5c46275d",
-    "b93a1202deff94c5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdjte3wzq25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdjte3wzq25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdjrhcg6y25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdjrhcg6y25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4c3db0f80264",
-   "created_at": "2026-11-02T14:31:21Z"
-  },
-  {
-   "id": "f8f198af53ab",
-   "ts": "2026-11-02T14:21:29Z",
-   "headline": "Iran's Foreign Minister says Hormuz will reopen and talks resume if the US accepts Tehran's conditions, otherwise the status quo continues",
-   "detail": "Iran's Foreign Minister Araghchi said Tehran's conditions for reopening the Strait of Hormuz are clear. If the US accepts them, the strait will reopen and negotiations will resume; if not, the current situation will continue. State news agency IRNA reported the remarks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "72f6eb0b7332922e",
-    "f500bbbbc6b3113d",
-    "d9bc11999102b1e2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdjif4fny2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdjif4fny2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdjllkiim24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdjllkiim24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdjlhmxj42d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdjlhmxj42d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6fe080ed6301",
-   "created_at": "2026-11-02T14:25:48Z"
   }
  ]
 }
