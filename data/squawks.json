@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T10:35:47Z",
+ "generated_at": "2026-11-04T10:40:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6205bd28d4e3",
+   "ts": "2026-11-04T10:36:18Z",
+   "headline": "Khamenei calls Iran's Hormuz action a response to US aggression and says the US midterm result will not change Washington's hostility",
+   "detail": "In a message, Iran's Supreme Leader Khamenei said the US wants Iran's unconditional surrender and that any move towards submission would embolden the enemy. He said people who expect changes in the party holding power in the US to end Washington's hostility towards Iran are badly mistaken.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e363e504f80f16f5",
+    "d75a42e8eb396743",
+    "7db29e938b16271f",
+    "806dffca04943e1e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5tl6n5n2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5tl6n5n2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5x3wtuh24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5x3wtuh24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5zegb622k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5zegb622k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5zicq5h2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5zicq5h2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b931777f7745",
+   "created_at": "2026-11-04T10:40:55Z"
+  },
   {
    "id": "0c4bfc715978",
    "ts": "2026-11-04T10:35:25Z",
@@ -6143,33 +6182,6 @@
    "model": "opus",
    "run_id": "e0ba1a90d33e",
    "created_at": "2026-11-02T11:45:51Z"
-  },
-  {
-   "id": "8e49bf597d2f",
-   "ts": "2026-11-02T11:37:04Z",
-   "headline": "Trump says oil rose less than he expected during the Iran war and predicts US petrol prices will drop below $2 a gallon",
-   "detail": "US President Trump made the comments on 2 November and also said the US is receiving millions of barrels of oil from Venezuela. No market reaction was reported.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "ff9fee3f6b670ec9",
-    "0915471711161fa2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdacexp6y2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdacexp6y2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdad7iugz2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdad7iugz2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bd7715469cf6",
-   "created_at": "2026-11-02T11:40:54Z"
   }
  ]
 }
