@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T16:31:05Z",
+ "generated_at": "2026-11-04T16:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2b8d953e2c06",
+   "ts": "2026-11-04T16:35:30Z",
+   "headline": "European gas prices fall by as much as 5.3% to €86.74/MWh",
+   "detail": "European gas prices fell by as much as 5.3% to €86.74 per megawatt hour on Wednesday, according to a market report.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "56615c0c8cd2d599"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzirvtv7uv2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzirvtv7uv2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5027e8db922c",
+   "created_at": "2026-11-04T16:35:42Z"
+  },
+  {
+   "id": "7ef424a12062",
+   "ts": "2026-11-04T16:35:08Z",
+   "headline": "Canada says the US midterm results will not change its position in trade talks with the US",
+   "detail": "According to Reuters, a senior Canadian cabinet minister said on Wednesday that Ottawa's stance on trade talks with the US is unchanged after the midterms. He added that he expects to speak to his US counterparts soon.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d638bcf3ae007efe"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzirv765ox2d",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzirv765ox2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5027e8db922c",
+   "created_at": "2026-11-04T16:35:42Z"
+  },
   {
    "id": "f8c517c53a23",
    "ts": "2026-11-04T16:29:17Z",
@@ -6098,48 +6140,6 @@
    "model": "opus",
    "run_id": "802465a42119",
    "created_at": "2026-11-02T15:40:54Z"
-  },
-  {
-   "id": "b8fe25d3f0fb",
-   "ts": "2026-11-02T15:31:56Z",
-   "headline": "ECB's Escrivá says markets have been fairly insensitive to price risk in recent years",
-   "detail": "ECB Governing Council member José Luis Escrivá made the remark on Monday, in further comments alongside his earlier statements on rates and inflation.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "491532fecebce079"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdngdptks2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdngdptks2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "45c827c633ab",
-   "created_at": "2026-11-02T15:35:54Z"
-  },
-  {
-   "id": "dcc76892b890",
-   "ts": "2026-11-02T15:30:08Z",
-   "headline": "ECB's Escrivá says rates at 2% are a reasonable level to hold inflation around 2%",
-   "detail": "ECB Governing Council member José Luis Escrivá said a policy rate of 2% is reasonable for keeping inflation at around 2%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "879fc0cbaf3e4d8b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdnd4oork2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdnd4oork2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b8b5d041b41b",
-   "created_at": "2026-11-02T15:31:08Z"
   }
  ]
 }
