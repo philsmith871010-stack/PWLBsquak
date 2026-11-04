@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T12:45:54Z",
+ "generated_at": "2026-11-04T12:50:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3aab179aca0f",
+   "ts": "2026-11-04T12:47:29Z",
+   "headline": "ECB's Knot expects core inflation and second-round effects to pick up, says ECB may more often approach 2% from above",
+   "detail": "ECB Governing Council member Knot said core inflation and second-round effects are likely to rise and that small shocks lifting inflation will keep occurring. He said the ECB may more often have to approach its 2% target from above.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "e6e8f665182ebcd4",
+    "eb4c32cc4f0e82ae",
+    "d39a05b8208a095c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzif64ngbq2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzif64ngbq2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzifavpim62k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzifavpim62k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzifckt3op25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzifckt3op25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b6282a9ba4ed",
+   "created_at": "2026-11-04T12:50:52Z"
+  },
   {
    "id": "2b5f8c028216",
    "ts": "2026-11-04T12:45:34Z",
@@ -6137,45 +6170,6 @@
    "model": "opus",
    "run_id": "e085d511c2fa",
    "created_at": "2026-11-02T12:45:52Z"
-  },
-  {
-   "id": "15763346efcf",
-   "ts": "2026-11-02T12:36:38Z",
-   "headline": "Vitol CEO says oil demand will be about 3m bpd lower by end-2026 and the system has low inventories and no spare capacity",
-   "detail": "The Vitol chief executive said oil demand will take a year to get back to its 2025 level and that the world could not cope with a bigger disruption than the current one. He also said the market could face a difficult spring.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "6cfdeaeded17f268",
-    "06b42f6298c1df76",
-    "2d322eee12efc8c7",
-    "c4321de0a08e3483"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzddmv5zrd2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzddmv5zrd2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzddow5qm722",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzddow5qm722"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzddr7d4iy2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzddr7d4iy2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzddsnkibp22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzddsnkibp22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3753daf5de87",
-   "created_at": "2026-11-02T12:40:52Z"
   }
  ]
 }
