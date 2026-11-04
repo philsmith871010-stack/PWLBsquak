@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T07:05:43Z",
+ "generated_at": "2026-11-04T07:10:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bcb4f1e2ca42",
+   "ts": "2026-11-04T07:08:07Z",
+   "headline": "Asian markets fall sharply as Democratic midterm gains raise fears of AI regulation",
+   "detail": "Asian markets were reported plunging on Wednesday morning after Democratic gains in the US midterm elections, with the drop linked to fears of tighter regulation of artificial intelligence. No index levels or figures were given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e4a846af0dc4f3d0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhs7c7fpk2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhs7c7fpk2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3d7e783d6bbd",
+   "created_at": "2026-11-04T07:10:58Z"
+  },
   {
    "id": "ef4f5a05a2e4",
    "ts": "2026-11-04T07:04:38Z",
@@ -6083,27 +6104,6 @@
    "model": "opus",
    "run_id": "4006d2fa88c8",
    "created_at": "2026-11-02T09:31:09Z"
-  },
-  {
-   "id": "9e3a86622f08",
-   "ts": "2026-11-02T09:23:16Z",
-   "headline": "Resolution Foundation says OBR forecasts make the 2020s the weakest decade for income growth on record",
-   "detail": "Citing the latest OBR forecasts, the Resolution Foundation says incomes will finish 2030 only 1.4 per cent above their 2020 level.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "2244c95f354fcd0c"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mzcyt4nsdd26",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mzcyt4nsdd26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6a01511a646d",
-   "created_at": "2026-11-02T09:26:01Z"
   }
  ]
 }
