@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T09:31:05Z",
+ "generated_at": "2026-11-04T09:35:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "da92efcf1def",
+   "ts": "2026-11-04T09:34:38Z",
+   "headline": "NIESR expects the MPC to raise Bank Rate by 25bp to 4% at tomorrow's decision",
+   "detail": "NIESR said its Monetary Policy Dashboard shows a growing case for a change in policy, and that it expects a 25bp increase to 4% at the MPC decision on 5 November.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "b0351f02223af5c7"
+   ],
+   "sources": [
+    {
+     "author": "niesrorg.bsky.social",
+     "uri": "at://did:plc:6s7n3h2jcntzuvlw2movrget/app.bsky.feed.post/3mzi2fbzfek2y",
+     "url": "https://bsky.app/profile/niesrorg.bsky.social/post/3mzi2fbzfek2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a6712593c31c",
+   "created_at": "2026-11-04T09:35:46Z"
+  },
+  {
+   "id": "8c68f4fbd2e6",
+   "ts": "2026-11-04T09:31:11Z",
+   "headline": "UK final October composite PMI is revised down to 52.9 from a 53.1 flash, below the 53.1 forecast",
+   "detail": "The final October composite PMI came in at 52.9, below the preliminary reading and forecast of 53.1. The services PMI was revised down to 52.8 from 53.1.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "f6286a32170e5e82",
+    "7674502f39fbeb51",
+    "5370f5a0c16f91a9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi2752lev25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi2752lev25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi27g4sy22d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi27g4sy22d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi27bdtgo2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi27bdtgo2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a6712593c31c",
+   "created_at": "2026-11-04T09:35:46Z"
+  },
   {
    "id": "e196699eb657",
    "ts": "2026-11-04T09:30:38Z",
@@ -6092,48 +6146,6 @@
    "model": "opus",
    "run_id": "4f4c2e8b95be",
    "created_at": "2026-11-02T10:50:56Z"
-  },
-  {
-   "id": "d209a5e1deef",
-   "ts": "2026-11-02T10:34:38Z",
-   "headline": "Russian Foreign Ministry voices extreme concern over signals that new military action against Iran is planned",
-   "detail": "Russia's Foreign Ministry said signs of planned fresh military action against Iran were causing it extreme concern, Tass reported. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6b59e0180973fe3f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd4sqi53a25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd4sqi53a25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e2ab806ea43c",
-   "created_at": "2026-11-02T10:35:41Z"
-  },
-  {
-   "id": "2c99812435f9",
-   "ts": "2026-11-02T10:21:13Z",
-   "headline": "Belgian PM De Wever offers resignation after budget talks fail; King holds decision in reserve",
-   "detail": "The Belgian Royal Palace says Prime Minister Bart De Wever offered his resignation after budget negotiations failed. The King has not yet decided and will begin consultations with majority party leaders tomorrow.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "10a37efa722eaedc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd42qyqmx2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd42qyqmx2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9caa21ecbb68",
-   "created_at": "2026-11-02T10:25:42Z"
   }
  ]
 }
