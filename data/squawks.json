@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T14:46:06Z",
+ "generated_at": "2026-11-04T14:50:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "971fa419e4f5",
+   "ts": "2026-11-04T14:46:05Z",
+   "headline": "US final October S&P Global services PMI is revised down to 56.1 from a 57.9 flash",
+   "detail": "S&P Global's final October US services PMI came in at 56.1, against a forecast and flash reading of 57.9 and 58.8 in September. The composite PMI is 55.9, down from a 57.6 flash and 58.4 in September.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "75d104abb1a78149",
+    "f2ff44560a08c909",
+    "7ec433b809a3b533",
+    "a2fbf136aa114d08"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzils74ozx2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzils74ozx2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzilsa5ell2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzilsa5ell2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzilt6oxv72a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzilt6oxv72a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzilu6w2ud2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzilu6w2ud2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a63c72e49d38",
+   "created_at": "2026-11-04T14:50:58Z"
+  },
   {
    "id": "ce9368edd9c0",
    "ts": "2026-11-04T14:46:02Z",
@@ -6161,27 +6200,6 @@
    "model": "opus",
    "run_id": "71f869cfb82c",
    "created_at": "2026-11-02T15:01:56Z"
-  },
-  {
-   "id": "6a9d072e2e46",
-   "ts": "2026-11-02T14:55:30Z",
-   "headline": "US Gulf allies are preparing for a new round of strikes on Iran and possible retaliation, WSJ reports",
-   "detail": "The Wall Street Journal reports that America's Gulf allies are getting ready for further US strikes on Iran and for the blowback that could follow. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "47c14cadd0fe8e80"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdlf7sclq2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdlf7sclq2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3d1c5056189e",
-   "created_at": "2026-11-02T14:55:46Z"
   }
  ]
 }
