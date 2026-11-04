@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T12:50:52Z",
+ "generated_at": "2026-11-04T12:55:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fb14d3636921",
+   "ts": "2026-11-04T12:52:08Z",
+   "headline": "ECB's Knot says AI will lift productivity growth and that Europe is caught up in the US-China rivalry",
+   "detail": "ECB Governing Council member Knot made the remarks in further comments on 4 November. He did not give any new figures or guidance on rates.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "229bcda590304654",
+    "ddd62eb7396aa485"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzifghjzot2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzifghjzot2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzifmfwry32p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzifmfwry32p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "21499a5a0728",
+   "created_at": "2026-11-04T12:55:45Z"
+  },
   {
    "id": "3aab179aca0f",
    "ts": "2026-11-04T12:47:29Z",
@@ -6149,27 +6176,6 @@
    "model": "opus",
    "run_id": "dc4648c6ca49",
    "created_at": "2026-11-02T13:10:50Z"
-  },
-  {
-   "id": "cc6f65b8ad57",
-   "ts": "2026-11-02T12:41:55Z",
-   "headline": "Vitol CEO warns of a potentially difficult spring for oil and says demand will need a year to get back to 2025 levels",
-   "detail": "Vitol's chief executive made the further comments on the outlook for the oil market on Monday, after his earlier remarks on demand, inventories and spare capacity.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "c179841cd9e8e194"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzddwdnc7e2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzddwdnc7e2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e085d511c2fa",
-   "created_at": "2026-11-02T12:45:52Z"
   }
  ]
 }
