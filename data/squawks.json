@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T13:35:45Z",
+ "generated_at": "2026-11-04T13:40:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8770cc2c1dd6",
+   "ts": "2026-11-04T13:39:45Z",
+   "headline": "US Treasury sets quarterly refunding at $125bn, in line with estimates, and changes its guidance on future auction sizes",
+   "detail": "The US Treasury set the 3-year note auction at $58bn, the 10-year note at $42bn and the 30-year bond at $25bn, and changed its guidance on future changes to auction sizes.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "5fba01ede77eb96b",
+    "ae7aedc3a2e80fcb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzii3l6d7y2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzii3l6d7y2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzii3hfh4i2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzii3hfh4i2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "551e5190b1e2",
+   "created_at": "2026-11-04T13:40:56Z"
+  },
+  {
+   "id": "280499c8e4cc",
+   "ts": "2026-11-04T13:39:36Z",
+   "headline": "Brent and US crude futures extend losses, down more than $2 a barrel",
+   "detail": "Brent and US crude futures are reported down more than $2 a barrel as the decline extends.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "059c4cf27d9f319b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzii3di4qu24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzii3di4qu24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "551e5190b1e2",
+   "created_at": "2026-11-04T13:40:56Z"
+  },
   {
    "id": "bd39cea1dbb8",
    "ts": "2026-11-04T13:31:54Z",
@@ -6152,48 +6200,6 @@
    "model": "opus",
    "run_id": "813d189ee6af",
    "created_at": "2026-11-02T13:50:55Z"
-  },
-  {
-   "id": "a4d9aec91d7a",
-   "ts": "2026-11-02T13:46:15Z",
-   "headline": "China's Foreign Minister calls for regional energy and shipping lane security to be safeguarded",
-   "detail": "China's Foreign Minister made the call amid the Middle East conflict and disruption in the Strait of Hormuz.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b43011171516d0f9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdhjeslwc22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdhjeslwc22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "813d189ee6af",
-   "created_at": "2026-11-02T13:50:55Z"
-  },
-  {
-   "id": "84a2e7661add",
-   "ts": "2026-11-02T13:40:57Z",
-   "headline": "Brent drops to a fresh intraday low near $106 a barrel",
-   "detail": "Brent was reported trading near $106 a barrel at its intraday low on Monday afternoon. Earlier on Monday it had fallen 3% to $108.34 as hopes grew for an end to the US-Iran conflict.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "2c321856bd3ebca5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdh7vdhlv2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdh7vdhlv2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "794b3ccf9c51",
-   "created_at": "2026-11-02T13:46:06Z"
   }
  ]
 }
