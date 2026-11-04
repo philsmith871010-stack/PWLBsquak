@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T09:20:57Z",
+ "generated_at": "2026-11-04T09:31:05Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e196699eb657",
+   "ts": "2026-11-04T09:30:38Z",
+   "headline": "UK final October services PMI is revised down to 52.8, against a 53.1 forecast and earlier reading",
+   "detail": "The UK's final services PMI came in at 52.8. Forecasts and the previous reading were both 53.1.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "f34921bbc511f8cf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi264zqii2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi264zqii2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "da221c54e8d2",
+   "created_at": "2026-11-04T09:31:05Z"
+  },
   {
    "id": "00acae3933be",
    "ts": "2026-11-04T09:19:16Z",
@@ -6113,33 +6134,6 @@
    "model": "opus",
    "run_id": "9caa21ecbb68",
    "created_at": "2026-11-02T10:25:42Z"
-  },
-  {
-   "id": "7d4dc5062326",
-   "ts": "2026-11-02T10:20:23Z",
-   "headline": "ECB's Vujcic names AI valuations as a financial stability risk and says sovereign bond markets need monitoring",
-   "detail": "ECB Vice-President Vujcic said AI valuations are among the risks set out in the ECB's financial stability review. He also said the sovereign bond market must be monitored.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "014b3b70c8fa583a",
-    "554e512e8ec84570"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd3xojetd24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd3xojetd24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd3zanb2d24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd3zanb2d24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c2805a75b958",
-   "created_at": "2026-11-02T10:20:52Z"
   }
  ]
 }
