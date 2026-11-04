@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T18:45:54Z",
+ "generated_at": "2026-11-04T18:50:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4484f2473810",
+   "ts": "2026-11-04T18:48:39Z",
+   "headline": "ECB's Kazaks says rates may rise gradually and need to go up if inflation risks spread",
+   "detail": "ECB Governing Council member Kazaks said there could be a gradual increase in interest rates, and that rates would need to rise if inflation risks spread.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "0d5e5930da30cb24",
+    "34972a6343eca358",
+    "1754c6803f111d21"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzizdxhj7y2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzizdxhj7y2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzizeq2gyd2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzizeq2gyd2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzizhrbcfu25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzizhrbcfu25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4c4b28db1b4a",
+   "created_at": "2026-11-04T18:50:50Z"
+  },
   {
    "id": "4cf32359efa2",
    "ts": "2026-11-04T18:45:49Z",
@@ -6137,39 +6170,6 @@
    "model": "opus",
    "run_id": "7cc375e17b83",
    "created_at": "2026-11-02T19:35:46Z"
-  },
-  {
-   "id": "8145d8cddbd9",
-   "ts": "2026-11-02T19:29:24Z",
-   "headline": "Qatari mediators head to Tehran for talks with Iran's foreign minister on a draft US-Iran deal",
-   "detail": "An official briefed on the talks told Reuters that Qatari mediators were travelling to Tehran late on Monday to meet Foreign Minister Araghchi. The official said the talks would cover a version of a draft US-Iran deal that has been under negotiation for the past eight days.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f83590e51af3fab7",
-    "38bf96ee61d2e4c2",
-    "52d1d71cb730acb2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2oxkdxv2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2oxkdxv2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2pcynav2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2pcynav2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2qq2k2t25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2qq2k2t25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9efef34c6d56",
-   "created_at": "2026-11-02T19:31:11Z"
   }
  ]
 }
