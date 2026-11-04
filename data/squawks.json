@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T11:45:57Z",
+ "generated_at": "2026-11-04T12:35:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8658280205fb",
+   "ts": "2026-11-04T12:35:15Z",
+   "headline": "EU trade commissioner Sefcovic says it is vital that the US-EU trade deal is upheld",
+   "detail": "EU Trade Commissioner Maros Sefcovic said that respecting the trade agreement between the US and the EU is of the highest importance. The remarks follow the Democrats' wins in the US midterm elections.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "33f2d0244d744573"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzieibmxga2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzieibmxga2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9f20de058f58",
+   "created_at": "2026-11-04T12:35:45Z"
+  },
   {
    "id": "fa2b1f23b2df",
    "ts": "2026-11-04T11:44:29Z",
@@ -6150,27 +6171,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdbtv6seb2y",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdbtv6seb2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0e8462e7a022",
-   "created_at": "2026-11-02T12:05:43Z"
-  },
-  {
-   "id": "731aefe350a0",
-   "ts": "2026-11-02T12:01:50Z",
-   "headline": "Equinor CEO says European industrial gas demand is 30% below its five-year average",
-   "detail": "Equinor's chief executive said demand for natural gas from European industry is running 30% below the five-year average.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "84c41c66414d4ff1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdboofntk2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdboofntk2z"
     }
    ],
    "model": "opus",
