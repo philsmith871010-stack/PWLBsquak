@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T17:40:54Z",
+ "generated_at": "2026-11-04T17:45:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "faa9183f2dfc",
+   "ts": "2026-11-04T16:18:17Z",
+   "headline": "OBR's David Miles names fiscal drag as one of three main causes of near-stagnant UK household income growth this decade",
+   "detail": "David Miles of the Office for Budget Responsibility said frozen income tax thresholds, which pull more people into higher tax bands, are one of three main reasons that growth in UK households' disposable income is close to stagnant in the current decade, City A.M. reports.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "2e75221df4e696bd"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mzivqda62nf2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mzivqda62nf2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "431c5a830dc5",
+   "created_at": "2026-11-04T17:45:53Z"
+  },
   {
    "id": "b576a59da8a7",
    "ts": "2026-11-04T17:40:19Z",
@@ -6089,69 +6110,6 @@
    "model": "opus",
    "run_id": "07bd2b673053",
    "created_at": "2026-11-02T16:56:09Z"
-  },
-  {
-   "id": "2bec80c72e3b",
-   "ts": "2026-11-02T16:33:44Z",
-   "headline": "US Treasury sells $95bn of 3-month bills at 4.040% and $82bn of 6-month bills at 4.150%",
-   "detail": "The 3-month bill sale drew a bid-to-cover of 2.88, against 3.07 at the previous sale, and its high yield was 4.04% against 4.05% previously. The 6-month bill drew cover of 2.89, against 2.63, with a high yield of 4.15% against 4.21% previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "f6abbe6f07d085b5",
-    "e7804236ec29e647",
-    "d701e927782e7b6a",
-    "4b58b1f79a395469",
-    "e0dce7ebb7254751",
-    "7a760051c61d77d0",
-    "20d1caa66ea2f8b9",
-    "8bfec660e20fa93a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqtdw5ac25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqtdw5ac25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqtfxe2h2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqtfxe2h2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqti5gdk25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqti5gdk25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqtm3uqx2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqtm3uqx2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqueyt5i22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqueyt5i22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqupb6xr2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqupb6xr2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqutn3k225",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqutn3k225"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqvnjkcl2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqvnjkcl2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3aea521bb1fd",
-   "created_at": "2026-11-02T16:35:43Z"
   }
  ]
 }
