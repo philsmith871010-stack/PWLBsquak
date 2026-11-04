@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T13:10:53Z",
+ "generated_at": "2026-11-04T13:20:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b2b4bedab7ae",
+   "ts": "2026-11-04T13:15:53Z",
+   "headline": "US ADP private payrolls rise 86,000 in October, beating the 67,000 forecast",
+   "detail": "ADP data show US private employment up 86,000 in October, against a forecast of 67,000 and a previous reading of 90,000. Spot gold was reported little changed after the release.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "9800da284aed70b8",
+    "493a36d228109695",
+    "96cfed0996bff285",
+    "4bdaf6f894b725e5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzigqvmy7424",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzigqvmy7424"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzigtzmgzr2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzigtzmgzr2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzigut27sh2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzigut27sh2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzigx2o3nh2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzigx2o3nh2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "596d40b848ac",
+   "created_at": "2026-11-04T13:20:54Z"
+  },
   {
    "id": "de8d54731bb2",
    "ts": "2026-11-04T13:09:58Z",
@@ -6155,27 +6194,6 @@
    "model": "opus",
    "run_id": "bb15e50bf003",
    "created_at": "2026-11-02T13:40:54Z"
-  },
-  {
-   "id": "e7796132c018",
-   "ts": "2026-11-02T13:31:40Z",
-   "headline": "Iran's President Pezeshkian says the Supreme Leader has given the government some powers over negotiations",
-   "detail": "Iran's ISNA news agency reported the remarks by President Pezeshkian. They come as efforts to restart US-Iran talks continue.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4b2ed88e72a41126"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdgpcs3kb2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdgpcs3kb2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b88a3a8552f6",
-   "created_at": "2026-11-02T13:35:45Z"
   }
  ]
 }
