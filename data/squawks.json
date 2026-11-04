@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T17:45:53Z",
+ "generated_at": "2026-11-04T17:55:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ca86a4373fe1",
+   "ts": "2026-11-04T17:52:18Z",
+   "headline": "Brent crude slides 10% to near $93 a barrel, its lowest in two months",
+   "detail": "Brent crude is reported down 10% at close to $93 a barrel, its lowest level in two months, as the oil sell-off extends through the session.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "438076e5282e9788"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziw76psog25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziw76psog25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d47a0464ab6d",
+   "created_at": "2026-11-04T17:55:41Z"
+  },
   {
    "id": "faa9183f2dfc",
    "ts": "2026-11-04T16:18:17Z",
@@ -6083,33 +6104,6 @@
    "model": "opus",
    "run_id": "563e1fa87f57",
    "created_at": "2026-11-02T17:15:56Z"
-  },
-  {
-   "id": "649bea975689",
-   "ts": "2026-11-02T16:53:24Z",
-   "headline": "USTR plans to suspend South Africa and Rwanda from duty-free US market access under AGOA",
-   "detail": "The US Trade Representative said in a statement that it intends to suspend both countries' duty-free access under the African Growth and Opportunity Act. USTR Greer said Trump had found that the two governments' practices do not meet AGOA's eligibility criteria.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "8e0c5e271686c369",
-    "1dce3b832f0383d7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdrxzve2j2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdrxzve2j2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdryebdle2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdryebdle2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "07bd2b673053",
-   "created_at": "2026-11-02T16:56:09Z"
   }
  ]
 }
