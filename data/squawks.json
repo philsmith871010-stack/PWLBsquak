@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T16:05:40Z",
+ "generated_at": "2026-11-04T16:10:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "aca6cc892668",
+   "ts": "2026-11-04T16:07:27Z",
+   "headline": "Brent and US crude futures extend their slide to more than $4 a barrel",
+   "detail": "Market reports at 16:07 GMT show Brent and US crude futures each down by more than $4 a barrel on the day. Earlier in the session the losses were above $2.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "7ec32afbf7455204"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziqdpputt2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziqdpputt2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4d88d680ff0b",
+   "created_at": "2026-11-04T16:10:47Z"
+  },
   {
    "id": "ed766dc68d77",
    "ts": "2026-11-04T16:02:46Z",
@@ -6138,33 +6159,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdn2dhsgy2z",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdn2dhsgy2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "947afa4954e5",
-   "created_at": "2026-11-02T15:25:44Z"
-  },
-  {
-   "id": "65060edf24e0",
-   "ts": "2026-11-02T15:23:16Z",
-   "headline": "ECB's Escrivá says the oil and gas price shock is bigger than expected but there are no signs yet of second-round effects",
-   "detail": "ECB Governing Council member José Luis Escrivá said the energy price shock had proved larger than expected. He added that second-round effects on inflation had not yet appeared.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "440ba0cbf006c2a4",
-    "dfb0401a2752fe43"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdmwuhv4v2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdmwuhv4v2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdmy6vudy25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdmy6vudy25"
     }
    ],
    "model": "opus",
