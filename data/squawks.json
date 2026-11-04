@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T15:45:50Z",
+ "generated_at": "2026-11-04T16:01:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c11e1c8d8c3f",
+   "ts": "2026-11-04T15:57:34Z",
+   "headline": "Brent crude drops below $100 a barrel for the first time since 7 October",
+   "detail": "Brent crude futures fell below $100 a barrel, the first time since 7 October, according to market reports. The fall extends the oil price losses that followed the US midterm results.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "687d9899e60006b2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziprzx2gh25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziprzx2gh25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "932db6953c58",
+   "created_at": "2026-11-04T16:01:17Z"
+  },
   {
    "id": "19af6ca89ac6",
    "ts": "2026-11-04T15:42:29Z",
@@ -6149,27 +6170,6 @@
    "model": "opus",
    "run_id": "dc3a5f31645b",
    "created_at": "2026-11-02T15:20:56Z"
-  },
-  {
-   "id": "2c2d7a3e0745",
-   "ts": "2026-11-02T15:13:51Z",
-   "headline": "ECB's Escrivá says a lack of fiscal adjustment is not limited to France",
-   "detail": "Bank of Spain Governor Escrivá said the absence of fiscal adjustment extends beyond France. He spoke on the same day as other ECB policymakers' comments on French public finances.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "5d140790171e6cad"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdmfzd3f32y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdmfzd3f32y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "18cefd097d6b",
-   "created_at": "2026-11-02T15:15:56Z"
   }
  ]
 }
