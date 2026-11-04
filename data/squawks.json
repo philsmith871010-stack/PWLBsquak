@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T09:35:46Z",
+ "generated_at": "2026-11-04T10:01:24Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ec42dfa26927",
+   "ts": "2026-11-04T10:01:00Z",
+   "headline": "Eurozone flash October inflation rises to 4% y/y, in line with forecasts; core inflation holds at 2.5%",
+   "detail": "Eurozone flash headline CPI came in at 4% year on year, up from 3.8% and matching the 4% forecast. Core CPI was 2.5%, unchanged and in line with expectations, and prices rose 0.4% month on month, down from 0.6% and in line with the forecast.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "31a34cba4112f007",
+    "1ff2e939d8005038",
+    "093b2b6bbca74b3b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi3uggyoh2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi3uggyoh2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi3ujwqh62d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi3ujwqh62d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi3uqreyc22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi3uqreyc22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a337c21c58db",
+   "created_at": "2026-11-04T10:01:24Z"
+  },
   {
    "id": "da92efcf1def",
    "ts": "2026-11-04T09:34:38Z",
@@ -6125,27 +6158,6 @@
    "model": "opus",
    "run_id": "22bec82f33a1",
    "created_at": "2026-11-02T11:01:27Z"
-  },
-  {
-   "id": "e7a10f266d7a",
-   "ts": "2026-11-02T10:46:25Z",
-   "headline": "Gazprom's daily gas exports to China through Power of Siberia reach a record",
-   "detail": "Gazprom's daily gas exports to China through the Power of Siberia pipeline have hit a record high, according to a market news post. The post gave no volume.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "342aad403a97bd6a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd5hs3i4f25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd5hs3i4f25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4f4c2e8b95be",
-   "created_at": "2026-11-02T10:50:56Z"
   }
  ]
 }
