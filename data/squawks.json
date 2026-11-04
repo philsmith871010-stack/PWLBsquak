@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T20:35:39Z",
+ "generated_at": "2026-11-04T21:20:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "56cfbaf2207a",
+   "ts": "2026-11-04T21:16:48Z",
+   "headline": "US stocks and bonds rally after the midterm elections while oil prices fall",
+   "detail": "A US market wrap reports US equities and bonds both gaining after the midterm election results as oil prices slid. No yield figures were given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "793d5b846053faab"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzjbmusyjm2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzjbmusyjm2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c4ad8df6c2f1",
+   "created_at": "2026-11-04T21:20:49Z"
+  },
   {
    "id": "915294098d9a",
    "ts": "2026-11-04T20:33:51Z",
@@ -6125,33 +6146,6 @@
    "model": "opus",
    "run_id": "453f1d51e862",
    "created_at": "2026-11-02T20:25:46Z"
-  },
-  {
-   "id": "77d178ceb7b7",
-   "ts": "2026-11-02T20:15:03Z",
-   "headline": "US Treasury expects $628bn of borrowing for October-December 2026, assuming an $850bn end-December cash balance",
-   "detail": "The US Treasury published the estimate in its quarterly refunding release. The same release put privately held net marketable borrowing at $739bn, which it said was $68bn higher than the May projection, mainly because it now expects lower net cash flows.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "09da33d16745b724",
-    "f4f3b4a57912685e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze5alkc272a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze5alkc272a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze5ai7qwn2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze5ai7qwn2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "56e0607d5f5e",
-   "created_at": "2026-11-02T20:15:51Z"
   }
  ]
 }
