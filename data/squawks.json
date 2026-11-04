@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T07:10:58Z",
+ "generated_at": "2026-11-04T08:45:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "61ccdbc6f137",
+   "ts": "2026-11-04T08:45:47Z",
+   "headline": "Italy's services PMI rises to 52 in October, above the 51.5 forecast",
+   "detail": "Italy's services PMI came in at 52, up from 51.7 previously and ahead of the 51.5 forecast.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "7f4fa22cfb2acef8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhxnwmsft25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhxnwmsft25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c82aa76c8073",
+   "created_at": "2026-11-04T08:45:53Z"
+  },
   {
    "id": "bcb4f1e2ca42",
    "ts": "2026-11-04T07:08:07Z",
@@ -6083,27 +6104,6 @@
    "model": "opus",
    "run_id": "6abe0cd0bdcc",
    "created_at": "2026-11-02T09:40:54Z"
-  },
-  {
-   "id": "32230b9786f5",
-   "ts": "2026-11-02T09:30:56Z",
-   "headline": "UK final October manufacturing PMI confirmed at 52.8, in line with forecast and the previous reading",
-   "detail": "The final UK manufacturing PMI came in at 52.8, matching both the 52.8 forecast and the prior figure.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "823be40c728b6876"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzczatjnb724",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzczatjnb724"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4006d2fa88c8",
-   "created_at": "2026-11-02T09:31:09Z"
   }
  ]
 }
