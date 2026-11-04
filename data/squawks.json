@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T06:20:54Z",
+ "generated_at": "2026-11-04T07:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ef4f5a05a2e4",
+   "ts": "2026-11-04T07:04:38Z",
+   "headline": "Japan's deputy chief cabinet secretary Kihara says Tokyo is watching market moves with a high sense of urgency",
+   "detail": "Japan's Deputy Chief Cabinet Secretary Kihara said markets move on various factors and that the government is monitoring market moves with a high sense of urgency.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8d77592f955045f3",
+    "86be73d7763980df"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhrywv56n25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhrywv56n25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhrz34rww2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhrz34rww2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2fd8ec8efebd",
+   "created_at": "2026-11-04T07:05:43Z"
+  },
   {
    "id": "fe6f839c5fc1",
    "ts": "2026-11-04T06:10:00Z",
@@ -6072,27 +6099,6 @@
      "author": "resolutionfoundation.org",
      "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mzcyt4nsdd26",
      "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mzcyt4nsdd26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6a01511a646d",
-   "created_at": "2026-11-02T09:26:01Z"
-  },
-  {
-   "id": "46b312a2260d",
-   "ts": "2026-11-02T09:22:55Z",
-   "headline": "Kyiv says Russia has resumed attacks on Ukraine's Kherson region now that the truce has ended",
-   "detail": "According to Ukrainian authorities, Russian attacks on the Kherson region restarted after the truce expired.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1cb1c4fe24431101"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzcysiicuf2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzcysiicuf2z"
     }
    ],
    "model": "opus",
