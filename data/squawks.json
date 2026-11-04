@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T18:25:40Z",
+ "generated_at": "2026-11-04T18:45:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4cf32359efa2",
+   "ts": "2026-11-04T18:45:49Z",
+   "headline": "US Treasury Secretary Bessent pledges sanctions on anyone who keeps supporting the Iranian regime by land, sea or air",
+   "detail": "US Treasury Secretary Bessent made the pledge in a post on X. It follows new US Treasury sanctions related to Iran announced earlier on 4 November.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "97764ab56d8c90bc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziz6uqktq2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziz6uqktq2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "17f5f39e5ea9",
+   "created_at": "2026-11-04T18:45:54Z"
+  },
   {
    "id": "0a187723c043",
    "ts": "2026-11-04T18:24:50Z",
@@ -6149,27 +6170,6 @@
    "model": "opus",
    "run_id": "9efef34c6d56",
    "created_at": "2026-11-02T19:31:11Z"
-  },
-  {
-   "id": "767a63d5a8a3",
-   "ts": "2026-11-02T19:25:21Z",
-   "headline": "UK reportedly ready to pay up to £450m a year on EU student fees in return for equal treatment under EU 'Made in Europe' plan",
-   "detail": "A report says the UK would spend up to £450m a year on fees for EU students if Brussels gives British companies equal treatment under its planned 'Made in Europe' industrial programme. The report gave no source for the UK position.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e51236b0e116744f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2hqfhqe22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2hqfhqe22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5376acc0f67c",
-   "created_at": "2026-11-02T19:25:46Z"
   }
  ]
 }
