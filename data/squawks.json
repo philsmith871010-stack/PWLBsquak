@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T19:45:51Z",
+ "generated_at": "2026-11-04T19:55:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "450ada629fbe",
+   "ts": "2026-11-04T19:53:57Z",
+   "headline": "Trump's diesel deal with Russia is faltering as US fuel supplies hit a 20-year low, FT reports",
+   "detail": "The Financial Times reports that the Trump administration's diesel arrangement with Russia is stalling while US fuel supplies are at their lowest in 20 years.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "d649fc025e062e55"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzj4ypmnhi2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzj4ypmnhi2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e9d2a3ce2f3b",
+   "created_at": "2026-11-04T19:55:41Z"
+  },
+  {
+   "id": "92b2a4df4cef",
+   "ts": "2026-11-04T19:51:22Z",
+   "headline": "Brent crude futures settle at their lowest level since 31 August",
+   "detail": "Brent futures settled at their lowest since 31 August, after the day's 8.67% fall to $94.62 a barrel.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "b39c34528ff9f654"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzj4u3ke2d2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzj4u3ke2d2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e9d2a3ce2f3b",
+   "created_at": "2026-11-04T19:55:41Z"
+  },
   {
    "id": "b6c31adbb1e4",
    "ts": "2026-11-04T19:45:02Z",
@@ -6086,78 +6128,6 @@
    "model": "opus",
    "run_id": "60cbe6bc1122",
    "created_at": "2026-11-02T20:05:43Z"
-  },
-  {
-   "id": "081e03388338",
-   "ts": "2026-11-02T20:02:34Z",
-   "headline": "US Treasury puts privately held net marketable borrowing at $739bn in its quarterly refunding estimate",
-   "detail": "The US Treasury's quarterly refunding estimate puts privately held net marketable borrowing at $739bn for the July-September 2026 quarter, assuming an end-September cash balance of $950bn. Excluding a higher-than-expected cash balance at the start of the quarter, the estimate is $87bn above the May projection.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "477e1460cbaf84a5",
-    "2bf26db3c45129fe",
-    "37ecb0a013c92546",
-    "ada9c57575288708"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze4kbhyzf25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze4kbhyzf25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze4ljzo7u2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze4ljzo7u2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze4jazsar2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze4jazsar2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze4mkfdz525",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze4mkfdz525"
-    }
-   ],
-   "model": "opus",
-   "run_id": "60cbe6bc1122",
-   "created_at": "2026-11-02T20:05:43Z"
-  },
-  {
-   "id": "695a2c806d52",
-   "ts": "2026-11-02T19:54:02Z",
-   "headline": "Trump says an Iran deal is coming together well, which is why oil is falling, and that the US will stop killing Iran's leaders as asked",
-   "detail": "Speaking at the Reflecting Pool, President Trump said Iran had asked the US to stop killing its leaders and that the US would do so. He said things with Iran were coming together well and linked this to the fall in oil.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "f93a88607142cb99",
-    "f7958fa5d28b1cb2",
-    "c1685dc0029050f7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze3z3dbhu2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze3z3dbhu2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze42zmftr2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze42zmftr2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze45au5yf2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze45au5yf2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8164416e97f5",
-   "created_at": "2026-11-02T19:56:02Z"
   }
  ]
 }
