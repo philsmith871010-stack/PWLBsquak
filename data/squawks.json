@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T18:05:42Z",
+ "generated_at": "2026-11-04T18:10:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "06ddbd02f479",
+   "ts": "2026-11-04T18:10:35Z",
+   "headline": "Trump agrees the Republican midterm defeat was largely down to the Iran war",
+   "detail": "US President Trump says it is largely true that the Republicans lost the midterm elections because of the Iran war. Earlier, Vice President Vance gave the same reason.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7c9d2e9c097f37df"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzix7uwkt22p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzix7uwkt22p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8fb36b56bb92",
+   "created_at": "2026-11-04T18:10:51Z"
+  },
+  {
+   "id": "49386c2b10f7",
+   "ts": "2026-11-04T18:06:18Z",
+   "headline": "China's Xi says the Gulf should not become an arena for great-power rivalry as Beijing steps up its Iran war diplomacy",
+   "detail": "According to Semafor, Chinese President Xi made the remarks as China increases its diplomatic efforts in the Gulf over the Iran war.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "200eb85317ccf8ac"
+   ],
+   "sources": [
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mziwy7twd725",
+     "url": "https://bsky.app/profile/semafor.com/post/3mziwy7twd725"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8fb36b56bb92",
+   "created_at": "2026-11-04T18:10:51Z"
+  },
   {
    "id": "7df7c709d2c9",
    "ts": "2026-11-04T18:02:27Z",
@@ -6074,48 +6116,6 @@
    "model": "opus",
    "run_id": "4e428629158d",
    "created_at": "2026-11-02T18:05:42Z"
-  },
-  {
-   "id": "f40d7083fac5",
-   "ts": "2026-11-02T18:00:31Z",
-   "headline": "Brent's fall widens to more than $9 a barrel and WTI drops $8 on hopes of a deal to end the Iran war",
-   "detail": "Oil futures fell further late on Monday, with Brent down by more than $9 a barrel and US WTI down $8. The moves were reported as driven by hopes of a deal to end the Iran war.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "abf4053449aa8b6b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdvq23ewt2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdvq23ewt2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c362bb867811",
-   "created_at": "2026-11-02T18:01:18Z"
-  },
-  {
-   "id": "aeac95bf6289",
-   "ts": "2026-11-02T17:53:52Z",
-   "headline": "US-Iran talks reach a breakthrough after Qatari mediation clears procedural hurdles, Al-Jadeed reports",
-   "detail": "Lebanese broadcaster Al-Jadeed, citing diplomatic sources, reports that Qatari mediation overcame procedural obstacles in the US-Iranian negotiations. No official confirmation or market reaction has been reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "83133ff4b00b06d2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdve5uf7f2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdve5uf7f2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c4e302fea8fe",
-   "created_at": "2026-11-02T17:55:44Z"
   }
  ]
 }
