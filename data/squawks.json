@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T19:05:46Z",
+ "generated_at": "2026-11-04T19:25:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bea523f53787",
+   "ts": "2026-11-04T19:22:10Z",
+   "headline": "ECB's Moulin says banks can cope with higher rates and the bank-sovereign loop risk has gone",
+   "detail": "ECB policymaker Moulin said banks are able to handle rising rates, that a doom loop between banks and sovereigns is no longer a risk, and that France must solve its financial problems itself rather than rely on Frankfurt. He also said he is sceptical of the French government's plan to raise the cap on regulated savings.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ff17b4cb347a8016",
+    "3c3b336406561b08",
+    "7443060befeb9de6",
+    "059c802779fb77e8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzj37upmsn2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzj37upmsn2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzj3aolc7s2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzj3aolc7s2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzj3can4z22k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzj3can4z22k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzj3dq6con2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzj3dq6con2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a1c59b7a63b8",
+   "created_at": "2026-11-04T19:25:43Z"
+  },
   {
    "id": "9aada59d4b7c",
    "ts": "2026-11-04T19:04:35Z",
@@ -6119,33 +6158,6 @@
    "model": "opus",
    "run_id": "a45240334f02",
    "created_at": "2026-11-02T19:40:51Z"
-  },
-  {
-   "id": "0577aefec04b",
-   "ts": "2026-11-02T19:33:21Z",
-   "headline": "Trump says oil will fall further because the US is winning with Iran, and a deal could happen",
-   "detail": "US President Trump said oil prices will go down further, that Iran wants to make a deal which could happen, and that Iran has said recently it will not have a nuclear weapon.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d0f8d0f35ccbf111",
-    "69b5e1d2d29ed880"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2w22xcz2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2w22xcz2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2yaihnd2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2yaihnd2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7cc375e17b83",
-   "created_at": "2026-11-02T19:35:46Z"
   }
  ]
 }
