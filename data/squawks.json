@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T16:01:17Z",
+ "generated_at": "2026-11-04T16:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ed766dc68d77",
+   "ts": "2026-11-04T16:02:46Z",
+   "headline": "France's 10-year government bond yield extends its fall, down 12.5bp at 4.80%",
+   "detail": "A market newswire reports that France's 10-year government bond yield fell further, to 4.80%, a drop of 12.5bp on the day.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "04eaf120a2a65585"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziq3dfpek25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziq3dfpek25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e11afd19599b",
+   "created_at": "2026-11-04T16:05:40Z"
+  },
   {
    "id": "c11e1c8d8c3f",
    "ts": "2026-11-04T15:57:34Z",
@@ -6149,27 +6170,6 @@
    "model": "opus",
    "run_id": "947afa4954e5",
    "created_at": "2026-11-02T15:25:44Z"
-  },
-  {
-   "id": "24879406f157",
-   "ts": "2026-11-02T15:19:13Z",
-   "headline": "ECB's Escrivá says the outlook for interest rates is highly complex",
-   "detail": "ECB Governing Council member José Luis Escrivá said the rates scenario is marked by high complexity. He gave no figures.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "89a24b7a89973812"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdmpmo6of25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdmpmo6of25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dc3a5f31645b",
-   "created_at": "2026-11-02T15:20:56Z"
   }
  ]
 }
