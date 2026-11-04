@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T18:50:50Z",
+ "generated_at": "2026-11-04T19:05:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9aada59d4b7c",
+   "ts": "2026-11-04T19:04:35Z",
+   "headline": "US Treasury accepts $6B in debt buyback after receiving $39.636B of offers",
+   "detail": "The US Treasury accepted 7 of 40 eligible issues in a buyback targeting coupon securities maturing from 2037 to 2046, against $39.636B of offers.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0acc133bc43ba53b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzj2agnfmk2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzj2agnfmk2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ec2c340438ff",
+   "created_at": "2026-11-04T19:05:46Z"
+  },
   {
    "id": "4484f2473810",
    "ts": "2026-11-04T18:48:39Z",
@@ -6120,51 +6141,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2yaihnd2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2yaihnd2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7cc375e17b83",
-   "created_at": "2026-11-02T19:35:46Z"
-  },
-  {
-   "id": "b5d140278b02",
-   "ts": "2026-11-02T19:31:37Z",
-   "headline": "WTI December crude settles down $7.66, or 7.36%, at $96.46 a barrel",
-   "detail": "NYMEX WTI December futures settled at $96.46 a barrel, down $7.66 or 7.36%. December gasoline settled at $2.9001 a gallon, diesel at $4.4216 a gallon and natural gas at $2.8560/MMBtu.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "b261c7d246686b2f",
-    "d62ca03b50302446",
-    "6ee15ba98ab32ecd",
-    "d06b74b86ee91e08",
-    "84eb03c358aaedb0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2swz6wx2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2swz6wx2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2trid3z2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2trid3z2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2sz3lpb2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2sz3lpb2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2u3gqkc2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2u3gqkc2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze2v7sxdt2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze2v7sxdt2g"
     }
    ],
    "model": "opus",
