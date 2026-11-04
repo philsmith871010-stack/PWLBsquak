@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T15:01:20Z",
+ "generated_at": "2026-11-04T15:35:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a5e89cb197c7",
+   "ts": "2026-11-04T15:35:08Z",
+   "headline": "Canada's trade surplus widens to C$5.35bn in September, its highest since May 2022",
+   "detail": "Canadian data released on Wednesday show the September trade surplus at C$5.35 billion ($3.83 billion), Reuters reports. Gold and higher energy exports, mainly to the United States, drove the rise.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ae2a0efe3b3d71b7"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mziojvy4yw2w",
+     "url": "https://bsky.app/profile/reuters.com/post/3mziojvy4yw2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "246a9811feb3",
+   "created_at": "2026-11-04T15:35:39Z"
+  },
   {
    "id": "2d1b3e5c30de",
    "ts": "2026-11-04T15:01:06Z",
@@ -6161,39 +6182,6 @@
    "model": "opus",
    "run_id": "18cefd097d6b",
    "created_at": "2026-11-02T15:15:56Z"
-  },
-  {
-   "id": "b6e66d5b078d",
-   "ts": "2026-11-02T15:10:13Z",
-   "headline": "ECB's Moulin says France's situation is a cause for concern and markets are worried about it",
-   "detail": "Bank of France Governor Moulin, an ECB Governing Council member, said markets are concerned about the situation in France. He also said rises in global interest rates affect every country.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "db2e3a27731109a0",
-    "62fb82435989a898",
-    "93f03738d8e1e648"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdm7j7f4z2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdm7j7f4z2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdmae4oft2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdmae4oft2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdmaiimk52y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdmaiimk52y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c7a996ac6226",
-   "created_at": "2026-11-02T15:10:52Z"
   }
  ]
 }
