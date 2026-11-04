@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T14:05:50Z",
+ "generated_at": "2026-11-04T14:15:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c0feabc2519a",
+   "ts": "2026-11-04T14:15:13Z",
+   "headline": "Turkey's parliament is due to ratify a defence pact with Saudi Arabia and Pakistan that includes a collective defence clause",
+   "detail": "Reuters reports that Turkey's parliament is set to ratify the pact on Wednesday, which would commit Turkish forces to Saudi Arabia's defence while the kingdom faces attacks from Yemen's Iran-backed Houthis.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2146b4b1028e5048"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzik2z5vgc2i",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzik2z5vgc2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "de83254ef52a",
+   "created_at": "2026-11-04T14:15:59Z"
+  },
   {
    "id": "9235f2e30716",
    "ts": "2026-11-04T14:05:24Z",
@@ -6155,27 +6176,6 @@
    "model": "opus",
    "run_id": "1e66f54b610e",
    "created_at": "2026-11-02T14:40:58Z"
-  },
-  {
-   "id": "00c04f43e3d9",
-   "ts": "2026-11-02T14:30:52Z",
-   "headline": "Canada's October manufacturing PMI drops to 49.6 from 51.5",
-   "detail": "Canada's manufacturing PMI came in at 49.6, down from 51.5 previously. No forecast was given.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "465007e4558bddfd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdjz5j3pu25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdjz5j3pu25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4c3db0f80264",
-   "created_at": "2026-11-02T14:31:21Z"
   }
  ]
 }
