@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T14:15:59Z",
+ "generated_at": "2026-11-04T14:20:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "af8365bd6015",
+   "ts": "2026-11-04T14:17:28Z",
+   "headline": "EU foreign policy chief Kallas hopes the new US Congress keeps backing Ukraine and keeps up pressure on Russia",
+   "detail": "Responding to the US midterm results, EU foreign policy chief Kallas said US voters had made a clear choice. She said she hoped the new Congress and Senate would keep supporting Ukraine and add pressure on Russia.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ee38996a494bf222",
+    "677c28dd4ca0a2a6",
+    "3ea8caa51ab35f0d",
+    "699d57f53ee19b36"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzik5exlzv2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzik5exlzv2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzik5ffcbs2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzik5ffcbs2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzik6zl52t2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzik6zl52t2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzik7qq34w2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzik7qq34w2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "03d181c658bb",
+   "created_at": "2026-11-04T14:20:56Z"
+  },
   {
    "id": "c0feabc2519a",
    "ts": "2026-11-04T14:15:13Z",
@@ -6155,27 +6194,6 @@
    "model": "opus",
    "run_id": "7223cf966e9a",
    "created_at": "2026-11-02T14:47:11Z"
-  },
-  {
-   "id": "a11e3f271641",
-   "ts": "2026-11-02T14:39:53Z",
-   "headline": "UK 10-year gilt yield heads for its largest one-day drop since 20 May",
-   "detail": "A market report says the 10-year gilt yield is on course for its biggest single-day fall since 20 May.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "27e6aa04e968d0c0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdkjb6hle24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdkjb6hle24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1e66f54b610e",
-   "created_at": "2026-11-02T14:40:58Z"
   }
  ]
 }
