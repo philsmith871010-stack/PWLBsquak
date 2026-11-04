@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T19:25:43Z",
+ "generated_at": "2026-11-04T19:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "50234949cdda",
+   "ts": "2026-11-04T19:31:26Z",
+   "headline": "WTI crude futures settle 8.29% lower at $88.12 a barrel, down $7.97",
+   "detail": "December NYMEX WTI crude futures settled at $88.12 a barrel, down $7.97 or 8.29% on the day. December gasoline futures settled at $2.7286 a gallon and diesel at $4.2055 a gallon.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "4c944f3898af99e9",
+    "ffedbf7be763a00f",
+    "6d849d9cee9a4331",
+    "c0bd4d58a4be0ee9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzj3qgvbcf2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzj3qgvbcf2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzj3rcxako2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzj3rcxako2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzj3r75oyv2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzj3r75oyv2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzj3raxwsl22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzj3raxwsl22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "76425a53aba3",
+   "created_at": "2026-11-04T19:35:43Z"
+  },
   {
    "id": "bea523f53787",
    "ts": "2026-11-04T19:22:10Z",
@@ -6119,45 +6158,6 @@
    "model": "opus",
    "run_id": "8164416e97f5",
    "created_at": "2026-11-02T19:56:02Z"
-  },
-  {
-   "id": "212c6f47a028",
-   "ts": "2026-11-02T19:36:28Z",
-   "headline": "Trump tells Axios he is in no hurry to decide whether to restart the war with Iran",
-   "detail": "In a phone interview with Axios, the US President said he did not need to decide quickly on resuming the war with Iran. He also said Iran had recently stated again that it will not have a nuclear weapon.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "386cac933168ce12",
-    "b4fbaa1ac0343a59",
-    "3a589735c4818622",
-    "106dcd2c79fbe07f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze33meiuc24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze33meiuc24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze34ha46t2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze34ha46t2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze37gwpfx2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze37gwpfx2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mze35wymv525",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mze35wymv525"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a45240334f02",
-   "created_at": "2026-11-02T19:40:51Z"
   }
  ]
 }
