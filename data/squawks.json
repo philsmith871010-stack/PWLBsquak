@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T08:50:52Z",
+ "generated_at": "2026-11-04T08:55:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a8b5911fbe83",
+   "ts": "2026-11-04T08:50:52Z",
+   "headline": "France's final October services PMI is revised down to 46.2 from a 48.4 flash; composite PMI cut to 46.6",
+   "detail": "France's final October services PMI came in at 46.2, against a forecast and flash reading of 48.4. The composite PMI was 46.6, also against a forecast and preliminary reading of 48.4.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "e0d3a6bfbed9c50a",
+    "fe26dd5b9826f6df",
+    "42aeaf1c89234b00",
+    "3b6437df4861587e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhxwzpwrk2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhxwzpwrk2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhxx4f55z2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhxx4f55z2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhxyhjzc322",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhxyhjzc322"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhxyp7dut22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhxyp7dut22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1d7ee83afd67",
+   "created_at": "2026-11-04T08:55:43Z"
+  },
   {
    "id": "6ab803d868e4",
    "ts": "2026-11-04T08:46:17Z",
@@ -6083,27 +6122,6 @@
    "model": "opus",
    "run_id": "9226353e8a4f",
    "created_at": "2026-11-02T09:51:07Z"
-  },
-  {
-   "id": "e32016c8f951",
-   "ts": "2026-11-02T09:40:50Z",
-   "headline": "Kremlin says current conditions on the ground rule out restoring Russian gas flows to Europe via Ukraine for now",
-   "detail": "The Kremlin was responding to a WSJ report that the US is pushing to restore Russian gas transit to Europe through Ukraine as part of a Moscow-Kyiv energy truce.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "3f2301abac1bd9e2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzczsjuj3w2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzczsjuj3w2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6abe0cd0bdcc",
-   "created_at": "2026-11-02T09:40:54Z"
   }
  ]
 }
