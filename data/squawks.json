@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T10:25:44Z",
+ "generated_at": "2026-11-04T10:35:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0c4bfc715978",
+   "ts": "2026-11-04T10:35:25Z",
+   "headline": "Iran's Khamenei warns that any further attacks will bring a far wider response",
+   "detail": "In a message, Iran's Supreme Leader Khamenei said Iran must become ever more powerful to achieve absolute deterrence, and warned that further attacks would draw a far wider response. Separately, an IRGC adviser told Tasnim that in a war, Iran's retaliation would not be limited to the source of the attack.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "205833a2dbeb66a2",
+    "4f56479f9e4f7900",
+    "608b64184665a04b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5rygkqo2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5rygkqo2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5pl73ds25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5pl73ds25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5nejvvv2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5nejvvv2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0dd48611afae",
+   "created_at": "2026-11-04T10:35:47Z"
+  },
+  {
+   "id": "b37654a7d919",
+   "ts": "2026-11-04T10:34:08Z",
+   "headline": "Germany's 15-year Bund auction yields 3.57%, up from 3.5%, with bid-to-cover falling to 1.3 from 2",
+   "detail": "Germany sold 15-year Bunds at an average yield of 3.57%, compared with 3.5% at the previous sale. The bid-to-cover ratio was 1.3, down from 2 last time.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "566980b2daa664f8",
+    "e4f7e78852e39107"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5pokyhs25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5pokyhs25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5przjse2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5przjse2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0dd48611afae",
+   "created_at": "2026-11-04T10:35:47Z"
+  },
   {
    "id": "fa69ad01e325",
    "ts": "2026-11-04T10:22:32Z",
@@ -6110,54 +6170,6 @@
    "model": "opus",
    "run_id": "bd7715469cf6",
    "created_at": "2026-11-02T11:40:54Z"
-  },
-  {
-   "id": "cf9ed1e106f3",
-   "ts": "2026-11-02T11:34:39Z",
-   "headline": "ECB's Makhlouf says the French government must repair its public finances",
-   "detail": "ECB Governing Council member Makhlouf said on Monday that France needs to put its public finances in order. The post reported no market reaction.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "fdcbd7a4198b4f84"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzda62xlah25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzda62xlah25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5d38fb895317",
-   "created_at": "2026-11-02T11:35:41Z"
-  },
-  {
-   "id": "19ba40fe4193",
-   "ts": "2026-11-02T11:13:54Z",
-   "headline": "Trump says Iran wants a deal with the US but it remains to be seen whether one is reached",
-   "detail": "US President Trump made the remarks on Iran in comments reported on 2 November, and also said the US has knocked out two of Iran's regimes. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ad0069b6878304db",
-    "4a71a89c987d71b8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd6ywv6ze2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd6ywv6ze2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd6xgyoen2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd6xgyoen2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6fdba3806a34",
-   "created_at": "2026-11-02T11:15:51Z"
   }
  ]
 }
