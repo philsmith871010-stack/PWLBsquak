@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T17:35:57Z",
+ "generated_at": "2026-11-04T17:40:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b576a59da8a7",
+   "ts": "2026-11-04T17:40:19Z",
+   "headline": "US Treasury advisory committee finds AI-linked corporate borrowing is not crowding out demand for Treasuries",
+   "detail": "The Treasury Borrowing Advisory Committee reached this view at its latest meeting, Reuters reports. The committee also cautioned that the AI financing boom is still at an early stage.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e2373b32302370b0"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzivjqvfly2a",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzivjqvfly2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1cdc86a18532",
+   "created_at": "2026-11-04T17:40:54Z"
+  },
   {
    "id": "cc22a350853d",
    "ts": "2026-11-04T17:34:13Z",
@@ -6131,27 +6152,6 @@
    "model": "opus",
    "run_id": "3aea521bb1fd",
    "created_at": "2026-11-02T16:35:43Z"
-  },
-  {
-   "id": "9bf3e9412957",
-   "ts": "2026-11-02T16:25:49Z",
-   "headline": "European gas prices extend their fall to as much as 10%, reaching €93.55/MWh",
-   "detail": "European gas prices fell by as much as 10% to €93.55/MWh, a bigger fall than the earlier drop of up to 5.3% to €98.49/MWh. The move comes as hopes build for an end to the US-Iran conflict.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "7793ee65b72978da"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqgpleyt24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqgpleyt24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ff702cfd03d6",
-   "created_at": "2026-11-02T16:31:19Z"
   }
  ]
 }
