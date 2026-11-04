@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T17:05:44Z",
+ "generated_at": "2026-11-04T17:35:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cc22a350853d",
+   "ts": "2026-11-04T17:34:13Z",
+   "headline": "US Treasury announces new sanctions related to Iran",
+   "detail": "The US Treasury Department posted new Iran-related sanctions on its website. No further details were given in the report.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "52c1aceb464f88a7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziv6ufzwc24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziv6ufzwc24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "afb045212ee1",
+   "created_at": "2026-11-04T17:35:57Z"
+  },
+  {
+   "id": "4816fe243dbb",
+   "ts": "2026-11-04T17:33:22Z",
+   "headline": "House Democratic leader Jeffries says Democrats will pass a bill to stop Trump's tariffs and end the Iran war",
+   "detail": "House Democratic leader Hakeem Jeffries made the pledge after the Democrats won control of Congress in the midterms. He also said he had not heard from Trump.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a3a66bce7c503828",
+    "1e8d51df78332671"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziv5dblks24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziv5dblks24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziv3quyqw2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziv3quyqw2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "afb045212ee1",
+   "created_at": "2026-11-04T17:35:57Z"
+  },
   {
    "id": "36454f76533c",
    "ts": "2026-11-04T17:04:52Z",
@@ -6104,48 +6152,6 @@
    "model": "opus",
    "run_id": "ff702cfd03d6",
    "created_at": "2026-11-02T16:31:19Z"
-  },
-  {
-   "id": "6b9958f2db03",
-   "ts": "2026-11-02T16:24:51Z",
-   "headline": "Brent futures drop by more than $8 a barrel on hopes of progress towards ending the Iran war",
-   "detail": "Brent crude futures were reported down by more than $8 a barrel on the day, as hopes grew for progress towards ending the US-Iran conflict.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "c2d79c8a82406bd8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdqeyi6xv2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdqeyi6xv2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4e68f9e20185",
-   "created_at": "2026-11-02T16:25:48Z"
-  },
-  {
-   "id": "040582e53557",
-   "ts": "2026-11-02T15:58:00Z",
-   "headline": "Iran threatens US bases in Europe if the US carries out new airstrikes, The Times reports",
-   "detail": "The Times reports that Iran has threatened to target US bases in Europe in response to any new US airstrikes. No market reaction was reported in the post.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9f60d9f390dba1be"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzdouxszjx2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzdouxszjx2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "80970843452b",
-   "created_at": "2026-11-02T16:01:19Z"
   }
  ]
 }
