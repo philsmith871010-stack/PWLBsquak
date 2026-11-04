@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T10:01:24Z",
+ "generated_at": "2026-11-04T10:25:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fa69ad01e325",
+   "ts": "2026-11-04T10:22:32Z",
+   "headline": "Gilts extend gains as the 10-year yield falls 5bp to 5.21%",
+   "detail": "UK government bonds add to earlier gains on Wednesday morning, with the 10-year gilt yield down 5bp at 5.21%, according to a market report.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "e04928e302429541"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi52xacwc2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi52xacwc2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a406db01aaa7",
+   "created_at": "2026-11-04T10:25:44Z"
+  },
   {
    "id": "ec42dfa26927",
    "ts": "2026-11-04T10:01:00Z",
@@ -6137,27 +6158,6 @@
    "model": "opus",
    "run_id": "6fdba3806a34",
    "created_at": "2026-11-02T11:15:51Z"
-  },
-  {
-   "id": "5b67b9800c1e",
-   "ts": "2026-11-02T10:59:50Z",
-   "headline": "China proposes looser foreign exchange rules for current account transactions",
-   "detail": "Chinese authorities have put forward proposals to ease foreign exchange rules on current account transactions. The post gave no further details.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0d19deb47c28ede4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzd67saouz2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzd67saouz2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "22bec82f33a1",
-   "created_at": "2026-11-02T11:01:27Z"
   }
  ]
 }
