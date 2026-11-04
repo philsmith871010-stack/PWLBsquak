@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T17:55:41Z",
+ "generated_at": "2026-11-04T18:01:12Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cb217871a935",
+   "ts": "2026-11-04T18:00:54Z",
+   "headline": "US Treasury's OFAC warns industry about vessels that may be falsely flagged and names a Turkey-based firm in Iran sanctions",
+   "detail": "As part of its latest Iran-related sanctions, the US Treasury designated Turkey-based Fugo Ground Services for supporting Iran's aviation sector. Its Office of Foreign Assets Control also issued a new alert to industry on the risks of dealing with vessels that may be falsely flagged.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fc0a55876f23604e",
+    "82e2fcca7c8ade07"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziwoezbw32a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziwoezbw32a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziwol3twh2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziwol3twh2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fcedf61a9df8",
+   "created_at": "2026-11-04T18:01:12Z"
+  },
   {
    "id": "ca86a4373fe1",
    "ts": "2026-11-04T17:52:18Z",
@@ -6083,27 +6110,6 @@
    "model": "opus",
    "run_id": "aecbeb03051b",
    "created_at": "2026-11-02T17:25:43Z"
-  },
-  {
-   "id": "3140d7f140a2",
-   "ts": "2026-11-02T17:15:14Z",
-   "headline": "Sterling holds steady against the dollar and euro as markets turn to Thursday's BoE decision, where a hike is expected",
-   "detail": "Reuters reports the pound was broadly steady on Monday as attention moved from last week's UK Budget to the Bank of England decision on Thursday. A rate rise there would be the Bank's first since August 2023.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "66a9cb6701fe18a2"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzdt72fyo72h",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzdt72fyo72h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "563e1fa87f57",
-   "created_at": "2026-11-02T17:15:56Z"
   }
  ]
 }
