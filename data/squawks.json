@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T09:01:17Z",
+ "generated_at": "2026-11-04T09:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "30ec61098e81",
+   "ts": "2026-11-04T09:01:59Z",
+   "headline": "ECB projects wage growth of 2.8% in the second quarter of 2027, slowing to 2.4% in the third quarter",
+   "detail": "The European Central Bank's latest wage projections put wage growth at 2.8% in 2Q 2027 and 2.4% in 3Q 2027.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0492994d4f39536d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhykwdhvg25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhykwdhvg25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "00104eab9c4e",
+   "created_at": "2026-11-04T09:05:41Z"
+  },
   {
    "id": "9a3e359ad0a7",
    "ts": "2026-11-04T09:01:04Z",
@@ -6119,27 +6140,6 @@
    "model": "opus",
    "run_id": "c2805a75b958",
    "created_at": "2026-11-02T10:20:52Z"
-  },
-  {
-   "id": "e09db0e6c7f8",
-   "ts": "2026-11-02T10:00:29Z",
-   "headline": "China's Wang Yi urges all sides in the Middle East conflict to pursue political solutions rather than renewed fighting",
-   "detail": "Chinese Foreign Minister Wang Yi made the call on Monday during a meeting in Beijing with an Iranian national security official, Reuters reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5d467bc7d6574ea0"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzd2vofot62p",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzd2vofot62p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e31199f51e83",
-   "created_at": "2026-11-02T10:01:14Z"
   }
  ]
 }
