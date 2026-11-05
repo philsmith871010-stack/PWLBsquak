@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T16:40:49Z",
+ "generated_at": "2026-11-05T16:55:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7646c4683505",
+   "ts": "2026-11-05T16:53:50Z",
+   "headline": "Odds of a December Fed hike drop to 67% from above 80% as Democrats are reported to sweep Congress",
+   "detail": "A market commentary account reported that, after the US midterm results, odds of a December Fed rate hike fell from above 80% to 67%. It said prediction markets now give a hold a 33% chance, the highest since mid-September.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "26849dd913de351b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzldfkkilv24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzldfkkilv24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4dc7b77d0c4f",
+   "created_at": "2026-11-05T16:55:39Z"
+  },
   {
    "id": "053cdce9d918",
    "ts": "2026-11-05T16:38:25Z",
@@ -5915,27 +5936,6 @@
    "model": "opus",
    "run_id": "6d154ca78685",
    "created_at": "2026-11-03T21:05:47Z"
-  },
-  {
-   "id": "3adae24162ba",
-   "ts": "2026-11-03T19:03:26Z",
-   "headline": "ECB's Sleijpen says France's problems have to be resolved by Paris",
-   "detail": "ECB Governing Council member Sleijpen said France's problems need to be solved in Paris. No market reaction was reported.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "5cad4665d2f4ed77"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgjphswjp2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgjphswjp2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3777099eaf76",
-   "created_at": "2026-11-03T19:05:48Z"
   }
  ]
 }
