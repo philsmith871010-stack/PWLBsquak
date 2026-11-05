@@ -1,8 +1,92 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T06:05:41Z",
+ "generated_at": "2026-11-05T06:10:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "953a1eca8ef8",
+   "ts": "2026-11-05T03:54:52Z",
+   "headline": "Dollar index falls 0.26% to 101.21 in Asian trading, and the euro gains 0.25% to $1.1257",
+   "detail": "The dollar extended its losses in Asian hours on Thursday as oil and chip stocks came under pressure following the US midterm results. The euro rose 0.25% to $1.1257 and the New Zealand dollar gained 0.60% to $0.5656.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "db82c01c0f290e26",
+    "6f85f44b7bc2b51f",
+    "7665bedc345dfd85",
+    "4320690e0fb976cb",
+    "e6f66ddf21e00f42",
+    "bf5591979ebf4826",
+    "05ee89e11b100027"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzjxunx74s2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzjxunx74s2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzjxvydeet2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzjxvydeet2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzjuj6hyni25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzjuj6hyni25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzjuk3kb4l22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzjuk3kb4l22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzjvumznap2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzjvumznap2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzjvwaooxn2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzjvwaooxn2a"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzjub2fvia24",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzjub2fvia24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "841f402b4333",
+   "created_at": "2026-11-05T06:10:52Z"
+  },
+  {
+   "id": "6ce0045fbc3c",
+   "ts": "2026-11-05T03:36:08Z",
+   "headline": "Bank of Thailand governor says 2% growth is below a sustainable pace and growth may slow in early 2027",
+   "detail": "Thailand's central bank chief said economic growth of 2% is not enough to be sustainable. He added that growth may ease in early 2027.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "c44b3e207202b189",
+    "5de57d30d56eb5a6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzjwt6cpnv2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzjwt6cpnv2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzjx3f7fgo2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzjx3f7fgo2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "841f402b4333",
+   "created_at": "2026-11-05T06:10:52Z"
+  },
   {
    "id": "0c794de50234",
    "ts": "2026-11-05T02:44:09Z",
@@ -6134,90 +6218,6 @@
    "model": "opus",
    "run_id": "5ad79eb7bab9",
    "created_at": "2026-11-03T06:05:42Z"
-  },
-  {
-   "id": "5711597227c2",
-   "ts": "2026-11-03T00:48:25Z",
-   "headline": "PBOC raises the foreign exchange deposit reserve ratio to 6% from 4%, effective 15 November",
-   "detail": "The People's Bank of China says the 2-percentage-point increase is intended to improve the management of foreign currency liquidity at financial institutions.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "84ff2ae2ffc9b67a",
-    "5f17d5acc7669b0c",
-    "c46f144e64721191",
-    "c3f3367b82982c6d",
-    "94a3a104e8e5aca8",
-    "59bff66e47d88b59"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzemjgcigm2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzemjgcigm2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzemjqjsc52b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzemjqjsc52b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzemhmjkfv2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzemhmjkfv2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzemiazoj42z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzemiazoj42z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzemj3bcoe2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzemj3bcoe2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzemklsrm52p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzemklsrm52p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1ead0fd6ac35",
-   "created_at": "2026-11-03T06:01:15Z"
-  },
-  {
-   "id": "d7a211fe77a3",
-   "ts": "2026-11-03T00:43:25Z",
-   "headline": "US military carries out strikes on Iran's Qeshm Island, WSJ reports",
-   "detail": "The Wall Street Journal reports that the US has launched strikes against Iran's Qeshm Island. No market reaction was reported in the posts.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "1013c3d79e139879",
-    "e63d2ba319909871",
-    "4e6986b92bfc8ab5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzemahxybk25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzemahxybk25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzemavlmlh22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzemavlmlh22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzemj5iblf2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzemj5iblf2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1ead0fd6ac35",
-   "created_at": "2026-11-03T06:01:15Z"
   }
  ]
 }
