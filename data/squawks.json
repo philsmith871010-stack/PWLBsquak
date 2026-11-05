@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T09:01:23Z",
+ "generated_at": "2026-11-05T09:05:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "99b5d6a9972c",
+   "ts": "2026-11-05T09:01:55Z",
+   "headline": "Italian retail sales rise 0.1% m/m, slightly above the 0.05% forecast, after a 0.3% gain",
+   "detail": "On a non-seasonally adjusted basis, Italian retail sales grew 1.6% year on year, up from 0.5% the month before.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "baeda5855eb6bb00",
+    "a8922517a54438b4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkizpcyaa2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkizpcyaa2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkizreybv2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkizreybv2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5eb016c02fdf",
+   "created_at": "2026-11-05T09:05:52Z"
+  },
   {
    "id": "e2b4e56ee896",
    "ts": "2026-11-05T09:00:51Z",
@@ -5783,27 +5810,6 @@
    "model": "opus",
    "run_id": "eddeed7dc4c5",
    "created_at": "2026-11-03T08:15:52Z"
-  },
-  {
-   "id": "611906282ac1",
-   "ts": "2026-11-03T08:07:51Z",
-   "headline": "German Chancellor Merz calls for a cut to electricity tax in the 2027 budget and says he has ideas on how to deliver it",
-   "detail": "German Chancellor Friedrich Merz said a reduction in electricity tax needs to be secured in Germany's 2027 budget. He did not say how it would be paid for.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "06acdc221bb5a030"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzff36j5wk2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzff36j5wk2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d1cfccc869f7",
-   "created_at": "2026-11-03T08:10:55Z"
   }
  ]
 }
