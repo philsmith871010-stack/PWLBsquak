@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T08:15:48Z",
+ "generated_at": "2026-11-05T08:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cc71a7bd698b",
+   "ts": "2026-11-05T08:31:22Z",
+   "headline": "German Chamber of Commerce raises 2026 German GDP growth forecast to 1% from 0.3%, and sees 1% growth in 2027",
+   "detail": "The German Chamber of Commerce now forecasts German GDP growth of 1% in 2026, up from its previous 0.3%. It forecasts growth of 1% for 2027.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "c5309793f4fa3c2f",
+    "f29fcb3b6aa426bf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkhd3ahha2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkhd3ahha2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkhdfga2m22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkhdfga2m22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "da9349a6ec55",
+   "created_at": "2026-11-05T08:35:41Z"
+  },
   {
    "id": "fd32b04fda06",
    "ts": "2026-11-05T08:14:02Z",
@@ -5777,39 +5804,6 @@
    "model": "opus",
    "run_id": "0c15401c9046",
    "created_at": "2026-11-03T07:50:52Z"
-  },
-  {
-   "id": "1af837a00c67",
-   "ts": "2026-11-03T07:31:06Z",
-   "headline": "Swiss October CPI rises 1.5% y/y, above the 1.2% forecast and up from 1.0%; core steady at 0.5%",
-   "detail": "Swiss consumer prices rose 0.2% on the month, against a forecast of 0% and 0.0% previously. Core inflation was 0.5% y/y, in line with forecasts and unchanged from the previous reading.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "46f884db6b110413",
-    "e99592a2cab523a4",
-    "8c12f2afc161f93b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfczhpmwe2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfczhpmwe2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfcz7ma6425",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfcz7ma6425"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfczdo3g42p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfczdo3g42p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e1a539a38709",
-   "created_at": "2026-11-03T07:31:23Z"
   }
  ]
 }
