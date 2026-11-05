@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T20:35:46Z",
+ "generated_at": "2026-11-05T21:05:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bdcdf701c694",
+   "ts": "2026-11-05T21:04:36Z",
+   "headline": "Canada projects a C$62.3bn federal deficit for 2026-27",
+   "detail": "Canada's federal deficit is projected at C$62.3bn for the 2026-27 fiscal year, according to a market newswire report.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9986a8499e4b3145"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlrfyborw2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlrfyborw2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a436f53de73e",
+   "created_at": "2026-11-05T21:05:45Z"
+  },
   {
    "id": "00bab29f32e6",
    "ts": "2026-11-05T20:34:01Z",
@@ -5861,33 +5882,6 @@
    "model": "opus",
    "run_id": "f38e685ab47e",
    "created_at": "2026-11-04T06:05:45Z"
-  },
-  {
-   "id": "b7109ac3a985",
-   "ts": "2026-11-04T00:41:05Z",
-   "headline": "Australia's household spending rises 0.6% m/m in September, with volumes up 0.7% q/q",
-   "detail": "Australian data showed seasonally adjusted household spending up 0.6% on the month in September and spending volumes up 0.7% on the quarter.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "bb522a138baf52f1",
-    "c4aa7165adeb7df9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzh4l7vcd32g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzh4l7vcd32g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzh4li2qwo24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzh4li2qwo24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "efdbe262a9ff",
-   "created_at": "2026-11-04T06:01:28Z"
   }
  ]
 }
