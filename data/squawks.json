@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T16:31:11Z",
+ "generated_at": "2026-11-05T16:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e2644b9a8442",
+   "ts": "2026-11-05T16:34:58Z",
+   "headline": "Iran's Rezaei says Tehran won't reopen the Strait of Hormuz until its seven conditions are met and won't negotiate on this",
+   "detail": "Rezaei said the decision on the Strait of Hormuz is not open to negotiation. An Iranian source said that ending the war is the main focus of his talks with Russian President Putin. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ec96a01e27af72af",
+    "f9f98add6eb27f37"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlcdsvnbs2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlcdsvnbs2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlc7i5ufa25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlc7i5ufa25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a8464175c4c9",
+   "created_at": "2026-11-05T16:35:43Z"
+  },
   {
    "id": "77034e396573",
    "ts": "2026-11-05T16:26:43Z",
@@ -5915,27 +5942,6 @@
    "model": "opus",
    "run_id": "8567a8c325d6",
    "created_at": "2026-11-03T18:35:57Z"
-  },
-  {
-   "id": "609090c7a858",
-   "ts": "2026-11-03T18:27:56Z",
-   "headline": "ECB's Sleijpen says the Iran shock is proving more persistent than previously thought",
-   "detail": "Olaf Sleijpen, Dutch central bank governor and ECB Governing Council member, said the shock from the Iran war is lasting longer than earlier expected.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "071e3bb74f812346"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzghpyhf3m2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzghpyhf3m2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b91dd003363f",
-   "created_at": "2026-11-03T18:31:10Z"
   }
  ]
 }
