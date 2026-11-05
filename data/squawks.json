@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T10:15:55Z",
+ "generated_at": "2026-11-05T10:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "814cecf28114",
+   "ts": "2026-11-05T10:20:27Z",
+   "headline": "ECB's Zigman sees a fairly high likelihood of a rate rise in December but says the extent of further tightening is still unclear",
+   "detail": "ECB Governing Council member Zigman said there is a sizeable chance that rates are raised in December. He added that it is too early to judge how much more tightening will be needed.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "651e3b71d223c026",
+    "f2112e5b4dc1138a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkng5fqkj2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkng5fqkj2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkngfhi5n2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkngfhi5n2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bf651ab44508",
+   "created_at": "2026-11-05T10:20:50Z"
+  },
   {
    "id": "77367feebce1",
    "ts": "2026-11-05T10:12:30Z",
@@ -5741,33 +5768,6 @@
    "model": "opus",
    "run_id": "b7ff077b9ff0",
    "created_at": "2026-11-03T10:15:53Z"
-  },
-  {
-   "id": "3a6153e66d74",
-   "ts": "2026-11-03T10:04:07Z",
-   "headline": "UK 10-year gilt auction clears at 5.268% with cover of 3.38, compared with 5.418% and 3.61 at the previous sale",
-   "detail": "The 10-year gilt auction gave an average yield of 5.268%, down from 5.418% at the previous sale. The bid-to-cover ratio was 3.38, against 3.61 last time.",
-   "category": "supply",
-   "importance": 2,
-   "source_event_ids": [
-    "8c1598f681f13531",
-    "c50e21399a22cdc1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfll3fi742y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfll3fi742y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfllacqtj2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfllacqtj2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "354490a0fee1",
-   "created_at": "2026-11-03T10:05:50Z"
   }
  ]
 }
