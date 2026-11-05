@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T12:50:57Z",
+ "generated_at": "2026-11-05T12:55:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2dd5287a6860",
+   "ts": "2026-11-05T12:52:04Z",
+   "headline": "BoE's Bailey says the rate decision would have been the same even with knowledge of the past 48 hours' events",
+   "detail": "The Bank of England Governor said news over the last 48 hours has an important bearing on the outlook, but the decision would not have changed. He added that a peace process would be welcome and would bring energy prices down.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "498345c73d42a512",
+    "9e9f0e3325cffba6",
+    "6ac840b29ea5fc35"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkvvacrv22b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkvvacrv22b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkvw6ezf722",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkvw6ezf722"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkvz32km425",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkvz32km425"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f686c1533d01",
+   "created_at": "2026-11-05T12:55:44Z"
+  },
   {
    "id": "ef5ee5803097",
    "ts": "2026-11-05T12:49:10Z",
@@ -5820,51 +5853,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwmi5b6d2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwmi5b6d2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f25e08b30c4e",
-   "created_at": "2026-11-03T13:25:50Z"
-  },
-  {
-   "id": "e913587b7dcd",
-   "ts": "2026-11-03T13:22:37Z",
-   "headline": "Trump says Canada will supply fertiliser to the US tariff-free and a broader deal with Canada is close",
-   "detail": "Speaking in a Fox News interview, the US president said the US is close to a fertiliser deal with Canada and expects to reach a wider deal soon.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "900cd95a93e4c425",
-    "7551a3139af121b0",
-    "f2cbdafcb36bb5fd",
-    "a307edb5321286bb",
-    "b5b6499ca11b448d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwo23rdd22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwo23rdd22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwqbjgsp25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwqbjgsp25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwqcacax25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwqcacax25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwrdoxof2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwrdoxof2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwszeizt22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwszeizt22"
     }
    ],
    "model": "opus",
