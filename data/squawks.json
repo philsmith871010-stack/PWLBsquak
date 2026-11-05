@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T14:35:52Z",
+ "generated_at": "2026-11-05T14:40:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "99d051c9b351",
+   "ts": "2026-11-05T14:38:34Z",
+   "headline": "Fed's Barkin says credit conditions in the banking sector look reassuring for now",
+   "detail": "Richmond Fed President Thomas Barkin said on Thursday that credit dynamics in the banking sector are reassuring at present.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "d110857a37f0d911"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl3tosiop2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl3tosiop2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9a23dd70d3a6",
+   "created_at": "2026-11-05T14:40:58Z"
+  },
   {
    "id": "ad2e67b8dd3b",
    "ts": "2026-11-05T14:33:04Z",
@@ -5969,27 +5990,6 @@
    "model": "opus",
    "run_id": "b88689c4f3df",
    "created_at": "2026-11-03T15:15:55Z"
-  },
-  {
-   "id": "a65272e2f42a",
-   "ts": "2026-11-03T15:04:50Z",
-   "headline": "US Treasury yields rise after US data; 10-year up 5.36bp at 4.948%, 2-year up 3.13bp at 4.614%",
-   "detail": "US Treasury yields moved higher after the release of US factory orders and JOLTS job openings data. The 10-year yield was last up 5.36bp at 4.948% and the 2-year was up 3.13bp at 4.614%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "5500104040873daa"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg4esy77m2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg4esy77m2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1fac819b48b2",
-   "created_at": "2026-11-03T15:05:45Z"
   }
  ]
 }
