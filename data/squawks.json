@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T17:05:42Z",
+ "generated_at": "2026-11-05T17:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c4f169598649",
+   "ts": "2026-11-05T17:50:42Z",
+   "headline": "Iran's Rezaei says Putin pledged to do whatever it takes to end the war and condemned strikes on Iran's nuclear sites",
+   "detail": "Iranian reports cite Major General Rezaei, secretary of Iran's Supreme National Security Council, as saying that Russia's President Putin promised to do whatever is needed to end the war. Rezaei also said Putin condemned the bombing of Iran's nuclear sites and called the war against Iran cruel.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f9dcba9656cdd934"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlglawj3g24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlglawj3g24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7414b0480d03",
+   "created_at": "2026-11-05T17:50:49Z"
+  },
   {
    "id": "f1a1ff884a3c",
    "ts": "2026-11-05T17:02:44Z",
@@ -5909,39 +5930,6 @@
    "model": "opus",
    "run_id": "f07dc098ca1b",
    "created_at": "2026-11-03T21:46:03Z"
-  },
-  {
-   "id": "f7eda77852e7",
-   "ts": "2026-11-03T21:15:50Z",
-   "headline": "ECB's Kocher says a December rate hike is likely unless the situation changes and inflation risks are still elevated",
-   "detail": "ECB Governing Council member Martin Kocher said risks to inflation are still elevated and that the ECB will keep responding to inflation where needed. He said a rate hike in December is likely if conditions do not change.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "410bec16af10fc49",
-    "f8147c560c73aa48",
-    "5abc6ef2a435927b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgqyx4chc2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgqyx4chc2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgr32rodz25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgr32rodz25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgr47m4532d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgr47m4532d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8a4901f4c002",
-   "created_at": "2026-11-03T21:15:57Z"
   }
  ]
 }
