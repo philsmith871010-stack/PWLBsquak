@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T13:15:56Z",
+ "generated_at": "2026-11-05T13:20:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7ff2d052e028",
+   "ts": "2026-11-05T13:19:48Z",
+   "headline": "BoE's Bailey backs greater trade and openness with the EU and links above-target inflation to very large supply shocks",
+   "detail": "Bank of England Governor Andrew Bailey said he favours greater trade and openness when asked about closer ties with the EU. Asked about UK inflation staying above target, he said the economy has been dealing with very big supply shocks.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "5e224a59d176994c",
+    "b2de902a7a094449"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkxapskex2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkxapskex2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkxgtsosq2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkxgtsosq2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5a03781161dc",
+   "created_at": "2026-11-05T13:20:49Z"
+  },
   {
    "id": "0750b6af4999",
    "ts": "2026-11-05T13:13:57Z",
@@ -5760,27 +5787,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfxymsgsm2f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfxymsgsm2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "03756d2ec6a3",
-   "created_at": "2026-11-03T13:50:55Z"
-  },
-  {
-   "id": "4810bc02dd36",
-   "ts": "2026-11-03T13:45:55Z",
-   "headline": "Germany's Merz says Russia must commit seriously to a ceasefire and a later peace agreement at the Abu Dhabi talks",
-   "detail": "German Chancellor Merz commented on the upcoming three-way Ukraine talks in Abu Dhabi. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0ac1df142886b08c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfxxotpm32p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfxxotpm32p"
     }
    ],
    "model": "opus",
