@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T16:15:55Z",
+ "generated_at": "2026-11-05T16:31:11Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "77034e396573",
+   "ts": "2026-11-05T16:26:43Z",
+   "headline": "BoC's Macklem hopes for lower US tariffs but says trade tensions could escalate before they improve",
+   "detail": "Bank of Canada Governor Tiff Macklem said he was optimistic that US tariffs could come down. He added that an escalation could not be ruled out before trade with the US improves.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8fc80a64ea84c98c",
+    "e7b399a2a7b88bf7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlbv3awgk2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlbv3awgk2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlby3iakz2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlby3iakz2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "896bbbe3ac63",
+   "created_at": "2026-11-05T16:31:11Z"
+  },
   {
    "id": "463023cd741e",
    "ts": "2026-11-05T16:12:41Z",
@@ -5909,27 +5936,6 @@
    "model": "opus",
    "run_id": "b91dd003363f",
    "created_at": "2026-11-03T18:31:10Z"
-  },
-  {
-   "id": "cd1c540171c9",
-   "ts": "2026-11-03T18:02:12Z",
-   "headline": "Greenland's parliament ratifies security deal with the US that allows a larger US military presence on the island",
-   "detail": "Reuters reports that Greenland's parliament ratified on Tuesday the security agreement signed by US President Trump and the leaders of Greenland and Denmark, which may resolve the standoff over the island. Some opposition members questioned the deal.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "48f9ae5962a06c58"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzggbxelb22k",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzggbxelb22k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "30f8867fff6c",
-   "created_at": "2026-11-03T18:05:58Z"
   }
  ]
 }
