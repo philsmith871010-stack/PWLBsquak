@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T08:01:16Z",
+ "generated_at": "2026-11-05T08:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b72596f24b8a",
+   "ts": "2026-11-05T08:01:30Z",
+   "headline": "ECB's Schnabel warns non-bank finance growth and higher public debt could threaten monetary dominance",
+   "detail": "ECB Executive Board member Isabel Schnabel said the rise of non-bank finance and increased public debt could threaten monetary dominance. She also said returning public finances to a sustainable path has become harder.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e1a1a00ac4b1daf8",
+    "e7db9d40c1cfdc54"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkfnowpry2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkfnowpry2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkfnz36mh2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkfnz36mh2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fb3adb258577",
+   "created_at": "2026-11-05T08:05:43Z"
+  },
   {
    "id": "fe7558390315",
    "ts": "2026-11-05T08:00:54Z",
@@ -5771,57 +5798,6 @@
    "model": "opus",
    "run_id": "3feb79814d12",
    "created_at": "2026-11-03T07:25:47Z"
-  },
-  {
-   "id": "04a4e7ae8401",
-   "ts": "2026-11-03T07:16:24Z",
-   "headline": "US crude futures rise $2.14 to $98.60 a barrel as Iran and the US weigh mediators' latest proposals",
-   "detail": "US oil futures are trading $2.14 higher at $98.60 a barrel in early trade. A diplomat says Tehran and Washington are reviewing new proposals from the mediators after Qatari officials held talks in Iran on Monday.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "b3a85d0e7c62579d",
-    "375537d165e36f05",
-    "f624fe93fb675242",
-    "08873fdb57c6e318",
-    "2047344d8b482b78",
-    "d9124ed9537a3488"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfc76z32322",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfc76z32322"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfcc44hol2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfcc44hol2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfc6tfeld25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfc6tfeld25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfc73trov2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfc73trov2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfceiaidj2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfceiaidj2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfc6xetwr2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfc6xetwr2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bd090a2ff2ea",
-   "created_at": "2026-11-03T07:20:57Z"
   }
  ]
 }
