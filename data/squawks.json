@@ -1,8 +1,80 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T15:55:40Z",
+ "generated_at": "2026-11-05T16:11:11Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "73baf954f151",
+   "ts": "2026-11-05T16:01:33Z",
+   "headline": "BoE's Bailey says inflation risks lie to the upside and peace moves would bring only limited relief",
+   "detail": "Bank of England Governor Bailey said the Bank is monitoring how far inflation passes through, that future decisions depend on how quickly inflation falls, and that the energy price cap currently locks in some inflation. He said the upside risks to inflation could change.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "13c0cee4f61244ab",
+    "e3399577474c8d48",
+    "78d341fd1c744b85",
+    "6727f698d12ed54c",
+    "f994a742e9298171"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlai2se2p2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlai2se2p2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlaif2kpg2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlaif2kpg2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlaipauix2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlaipauix2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlaiwj5so2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlaiwj5so2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlajatm5s2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlajatm5s2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "97acb9835446",
+   "created_at": "2026-11-05T16:11:11Z"
+  },
+  {
+   "id": "fecf5230deed",
+   "ts": "2026-11-05T15:55:53Z",
+   "headline": "ECB's Lagarde says US tariffs are unlikely to be revisited soon, though the midterm vote may affect them over time",
+   "detail": "ECB President Lagarde said she does not expect US tariffs to be reconsidered right away. She said the US midterm result may have an effect on tariffs but that it would take time.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "352181abe8ad93ab",
+    "c952580f2a8eefec"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzla5wpqms2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzla5wpqms2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzla6x5fr72k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzla6x5fr72k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "97acb9835446",
+   "created_at": "2026-11-05T16:11:11Z"
+  },
   {
    "id": "0799a889b82a",
    "ts": "2026-11-05T15:52:42Z",
@@ -5882,54 +5954,6 @@
    "model": "opus",
    "run_id": "918cd837c250",
    "created_at": "2026-11-03T17:55:44Z"
-  },
-  {
-   "id": "5aedee2e850c",
-   "ts": "2026-11-03T17:31:09Z",
-   "headline": "Russia's foreign ministry says it will seek removal of sanctions on Russian assets in Norway and invokes the Svalbard Treaty",
-   "detail": "Russian reports cite the foreign ministry as saying Moscow will try to have the sanctions on Russian assets in Norway lifted. The ministry also demands that Oslo comply fully with international law, including the Svalbard Treaty.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a5d3e65a40f34311",
-    "a18f9936238cd513"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgekgycyz2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgekgycyz2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgelbpmek2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgelbpmek2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ab8a60ef92b9",
-   "created_at": "2026-11-03T17:35:46Z"
-  },
-  {
-   "id": "1790c923a0c6",
-   "ts": "2026-11-03T17:28:59Z",
-   "headline": "Russia summons Norway's chargé d'affaires to protest over the seizure of Russian assets requested by Ukraine",
-   "detail": "Russian reports say the foreign ministry lodged a protest with Norway's chargé d'affaires after Russian assets were seized following a request from Ukraine.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "977101a5f4c9fc31"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgegkyffr22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgegkyffr22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9e24cbfa3031",
-   "created_at": "2026-11-03T17:31:07Z"
   }
  ]
 }
