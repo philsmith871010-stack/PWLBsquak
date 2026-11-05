@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T14:25:52Z",
+ "generated_at": "2026-11-05T14:31:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fad480f2c45a",
+   "ts": "2026-11-05T14:30:18Z",
+   "headline": "Resolution Foundation finds three in five of the richest fifth of households qualify for the £100 Household Energy Payment",
+   "detail": "The Resolution Foundation says the £100 Household Energy Payment announced last week is poorly targeted. It adds that one in six of the poorest families report being unable to afford to heat their homes.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "15fddc3ae44b2476"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mzl3evrjco22",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mzl3evrjco22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2896299ec4a5",
+   "created_at": "2026-11-05T14:31:41Z"
+  },
+  {
+   "id": "57336632051a",
+   "ts": "2026-11-05T14:26:37Z",
+   "headline": "Fed's Barkin says the AI buildout has added to inflation in the near term",
+   "detail": "Richmond Fed President Barkin said the build-out of AI infrastructure has had an inflationary effect in the near term. He also said data centres lack natural local constituencies because they employ few workers.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "fe26cc0c148a5f6f",
+    "24e53f1cafbf73a7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl36dcuw42a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl36dcuw42a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl3byhiut25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl3byhiut25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2896299ec4a5",
+   "created_at": "2026-11-05T14:31:41Z"
+  },
   {
    "id": "f82a5229f037",
    "ts": "2026-11-05T14:24:31Z",
@@ -5942,54 +5990,6 @@
    "model": "opus",
    "run_id": "1fac819b48b2",
    "created_at": "2026-11-03T15:05:45Z"
-  },
-  {
-   "id": "e504677a5adb",
-   "ts": "2026-11-03T15:00:48Z",
-   "headline": "US factory orders rise 1.8% m/m, above the 1.2% forecast; revised core durable goods steady at 0.5%",
-   "detail": "US factory orders rose 1.8% on the month, against a 1.2% forecast and 0.1% previously. Revised core durable goods orders came in at 0.5%, in line with the forecast and the previous reading.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "16db7e6d3f981eaf",
-    "09d0ed34e99ac177"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg45lw6m525",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg45lw6m525"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg46oar542z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg46oar542z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "36f99989b912",
-   "created_at": "2026-11-03T15:01:29Z"
-  },
-  {
-   "id": "9c5d1fbb3835",
-   "ts": "2026-11-03T15:00:43Z",
-   "headline": "US JOLTS job openings rise to 7.523m in September, above the 7.164m forecast",
-   "detail": "US job openings were 7,523K in September, against a forecast of 7,164K and 7,079K in the previous reading.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "0f8fc02e9b912baf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg45hngtm2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg45hngtm2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "36f99989b912",
-   "created_at": "2026-11-03T15:01:29Z"
   }
  ]
 }
