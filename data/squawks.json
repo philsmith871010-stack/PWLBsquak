@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T18:55:41Z",
+ "generated_at": "2026-11-05T19:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "50211583e01b",
+   "ts": "2026-11-05T19:32:02Z",
+   "headline": "Trump blames the Republican midterm defeat on the Iran war but says he would make the same decision again",
+   "detail": "Semafor reports that President Trump blamed the Republicans' midterm losses on the Iran war while saying he would do it again. Semafor also reports that traders saw the Democrats' wins as lowering the risk of escalation between Washington and Tehran.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7cd0a1f64238d794"
+   ],
+   "sources": [
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mzlmaiqitk2p",
+     "url": "https://bsky.app/profile/semafor.com/post/3mzlmaiqitk2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e3e938a8ffbb",
+   "created_at": "2026-11-05T19:35:44Z"
+  },
+  {
+   "id": "ab2fe14111de",
+   "ts": "2026-11-05T19:31:47Z",
+   "headline": "WTI crude December futures settle 2.72% higher at $90.52 a barrel",
+   "detail": "NYMEX WTI December futures rose $2.40 to settle at $90.52 a barrel. NYMEX December diesel settled at $4.3519 a gallon and gasoline at $2.7634 a gallon.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "7015534836733725",
+    "9226d7cef84bd759",
+    "58e1ec0176fa6920",
+    "2c3a84e98bb8788a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlm7yicmy2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlm7yicmy2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlmcneil32b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlmcneil32b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlmbdalws22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlmbdalws22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlmbhjv562y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlmbhjv562y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e3e938a8ffbb",
+   "created_at": "2026-11-05T19:35:44Z"
+  },
   {
    "id": "21f009fe403a",
    "ts": "2026-11-05T18:54:40Z",
@@ -5852,72 +5912,6 @@
    "model": "opus",
    "run_id": "ef300317ef8c",
    "created_at": "2026-11-03T22:11:06Z"
-  },
-  {
-   "id": "98b49ec0513d",
-   "ts": "2026-11-03T22:04:36Z",
-   "headline": "Canada's Carney says trade talks with the US have made progress but are not finished, with red lines still to be resolved",
-   "detail": "Canadian Prime Minister Mark Carney said negotiations with the US will become more intensive, and that key issues and some red lines still have to be addressed. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "aece418f69f66ac0",
-    "d82fea51d0ef8947",
-    "967154452346cba2",
-    "09a1e827b4ea26ab"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgttg7bgi2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgttg7bgi2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgttgo7t32b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgttgo7t32b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgtu7hqxx2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgtu7hqxx2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgtv2yqon2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgtv2yqon2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "df599b789639",
-   "created_at": "2026-11-03T22:05:47Z"
-  },
-  {
-   "id": "28715b2d375c",
-   "ts": "2026-11-03T22:00:52Z",
-   "headline": "Australia's final services PMI rises to 48.5 from 47.8 and the composite PMI to 48.2 from 47.7",
-   "detail": "Australia's final October services PMI came in at 48.5, up from 47.8.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c50ffe773a96d0fa",
-    "9932efe912452190"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgtmqyf6d22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgtmqyf6d22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgtmt67nj2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgtmt67nj2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "05fb3277d5e3",
-   "created_at": "2026-11-03T22:01:21Z"
   }
  ]
 }
