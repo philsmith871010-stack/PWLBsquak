@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T06:10:52Z",
+ "generated_at": "2026-11-05T06:15:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4c7e6fd5f438",
+   "ts": "2026-11-05T05:32:06Z",
+   "headline": "Russia steps up military support for Iran with a missile launcher deal, FT reports",
+   "detail": "The FT reports that Moscow has increased its military aid to Tehran, including a deal on missile launchers, even though the Ukraine war is putting strain on its resources.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "98dcc4c5483c995d"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzk5cj65hp2i",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mzk5cj65hp2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "45c9c76ab738",
+   "created_at": "2026-11-05T06:15:53Z"
+  },
+  {
+   "id": "5dabffbf9d4d",
+   "ts": "2026-11-05T05:32:03Z",
+   "headline": "FT survey of economists puts UK inflation peak at 4.4% in 2027, with typical energy bills up nearly £470 in January",
+   "detail": "An FT survey of economists shows UK inflation peaking at 4.4% in 2027. The FT also reports that typical household energy bills are expected to rise by nearly £470 in January, to about £2,200 a year.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "4d23f780594d7d1e"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzk5cgqmyf2r",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mzk5cgqmyf2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "45c9c76ab738",
+   "created_at": "2026-11-05T06:15:53Z"
+  },
   {
    "id": "953a1eca8ef8",
    "ts": "2026-11-05T03:54:52Z",
@@ -6122,102 +6164,6 @@
    "model": "opus",
    "run_id": "93d0705d616b",
    "created_at": "2026-11-03T06:10:57Z"
-  },
-  {
-   "id": "9397f56d6bcd",
-   "ts": "2026-11-03T01:50:18Z",
-   "headline": "Oil rises in early Asian trade after report of US strike on Iran's Qeshm Island, then stabilises",
-   "detail": "Reuters reported oil prices rising in early Asian trading on Tuesday after the Wall Street Journal said the US had struck Qeshm Island. A later Reuters report said oil had stabilised after the previous session's sharp fall, with Asian stocks lower ahead of the US midterm elections.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "32c5fbd3a9c88018",
-    "368db3d40c5668ab"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzepy3eigq2t",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzepy3eigq2t"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzes7u5ksy2i",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzes7u5ksy2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5ad79eb7bab9",
-   "created_at": "2026-11-03T06:05:42Z"
-  },
-  {
-   "id": "530dd4324b8d",
-   "ts": "2026-11-03T01:25:15Z",
-   "headline": "Offshore yuan falls as much as 0.34% to 6.67 per dollar after PBOC raises FX deposit reserve ratio",
-   "detail": "The offshore yuan fell 0.26% to 6.6642 per dollar, its largest daily drop since June, before extending losses to 0.34% at 6.67. The move followed the PBOC's increase in the foreign currency deposit reserve ratio to 6% from 4%. The PBOC fixed the yuan midpoint at 6.7150 per dollar.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "959ab7ca07b3ff2d",
-    "df360e4893b1775c",
-    "fc29229aafeecc47",
-    "d1d12ccc7c6ae1f0",
-    "aa188ed7ece969e9",
-    "1a228d8fd605a1f3",
-    "f52617ab5d753a9f",
-    "955ca357c703fb5f",
-    "9a42ead24035341a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzeniyi4qv2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzeniyi4qv2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzenj2v2b52p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzenj2v2b52p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzenr3rhfn2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzenr3rhfn2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzenrwy44u2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzenrwy44u2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzeolbhxlo2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzeolbhxlo2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzeom7dfhs2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzeom7dfhs2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzesawyfgw2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzesawyfgw2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzeseqykys25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzeseqykys25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzeo3kvx4x25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzeo3kvx4x25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5ad79eb7bab9",
-   "created_at": "2026-11-03T06:05:42Z"
   }
  ]
 }
