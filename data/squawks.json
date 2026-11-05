@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T14:31:41Z",
+ "generated_at": "2026-11-05T14:35:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ad2e67b8dd3b",
+   "ts": "2026-11-05T14:33:04Z",
+   "headline": "Fed's Barkin says changing how often the Fed holds policy meetings would not be a big deal",
+   "detail": "Richmond Fed President Barkin said a change in the number of policy-setting meetings would not matter much. He added that a different meeting pace would mean more data arriving before each meeting.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9e37062dc84b54c0",
+    "1e50e63ea896fdb4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl3ju6q7r2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl3ju6q7r2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl3lgk6mr2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl3lgk6mr2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aa7208f4ea67",
+   "created_at": "2026-11-05T14:35:52Z"
+  },
   {
    "id": "fad480f2c45a",
    "ts": "2026-11-05T14:30:18Z",
@@ -5958,33 +5985,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg4esy77m2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg4esy77m2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1fac819b48b2",
-   "created_at": "2026-11-03T15:05:45Z"
-  },
-  {
-   "id": "d82e99f0e9c8",
-   "ts": "2026-11-03T15:01:29Z",
-   "headline": "US September durable goods orders revised up to 1.9%, against a 1.8% forecast and initial reading",
-   "detail": "The revised US durable goods orders figure for September is 1.9%. The forecast and the previous reading were both 1.8%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a6e30aff57cb8546",
-    "14d0b7b0e2a475e0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg46svmmc2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg46svmmc2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg4aatiw42d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg4aatiw42d"
     }
    ],
    "model": "opus",
