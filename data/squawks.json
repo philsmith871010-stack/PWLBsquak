@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T14:40:58Z",
+ "generated_at": "2026-11-05T14:55:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a661d7bd57f7",
+   "ts": "2026-11-05T14:52:25Z",
+   "headline": "Fed's Hammack says stablecoin use by AI agents would mark a major shift",
+   "detail": "Cleveland Fed President Beth Hammack commented on AI agents using stablecoins. Her remarks came on 5 November.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4fad55ee458b6a74"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl4mhp2d42b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl4mhp2d42b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d88467b619de",
+   "created_at": "2026-11-05T14:55:42Z"
+  },
   {
    "id": "99d051c9b351",
    "ts": "2026-11-05T14:38:34Z",
@@ -5969,27 +5990,6 @@
    "model": "opus",
    "run_id": "9acbf0c94778",
    "created_at": "2026-11-03T15:20:54Z"
-  },
-  {
-   "id": "aebfb61d00ff",
-   "ts": "2026-11-03T15:15:33Z",
-   "headline": "Iran's negotiating team says no new progress has been made towards an agreement with the US",
-   "detail": "Iranian state broadcaster IRIB quotes the spokesman for Iran's negotiating team as saying there has been no new development on an agreement with the US. The statement follows earlier reports of concessions by both sides on Tehran's nuclear programme and frozen funds.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e7b24c4b8cd32387"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg4xxxjnf2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg4xxxjnf2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b88689c4f3df",
-   "created_at": "2026-11-03T15:15:55Z"
   }
  ]
 }
