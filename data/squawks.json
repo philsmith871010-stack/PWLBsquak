@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T10:20:50Z",
+ "generated_at": "2026-11-05T10:30:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fd7b93dd7ecc",
+   "ts": "2026-11-05T10:30:54Z",
+   "headline": "US Challenger job cuts come in at 43.994K, up from 43.281K",
+   "detail": "The Challenger report puts announced US layoffs at 43.994K, compared with 43.281K in the previous reading. No forecast was given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8b1578fcdb32ed3a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzknytkx3t2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzknytkx3t2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1fa3d2f8824b",
+   "created_at": "2026-11-05T10:30:58Z"
+  },
+  {
+   "id": "bebea603ce53",
+   "ts": "2026-11-05T10:25:42Z",
+   "headline": "Italy is set to approve reimbursements for gas-fired power plants to bring down electricity costs",
+   "detail": "A newswire headline reports that the Italian government is preparing to approve the reimbursement measure for gas plants to reduce power costs. No figures were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "53ce77bfa5cc4cbf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzknpjgh7r2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzknpjgh7r2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1fa3d2f8824b",
+   "created_at": "2026-11-05T10:30:58Z"
+  },
   {
    "id": "814cecf28114",
    "ts": "2026-11-05T10:20:27Z",
@@ -5708,66 +5750,6 @@
    "model": "opus",
    "run_id": "1835c0cb43d9",
    "created_at": "2026-11-03T10:25:42Z"
-  },
-  {
-   "id": "3807e613d6be",
-   "ts": "2026-11-03T10:18:24Z",
-   "headline": "Iranian state broadcaster says three oil tankers caught fire in the Strait of Hormuz on Tuesday",
-   "detail": "Iran's state broadcaster IRIB reported on Tuesday that three oil tankers caught fire in the Strait of Hormuz. The report gave no cause, and no market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "fc7b3b561fcfa18a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfmengahb2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfmengahb2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6d9baa6f2a72",
-   "created_at": "2026-11-03T10:20:53Z"
-  },
-  {
-   "id": "8bbc7434ac02",
-   "ts": "2026-11-03T10:14:48Z",
-   "headline": "Qatar says its mediators are back in Doha from Tehran and US-Iran talks are continuing",
-   "detail": "Qatar's foreign ministry spokesperson says the mediation team that went to Tehran on Monday night has returned, and both the US and Iran are reviewing the mediators' proposals. The spokesperson also says Gulf states agree on avoiding escalation.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "79b1b38833d2b2d2",
-    "761282882de92153",
-    "06805f8dcdecfd54",
-    "9033990deb6d1ac9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfm66w72x2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfm66w72x2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfm56q66q25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfm56q66q25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfm6c5nxr2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfm6c5nxr2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfm77k26d2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfm77k26d2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b7ff077b9ff0",
-   "created_at": "2026-11-03T10:15:53Z"
   }
  ]
 }
