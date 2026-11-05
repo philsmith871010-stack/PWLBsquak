@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T14:55:42Z",
+ "generated_at": "2026-11-05T15:05:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b8327e8a5c2e",
+   "ts": "2026-11-05T15:03:56Z",
+   "headline": "Fed's Barkin says rate rises can weigh on demand and, over time, on oil prices",
+   "detail": "Richmond Fed President Barkin made the remark near the end of a Q&A session, which has since finished.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "820b77bfc6d3f8b5",
+    "9e70bb57786c8158"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl5b2k3c62b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl5b2k3c62b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl5cqlf4z2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl5cqlf4z2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "448201aa21af",
+   "created_at": "2026-11-05T15:05:49Z"
+  },
   {
    "id": "a661d7bd57f7",
    "ts": "2026-11-05T14:52:25Z",
@@ -5939,57 +5966,6 @@
    "model": "opus",
    "run_id": "07cd815e895d",
    "created_at": "2026-11-03T15:50:53Z"
-  },
-  {
-   "id": "e55f3eb83afc",
-   "ts": "2026-11-03T15:16:53Z",
-   "headline": "Iran denies reports that it is close to a deal with the US, state broadcaster IRIB says",
-   "detail": "Iranian state broadcaster IRIB reports that Tehran rejects reports of a near agreement with the US. The denial follows earlier reports of US and Iranian concessions on the nuclear programme and frozen funds.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6bc3f80a824977d0",
-    "3dd3c527ac46b663",
-    "ab19d2dd889b1910",
-    "cdc2e076c3b812f6",
-    "918088d47d3e1ff2",
-    "1d9623639cb55380"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg52ejzs52a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg52ejzs52a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg54vpcxb2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg54vpcxb2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg55ukdye2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg55ukdye2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg533rgxi25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg533rgxi25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg54ribof2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg54ribof2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg55skvnn2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg55skvnn2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9acbf0c94778",
-   "created_at": "2026-11-03T15:20:54Z"
   }
  ]
 }
