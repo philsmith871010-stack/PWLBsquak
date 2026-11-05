@@ -1,8 +1,107 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T13:20:49Z",
+ "generated_at": "2026-11-05T13:31:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "26c4d133ad60",
+   "ts": "2026-11-05T13:30:42Z",
+   "headline": "US initial jobless claims fall to 189K in the week to 31 October, below the 196K forecast",
+   "detail": "US initial claims fell by 6K to 189K, and the previous week was revised to 195K. Continuing claims for the week to 24 October rose by 23K to 1.718M, against a 1.71M forecast.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "878e89aed99f083e",
+    "32bba64d1c909997",
+    "e320cdd9d174f98b",
+    "cb43e3404d70116b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzky2dmxdr2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzky2dmxdr2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzky2ei53o2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzky2ei53o2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzky2e25t62d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzky2e25t62d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzky2jw7rk2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzky2jw7rk2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a97836e8e3ac",
+   "created_at": "2026-11-05T13:31:00Z"
+  },
+  {
+   "id": "65a26c9a58dd",
+   "ts": "2026-11-05T13:30:18Z",
+   "headline": "Iran, Saudi and Qatari foreign ministers discuss progress in diplomatic efforts towards regional stability",
+   "detail": "An Iranian statement said Iran's foreign minister spoke by phone with his Saudi and Qatari counterparts. According to the statement, they discussed the latest progress in diplomatic efforts to bring stability to the region.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5b0454717169d8f7",
+    "95640d029abe6b0c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkxxvb4eg2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkxxvb4eg2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkxzmpxfy2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkxzmpxfy2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a97836e8e3ac",
+   "created_at": "2026-11-05T13:31:00Z"
+  },
+  {
+   "id": "0893772c357c",
+   "ts": "2026-11-05T13:27:58Z",
+   "headline": "SNB's Schlegel says Swiss inflation is mainly confined to fuel and energy, with no sign of broader price pressures",
+   "detail": "SNB Chairman Schlegel said current Swiss inflation is mostly limited to fuel and energy, and the Bank does not see price pressures broadening at present. He also said the SNB has the right tools to fight inflation in future.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2c313dbb8d4667d0",
+    "7b33298faa5ef9dc",
+    "292f09e0e1e5f599"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkxvhiuhp2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkxvhiuhp2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkxwytthy2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkxwytthy2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkxxszdxh25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkxxszdxh25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a97836e8e3ac",
+   "created_at": "2026-11-05T13:31:00Z"
+  },
   {
    "id": "7ff2d052e028",
    "ts": "2026-11-05T13:19:48Z",
@@ -5723,75 +5822,6 @@
    "model": "opus",
    "run_id": "9523a27c395b",
    "created_at": "2026-11-03T14:10:55Z"
-  },
-  {
-   "id": "6948257f7832",
-   "ts": "2026-11-03T13:53:34Z",
-   "headline": "Germany's Merz says third countries should not discuss Ukraine at the G20 meeting in Miami without Ukraine present",
-   "detail": "German Chancellor Merz said it would be unacceptable for third countries to talk about Ukraine at the G20 meeting in Miami without Ukraine taking part.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0dc9f5c1a0edf922"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfyffgwne2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfyffgwne2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4c74062ec141",
-   "created_at": "2026-11-03T13:55:45Z"
-  },
-  {
-   "id": "d6352de400c0",
-   "ts": "2026-11-03T13:51:30Z",
-   "headline": "Zelenskiy hopes US-mediated talks lead to a leaders' meeting and calls Russia's invitation to Moscow destructive",
-   "detail": "Ukraine's President Zelenskiy said he hopes the US-mediated talks open the way to a meeting of leaders. He also described Russia's invitation for him to come to Moscow as destructive.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "bf5f33d3400b858f",
-    "5c516efd744cb448"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfybot2bh25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfybot2bh25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfydtslmn2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfydtslmn2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4c74062ec141",
-   "created_at": "2026-11-03T13:55:45Z"
-  },
-  {
-   "id": "385fe22fcadd",
-   "ts": "2026-11-03T13:46:26Z",
-   "headline": "US-Iran deal would be announced in stages with both sides acting at the same time, Al Araby reports",
-   "detail": "Al Araby, citing sources close to the negotiating team, reported on how a US-Iran deal would be announced. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a41938575cd945fc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfxymsgsm2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfxymsgsm2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "03756d2ec6a3",
-   "created_at": "2026-11-03T13:50:55Z"
   }
  ]
 }
