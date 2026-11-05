@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T12:20:56Z",
+ "generated_at": "2026-11-05T12:35:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3a97e408c543",
+   "ts": "2026-11-05T12:33:38Z",
+   "headline": "BoE's Bailey says the impact of the Iran conflict needs to be limited",
+   "detail": "Bank of England Governor Andrew Bailey said the impact of the conflict in Iran must be contained. He spoke on the day the Bank raised Bank Rate to 4.0%.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "2eedf18d0ee6c82a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkuuc5jdy2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkuuc5jdy2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f59a08e5fa2d",
+   "created_at": "2026-11-05T12:35:47Z"
+  },
   {
    "id": "dc2e8080be6d",
    "ts": "2026-11-05T12:20:14Z",
@@ -5832,27 +5853,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzfvhaja4x2h",
      "url": "https://bsky.app/profile/reuters.com/post/3mzfvhaja4x2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2e1a0b04b861",
-   "created_at": "2026-11-03T13:01:22Z"
-  },
-  {
-   "id": "06b4320ae504",
-   "ts": "2026-11-03T12:59:59Z",
-   "headline": "Brent crude drops below $105 a barrel to session lows",
-   "detail": "Brent crude was reported trading below $105 a barrel, its lowest level of the session, while Iran and the US review the mediators' latest proposals.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "d6ad29f5edb8cd5b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfvfl4yej2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfvfl4yej2d"
     }
    ],
    "model": "opus",
