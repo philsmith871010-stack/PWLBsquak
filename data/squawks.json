@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T15:20:56Z",
+ "generated_at": "2026-11-05T15:25:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1cb4a39a2f70",
+   "ts": "2026-11-05T15:25:08Z",
+   "headline": "Iran reports three more tankers damaged in the Strait of Hormuz on Thursday",
+   "detail": "Reuters reports that Iran said three more tankers had been damaged in the Strait of Hormuz on Thursday. This follows earlier Iranian state media reports of two tankers hitting sea mines east of the strait.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c34ee64aa795430e"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzl6gx6qcy2a",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzl6gx6qcy2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7619c42b3542",
+   "created_at": "2026-11-05T15:25:47Z"
+  },
   {
    "id": "d0c2cfbcd6e7",
    "ts": "2026-11-05T15:16:19Z",
@@ -5897,27 +5918,6 @@
    "model": "opus",
    "run_id": "f7d467d705c7",
    "created_at": "2026-11-03T16:25:45Z"
-  },
-  {
-   "id": "d6031662fdae",
-   "ts": "2026-11-03T16:13:24Z",
-   "headline": "BoC's Macklem says he does not see fiscal policy currently making it harder to bring inflation down",
-   "detail": "Bank of Canada Governor Tiff Macklem said that, in present circumstances, he does not believe fiscal policy is complicating efforts to lower inflation. He made the remark after earlier saying further rate hikes may be needed.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a6d34e91a2c3ee9f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzga7fws6x2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzga7fws6x2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "adde692fd0f4",
-   "created_at": "2026-11-03T16:16:00Z"
   }
  ]
 }
