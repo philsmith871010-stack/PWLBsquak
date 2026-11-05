@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T12:35:47Z",
+ "generated_at": "2026-11-05T12:40:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "318f04d9a5f9",
+   "ts": "2026-11-05T12:39:52Z",
+   "headline": "BoE's Bailey says domestic inflation pressures that were already present remain high",
+   "detail": "Bank of England Governor Andrew Bailey said underlying domestic inflation pressures that predate the latest shock are still elevated. He made the remarks after the MPC raised Bank Rate to 4.0%.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "d5818470f669ea44"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkv7gxyg62z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkv7gxyg62z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "508dd3c91fa8",
+   "created_at": "2026-11-05T12:40:48Z"
+  },
   {
    "id": "3a97e408c543",
    "ts": "2026-11-05T12:33:38Z",
@@ -5837,27 +5858,6 @@
    "model": "opus",
    "run_id": "cb8b77617fc8",
    "created_at": "2026-11-03T13:05:48Z"
-  },
-  {
-   "id": "8a6371f1e4ad",
-   "ts": "2026-11-03T13:00:55Z",
-   "headline": "UK to make a guaranteed lifetime retirement income the default option for private sector pensions",
-   "detail": "Plans unveiled by the UK government on Tuesday will make a guaranteed income for life the default retirement option for private sector workers, so that savers do not have to manage their pension pots themselves, Reuters reports.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "6ead829c3d0f9da1"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzfvhaja4x2h",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzfvhaja4x2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2e1a0b04b861",
-   "created_at": "2026-11-03T13:01:22Z"
   }
  ]
 }
