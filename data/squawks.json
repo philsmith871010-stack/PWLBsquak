@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T16:55:39Z",
+ "generated_at": "2026-11-05T17:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f1a1ff884a3c",
+   "ts": "2026-11-05T17:02:44Z",
+   "headline": "Yemen's Houthis claim an attack on King Fahd airport in Saudi Arabia's Dammam; no immediate Saudi confirmation",
+   "detail": "Yemen's Houthi movement says it attacked King Fahd airport in Dammam, in Saudi Arabia. Saudi Arabia has not immediately confirmed the claim.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f39e418a3b33b9da",
+    "4db06ad5ddb7365e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzldvhri7d2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzldvhri7d2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzldwfvzjv2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzldwfvzjv2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "415661ff7045",
+   "created_at": "2026-11-05T17:05:42Z"
+  },
   {
    "id": "7646c4683505",
    "ts": "2026-11-05T16:53:50Z",
@@ -5915,27 +5942,6 @@
    "model": "opus",
    "run_id": "8a4901f4c002",
    "created_at": "2026-11-03T21:15:57Z"
-  },
-  {
-   "id": "290a38d1f99e",
-   "ts": "2026-11-03T21:01:30Z",
-   "headline": "Iran's Araghchi says Tehran will not give up its independence under economic pressure and says the US misreads Iran's leadership",
-   "detail": "Iranian Foreign Minister Abbas Araghchi made the comments in an interview with Al Jazeera, while mediated US-Iran talks continue.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9bbb8fd1cfb73257"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgqcln7g222",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgqcln7g222"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6d154ca78685",
-   "created_at": "2026-11-03T21:05:47Z"
   }
  ]
 }
