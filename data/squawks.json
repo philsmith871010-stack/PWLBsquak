@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T15:05:49Z",
+ "generated_at": "2026-11-05T15:10:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cd45eb77528b",
+   "ts": "2026-11-05T15:09:09Z",
+   "headline": "Fed's Hammack says cutting FOMC meetings to six a year from eight would be a modest change",
+   "detail": "Cleveland Fed President Beth Hammack said reducing the number of FOMC policy meetings from eight to six a year would be a modest shift. Earlier, Richmond Fed President Barkin also said changing how often meetings are held would not be a big deal.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "90a2d601422c51e5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl5kfashi25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl5kfashi25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "937055ad71e6",
+   "created_at": "2026-11-05T15:10:51Z"
+  },
   {
    "id": "b8327e8a5c2e",
    "ts": "2026-11-05T15:03:56Z",
@@ -5945,27 +5966,6 @@
    "model": "opus",
    "run_id": "031e1eb83fab",
    "created_at": "2026-11-03T16:05:47Z"
-  },
-  {
-   "id": "4483ae7bd400",
-   "ts": "2026-11-03T15:50:16Z",
-   "headline": "Gulf oil exports fall in October from September, their highest level since the Iran war began, ship-tracking data show",
-   "detail": "Reuters cites data from two ship-tracking companies showing Gulf oil exports fell in October from September's levels. Both companies said the October figures could be revised up as more shipment details come in.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "ecd35eb1792e92c1"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzg6w2i7xn2x",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzg6w2i7xn2x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "07cd815e895d",
-   "created_at": "2026-11-03T15:50:53Z"
   }
  ]
 }
