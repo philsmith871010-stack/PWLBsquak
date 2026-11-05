@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T15:15:55Z",
+ "generated_at": "2026-11-05T15:20:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d0c2cfbcd6e7",
+   "ts": "2026-11-05T15:16:19Z",
+   "headline": "Fed's Hammack sees the possibility that the US labour market is strengthening",
+   "detail": "Cleveland Fed President Beth Hammack said she sees the labour market potentially getting stronger. She made the remark during the same appearance in which she earlier backed gradual rate rises.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "bc384cdb0760065e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl5x6vlly25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl5x6vlly25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f0481e0127b0",
+   "created_at": "2026-11-05T15:20:56Z"
+  },
   {
    "id": "61dfe0433acf",
    "ts": "2026-11-05T15:13:49Z",
@@ -5897,27 +5918,6 @@
    "model": "opus",
    "run_id": "adde692fd0f4",
    "created_at": "2026-11-03T16:16:00Z"
-  },
-  {
-   "id": "683e1c0e58ec",
-   "ts": "2026-11-03T16:05:35Z",
-   "headline": "Senior Iranian official says there is no deadline for exchanging messages with the US through mediators or reviewing responses",
-   "detail": "The comment was reported on Tuesday as Qatari-mediated US-Iran talks continue.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d52d05b72ae0a041"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg7rhdjpn2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg7rhdjpn2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "031e1eb83fab",
-   "created_at": "2026-11-03T16:05:47Z"
   }
  ]
 }
