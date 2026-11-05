@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T21:31:02Z",
+ "generated_at": "2026-11-05T21:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "00ee8ea42dc5",
+   "ts": "2026-11-05T21:34:48Z",
+   "headline": "Trump says he met Putin envoy Dmitriev and a Russia-Ukraine settlement is very close, in a deal involving all of Europe",
+   "detail": "US President Trump said he met Russia's Dmitriev on Thursday and that the US is very close to settling the Russia-Ukraine war. He said the deal would be a big agreement involving all of Europe.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "aa8f2293eb4665ec",
+    "6ef51b72840ef530"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlt3xkska2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlt3xkska2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlt5fsk222y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlt5fsk222y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "79776d5dc67a",
+   "created_at": "2026-11-05T21:35:42Z"
+  },
   {
    "id": "7ced24620255",
    "ts": "2026-11-05T21:28:42Z",
@@ -5813,51 +5840,6 @@
    "model": "opus",
    "run_id": "7420b3da3122",
    "created_at": "2026-11-04T06:15:55Z"
-  },
-  {
-   "id": "d19af6eb4733",
-   "ts": "2026-11-04T03:04:41Z",
-   "headline": "US 2-year Treasury yield falls to two-month low of 4.551% as fed funds futures extend gains",
-   "detail": "The US 2-year yield dropped to 4.551% in Asian trading while fed funds futures rose further. The move came as US networks including CNN and NBC projected that Democrats would win control of the House in the midterm elections, and the euro rose 0.5% to $1.125.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "e7537a136399d04b",
-    "b602593f9e7c2086",
-    "9bbdaee32fafc44c",
-    "7fcf81da9cbcab10",
-    "17c6c8bdfffed50b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhelygzbx2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhelygzbx2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzheoulm672y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzheoulm672y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzheveey2h2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzheveey2h2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhbx7maha24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhbx7maha24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzheqkbpu424",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzheqkbpu424"
-    }
-   ],
-   "model": "opus",
-   "run_id": "79cf6708c7f7",
-   "created_at": "2026-11-04T06:10:59Z"
   }
  ]
 }
