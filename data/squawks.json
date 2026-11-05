@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T09:05:52Z",
+ "generated_at": "2026-11-05T09:10:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d3806ad5ffbf",
+   "ts": "2026-11-05T09:07:38Z",
+   "headline": "South Korea is reported to be considering purchases of long-dated US Treasuries",
+   "detail": "A market news account reports that South Korea is weighing buying long-term US government debt. No size or timing was given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "fb4f013940886171"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkjdwidbq2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkjdwidbq2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d0f895e8d06a",
+   "created_at": "2026-11-05T09:10:57Z"
+  },
   {
    "id": "99b5d6a9972c",
    "ts": "2026-11-05T09:01:55Z",
@@ -5777,39 +5798,6 @@
    "model": "opus",
    "run_id": "590d34f00832",
    "created_at": "2026-11-03T08:31:06Z"
-  },
-  {
-   "id": "c95c62a864b1",
-   "ts": "2026-11-03T08:12:55Z",
-   "headline": "Aramco CEO warns energy markets face pressure this winter and says preliminary engineering on a pipeline expansion has begun",
-   "detail": "Saudi Aramco's chief executive said energy markets will come under pressure in the coming winter. He added that the company has started preliminary engineering work on a pipeline expansion.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "f77dd2bc1d22fafb",
-    "5641de96bac4f839",
-    "1077d90254c4200d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzffeaw7if22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzffeaw7if22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzffgsrqjm2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzffgsrqjm2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzffje4mbt2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzffje4mbt2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "eddeed7dc4c5",
-   "created_at": "2026-11-03T08:15:52Z"
   }
  ]
 }
