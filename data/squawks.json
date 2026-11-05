@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T07:35:41Z",
+ "generated_at": "2026-11-05T07:45:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dfd46a9c92e5",
+   "ts": "2026-11-05T07:43:45Z",
+   "headline": "RBA Deputy Governor Hauser says consumption growth has been stronger than expected",
+   "detail": "RBA Deputy Governor Andrew Hauser said consumer spending growth has held up better than the bank anticipated. He also said the bank had not tried to steer market expectations through open-mouth operations.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6ba3a17775c46032",
+    "f98949a46e80247f",
+    "a5c872f57c03c857",
+    "b6f08c54ba3628c9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkenx56v62a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkenx56v62a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkeo7otec2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkeo7otec2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkel2oloq2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkel2oloq2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkeo3mlqw2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkeo3mlqw2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "88450f08a8f5",
+   "created_at": "2026-11-05T07:45:55Z"
+  },
   {
    "id": "da2a45cb7512",
    "ts": "2026-11-05T07:33:40Z",
@@ -5789,33 +5828,6 @@
    "model": "opus",
    "run_id": "a2a8dc0b1369",
    "created_at": "2026-11-03T07:10:53Z"
-  },
-  {
-   "id": "65e38b5a4426",
-   "ts": "2026-11-03T07:01:23Z",
-   "headline": "Turkey's October CPI rises 29.77% y/y, above the 29.5% forecast, with prices up 2.58% on the month",
-   "detail": "Turkish annual inflation came in at 29.77% against a 29.5% forecast and 29.73% previously. Monthly inflation was 2.58%, against a 2.4% forecast and 1.84% previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "fbeea59f1108c92f",
-    "303369b437c9afcd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfbedqb7f2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfbedqb7f2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfbeik6hb25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfbeik6hb25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cac7d8cdb82e",
-   "created_at": "2026-11-03T07:05:43Z"
   }
  ]
 }
