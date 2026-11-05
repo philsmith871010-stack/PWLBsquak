@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T12:10:48Z",
+ "generated_at": "2026-11-05T12:20:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dc2e8080be6d",
+   "ts": "2026-11-05T12:20:14Z",
+   "headline": "Germany's Merz warns 'Made in Europe' rules could disrupt competition and says EU trade tools must not erode competitiveness",
+   "detail": "German Chancellor Friedrich Merz said EU 'Made in Europe' requirements could disrupt competition, and that EU trade instruments should not weaken Europe's competitive edge. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "478666c398e4e597",
+    "0a13492ff0da8176"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzku4dc7pp22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzku4dc7pp22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzku5dnjea2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzku5dnjea2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0421bf3da047",
+   "created_at": "2026-11-05T12:20:56Z"
+  },
   {
    "id": "101b02c7eb61",
    "ts": "2026-11-05T12:08:58Z",
@@ -5831,33 +5858,6 @@
    "model": "opus",
    "run_id": "2e1a0b04b861",
    "created_at": "2026-11-03T13:01:22Z"
-  },
-  {
-   "id": "68aa78b3c897",
-   "ts": "2026-11-03T12:49:09Z",
-   "headline": "UK PM's spokesman rules out a return to EU freedom of movement during this parliament",
-   "detail": "The Prime Minister's official spokesman said on Tuesday that the UK will not return to EU freedom of movement in the current parliament.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "320c78e16c8633bb",
-    "de418f6219ab5b1d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfus6up5c24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfus6up5c24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfuqs4gwg2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfuqs4gwg2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "afe60ef7b7c2",
-   "created_at": "2026-11-03T12:50:52Z"
   }
  ]
 }
