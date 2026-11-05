@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T19:45:57Z",
+ "generated_at": "2026-11-05T20:35:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "00bab29f32e6",
+   "ts": "2026-11-05T20:34:01Z",
+   "headline": "China urges the US and EU to reconsider tariffs on Chinese goods as its exports hit record highs",
+   "detail": "Beijing said it would buy more US farm goods, but only if both sides agreed to make deep cuts to tariffs, Semafor reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "925ac8ca128a7644"
+   ],
+   "sources": [
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mzlppccxlj25",
+     "url": "https://bsky.app/profile/semafor.com/post/3mzlppccxlj25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a8bf487270ff",
+   "created_at": "2026-11-05T20:35:46Z"
+  },
   {
    "id": "cd272421e884",
    "ts": "2026-11-05T19:44:40Z",
@@ -5862,33 +5883,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzh4li2qwo24",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzh4li2qwo24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "efdbe262a9ff",
-   "created_at": "2026-11-04T06:01:28Z"
-  },
-  {
-   "id": "9e2cafa4ec1f",
-   "ts": "2026-11-04T00:27:11Z",
-   "headline": "US Treasury yields ease in Asian trading; 10-year down 5bp at 4.9167% and 30-year at 5.2964%",
-   "detail": "US Treasury yields moved lower early in the Asian session as US midterm election results came in.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "237a54da6963871c",
-    "3447219e04f787c0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzh3sehmv42d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzh3sehmv42d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzh3vowzbn24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzh3vowzbn24"
     }
    ],
    "model": "opus",
