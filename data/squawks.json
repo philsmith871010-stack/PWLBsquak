@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T21:35:42Z",
+ "generated_at": "2026-11-05T21:40:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6518bd4557d4",
+   "ts": "2026-11-05T21:36:03Z",
+   "headline": "US Treasury yields fall 6bp to 4.83% as a tech stock rout drives a flight to safety",
+   "detail": "Treasury yields fell six basis points to 4.83% as selling spread to other markets after the Nasdaq 100 dropped 6.4% and the S&P 500 fell 4.4%. The selloff was linked to fears of AI regulation, slower data-centre investment and weak outlooks from Qualcomm and Arm.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "214fd6485aa6aa3e",
+    "5ba2b38e28c58c87"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlt66qbfp2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlt66qbfp2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlt64jyec2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlt64jyec2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5d8f5daafb89",
+   "created_at": "2026-11-05T21:40:49Z"
+  },
   {
    "id": "00ee8ea42dc5",
    "ts": "2026-11-05T21:34:48Z",
@@ -5790,51 +5817,6 @@
      "author": "financialtimes.com",
      "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzhg73cpm42w",
      "url": "https://bsky.app/profile/financialtimes.com/post/3mzhg73cpm42w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7420b3da3122",
-   "created_at": "2026-11-04T06:15:55Z"
-  },
-  {
-   "id": "1ff36ecc65eb",
-   "ts": "2026-11-04T03:36:08Z",
-   "headline": "Iran's IRGC says four tankers are destroyed by naval mines south of the Strait of Hormuz and two more ships are seized",
-   "detail": "Iran's Revolutionary Guards said the four oil tankers hit mines while using a route it calls prohibited south of the strait and were still on fire, and that two other vessels had been detained.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3bb1485c7f003fed",
-    "c083b098c9d24a25",
-    "88e196af9a72b97c",
-    "48e7893a1d1c7375",
-    "f8f75027f8d7367c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhgeas6qx2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhgeas6qx2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhggbzkgz2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhggbzkgz2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhghn5md62d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhghn5md62d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhgibr7jd2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhgibr7jd2g"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzhhq5tthy24",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzhhq5tthy24"
     }
    ],
    "model": "opus",
