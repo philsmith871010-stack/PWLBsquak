@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T09:50:46Z",
+ "generated_at": "2026-11-05T09:55:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fa3d9b013e0a",
+   "ts": "2026-11-05T09:53:58Z",
+   "headline": "Japan's PM Takaichi tells Macron that Japan has grave concern over the EU's proposed Industrial Accelerator Act",
+   "detail": "Japanese Prime Minister Takaichi raised Japan's concern about the EU's proposed Industrial Accelerator Act in a teleconference with French President Macron. She asked France to respond appropriately.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d2262510045f8e85"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzklws36oc24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzklws36oc24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5252fd2cc712",
+   "created_at": "2026-11-05T09:55:40Z"
+  },
   {
    "id": "f622c90d41d7",
    "ts": "2026-11-05T09:50:08Z",
@@ -5765,27 +5786,6 @@
    "model": "opus",
    "run_id": "6fd4503305a3",
    "created_at": "2026-11-03T09:15:53Z"
-  },
-  {
-   "id": "91e225269a12",
-   "ts": "2026-11-03T09:09:48Z",
-   "headline": "Iranian assessments increasingly see a return to war as likely, report says",
-   "detail": "A newswire headline reports that assessments inside Iran increasingly see a return to war as likely. The report gives no source for the assessments and no market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6206f68ef4382b38"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfijxtutx2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfijxtutx2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "58d1fd2ec6b6",
-   "created_at": "2026-11-03T09:10:56Z"
   }
  ]
 }
