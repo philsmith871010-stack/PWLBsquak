@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T14:23:52Z",
+ "generated_at": "2026-11-05T14:25:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f82a5229f037",
+   "ts": "2026-11-05T14:24:31Z",
+   "headline": "Fed's Barkin links productivity gains to adapting to post-pandemic labour shortages rather than to AI",
+   "detail": "Richmond Fed President Barkin said the main current driver of productivity is adaptation to the labour shortages that began during the pandemic, not AI. The remarks follow US Q3 productivity rising 3.6%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0019d69db8223828"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl32kqlyr2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl32kqlyr2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7fe2534794e4",
+   "created_at": "2026-11-05T14:25:52Z"
+  },
   {
    "id": "d1dd197b4ee3",
    "ts": "2026-11-05T14:11:56Z",
@@ -5969,39 +5990,6 @@
    "model": "opus",
    "run_id": "36f99989b912",
    "created_at": "2026-11-03T15:01:29Z"
-  },
-  {
-   "id": "81c1760bfadc",
-   "ts": "2026-11-03T14:36:49Z",
-   "headline": "ECB's Moulin calls France's 0.4% growth forecast optimistic and says a downgrade is likely",
-   "detail": "ECB policymaker Moulin said France's 0.4% GDP growth forecast is optimistic and will probably need to be revised down. He described euro area growth as fairly resilient.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "2e20c90d7453f04f",
-    "0ed0b4b79e976364",
-    "5ac2e1c454b3fb0e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg2sq7kns2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg2sq7kns2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg2thqndt2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg2thqndt2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzg2uajeqw2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzg2uajeqw2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8de431f5af7c",
-   "created_at": "2026-11-03T14:40:59Z"
   }
  ]
 }
