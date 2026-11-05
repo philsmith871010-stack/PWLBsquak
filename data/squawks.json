@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T10:30:58Z",
+ "generated_at": "2026-11-05T10:35:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4f6facee13e6",
+   "ts": "2026-11-05T10:33:46Z",
+   "headline": "European Commission pays €4.36bn to Ukraine from its €90bn support loan",
+   "detail": "European Commission President von der Leyen announced the €4.36bn payment as Ukraine goes into its fifth winter of the war. She said EU support will continue alongside efforts to reach a peace settlement.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c5e44dbbf5f0e209",
+    "b7d47f97f3ff9a39",
+    "c534804940632f47"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzko5xpraa2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzko5xpraa2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzko6s7b3r2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzko6s7b3r2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzko7mudvs25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzko7mudvs25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "93bbb7030606",
+   "created_at": "2026-11-05T10:35:46Z"
+  },
   {
    "id": "fd7b93dd7ecc",
    "ts": "2026-11-05T10:30:54Z",
@@ -5693,63 +5726,6 @@
    "model": "opus",
    "run_id": "f691db409871",
    "created_at": "2026-11-03T10:31:06Z"
-  },
-  {
-   "id": "423f658af366",
-   "ts": "2026-11-03T10:21:58Z",
-   "headline": "Qatar reports progress in US-Iran mediation and says both sides are evaluating the proposal",
-   "detail": "A spokesperson for Qatar's foreign ministry said the US and Iran are both committed to the mediation and are assessing the proposal, adding that Qatar remains hopeful of a deal that sets the stage for further negotiations. The spokesperson also said regional leaders are coordinating closely to find a solution and avoid escalation.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1f5fcafa4e3f5c2c",
-    "0026a4d6a1a37b73",
-    "9382b17a895036fd",
-    "d51844b4f09f56b8",
-    "9c4679c219ca46c4",
-    "6a71dbf8a2e72e91",
-    "acc77a68f38fd34d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfmkzchka25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfmkzchka25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfmlvvmnh2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfmlvvmnh2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfmm3indm2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfmm3indm2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfmjfm3l625",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfmjfm3l625"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfmommlwy2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfmommlwy2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfmot6o7h2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfmot6o7h2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfmpmydrq2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfmpmydrq2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1835c0cb43d9",
-   "created_at": "2026-11-03T10:25:42Z"
   }
  ]
 }
