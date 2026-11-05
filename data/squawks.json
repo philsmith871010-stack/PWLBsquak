@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T16:35:43Z",
+ "generated_at": "2026-11-05T16:40:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "053cdce9d918",
+   "ts": "2026-11-05T16:38:25Z",
+   "headline": "Iran is reviewing concrete proposals on its nuclear programme, officials tell the NYT",
+   "detail": "The New York Times reports, citing officials, that Iran is reviewing concrete proposals on its nuclear programme. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "cefd5b4bff0c412f",
+    "244d660cdb7a3312"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlcjyhhwl25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlcjyhhwl25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlckw34e52k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlckw34e52k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0035532ab51c",
+   "created_at": "2026-11-05T16:40:49Z"
+  },
+  {
+   "id": "2676c6a8d492",
+   "ts": "2026-11-05T16:37:35Z",
+   "headline": "Iran's Rezaei and Russia's Putin discuss ending the war, Al Mayadeen reports",
+   "detail": "Al Mayadeen reports that ending the Iran war was the main focus of talks between Iranian official Rezaei and President Putin. Iran's position that the Strait of Hormuz stays closed until its seven conditions are met remains unchanged.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f3afc1d734912655",
+    "e5c1a0ecd108c817"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlciirlun2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlciirlun2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlciszvq52g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlciszvq52g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0035532ab51c",
+   "created_at": "2026-11-05T16:40:49Z"
+  },
   {
    "id": "e2644b9a8442",
    "ts": "2026-11-05T16:34:58Z",
@@ -5882,66 +5936,6 @@
    "model": "opus",
    "run_id": "3777099eaf76",
    "created_at": "2026-11-03T19:05:48Z"
-  },
-  {
-   "id": "342509389c41",
-   "ts": "2026-11-03T18:39:44Z",
-   "headline": "ECB's Nagel says he is confident France will sort out its budget problems and that this is not a job for monetary policy",
-   "detail": "Bundesbank President and ECB Governing Council member Joachim Nagel commented on France's fiscal position on 3 November. He said dealing with the budget is not a task for monetary policy.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "2b808c5975a160fd",
-    "bf4a010935622384"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgif3jv6q2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgif3jv6q2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgif7sbp32b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgif7sbp32b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2c7f4586d572",
-   "created_at": "2026-11-03T18:41:07Z"
-  },
-  {
-   "id": "804d31ba45fb",
-   "ts": "2026-11-03T18:32:14Z",
-   "headline": "ECB's Sleijpen sees no clear second-round inflation effects yet but says tightening is slowing Europe's economy",
-   "detail": "ECB Governing Council member Sleijpen said second-round effects are not yet really visible, that rising energy risks carry knock-on effects for inflation, and that policy tightening is slowing the European economy.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "2415f44987f8bb61",
-    "eb1200b074051b8c",
-    "81fd1c8f5879ce2a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzghxo6rcd25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzghxo6rcd25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgi4fqqoc2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgi4fqqoc2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgi5m75gr2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgi5m75gr2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8567a8c325d6",
-   "created_at": "2026-11-03T18:35:57Z"
   }
  ]
 }
