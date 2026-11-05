@@ -1,8 +1,98 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T08:05:43Z",
+ "generated_at": "2026-11-05T08:15:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fd32b04fda06",
+   "ts": "2026-11-05T08:14:02Z",
+   "headline": "ECB's Moulin says French budget uncertainty is adding to the rise in bond yields and France must adopt a budget by year-end",
+   "detail": "ECB official Moulin said higher yields are a new test for the financial sector and could weigh on the economy. He said it is essential for France to adopt a budget by the end of the year.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "206cf978ec2cfbaa",
+    "0c01442ca59d2946",
+    "df90d06d10368fca",
+    "ccf1ee4fef05c1da",
+    "25126f5082b243eb",
+    "51875aec42138028"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkge3cvw22a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkge3cvw22a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkgffrow32p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkgffrow32p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkgfpwm5v2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkgfpwm5v2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkgg24lft24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkgg24lft24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkggec7jf2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkggec7jf2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkggykk2625",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkggykk2625"
+    }
+   ],
+   "model": "opus",
+   "run_id": "53984a51c704",
+   "created_at": "2026-11-05T08:15:48Z"
+  },
+  {
+   "id": "dbdcf6a0360d",
+   "ts": "2026-11-05T08:13:40Z",
+   "headline": "ECB's Schnabel says getting public finances back to a sustainable level has become harder; ECB will slowly build a long-term bond portfolio",
+   "detail": "ECB Executive Board member Schnabel also said the ECB will build a long-term securities portfolio slowly once its legacy holdings have run down enough. She added that banks should again be able to use central bank loans without stigma.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2cfda9cb56408021",
+    "3fd02f545423de0d",
+    "058300ba33142b05",
+    "2fa3bc32e7d32fde"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkgdgwbol2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkgdgwbol2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkgefjcsu2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkgefjcsu2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkgd4repg2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkgd4repg2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkgdr4esn2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkgdr4esn2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "53984a51c704",
+   "created_at": "2026-11-05T08:15:48Z"
+  },
   {
    "id": "b72596f24b8a",
    "ts": "2026-11-05T08:01:30Z",
@@ -5720,84 +5810,6 @@
    "model": "opus",
    "run_id": "e1a539a38709",
    "created_at": "2026-11-03T07:31:23Z"
-  },
-  {
-   "id": "805908c5a1e9",
-   "ts": "2026-11-03T07:28:11Z",
-   "headline": "ECB's Radev says current rates are not adequate and the ECB should act without waiting for second-round effects",
-   "detail": "ECB Governing Council member Radev said core inflation is stable and the energy shock is not feeding through to wages, but argued that the ECB should move now rather than wait for second-round effects. He also said the economic environment is becoming increasingly difficult.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "3b137d4acf30e86e",
-    "d75d9cc0e0e82793",
-    "679f9be4a5ea6b50",
-    "9274c25f7206b036",
-    "fe68860ce96fa211",
-    "f059704664aaa8ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfcrawfz52y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfcrawfz52y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfcs2ir6w24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfcs2ir6w24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfcsyljdl25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfcsyljdl25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfct6my732a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfct6my732a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfcu4la472d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfcu4la472d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfcuaun7t22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfcuaun7t22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e1a539a38709",
-   "created_at": "2026-11-03T07:31:23Z"
-  },
-  {
-   "id": "2e353376a977",
-   "ts": "2026-11-03T07:23:45Z",
-   "headline": "ECB's Radev says the October pause does not mark the end of tightening as the economic environment becomes more challenging",
-   "detail": "ECB Governing Council member Radev said the economic environment is getting more challenging and that the ECB's pause in October does not mean tightening has finished.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "2b2d5ccab9b865ce",
-    "d0a5dbc7743cbde2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfckt7tl322",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfckt7tl322"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfcmdkszg24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfcmdkszg24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3feb79814d12",
-   "created_at": "2026-11-03T07:25:47Z"
   }
  ]
 }
