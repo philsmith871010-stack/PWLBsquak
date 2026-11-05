@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T08:35:41Z",
+ "generated_at": "2026-11-05T09:01:23Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e2b4e56ee896",
+   "ts": "2026-11-05T09:00:51Z",
+   "headline": "Norges Bank holds its key policy rate at 4.5%, in line with forecasts",
+   "detail": "Norway's central bank kept its key policy rate at 4.5%, matching the forecast and the previous setting. The decision came ahead of the Bank of England's announcement later today.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "1d9e24bd5ec75539"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkixsbd3m2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkixsbd3m2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "051b373c2502",
+   "created_at": "2026-11-05T09:01:23Z"
+  },
   {
    "id": "cc71a7bd698b",
    "ts": "2026-11-05T08:31:22Z",
@@ -5783,27 +5804,6 @@
    "model": "opus",
    "run_id": "d1cfccc869f7",
    "created_at": "2026-11-03T08:10:55Z"
-  },
-  {
-   "id": "adb01d7806d0",
-   "ts": "2026-11-03T07:45:59Z",
-   "headline": "French year-to-date budget balance comes in at -159.173bn, compared with -159.60bn previously",
-   "detail": "France's latest state budget balance figure is -159.173bn, against -159.60bn in the previous release. No forecast was given.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8e0f0b1ab2e20fb7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfdu44x4z2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfdu44x4z2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0c15401c9046",
-   "created_at": "2026-11-03T07:50:52Z"
   }
  ]
 }
