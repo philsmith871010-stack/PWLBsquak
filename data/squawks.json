@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T13:11:20Z",
+ "generated_at": "2026-11-05T13:15:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0750b6af4999",
+   "ts": "2026-11-05T13:13:57Z",
+   "headline": "BoE's Bailey says he hopes the Bank will know more about the war's outcome by December",
+   "detail": "Bank of England Governor Bailey said he hoped more information on how the war turns out would be available by the December meeting. He spoke on the day the Bank raised Bank Rate.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "2a42b65add336d49",
+    "4acebb08a66f95ee"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkx4few6w2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkx4few6w2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkx5fy73x2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkx5fy73x2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ae4d71ca855f",
+   "created_at": "2026-11-05T13:15:56Z"
+  },
+  {
+   "id": "8b67f5d53779",
+   "ts": "2026-11-05T13:12:21Z",
+   "headline": "BoE's Lombardelli says public-sector pay is not a particular risk and the minimum wage rise is at or below expectations",
+   "detail": "Bank of England Deputy Governor Lombardelli said the minimum wage increase was in line with or below expectations and that public-sector wages were not a particular risk. She added that consumer-facing firms report less pricing power than business-to-business firms. She spoke on the day of the Bank's rate decision.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "8ca8c98397bf7c2d",
+    "b5fc8fab1ffb8971",
+    "eb76ddb8c9eeced8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwy3xj7y22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwy3xj7y22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwywbrnp2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwywbrnp2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwzj4ptk2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwzj4ptk2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ae4d71ca855f",
+   "created_at": "2026-11-05T13:15:56Z"
+  },
   {
    "id": "b628c4074090",
    "ts": "2026-11-05T13:11:01Z",
@@ -5726,60 +5786,6 @@
    "model": "opus",
    "run_id": "03756d2ec6a3",
    "created_at": "2026-11-03T13:50:55Z"
-  },
-  {
-   "id": "c82ba4e7bffc",
-   "ts": "2026-11-03T13:45:21Z",
-   "headline": "Zelenskiy says Ukraine has offered Russia a longer, wider ceasefire and wants an energy ceasefire and Black Sea truce discussed in Abu Dhabi",
-   "detail": "Ukraine's president said Kyiv had offered Russia an extended and expanded ceasefire after the humanitarian operation in Oleshky. He said a ceasefire on energy targets and a Black Sea truce should be discussed at the Abu Dhabi talks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "da1a0bb630d59271",
-    "a0e7295acc28646f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfxvam7uf2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfxvam7uf2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfxwot6z52b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfxwot6z52b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0dece6127413",
-   "created_at": "2026-11-03T13:45:53Z"
-  },
-  {
-   "id": "bf3925ebf441",
-   "ts": "2026-11-03T13:42:53Z",
-   "headline": "US-Iran mediation turns to how to announce an interim deal: Iranian nuclear concession for release of some frozen funds, report says",
-   "detail": "Al Araby, citing sources close to the mediators, reports that talks now focus on a first step and on how to announce an interim agreement, with both sides then returning to negotiations. Under the reported plan, Tehran would announce a concession on its nuclear programme and Washington would announce the release of part of Iran's frozen funds.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ba480d73cad5f6a2",
-    "9ea1a94fa9bb9f2c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfxqs4x4q2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfxqs4x4q2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfxsbzn332a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfxsbzn332a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0dece6127413",
-   "created_at": "2026-11-03T13:45:53Z"
   }
  ]
 }
