@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T15:50:54Z",
+ "generated_at": "2026-11-05T15:55:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0799a889b82a",
+   "ts": "2026-11-05T15:52:42Z",
+   "headline": "ECB's Lagarde says many indicators will arrive before the December meeting",
+   "detail": "ECB President Lagarde said a large amount of data will come in between now and the December policy meeting. She had also described the current situation as made difficult by the energy shock and AI pulling in opposite directions.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1cd78a27c224ace7",
+    "da8e2403d27ba1c3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl7yahhlq24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl7yahhlq24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl7vvvbfg2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl7vvvbfg2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bcf4a88be7ab",
+   "created_at": "2026-11-05T15:55:40Z"
+  },
   {
    "id": "b68140f1b8d8",
    "ts": "2026-11-05T15:48:18Z",
@@ -5898,39 +5925,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgegkyffr22",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgegkyffr22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9e24cbfa3031",
-   "created_at": "2026-11-03T17:31:07Z"
-  },
-  {
-   "id": "76d9397e2d46",
-   "ts": "2026-11-03T17:28:55Z",
-   "headline": "Zelenskiy says Russia would not survive fully enforced sanctions and urges pressure rather than dialogue alone with Putin",
-   "detail": "Ukraine's president said Russia could not survive if all sanctions were fully applied with no exemptions for some oligarchs. He also said Putin responds to pressure and strong steps, and that Europe is several times stronger than Russia.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6d39865192ad7d25",
-    "3b4cd020b273fb58",
-    "f682a54fb11da4fa"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgegh7hn62f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgegh7hn62f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgegj3gbi2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgegj3gbi2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgefjtqcf25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgefjtqcf25"
     }
    ],
    "model": "opus",
