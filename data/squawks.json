@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T19:35:44Z",
+ "generated_at": "2026-11-05T19:45:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cd272421e884",
+   "ts": "2026-11-05T19:44:40Z",
+   "headline": "Brent crude futures settle 3.88% higher at $98.29 a barrel",
+   "detail": "Brent futures settled up $3.67 at $98.29 a barrel on Thursday, a 3.88% gain on the day.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "7f4d57f9eb3b22ef"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlmwzmwpv2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlmwzmwpv2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fda792993b26",
+   "created_at": "2026-11-05T19:45:57Z"
+  },
+  {
+   "id": "76b83eb5839f",
+   "ts": "2026-11-05T19:42:55Z",
+   "headline": "Iran says it has sent the US a nuclear proposal via Qatar, which the US is now reviewing",
+   "detail": "A senior Iranian official said the proposal was passed on through Qatar and will be discussed only once the US meets Iran's seven demands. The official added that Washington is reviewing it.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e03267c4bfc26df0",
+    "b4281636fe773523",
+    "1bfd5894a4fd7319"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlmtw7ro42b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlmtw7ro42b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlmu274mz2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlmu274mz2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlmvkpcm62y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlmvkpcm62y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fda792993b26",
+   "created_at": "2026-11-05T19:45:57Z"
+  },
   {
    "id": "50211583e01b",
    "ts": "2026-11-05T19:32:02Z",
@@ -5840,78 +5894,6 @@
    "model": "opus",
    "run_id": "efdbe262a9ff",
    "created_at": "2026-11-04T06:01:28Z"
-  },
-  {
-   "id": "7b0a3d87ffc8",
-   "ts": "2026-11-03T23:42:45Z",
-   "headline": "Trump tells the FT the US has no immediate plan to strike Iran and describes the stand-off with Tehran as brilliant",
-   "detail": "In an interview with the Financial Times hours before the midterm polls closed, the US president said he was content with the stand-off with Iran but signalled he was ready for more war if needed.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "37d6468842a8395b",
-    "51f57f5d69b19fcb",
-    "512b7ec2cbf1dc0f"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzgzcwicxc2w",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mzgzcwicxc2w"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzgzqb27rt2h",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzgzqb27rt2h"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzgza2fmtu2i",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mzgza2fmtu2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "efdbe262a9ff",
-   "created_at": "2026-11-04T06:01:28Z"
-  },
-  {
-   "id": "9ea9684a4ba3",
-   "ts": "2026-11-03T22:06:53Z",
-   "headline": "Canada's Carney says the US is asking for fewer concessions and offering more, and some Canadian red lines have been dropped",
-   "detail": "Canadian Prime Minister Mark Carney said some of Canada's limits in the US trade talks have been removed and discussions will intensify, though no deal has been reached yet. He added that lines of communication remain open even when negotiators are not meeting the USTR.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "744e28a384166a09",
-    "c61fa7dc0758638d",
-    "4f2123e8afc76781",
-    "4befc2a99b45c4f2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgtwo5rh322",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgtwo5rh322"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgtxijycy2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgtxijycy2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgtztxntn2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgtztxntn2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzgu5grhot2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzgu5grhot2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ef300317ef8c",
-   "created_at": "2026-11-03T22:11:06Z"
   }
  ]
 }
