@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T10:35:46Z",
+ "generated_at": "2026-11-05T10:55:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "64e6b5ac209e",
+   "ts": "2026-11-05T10:53:03Z",
+   "headline": "Iraq's government is reported to be closing several of its border crossings with Iran",
+   "detail": "Reports say the Iraqi government has announced that it is closing several border crossings with Iran. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1b8b94146672ea6d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkpah5jdt2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkpah5jdt2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e785541a4cc4",
+   "created_at": "2026-11-05T10:55:41Z"
+  },
   {
    "id": "4f6facee13e6",
    "ts": "2026-11-05T10:33:46Z",
@@ -5693,39 +5714,6 @@
    "model": "opus",
    "run_id": "6c5b51c08436",
    "created_at": "2026-11-03T10:35:43Z"
-  },
-  {
-   "id": "a28656b37de8",
-   "ts": "2026-11-03T10:27:01Z",
-   "headline": "Qatar says freedom of navigation is not up for negotiation and rejects threats to its carriers as US-Iran talks go on",
-   "detail": "A spokesperson for Qatar's foreign ministry said Doha rejects any threat to Qatari carriers and others. The spokesperson also said Iran and the US remain committed to negotiations and that Qatar is working towards a deal that builds trust.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "02e6215537b05a92",
-    "ef5bdf269c3403d2",
-    "f05ff00a4e702f5a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfmtzpybl24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfmtzpybl24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfmvk3xep2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfmvk3xep2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfmygmsyo25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfmygmsyo25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f691db409871",
-   "created_at": "2026-11-03T10:31:06Z"
   }
  ]
 }
