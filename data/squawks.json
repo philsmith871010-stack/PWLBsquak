@@ -1,8 +1,71 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T12:55:44Z",
+ "generated_at": "2026-11-05T13:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ba013a2fd783",
+   "ts": "2026-11-05T13:04:59Z",
+   "headline": "BoE's Bailey says he does not believe the Bank has moved too late",
+   "detail": "The Bank of England Governor made the remark after the MPC raised Bank Rate to 4.0% from 3.75%.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "d6e370db3f2c4918"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwmdzonv2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwmdzonv2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "da34c80ceb2b",
+   "created_at": "2026-11-05T13:05:40Z"
+  },
+  {
+   "id": "1576f6bc35fa",
+   "ts": "2026-11-05T13:03:48Z",
+   "headline": "BoE's Lombardelli says eurozone inflation data show the UK is not alone in its exposure to energy prices",
+   "detail": "The Bank of England Deputy Governor made the comment after the MPC's decision to raise Bank Rate to 4.0%.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "be3e8caf790b10d3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwk7zz4f2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwk7zz4f2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "da34c80ceb2b",
+   "created_at": "2026-11-05T13:05:40Z"
+  },
+  {
+   "id": "376bf18ee1f3",
+   "ts": "2026-11-05T13:01:39Z",
+   "headline": "Oil heads for its biggest weekly fall since the pandemic, Reuters reports",
+   "detail": "Reuters says the drop follows a Democratic sweep of Congress in the US midterm elections.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "b96b9d6188821b88"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzkwgemn722f",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzkwgemn722f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "da34c80ceb2b",
+   "created_at": "2026-11-05T13:05:40Z"
+  },
   {
    "id": "2dd5287a6860",
    "ts": "2026-11-05T12:52:04Z",
@@ -5741,123 +5804,6 @@
    "model": "opus",
    "run_id": "334533338e4c",
    "created_at": "2026-11-03T13:35:45Z"
-  },
-  {
-   "id": "61c2c149dd78",
-   "ts": "2026-11-03T13:30:50Z",
-   "headline": "Trump says the US could balance its budget if the Fed cut interest rates",
-   "detail": "Trump made the remarks in a Fox News interview, in which he also said Israel does not need the $4 billion in US aid.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c7e61706d2133fec"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfx4q36bd2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfx4q36bd2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3d1797e93beb",
-   "created_at": "2026-11-03T13:31:10Z"
-  },
-  {
-   "id": "a685e1280585",
-   "ts": "2026-11-03T13:28:40Z",
-   "headline": "US approves Qatar's draft memorandum of understanding with Iran, and Saudi Arabia and UAE also back it, reports say",
-   "detail": "Al Jazeera reports that Washington approved the draft MoU that the Qatari delegation presented for Iran yesterday. Sources close to the mediation team say Saudi Arabia and the UAE were briefed and approved it, and that the US and Iran made concessions on the nuclear file and frozen assets.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "14b77f5573e76ff9",
-    "9e791b380cc3d7b9",
-    "2b3347ebbc650e46",
-    "d97c93315e5303e3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwyugnod22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwyugnod22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwyy7j2l2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwyy7j2l2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfx2l2apt2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfx2l2apt2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfx4wk3q62y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfx4wk3q62y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3d1797e93beb",
-   "created_at": "2026-11-03T13:31:10Z"
-  },
-  {
-   "id": "8cd02991213f",
-   "ts": "2026-11-03T13:23:09Z",
-   "headline": "Trump says the US successfully hit a recently built Iranian anti-aircraft facility overnight",
-   "detail": "In a Fox News interview, the US president said the strike last night had worked, that he is not trying to cause mass casualties in Iran, but that the US would kill people there if it had to. He said Iran would see what happens after the elections.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "eabe2f27d63dd2ad",
-    "632d2120d06ce52e",
-    "6391e4ab4b9eecd0",
-    "8737a79873ebc00e",
-    "575b244881fee4e7",
-    "a77da250719af3b5",
-    "dada4433a2db9bde"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwoyxunu2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwoyxunu2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwsazap42b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwsazap42b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwscc44e2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwscc44e2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwne5p7g2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwne5p7g2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwsbma4m2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwsbma4m2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwszzday2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwszzday2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfwmi5b6d2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfwmi5b6d2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f25e08b30c4e",
-   "created_at": "2026-11-03T13:25:50Z"
   }
  ]
 }
