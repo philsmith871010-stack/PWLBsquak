@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T09:30:48Z",
+ "generated_at": "2026-11-05T09:40:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "daf0546e59a5",
+   "ts": "2026-11-05T09:40:09Z",
+   "headline": "Sterling heads for a seventh straight daily gain against a weaker dollar before the Bank of England decision",
+   "detail": "Reuters says sterling is on course for its seventh consecutive daily rise against the dollar. Investors are holding back ahead of the Bank of England policy announcement later on Thursday.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4f5ca68523277594"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzkl63ex5b2d",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzkl63ex5b2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "68536c7f4703",
+   "created_at": "2026-11-05T09:40:48Z"
+  },
   {
    "id": "bfcc889465f7",
    "ts": "2026-11-05T09:30:45Z",
@@ -5765,33 +5786,6 @@
    "model": "opus",
    "run_id": "94affc9e58d1",
    "created_at": "2026-11-03T08:50:54Z"
-  },
-  {
-   "id": "f25abefde701",
-   "ts": "2026-11-03T08:38:10Z",
-   "headline": "Iran's armed forces chief seeks recognition of Tehran's sovereignty over Hormuz and an end to the US security umbrella",
-   "detail": "Further principles set out by Iran's armed forces chief, as reported by Tasnim and other outlets, include war reparations, guarantees against further aggression and security arrangements led from within the region. He also calls for recognition of Iranian sovereignty over the Strait of Hormuz and for the US security umbrella to be replaced.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "fef5fa4817370977",
-    "f6b9b4f4bcb949da"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfgpk7mjh22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfgpk7mjh22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfgrfik2c2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfgrfik2c2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cc19788aad7c",
-   "created_at": "2026-11-03T08:40:56Z"
   }
  ]
 }
