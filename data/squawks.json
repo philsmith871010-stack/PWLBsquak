@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T07:20:50Z",
+ "generated_at": "2026-11-05T07:25:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0e7fe82cbb15",
+   "ts": "2026-11-05T07:24:35Z",
+   "headline": "SNB chairman Schlegel says early signs point to the Swiss economy still growing",
+   "detail": "Swiss National Bank chairman Schlegel said initial indications are that the Swiss economy continues to grow, according to remarks reported by HZ.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0286e6aa60ec5eef",
+    "4015e155f1af4eff"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkdlnpee32a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkdlnpee32a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkdlqna7t2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkdlqna7t2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "687b1fa26a6c",
+   "created_at": "2026-11-05T07:25:40Z"
+  },
+  {
+   "id": "ce5d5f2a0309",
+   "ts": "2026-11-05T07:22:04Z",
+   "headline": "RBA Deputy Governor Hauser says the board had very lively debates at its last meeting and members were not cornered",
+   "detail": "Reserve Bank of Australia Deputy Governor Hauser described the board as diverse, with very lively discussion at the last meeting. He rejected the view that board members are being driven into a corner at meetings.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6354afa6eb04002d",
+    "48f80e1453130d16",
+    "d57fa869d8109e50",
+    "7fa17400519032eb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkdh6e5v325",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkdh6e5v325"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkdli4rni2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkdli4rni2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkdlkvuv325",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkdlkvuv325"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkdnbhohw2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkdnbhohw2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "687b1fa26a6c",
+   "created_at": "2026-11-05T07:25:40Z"
+  },
   {
    "id": "7e56a59e146e",
    "ts": "2026-11-05T07:17:33Z",
@@ -5768,54 +5834,6 @@
    "model": "opus",
    "run_id": "5f07363d7dd3",
    "created_at": "2026-11-03T06:40:50Z"
-  },
-  {
-   "id": "c6fde361915e",
-   "ts": "2026-11-03T06:27:44Z",
-   "headline": "China halts IPOs and share offerings in a bid to stabilise weak markets, FT reports",
-   "detail": "The Financial Times reports that China's securities regulator has privately told investment banks in recent days to pause initial public offerings.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8f4338712d0bbee0",
-    "f0f25ca06c921508"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzf7i5z7gh2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzf7i5z7gh2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzf7l6raxv2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzf7l6raxv2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1d6b5e9b02cd",
-   "created_at": "2026-11-03T06:31:15Z"
-  },
-  {
-   "id": "74a773e5e4ca",
-   "ts": "2026-11-03T06:19:45Z",
-   "headline": "IEA says global LNG supply could post a record annual decline because of the Iran war",
-   "detail": "The International Energy Agency said the Iran war could cause global liquefied natural gas supply to fall by a record amount this year, the WSJ reports.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "0f14255706e2c1ee"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzf6zvsg2g2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzf6zvsg2g2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cbdae4da76eb",
-   "created_at": "2026-11-03T06:20:53Z"
   }
  ]
 }
