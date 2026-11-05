@@ -1,8 +1,80 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T12:40:48Z",
+ "generated_at": "2026-11-05T12:45:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5c54cf3f8f90",
+   "ts": "2026-11-05T12:42:40Z",
+   "headline": "BoE's Bailey says economic activity has proved more resilient than expected and business investment has grown more than forecast",
+   "detail": "The Bank of England Governor made the remarks after today's rate decision, alongside comments on limiting the impact of the Iran conflict and on high domestic inflation pressures.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "25b0bf329587310c",
+    "662832f19626fba2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkveh5me22p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkveh5me22p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkvbjstro2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkvbjstro2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fe47afb15765",
+   "created_at": "2026-11-05T12:45:48Z"
+  },
+  {
+   "id": "c362c1d6e99e",
+   "ts": "2026-11-05T12:41:37Z",
+   "headline": "SNB's Schlegel says the policy rate is the main tool, with FX intervention used if necessary",
+   "detail": "The Swiss National Bank chairman also said Switzerland is highly exposed to external shocks and the franc has relatively strong safe-haven properties.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8bc0b8eb4416e34c",
+    "316788112902c3f7",
+    "d8375c489d6c4009",
+    "18c3a02174d0084b",
+    "425a384f2b7eb4cf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkvckplb62f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkvckplb62f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkvdf4k542b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkvdf4k542b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkvdfhk4p2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkvdfhk4p2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkvcaj2rh22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkvcaj2rh22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkvdj5p5a2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkvdj5p5a2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fe47afb15765",
+   "created_at": "2026-11-05T12:45:48Z"
+  },
   {
    "id": "318f04d9a5f9",
    "ts": "2026-11-05T12:39:52Z",
@@ -5810,54 +5882,6 @@
    "model": "opus",
    "run_id": "b83609f5d351",
    "created_at": "2026-11-03T13:15:53Z"
-  },
-  {
-   "id": "e7e56ca5e104",
-   "ts": "2026-11-03T13:08:50Z",
-   "headline": "US Energy Secretary Wright says the overnight US strikes on Iran's Qeshm Island have not affected oil flows",
-   "detail": "US Energy Secretary Wright said the overnight US strikes on Iran, including the attack on Qeshm Island, have not affected the flow of oil.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "01e98dd69acd1ff1",
-    "98085316b66c150b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfvveufjg2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfvveufjg2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfvvfizoe2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfvvfizoe2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d2d1c390bad0",
-   "created_at": "2026-11-03T13:10:57Z"
-  },
-  {
-   "id": "6296f8c5c9ed",
-   "ts": "2026-11-03T13:01:50Z",
-   "headline": "Kremlin's Peskov says Russia will in time need to talk to Europe about a future security system, but who it talks to matters",
-   "detail": "Kremlin spokesman Dmitry Peskov said Russia would eventually have to discuss a future European security system with Europe, and stressed the importance of who its counterparts would be. He spoke ahead of the US-mediated three-way Ukraine talks in Abu Dhabi.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a3be4a693a49d709"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfvium5mo2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfvium5mo2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cb8b77617fc8",
-   "created_at": "2026-11-03T13:05:48Z"
   }
  ]
 }
