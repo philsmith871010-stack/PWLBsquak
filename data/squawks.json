@@ -1,8 +1,104 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T12:05:41Z",
+ "generated_at": "2026-11-05T12:10:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "101b02c7eb61",
+   "ts": "2026-11-05T12:08:58Z",
+   "headline": "BoE's Taylor and Dhingra describe the rate hike as insurance against worse inflation outcomes",
+   "detail": "MPC members Alan Taylor and Swati Dhingra said the increase in Bank Rate serves as insurance against inflation turning out worse, according to remarks published with the decision.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "824e3c9bc972c907"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkti5xfdk2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkti5xfdk2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f38f1c85e60e",
+   "created_at": "2026-11-05T12:10:48Z"
+  },
+  {
+   "id": "4e87c521c958",
+   "ts": "2026-11-05T12:08:58Z",
+   "headline": "BoE forecasts are conditioned on market rates implying Bank Rate of 4.9% in Q4 2027",
+   "detail": "According to the Monetary Policy Report, market rates imply Bank Rate at 3.9% in Q4 2026, 4.9% in Q4 2027, 4.9% in Q4 2028 and 4.7% in Q4 2029.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "a95f83221576a87d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkti6fwnw2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkti6fwnw2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f38f1c85e60e",
+   "created_at": "2026-11-05T12:10:48Z"
+  },
+  {
+   "id": "0b6f52c39312",
+   "ts": "2026-11-05T12:08:58Z",
+   "headline": "BoE cuts its unemployment projections and raises its private-sector wage growth path from July",
+   "detail": "The Monetary Policy Report sees unemployment at 4.8% in 2026, 4.9% in 2027 and 5.1% in 2028, against 5.0%, 5.3% and 5.2% in July. Private-sector regular pay growth is seen at 3.2% y/y in Q4 2026, 3.5% in Q4 2027 and 3.4% in Q4 2028 (July: 3.0%, 3.1%, 3.1%), and real post-tax labour income growth at -0.1% in 2026, -0.6% in 2027 and 1.0% in 2028 (July: 0.1%, 0.5%, 1.1%).",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "5bf08a9eea3e71cf",
+    "eea342de8c4c38da",
+    "ff38b5d4d706d4f6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkti6sye52y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkti6sye52y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzktdbvofh2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzktdbvofh2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzktdzjeta2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzktdzjeta2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f38f1c85e60e",
+   "created_at": "2026-11-05T12:10:48Z"
+  },
+  {
+   "id": "1a86db9183e7",
+   "ts": "2026-11-05T12:05:44Z",
+   "headline": "BoE adverse scenario has CPI inflation peaking at 6.2% in Q3 2027",
+   "detail": "The adverse scenario in the Bank of England's November Monetary Policy Report shows CPI peaking at 6.2% in Q3 2027.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "fbd17704e3fe4dd6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzktcfpavq2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzktcfpavq2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f38f1c85e60e",
+   "created_at": "2026-11-05T12:10:48Z"
+  },
   {
    "id": "d6367406b809",
    "ts": "2026-11-05T12:03:27Z",
@@ -5762,90 +5858,6 @@
    "model": "opus",
    "run_id": "afe60ef7b7c2",
    "created_at": "2026-11-03T12:50:52Z"
-  },
-  {
-   "id": "7009d43edfed",
-   "ts": "2026-11-03T12:40:35Z",
-   "headline": "Kremlin says security guarantees for both Russia and Ukraine will be on the table at the three-way Abu Dhabi talks",
-   "detail": "Kremlin spokesman Peskov said security guarantees for Russia and Ukraine will be discussed at the three-way talks in Abu Dhabi. The talks are due on 10-11 November with US mediation.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "614bf067ee77c40a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfucvcdip2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfucvcdip2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2f3ba48ad8fc",
-   "created_at": "2026-11-03T12:40:54Z"
-  },
-  {
-   "id": "3f33c75fe44e",
-   "ts": "2026-11-03T12:25:19Z",
-   "headline": "Iran's supreme leader warns foreign forces in the Persian Gulf that they belong only at the bottom of its waters",
-   "detail": "Iran's supreme leader said in a statement that outside powers acting from thousands of kilometres away in the Gulf have no place there, as the US and Iran weigh Qatar's mediation proposals. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "8db6a8cfadd37674"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfthl3j5w2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfthl3j5w2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d496c3ff6cb2",
-   "created_at": "2026-11-03T12:25:51Z"
-  },
-  {
-   "id": "87fa6ccdeb7d",
-   "ts": "2026-11-03T12:17:47Z",
-   "headline": "Qatari mediators expect US and Iranian responses to their new proposal within 36 hours",
-   "detail": "An official briefed on the talks told Reuters that Qatar's mediators expect feedback from both Washington and Tehran within 36 hours on a new proposal intended to move the talks forward.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "052f16bc58d1f98b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzft23rwuf2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzft23rwuf2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b4ae9cc91ca0",
-   "created_at": "2026-11-03T12:20:58Z"
-  },
-  {
-   "id": "35a3c9f20b62",
-   "ts": "2026-11-03T12:15:26Z",
-   "headline": "Iran's president says the supreme leader has authorised talks on issues previously treated as non-negotiable",
-   "detail": "Iran's president made the statement on Tuesday as Iran and the US consider the mediators' latest proposals. The report did not say which issues are covered or describe any market reaction.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "75d24851b9083c74"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfsvvzj532g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfsvvzj532g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a96863d8d992",
-   "created_at": "2026-11-03T12:15:54Z"
   }
  ]
 }
