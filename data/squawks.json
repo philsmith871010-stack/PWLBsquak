@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T22:25:43Z",
+ "generated_at": "2026-11-05T22:45:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d779d1046021",
+   "ts": "2026-11-05T22:45:11Z",
+   "headline": "Iran says its nuclear proposal to the US will be discussed only once Washington meets Tehran's seven demands",
+   "detail": "A senior Iranian official told Reuters on Thursday that the proposal went to the United States via Qatar. The official said talks on it depend on the US first meeting Iran's seven demands.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "88d50a7dc196ee5f"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzlwztemfl2q",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzlwztemfl2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "afbd93d3a080",
+   "created_at": "2026-11-05T22:45:46Z"
+  },
   {
    "id": "faf74b8855e3",
    "ts": "2026-11-05T22:21:38Z",
@@ -5730,39 +5751,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhoggemn42d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhoggemn42d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "34f7df80668e",
-   "created_at": "2026-11-04T06:20:54Z"
-  },
-  {
-   "id": "5a8ea3d3c031",
-   "ts": "2026-11-04T05:01:04Z",
-   "headline": "India's October services PMI is revised down to 55.8 from a 56.2 flash; composite PMI falls to 56.2",
-   "detail": "The final HSBC/S&P Global services PMI for India came in at 55.8 for October, below the flash reading of 56.2. The composite PMI fell to 56.2 from 56.7 the previous month.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e392c1bf35f9c892",
-    "375f5855fbc50751",
-    "fa25c357773c4459"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhl44wwlu24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhl44wwlu24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhl4cvwno22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhl4cvwno22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhl4ggudp2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhl4ggudp2a"
     }
    ],
    "model": "opus",
