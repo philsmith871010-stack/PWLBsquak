@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T13:31:00Z",
+ "generated_at": "2026-11-05T13:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d49ff8e1a501",
+   "ts": "2026-11-05T13:31:17Z",
+   "headline": "US Q3 productivity rises 3.6%, beating the 2.7% forecast, while unit labour costs fall 0.7% against a 0.4% rise expected",
+   "detail": "Preliminary Q3 figures show US productivity at 3.6%, up from 1.4% previously, and unit labour costs at -0.7%, down from 1.2%. Treasury yields were reported as holding steady after the data, with the 10-year up 1.04bp at 4.902% and the 2-year up 3.31bp at 4.614%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "35148a4c692af354",
+    "15b7f4171f4ec7ad",
+    "c1e158fac60b0a56",
+    "9278f837deccccac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzky3eifxa2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzky3eifxa2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzky3hzxmm2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzky3hzxmm2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzky3lwxj22a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzky3lwxj22a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkyct7ser2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkyct7ser2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d6beac219524",
+   "created_at": "2026-11-05T13:35:43Z"
+  },
   {
    "id": "26c4d133ad60",
    "ts": "2026-11-05T13:30:42Z",
@@ -5801,27 +5840,6 @@
    "model": "opus",
    "run_id": "e675eff542c9",
    "created_at": "2026-11-03T14:25:49Z"
-  },
-  {
-   "id": "84f1d3fde861",
-   "ts": "2026-11-03T14:09:41Z",
-   "headline": "Russian crude exports climb to 3.65m b/d as attacks on its refineries resume",
-   "detail": "A market news account reports that Russia's crude exports have risen to 3.65 million barrels a day amid renewed attacks on Russian refineries. No price reaction was reported.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "b37a8cd298d90c81"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfzc6p4u42g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfzc6p4u42g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9523a27c395b",
-   "created_at": "2026-11-03T14:10:55Z"
   }
  ]
 }
