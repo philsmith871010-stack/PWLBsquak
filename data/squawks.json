@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T09:55:40Z",
+ "generated_at": "2026-11-05T10:01:07Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ae26bb434cbe",
+   "ts": "2026-11-05T10:00:40Z",
+   "headline": "Eurozone producer prices rise 2.5% m/m, matching forecast, after a 1.9% increase",
+   "detail": "Eurozone PPI rose 2.5% month on month, in line with the 2.5% forecast and up from 1.9% previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ce78498a063fe7d8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkmcr7drx2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkmcr7drx2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c0330cf57c52",
+   "created_at": "2026-11-05T10:01:07Z"
+  },
   {
    "id": "fa3d9b013e0a",
    "ts": "2026-11-05T09:53:58Z",
@@ -5759,33 +5780,6 @@
    "model": "opus",
    "run_id": "2f35ab1b3751",
    "created_at": "2026-11-03T09:20:54Z"
-  },
-  {
-   "id": "d6594fc45e8a",
-   "ts": "2026-11-03T09:13:14Z",
-   "headline": "ECB's Kocher says it is crucial to stop inflation becoming entrenched",
-   "detail": "ECB Governing Council member Martin Kocher said on Tuesday that the ECB must make sure inflation does not become entrenched.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0f8294d96422a483",
-    "cfeb2c8d2908f533"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfiq43sdd2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfiq43sdd2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfiqwrito2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfiqwrito2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6fd4503305a3",
-   "created_at": "2026-11-03T09:15:53Z"
   }
  ]
 }
