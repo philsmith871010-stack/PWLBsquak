@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T15:45:56Z",
+ "generated_at": "2026-11-05T15:50:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b68140f1b8d8",
+   "ts": "2026-11-05T15:48:18Z",
+   "headline": "ECB's Lagarde says energy shock and AI pull in opposite directions and tools are still needed to stop inflation running away",
+   "detail": "ECB President Lagarde said the current situation is complicated by the energy shock and AI pulling in opposite directions, and that separating supply-driven from demand-driven shocks is very difficult. She said it is still necessary to apply tools to prevent inflation from running away.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d2fc44ec47550ff1",
+    "cce1dbcbcf9c43a0",
+    "2ce501ef219dfdac",
+    "39b173deae8c46d4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl7qffmbx2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl7qffmbx2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl7rfrcx72y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl7rfrcx72y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl7tdcnyk2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl7tdcnyk2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl7uuwqqz2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl7uuwqqz2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2fdc1bd57a50",
+   "created_at": "2026-11-05T15:50:54Z"
+  },
   {
    "id": "33b1f4cfe678",
    "ts": "2026-11-05T15:45:14Z",
@@ -5897,27 +5936,6 @@
    "model": "opus",
    "run_id": "9e24cbfa3031",
    "created_at": "2026-11-03T17:31:07Z"
-  },
-  {
-   "id": "05336736aff2",
-   "ts": "2026-11-03T16:31:19Z",
-   "headline": "Resolution Foundation says Budget headroom fell from £24bn to £15bn as energy prices top the OBR's central forecast",
-   "detail": "The Resolution Foundation says oil and gas prices have gone above the OBR's central forecast since its forecast window closed in mid-August, and are nearer its severe scenario. It says gilt yields are still in line with the OBR's central forecast.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "ac50338a71e0f4df"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mzgb7hati22o",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mzgb7hati22o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "022275254996",
-   "created_at": "2026-11-03T16:35:46Z"
   }
  ]
 }
