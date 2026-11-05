@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T10:01:07Z",
+ "generated_at": "2026-11-05T10:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "231d5dbeca1f",
+   "ts": "2026-11-05T10:01:38Z",
+   "headline": "Kremlin says Russian diesel will find buyers as tankers change course, declining to discuss commercial matters",
+   "detail": "The Kremlin said Russian diesel will find buyers when asked about tankers carrying it changing course, and said it could not discuss commercial issues. The remarks follow reports that the US diesel deal with Russia is faltering.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "0a18f574c5e86798"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkmeihxq62f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkmeihxq62f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8fcf5cff0dc3",
+   "created_at": "2026-11-05T10:05:41Z"
+  },
+  {
+   "id": "5dd9bfa487f5",
+   "ts": "2026-11-05T10:01:08Z",
+   "headline": "Eurozone producer prices rise 11.1% y/y in September, above the 10.6% forecast, up from 8.2%",
+   "detail": "Eurozone PPI for September rose 11.1% year on year, against a forecast of 10.6% and 8.2% previously. The monthly rise was 2.5%, in line with forecasts.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0eacb0b0e0078ec2",
+    "0a6b82b6b256e5e4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkmdlyirx2z",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkmdlyirx2z"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkmfgrzpy2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkmfgrzpy2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8fcf5cff0dc3",
+   "created_at": "2026-11-05T10:05:41Z"
+  },
   {
    "id": "ae26bb434cbe",
    "ts": "2026-11-05T10:00:40Z",
@@ -5732,54 +5780,6 @@
    "model": "opus",
    "run_id": "7f1012113f1d",
    "created_at": "2026-11-03T09:36:01Z"
-  },
-  {
-   "id": "b45205bd5523",
-   "ts": "2026-11-03T09:21:34Z",
-   "headline": "Iran's Gharibabadi says Tehran would respond if a nuclear weapon were used against it",
-   "detail": "Iranian official Gharibabadi told ISNA that Iran's hands would not be tied if it were the target of a nuclear weapon. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "abce326a6b310468",
-    "b86ddfd2015abf3b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfj6zfpgf2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfj6zfpgf2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfj752e4p24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfj752e4p24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dc35239fe982",
-   "created_at": "2026-11-03T09:25:48Z"
-  },
-  {
-   "id": "0c02d9503294",
-   "ts": "2026-11-03T09:16:51Z",
-   "headline": "Iran says it would regard any action it takes as legitimate self-defence",
-   "detail": "Iran says any action it takes would be legitimate self-defence. The statement comes as the US and Iran review mediators' proposals after US strikes on Qeshm Island. The report does not name the official who made it.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1441db5f37475cec"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzfiwlgsmu2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzfiwlgsmu2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2f35ab1b3751",
-   "created_at": "2026-11-03T09:20:54Z"
   }
  ]
 }
