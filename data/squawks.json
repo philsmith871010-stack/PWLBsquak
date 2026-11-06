@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T18:15:47Z",
+ "generated_at": "2026-11-06T18:25:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c55b4b9209f1",
+   "ts": "2026-11-06T18:23:23Z",
+   "headline": "Fed's Daly says policy may be anywhere from slightly restrictive to neutral and services inflation is not easing as expected",
+   "detail": "San Francisco Fed President Daly said on Friday that US rates could sit between slightly restrictive and neutral. She added that services inflation is not falling in the way policymakers would expect.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "22298ad3782717e7",
+    "daf1fe3151ea7a52"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznysfkbej2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznysfkbej2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznyumcy2z2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznyumcy2z2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a91c5380f99a",
+   "created_at": "2026-11-06T18:25:40Z"
+  },
   {
    "id": "cf094e3956fc",
    "ts": "2026-11-06T18:15:16Z",
@@ -6155,27 +6182,6 @@
    "model": "opus",
    "run_id": "911a81ad56ec",
    "created_at": "2026-11-05T07:05:40Z"
-  },
-  {
-   "id": "6c899824735e",
-   "ts": "2026-11-05T07:00:48Z",
-   "headline": "German industrial orders rise 4.4% m/m, just short of the 4.5% forecast, after a 10.6% fall",
-   "detail": "German industrial orders rose 4.4% month on month, against a forecast of 4.5%. The previous reading was a fall of 10.6%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c89c1833440f8f82"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkcb5prx62p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkcb5prx62p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2dabf9acd6b3",
-   "created_at": "2026-11-05T07:01:09Z"
   }
  ]
 }
