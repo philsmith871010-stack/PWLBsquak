@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T15:45:50Z",
+ "generated_at": "2026-11-06T15:50:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "afc96a05e848",
+   "ts": "2026-11-06T15:49:43Z",
+   "headline": "Polish foreign minister Sikorski says no deal to end the war can be reached without Ukraine and Europe",
+   "detail": "Poland's foreign minister Radoslaw Sikorski said on Friday that an agreement on the war in Ukraine cannot be made over the heads of Ukraine and Europe. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fc6bad9eae2f7669"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqbtadhm22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqbtadhm22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7c81c2eb3640",
+   "created_at": "2026-11-06T15:50:50Z"
+  },
   {
    "id": "79c6b3b5ed98",
    "ts": "2026-11-06T15:42:55Z",
@@ -6209,27 +6230,6 @@
    "model": "opus",
    "run_id": "d47a0464ab6d",
    "created_at": "2026-11-04T17:55:41Z"
-  },
-  {
-   "id": "faa9183f2dfc",
-   "ts": "2026-11-04T16:18:17Z",
-   "headline": "OBR's David Miles names fiscal drag as one of three main causes of near-stagnant UK household income growth this decade",
-   "detail": "David Miles of the Office for Budget Responsibility said frozen income tax thresholds, which pull more people into higher tax bands, are one of three main reasons that growth in UK households' disposable income is close to stagnant in the current decade, City A.M. reports.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "2e75221df4e696bd"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mzivqda62nf2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mzivqda62nf2"
-    }
-   ],
-   "model": "opus",
-   "run_id": "431c5a830dc5",
-   "created_at": "2026-11-04T17:45:53Z"
   }
  ]
 }
