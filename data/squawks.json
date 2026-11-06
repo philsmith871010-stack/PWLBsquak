@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T19:01:10Z",
+ "generated_at": "2026-11-06T19:20:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "efd2a452bfd9",
+   "ts": "2026-11-06T19:20:31Z",
+   "headline": "Zelenskiy says intelligence points to planned Russian strikes on energy sites, Dnipro bridges and infrastructure",
+   "detail": "Ukraine's President Zelenskiy said intelligence shows Russian forces are preparing new strikes on energy targets, bridges over the Dnipro river and other infrastructure. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "35d927ab077cb704"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzo42rvmjl2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzo42rvmjl2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f4590834e3f5",
+   "created_at": "2026-11-06T19:20:51Z"
+  },
   {
    "id": "004009602666",
    "ts": "2026-11-06T18:55:43Z",
@@ -6102,27 +6123,6 @@
      "author": "iankmsmith.ft.com",
      "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3mzke3v5vcs2p",
      "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3mzke3v5vcs2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8b5d1a40c39c",
-   "created_at": "2026-11-05T07:35:41Z"
-  },
-  {
-   "id": "22521a6a27bc",
-   "ts": "2026-11-05T07:32:17Z",
-   "headline": "RBA Deputy Governor Hauser says inflation is too high on every measure",
-   "detail": "Reserve Bank of Australia Deputy Governor Andrew Hauser said inflation is too high whichever measure is used. The remark follows his earlier comments on the board's last meeting.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "20ceb157a6baa08a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkdzgxoky2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkdzgxoky2d"
     }
    ],
    "model": "opus",
