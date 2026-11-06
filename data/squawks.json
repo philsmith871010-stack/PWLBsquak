@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T20:05:39Z",
+ "generated_at": "2026-11-06T22:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "29af8af74b3c",
+   "ts": "2026-11-06T22:01:56Z",
+   "headline": "Early Tasnim reports say two missiles struck Iran's Qeshm Island; no official confirmation yet",
+   "detail": "Iran's semi-official Tasnim news agency says initial reports point to two missiles hitting Qeshm Island, but officials have not confirmed this. The reports do not say who fired the missiles, and no market reaction has been reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2947254bec250169"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzof3fzmue2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzof3fzmue2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e03c9f356394",
+   "created_at": "2026-11-06T22:05:40Z"
+  },
   {
    "id": "e3c7febc2060",
    "ts": "2026-11-06T20:01:09Z",
@@ -6119,33 +6140,6 @@
    "model": "opus",
    "run_id": "fb3adb258577",
    "created_at": "2026-11-05T08:05:43Z"
-  },
-  {
-   "id": "fe7558390315",
-   "ts": "2026-11-05T08:00:54Z",
-   "headline": "Swiss unemployment rate holds at 3.1% seasonally adjusted in October, in line with forecast",
-   "detail": "The seasonally adjusted Swiss unemployment rate was 3.1%, matching both the forecast and the previous reading. The unadjusted rate was unchanged at 3.0%, also in line with forecast.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "460f9795d59dcdb3",
-    "7d1e5c4d49d4d5d0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkfmmf2gc2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkfmmf2gc2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkfmph7kx2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkfmph7kx2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d556f3d99319",
-   "created_at": "2026-11-05T08:01:16Z"
   }
  ]
 }
