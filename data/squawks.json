@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T14:50:48Z",
+ "generated_at": "2026-11-06T14:55:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "142a870f93fc",
+   "ts": "2026-11-06T14:52:34Z",
+   "headline": "Fed's Musalem says clear Fed communication helps policy pass through to the economy more smoothly",
+   "detail": "St Louis Fed President Musalem said that good communication from the Fed leads to smoother transmission of monetary policy. The remark was part of his comments on Friday.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "275a5447861273b3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznn3mwdmu26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznn3mwdmu26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b221a984d0ba",
+   "created_at": "2026-11-06T14:55:40Z"
+  },
   {
    "id": "575f7ad77d23",
    "ts": "2026-11-06T14:48:23Z",
@@ -6167,27 +6188,6 @@
    "model": "opus",
    "run_id": "5027e8db922c",
    "created_at": "2026-11-04T16:35:42Z"
-  },
-  {
-   "id": "f8c517c53a23",
-   "ts": "2026-11-04T16:29:17Z",
-   "headline": "UK 10-year gilt yield drops 12bp to 5.143%, its lowest since 4 September",
-   "detail": "The 10-year gilt yield was reported down 12bp at 5.143%, its lowest level since 4 September. This extends the earlier fall that took it 5bp lower to 5.21%.",
-   "category": "global_rates",
-   "importance": 3,
-   "source_event_ids": [
-    "e92b8b02670280b2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzirkqocdv2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzirkqocdv2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5f116efbf7ef",
-   "created_at": "2026-11-04T16:31:05Z"
   }
  ]
 }
