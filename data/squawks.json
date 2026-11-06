@@ -1,8 +1,89 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T15:55:39Z",
+ "generated_at": "2026-11-06T16:01:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "53948b27c12d",
+   "ts": "2026-11-06T16:00:05Z",
+   "headline": "Iranian negotiators review proposals to limit Tehran's nuclear programme, Times of Israel reports",
+   "detail": "The Times of Israel, citing a US official and a diplomat, reported that Iranian negotiators are reviewing proposals to curb the nuclear programme, an issue Tehran had long refused to discuss.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6fd8b6a2e8e068c1",
+    "cd458337c1d66060"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznquepq3r2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznquepq3r2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqviso3h22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqviso3h22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d812ad21d086",
+   "created_at": "2026-11-06T16:01:08Z"
+  },
+  {
+   "id": "2db2d2470c52",
+   "ts": "2026-11-06T15:57:17Z",
+   "headline": "France has sold 3.6 million barrels of diesel from its strategic reserves so far, energy ministry says",
+   "detail": "The French energy ministry said 3.6 million barrels of diesel have been released from the country's strategic reserves to date.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "cf55816c23febe75"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqpewumc2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqpewumc2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d812ad21d086",
+   "created_at": "2026-11-06T16:01:08Z"
+  },
+  {
+   "id": "60378d6d03a8",
+   "ts": "2026-11-06T15:56:04Z",
+   "headline": "IMF's Georgieva flags concern over large, rising global imbalances and expects AI-related market volatility to persist",
+   "detail": "IMF Managing Director Kristalina Georgieva said widening global imbalances have often come with fragile growth and have sometimes preceded financial crises. She also said market volatility linked to AI is likely to continue.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "688a55831253eb32",
+    "0ce94f4fc6dd70fa",
+    "9a81089ae6ae7c49"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqn6u3ik24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqn6u3ik24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqoga3jo22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqoga3jo22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqqc5fyx2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqqc5fyx2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d812ad21d086",
+   "created_at": "2026-11-06T16:01:08Z"
+  },
   {
    "id": "1368e3586610",
    "ts": "2026-11-06T15:53:32Z",
@@ -6179,81 +6260,6 @@
    "model": "opus",
    "run_id": "8fb36b56bb92",
    "created_at": "2026-11-04T18:10:51Z"
-  },
-  {
-   "id": "49386c2b10f7",
-   "ts": "2026-11-04T18:06:18Z",
-   "headline": "China's Xi says the Gulf should not become an arena for great-power rivalry as Beijing steps up its Iran war diplomacy",
-   "detail": "According to Semafor, Chinese President Xi made the remarks as China increases its diplomatic efforts in the Gulf over the Iran war.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "200eb85317ccf8ac"
-   ],
-   "sources": [
-    {
-     "author": "semafor.com",
-     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mziwy7twd725",
-     "url": "https://bsky.app/profile/semafor.com/post/3mziwy7twd725"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8fb36b56bb92",
-   "created_at": "2026-11-04T18:10:51Z"
-  },
-  {
-   "id": "7df7c709d2c9",
-   "ts": "2026-11-04T18:02:27Z",
-   "headline": "US Treasury sanctions 4 India-based individuals and 9 companies for supporting Iran's shadow fleet",
-   "detail": "The US Treasury says the 4 individuals and 9 companies, all based in India, are being sanctioned for supporting Iran's shadow fleet. It is part of the Iran sanctions action announced earlier today, which also included a warning that falsely flagged vessels have no valid protection or insurance.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d32ca036e838ccb8",
-    "dc0a859110487926"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziwrdzpas2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziwrdzpas2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziwpjsirf2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziwpjsirf2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5b7012137bab",
-   "created_at": "2026-11-04T18:05:42Z"
-  },
-  {
-   "id": "cb217871a935",
-   "ts": "2026-11-04T18:00:54Z",
-   "headline": "US Treasury's OFAC warns industry about vessels that may be falsely flagged and names a Turkey-based firm in Iran sanctions",
-   "detail": "As part of its latest Iran-related sanctions, the US Treasury designated Turkey-based Fugo Ground Services for supporting Iran's aviation sector. Its Office of Foreign Assets Control also issued a new alert to industry on the risks of dealing with vessels that may be falsely flagged.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "fc0a55876f23604e",
-    "82e2fcca7c8ade07"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziwoezbw32a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziwoezbw32a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziwol3twh2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziwol3twh2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fcedf61a9df8",
-   "created_at": "2026-11-04T18:01:12Z"
   }
  ]
 }
