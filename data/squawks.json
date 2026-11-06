@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T15:50:50Z",
+ "generated_at": "2026-11-06T15:55:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1368e3586610",
+   "ts": "2026-11-06T15:53:32Z",
+   "headline": "IMF's Georgieva says central banks must look through uncertainty and weigh any slowdown in AI-driven growth in the inflation fight",
+   "detail": "The IMF Managing Director said the AI investment boom and high valuations are affecting markets worldwide. She added that if the growth boost from AI slowed, central banks would need to factor that in as they decide their next steps against inflation.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "56aff12db6635b20",
+    "3157d196edab6cc8",
+    "13c91ef66fc9b5d0",
+    "3d8f96d9f63acaca",
+    "ba22f97b11d3eefe"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqinxstj2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqinxstj2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqjya5bj2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqjya5bj2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqkvla4j2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqkvla4j2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznql7s33t26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznql7s33t26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqlk246r2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqlk246r2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6c78df33a8b0",
+   "created_at": "2026-11-06T15:55:39Z"
+  },
   {
    "id": "afc96a05e848",
    "ts": "2026-11-06T15:49:43Z",
@@ -6209,27 +6254,6 @@
    "model": "opus",
    "run_id": "fcedf61a9df8",
    "created_at": "2026-11-04T18:01:12Z"
-  },
-  {
-   "id": "ca86a4373fe1",
-   "ts": "2026-11-04T17:52:18Z",
-   "headline": "Brent crude slides 10% to near $93 a barrel, its lowest in two months",
-   "detail": "Brent crude is reported down 10% at close to $93 a barrel, its lowest level in two months, as the oil sell-off extends through the session.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "438076e5282e9788"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziw76psog25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziw76psog25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d47a0464ab6d",
-   "created_at": "2026-11-04T17:55:41Z"
   }
  ]
 }
