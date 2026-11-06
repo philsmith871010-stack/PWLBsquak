@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T13:15:46Z",
+ "generated_at": "2026-11-06T13:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2d440e5fb951",
+   "ts": "2026-11-06T13:21:25Z",
+   "headline": "UK PM Burnham rules out crude spending cuts and says he will not chase numbers",
+   "detail": "Prime Minister Burnham said the government would not pursue crude spending cuts or chase numbers. He spoke after earlier saying he was ready to take difficult decisions on benefits.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "d456f533ea42479e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznhyngmik2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznhyngmik2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9351c6a32fb4",
+   "created_at": "2026-11-06T13:25:42Z"
+  },
   {
    "id": "6790bc01e26c",
    "ts": "2026-11-06T13:12:46Z",
@@ -6036,39 +6057,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzijjhymny2g",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzijjhymny2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2ac14b8a835d",
-   "created_at": "2026-11-04T14:05:50Z"
-  },
-  {
-   "id": "2be2af0aa9e1",
-   "ts": "2026-11-04T14:03:25Z",
-   "headline": "Houthis say they fired a ballistic missile at Riyadh's King Khalid airport; Saudi Arabia has not confirmed",
-   "detail": "A Houthi spokesperson in Yemen says the group launched a ballistic missile at King Khalid International Airport in Riyadh and urges international airlines not to fly over Saudi airspace. There is no Saudi confirmation.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "21992d4a1e04a4bb",
-    "4bb7a13f177e8979",
-    "2634d0c8872b151d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzijfw6mgc2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzijfw6mgc2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzijgtkf6c25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzijgtkf6c25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzijgxnqlr2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzijgxnqlr2y"
     }
    ],
    "model": "opus",
