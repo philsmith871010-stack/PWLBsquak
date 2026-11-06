@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T12:45:52Z",
+ "generated_at": "2026-11-06T12:50:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2f060c3781ba",
+   "ts": "2026-11-06T12:49:30Z",
+   "headline": "BoE's Pill says nothing is baked in for rates next year and Bank Rate could hold or even fall if growth stalls",
+   "detail": "Bank of England Chief Economist Huw Pill said the outlook becomes more uncertain from the spring and that Bank Rate could stay on hold or fall if growth stalls next year. He named the squeeze on company margins, and how firms respond to it, as the key factor.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "d4117abb3431e7d4",
+    "f624f40318a8c6a8",
+    "1ed6502fed4fd265"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzng5uswdo2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzng5uswdo2e"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzng7l2uai2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzng7l2uai2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzngb4qo662e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzngb4qo662e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "885174f1d41e",
+   "created_at": "2026-11-06T12:50:47Z"
+  },
   {
    "id": "d98b557a23a3",
    "ts": "2026-11-06T12:41:37Z",
@@ -6023,27 +6056,6 @@
    "model": "opus",
    "run_id": "551e5190b1e2",
    "created_at": "2026-11-04T13:40:56Z"
-  },
-  {
-   "id": "bd39cea1dbb8",
-   "ts": "2026-11-04T13:31:54Z",
-   "headline": "US trade deficit narrows to $105bn in September, smaller than the $107.9bn forecast",
-   "detail": "US data put the September trade balance at -$105bn, against a forecast of -$107.9bn. The previous month's figure was revised to -$105.7bn from -$105.6bn.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "d0c772424f1241ad"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzihnkoh5r2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzihnkoh5r2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0c4c222846ec",
-   "created_at": "2026-11-04T13:35:45Z"
   }
  ]
 }
