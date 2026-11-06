@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T12:25:42Z",
+ "generated_at": "2026-11-06T12:40:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "23c200f7a39c",
+   "ts": "2026-11-06T12:36:37Z",
+   "headline": "US and Iran move closer to a possible deal to end the war, Bloomberg reports, with Tehran open to nuclear topics once ruled out",
+   "detail": "Bloomberg reports that the US and Iran are nearing a possible agreement to end the war. It says Tehran is willing to discuss nuclear issues it had previously treated as off-limits.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "15cf55ebede39464"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznfikbyd52r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznfikbyd52r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f5d50dcab32a",
+   "created_at": "2026-11-06T12:40:45Z"
+  },
   {
    "id": "45a78e0fb49c",
    "ts": "2026-11-06T12:20:55Z",
@@ -6011,27 +6032,6 @@
    "model": "opus",
    "run_id": "596d40b848ac",
    "created_at": "2026-11-04T13:20:54Z"
-  },
-  {
-   "id": "de8d54731bb2",
-   "ts": "2026-11-04T13:09:58Z",
-   "headline": "UK prime minister's spokesperson says de-escalation in the Middle East is the priority",
-   "detail": "The prime minister's spokesperson said the government's priority is de-escalation in the Middle East. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c81b93681c9267cf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziggdejt22b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziggdejt22b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a20664f4a690",
-   "created_at": "2026-11-04T13:10:53Z"
   }
  ]
 }
