@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T18:50:48Z",
+ "generated_at": "2026-11-06T19:01:10Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "004009602666",
+   "ts": "2026-11-06T18:55:43Z",
+   "headline": "USTR Greer says China must carry out its agricultural and rare earths commitments",
+   "detail": "US Trade Representative Greer said China needs to implement its pledges on agriculture and rare earths. This follows earlier US calls for Beijing to meet the terms of the Busan trade truce.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1dfa0978baf6358b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzo2ogsvxv2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzo2ogsvxv2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "837b04cc032d",
+   "created_at": "2026-11-06T19:01:10Z"
+  },
   {
    "id": "8e4b665e778f",
    "ts": "2026-11-06T18:50:13Z",
@@ -6107,33 +6128,6 @@
    "model": "opus",
    "run_id": "8b5d1a40c39c",
    "created_at": "2026-11-05T07:35:41Z"
-  },
-  {
-   "id": "0e7fe82cbb15",
-   "ts": "2026-11-05T07:24:35Z",
-   "headline": "SNB chairman Schlegel says early signs point to the Swiss economy still growing",
-   "detail": "Swiss National Bank chairman Schlegel said initial indications are that the Swiss economy continues to grow, according to remarks reported by HZ.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0286e6aa60ec5eef",
-    "4015e155f1af4eff"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkdlnpee32a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkdlnpee32a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkdlqna7t2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkdlqna7t2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "687b1fa26a6c",
-   "created_at": "2026-11-05T07:25:40Z"
   }
  ]
 }
