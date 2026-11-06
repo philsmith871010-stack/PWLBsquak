@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T18:25:40Z",
+ "generated_at": "2026-11-06T18:31:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f49f73875f86",
+   "ts": "2026-11-06T18:26:29Z",
+   "headline": "White House CEA chair Phelan says the next US CPI print will show what the Fed does next",
+   "detail": "The chair of the White House Council of Economic Advisers said the next US consumer price data would need to be seen before judging the Fed's next move. He made the remarks after the October jobs report.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "af2da01bf95ac8ed"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznz263nbo2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznz263nbo2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "91cbf67f9d01",
+   "created_at": "2026-11-06T18:31:00Z"
+  },
   {
    "id": "c55b4b9209f1",
    "ts": "2026-11-06T18:23:23Z",
@@ -6137,51 +6158,6 @@
    "model": "opus",
    "run_id": "016ec4fd4c72",
    "created_at": "2026-11-05T07:20:50Z"
-  },
-  {
-   "id": "fba7a2fce01f",
-   "ts": "2026-11-05T07:04:19Z",
-   "headline": "Swedish CPIF inflation slows to 1.1% y/y in October, below the 1.4% forecast; CPI eases to 0.9%",
-   "detail": "Statistics Sweden data show CPIF inflation down from 1.5%, against a 1.4% forecast, and flat on the month against an expected 0.3% rise. Headline CPI fell to 0.9% from 1.1% (forecast 1.2%), and CPIF excluding energy slowed to 0.1% y/y from 0.5%, with a 0.2% fall on the month.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "2cf373921f47254c",
-    "83208dbce4200252",
-    "2207a905ee5e3c7e",
-    "c2032dd5c95af6f4",
-    "ac65a45446dda74b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkch56i2b2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkch56i2b2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkchbnr7m2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkchbnr7m2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkchftadm25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkchftadm25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkchjjczd2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkchjjczd2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkchmy2xm2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkchmy2xm2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "911a81ad56ec",
-   "created_at": "2026-11-05T07:05:40Z"
   }
  ]
 }
