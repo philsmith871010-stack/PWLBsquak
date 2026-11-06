@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T13:55:41Z",
+ "generated_at": "2026-11-06T14:15:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8d22f6661098",
+   "ts": "2026-11-06T14:14:17Z",
+   "headline": "ECB considers reviewing bank lending to data centres",
+   "detail": "The ECB is weighing a review of bank loans to data centres, according to a market news post on Friday afternoon. No timing or scope was given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "620f8b4d60eee4de"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznkx6i7qw2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznkx6i7qw2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a52f690e1a87",
+   "created_at": "2026-11-06T14:15:49Z"
+  },
   {
    "id": "148812609910",
    "ts": "2026-11-06T13:54:24Z",
@@ -6095,45 +6116,6 @@
    "model": "opus",
    "run_id": "246a9811feb3",
    "created_at": "2026-11-04T15:35:39Z"
-  },
-  {
-   "id": "2d1b3e5c30de",
-   "ts": "2026-11-04T15:01:06Z",
-   "headline": "US ISM services PMI eases to 54.5 in October, just below the 54.8 forecast; prices paid falls to 73",
-   "detail": "The ISM services index came in at 54.5, down from 54.9 and below the 54.8 forecast. Prices paid fell to 73 from 74.0 (74.6 forecast), new orders dropped to 55.9 from 59.8 (58.5 forecast) and employment rose to 51.4 from 50.1 (50 forecast).",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "4f01311f41ec0bc4",
-    "af781610171abfb7",
-    "b0e2a0e5f52dcb81",
-    "346db3d54a4021a4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzimn2diht2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzimn2diht2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzimmudokn2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzimmudokn2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzimmuwgkb22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzimmuwgkb22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzimmztjwl2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzimmztjwl2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "71ba64f3fa5e",
-   "created_at": "2026-11-04T15:01:20Z"
   }
  ]
 }
