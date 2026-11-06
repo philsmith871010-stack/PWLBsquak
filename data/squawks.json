@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T13:35:41Z",
+ "generated_at": "2026-11-06T13:45:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f65910577317",
+   "ts": "2026-11-06T13:42:14Z",
+   "headline": "US 2-year Treasury yield rises 4bp after October payrolls beat forecasts",
+   "detail": "An economist reported the US 2-year yield up 4bp after the payrolls release came in above forecasts. The rise came as the sell-off in AI and tech stocks continued.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "dde16862924c0a15"
+   ],
+   "sources": [
+    {
+     "author": "robin-j-brooks.bsky.social",
+     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3mznj5uxeak22",
+     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3mznj5uxeak22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "372dca3413d8",
+   "created_at": "2026-11-06T13:45:47Z"
+  },
   {
    "id": "137c6b594dbb",
    "ts": "2026-11-06T13:33:04Z",
@@ -6113,45 +6134,6 @@
    "model": "opus",
    "run_id": "a0e3238d69e3",
    "created_at": "2026-11-04T14:55:46Z"
-  },
-  {
-   "id": "971fa419e4f5",
-   "ts": "2026-11-04T14:46:05Z",
-   "headline": "US final October S&P Global services PMI is revised down to 56.1 from a 57.9 flash",
-   "detail": "S&P Global's final October US services PMI came in at 56.1, against a forecast and flash reading of 57.9 and 58.8 in September. The composite PMI is 55.9, down from a 57.6 flash and 58.4 in September.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "75d104abb1a78149",
-    "f2ff44560a08c909",
-    "7ec433b809a3b533",
-    "a2fbf136aa114d08"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzils74ozx2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzils74ozx2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzilsa5ell2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzilsa5ell2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzilt6oxv72a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzilt6oxv72a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzilu6w2ud2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzilu6w2ud2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a63c72e49d38",
-   "created_at": "2026-11-04T14:50:58Z"
   }
  ]
 }
