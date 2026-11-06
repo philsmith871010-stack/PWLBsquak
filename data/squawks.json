@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T19:55:44Z",
+ "generated_at": "2026-11-06T20:05:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e3c7febc2060",
+   "ts": "2026-11-06T20:01:09Z",
+   "headline": "US consumer credit rises $27.84bn in September, well above the $13.8bn forecast",
+   "detail": "US consumer credit grew by $27.84bn in September, against a forecast of $13.8bn and up from $8.28bn the month before.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ce2ccc30a10624a7",
+    "2717a30b16c664e6",
+    "9acabb1f8ff7a79f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzo6dgi2tt2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzo6dgi2tt2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzo6eowwln2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzo6eowwln2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzo6fpgf7p2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzo6fpgf7p2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dea4e9db3ee2",
+   "created_at": "2026-11-06T20:05:39Z"
+  },
   {
    "id": "8759edfaef94",
    "ts": "2026-11-06T19:52:11Z",
@@ -6113,27 +6146,6 @@
    "model": "opus",
    "run_id": "d556f3d99319",
    "created_at": "2026-11-05T08:01:16Z"
-  },
-  {
-   "id": "b043f264c355",
-   "ts": "2026-11-05T07:50:07Z",
-   "headline": "China says buying more US farm goods depends on both sides putting reciprocal tariff cuts into effect",
-   "detail": "On Thursday China's Commerce Ministry said it is open to buying more US agricultural products, but only once both sides finalise and carry out reciprocal tariff cuts on $60 billion of goods each way.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "13bf7e106e3d2d9b"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzkezdaqwj2t",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzkezdaqwj2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f3daab12ded7",
-   "created_at": "2026-11-05T07:50:46Z"
   }
  ]
 }
