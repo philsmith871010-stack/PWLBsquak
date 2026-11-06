@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T10:55:39Z",
+ "generated_at": "2026-11-06T11:55:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "86632199e064",
+   "ts": "2026-11-06T11:53:22Z",
+   "headline": "Spain puts forward former Bank of Spain governor Pablo Hernández de Cos as its candidate for ECB president",
+   "detail": "Spain's deputy prime minister announced the nomination in a letter to the Eurogroup president.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b70939d5017bcc06"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznd372ybd2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznd372ybd2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "52a7692f6c90",
+   "created_at": "2026-11-06T11:55:40Z"
+  },
   {
    "id": "51ae2d188dc2",
    "ts": "2026-11-06T10:52:09Z",
@@ -6023,39 +6044,6 @@
    "model": "opus",
    "run_id": "21499a5a0728",
    "created_at": "2026-11-04T12:55:45Z"
-  },
-  {
-   "id": "3aab179aca0f",
-   "ts": "2026-11-04T12:47:29Z",
-   "headline": "ECB's Knot expects core inflation and second-round effects to pick up, says ECB may more often approach 2% from above",
-   "detail": "ECB Governing Council member Knot said core inflation and second-round effects are likely to rise and that small shocks lifting inflation will keep occurring. He said the ECB may more often have to approach its 2% target from above.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "e6e8f665182ebcd4",
-    "eb4c32cc4f0e82ae",
-    "d39a05b8208a095c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzif64ngbq2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzif64ngbq2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzifavpim62k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzifavpim62k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzifckt3op25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzifckt3op25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b6282a9ba4ed",
-   "created_at": "2026-11-04T12:50:52Z"
   }
  ]
 }
