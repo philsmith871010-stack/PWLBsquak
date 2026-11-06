@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T07:45:46Z",
+ "generated_at": "2026-11-06T07:55:38Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6a0e16274530",
+   "ts": "2026-11-06T07:53:53Z",
+   "headline": "BoE's Bailey says he does not accept that UK inflation has become endemic",
+   "detail": "Bank of England Governor Andrew Bailey said he disagrees that the UK has endemic inflation. The remark follows the Bank's first rate hike in more than three years.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "ac758b7888b7baaf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmvoxpktr2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmvoxpktr2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "068c94ccb3b3",
+   "created_at": "2026-11-06T07:55:38Z"
+  },
   {
    "id": "1e5923ef4e75",
    "ts": "2026-11-06T06:33:16Z",
@@ -5855,39 +5876,6 @@
    "model": "opus",
    "run_id": "a406db01aaa7",
    "created_at": "2026-11-04T10:25:44Z"
-  },
-  {
-   "id": "ec42dfa26927",
-   "ts": "2026-11-04T10:01:00Z",
-   "headline": "Eurozone flash October inflation rises to 4% y/y, in line with forecasts; core inflation holds at 2.5%",
-   "detail": "Eurozone flash headline CPI came in at 4% year on year, up from 3.8% and matching the 4% forecast. Core CPI was 2.5%, unchanged and in line with expectations, and prices rose 0.4% month on month, down from 0.6% and in line with the forecast.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "31a34cba4112f007",
-    "1ff2e939d8005038",
-    "093b2b6bbca74b3b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi3uggyoh2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi3uggyoh2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi3ujwqh62d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi3ujwqh62d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi3uqreyc22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi3uqreyc22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a337c21c58db",
-   "created_at": "2026-11-04T10:01:24Z"
   }
  ]
 }
