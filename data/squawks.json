@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T07:55:38Z",
+ "generated_at": "2026-11-06T08:01:20Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "34e3292023d3",
+   "ts": "2026-11-06T08:00:58Z",
+   "headline": "Swiss consumer confidence falls to -44.9, well below the -35.5 forecast",
+   "detail": "The seasonally adjusted Swiss consumer confidence index came in at -44.9, against a forecast of -35.5 and a previous reading of -34.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6545cea3c3ea2663"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmw3nkpsr24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmw3nkpsr24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "761f907c2ac7",
+   "created_at": "2026-11-06T08:01:20Z"
+  },
+  {
+   "id": "04ef0f3b4be6",
+   "ts": "2026-11-06T07:55:52Z",
+   "headline": "BoE's Bailey says another rate hike is possible if energy prices stay high",
+   "detail": "BoE Governor Andrew Bailey said a further rate rise could come if energy prices remain elevated, and that private-sector wage growth is at the upper end of the range consistent with the inflation target. In the same remarks he said the Bank is firmly on top of cyber risks and that recent hacks show the need to understand frontier AI models well.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "5ce6e6db6de7eae6",
+    "c92714120c03b8ac",
+    "4af56c57c414d123",
+    "84f7792bef14e1c5",
+    "ef022ad691db589f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmvsjegqe26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmvsjegqe26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmvtjg5w222",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmvtjg5w222"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmvx3slra2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmvx3slra2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmvzbk6wm2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmvzbk6wm2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmw25hcuj2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmw25hcuj2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "761f907c2ac7",
+   "created_at": "2026-11-06T08:01:20Z"
+  },
   {
    "id": "6a0e16274530",
    "ts": "2026-11-06T07:53:53Z",
@@ -5828,54 +5894,6 @@
    "model": "opus",
    "run_id": "0dd48611afae",
    "created_at": "2026-11-04T10:35:47Z"
-  },
-  {
-   "id": "b37654a7d919",
-   "ts": "2026-11-04T10:34:08Z",
-   "headline": "Germany's 15-year Bund auction yields 3.57%, up from 3.5%, with bid-to-cover falling to 1.3 from 2",
-   "detail": "Germany sold 15-year Bunds at an average yield of 3.57%, compared with 3.5% at the previous sale. The bid-to-cover ratio was 1.3, down from 2 last time.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "566980b2daa664f8",
-    "e4f7e78852e39107"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5pokyhs25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5pokyhs25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5przjse2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5przjse2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0dd48611afae",
-   "created_at": "2026-11-04T10:35:47Z"
-  },
-  {
-   "id": "fa69ad01e325",
-   "ts": "2026-11-04T10:22:32Z",
-   "headline": "Gilts extend gains as the 10-year yield falls 5bp to 5.21%",
-   "detail": "UK government bonds add to earlier gains on Wednesday morning, with the 10-year gilt yield down 5bp at 5.21%, according to a market report.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "e04928e302429541"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi52xacwc2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi52xacwc2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a406db01aaa7",
-   "created_at": "2026-11-04T10:25:44Z"
   }
  ]
 }
