@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T19:35:43Z",
+ "generated_at": "2026-11-06T19:45:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "effa54d16317",
+   "ts": "2026-11-06T19:42:02Z",
+   "headline": "Oil traders reportedly in talks with US over using sanctioned tankers to bring down freight costs and oil prices",
+   "detail": "A market news account reported that oil traders are discussing with the US the use of tankers under sanctions, with the aim of easing freight rates and oil prices. Separately, Brent crude futures settled 3 cents higher at $98.32 a barrel.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "b83f65d228d0f1d7",
+    "e35d656e26735aeb",
+    "33714a60b1ba5335"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzo5bapf4n2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzo5bapf4n2e"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzo5bf47d322",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzo5bf47d322"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzo5bl6pts2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzo5bl6pts2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ef9ce37f92c6",
+   "created_at": "2026-11-06T19:45:48Z"
+  },
   {
    "id": "5505f9fa391f",
    "ts": "2026-11-06T19:35:27Z",
@@ -6089,45 +6122,6 @@
    "model": "opus",
    "run_id": "f3daab12ded7",
    "created_at": "2026-11-05T07:50:46Z"
-  },
-  {
-   "id": "dfd46a9c92e5",
-   "ts": "2026-11-05T07:43:45Z",
-   "headline": "RBA Deputy Governor Hauser says consumption growth has been stronger than expected",
-   "detail": "RBA Deputy Governor Andrew Hauser said consumer spending growth has held up better than the bank anticipated. He also said the bank had not tried to steer market expectations through open-mouth operations.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6ba3a17775c46032",
-    "f98949a46e80247f",
-    "a5c872f57c03c857",
-    "b6f08c54ba3628c9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkenx56v62a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkenx56v62a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkeo7otec2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkeo7otec2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkel2oloq2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkel2oloq2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkeo3mlqw2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkeo3mlqw2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "88450f08a8f5",
-   "created_at": "2026-11-05T07:45:55Z"
   }
  ]
 }
