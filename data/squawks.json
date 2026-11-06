@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T07:40:45Z",
+ "generated_at": "2026-11-06T07:45:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1e5923ef4e75",
+   "ts": "2026-11-06T06:33:16Z",
+   "headline": "Oil falls back below $100 a barrel as the global tech sell-off deepens",
+   "detail": "City AM reports oil trading below $100 early on Friday, with the FTSE 100 expected to open sharply lower after South Korea's Kospi fell more than 5% and trading on the exchange was halted. Reuters also reports an oil slide on Friday.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "978645d8d0026519",
+    "62827b7acf3e7b30"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mzmv6qwji4d2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mzmv6qwji4d2"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzmv7dqhxf26",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzmv7dqhxf26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0ac001e177fe",
+   "created_at": "2026-11-06T07:45:46Z"
+  },
   {
    "id": "d71af0b1385c",
    "ts": "2026-11-06T07:39:45Z",
@@ -5861,27 +5888,6 @@
    "model": "opus",
    "run_id": "a337c21c58db",
    "created_at": "2026-11-04T10:01:24Z"
-  },
-  {
-   "id": "da92efcf1def",
-   "ts": "2026-11-04T09:34:38Z",
-   "headline": "NIESR expects the MPC to raise Bank Rate by 25bp to 4% at tomorrow's decision",
-   "detail": "NIESR said its Monetary Policy Dashboard shows a growing case for a change in policy, and that it expects a 25bp increase to 4% at the MPC decision on 5 November.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "b0351f02223af5c7"
-   ],
-   "sources": [
-    {
-     "author": "niesrorg.bsky.social",
-     "uri": "at://did:plc:6s7n3h2jcntzuvlw2movrget/app.bsky.feed.post/3mzi2fbzfek2y",
-     "url": "https://bsky.app/profile/niesrorg.bsky.social/post/3mzi2fbzfek2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a6712593c31c",
-   "created_at": "2026-11-04T09:35:46Z"
   }
  ]
 }
