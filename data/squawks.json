@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T16:35:41Z",
+ "generated_at": "2026-11-06T16:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3d6fe057ae00",
+   "ts": "2026-11-06T16:37:48Z",
+   "headline": "BoJ's Ueda says 2% inflation is not yet a social norm in Japan and the Bank has heard no major complaints about higher rates",
+   "detail": "BoJ Governor Ueda said wages are growing at a pace consistent with 2% inflation but it is not yet known whether that balance can last a long time. He added that real rates have not risen by as much, and that much work remains on inflation.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "37d8aa885af1a70d",
+    "6c84842d448eedd0",
+    "ff3ac0451228e7a9",
+    "cabadb2d40bfe7fd",
+    "78c1008f5df9530c",
+    "7664a3d2c5a6eb51",
+    "315af630711a66a6",
+    "61dbbb0d74e66b9a",
+    "f91510a9f24accdf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznsuyohxr2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznsuyohxr2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznsvigonv2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznsvigonv2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznswio5ne2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznswio5ne2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznswsvc552t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznswsvc552t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznsxt4v2m26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznsxt4v2m26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznszpf45w2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznszpf45w2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznszzow632q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznszzow632q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznt2dty2o2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznt2dty2o2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznt3mqbh62k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznt3mqbh62k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5f5821ce406b",
+   "created_at": "2026-11-06T16:40:50Z"
+  },
   {
    "id": "2eb0cdd53eb9",
    "ts": "2026-11-06T16:35:38Z",
@@ -6179,27 +6248,6 @@
    "model": "opus",
    "run_id": "e9d2a3ce2f3b",
    "created_at": "2026-11-04T19:55:41Z"
-  },
-  {
-   "id": "b6c31adbb1e4",
-   "ts": "2026-11-04T19:45:02Z",
-   "headline": "Brent crude futures settle 8.67% lower at $94.62 a barrel, down $8.98",
-   "detail": "Brent crude futures closed the session at $94.62 a barrel after an $8.98 fall, or 8.67%. Earlier in the day, WTI settled 8.29% lower at $88.12.",
-   "category": "energy",
-   "importance": 3,
-   "source_event_ids": [
-    "82ddfd6315748f0b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzj4irx3q322",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzj4irx3q322"
-    }
-   ],
-   "model": "opus",
-   "run_id": "422613c6bde1",
-   "created_at": "2026-11-04T19:45:51Z"
   }
  ]
 }
