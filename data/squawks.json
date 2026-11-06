@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T18:35:41Z",
+ "generated_at": "2026-11-06T18:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8e4b665e778f",
+   "ts": "2026-11-06T18:50:13Z",
+   "headline": "Italy has not yet backed either the Spanish or the Dutch candidate to succeed Lagarde as ECB president",
+   "detail": "Officials in Italian Prime Minister Meloni's office said on Friday that Rome has not yet chosen between the two candidates to replace Christine Lagarde as ECB president, Reuters reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "c4f785bc3a6dbb10"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzo2em3lg32b",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzo2em3lg32b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "708e8e5e604b",
+   "created_at": "2026-11-06T18:50:48Z"
+  },
   {
    "id": "c0d2aa11785a",
    "ts": "2026-11-06T18:31:51Z",
@@ -6108,45 +6129,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkdlqna7t2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkdlqna7t2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "687b1fa26a6c",
-   "created_at": "2026-11-05T07:25:40Z"
-  },
-  {
-   "id": "ce5d5f2a0309",
-   "ts": "2026-11-05T07:22:04Z",
-   "headline": "RBA Deputy Governor Hauser says the board had very lively debates at its last meeting and members were not cornered",
-   "detail": "Reserve Bank of Australia Deputy Governor Hauser described the board as diverse, with very lively discussion at the last meeting. He rejected the view that board members are being driven into a corner at meetings.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6354afa6eb04002d",
-    "48f80e1453130d16",
-    "d57fa869d8109e50",
-    "7fa17400519032eb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkdh6e5v325",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkdh6e5v325"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkdli4rni2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkdli4rni2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkdlkvuv325",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkdlkvuv325"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkdnbhohw2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkdnbhohw2f"
     }
    ],
    "model": "opus",
