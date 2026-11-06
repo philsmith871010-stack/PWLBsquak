@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T15:35:40Z",
+ "generated_at": "2026-11-06T15:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4e7c0a1a4a42",
+   "ts": "2026-11-06T15:40:39Z",
+   "headline": "EU foreign policy chief Kallas says the EU must be part of any Ukraine peace deal",
+   "detail": "The EU's foreign policy chief said the EU would need to be involved in any peace agreement on Ukraine. Separately, Poland's foreign minister said no settlement can be imposed on Ukraine unless it agrees and takes part.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d4b0c743df4717d1",
+    "1440b6cba934bd58"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznprmf2xl24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznprmf2xl24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznpjqtnli2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznpjqtnli2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5e768fca7855",
+   "created_at": "2026-11-06T15:40:50Z"
+  },
+  {
+   "id": "0824a7ac1c10",
+   "ts": "2026-11-06T15:39:49Z",
+   "headline": "European officials fear a US security deal with Russia could undermine NATO, FT reports",
+   "detail": "The Financial Times reports that European officials are concerned Washington could reach a security agreement with Moscow that weakens NATO and restores a Russian sphere of influence.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3569c7b61313822c"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mznpq4madz27",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mznpq4madz27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5e768fca7855",
+   "created_at": "2026-11-06T15:40:50Z"
+  },
   {
    "id": "9f219bc58b6e",
    "ts": "2026-11-06T15:34:54Z",
@@ -6170,54 +6218,6 @@
    "model": "opus",
    "run_id": "1cdc86a18532",
    "created_at": "2026-11-04T17:40:54Z"
-  },
-  {
-   "id": "cc22a350853d",
-   "ts": "2026-11-04T17:34:13Z",
-   "headline": "US Treasury announces new sanctions related to Iran",
-   "detail": "The US Treasury Department posted new Iran-related sanctions on its website. No further details were given in the report.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "52c1aceb464f88a7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziv6ufzwc24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziv6ufzwc24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "afb045212ee1",
-   "created_at": "2026-11-04T17:35:57Z"
-  },
-  {
-   "id": "4816fe243dbb",
-   "ts": "2026-11-04T17:33:22Z",
-   "headline": "House Democratic leader Jeffries says Democrats will pass a bill to stop Trump's tariffs and end the Iran war",
-   "detail": "House Democratic leader Hakeem Jeffries made the pledge after the Democrats won control of Congress in the midterms. He also said he had not heard from Trump.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a3a66bce7c503828",
-    "1e8d51df78332671"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziv5dblks24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziv5dblks24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziv3quyqw2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziv3quyqw2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "afb045212ee1",
-   "created_at": "2026-11-04T17:35:57Z"
   }
  ]
 }
