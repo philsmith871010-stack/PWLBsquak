@@ -1,8 +1,104 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T08:01:20Z",
+ "generated_at": "2026-11-06T09:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "66b0b6147dea",
+   "ts": "2026-11-06T09:36:22Z",
+   "headline": "Fed's Williams calls the US economy remarkably resilient and says it is an appropriate time to gather more information",
+   "detail": "New York Fed President Williams said growth has strengthened, the labour market is stable and solid, and the effects of tariffs are mostly behind them. He said energy is feeding through to inflation as expected, inflation expectations are well anchored and wage growth is consistent with the 2% goal.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "f68f621886008b29",
+    "0b15cc3eef833252",
+    "a487eafd05f7cb25",
+    "fb20f6ea5b93ad56",
+    "07bef12fe6dedab3",
+    "dd21155fa882addb",
+    "8e5ee83fb6c43d14",
+    "f25c4de937525405",
+    "ffa1a217e3191b4d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn3g7xl442l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn3g7xl442l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn3gznvgo2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn3gznvgo2e"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn3h4ixky26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn3h4ixky26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn3h7lcxg2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn3h7lcxg2e"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn3jgv4lk2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn3jgv4lk2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn3kahh5p2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn3kahh5p2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn3n5uni42l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn3n5uni42l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn3nxdvbp2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn3nxdvbp2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn3o2qfxl2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn3o2qfxl2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "765799722a67",
+   "created_at": "2026-11-06T09:40:50Z"
+  },
+  {
+   "id": "fcf6b7d0ec2d",
+   "ts": "2026-11-06T09:35:48Z",
+   "headline": "Kremlin says European security needs discussing in a Ukraine settlement but Europe cannot agree on its representatives",
+   "detail": "The Kremlin also praised recent meetings at the White House and said there is willingness to continue humanitarian work after the evacuation from Oleshky.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6171f14eb673a340",
+    "a98abb872c9fd4b7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn3f7u7yx2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn3f7u7yx2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn3ffbc7x24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn3ffbc7x24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "765799722a67",
+   "created_at": "2026-11-06T09:40:50Z"
+  },
   {
    "id": "34e3292023d3",
    "ts": "2026-11-06T08:00:58Z",
@@ -5822,78 +5918,6 @@
    "model": "opus",
    "run_id": "e3ff2eb4606e",
    "created_at": "2026-11-04T11:31:12Z"
-  },
-  {
-   "id": "6205bd28d4e3",
-   "ts": "2026-11-04T10:36:18Z",
-   "headline": "Khamenei calls Iran's Hormuz action a response to US aggression and says the US midterm result will not change Washington's hostility",
-   "detail": "In a message, Iran's Supreme Leader Khamenei said the US wants Iran's unconditional surrender and that any move towards submission would embolden the enemy. He said people who expect changes in the party holding power in the US to end Washington's hostility towards Iran are badly mistaken.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e363e504f80f16f5",
-    "d75a42e8eb396743",
-    "7db29e938b16271f",
-    "806dffca04943e1e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5tl6n5n2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5tl6n5n2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5x3wtuh24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5x3wtuh24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5zegb622k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5zegb622k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5zicq5h2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5zicq5h2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b931777f7745",
-   "created_at": "2026-11-04T10:40:55Z"
-  },
-  {
-   "id": "0c4bfc715978",
-   "ts": "2026-11-04T10:35:25Z",
-   "headline": "Iran's Khamenei warns that any further attacks will bring a far wider response",
-   "detail": "In a message, Iran's Supreme Leader Khamenei said Iran must become ever more powerful to achieve absolute deterrence, and warned that further attacks would draw a far wider response. Separately, an IRGC adviser told Tasnim that in a war, Iran's retaliation would not be limited to the source of the attack.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "205833a2dbeb66a2",
-    "4f56479f9e4f7900",
-    "608b64184665a04b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5rygkqo2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5rygkqo2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5pl73ds25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5pl73ds25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi5nejvvv2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi5nejvvv2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0dd48611afae",
-   "created_at": "2026-11-04T10:35:47Z"
   }
  ]
 }
