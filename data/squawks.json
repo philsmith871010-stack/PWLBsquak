@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T14:55:40Z",
+ "generated_at": "2026-11-06T15:01:12Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "26da21a98cd1",
+   "ts": "2026-11-06T15:01:04Z",
+   "headline": "US UMich sentiment rises to 51 in preliminary reading against a 48 forecast; 1-year inflation expectations ease to 4.3%",
+   "detail": "The University of Michigan preliminary sentiment index came in at 51 against a 48 forecast and 48.0 previously; current conditions were 51 (forecast 47, previous 46.7) and expectations 50.9 (forecast 49, previous 48.8). One-year inflation expectations fell to 4.3% from 4.7% (forecast 4.6%), and five-year expectations fell to 3.4% from 3.5% (forecast 3.5%).",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d21f846e89485484",
+    "ea9c4ad85abdcad8",
+    "1f31f5b989fc194a",
+    "41b6ae710272193c",
+    "8e477c63b7cecd11"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznnktoyrj22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznnktoyrj22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznnkoyobv2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznnkoyobv2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznnkpvlzt2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznnkpvlzt2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznnkphvir2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznnkphvir2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznnkwuxhy26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznnkwuxhy26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "318838c4fc3d",
+   "created_at": "2026-11-06T15:01:12Z"
+  },
   {
    "id": "142a870f93fc",
    "ts": "2026-11-06T14:52:34Z",
@@ -6162,27 +6207,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzirvtv7uv2g",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzirvtv7uv2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5027e8db922c",
-   "created_at": "2026-11-04T16:35:42Z"
-  },
-  {
-   "id": "7ef424a12062",
-   "ts": "2026-11-04T16:35:08Z",
-   "headline": "Canada says the US midterm results will not change its position in trade talks with the US",
-   "detail": "According to Reuters, a senior Canadian cabinet minister said on Wednesday that Ottawa's stance on trade talks with the US is unchanged after the midterms. He added that he expects to speak to his US counterparts soon.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d638bcf3ae007efe"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzirv765ox2d",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzirv765ox2d"
     }
    ],
    "model": "opus",
