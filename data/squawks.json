@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T06:15:46Z",
+ "generated_at": "2026-11-06T06:20:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "56d25358f00c",
+   "ts": "2026-11-06T06:06:41Z",
+   "headline": "Shanghai crude front-month futures rise 2.00% intraday to 651.20 yuan a barrel",
+   "detail": "China's Shanghai crude (SC) front-month contract rose 2.00% during the session to 651.20 yuan a barrel, according to a market commentary account.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "a4539649bcbaf69d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmppchliy24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmppchliy24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4eaeb08f57f1",
+   "created_at": "2026-11-06T06:20:48Z"
+  },
   {
    "id": "a3897166caa8",
    "ts": "2026-11-06T05:07:45Z",
@@ -5837,27 +5858,6 @@
    "model": "opus",
    "run_id": "d4d92d24ff4c",
    "created_at": "2026-11-04T09:20:57Z"
-  },
-  {
-   "id": "30ec61098e81",
-   "ts": "2026-11-04T09:01:59Z",
-   "headline": "ECB projects wage growth of 2.8% in the second quarter of 2027, slowing to 2.4% in the third quarter",
-   "detail": "The European Central Bank's latest wage projections put wage growth at 2.8% in 2Q 2027 and 2.4% in 3Q 2027.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0492994d4f39536d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhykwdhvg25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhykwdhvg25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "00104eab9c4e",
-   "created_at": "2026-11-04T09:05:41Z"
   }
  ]
 }
