@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T19:45:48Z",
+ "generated_at": "2026-11-06T19:55:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8759edfaef94",
+   "ts": "2026-11-06T19:52:11Z",
+   "headline": "Trump says the US is in talks with Iran and has been for some time",
+   "detail": "President Trump told reporters that Washington is talking to Tehran. No details of the talks or any market reaction were reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2f443a1d6e97666a",
+    "027266b801a21937",
+    "5dfc8e9e8b7169c0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzo5tfplh72t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzo5tfplh72t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzo5tjxs5q2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzo5tjxs5q2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzo5tooken2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzo5tooken2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "08ecc5c84c48",
+   "created_at": "2026-11-06T19:55:44Z"
+  },
   {
    "id": "effa54d16317",
    "ts": "2026-11-06T19:42:02Z",
@@ -6096,27 +6129,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzkezdaqwj2t",
      "url": "https://bsky.app/profile/reuters.com/post/3mzkezdaqwj2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f3daab12ded7",
-   "created_at": "2026-11-05T07:50:46Z"
-  },
-  {
-   "id": "c23dec0a8647",
-   "ts": "2026-11-05T07:45:54Z",
-   "headline": "French industrial production falls 0.5% m/m, missing the 0.3% rise forecast, after a 0.3% drop",
-   "detail": "France's industrial production fell 0.5% month on month. The forecast was for a 0.3% rise, and the previous month showed a 0.3% fall.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8aa61f5399d00099"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkerrpu3s2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkerrpu3s2y"
     }
    ],
    "model": "opus",
