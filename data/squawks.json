@@ -1,8 +1,86 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T14:40:48Z",
+ "generated_at": "2026-11-06T14:45:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fc0904882fb5",
+   "ts": "2026-11-06T14:44:59Z",
+   "headline": "White House adviser Hassett says Trump will decide on Fed Governor Cook after reading the report",
+   "detail": "Senior White House adviser Hassett also said headline inflation is being driven by energy and Iran, and that he sees no need to plan a policy change.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e275cd89cd5a6063",
+    "bbed4aeefa7d573d",
+    "7ee38ebc046e8dcf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmo3msee26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmo3msee26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmjvyy4z2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmjvyy4z2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmgtefh426",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmgtefh426"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4d48dc7ba666",
+   "created_at": "2026-11-06T14:45:52Z"
+  },
+  {
+   "id": "3c797bd85e99",
+   "ts": "2026-11-06T14:43:05Z",
+   "headline": "Fed's Musalem blames excess US inflation on energy shocks and the AI build-out; says consumption and investment are growing fast",
+   "detail": "St Louis Fed President Musalem said inflation must come back to 2% in a timely way. He said data-centre construction is adding to strong demand and that AI will bring much higher productivity.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "7f265b6034184a61",
+    "68c95a6ea53f7b2b",
+    "fb30d9275561b7f4",
+    "e53732ec199eb8a9",
+    "43a1656d8cff08dc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmi2zawx2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmi2zawx2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmkowwcr2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmkowwcr2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmkpfh7l2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmkpfh7l2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmllnvkz2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmllnvkz2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmmh3gnl2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmmh3gnl2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4d48dc7ba666",
+   "created_at": "2026-11-06T14:45:52Z"
+  },
   {
    "id": "1f3ec4747b34",
    "ts": "2026-11-06T14:39:42Z",
@@ -6104,48 +6182,6 @@
    "model": "opus",
    "run_id": "49f1ed31f1b4",
    "created_at": "2026-11-04T16:20:49Z"
-  },
-  {
-   "id": "aca6cc892668",
-   "ts": "2026-11-04T16:07:27Z",
-   "headline": "Brent and US crude futures extend their slide to more than $4 a barrel",
-   "detail": "Market reports at 16:07 GMT show Brent and US crude futures each down by more than $4 a barrel on the day. Earlier in the session the losses were above $2.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "7ec32afbf7455204"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziqdpputt2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziqdpputt2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4d88d680ff0b",
-   "created_at": "2026-11-04T16:10:47Z"
-  },
-  {
-   "id": "ed766dc68d77",
-   "ts": "2026-11-04T16:02:46Z",
-   "headline": "France's 10-year government bond yield extends its fall, down 12.5bp at 4.80%",
-   "detail": "A market newswire reports that France's 10-year government bond yield fell further, to 4.80%, a drop of 12.5bp on the day.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "04eaf120a2a65585"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziq3dfpek25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziq3dfpek25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e11afd19599b",
-   "created_at": "2026-11-04T16:05:40Z"
   }
  ]
 }
