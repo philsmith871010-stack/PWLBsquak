@@ -1,8 +1,83 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T06:10:43Z",
+ "generated_at": "2026-11-06T06:15:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a3897166caa8",
+   "ts": "2026-11-06T05:07:45Z",
+   "headline": "Qatar-led mediators step up efforts to broker an interim US-Iran deal to end the war, FT reports",
+   "detail": "The Financial Times reports that regional negotiators led by Qatar are pushing harder for an interim agreement between Washington and Tehran. It also reports that Iran is celebrating the Republicans' midterm defeat.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4ae94cdedb3cc4f7",
+    "4232c8753f1c7e65"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmmfw7f4f2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmmfw7f4f2l"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzmntrcill2w",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mzmntrcill2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5c295024e512",
+   "created_at": "2026-11-06T06:15:46Z"
+  },
+  {
+   "id": "1d62d9328534",
+   "ts": "2026-11-06T04:41:33Z",
+   "headline": "EU-China trade truce comes under threat as both sides prepare for possible escalation, SCMP reports",
+   "detail": "The South China Morning Post reports that the EU and China are each getting ready for the trade dispute to escalate, which puts their truce at risk.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5741353962f7a58b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmkx2s3oe24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmkx2s3oe24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5c295024e512",
+   "created_at": "2026-11-06T06:15:46Z"
+  },
+  {
+   "id": "1d9f9fb16fb7",
+   "ts": "2026-11-06T03:41:51Z",
+   "headline": "Brent crude futures climb more than $2 and break above $100 a barrel",
+   "detail": "Brent futures rose by more than $2 in Asian trading to go above $100 a barrel. US crude futures earlier gained $1 to $91.52 a barrel.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "3e6112d346545ffe",
+    "18ed7822451d150c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmhmctv2l25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmhmctv2l25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmgvojkzq2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmgvojkzq2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5c295024e512",
+   "created_at": "2026-11-06T06:15:46Z"
+  },
   {
    "id": "d3c205867878",
    "ts": "2026-11-06T02:44:55Z",
@@ -5783,111 +5858,6 @@
    "model": "opus",
    "run_id": "00104eab9c4e",
    "created_at": "2026-11-04T09:05:41Z"
-  },
-  {
-   "id": "9a3e359ad0a7",
-   "ts": "2026-11-04T09:01:04Z",
-   "headline": "Eurozone final October services PMI is revised down to 51.4 from 51.7; composite PMI cut to 51.7",
-   "detail": "The eurozone's final October services PMI was 51.4, below the 51.7 flash reading and forecast. The composite PMI came in at 51.7, against a flash reading and forecast of 51.9.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "d779b5151c58ecfc",
-    "96e062a416b52abc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhyj4ftj22d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhyj4ftj22d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhyjavtvs2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhyjavtvs2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "811402db7ca3",
-   "created_at": "2026-11-04T09:01:17Z"
-  },
-  {
-   "id": "10646f4f3f2e",
-   "ts": "2026-11-04T08:55:49Z",
-   "headline": "Germany's final October services PMI is revised up to 52.5 from a 51.7 flash; composite PMI rises to 53.4",
-   "detail": "Germany's final October services PMI came in at 52.5, compared with a 51.7 flash reading and forecast. The composite PMI was 53.4, up from a preliminary 52.8 and above the 52.8 forecast.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8fb23401a4caa6f9",
-    "79150131c9f15029",
-    "57dc8399b1008e34",
-    "652bdd9969fbc0d6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhy7qveks2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhy7qveks2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhy7ulkm22d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhy7ulkm22d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhyc3xvaf22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhyc3xvaf22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhyc6dpjs2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhyc6dpjs2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "811402db7ca3",
-   "created_at": "2026-11-04T09:01:17Z"
-  },
-  {
-   "id": "a8b5911fbe83",
-   "ts": "2026-11-04T08:50:52Z",
-   "headline": "France's final October services PMI is revised down to 46.2 from a 48.4 flash; composite PMI cut to 46.6",
-   "detail": "France's final October services PMI came in at 46.2, against a forecast and flash reading of 48.4. The composite PMI was 46.6, also against a forecast and preliminary reading of 48.4.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "e0d3a6bfbed9c50a",
-    "fe26dd5b9826f6df",
-    "42aeaf1c89234b00",
-    "3b6437df4861587e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhxwzpwrk2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhxwzpwrk2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhxx4f55z2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhxx4f55z2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhxyhjzc322",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhxyhjzc322"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhxyp7dut22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhxyp7dut22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1d7ee83afd67",
-   "created_at": "2026-11-04T08:55:43Z"
   }
  ]
 }
