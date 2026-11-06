@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T18:01:08Z",
+ "generated_at": "2026-11-06T18:05:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "623ab0bbc385",
+   "ts": "2026-11-06T18:03:43Z",
+   "headline": "Fed's Daly calls the October jobs report good news for US workers and says wage growth is not booming",
+   "detail": "San Francisco Fed President Mary Daly commented on the October payrolls report in remarks reported via CNBC. She described the report as positive for American workers and said wage growth is not running hot.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ef044f02467830cb",
+    "796e02baa304d926",
+    "d228a8ac51be9f8a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznxrh6ig52s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznxrh6ig52s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznxsb5d5w2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznxsb5d5w2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznxuo72i226",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznxuo72i226"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5540e435d8cd",
+   "created_at": "2026-11-06T18:05:39Z"
+  },
   {
    "id": "732896682776",
    "ts": "2026-11-06T17:57:17Z",
@@ -6149,27 +6182,6 @@
    "model": "opus",
    "run_id": "841f402b4333",
    "created_at": "2026-11-05T06:10:52Z"
-  },
-  {
-   "id": "0c794de50234",
-   "ts": "2026-11-05T02:44:09Z",
-   "headline": "Sterling edges higher above 1.3450 against the dollar ahead of today's Bank of England decision",
-   "detail": "Sterling posted modest gains in Asian trading and was holding above 1.3450 against the dollar before the Bank of England's rate announcement due later today.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "daccbc37ff5c7b0e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzjtw75vwx2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzjtw75vwx2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0bb94eaeecde",
-   "created_at": "2026-11-05T06:05:41Z"
   }
  ]
 }
