@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T17:35:45Z",
+ "generated_at": "2026-11-06T17:55:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7dd154378a47",
+   "ts": "2026-11-06T17:55:28Z",
+   "headline": "Zelenskiy says Ukraine keeps striking Russia's oil sector in response to Russian attacks on energy sites",
+   "detail": "Ukraine's President Zelenskiy said Kyiv is continuing to target Russian oil sector facilities, in retaliation for Russian strikes on Ukrainian energy infrastructure. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8bade022ab94f972"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznxcpcgvg2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznxcpcgvg2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "09a8e0e9840f",
+   "created_at": "2026-11-06T17:55:39Z"
+  },
   {
    "id": "fb40b2b1a526",
    "ts": "2026-11-06T17:32:36Z",
@@ -6149,39 +6170,6 @@
    "model": "opus",
    "run_id": "0bb94eaeecde",
    "created_at": "2026-11-05T06:05:41Z"
-  },
-  {
-   "id": "b9e6d26e7687",
-   "ts": "2026-11-05T00:28:01Z",
-   "headline": "20-year JGB yield falls 2bp to 3.64% as long-dated Japanese yields retreat after the drop in oil",
-   "detail": "Long-dated Japanese government bond yields fell after the drop in oil prices, according to the WSJ. Asia-Pacific equities opened mostly higher after the US rally, while Treasury yields and oil moved lower.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0c45afafb85ecb31",
-    "6807fd381c59609c",
-    "8498386d4fc6f32e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzjmcrfeyv22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzjmcrfeyv22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzjmhtlzrb25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzjmhtlzrb25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzjmafpnff2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzjmafpnff2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e936b4923765",
-   "created_at": "2026-11-05T06:01:08Z"
   }
  ]
 }
