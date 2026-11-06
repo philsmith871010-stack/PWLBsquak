@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T19:20:51Z",
+ "generated_at": "2026-11-06T19:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5505f9fa391f",
+   "ts": "2026-11-06T19:35:27Z",
+   "headline": "US Treasury announces new sanctions related to Iran",
+   "detail": "The US Treasury Department announced a new round of Iran-related sanctions on Friday. No details or market reaction were given in the initial report.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8fdb038c1bd3c241"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzo4vhugta2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzo4vhugta2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aac43aa52d79",
+   "created_at": "2026-11-06T19:35:43Z"
+  },
   {
    "id": "efd2a452bfd9",
    "ts": "2026-11-06T19:20:31Z",
@@ -6107,27 +6128,6 @@
    "model": "opus",
    "run_id": "88450f08a8f5",
    "created_at": "2026-11-05T07:45:55Z"
-  },
-  {
-   "id": "da2a45cb7512",
-   "ts": "2026-11-05T07:33:40Z",
-   "headline": "Oil holds on to its losses in early trading and is down almost a fifth this week",
-   "detail": "The FT reported that oil prices held their losses on Thursday morning, leaving them down almost a fifth over the week, ahead of today's Bank of England decision.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "c19095c685a6a559"
-   ],
-   "sources": [
-    {
-     "author": "iankmsmith.ft.com",
-     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3mzke3v5vcs2p",
-     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3mzke3v5vcs2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8b5d1a40c39c",
-   "created_at": "2026-11-05T07:35:41Z"
   }
  ]
 }
