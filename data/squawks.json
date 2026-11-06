@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T16:45:53Z",
+ "generated_at": "2026-11-06T16:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ae191bc9e23b",
+   "ts": "2026-11-06T16:46:21Z",
+   "headline": "BoJ's Ueda says the Bank watches other central banks closely, calls AI a positive demand shock and flags cyber risks to financial stability",
+   "detail": "The Bank of Japan Governor said other central banks' actions affect asset prices including exchange rates and interest rates, and that AI has been a positive demand shock for Japan, which may benefit from AI replacing labour given significant labour shortages. On financial stability, he named cyber risks as a concern and said the Bank has been identifying vulnerable areas, including some small banks and small firms with weak protection.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "431a42181d688c10",
+    "b0a03ee3efba97e2",
+    "99cad688684a4e73",
+    "2a36f5b8b10e8d26",
+    "d8f28d1d313ba056"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznth4dqwv2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznth4dqwv2e"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzntjcwr7626",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzntjcwr7626"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzntmpnxy62t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzntmpnxy62t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzntmzsg5n2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzntmzsg5n2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzntoten4z2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzntoten4z2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0f8cd6790cb4",
+   "created_at": "2026-11-06T16:50:48Z"
+  },
   {
    "id": "29b3a8c5b2b2",
    "ts": "2026-11-06T16:44:59Z",
@@ -6275,27 +6320,6 @@
    "model": "opus",
    "run_id": "2162bdf36077",
    "created_at": "2026-11-04T20:35:39Z"
-  },
-  {
-   "id": "450ada629fbe",
-   "ts": "2026-11-04T19:53:57Z",
-   "headline": "Trump's diesel deal with Russia is faltering as US fuel supplies hit a 20-year low, FT reports",
-   "detail": "The Financial Times reports that the Trump administration's diesel arrangement with Russia is stalling while US fuel supplies are at their lowest in 20 years.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "d649fc025e062e55"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzj4ypmnhi2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzj4ypmnhi2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e9d2a3ce2f3b",
-   "created_at": "2026-11-04T19:55:41Z"
   }
  ]
 }
