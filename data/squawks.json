@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T10:35:52Z",
+ "generated_at": "2026-11-06T10:45:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c606631ac061",
+   "ts": "2026-11-06T10:41:16Z",
+   "headline": "Iran says diplomacy with the US can only progress if Washington takes practical steps, state broadcaster reports",
+   "detail": "Iranian state broadcaster IRIB reported that Tehran wants practical steps from the US before diplomacy between the two moves forward. The report comes as mediators led by Qatar try to broker an interim US-Iran deal.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2e526ba2ccc61353"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn72bqcek2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn72bqcek2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "17049eace752",
+   "created_at": "2026-11-06T10:45:53Z"
+  },
   {
    "id": "853c08e44856",
    "ts": "2026-11-06T10:32:15Z",
@@ -6012,27 +6033,6 @@
      "author": "robin-j-brooks.bsky.social",
      "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3mzif2pghjs2r",
      "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3mzif2pghjs2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "10490dcec3ac",
-   "created_at": "2026-11-04T12:45:54Z"
-  },
-  {
-   "id": "96af980bd55e",
-   "ts": "2026-11-04T12:45:14Z",
-   "headline": "Resolution Foundation says Budget plans cut departmental capital spending in 2029-30 compared with the March forecast",
-   "detail": "The Resolution Foundation says the Budget again scaled back planned investment, leaving capital departmental spending lower in 2029-30 than in the March forecast. Defence investment is the exception.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "0523c6ed609fde25"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mzif24fh352u",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mzif24fh352u"
     }
    ],
    "model": "opus",
