@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T07:15:51Z",
+ "generated_at": "2026-11-06T07:40:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d71af0b1385c",
+   "ts": "2026-11-06T07:39:45Z",
+   "headline": "Qatar's Emir and Trump hold talks on efforts to de-escalate the Middle East conflict",
+   "detail": "Qatar's Emir and US President Trump discussed efforts to de-escalate in the Middle East, according to reports on Friday morning. Qatar is leading mediation towards an interim US-Iran deal.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "105119793bbfb7cb",
+    "55444a0f0ca43679"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmuvp34xv2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmuvp34xv2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmuwkpyex26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmuwkpyex26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "610e0d05a361",
+   "created_at": "2026-11-06T07:40:45Z"
+  },
   {
    "id": "0ece1b5f3796",
    "ts": "2026-11-06T07:10:58Z",
@@ -5850,39 +5877,6 @@
      "author": "niesrorg.bsky.social",
      "uri": "at://did:plc:6s7n3h2jcntzuvlw2movrget/app.bsky.feed.post/3mzi2fbzfek2y",
      "url": "https://bsky.app/profile/niesrorg.bsky.social/post/3mzi2fbzfek2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a6712593c31c",
-   "created_at": "2026-11-04T09:35:46Z"
-  },
-  {
-   "id": "8c68f4fbd2e6",
-   "ts": "2026-11-04T09:31:11Z",
-   "headline": "UK final October composite PMI is revised down to 52.9 from a 53.1 flash, below the 53.1 forecast",
-   "detail": "The final October composite PMI came in at 52.9, below the preliminary reading and forecast of 53.1. The services PMI was revised down to 52.8 from 53.1.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "f6286a32170e5e82",
-    "7674502f39fbeb51",
-    "5370f5a0c16f91a9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi2752lev25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi2752lev25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi27g4sy22d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi27g4sy22d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzi27bdtgo2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzi27bdtgo2f"
     }
    ],
    "model": "opus",
