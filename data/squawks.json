@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T15:05:42Z",
+ "generated_at": "2026-11-06T15:15:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cf7322848b17",
+   "ts": "2026-11-06T15:13:29Z",
+   "headline": "CDS on US hyperscalers and chipmakers widen to levels implying heavy ratings downgrades as the AI debt sell-off spreads",
+   "detail": "IFR reports that a sharp sell-off in debt has pushed credit default swaps on US hyperscalers and chipmakers to levels consistent with large ratings downgrades, with Oracle and SpaceX swaps trading well into junk territory. Reuters separately reports that traders' focus is shifting from inflation to growth as the tech rout deepens, raising questions over room for further central bank rate hikes.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "69f5d947ee602af1",
+    "c282e698eacb18fe"
+   ],
+   "sources": [
+    {
+     "author": "chriswhittall.bsky.social",
+     "uri": "at://did:plc:mw33frnll5jjux3vvkfyyrdt/app.bsky.feed.post/3mznoazkqn222",
+     "url": "https://bsky.app/profile/chriswhittall.bsky.social/post/3mznoazkqn222"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mznoe4b4zy2c",
+     "url": "https://bsky.app/profile/reuters.com/post/3mznoe4b4zy2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ecbfcc813550",
+   "created_at": "2026-11-06T15:15:48Z"
+  },
   {
    "id": "8c4f16892543",
    "ts": "2026-11-06T15:01:41Z",
@@ -6191,33 +6218,6 @@
    "model": "opus",
    "run_id": "59dbdd0084f5",
    "created_at": "2026-11-04T17:05:44Z"
-  },
-  {
-   "id": "6b6e970ed082",
-   "ts": "2026-11-04T16:39:53Z",
-   "headline": "Brent crude futures extend their slide to more than $7 a barrel; US crude falls more than $5 to near $90",
-   "detail": "Market reports show Brent crude futures down by more than $7 a barrel and US crude futures down by more than $5 a barrel. US crude is reported trading near $90 a barrel as the oil sell-off deepens.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "5daf3090d3592a3d",
-    "ea7d10cf454608f6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzis5pnlfh2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzis5pnlfh2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzis6qp3gn2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzis6qp3gn2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "233c3d545e2c",
-   "created_at": "2026-11-04T16:40:48Z"
   }
  ]
 }
