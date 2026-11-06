@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T15:01:12Z",
+ "generated_at": "2026-11-06T15:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8c4f16892543",
+   "ts": "2026-11-06T15:01:41Z",
+   "headline": "Canada's Ivey PMI edges up to 58.3 in October from 58.2",
+   "detail": "Canada's Ivey purchasing managers' index came in at 58.3 for October, against 58.2 the previous month. No consensus forecast was given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "7c075e245c1a0519",
+    "106bb609d47dd03c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznnlwtgbn2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznnlwtgbn2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznno7yuxz22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznno7yuxz22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "60f44a01d8bf",
+   "created_at": "2026-11-06T15:05:42Z"
+  },
   {
    "id": "26da21a98cd1",
    "ts": "2026-11-06T15:01:04Z",
@@ -6191,27 +6218,6 @@
    "model": "opus",
    "run_id": "233c3d545e2c",
    "created_at": "2026-11-04T16:40:48Z"
-  },
-  {
-   "id": "2b8d953e2c06",
-   "ts": "2026-11-04T16:35:30Z",
-   "headline": "European gas prices fall by as much as 5.3% to €86.74/MWh",
-   "detail": "European gas prices fell by as much as 5.3% to €86.74 per megawatt hour on Wednesday, according to a market report.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "56615c0c8cd2d599"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzirvtv7uv2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzirvtv7uv2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5027e8db922c",
-   "created_at": "2026-11-04T16:35:42Z"
   }
  ]
 }
