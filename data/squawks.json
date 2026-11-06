@@ -1,8 +1,86 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-05T22:45:46Z",
+ "generated_at": "2026-11-06T06:01:09Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3af786646446",
+   "ts": "2026-11-05T23:53:08Z",
+   "headline": "10-year JGB futures rise 0.9 point in early trade as Nikkei futures fall 7%",
+   "detail": "Benchmark 10-year Japanese government bond futures gained 0.9 point in early Tokyo trade while Nikkei average futures fell 7%. South Korea's KOSPI dropped 8.8%, triggering a circuit breaker that halted trading for 8 minutes.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "04153af54d939cc7",
+    "8ed842aad500c69c",
+    "2d4ed99d2aa78793"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm2tdb7232p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm2tdb7232p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm2we5jex2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm2we5jex2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm3jqio5f2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm3jqio5f2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "84dc9af9e0f3",
+   "created_at": "2026-11-06T06:01:09Z"
+  },
+  {
+   "id": "4c57d35b3a0b",
+   "ts": "2026-11-05T23:31:13Z",
+   "headline": "Japan's September total cash earnings rise 4.6% year on year, above the 3.8% forecast",
+   "detail": "Japanese government data show September cash earnings up 4.6% year on year, against a 3.8% forecast and 3.8% previously. Real wages rose 2.2% and overtime pay rose 3.6%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "6db6a0a530c82d5b",
+    "7d1abaa681b45c0f",
+    "d4b61adfc646560b",
+    "e0f5ef57200072f5",
+    "5dea4a05213e81a5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlzl7d6ib22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlzl7d6ib22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlzm4rdrp2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlzm4rdrp2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlzlysfab24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlzlysfab24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlzmc64si2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlzmc64si2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlzmhhd5p25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlzmhhd5p25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "84dc9af9e0f3",
+   "created_at": "2026-11-06T06:01:09Z"
+  },
   {
    "id": "d779d1046021",
    "ts": "2026-11-05T22:45:11Z",
@@ -5672,90 +5750,6 @@
    "model": "opus",
    "run_id": "2fd8ec8efebd",
    "created_at": "2026-11-04T07:05:43Z"
-  },
-  {
-   "id": "fe6f839c5fc1",
-   "ts": "2026-11-04T06:10:00Z",
-   "headline": "Japan's 10-year government bond yield rises 4bp to 2.81%",
-   "detail": "Japan's 10-year yield gained 4bp to 2.81% in Asian trading, while the Nikkei was still down 1.65% after coming back from its session lows.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "f0d09093d4b23851",
-    "f69a9b85bb8e9543"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhoxf2l3j24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhoxf2l3j24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhowmqmkj24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhowmqmkj24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "34f7df80668e",
-   "created_at": "2026-11-04T06:20:54Z"
-  },
-  {
-   "id": "941a4bb7ee1a",
-   "ts": "2026-11-04T05:06:16Z",
-   "headline": "Trump links Republican midterm losses partly to the Iran war and petrol prices but says he does not regret starting it",
-   "detail": "Trump said voters were probably not willing to bear the short-term cost of higher petrol prices tied to Iran. The WSJ reports he accepted that the war was one reason for Republican losses but said he does not regret starting the conflict earlier this year.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e7dbb9cd0009d7ef",
-    "a6716c7b15fbacab",
-    "e6b61093d15871d4",
-    "9976b50adf08f99c",
-    "da8d9cae79bf1586",
-    "4df54a41ad36ec50",
-    "5da17b1bffe6f7bd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhl6aptxm2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhl6aptxm2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhlfg4exq2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhlfg4exq2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhlki24fw2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhlki24fw2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhma53vn52f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhma53vn52f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhmdk4xlw2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhmdk4xlw2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzho5kzjkx25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzho5kzjkx25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzhoggemn42d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzhoggemn42d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "34f7df80668e",
-   "created_at": "2026-11-04T06:20:54Z"
   }
  ]
 }
