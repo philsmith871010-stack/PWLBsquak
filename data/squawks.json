@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T14:45:52Z",
+ "generated_at": "2026-11-06T14:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "575f7ad77d23",
+   "ts": "2026-11-06T14:48:23Z",
+   "headline": "White House adviser Hassett says inflation is falling and he sees no policy change that needs planning",
+   "detail": "The National Economic Council's Hassett said the data show strong growth and slowing inflation, that the administration's policies are working, and that the job market is firing on all cylinders.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f4bd184d0e6185c5",
+    "23688ec5fafae20a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmu63n7u26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmu63n7u26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmvwkdo62r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmvwkdo62r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "40448ae406f3",
+   "created_at": "2026-11-06T14:50:48Z"
+  },
+  {
+   "id": "45725c1a3de7",
+   "ts": "2026-11-06T14:47:52Z",
+   "headline": "Fed's Musalem says excess US inflation comes from both supply and demand; expects AI to lift productivity sharply",
+   "detail": "St Louis Fed President Musalem said the data centre build-out is adding to strong demand and that AI will bring much higher productivity.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2530c582065d46f5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmtajbur2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmtajbur2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "40448ae406f3",
+   "created_at": "2026-11-06T14:50:48Z"
+  },
   {
    "id": "fc0904882fb5",
    "ts": "2026-11-06T14:44:59Z",
@@ -6140,48 +6188,6 @@
    "model": "opus",
    "run_id": "5f116efbf7ef",
    "created_at": "2026-11-04T16:31:05Z"
-  },
-  {
-   "id": "0f8cd4aa818e",
-   "ts": "2026-11-04T16:25:54Z",
-   "headline": "Swiss Federal Council adopts the EU's 21st package of sanctions on Russia",
-   "detail": "Switzerland's Federal Council has adopted the EU's 21st Russia sanctions package.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "26e1fb1bdbc037e2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzireosraa24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzireosraa24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5f116efbf7ef",
-   "created_at": "2026-11-04T16:31:05Z"
-  },
-  {
-   "id": "f6b6aacbe168",
-   "ts": "2026-11-04T16:17:55Z",
-   "headline": "Brent crude futures extend their slide to more than $5 a barrel",
-   "detail": "Market reports say Brent crude futures are now down more than $5 a barrel on the day. Earlier in the session the fall was more than $4.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "f09a55a4a317fbcb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mziqwgo7wm2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mziqwgo7wm2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "49f1ed31f1b4",
-   "created_at": "2026-11-04T16:20:49Z"
   }
  ]
 }
