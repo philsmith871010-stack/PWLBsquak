@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T17:55:39Z",
+ "generated_at": "2026-11-06T18:01:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "732896682776",
+   "ts": "2026-11-06T17:57:17Z",
+   "headline": "Canada's PM Carney says Ottawa will keep working with the US towards a trade deal that suits Canada",
+   "detail": "Canadian Prime Minister Mark Carney said on Friday that Canada would carry on talks with the United States aimed at a trade agreement that works for Canada. He gave no timetable or new terms.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1b4a88af48cf8cda"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznxfx43zz26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznxfx43zz26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5cda3267dfcc",
+   "created_at": "2026-11-06T18:01:08Z"
+  },
   {
    "id": "7dd154378a47",
    "ts": "2026-11-06T17:55:28Z",
@@ -6144,27 +6165,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzjtw75vwx2y",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzjtw75vwx2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0bb94eaeecde",
-   "created_at": "2026-11-05T06:05:41Z"
-  },
-  {
-   "id": "12bbf9f23bf4",
-   "ts": "2026-11-05T00:37:39Z",
-   "headline": "US Treasuries firm and the dollar weakens as lower oil prices ease inflation concerns; US 10-year yield at 4.88%",
-   "detail": "A market wrap reports that falling oil prices after the US midterms supported Treasuries and weighed on the dollar, with the US 10-year yield at 4.88% in early Asian trading.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8818dc48c779730f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzjmtzksfc2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzjmtzksfc2b"
     }
    ],
    "model": "opus",
