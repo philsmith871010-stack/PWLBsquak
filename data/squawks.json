@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T15:15:48Z",
+ "generated_at": "2026-11-06T15:35:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9f219bc58b6e",
+   "ts": "2026-11-06T15:34:54Z",
+   "headline": "Polish foreign minister says a ceasefire must come before Ukraine peace talks can begin",
+   "detail": "Poland's foreign minister set a ceasefire as a precondition for starting Ukraine peace talks. The US has said it will host US-Ukraine-Russia talks in Abu Dhabi next week.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f972bc27f4dca17c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznphdg6fw2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznphdg6fw2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "707c14efad50",
+   "created_at": "2026-11-06T15:35:40Z"
+  },
   {
    "id": "cf7322848b17",
    "ts": "2026-11-06T15:13:29Z",
@@ -6197,27 +6218,6 @@
    "model": "opus",
    "run_id": "afb045212ee1",
    "created_at": "2026-11-04T17:35:57Z"
-  },
-  {
-   "id": "36454f76533c",
-   "ts": "2026-11-04T17:04:52Z",
-   "headline": "Brent crude falls to $95 a barrel, down 10% from Friday",
-   "detail": "An economist reports that Brent crude is at $95 a barrel, 10% lower than on Friday, as the slide following the US midterm results continues.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "5e3aee0b7f60d361"
-   ],
-   "sources": [
-    {
-     "author": "robin-j-brooks.bsky.social",
-     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3mzitkdxrp22b",
-     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3mzitkdxrp22b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "59dbdd0084f5",
-   "created_at": "2026-11-04T17:05:44Z"
   }
  ]
 }
