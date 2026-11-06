@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T12:15:48Z",
+ "generated_at": "2026-11-06T12:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "45a78e0fb49c",
+   "ts": "2026-11-06T12:20:55Z",
+   "headline": "Senior Iranian official says written US commitments on a deal are not enough and Tehran wants action before talks begin",
+   "detail": "According to reports, a senior Iranian official said Iran will not start negotiations until Washington takes practical steps, and that written American commitments on the agreement do not satisfy Tehran.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9b6f95c5f07d7f3c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznemhtvdq2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznemhtvdq2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c1bd1ca3bfc5",
+   "created_at": "2026-11-06T12:25:42Z"
+  },
   {
    "id": "ec0b1d43992d",
    "ts": "2026-11-06T12:15:24Z",
@@ -6011,33 +6032,6 @@
    "model": "opus",
    "run_id": "a20664f4a690",
    "created_at": "2026-11-04T13:10:53Z"
-  },
-  {
-   "id": "f12718c8fae4",
-   "ts": "2026-11-04T12:55:49Z",
-   "headline": "ECB's Knot says the ECB would respond with a somewhat hawkish policy as core inflation and second-round effects pick up",
-   "detail": "Knot, a candidate for an ECB post, said the central bank would meet the expected rise in core inflation and second-round effects with a somewhat hawkish policy stance.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "fcee4834ef4c0f3f",
-    "b77584c5fd2fd743"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzifn2cg4y2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzifn2cg4y2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzifnej7xr25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzifnej7xr25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ba33924516f7",
-   "created_at": "2026-11-04T13:01:28Z"
   }
  ]
 }
