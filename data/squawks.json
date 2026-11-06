@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T15:40:50Z",
+ "generated_at": "2026-11-06T15:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "79c6b3b5ed98",
+   "ts": "2026-11-06T15:42:55Z",
+   "headline": "EU's Kallas says Putin has no veto over European security and Ukraine must become part of its security architecture",
+   "detail": "EU foreign policy chief Kaja Kallas also said Russian sabotage across Europe must stop. She made the remarks on Friday as talks continue over a possible Ukraine settlement.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a80d628fc32de81c",
+    "17013d7cdcc84e41",
+    "663c31d0b57199ac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznptnogdl24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznptnogdl24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznpve3cyr2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznpve3cyr2e"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznpvodk3i2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznpvodk3i2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "192e2bca83ed",
+   "created_at": "2026-11-06T15:45:50Z"
+  },
   {
    "id": "4e7c0a1a4a42",
    "ts": "2026-11-06T15:40:39Z",
@@ -6197,27 +6230,6 @@
    "model": "opus",
    "run_id": "431c5a830dc5",
    "created_at": "2026-11-04T17:45:53Z"
-  },
-  {
-   "id": "b576a59da8a7",
-   "ts": "2026-11-04T17:40:19Z",
-   "headline": "US Treasury advisory committee finds AI-linked corporate borrowing is not crowding out demand for Treasuries",
-   "detail": "The Treasury Borrowing Advisory Committee reached this view at its latest meeting, Reuters reports. The committee also cautioned that the AI financing boom is still at an early stage.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e2373b32302370b0"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzivjqvfly2a",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzivjqvfly2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1cdc86a18532",
-   "created_at": "2026-11-04T17:40:54Z"
   }
  ]
 }
