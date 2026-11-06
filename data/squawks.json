@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T14:15:49Z",
+ "generated_at": "2026-11-06T14:20:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ea83f9f47eda",
+   "ts": "2026-11-06T14:16:50Z",
+   "headline": "White House adviser Hassett points to three months of strong US job growth and says inflation should be slowing",
+   "detail": "In a CNBC interview, White House senior adviser Kevin Hassett said he was looking at the last three months of very strong job growth and, when asked about the Fed, said inflation should be slowing. He also said an AI bubble is a fair concern, but the US economy could still be very strong even if data centre building slows.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "27a841bf770fed75",
+    "d307f1209114cf34",
+    "218b7fe6b808ab37",
+    "be21e2054309ddc0",
+    "231e6e4f20ff654c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznl3qklxc2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznl3qklxc2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznl5m3nso2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznl5m3nso2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznl5o44co2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznl5o44co2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznl6rp3na2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznl6rp3na2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznlalblmw22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznlalblmw22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "67fc293f891b",
+   "created_at": "2026-11-06T14:20:55Z"
+  },
   {
    "id": "8d22f6661098",
    "ts": "2026-11-06T14:14:17Z",
@@ -6095,27 +6140,6 @@
    "model": "opus",
    "run_id": "eadca3e025b1",
    "created_at": "2026-11-04T15:45:50Z"
-  },
-  {
-   "id": "a5e89cb197c7",
-   "ts": "2026-11-04T15:35:08Z",
-   "headline": "Canada's trade surplus widens to C$5.35bn in September, its highest since May 2022",
-   "detail": "Canadian data released on Wednesday show the September trade surplus at C$5.35 billion ($3.83 billion), Reuters reports. Gold and higher energy exports, mainly to the United States, drove the rise.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ae2a0efe3b3d71b7"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mziojvy4yw2w",
-     "url": "https://bsky.app/profile/reuters.com/post/3mziojvy4yw2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "246a9811feb3",
-   "created_at": "2026-11-04T15:35:39Z"
   }
  ]
 }
