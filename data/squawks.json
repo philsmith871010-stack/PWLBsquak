@@ -1,8 +1,71 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T18:10:47Z",
+ "generated_at": "2026-11-06T18:15:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cf094e3956fc",
+   "ts": "2026-11-06T18:15:16Z",
+   "headline": "Canadian dollar falls to a near three-week low against the US dollar after an unexpected drop in October jobs",
+   "detail": "Reuters reports the Canadian dollar weakened on Friday after data showed the economy lost jobs for a third month in a row. The data cooled expectations of Bank of Canada rate hikes.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "11e51adb4e994b38"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mznyg3htl52u",
+     "url": "https://bsky.app/profile/reuters.com/post/3mznyg3htl52u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5e122b33b296",
+   "created_at": "2026-11-06T18:15:47Z"
+  },
+  {
+   "id": "24028efa1666",
+   "ts": "2026-11-06T18:14:07Z",
+   "headline": "Fed's Daly says the recent painful market volatility amounts to the kind of rebalancing policymakers would want",
+   "detail": "San Francisco Fed President Mary Daly said that, looking past the painful volatility, the adjustment is the sort of rebalancing the Fed would hope to see.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6095b9f4ce26dcb5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznydzqwuk2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznydzqwuk2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5e122b33b296",
+   "created_at": "2026-11-06T18:15:47Z"
+  },
+  {
+   "id": "354dded1b034",
+   "ts": "2026-11-06T18:11:37Z",
+   "headline": "Canada's PM Carney says Ottawa is in talks with China on next steps for trade",
+   "detail": "Canadian Prime Minister Mark Carney said Canada is talking to China about the next steps in developing trade between the two countries.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "97830368fb2d236b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzny7kx6m32r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzny7kx6m32r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5e122b33b296",
+   "created_at": "2026-11-06T18:15:47Z"
+  },
   {
    "id": "2cfb72a8c76e",
    "ts": "2026-11-06T18:10:06Z",
@@ -6113,69 +6176,6 @@
    "model": "opus",
    "run_id": "2dabf9acd6b3",
    "created_at": "2026-11-05T07:01:09Z"
-  },
-  {
-   "id": "59a7c9cfb7bd",
-   "ts": "2026-11-05T06:27:54Z",
-   "headline": "Sterling slips against the yen ahead of today's Bank of England decision",
-   "detail": "FXStreet reports that sterling is weaker against the yen in early trading before the Bank of England's policy announcement. No figures were given.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "247dd1ff2eaf00b4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkagd244r2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkagd244r2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1f22906271c3",
-   "created_at": "2026-11-05T06:31:00Z"
-  },
-  {
-   "id": "4c7e6fd5f438",
-   "ts": "2026-11-05T05:32:06Z",
-   "headline": "Russia steps up military support for Iran with a missile launcher deal, FT reports",
-   "detail": "The FT reports that Moscow has increased its military aid to Tehran, including a deal on missile launchers, even though the Ukraine war is putting strain on its resources.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "98dcc4c5483c995d"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzk5cj65hp2i",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mzk5cj65hp2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "45c9c76ab738",
-   "created_at": "2026-11-05T06:15:53Z"
-  },
-  {
-   "id": "5dabffbf9d4d",
-   "ts": "2026-11-05T05:32:03Z",
-   "headline": "FT survey of economists puts UK inflation peak at 4.4% in 2027, with typical energy bills up nearly £470 in January",
-   "detail": "An FT survey of economists shows UK inflation peaking at 4.4% in 2027. The FT also reports that typical household energy bills are expected to rise by nearly £470 in January, to about £2,200 a year.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "4d23f780594d7d1e"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzk5cgqmyf2r",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mzk5cgqmyf2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "45c9c76ab738",
-   "created_at": "2026-11-05T06:15:53Z"
   }
  ]
 }
