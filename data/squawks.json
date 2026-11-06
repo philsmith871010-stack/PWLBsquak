@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T12:55:43Z",
+ "generated_at": "2026-11-06T13:01:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d7bd164043b2",
+   "ts": "2026-11-06T13:00:39Z",
+   "headline": "BoE's Pill says the Bank is giving weight to pay bargaining, costs and pricing",
+   "detail": "Bank of England Chief Economist Huw Pill said the MPC is weighing pay settlements, cost pressures and firms' pricing behaviour. He made the remarks in the same appearance in which he said rates could be held or cut if growth stalls.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "2aa87595fb95c4c1",
+    "4b9c14bc187b34f7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzngtjqj6v2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzngtjqj6v2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzngrppxtx2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzngrppxtx2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fb9850e01981",
+   "created_at": "2026-11-06T13:01:08Z"
+  },
   {
    "id": "b2e03bf8c767",
    "ts": "2026-11-06T12:51:50Z",
@@ -6047,33 +6074,6 @@
    "model": "opus",
    "run_id": "ae617ca651de",
    "created_at": "2026-11-04T13:55:44Z"
-  },
-  {
-   "id": "8770cc2c1dd6",
-   "ts": "2026-11-04T13:39:45Z",
-   "headline": "US Treasury sets quarterly refunding at $125bn, in line with estimates, and changes its guidance on future auction sizes",
-   "detail": "The US Treasury set the 3-year note auction at $58bn, the 10-year note at $42bn and the 30-year bond at $25bn, and changed its guidance on future changes to auction sizes.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "5fba01ede77eb96b",
-    "ae7aedc3a2e80fcb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzii3l6d7y2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzii3l6d7y2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzii3hfh4i2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzii3hfh4i2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "551e5190b1e2",
-   "created_at": "2026-11-04T13:40:56Z"
   }
  ]
 }
