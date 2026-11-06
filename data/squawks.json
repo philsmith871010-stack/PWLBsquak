@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T10:45:53Z",
+ "generated_at": "2026-11-06T10:55:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "51ae2d188dc2",
+   "ts": "2026-11-06T10:52:09Z",
+   "headline": "Belgian King rejects PM De Wever's resignation and tells him to restart budget negotiations at once",
+   "detail": "The Belgian royal palace says the King met Prime Minister Bart De Wever and the heads of the five majority parties, then declined to accept the prime minister's resignation. He asked him to resume budget negotiations immediately to resolve the crisis.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a44ef6238b987e7c",
+    "601eea9ff50ebbee",
+    "3de68fc5185cb07c",
+    "4320f3498da546a4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn7nqm5sg2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn7nqm5sg2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn7oklpxl2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn7oklpxl2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn7prep432y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn7prep432y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn7qw2aq326",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn7qw2aq326"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ccec5f4b400c",
+   "created_at": "2026-11-06T10:55:39Z"
+  },
   {
    "id": "c606631ac061",
    "ts": "2026-11-06T10:41:16Z",
@@ -6017,27 +6056,6 @@
    "model": "opus",
    "run_id": "b6282a9ba4ed",
    "created_at": "2026-11-04T12:50:52Z"
-  },
-  {
-   "id": "2b5f8c028216",
-   "ts": "2026-11-04T12:45:34Z",
-   "headline": "Brent is reported at $102, down from $118 at the end of last week, after the US midterm results",
-   "detail": "An economist puts Brent crude at $102 a barrel, against $118 at the end of last week, and says the oil market's direction depends on whether the US eases or steps up the war with Iran after the midterms.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "5bf282b43d73ad1b"
-   ],
-   "sources": [
-    {
-     "author": "robin-j-brooks.bsky.social",
-     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3mzif2pghjs2r",
-     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3mzif2pghjs2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "10490dcec3ac",
-   "created_at": "2026-11-04T12:45:54Z"
   }
  ]
 }
