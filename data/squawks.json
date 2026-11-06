@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T09:40:50Z",
+ "generated_at": "2026-11-06T09:45:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f07766633379",
+   "ts": "2026-11-06T09:41:37Z",
+   "headline": "ECB's Lane says energy inflation will feed into wage talks and price setting; expects fiscal tightening next year",
+   "detail": "ECB chief economist Philip Lane said energy inflation would shape wage negotiations and price setting across the economy. He also said fiscal policy has been looser than expected, but the ECB expects it to tighten next year and beyond.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f9bd03ded6439cef",
+    "c3cb7a73f2f43da9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn3pn5e5w2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn3pn5e5w2e"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn3slaugl2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn3slaugl2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "58ec17afdf48",
+   "created_at": "2026-11-06T09:45:47Z"
+  },
   {
    "id": "66b0b6147dea",
    "ts": "2026-11-06T09:36:22Z",
@@ -5897,27 +5924,6 @@
    "model": "opus",
    "run_id": "07fbef7b0474",
    "created_at": "2026-11-04T11:45:57Z"
-  },
-  {
-   "id": "da8634cf4c15",
-   "ts": "2026-11-04T11:30:28Z",
-   "headline": "Resolution Foundation says typical UK household energy bills this year are close to their level in the 2022 energy shock",
-   "detail": "The Resolution Foundation estimates that the typical household will spend nearly as much on energy this year as it did during the 2022 shock. The think tank gave no figures in the post.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "39653c1bf966231a"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mziaufyk3w2x",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mziaufyk3w2x"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e3ff2eb4606e",
-   "created_at": "2026-11-04T11:31:12Z"
   }
  ]
 }
