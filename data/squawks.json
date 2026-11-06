@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-06T16:20:49Z",
+ "generated_at": "2026-11-06T16:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "42482a9db699",
+   "ts": "2026-11-06T16:20:56Z",
+   "headline": "BoJ's Ueda says Japanese firms spent years repaying debt after the bubble burst, and corporate saving stayed high afterwards",
+   "detail": "In further remarks, the Bank of Japan Governor said Japan's experience shows why corporate adjustment matters. He said firms cut investment and repaired their balance sheets after the bubble collapsed, and that overseas investment grew in importance once that process was largely over.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0ac477d2a5496164",
+    "1a8c8d5bb4f0aa7a",
+    "16ae9ecf9b08ff5c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznrzo3sth2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznrzo3sth2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzns2oj6tc2e",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzns2oj6tc2e"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzns4fddwp2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzns4fddwp2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d81b7d8920fc",
+   "created_at": "2026-11-06T16:25:41Z"
+  },
   {
    "id": "50215a1100a5",
    "ts": "2026-11-06T16:19:06Z",
@@ -6185,39 +6218,6 @@
    "model": "opus",
    "run_id": "ec2c340438ff",
    "created_at": "2026-11-04T19:05:46Z"
-  },
-  {
-   "id": "4484f2473810",
-   "ts": "2026-11-04T18:48:39Z",
-   "headline": "ECB's Kazaks says rates may rise gradually and need to go up if inflation risks spread",
-   "detail": "ECB Governing Council member Kazaks said there could be a gradual increase in interest rates, and that rates would need to rise if inflation risks spread.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "0d5e5930da30cb24",
-    "34972a6343eca358",
-    "1754c6803f111d21"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzizdxhj7y2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzizdxhj7y2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzizeq2gyd2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzizeq2gyd2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzizhrbcfu25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzizhrbcfu25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4c4b28db1b4a",
-   "created_at": "2026-11-04T18:50:50Z"
   }
  ]
 }
