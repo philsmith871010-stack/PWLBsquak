@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T15:35:41Z",
+ "generated_at": "2026-11-09T15:40:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "05f8ca7b2ee0",
+   "ts": "2026-11-09T15:36:07Z",
+   "headline": "Fed's Goolsbee says consumer spending has been the main driver of US growth",
+   "detail": "Chicago Fed President Goolsbee said in remarks on Monday that consumer spending has been the main source of US growth. He also repeated that employment and growth are fairly stable.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "266d87e922db9f22",
+    "af2ec2e6458614ad"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvawbgfjy2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvawbgfjy2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvb225xew2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvb225xew2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "79b22fd6536c",
+   "created_at": "2026-11-09T15:40:49Z"
+  },
   {
    "id": "62bc9814a931",
    "ts": "2026-11-09T15:34:38Z",
@@ -5897,33 +5924,6 @@
    "model": "opus",
    "run_id": "937055ad71e6",
    "created_at": "2026-11-05T15:10:51Z"
-  },
-  {
-   "id": "b8327e8a5c2e",
-   "ts": "2026-11-05T15:03:56Z",
-   "headline": "Fed's Barkin says rate rises can weigh on demand and, over time, on oil prices",
-   "detail": "Richmond Fed President Barkin made the remark near the end of a Q&A session, which has since finished.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "820b77bfc6d3f8b5",
-    "9e70bb57786c8158"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl5b2k3c62b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl5b2k3c62b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl5cqlf4z2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl5cqlf4z2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "448201aa21af",
-   "created_at": "2026-11-05T15:05:49Z"
   }
  ]
 }
