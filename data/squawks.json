@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T14:05:42Z",
+ "generated_at": "2026-11-09T14:10:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6ba9b1660d11",
+   "ts": "2026-11-09T14:05:47Z",
+   "headline": "German foreign minister says the Abu Dhabi talks must show whether Russia is really willing to negotiate",
+   "detail": "Germany's foreign minister commented on this week's Abu Dhabi talks on Ukraine, saying they need to show whether Moscow is serious about negotiating. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "adbf0789cd21dee8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzv3ur33t42v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzv3ur33t42v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "224f3e3e2ef5",
+   "created_at": "2026-11-09T14:10:48Z"
+  },
   {
    "id": "ad89c942f93a",
    "ts": "2026-11-09T14:04:13Z",
@@ -6048,33 +6069,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzky2jw7rk2f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzky2jw7rk2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a97836e8e3ac",
-   "created_at": "2026-11-05T13:31:00Z"
-  },
-  {
-   "id": "65a26c9a58dd",
-   "ts": "2026-11-05T13:30:18Z",
-   "headline": "Iran, Saudi and Qatari foreign ministers discuss progress in diplomatic efforts towards regional stability",
-   "detail": "An Iranian statement said Iran's foreign minister spoke by phone with his Saudi and Qatari counterparts. According to the statement, they discussed the latest progress in diplomatic efforts to bring stability to the region.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5b0454717169d8f7",
-    "95640d029abe6b0c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkxxvb4eg2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkxxvb4eg2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkxzmpxfy2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkxzmpxfy2k"
     }
    ],
    "model": "opus",
