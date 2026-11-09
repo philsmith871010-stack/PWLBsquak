@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T07:01:13Z",
+ "generated_at": "2026-11-09T07:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e7a986c7f58d",
+   "ts": "2026-11-09T07:05:05Z",
+   "headline": "UAE's Gargash says a full US-Iran settlement looks difficult and warns of prolonged regional uncertainty",
+   "detail": "Senior Emirati official Anwar Gargash said on Monday that a comprehensive political settlement to end the more than eight-month US-Iran war appeared difficult, Reuters reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0a9713498ba3a409"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzueehjros2v",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzueehjros2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "eef1830a1011",
+   "created_at": "2026-11-09T07:05:40Z"
+  },
   {
    "id": "6d8c6af7e34e",
    "ts": "2026-11-09T07:01:01Z",
@@ -6269,27 +6290,6 @@
    "model": "opus",
    "run_id": "93bbb7030606",
    "created_at": "2026-11-05T10:35:46Z"
-  },
-  {
-   "id": "fd7b93dd7ecc",
-   "ts": "2026-11-05T10:30:54Z",
-   "headline": "US Challenger job cuts come in at 43.994K, up from 43.281K",
-   "detail": "The Challenger report puts announced US layoffs at 43.994K, compared with 43.281K in the previous reading. No forecast was given.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8b1578fcdb32ed3a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzknytkx3t2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzknytkx3t2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1fa3d2f8824b",
-   "created_at": "2026-11-05T10:30:58Z"
   }
  ]
 }
