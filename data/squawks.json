@@ -1,8 +1,71 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T16:01:16Z",
+ "generated_at": "2026-11-09T16:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5872ab85241e",
+   "ts": "2026-11-09T16:01:23Z",
+   "headline": "NY Fed survey: US one-year inflation expectations edge up to 3.91% in October, three-year steady at 3.3%",
+   "detail": "The New York Fed's October Survey of Consumer Expectations put one-year-ahead inflation expectations at 3.91%, against a 3.79% forecast and 3.9% previously, with three-year expectations unchanged at 3.3%. Expectations of a rising unemployment rate were the highest since April 2020, and expected gas price rises moderated.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "14cdcfd9c666af38",
+    "16bfc3c2cb4ec6aa",
+    "ede04e623ccd84db",
+    "f5e98cc277349572",
+    "f846cd75a4c174a6",
+    "fc006f3f09429045",
+    "bb835dcef400555f",
+    "019f099ec44d294a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvcdhizpu2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvcdhizpu2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvcdrqrxv2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvcdrqrxv2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvcdx3bx52l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvcdx3bx52l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvce3excp24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvce3excp24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvce76c2c2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvce76c2c2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvceyb7hj2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvceyb7hj2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvceypsac22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvceypsac22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvcffqhak22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvcffqhak22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cfc9b5cab1cd",
+   "created_at": "2026-11-09T16:05:42Z"
+  },
   {
    "id": "3de93abb18f1",
    "ts": "2026-11-09T15:56:46Z",
@@ -5909,27 +5972,6 @@
    "model": "opus",
    "run_id": "87c3946d1c4c",
    "created_at": "2026-11-05T15:45:56Z"
-  },
-  {
-   "id": "1cb4a39a2f70",
-   "ts": "2026-11-05T15:25:08Z",
-   "headline": "Iran reports three more tankers damaged in the Strait of Hormuz on Thursday",
-   "detail": "Reuters reports that Iran said three more tankers had been damaged in the Strait of Hormuz on Thursday. This follows earlier Iranian state media reports of two tankers hitting sea mines east of the strait.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c34ee64aa795430e"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzl6gx6qcy2a",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzl6gx6qcy2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7619c42b3542",
-   "created_at": "2026-11-05T15:25:47Z"
   }
  ]
 }
