@@ -1,8 +1,122 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T06:26:19Z",
+ "generated_at": "2026-11-09T06:31:05Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c24019eaab88",
+   "ts": "2026-11-09T05:50:07Z",
+   "headline": "Chinese banks sharply raise dollar deposit rates, in some cases above 4%, as Beijing seeks to slow the yuan's rally",
+   "detail": "Reuters, citing sources, reports that several Chinese banks have lifted dollar deposit rates in recent weeks, in some cases above US benchmarks. Exporters are reported to be hoarding cash.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "de1ac2b68a3f3d3a",
+    "fa136bce7b5f0c02",
+    "44e909702b693532"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzua6guuod2g",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzua6guuod2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzu745lfto2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzu745lfto2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzu74apzkt2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzu74apzkt2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dd3f725becfb",
+   "created_at": "2026-11-09T06:31:05Z"
+  },
+  {
+   "id": "510cf27ecee4",
+   "ts": "2026-11-09T05:47:13Z",
+   "headline": "ECB presidency candidate Knot says he would act without hesitation in a debt crisis",
+   "detail": "Klaas Knot, one of two candidates to succeed Lagarde, told the FT he would be prepared to create new crisis-fighting tools if needed.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "045cc931d1d2a2c2"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzu7z7uecc2k",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mzu7z7uecc2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dd3f725becfb",
+   "created_at": "2026-11-09T06:31:05Z"
+  },
+  {
+   "id": "d24733aad552",
+   "ts": "2026-11-09T04:39:40Z",
+   "headline": "Iranian official says an overnight US strike hit Qeshm Island but left key infrastructure and services intact",
+   "detail": "An Iranian provincial official, quoted by Fars News, said the overnight US strike on Qeshm Island caused no disruption to essential services. Separately, Israel's Kan broadcaster reports that Israeli and US military officials support further military action against Iran.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4ab7f4bdddc92a85",
+    "bd5dfa30e695339e",
+    "bf106c3923302ede",
+    "56b9fbb28f53f088"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzu4ah5z4322",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzu4ah5z4322"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzu4bn4ajf24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzu4bn4ajf24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzu3ukwcvf2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzu3ukwcvf2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzu3vqoi2k2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzu3vqoi2k2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dd3f725becfb",
+   "created_at": "2026-11-09T06:31:05Z"
+  },
+  {
+   "id": "1e04d3e408b8",
+   "ts": "2026-11-09T04:30:25Z",
+   "headline": "Iran says no unauthorised vessels crossed the Strait of Hormuz overnight after southern navigation aids were destroyed",
+   "detail": "An unnamed Revolutionary Guards Navy official told Iranian state media on Monday that no unauthorised vessels used the route overnight, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "015ca795f89c0a23"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzu3pvnt6d2z",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzu3pvnt6d2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dd3f725becfb",
+   "created_at": "2026-11-09T06:31:05Z"
+  },
   {
    "id": "1570b0f1a7ba",
    "ts": "2026-11-09T04:21:20Z",
@@ -6170,126 +6284,6 @@
    "model": "opus",
    "run_id": "bf651ab44508",
    "created_at": "2026-11-05T10:20:50Z"
-  },
-  {
-   "id": "77367feebce1",
-   "ts": "2026-11-05T10:12:30Z",
-   "headline": "Oman and Iran foreign ministers call for moving beyond de-escalation towards lasting agreements",
-   "detail": "Oman's state news agency ONA reports the two foreign ministers held a phone call. They discussed arrangements to secure sea routes and keep trade and energy flowing, and stressed a shift from de-escalation to durable deals.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "cba7834dd008c3ba",
-    "ec6ce45c4026c399",
-    "1f289e9bc92daf9f",
-    "e8670d5b60513e39"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkmxvyewa2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkmxvyewa2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkmxvht2j2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkmxvht2j2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkmypc3zc2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkmypc3zc2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkn2ctlai25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkn2ctlai25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7c7f034583be",
-   "created_at": "2026-11-05T10:15:55Z"
-  },
-  {
-   "id": "f49b07e664d2",
-   "ts": "2026-11-05T10:09:39Z",
-   "headline": "Oman and Iran foreign ministers discuss securing sea routes and keeping trade and energy flowing",
-   "detail": "Oman's state news agency ONA reported the foreign ministers said the focus should move from de-escalation to lasting agreements. They also discussed measures to keep trade and energy flowing.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0517875d7018999c",
-    "c0f128666f484789"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkmst3d2z2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkmst3d2z2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkmtlrzir25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkmtlrzir25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5c129e86fb32",
-   "created_at": "2026-11-05T10:10:46Z"
-  },
-  {
-   "id": "759bd9ab8786",
-   "ts": "2026-11-05T10:07:02Z",
-   "headline": "Kremlin says military action in Ukraine will go on because peace efforts have stalled, though Russia still wants a peaceful outcome",
-   "detail": "The Kremlin said Russia would protect its interests either militarily or through peace, if Kyiv shows political will. It added that safeguarding Russia's interests cannot depend on events in the United States after the US elections.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "64aab30bf3021495",
-    "ddadeb9bc61b697f",
-    "392a1a16b5945b2f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkmo5h6ea2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkmo5h6ea2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkmobpghp2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkmobpghp2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkmo2lanr25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkmo2lanr25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5c129e86fb32",
-   "created_at": "2026-11-05T10:10:46Z"
-  },
-  {
-   "id": "231d5dbeca1f",
-   "ts": "2026-11-05T10:01:38Z",
-   "headline": "Kremlin says Russian diesel will find buyers as tankers change course, declining to discuss commercial matters",
-   "detail": "The Kremlin said Russian diesel will find buyers when asked about tankers carrying it changing course, and said it could not discuss commercial issues. The remarks follow reports that the US diesel deal with Russia is faltering.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "0a18f574c5e86798"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkmeihxq62f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkmeihxq62f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8fcf5cff0dc3",
-   "created_at": "2026-11-05T10:05:41Z"
   }
  ]
 }
