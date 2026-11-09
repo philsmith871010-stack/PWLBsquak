@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T15:40:49Z",
+ "generated_at": "2026-11-09T15:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0fb64b1c26f9",
+   "ts": "2026-11-09T15:41:36Z",
+   "headline": "US Secretary of State Rubio urges the EU to drop preference measures and overregulation aimed at US companies",
+   "detail": "The US State Department reported that Secretary of State Rubio called for the EU to end preference measures and overregulation that target US companies. The statement followed his talks with French foreign minister Barrot.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e93d9e811e8b023f",
+    "c2dd25c480015689"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvba3vymw2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvba3vymw2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvbbgwuat2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvbbgwuat2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4c17d82a3da7",
+   "created_at": "2026-11-09T15:45:51Z"
+  },
   {
    "id": "05f8ca7b2ee0",
    "ts": "2026-11-09T15:36:07Z",
@@ -5903,27 +5930,6 @@
    "model": "opus",
    "run_id": "bf92f304c684",
    "created_at": "2026-11-05T15:15:55Z"
-  },
-  {
-   "id": "cd45eb77528b",
-   "ts": "2026-11-05T15:09:09Z",
-   "headline": "Fed's Hammack says cutting FOMC meetings to six a year from eight would be a modest change",
-   "detail": "Cleveland Fed President Beth Hammack said reducing the number of FOMC policy meetings from eight to six a year would be a modest shift. Earlier, Richmond Fed President Barkin also said changing how often meetings are held would not be a big deal.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "90a2d601422c51e5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl5kfashi25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl5kfashi25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "937055ad71e6",
-   "created_at": "2026-11-05T15:10:51Z"
   }
  ]
 }
