@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T13:10:52Z",
+ "generated_at": "2026-11-09T13:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b2a8670ce192",
+   "ts": "2026-11-09T13:11:51Z",
+   "headline": "Eurogroup President says a decision on the next ECB president should ideally be made by the end of the year",
+   "detail": "The Eurogroup President said the ideal outcome would be to choose a successor to Lagarde as ECB president by the end of the year.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "02d862253a93c3d9",
+    "010bbb41094b6047"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuyucpq3c2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuyucpq3c2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuyvd4kwg2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuyvd4kwg2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e2a30603ce82",
+   "created_at": "2026-11-09T13:15:52Z"
+  },
   {
    "id": "de12c505db37",
    "ts": "2026-11-09T13:09:20Z",
@@ -6066,39 +6093,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkx5fy73x2g",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkx5fy73x2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ae4d71ca855f",
-   "created_at": "2026-11-05T13:15:56Z"
-  },
-  {
-   "id": "8b67f5d53779",
-   "ts": "2026-11-05T13:12:21Z",
-   "headline": "BoE's Lombardelli says public-sector pay is not a particular risk and the minimum wage rise is at or below expectations",
-   "detail": "Bank of England Deputy Governor Lombardelli said the minimum wage increase was in line with or below expectations and that public-sector wages were not a particular risk. She added that consumer-facing firms report less pricing power than business-to-business firms. She spoke on the day of the Bank's rate decision.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "8ca8c98397bf7c2d",
-    "b5fc8fab1ffb8971",
-    "eb76ddb8c9eeced8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwy3xj7y22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwy3xj7y22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwywbrnp2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwywbrnp2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwzj4ptk2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwzj4ptk2b"
     }
    ],
    "model": "opus",
