@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T12:15:49Z",
+ "generated_at": "2026-11-09T12:55:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "84494dcc821c",
+   "ts": "2026-11-09T12:52:57Z",
+   "headline": "Iraq's prime minister puts forward proposals to end the Iran war in a phone call with Trump, sources say",
+   "detail": "Sources report that Iraq's prime minister set out proposals to end the Iran war during a phone call with US President Trump. No details of the proposals were given.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0b351d9994b2a4d0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuxsjbwcs24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuxsjbwcs24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "26a10b434807",
+   "created_at": "2026-11-09T12:55:39Z"
+  },
   {
    "id": "4a8a3462dc96",
    "ts": "2026-11-09T12:15:16Z",
@@ -6054,27 +6075,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwszh3dg2a",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwszh3dg2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4054b52cb770",
-   "created_at": "2026-11-05T13:11:20Z"
-  },
-  {
-   "id": "d0cc7bf9ec26",
-   "ts": "2026-11-05T13:07:51Z",
-   "headline": "SNB's Schlegel says the central bank does not believe in using forward guidance",
-   "detail": "Swiss National Bank Chairman Schlegel said the SNB does not favour giving forward guidance.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a84743424e19ae1c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwrier5y22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwrier5y22"
     }
    ],
    "model": "opus",
