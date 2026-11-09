@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T07:45:57Z",
+ "generated_at": "2026-11-09T07:55:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "797618441b6d",
+   "ts": "2026-11-09T07:54:19Z",
+   "headline": "EU Economy Commissioner Dombrovskis says the economy faces uncertainty and downside risks",
+   "detail": "EU Economy Commissioner Valdis Dombrovskis said on Monday morning that the economy faces uncertainty and downside risks. The reports gave no figures.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "daab65a62b2a57f2",
+    "393c325d741a259c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuh4jktuz2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuh4jktuz2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuh5j6iwv2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuh5j6iwv2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4ac6768595cb",
+   "created_at": "2026-11-09T07:55:53Z"
+  },
   {
    "id": "eb7e7908c200",
    "ts": "2026-11-09T07:44:00Z",
@@ -6257,33 +6284,6 @@
    "model": "opus",
    "run_id": "16e063532bd6",
    "created_at": "2026-11-05T12:05:41Z"
-  },
-  {
-   "id": "d8311e71c762",
-   "ts": "2026-11-05T12:00:46Z",
-   "headline": "Bank of England raises Bank Rate to 4.0% from 3.75%, in line with forecasts",
-   "detail": "The consensus forecast was 4.0%.",
-   "category": "boe",
-   "importance": 3,
-   "source_event_ids": [
-    "4d8401079fb48835",
-    "df53e0fe20f64330"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkszjuv5y2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkszjuv5y2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkszmfeea2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkszmfeea2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7694ee6af2d8",
-   "created_at": "2026-11-05T12:01:12Z"
   }
  ]
 }
