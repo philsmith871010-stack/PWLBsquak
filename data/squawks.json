@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T09:35:41Z",
+ "generated_at": "2026-11-09T09:40:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8d2e1fc5ad45",
+   "ts": "2026-11-09T09:40:05Z",
+   "headline": "Saudi Arabia lifts Riyadh alert a day after a Houthi attack damaged an Aramco office building",
+   "detail": "Saudi civil defence authorities said on Monday that the danger in Riyadh had passed, minutes after raising an alert, Reuters reported. The alert came a day after an attack by Yemen's Houthis damaged an office building belonging to Saudi Aramco in the capital.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "62ce48cc36f733fe"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzumznl2lt2v",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzumznl2lt2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "69ca7df00418",
+   "created_at": "2026-11-09T09:40:47Z"
+  },
   {
    "id": "f797bd81dce6",
    "ts": "2026-11-09T09:35:04Z",
@@ -6113,27 +6134,6 @@
    "model": "opus",
    "run_id": "508dd3c91fa8",
    "created_at": "2026-11-05T12:40:48Z"
-  },
-  {
-   "id": "3a97e408c543",
-   "ts": "2026-11-05T12:33:38Z",
-   "headline": "BoE's Bailey says the impact of the Iran conflict needs to be limited",
-   "detail": "Bank of England Governor Andrew Bailey said the impact of the conflict in Iran must be contained. He spoke on the day the Bank raised Bank Rate to 4.0%.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "2eedf18d0ee6c82a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkuuc5jdy2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkuuc5jdy2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f59a08e5fa2d",
-   "created_at": "2026-11-05T12:35:47Z"
   }
  ]
 }
