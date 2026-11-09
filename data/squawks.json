@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T11:35:44Z",
+ "generated_at": "2026-11-09T11:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ca835cdca5db",
+   "ts": "2026-11-09T11:45:09Z",
+   "headline": "Lavrov says security issues are the main topic of the Abu Dhabi Ukraine talks, which aim to agree principles for a settlement",
+   "detail": "Russia's Foreign Minister Lavrov said the Abu Dhabi talks will centre on security issues for Russia, Ukraine and the wider region. He said they aim to agree principles that would be approved when talks on a comprehensive settlement in Ukraine conclude.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "69bce68ef6473d8e",
+    "d171b42561bea1c7",
+    "0d8dc49fc7cab4ac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzutzbq5ks2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzutzbq5ks2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzutxrtkat2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzutxrtkat2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuu23w7mt2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuu23w7mt2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fb4c94210663",
+   "created_at": "2026-11-09T11:45:51Z"
+  },
+  {
+   "id": "a59fa682cb0a",
+   "ts": "2026-11-09T11:42:40Z",
+   "headline": "European Commission says the EU must be present in any talks on a European security framework, responding to Kushner's proposal",
+   "detail": "Responding to a proposal from Kushner, the European Commission said that deciding any European security framework is a matter for the EU, so the EU needs to take part in such discussions.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "acb9fc62943ad77c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzututvjs726",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzututvjs726"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fb4c94210663",
+   "created_at": "2026-11-09T11:45:51Z"
+  },
   {
    "id": "fa26741d5442",
    "ts": "2026-11-09T11:32:34Z",
@@ -6038,60 +6092,6 @@
    "model": "opus",
    "run_id": "da34c80ceb2b",
    "created_at": "2026-11-05T13:05:40Z"
-  },
-  {
-   "id": "376bf18ee1f3",
-   "ts": "2026-11-05T13:01:39Z",
-   "headline": "Oil heads for its biggest weekly fall since the pandemic, Reuters reports",
-   "detail": "Reuters says the drop follows a Democratic sweep of Congress in the US midterm elections.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "b96b9d6188821b88"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzkwgemn722f",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzkwgemn722f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "da34c80ceb2b",
-   "created_at": "2026-11-05T13:05:40Z"
-  },
-  {
-   "id": "2dd5287a6860",
-   "ts": "2026-11-05T12:52:04Z",
-   "headline": "BoE's Bailey says the rate decision would have been the same even with knowledge of the past 48 hours' events",
-   "detail": "The Bank of England Governor said news over the last 48 hours has an important bearing on the outlook, but the decision would not have changed. He added that a peace process would be welcome and would bring energy prices down.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "498345c73d42a512",
-    "9e9f0e3325cffba6",
-    "6ac840b29ea5fc35"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkvvacrv22b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkvvacrv22b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkvw6ezf722",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkvw6ezf722"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkvz32km425",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkvz32km425"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f686c1533d01",
-   "created_at": "2026-11-05T12:55:44Z"
   }
  ]
 }
