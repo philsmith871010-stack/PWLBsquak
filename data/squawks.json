@@ -1,8 +1,65 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T17:25:43Z",
+ "generated_at": "2026-11-09T17:31:01Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "85f98a878133",
+   "ts": "2026-11-09T17:27:43Z",
+   "headline": "BoE's Bailey says UK activity is more resilient than expected, helped by AI investment, but warns an AI asset bubble threatens stability",
+   "detail": "In a speech, Bank of England Governor Bailey said there are growing signs of an early positive supply shock from AI and investment, notably in business services. He also said an AI asset price bubble poses clear financial stability risks, as markets could overvalue AI returns, and that frontier AI has raised cyberattack risks.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "310697e2cb7e7814",
+    "a32d26a9dd83885f",
+    "acfa5f81e38c11b9",
+    "75429f2a6acddc48",
+    "0a029f9ebfa920db",
+    "b7b51c907e8aeedd",
+    "aef26f316f9e6ab2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvh43aeaq22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvh43aeaq22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvh5ti42a22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvh5ti42a22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvh5wvrrr2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvh5wvrrr2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvh6r2hgm2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvh6r2hgm2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvh6v5bqr2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvh6v5bqr2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvh72et7p2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvh72et7p2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvh77a6xm2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvh77a6xm2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "69cac176d627",
+   "created_at": "2026-11-09T17:31:01Z"
+  },
   {
    "id": "bde67012ece4",
    "ts": "2026-11-09T17:25:08Z",
@@ -6023,27 +6080,6 @@
    "model": "opus",
    "run_id": "415661ff7045",
    "created_at": "2026-11-05T17:05:42Z"
-  },
-  {
-   "id": "7646c4683505",
-   "ts": "2026-11-05T16:53:50Z",
-   "headline": "Odds of a December Fed hike drop to 67% from above 80% as Democrats are reported to sweep Congress",
-   "detail": "A market commentary account reported that, after the US midterm results, odds of a December Fed rate hike fell from above 80% to 67%. It said prediction markets now give a hold a 33% chance, the highest since mid-September.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "26849dd913de351b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzldfkkilv24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzldfkkilv24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4dc7b77d0c4f",
-   "created_at": "2026-11-05T16:55:39Z"
   }
  ]
 }
