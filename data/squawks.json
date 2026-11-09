@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T12:55:39Z",
+ "generated_at": "2026-11-09T13:01:12Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e875d5364a1d",
+   "ts": "2026-11-09T12:56:38Z",
+   "headline": "Trump backs Iraqi PM's proposals to end the Iran war and asks him to pass them on to Tehran",
+   "detail": "Reports of a phone call between Trump and Iraq's prime minister say Trump approved the Iraqi proposals for ending the war with Iran. He also asked the prime minister to convey them to Tehran.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3c784cb446066a44",
+    "59df2d54a3985d8f",
+    "ccfcdfc22eb879ab"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuxz3qgji2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuxz3qgji2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuxzfj43e2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuxzfj43e2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuxyrir6a2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuxyrir6a2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a1872f05e5f5",
+   "created_at": "2026-11-09T13:01:12Z"
+  },
   {
    "id": "84494dcc821c",
    "ts": "2026-11-09T12:52:57Z",
@@ -6054,27 +6087,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwx5dej22b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwx5dej22b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4054b52cb770",
-   "created_at": "2026-11-05T13:11:20Z"
-  },
-  {
-   "id": "ebb099fb2a62",
-   "ts": "2026-11-05T13:08:43Z",
-   "headline": "BoE's Ramsden says the decline in UK services inflation appears to have slowed or stopped",
-   "detail": "Bank of England Deputy Governor Ramsden said the downward trend in UK services price inflation looks to have slowed or halted.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "f559cab39c9be1bb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwszh3dg2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwszh3dg2a"
     }
    ],
    "model": "opus",
