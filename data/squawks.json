@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T08:05:49Z",
+ "generated_at": "2026-11-09T08:11:29Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8be74aebf324",
+   "ts": "2026-11-09T08:10:04Z",
+   "headline": "German exports grow 2% m/m in September, beating expectations",
+   "detail": "Germany's federal statistics office said on Monday that exports rose 2% on the month in September, more than expected.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "502799e8ebbedb58"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzuhyojskx2g",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzuhyojskx2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3729c67c662e",
+   "created_at": "2026-11-09T08:11:29Z"
+  },
   {
    "id": "ec9d1b8da935",
    "ts": "2026-11-09T08:02:20Z",
@@ -6180,69 +6201,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzktbyfsqo2g",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzktbyfsqo2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "16e063532bd6",
-   "created_at": "2026-11-05T12:05:41Z"
-  },
-  {
-   "id": "9817a0c66e4e",
-   "ts": "2026-11-05T12:02:29Z",
-   "headline": "BoE's Lombardelli, Pill and Greene point to further rate rises; Bailey calls current restrictiveness broadly appropriate",
-   "detail": "Lombardelli and Pill see a case for another hike in the near term, with Pill reported as saying one 25bp rise is unlikely to be enough, and Greene says more hikes will likely be needed. Lombardelli says the price effects of the energy shock are larger and more persistent, Mann says second-order effects are now more robust, and Governor Bailey says part of the rise in the market curve reflects risk premia rather than expected rates.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "dbe0f962c40205aa",
-    "1014ce4d267faf3e",
-    "66355b6ea2f80946",
-    "b53203cf1115a664",
-    "70b354122bd5abe4",
-    "617f8a204e171d3f",
-    "3dec72df1694929a",
-    "e2b549c5ccfab6ea"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkt4lqmuh22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkt4lqmuh22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkt7g2tv425",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkt7g2tv425"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzktbxupem25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzktbxupem25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkt7cmuu62g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkt7cmuu62g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzktazpsw62g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzktazpsw62g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkt34ileb2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkt34ileb2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkt6mvs7d2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkt6mvs7d2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkt6x4ia72p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkt6x4ia72p"
     }
    ],
    "model": "opus",
