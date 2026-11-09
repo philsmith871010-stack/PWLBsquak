@@ -1,8 +1,71 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T16:31:03Z",
+ "generated_at": "2026-11-09T16:35:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "971feb9aa9d6",
+   "ts": "2026-11-09T16:34:23Z",
+   "headline": "US Treasury sells $95bn of 3-month bills at 4.06% and $82bn of 6-month bills at 4.145%",
+   "detail": "The 3-month bill auction had a bid-to-cover of 2.67, down from 2.880, with 79.03% awarded at the high, compared with 4.040% at the previous sale. The 6-month bill drew a bid-to-cover of 2.92, up from 2.890, with 70.91% awarded at the high; its yield compares with 4.150% previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "870c37fc0c699f51",
+    "e8dc888c71e82172",
+    "578de00b92960569",
+    "fafa685defb37e3b",
+    "e7066bb8eb257978",
+    "07e6dd4c6850db4f",
+    "d8e8d4fc40abb66b",
+    "9a3a982c3635f6a1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzve3zccfd2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzve3zccfd2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzve4c7lah2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzve4c7lah2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzve4mjbwe2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzve4mjbwe2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzve5qf3ic2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzve5qf3ic2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzve5tkxdy24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzve5tkxdy24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzve5yykvy2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzve5yykvy2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzve65gmn426",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzve65gmn426"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzve6hpxui2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzve6hpxui2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d3c927354cda",
+   "created_at": "2026-11-09T16:35:45Z"
+  },
   {
    "id": "7a632bd8a93e",
    "ts": "2026-11-09T16:30:08Z",
@@ -5957,33 +6020,6 @@
    "model": "opus",
    "run_id": "896bbbe3ac63",
    "created_at": "2026-11-05T16:31:11Z"
-  },
-  {
-   "id": "463023cd741e",
-   "ts": "2026-11-05T16:12:41Z",
-   "headline": "ECB's Lagarde says the secondary effects of the energy price shock need watching, with demand shocks also under way",
-   "detail": "ECB President Christine Lagarde said policymakers must monitor second-round effects of the energy price shock. She added that demand shocks are happening at the same time.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8ab2901114d077aa",
-    "2a4debcbd4a7fa56"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlb3yjwy422",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlb3yjwy422"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlb5py4ho2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlb5py4ho2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b700f7ad2c88",
-   "created_at": "2026-11-05T16:15:55Z"
   }
  ]
 }
