@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T21:31:05Z",
+ "generated_at": "2026-11-09T21:35:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d153cc1e89ca",
+   "ts": "2026-11-09T21:31:24Z",
+   "headline": "Trump says he sees positive momentum towards ending the Iran conflict and that an Iranian nuclear weapon is non-negotiable",
+   "detail": "In a Truth Social post, US President Trump said all parties agree that Iran cannot have a nuclear weapon. He added that the US stands ready to act if the situation in the Middle East changes, but that this now looks quite unlikely.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b3907cf520bebad7",
+    "c9675e3d1c8f4461",
+    "1b36b82435d2dc7f",
+    "911765ca3ab93b3b",
+    "bc1ceed141093d42"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvurkmzla22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvurkmzla22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvuzbyo7h24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvuzbyo7h24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvuzbllz22h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvuzbllz22h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvurkdel32f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvurkdel32f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvusbexez2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvusbexez2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2e2ec1537507",
+   "created_at": "2026-11-09T21:35:47Z"
+  },
   {
    "id": "b8b8db11bcb0",
    "ts": "2026-11-09T21:30:59Z",
@@ -5963,33 +6008,6 @@
    "model": "opus",
    "run_id": "0ac001e177fe",
    "created_at": "2026-11-06T07:45:46Z"
-  },
-  {
-   "id": "d71af0b1385c",
-   "ts": "2026-11-06T07:39:45Z",
-   "headline": "Qatar's Emir and Trump hold talks on efforts to de-escalate the Middle East conflict",
-   "detail": "Qatar's Emir and US President Trump discussed efforts to de-escalate in the Middle East, according to reports on Friday morning. Qatar is leading mediation towards an interim US-Iran deal.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "105119793bbfb7cb",
-    "55444a0f0ca43679"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmuvp34xv2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmuvp34xv2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmuwkpyex26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmuwkpyex26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "610e0d05a361",
-   "created_at": "2026-11-06T07:40:45Z"
   }
  ]
 }
