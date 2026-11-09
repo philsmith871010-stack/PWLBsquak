@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T06:31:05Z",
+ "generated_at": "2026-11-09T06:35:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ab6f3bddeddc",
+   "ts": "2026-11-09T06:17:54Z",
+   "headline": "Russian Foreign Ministry says the Russia-US diesel deal could allow business ties between the two countries to recover gradually",
+   "detail": "TASS reported the Russian Foreign Ministry's comments on the diesel deal between Russia and the US. The ministry described the deal as an opening for a gradual restoration of business ties.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2cfb2b2f439725ce",
+    "db7d262f043bbbbd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzubq4obvd2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzubq4obvd2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzubrnkcpf24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzubrnkcpf24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7dc0e86cbacf",
+   "created_at": "2026-11-09T06:35:45Z"
+  },
   {
    "id": "c24019eaab88",
    "ts": "2026-11-09T05:50:07Z",
@@ -6257,33 +6284,6 @@
    "model": "opus",
    "run_id": "1fa3d2f8824b",
    "created_at": "2026-11-05T10:30:58Z"
-  },
-  {
-   "id": "814cecf28114",
-   "ts": "2026-11-05T10:20:27Z",
-   "headline": "ECB's Zigman sees a fairly high likelihood of a rate rise in December but says the extent of further tightening is still unclear",
-   "detail": "ECB Governing Council member Zigman said there is a sizeable chance that rates are raised in December. He added that it is too early to judge how much more tightening will be needed.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "651e3b71d223c026",
-    "f2112e5b4dc1138a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkng5fqkj2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkng5fqkj2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkngfhi5n2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkngfhi5n2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bf651ab44508",
-   "created_at": "2026-11-05T10:20:50Z"
   }
  ]
 }
