@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T13:15:52Z",
+ "generated_at": "2026-11-09T14:01:16Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c5f14fd44501",
+   "ts": "2026-11-09T13:57:17Z",
+   "headline": "WTI crude drops to $86.60, its lowest level since early September",
+   "detail": "US crude fell as low as $86.60 a barrel in Monday trade, its lowest since early September, according to market reports.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "41c1990763cd3f9c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzv3fklnr32f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzv3fklnr32f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d46ed55f6831",
+   "created_at": "2026-11-09T14:01:16Z"
+  },
+  {
+   "id": "ef3cde871249",
+   "ts": "2026-11-09T13:56:21Z",
+   "headline": "USTR pauses action on China's shipbuilding sector until 10 January 2027 and extends 178 China tariff exclusions",
+   "detail": "According to a Federal Register notice, the US Trade Representative has suspended any action on China's shipbuilding and maritime sector until 10 January 2027 to allow further talks. It also said it would further extend all 178 current exclusions linked to China's technology transfer, intellectual property and innovation.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6825a5d5445995b5",
+    "0ed227bb13d17030"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzv3dvcdac2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzv3dvcdac2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzv3h3pgn32f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzv3h3pgn32f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d46ed55f6831",
+   "created_at": "2026-11-09T14:01:16Z"
+  },
   {
    "id": "b2a8670ce192",
    "ts": "2026-11-09T13:11:51Z",
@@ -6044,60 +6092,6 @@
    "model": "opus",
    "run_id": "a97836e8e3ac",
    "created_at": "2026-11-05T13:31:00Z"
-  },
-  {
-   "id": "7ff2d052e028",
-   "ts": "2026-11-05T13:19:48Z",
-   "headline": "BoE's Bailey backs greater trade and openness with the EU and links above-target inflation to very large supply shocks",
-   "detail": "Bank of England Governor Andrew Bailey said he favours greater trade and openness when asked about closer ties with the EU. Asked about UK inflation staying above target, he said the economy has been dealing with very big supply shocks.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "5e224a59d176994c",
-    "b2de902a7a094449"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkxapskex2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkxapskex2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkxgtsosq2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkxgtsosq2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5a03781161dc",
-   "created_at": "2026-11-05T13:20:49Z"
-  },
-  {
-   "id": "0750b6af4999",
-   "ts": "2026-11-05T13:13:57Z",
-   "headline": "BoE's Bailey says he hopes the Bank will know more about the war's outcome by December",
-   "detail": "Bank of England Governor Bailey said he hoped more information on how the war turns out would be available by the December meeting. He spoke on the day the Bank raised Bank Rate.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "2a42b65add336d49",
-    "4acebb08a66f95ee"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkx4few6w2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkx4few6w2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkx5fy73x2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkx5fy73x2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ae4d71ca855f",
-   "created_at": "2026-11-05T13:15:56Z"
   }
  ]
 }
