@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T15:45:51Z",
+ "generated_at": "2026-11-09T15:50:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e567896835ee",
+   "ts": "2026-11-09T15:50:09Z",
+   "headline": "Fuel shortages hit Russian regions again after Ukrainian strikes on at least eight major refineries in two weeks",
+   "detail": "Reuters reports that fuel shortages have returned to parts of Russia after Ukraine struck at least eight major oil refineries over the past two weeks. The report says drivers could again face long queues at filling stations.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "5ccd6a4a8103df44"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzvbpehgmz2w",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzvbpehgmz2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fc95b5b3399a",
+   "created_at": "2026-11-09T15:50:47Z"
+  },
   {
    "id": "0fb64b1c26f9",
    "ts": "2026-11-09T15:41:36Z",
@@ -5909,27 +5930,6 @@
    "model": "opus",
    "run_id": "f0481e0127b0",
    "created_at": "2026-11-05T15:20:56Z"
-  },
-  {
-   "id": "61dfe0433acf",
-   "ts": "2026-11-05T15:13:49Z",
-   "headline": "Fed's Hammack says she sees inflationary pressures spreading across the US economy",
-   "detail": "Cleveland Fed President Beth Hammack said inflation pressures are spreading more widely through the economy. She made the comments in remarks on Thursday.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8c64e0473979b9d1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl5spzs3725",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl5spzs3725"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bf92f304c684",
-   "created_at": "2026-11-05T15:15:55Z"
   }
  ]
 }
