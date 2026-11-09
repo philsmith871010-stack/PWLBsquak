@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T11:50:49Z",
+ "generated_at": "2026-11-09T12:10:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4cd17b543c1e",
+   "ts": "2026-11-09T12:09:17Z",
+   "headline": "Canada announces more sanctions on Russia aimed at reducing its missile capabilities",
+   "detail": "The Canadian government announced the additional sanctions against Russia in a statement on Monday. The statement says they are meant to reduce Russia's missile capabilities.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e5775b4113755abc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuvegybkr2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuvegybkr2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bdf575bca368",
+   "created_at": "2026-11-09T12:10:53Z"
+  },
   {
    "id": "efcc25d08c7d",
    "ts": "2026-11-09T11:49:05Z",
@@ -6071,27 +6092,6 @@
    "model": "opus",
    "run_id": "4054b52cb770",
    "created_at": "2026-11-05T13:11:20Z"
-  },
-  {
-   "id": "ba013a2fd783",
-   "ts": "2026-11-05T13:04:59Z",
-   "headline": "BoE's Bailey says he does not believe the Bank has moved too late",
-   "detail": "The Bank of England Governor made the remark after the MPC raised Bank Rate to 4.0% from 3.75%.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "d6e370db3f2c4918"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwmdzonv2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwmdzonv2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "da34c80ceb2b",
-   "created_at": "2026-11-05T13:05:40Z"
   }
  ]
 }
