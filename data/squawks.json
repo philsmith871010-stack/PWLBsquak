@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T11:20:51Z",
+ "generated_at": "2026-11-09T11:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fa26741d5442",
+   "ts": "2026-11-09T11:32:34Z",
+   "headline": "France to lift its minimum wage by 1.6% to €1,502, with the increase brought forward to 1 December",
+   "detail": "France's labour minister says the government will raise the minimum wage by 1.6% to €1,502. The minister says the increase will now take effect on 1 December.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "41b02fc98f6018c0",
+    "08b9de9ae6664412"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzutcrg5kg2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzutcrg5kg2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzutcvdyuq26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzutcvdyuq26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2c92125b14b8",
+   "created_at": "2026-11-09T11:35:44Z"
+  },
   {
    "id": "bead8325b041",
    "ts": "2026-11-09T11:18:31Z",
@@ -6065,45 +6092,6 @@
    "model": "opus",
    "run_id": "f686c1533d01",
    "created_at": "2026-11-05T12:55:44Z"
-  },
-  {
-   "id": "ef5ee5803097",
-   "ts": "2026-11-05T12:49:10Z",
-   "headline": "BoE's Bailey says a further rise in Bank Rate may be warranted unless there is progress towards resolving the conflict",
-   "detail": "At his press conference after the hike, the Governor said market pricing for more tightening next year mostly reflects risk premia rather than expected rates, which he called a fair reflection of energy risks. He welcomed the latest fall in oil prices and said good news on the conflict would mean CPI peaking somewhat below 5%.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "5bca21965927a04b",
-    "9a8c35f0b918a728",
-    "b6b50c89c86c4229",
-    "c09b343ac5656d9b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkvq3bars2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkvq3bars2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkvnh6hwq2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkvnh6hwq2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkvp67is624",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkvp67is624"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkvrm2rnl2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkvrm2rnl2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "789b60228e54",
-   "created_at": "2026-11-05T12:50:57Z"
   }
  ]
 }
