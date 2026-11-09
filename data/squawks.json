@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T18:40:49Z",
+ "generated_at": "2026-11-09T18:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "631e075dd4b1",
+   "ts": "2026-11-09T18:42:49Z",
+   "headline": "Fed's Barkin calls last jobs report healthy but says firms are still in a low-hire, low-fire mode",
+   "detail": "Richmond Fed President Barkin also said ballot measures approved in recent US elections should not stop data centre expansion because firms will find other places to build. He added that it would help if each Fed policy meeting came with two full months of economic data.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4cef2e13b1db8969",
+    "8c46976042b30b1f",
+    "1b9640bb566ba9ac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvle4funa2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvle4funa2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvlexk2672f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvlexk2672f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvld4tv6n26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvld4tv6n26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "677560b54611",
+   "created_at": "2026-11-09T18:45:51Z"
+  },
   {
    "id": "82572baf8814",
    "ts": "2026-11-09T18:40:17Z",
@@ -6131,33 +6164,6 @@
    "model": "opus",
    "run_id": "5d8f5daafb89",
    "created_at": "2026-11-05T21:40:49Z"
-  },
-  {
-   "id": "00ee8ea42dc5",
-   "ts": "2026-11-05T21:34:48Z",
-   "headline": "Trump says he met Putin envoy Dmitriev and a Russia-Ukraine settlement is very close, in a deal involving all of Europe",
-   "detail": "US President Trump said he met Russia's Dmitriev on Thursday and that the US is very close to settling the Russia-Ukraine war. He said the deal would be a big agreement involving all of Europe.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "aa8f2293eb4665ec",
-    "6ef51b72840ef530"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlt3xkska2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlt3xkska2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlt5fsk222y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlt5fsk222y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "79776d5dc67a",
-   "created_at": "2026-11-05T21:35:42Z"
   }
  ]
 }
