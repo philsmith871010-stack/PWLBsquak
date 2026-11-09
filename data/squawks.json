@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T13:01:12Z",
+ "generated_at": "2026-11-09T13:10:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "de12c505db37",
+   "ts": "2026-11-09T13:09:20Z",
+   "headline": "Qatari official says the US and Iran are working through deal details with mediators and calls reports on the proposal's terms false",
+   "detail": "An unnamed Qatari official said the US and Iran are in contact with mediators over the details of a deal. The same official rejected circulating reports about the content of the US-Iran proposal as false.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "601a2785d0d1dc24",
+    "326c46d28b96a131",
+    "55c51558b59b47c3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuypt4yrk2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuypt4yrk2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuyqtioms2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuyqtioms2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuyqy2y2e24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuyqy2y2e24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b4cbc0f6aff4",
+   "created_at": "2026-11-09T13:10:52Z"
+  },
   {
    "id": "e875d5364a1d",
    "ts": "2026-11-09T12:56:38Z",
@@ -6071,27 +6104,6 @@
    "model": "opus",
    "run_id": "ae4d71ca855f",
    "created_at": "2026-11-05T13:15:56Z"
-  },
-  {
-   "id": "b628c4074090",
-   "ts": "2026-11-05T13:11:01Z",
-   "headline": "Banks take £142.8bn in the Bank of England's short-term repo operation",
-   "detail": "Banks borrowed £142.8bn through the Bank of England's short-term repo operation on 5 November.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "d99ea6773c3abbb1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwx5dej22b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwx5dej22b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4054b52cb770",
-   "created_at": "2026-11-05T13:11:20Z"
   }
  ]
 }
