@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T15:01:13Z",
+ "generated_at": "2026-11-09T15:10:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e77af7e1e5bb",
+   "ts": "2026-11-09T15:08:59Z",
+   "headline": "EU's von der Leyen backs Abu Dhabi Ukraine peace talks and says Black Sea freedom of navigation must be preserved and restored",
+   "detail": "European Commission President Ursula von der Leyen said she supports the Ukraine peace talks due to take place in Abu Dhabi on Tuesday. She also said again that freedom of navigation in the Black Sea must be preserved and restored.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "595a32ddac90afb9",
+    "0c119dd19eef8d5c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzv7friwkb2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzv7friwkb2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzv7et5mft2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzv7et5mft2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "56c4cae8f286",
+   "created_at": "2026-11-09T15:10:49Z"
+  },
   {
    "id": "cc0349ff976e",
    "ts": "2026-11-09T15:01:07Z",
@@ -5867,27 +5894,6 @@
    "model": "opus",
    "run_id": "2896299ec4a5",
    "created_at": "2026-11-05T14:31:41Z"
-  },
-  {
-   "id": "f82a5229f037",
-   "ts": "2026-11-05T14:24:31Z",
-   "headline": "Fed's Barkin links productivity gains to adapting to post-pandemic labour shortages rather than to AI",
-   "detail": "Richmond Fed President Barkin said the main current driver of productivity is adaptation to the labour shortages that began during the pandemic, not AI. The remarks follow US Q3 productivity rising 3.6%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0019d69db8223828"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl32kqlyr2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl32kqlyr2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7fe2534794e4",
-   "created_at": "2026-11-05T14:25:52Z"
   }
  ]
 }
