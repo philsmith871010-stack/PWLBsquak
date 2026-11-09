@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T20:20:50Z",
+ "generated_at": "2026-11-09T20:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f0ae3bedaad1",
+   "ts": "2026-11-09T20:23:42Z",
+   "headline": "Trump says this week's Abu Dhabi talks on Ukraine offer a chance of a possible breakthrough",
+   "detail": "US President Donald Trump said on Monday that the Abu Dhabi talks on the war in Ukraine, due this week, could bring a breakthrough. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "528ad25c6e7733ea"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvqyjlz5f2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvqyjlz5f2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5bebbfd00f73",
+   "created_at": "2026-11-09T20:25:41Z"
+  },
   {
    "id": "95cbb223eff8",
    "ts": "2026-11-09T20:19:13Z",
@@ -5988,27 +6009,6 @@
      "author": "financialtimes.com",
      "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzmntrcill2w",
      "url": "https://bsky.app/profile/financialtimes.com/post/3mzmntrcill2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5c295024e512",
-   "created_at": "2026-11-06T06:15:46Z"
-  },
-  {
-   "id": "1d62d9328534",
-   "ts": "2026-11-06T04:41:33Z",
-   "headline": "EU-China trade truce comes under threat as both sides prepare for possible escalation, SCMP reports",
-   "detail": "The South China Morning Post reports that the EU and China are each getting ready for the trade dispute to escalate, which puts their truce at risk.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5741353962f7a58b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmkx2s3oe24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmkx2s3oe24"
     }
    ],
    "model": "opus",
