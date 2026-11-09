@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T16:10:53Z",
+ "generated_at": "2026-11-09T16:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b66299cf39d6",
+   "ts": "2026-11-09T16:13:46Z",
+   "headline": "Saudi energy ministry source says the East-West oil pipeline was targeted in the Medina region",
+   "detail": "Saudi state media cited an energy ministry source as saying the East-West pipeline was targeted in the Medina region. The report gave no details on damage or on any effect on flows.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "c6103b1f127d736f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvczlxnnr2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvczlxnnr2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d1050116bc8e",
+   "created_at": "2026-11-09T16:15:50Z"
+  },
   {
    "id": "4485a1617ff9",
    "ts": "2026-11-09T16:10:12Z",
@@ -5981,33 +6002,6 @@
    "model": "opus",
    "run_id": "97acb9835446",
    "created_at": "2026-11-05T16:11:11Z"
-  },
-  {
-   "id": "0799a889b82a",
-   "ts": "2026-11-05T15:52:42Z",
-   "headline": "ECB's Lagarde says many indicators will arrive before the December meeting",
-   "detail": "ECB President Lagarde said a large amount of data will come in between now and the December policy meeting. She had also described the current situation as made difficult by the energy shock and AI pulling in opposite directions.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1cd78a27c224ace7",
-    "da8e2403d27ba1c3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl7yahhlq24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl7yahhlq24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl7vvvbfg2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl7vvvbfg2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bcf4a88be7ab",
-   "created_at": "2026-11-05T15:55:40Z"
   }
  ]
 }
