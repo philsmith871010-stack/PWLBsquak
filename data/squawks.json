@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T07:35:49Z",
+ "generated_at": "2026-11-09T07:45:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "eb7e7908c200",
+   "ts": "2026-11-09T07:44:00Z",
+   "headline": "Iran's Foreign Ministry spokesman says the US Iron Gate task force is meant to divert attention from the US midterm results",
+   "detail": "Iranian Foreign Ministry spokesman Baghaei said the US Task Force Iron Gate operation is a way of deflecting attention from the outcome of the US midterm elections. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "541720e1412032fa"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzugk36p2t2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzugk36p2t2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d07cb2ea3efa",
+   "created_at": "2026-11-09T07:45:57Z"
+  },
   {
    "id": "d3fccbe2745c",
    "ts": "2026-11-09T07:33:55Z",
@@ -6263,27 +6284,6 @@
    "model": "opus",
    "run_id": "7694ee6af2d8",
    "created_at": "2026-11-05T12:01:12Z"
-  },
-  {
-   "id": "64e6b5ac209e",
-   "ts": "2026-11-05T10:53:03Z",
-   "headline": "Iraq's government is reported to be closing several of its border crossings with Iran",
-   "detail": "Reports say the Iraqi government has announced that it is closing several border crossings with Iran. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1b8b94146672ea6d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkpah5jdt2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkpah5jdt2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e785541a4cc4",
-   "created_at": "2026-11-05T10:55:41Z"
   }
  ]
 }
