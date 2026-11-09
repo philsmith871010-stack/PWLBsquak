@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T07:55:53Z",
+ "generated_at": "2026-11-09T08:05:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ec9d1b8da935",
+   "ts": "2026-11-09T08:02:20Z",
+   "headline": "China extends its suspension of export controls aimed at US companies",
+   "detail": "A market news feed reported that China will extend its suspension of export controls targeting US companies. The report gave no new expiry date. It follows China's decision to keep its extra tariff on US imports suspended for two more months.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "70f773b9e37fd97c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuhkuawch2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuhkuawch2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f1a635dfcdd2",
+   "created_at": "2026-11-09T08:05:49Z"
+  },
   {
    "id": "797618441b6d",
    "ts": "2026-11-09T07:54:19Z",
@@ -6222,63 +6243,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkt6x4ia72p",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkt6x4ia72p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "16e063532bd6",
-   "created_at": "2026-11-05T12:05:41Z"
-  },
-  {
-   "id": "3aa8525e03e6",
-   "ts": "2026-11-05T12:01:49Z",
-   "headline": "BoE changes its guidance and will now assess the evidence at each meeting, adjusting Bank Rate as necessary",
-   "detail": "The Bank says most members judged policy to be still restrictive and that stronger than expected activity data added to the case for tightening. It says the risk of second-round effects has risen since September, though evidence of them from higher energy prices remains limited, and members still disagree on how much slack there is in the economy.",
-   "category": "boe",
-   "importance": 3,
-   "source_event_ids": [
-    "3d6c3c24e224f248",
-    "d3febb6aed682628",
-    "b0bb12dc505baa35",
-    "43bacb219339d76f",
-    "f448d7289d151e3b",
-    "9837254d154055f1",
-    "88a0add3f9936789"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkt3fgp5z2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkt3fgp5z2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkt7e363h22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkt7e363h22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkt3iw6ht25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkt3iw6ht25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzktb6kbcz2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzktb6kbcz2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkt2ez7fg2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkt2ez7fg2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzktb3bgso2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzktb3bgso2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzktagsvkf2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzktagsvkf2k"
     }
    ],
    "model": "opus",
