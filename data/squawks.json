@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T19:15:52Z",
+ "generated_at": "2026-11-09T19:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9455c0ce6553",
+   "ts": "2026-11-09T19:31:54Z",
+   "headline": "WTI crude December futures settle at $86.85, down $3.98 or 4.38% on the day",
+   "detail": "NYMEX WTI December crude futures settled at $86.85 a barrel, a fall of $3.98 or 4.38%. NYMEX natural gas December futures settled at $3.2180/MMBtu.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "932ff0774172dad4",
+    "9c17e06d00bb781a",
+    "bfc4b524dab501b9",
+    "3d45523f1d5b07e5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvo3v53iz2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvo3v53iz2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvo4ozngv2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvo4ozngv2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvo5zfi5322",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvo5zfi5322"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvo4vpga42y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvo4vpga42y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b783267046bc",
+   "created_at": "2026-11-09T19:35:44Z"
+  },
   {
    "id": "1cdd26188a5d",
    "ts": "2026-11-09T19:12:54Z",
@@ -6101,39 +6140,6 @@
    "model": "opus",
    "run_id": "ebb7bce3a45c",
    "created_at": "2026-11-06T06:05:38Z"
-  },
-  {
-   "id": "3af786646446",
-   "ts": "2026-11-05T23:53:08Z",
-   "headline": "10-year JGB futures rise 0.9 point in early trade as Nikkei futures fall 7%",
-   "detail": "Benchmark 10-year Japanese government bond futures gained 0.9 point in early Tokyo trade while Nikkei average futures fell 7%. South Korea's KOSPI dropped 8.8%, triggering a circuit breaker that halted trading for 8 minutes.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "04153af54d939cc7",
-    "8ed842aad500c69c",
-    "2d4ed99d2aa78793"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm2tdb7232p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm2tdb7232p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm2we5jex2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm2we5jex2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm3jqio5f2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm3jqio5f2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "84dc9af9e0f3",
-   "created_at": "2026-11-06T06:01:09Z"
   }
  ]
 }
