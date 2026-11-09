@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T19:40:51Z",
+ "generated_at": "2026-11-09T19:45:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d482968ed8fb",
+   "ts": "2026-11-09T19:45:21Z",
+   "headline": "Brent crude futures settle at $92.57 a barrel, down $5.75 or 5.85% on the day",
+   "detail": "Brent futures closed at $92.57 a barrel, $5.75 or 5.85% lower on the session.",
+   "category": "energy",
+   "importance": 3,
+   "source_event_ids": [
+    "ab3fba3312908286"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvotx2qvj2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvotx2qvj2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4bc44936f4d7",
+   "created_at": "2026-11-09T19:45:49Z"
+  },
+  {
+   "id": "59b32fc2e0d2",
+   "ts": "2026-11-09T19:42:59Z",
+   "headline": "Proposed US-Iran framework would reopen Strait of Hormuz, lift naval blockade and free $6bn-$9bn of Iranian assets, Al Arabiya says",
+   "detail": "Al Arabiya sources say the Strait of Hormuz would be opened and the naval blockade lifted immediately under the proposed framework, and the US would release $6 billion to $9 billion of Iranian assets if a deal is reached. The sources also say arrangements are being made to discuss the return of IAEA inspectors to Iran, without setting out the scope of their work.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "3dbebe7587bc2346",
+    "601f4a9dac292dcf",
+    "7ed21c68ba2a6267"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvopowpif2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvopowpif2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvopjmsxn2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvopjmsxn2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvopsr3iv2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvopsr3iv2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4bc44936f4d7",
+   "created_at": "2026-11-09T19:45:49Z"
+  },
   {
    "id": "5bb8798b3324",
    "ts": "2026-11-09T19:39:50Z",
@@ -6020,108 +6074,6 @@
    "model": "opus",
    "run_id": "787dd367a741",
    "created_at": "2026-11-06T06:10:43Z"
-  },
-  {
-   "id": "0fec6acf2ba7",
-   "ts": "2026-11-06T02:04:52Z",
-   "headline": "US Democrats are drawing up a plan to reverse Trump's tariffs on Canada, WSJ reports",
-   "detail": "The Wall Street Journal reported the plan after Democrats' midterm election gains.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c8345013dbde5279"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmc6vagrh2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmc6vagrh2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "787dd367a741",
-   "created_at": "2026-11-06T06:10:43Z"
-  },
-  {
-   "id": "3e80a2f21cd6",
-   "ts": "2026-11-06T00:46:49Z",
-   "headline": "Japan's PM Takaichi wants proceeds from the BoJ's faster ETF sales to fund spending on economic security",
-   "detail": "Takaichi said the proceeds could cover bond payments, allowing the government to fund public investment. In the same remarks she said she is watching the global market turbulence closely and that it is unclear whether the falls in AI and chip shares will be temporary.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "23dc5096c00bf24f",
-    "ab1eb49283fa8897",
-    "8b39b1c76c30ca28",
-    "baf64ffea2072f55",
-    "0fda6700835e9f45",
-    "2054fc974d68f4f9",
-    "08289fb8a405ce1a",
-    "2baefc9cd385ebc2",
-    "ab06adaf7b012798",
-    "2aa928155542b062",
-    "14119221edb69c52"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm5tdk6342d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm5tdk6342d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm5vj27nh2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm5vj27nh2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm5x22nvs25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm5x22nvs25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm5y5ageh2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm5y5ageh2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm5z6nz5h2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm5z6nz5h2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm62g3hjx24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm62g3hjx24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm4zyvi5x2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm4zyvi5x2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm52rl35u22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm52rl35u22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm532kw3u22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm532kw3u22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm55s35da2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm55s35da2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm63px3pa24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm63px3pa24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ebb7bce3a45c",
-   "created_at": "2026-11-06T06:05:38Z"
   }
  ]
 }
