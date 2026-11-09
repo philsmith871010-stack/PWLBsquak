@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T10:35:46Z",
+ "generated_at": "2026-11-09T11:20:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bead8325b041",
+   "ts": "2026-11-09T11:18:31Z",
+   "headline": "Brent crude falls to an intraday low below $96/bbl",
+   "detail": "Brent crude falls below $96 a barrel and hits a new intraday low on Monday. Earlier in the session, prices had already fallen after Trump said further US strikes on Iran were highly unlikely.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "7f26acec23104286"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzusjnts7c2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzusjnts7c2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "48575c3ea630",
+   "created_at": "2026-11-09T11:20:51Z"
+  },
+  {
+   "id": "4a4c1d6b6989",
+   "ts": "2026-11-09T11:16:48Z",
+   "headline": "Iran reportedly drops its demand to control the Strait of Hormuz and charge transit fees, Israel Hayom says",
+   "detail": "Israeli newspaper Israel Hayom reports that Iran appears to have dropped its demand to control the Strait of Hormuz and collect fees from ships passing through. There is no official confirmation from Tehran in the inputs.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "d3a144bc14982e98"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzusglfwd422",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzusglfwd422"
+    }
+   ],
+   "model": "opus",
+   "run_id": "48575c3ea630",
+   "created_at": "2026-11-09T11:20:51Z"
+  },
   {
    "id": "a7c44d3040c9",
    "ts": "2026-11-09T10:32:55Z",
@@ -6062,54 +6104,6 @@
    "model": "opus",
    "run_id": "789b60228e54",
    "created_at": "2026-11-05T12:50:57Z"
-  },
-  {
-   "id": "290808eab46e",
-   "ts": "2026-11-05T12:46:54Z",
-   "headline": "Brent fell almost 7% on Wednesday after US Vice President Vance blamed the war for Republican midterm losses",
-   "detail": "An economist reported that Brent dropped almost 7% after the Vice President's social media post, which linked the steep Republican losses at the midterms to the war.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "89865f63a63a605c"
-   ],
-   "sources": [
-    {
-     "author": "robin-j-brooks.bsky.social",
-     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3mzkvlyjuhs22",
-     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3mzkvlyjuhs22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "789b60228e54",
-   "created_at": "2026-11-05T12:50:57Z"
-  },
-  {
-   "id": "5c54cf3f8f90",
-   "ts": "2026-11-05T12:42:40Z",
-   "headline": "BoE's Bailey says economic activity has proved more resilient than expected and business investment has grown more than forecast",
-   "detail": "The Bank of England Governor made the remarks after today's rate decision, alongside comments on limiting the impact of the Iran conflict and on high domestic inflation pressures.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "25b0bf329587310c",
-    "662832f19626fba2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkveh5me22p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkveh5me22p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkvbjstro2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkvbjstro2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fe47afb15765",
-   "created_at": "2026-11-05T12:45:48Z"
   }
  ]
 }
