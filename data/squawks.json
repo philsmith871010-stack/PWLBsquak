@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T20:50:57Z",
+ "generated_at": "2026-11-09T21:10:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cf00c7476b67",
+   "ts": "2026-11-09T21:09:34Z",
+   "headline": "Arab and Muslim leaders press Trump not to restart war with Iran, FT reports",
+   "detail": "The Financial Times reports that Arab and Muslim leaders are trying to ease tensions, amid fears that the US president will resume hostilities with Iran.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b19ed7328326cfb9"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzvtkjnc662s",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mzvtkjnc662s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "501ca9e40293",
+   "created_at": "2026-11-09T21:10:48Z"
+  },
   {
    "id": "bce8cbf6e10d",
    "ts": "2026-11-09T20:46:08Z",
@@ -5987,27 +6008,6 @@
    "model": "opus",
    "run_id": "19c21f50b16d",
    "created_at": "2026-11-06T07:05:40Z"
-  },
-  {
-   "id": "56d25358f00c",
-   "ts": "2026-11-06T06:06:41Z",
-   "headline": "Shanghai crude front-month futures rise 2.00% intraday to 651.20 yuan a barrel",
-   "detail": "China's Shanghai crude (SC) front-month contract rose 2.00% during the session to 651.20 yuan a barrel, according to a market commentary account.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "a4539649bcbaf69d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmppchliy24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmppchliy24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4eaeb08f57f1",
-   "created_at": "2026-11-06T06:20:48Z"
   }
  ]
 }
