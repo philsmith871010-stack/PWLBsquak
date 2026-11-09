@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T08:40:51Z",
+ "generated_at": "2026-11-09T08:45:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7de859708337",
+   "ts": "2026-11-09T08:43:13Z",
+   "headline": "Dutch finance minister says the next ECB president should be chosen on merit, not through political bargaining",
+   "detail": "The Dutch finance minister said the choice of Lagarde's successor should be based on merit and kept out of political discussions. Spain and the Netherlands both have candidates in the race.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b8d35d58897450b8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzujtxewsl2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzujtxewsl2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c080a51df381",
+   "created_at": "2026-11-09T08:45:48Z"
+  },
   {
    "id": "fecc82e0ba37",
    "ts": "2026-11-09T08:39:30Z",
@@ -6120,27 +6141,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzktdzjeta2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzktdzjeta2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f38f1c85e60e",
-   "created_at": "2026-11-05T12:10:48Z"
-  },
-  {
-   "id": "1a86db9183e7",
-   "ts": "2026-11-05T12:05:44Z",
-   "headline": "BoE adverse scenario has CPI inflation peaking at 6.2% in Q3 2027",
-   "detail": "The adverse scenario in the Bank of England's November Monetary Policy Report shows CPI peaking at 6.2% in Q3 2027.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "fbd17704e3fe4dd6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzktcfpavq2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzktcfpavq2a"
     }
    ],
    "model": "opus",
