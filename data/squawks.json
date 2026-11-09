@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T21:50:54Z",
+ "generated_at": "2026-11-09T22:01:14Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "20153cc774c9",
+   "ts": "2026-11-09T22:01:02Z",
+   "headline": "Trump says the US has another aircraft carrier ready as Iran talks continue",
+   "detail": "US President Trump said in remarks on Iran on Monday evening that the US has a further aircraft carrier loaded up. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "05b9996e875f8990"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvwgke7cw2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvwgke7cw2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "42af1d566df6",
+   "created_at": "2026-11-09T22:01:14Z"
+  },
   {
    "id": "85104f48f7d1",
    "ts": "2026-11-09T21:48:15Z",
@@ -5969,27 +5990,6 @@
    "model": "opus",
    "run_id": "765799722a67",
    "created_at": "2026-11-06T09:40:50Z"
-  },
-  {
-   "id": "34e3292023d3",
-   "ts": "2026-11-06T08:00:58Z",
-   "headline": "Swiss consumer confidence falls to -44.9, well below the -35.5 forecast",
-   "detail": "The seasonally adjusted Swiss consumer confidence index came in at -44.9, against a forecast of -35.5 and a previous reading of -34.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6545cea3c3ea2663"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmw3nkpsr24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmw3nkpsr24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "761f907c2ac7",
-   "created_at": "2026-11-06T08:01:20Z"
   }
  ]
 }
