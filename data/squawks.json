@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T19:01:12Z",
+ "generated_at": "2026-11-09T19:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "647051989592",
+   "ts": "2026-11-09T19:01:37Z",
+   "headline": "Bank of France expects moderate growth in the French economy in the fourth quarter",
+   "detail": "The Bank of France says French economic growth will be moderate in the fourth quarter. It had earlier said it faces great uncertainty in assessing growth.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0c567352ebdc1bec"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvmfqk3vy2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvmfqk3vy2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0113cf7303a5",
+   "created_at": "2026-11-09T19:05:41Z"
+  },
   {
    "id": "22c2fbac9cb0",
    "ts": "2026-11-09T19:01:09Z",
@@ -6137,27 +6158,6 @@
    "model": "opus",
    "run_id": "afbd93d3a080",
    "created_at": "2026-11-05T22:45:46Z"
-  },
-  {
-   "id": "faf74b8855e3",
-   "ts": "2026-11-05T22:21:38Z",
-   "headline": "US envoy Kushner says the US will host the first US-Ukraine-Russia peace talks since February in Abu Dhabi next week",
-   "detail": "US envoy Jared Kushner said Washington will convene the three-way talks with Ukraine and Russia in Abu Dhabi next week. They would be the first such trilateral talks since February.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "17114eaaaa181ce6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlvppvoii2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlvppvoii2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0126c98d885e",
-   "created_at": "2026-11-05T22:25:43Z"
   }
  ]
 }
