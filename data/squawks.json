@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T14:01:16Z",
+ "generated_at": "2026-11-09T14:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ad89c942f93a",
+   "ts": "2026-11-09T14:04:13Z",
+   "headline": "French 10-year yield falls to about 4.69%, its lowest since 25 September",
+   "detail": "France's 10-year government bond yield fell to around 4.69% on Monday afternoon, its lowest level since 25 September, according to a market wire report.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "d22f293c64252560"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzv3rwxii22a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzv3rwxii22a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "75a8d5b00dda",
+   "created_at": "2026-11-09T14:05:42Z"
+  },
   {
    "id": "c5f14fd44501",
    "ts": "2026-11-09T13:57:17Z",
@@ -6054,39 +6075,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkxzmpxfy2k",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkxzmpxfy2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a97836e8e3ac",
-   "created_at": "2026-11-05T13:31:00Z"
-  },
-  {
-   "id": "0893772c357c",
-   "ts": "2026-11-05T13:27:58Z",
-   "headline": "SNB's Schlegel says Swiss inflation is mainly confined to fuel and energy, with no sign of broader price pressures",
-   "detail": "SNB Chairman Schlegel said current Swiss inflation is mostly limited to fuel and energy, and the Bank does not see price pressures broadening at present. He also said the SNB has the right tools to fight inflation in future.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "2c313dbb8d4667d0",
-    "7b33298faa5ef9dc",
-    "292f09e0e1e5f599"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkxvhiuhp2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkxvhiuhp2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkxwytthy2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkxwytthy2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkxxszdxh25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkxxszdxh25"
     }
    ],
    "model": "opus",
