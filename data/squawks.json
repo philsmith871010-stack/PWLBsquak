@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T21:17:28Z",
+ "generated_at": "2026-11-09T21:31:05Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b8b8db11bcb0",
+   "ts": "2026-11-09T21:30:59Z",
+   "headline": "Trump says he had an excellent conversation with Qatar's prime minister",
+   "detail": "The US president said this in a Truth Social post. Earlier reports said the talks covered efforts towards a deal with Iran.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f3e1a390e6a8bb76"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvuqtghpr2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvuqtghpr2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e0fc5b437072",
+   "created_at": "2026-11-09T21:31:05Z"
+  },
   {
    "id": "71bc61b87e79",
    "ts": "2026-11-09T21:10:54Z",
@@ -5969,39 +5990,6 @@
    "model": "opus",
    "run_id": "610e0d05a361",
    "created_at": "2026-11-06T07:40:45Z"
-  },
-  {
-   "id": "0ece1b5f3796",
-   "ts": "2026-11-06T07:10:58Z",
-   "headline": "UK house prices fall 1.2% year on year in October, Lloyds says, with the average price at £296,285",
-   "detail": "Lloyds puts the average UK house price in October at £296,285, the same as its September figure, and prices were down 1.2% on a year earlier. The lender says a difficult economic backdrop is testing housing demand.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "e0555ef1d00f703e",
-    "6cd9cfc36b838eee",
-    "e45544a07a9269e7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmtca4jg52k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmtca4jg52k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmtdptcxa26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmtdptcxa26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmtdswawk2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmtdswawk2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d0ef2244f137",
-   "created_at": "2026-11-06T07:15:51Z"
   }
  ]
 }
