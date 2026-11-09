@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T15:50:47Z",
+ "generated_at": "2026-11-09T16:01:16Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3de93abb18f1",
+   "ts": "2026-11-09T15:56:46Z",
+   "headline": "Rosneft rations petrol sales in Russia after a run of Ukrainian strikes on refineries",
+   "detail": "According to the FT, the state-owned Rosneft is limiting petrol sales to 30 litres per car in cities and 50 litres on highways. The move comes after a wave of Ukrainian strikes on Russian refineries.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "dcafb6b11a3546f8"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzvc37dfqh2f",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mzvc37dfqh2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0be4da7afd4d",
+   "created_at": "2026-11-09T16:01:16Z"
+  },
   {
    "id": "e567896835ee",
    "ts": "2026-11-09T15:50:09Z",
@@ -5909,27 +5930,6 @@
    "model": "opus",
    "run_id": "7619c42b3542",
    "created_at": "2026-11-05T15:25:47Z"
-  },
-  {
-   "id": "d0c2cfbcd6e7",
-   "ts": "2026-11-05T15:16:19Z",
-   "headline": "Fed's Hammack sees the possibility that the US labour market is strengthening",
-   "detail": "Cleveland Fed President Beth Hammack said she sees the labour market potentially getting stronger. She made the remark during the same appearance in which she earlier backed gradual rate rises.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "bc384cdb0760065e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl5x6vlly25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl5x6vlly25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f0481e0127b0",
-   "created_at": "2026-11-05T15:20:56Z"
   }
  ]
 }
