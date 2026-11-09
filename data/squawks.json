@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T15:31:03Z",
+ "generated_at": "2026-11-09T15:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "62bc9814a931",
+   "ts": "2026-11-09T15:34:38Z",
+   "headline": "Senior Iranian official says Tehran will not hold talks with the US until Washington acts on its seven conditions",
+   "detail": "A senior Iranian official told Press TV that Iran's position on negotiations with the US has not changed. The official said there will be no plan for talks unless the US takes practical action on Tehran's seven conditions.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4a21e2a8bac011a8",
+    "3d531d79996141e4",
+    "32b9d2f7a0948cb2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvatmvqrm2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvatmvqrm2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvaunxzvl2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvaunxzvl2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvauwtoyp2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvauwtoyp2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "290935656af3",
+   "created_at": "2026-11-09T15:35:41Z"
+  },
   {
    "id": "724694392cd0",
    "ts": "2026-11-09T15:30:28Z",
@@ -5891,27 +5924,6 @@
    "model": "opus",
    "run_id": "448201aa21af",
    "created_at": "2026-11-05T15:05:49Z"
-  },
-  {
-   "id": "a661d7bd57f7",
-   "ts": "2026-11-05T14:52:25Z",
-   "headline": "Fed's Hammack says stablecoin use by AI agents would mark a major shift",
-   "detail": "Cleveland Fed President Beth Hammack commented on AI agents using stablecoins. Her remarks came on 5 November.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4fad55ee458b6a74"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl4mhp2d42b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl4mhp2d42b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d88467b619de",
-   "created_at": "2026-11-05T14:55:42Z"
   }
  ]
 }
