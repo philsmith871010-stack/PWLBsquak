@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T20:01:13Z",
+ "generated_at": "2026-11-09T20:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "95cbb223eff8",
+   "ts": "2026-11-09T20:19:13Z",
+   "headline": "Trump says US is prepared to strike Iran if needed, though Qatar and Saudi Arabia favour a peaceful settlement",
+   "detail": "Speaking to Reuters after talks with Qatar's leader, US President Trump said Qatar would prefer a peaceful outcome with Iran but the US stands ready to carry out strikes if necessary. He added that Saudi Arabia would also prefer a peaceful solution to the conflict.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0f52d13a2fe3ea7b",
+    "3dcc9e78f4b064a0",
+    "a0cfc4b9aa7c9712"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvqqijoke2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvqqijoke2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvqrqlhkm2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvqrqlhkm2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvqrtxqzl2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvqrtxqzl2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "764ffa87c96a",
+   "created_at": "2026-11-09T20:20:50Z"
+  },
   {
    "id": "432614ba2bb8",
    "ts": "2026-11-09T19:58:22Z",
@@ -5976,33 +6009,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmkx2s3oe24",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmkx2s3oe24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5c295024e512",
-   "created_at": "2026-11-06T06:15:46Z"
-  },
-  {
-   "id": "1d9f9fb16fb7",
-   "ts": "2026-11-06T03:41:51Z",
-   "headline": "Brent crude futures climb more than $2 and break above $100 a barrel",
-   "detail": "Brent futures rose by more than $2 in Asian trading to go above $100 a barrel. US crude futures earlier gained $1 to $91.52 a barrel.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "3e6112d346545ffe",
-    "18ed7822451d150c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmhmctv2l25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmhmctv2l25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzmgvojkzq2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzmgvojkzq2g"
     }
    ],
    "model": "opus",
