@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T11:45:51Z",
+ "generated_at": "2026-11-09T11:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "efcc25d08c7d",
+   "ts": "2026-11-09T11:49:05Z",
+   "headline": "France extends its €1,000 fuel bonus cap into 2027, finance minister Lescure says",
+   "detail": "French finance minister Lescure says the cap of €1,000 on the fuel bonus will continue into 2027. No further details were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "b3f5971ae2b82a23"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuuacwgtd2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuuacwgtd2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cd23c690139e",
+   "created_at": "2026-11-09T11:50:49Z"
+  },
   {
    "id": "ca835cdca5db",
    "ts": "2026-11-09T11:45:09Z",
@@ -6066,27 +6087,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwmdzonv2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwmdzonv2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "da34c80ceb2b",
-   "created_at": "2026-11-05T13:05:40Z"
-  },
-  {
-   "id": "1576f6bc35fa",
-   "ts": "2026-11-05T13:03:48Z",
-   "headline": "BoE's Lombardelli says eurozone inflation data show the UK is not alone in its exposure to energy prices",
-   "detail": "The Bank of England Deputy Governor made the comment after the MPC's decision to raise Bank Rate to 4.0%.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "be3e8caf790b10d3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwk7zz4f2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwk7zz4f2b"
     }
    ],
    "model": "opus",
