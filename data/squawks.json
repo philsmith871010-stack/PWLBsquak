@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T12:10:53Z",
+ "generated_at": "2026-11-09T12:15:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4a8a3462dc96",
+   "ts": "2026-11-09T12:15:16Z",
+   "headline": "Iranian official Bagheri says moving enriched material out of Iran is not on the agenda, Iranian reports say",
+   "detail": "Iranian media reports cite Bagheri as saying that taking enriched material out of Iran is not under discussion, amid the running US-Iran talks. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e40c91717cd51a83"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuvp5diyq2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuvp5diyq2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "04c3a12e8266",
+   "created_at": "2026-11-09T12:15:49Z"
+  },
   {
    "id": "4cd17b543c1e",
    "ts": "2026-11-09T12:09:17Z",
@@ -6054,39 +6075,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwrier5y22",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwrier5y22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4054b52cb770",
-   "created_at": "2026-11-05T13:11:20Z"
-  },
-  {
-   "id": "d6bcf5fa577a",
-   "ts": "2026-11-05T13:06:44Z",
-   "headline": "BoE's Bailey rejects a 'two and done' rates outlook and sees a case for another 25bp hike if the war does not end",
-   "detail": "Bank of England Governor Bailey said he would not commit to a two-hike path and that, without an end to the war, he can see the argument for a further 25bp rise. He added that conditions are too volatile to rely on two days of news that has not been backed by a clear move towards a peace process.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "e03f854a884060a0",
-    "85674563387bb956",
-    "92a0552899983b3d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwphnwtn2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwphnwtn2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwroinit25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwroinit25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkwtxjob22k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkwtxjob22k"
     }
    ],
    "model": "opus",
