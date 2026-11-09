@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T07:05:40Z",
+ "generated_at": "2026-11-09T07:35:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d3fccbe2745c",
+   "ts": "2026-11-09T07:33:55Z",
+   "headline": "Iran's Foreign Ministry calls Tehran's two-day proposal the most reasonable offer in talks with the US",
+   "detail": "Iran's Foreign Ministry spokesperson Baghaei said Iran's two-day proposal is the most reasonable one under discussion. He also said pressure should not damage Iran's ties with Iraq.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a418837ba89410ee",
+    "173044560280de98"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzufy2gbkx2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzufy2gbkx2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzug37cr362v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzug37cr362v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "443e6fbd65d6",
+   "created_at": "2026-11-09T07:35:49Z"
+  },
   {
    "id": "e7a986c7f58d",
    "ts": "2026-11-09T07:05:05Z",
@@ -6257,39 +6284,6 @@
    "model": "opus",
    "run_id": "e785541a4cc4",
    "created_at": "2026-11-05T10:55:41Z"
-  },
-  {
-   "id": "4f6facee13e6",
-   "ts": "2026-11-05T10:33:46Z",
-   "headline": "European Commission pays €4.36bn to Ukraine from its €90bn support loan",
-   "detail": "European Commission President von der Leyen announced the €4.36bn payment as Ukraine goes into its fifth winter of the war. She said EU support will continue alongside efforts to reach a peace settlement.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c5e44dbbf5f0e209",
-    "b7d47f97f3ff9a39",
-    "c534804940632f47"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzko5xpraa2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzko5xpraa2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzko6s7b3r2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzko6s7b3r2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzko7mudvs25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzko7mudvs25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "93bbb7030606",
-   "created_at": "2026-11-05T10:35:46Z"
   }
  ]
 }
