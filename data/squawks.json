@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T18:31:01Z",
+ "generated_at": "2026-11-09T18:40:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "82572baf8814",
+   "ts": "2026-11-09T18:40:17Z",
+   "headline": "Zelenskyy tells European partners he expects sustained Russian attacks on Dnipro bridges aimed at splitting Ukraine",
+   "detail": "The FT reports that Ukraine's president has warned European partners he expects Russia to launch sustained attacks on bridges across the Dnipro river in an attempt to cut the country in half. The warning comes during the Abu Dhabi Ukraine talks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f05389ba4c8fb059"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzvl7lobhx2z",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mzvl7lobhx2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "69291d0a6e37",
+   "created_at": "2026-11-09T18:40:49Z"
+  },
   {
    "id": "e8b85be24a0f",
    "ts": "2026-11-09T18:21:23Z",
@@ -6137,27 +6158,6 @@
    "model": "opus",
    "run_id": "79776d5dc67a",
    "created_at": "2026-11-05T21:35:42Z"
-  },
-  {
-   "id": "7ced24620255",
-   "ts": "2026-11-05T21:28:42Z",
-   "headline": "Trump says the US must choose between going further on Iran and certifying the current position",
-   "detail": "US President Trump made the remarks on Thursday evening about Iran. The post did not say exactly what would be certified, and no market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ee0b071be6a2193f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzlsr2kwiq22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzlsr2kwiq22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a587d46ef924",
-   "created_at": "2026-11-05T21:31:02Z"
   }
  ]
 }
