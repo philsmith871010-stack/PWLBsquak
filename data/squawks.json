@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T19:35:44Z",
+ "generated_at": "2026-11-09T19:40:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5bb8798b3324",
+   "ts": "2026-11-09T19:39:50Z",
+   "headline": "US lets Iran enrich uranium at home to 3.67% and Tehran agrees, Al Arabiya sources say; preliminary enrichment deal seen as likely",
+   "detail": "Al Arabiya, citing sources, reports that Washington has allowed Iran to enrich uranium domestically to 3.67%, that Tehran has accepted, and that a preliminary agreement on cutting Iran's enrichment is likely. The same sources say arrangements are being made to discuss the return of IAEA inspectors to Iran, without saying what their duties would cover.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2b7a9d57fa7d901a",
+    "97cdfbe27c28c4af",
+    "a72a104892e9b388"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvok3p7es22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvok3p7es22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvolraq5c2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvolraq5c2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvoijyivs24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvoijyivs24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c8d05599419e",
+   "created_at": "2026-11-09T19:40:51Z"
+  },
   {
    "id": "9455c0ce6553",
    "ts": "2026-11-09T19:31:54Z",
@@ -6084,57 +6117,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm63px3pa24",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm63px3pa24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ebb7bce3a45c",
-   "created_at": "2026-11-06T06:05:38Z"
-  },
-  {
-   "id": "c76959ca2b07",
-   "ts": "2026-11-06T00:32:29Z",
-   "headline": "Japan's 2-year yield falls 6bp to 1.795% and China's 10-year yield hits a record low as the Asian tech sell-off deepens",
-   "detail": "The 2-year JGB yield fell 6bp to 1.795% and China's 10-year yield fell to a record low. South Korea's KOSPI dropped more than 8%, which set off a 20-minute trading halt, and the Nikkei was down 6.72%, 20% below its June peak.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "55b56a73aca8e8fa",
-    "daf9e0f978f41802",
-    "50da8265a706aa9b",
-    "6324e93731f71c9e",
-    "1760e4f4fa501348",
-    "ec5523f7de817539"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm4zorznw2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm4zorznw2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm5yuhhph2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm5yuhhph2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm4ddiz5v25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm4ddiz5v25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm4x5soso2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm4x5soso2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm466ylkh2z",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm466ylkh2z"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzm4m2yuo32b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzm4m2yuo32b"
     }
    ],
    "model": "opus",
