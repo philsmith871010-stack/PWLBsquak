@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T14:20:49Z",
+ "generated_at": "2026-11-09T14:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "23561d38ef69",
+   "ts": "2026-11-09T14:24:14Z",
+   "headline": "Germany's Merz threatens to block the EU's next budget unless the bloc unanimously agrees more financial support for Ukraine",
+   "detail": "The Financial Times reports that Chancellor Friedrich Merz is threatening to withhold Germany's agreement on the EU's next budget unless member states unanimously agree additional funding for Kyiv. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "582e699befbae55f"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzv4vq4xjg2v",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mzv4vq4xjg2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "68f380e34283",
+   "created_at": "2026-11-09T14:25:41Z"
+  },
   {
    "id": "5d04fcef12f3",
    "ts": "2026-11-09T14:18:41Z",
@@ -6017,45 +6038,6 @@
    "model": "opus",
    "run_id": "23dc31590f82",
    "created_at": "2026-11-05T13:55:42Z"
-  },
-  {
-   "id": "d49ff8e1a501",
-   "ts": "2026-11-05T13:31:17Z",
-   "headline": "US Q3 productivity rises 3.6%, beating the 2.7% forecast, while unit labour costs fall 0.7% against a 0.4% rise expected",
-   "detail": "Preliminary Q3 figures show US productivity at 3.6%, up from 1.4% previously, and unit labour costs at -0.7%, down from 1.2%. Treasury yields were reported as holding steady after the data, with the 10-year up 1.04bp at 4.902% and the 2-year up 3.31bp at 4.614%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "35148a4c692af354",
-    "15b7f4171f4ec7ad",
-    "c1e158fac60b0a56",
-    "9278f837deccccac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzky3eifxa2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzky3eifxa2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzky3hzxmm2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzky3hzxmm2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzky3lwxj22a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzky3lwxj22a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzkyct7ser2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzkyct7ser2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d6beac219524",
-   "created_at": "2026-11-05T13:35:43Z"
   }
  ]
 }
