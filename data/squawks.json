@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T15:25:41Z",
+ "generated_at": "2026-11-09T15:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "724694392cd0",
+   "ts": "2026-11-09T15:30:28Z",
+   "headline": "Resolution Foundation says three in five of the richest fifth of households qualify for the £100 Household Energy Payment",
+   "detail": "The think tank says the payment is poorly targeted, and notes that one in six of the poorest families report already being unable to afford to heat their homes.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "419b824deee86b67"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mzvam5nrvt2r",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mzvam5nrvt2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f3cd8b89c113",
+   "created_at": "2026-11-09T15:31:03Z"
+  },
+  {
+   "id": "3f30b1f984b4",
+   "ts": "2026-11-09T15:26:19Z",
+   "headline": "Fed's Goolsbee says services inflation is starting to pick up and data centre activity resembles old-style overheating",
+   "detail": "Chicago Fed President Goolsbee also said the Fed has to accept it has failed on inflation, and that consumer spending has been the main driver of growth.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "20672f932fcd7435",
+    "8512ae0541a7e860",
+    "543d0368c814715b",
+    "6537dc1cb4caf3a0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvaeqv6co2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvaeqv6co2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvafr7kuj2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvafr7kuj2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvaji4a7f2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvaji4a7f2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvakirded2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvakirded2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f3cd8b89c113",
+   "created_at": "2026-11-09T15:31:03Z"
+  },
   {
    "id": "6f3aba49f952",
    "ts": "2026-11-09T15:24:12Z",
@@ -5852,54 +5912,6 @@
    "model": "opus",
    "run_id": "d88467b619de",
    "created_at": "2026-11-05T14:55:42Z"
-  },
-  {
-   "id": "99d051c9b351",
-   "ts": "2026-11-05T14:38:34Z",
-   "headline": "Fed's Barkin says credit conditions in the banking sector look reassuring for now",
-   "detail": "Richmond Fed President Thomas Barkin said on Thursday that credit dynamics in the banking sector are reassuring at present.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "d110857a37f0d911"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl3tosiop2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl3tosiop2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9a23dd70d3a6",
-   "created_at": "2026-11-05T14:40:58Z"
-  },
-  {
-   "id": "ad2e67b8dd3b",
-   "ts": "2026-11-05T14:33:04Z",
-   "headline": "Fed's Barkin says changing how often the Fed holds policy meetings would not be a big deal",
-   "detail": "Richmond Fed President Barkin said a change in the number of policy-setting meetings would not matter much. He added that a different meeting pace would mean more data arriving before each meeting.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "9e37062dc84b54c0",
-    "1e50e63ea896fdb4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl3ju6q7r2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl3ju6q7r2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzl3lgk6mr2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzl3lgk6mr2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aa7208f4ea67",
-   "created_at": "2026-11-05T14:35:52Z"
   }
  ]
 }
