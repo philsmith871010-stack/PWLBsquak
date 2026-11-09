@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T09:31:05Z",
+ "generated_at": "2026-11-09T09:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f797bd81dce6",
+   "ts": "2026-11-09T09:35:04Z",
+   "headline": "Gulf stock markets rise in early Monday trade after Trump signals new US strikes on Iran are unlikely",
+   "detail": "Reuters reports Gulf stock markets gained early on Monday after President Trump indicated that new strikes on Iran were unlikely while talks continue to end the eight-month conflict.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d6d934f2161f587b"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzumqoef232w",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzumqoef232w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "063bd0547fde",
+   "created_at": "2026-11-09T09:35:41Z"
+  },
   {
    "id": "e95ad6787287",
    "ts": "2026-11-09T09:30:52Z",
@@ -6113,33 +6134,6 @@
    "model": "opus",
    "run_id": "f59a08e5fa2d",
    "created_at": "2026-11-05T12:35:47Z"
-  },
-  {
-   "id": "dc2e8080be6d",
-   "ts": "2026-11-05T12:20:14Z",
-   "headline": "Germany's Merz warns 'Made in Europe' rules could disrupt competition and says EU trade tools must not erode competitiveness",
-   "detail": "German Chancellor Friedrich Merz said EU 'Made in Europe' requirements could disrupt competition, and that EU trade instruments should not weaken Europe's competitive edge. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "478666c398e4e597",
-    "0a13492ff0da8176"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzku4dc7pp22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzku4dc7pp22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzku5dnjea2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzku5dnjea2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0421bf3da047",
-   "created_at": "2026-11-05T12:20:56Z"
   }
  ]
 }
