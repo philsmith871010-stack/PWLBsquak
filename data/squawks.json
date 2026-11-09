@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T19:05:41Z",
+ "generated_at": "2026-11-09T19:10:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c5fb92e7a87c",
+   "ts": "2026-11-09T19:10:13Z",
+   "headline": "OPEC oil output rises in October to 90% of its pre-war level, Reuters survey finds",
+   "detail": "A Reuters survey shows OPEC production rose in October, led by gains in Saudi Arabia, Kuwait and Iraq. Exports remain constrained by the Iran war and a US blockade on Iranian shipments.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "2129e46d2bd4f9d5"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzvmv4na742q",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzvmv4na742q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a1a569faa9c9",
+   "created_at": "2026-11-09T19:10:50Z"
+  },
   {
    "id": "647051989592",
    "ts": "2026-11-09T19:01:37Z",
@@ -6137,27 +6158,6 @@
    "model": "opus",
    "run_id": "84dc9af9e0f3",
    "created_at": "2026-11-06T06:01:09Z"
-  },
-  {
-   "id": "d779d1046021",
-   "ts": "2026-11-05T22:45:11Z",
-   "headline": "Iran says its nuclear proposal to the US will be discussed only once Washington meets Tehran's seven demands",
-   "detail": "A senior Iranian official told Reuters on Thursday that the proposal went to the United States via Qatar. The official said talks on it depend on the US first meeting Iran's seven demands.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "88d50a7dc196ee5f"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzlwztemfl2q",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzlwztemfl2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "afbd93d3a080",
-   "created_at": "2026-11-05T22:45:46Z"
   }
  ]
 }
