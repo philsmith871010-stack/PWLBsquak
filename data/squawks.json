@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T06:35:45Z",
+ "generated_at": "2026-11-09T07:01:13Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6d8c6af7e34e",
+   "ts": "2026-11-09T07:01:01Z",
+   "headline": "German trade surplus narrows to 15.6bn, below the 19.4bn forecast, as imports jump 4.2% m/m",
+   "detail": "Germany's seasonally adjusted trade balance came in at 15.6bn against a 19.4bn forecast and 19.5bn previously. Imports rose 4.2% month on month, against a 0.5% forecast and 0.9% previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f12caf8d13b72538",
+    "be9932456a9d51b8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzue57u2ls2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzue57u2ls2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzue5ecact2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzue5ecact2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "af1d7f93a569",
+   "created_at": "2026-11-09T07:01:13Z"
+  },
   {
    "id": "ab6f3bddeddc",
    "ts": "2026-11-09T06:17:54Z",
@@ -6258,27 +6285,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzknytkx3t2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzknytkx3t2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1fa3d2f8824b",
-   "created_at": "2026-11-05T10:30:58Z"
-  },
-  {
-   "id": "bebea603ce53",
-   "ts": "2026-11-05T10:25:42Z",
-   "headline": "Italy is set to approve reimbursements for gas-fired power plants to bring down electricity costs",
-   "detail": "A newswire headline reports that the Italian government is preparing to approve the reimbursement measure for gas plants to reduce power costs. No figures were given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "53ce77bfa5cc4cbf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzknpjgh7r2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzknpjgh7r2p"
     }
    ],
    "model": "opus",
