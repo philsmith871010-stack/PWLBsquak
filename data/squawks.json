@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T10:15:50Z",
+ "generated_at": "2026-11-10T10:20:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "633984fc8dc9",
+   "ts": "2026-11-10T10:18:17Z",
+   "headline": "Fed's Waller says he doesn't think any Fed colleagues believe rates are at the right level",
+   "detail": "Federal Reserve Governor Christopher Waller said he does not believe any of his Fed colleagues think policy rates are currently in the right place.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1a87db202d641b4e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx7muii2k22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx7muii2k22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f9edc924e793",
+   "created_at": "2026-11-10T10:20:52Z"
+  },
   {
    "id": "10a7c1b5d4ba",
    "ts": "2026-11-10T10:11:59Z",
@@ -5969,27 +5990,6 @@
    "model": "opus",
    "run_id": "6c78df33a8b0",
    "created_at": "2026-11-06T15:55:39Z"
-  },
-  {
-   "id": "afc96a05e848",
-   "ts": "2026-11-06T15:49:43Z",
-   "headline": "Polish foreign minister Sikorski says no deal to end the war can be reached without Ukraine and Europe",
-   "detail": "Poland's foreign minister Radoslaw Sikorski said on Friday that an agreement on the war in Ukraine cannot be made over the heads of Ukraine and Europe. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "fc6bad9eae2f7669"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqbtadhm22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqbtadhm22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7c81c2eb3640",
-   "created_at": "2026-11-06T15:50:50Z"
   }
  ]
 }
