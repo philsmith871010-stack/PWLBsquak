@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T10:20:52Z",
+ "generated_at": "2026-11-10T10:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "aa5b14a1d19f",
+   "ts": "2026-11-10T10:23:00Z",
+   "headline": "Qatar says its US-Iran mediation continues and both sides have responded positively",
+   "detail": "Qatar said its efforts to mediate between Iran and the US are continuing, and that both sides have reacted positively to the mediation.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2268ce1fff8bc358",
+    "c14106854fda88a1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx7um275t2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx7um275t2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx7vck2ba2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx7vck2ba2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "39a8b95eff71",
+   "created_at": "2026-11-10T10:25:42Z"
+  },
   {
    "id": "633984fc8dc9",
    "ts": "2026-11-10T10:18:17Z",
@@ -5945,51 +5972,6 @@
    "model": "opus",
    "run_id": "d812ad21d086",
    "created_at": "2026-11-06T16:01:08Z"
-  },
-  {
-   "id": "1368e3586610",
-   "ts": "2026-11-06T15:53:32Z",
-   "headline": "IMF's Georgieva says central banks must look through uncertainty and weigh any slowdown in AI-driven growth in the inflation fight",
-   "detail": "The IMF Managing Director said the AI investment boom and high valuations are affecting markets worldwide. She added that if the growth boost from AI slowed, central banks would need to factor that in as they decide their next steps against inflation.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "56aff12db6635b20",
-    "3157d196edab6cc8",
-    "13c91ef66fc9b5d0",
-    "3d8f96d9f63acaca",
-    "ba22f97b11d3eefe"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqinxstj2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqinxstj2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqjya5bj2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqjya5bj2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqkvla4j2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqkvla4j2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznql7s33t26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznql7s33t26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqlk246r2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqlk246r2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6c78df33a8b0",
-   "created_at": "2026-11-06T15:55:39Z"
   }
  ]
 }
