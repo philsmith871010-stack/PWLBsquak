@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T18:15:47Z",
+ "generated_at": "2026-11-10T18:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "97fd7d270f03",
+   "ts": "2026-11-10T18:17:53Z",
+   "headline": "US EIA holds 2026 world oil demand at 102.4m bpd, cuts 2027 to 104.4m bpd and trims its 2027 world output forecast",
+   "detail": "The US Energy Information Administration's Short-Term Energy Outlook keeps 2026 world oil demand at 102.4m bpd and lowers 2027 to 104.4m bpd from 104.6m bpd. It raises 2026 world oil output to 101.7m bpd from 101.1m bpd and cuts 2027 to 108.4m bpd from 109.6m bpd.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "99721dbcfcfb88d5",
+    "92559b52bb748c61"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy2gha6ns26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy2gha6ns26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy2ggv3bf2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy2ggv3bf2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "266211ac3f78",
+   "created_at": "2026-11-10T18:20:50Z"
+  },
   {
    "id": "01e4a7e3882f",
    "ts": "2026-11-10T18:15:18Z",
@@ -6149,27 +6176,6 @@
    "model": "opus",
    "run_id": "31549f026970",
    "created_at": "2026-11-09T10:35:46Z"
-  },
-  {
-   "id": "5e4c74f2d192",
-   "ts": "2026-11-09T10:02:43Z",
-   "headline": "Turkey's Erdogan says he told Trump on a call that Ankara opposes any new wave of attacks on Iran",
-   "detail": "Turkish President Erdogan said he raised Turkey's concerns about further strikes on Iran during a call with US President Trump. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "14f3103347ed6557"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuoc444gl26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuoc444gl26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0478b2b4095f",
-   "created_at": "2026-11-09T10:05:42Z"
   }
  ]
 }
