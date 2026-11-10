@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T08:40:49Z",
+ "generated_at": "2026-11-10T08:55:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ac466503cc03",
+   "ts": "2026-11-10T08:52:41Z",
+   "headline": "Brent crude drops below $90 a barrel for the first time since August",
+   "detail": "A market news account reported Brent futures falling below $90 a barrel on Tuesday morning, the lowest since August.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "91e3d4ae77839807"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx2tsopet26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx2tsopet26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7f9469fff8c3",
+   "created_at": "2026-11-10T08:55:45Z"
+  },
   {
    "id": "7f82b2987647",
    "ts": "2026-11-10T08:39:51Z",
@@ -5862,51 +5883,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmgtefh426",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmgtefh426"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4d48dc7ba666",
-   "created_at": "2026-11-06T14:45:52Z"
-  },
-  {
-   "id": "3c797bd85e99",
-   "ts": "2026-11-06T14:43:05Z",
-   "headline": "Fed's Musalem blames excess US inflation on energy shocks and the AI build-out; says consumption and investment are growing fast",
-   "detail": "St Louis Fed President Musalem said inflation must come back to 2% in a timely way. He said data-centre construction is adding to strong demand and that AI will bring much higher productivity.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "7f265b6034184a61",
-    "68c95a6ea53f7b2b",
-    "fb30d9275561b7f4",
-    "e53732ec199eb8a9",
-    "43a1656d8cff08dc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmi2zawx2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmi2zawx2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmkowwcr2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmkowwcr2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmkpfh7l2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmkpfh7l2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmllnvkz2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmllnvkz2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmmh3gnl2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmmh3gnl2q"
     }
    ],
    "model": "opus",
