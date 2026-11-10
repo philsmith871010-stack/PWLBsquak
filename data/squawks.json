@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T13:01:13Z",
+ "generated_at": "2026-11-10T13:10:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e30cd3e2894f",
+   "ts": "2026-11-10T13:09:25Z",
+   "headline": "BoE's Lombardelli says UK economy may have less slack than the Bank's central view, perhaps 0-1% rather than 1%",
+   "detail": "Bank of England Deputy Governor Clare Lombardelli said spare capacity in the UK economy may be smaller than the Bank's central estimate of 1%, putting it at perhaps 0-1%.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "5aa87ab11d0b1364"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxj6ujtwd22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxj6ujtwd22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f79e194c6ba4",
+   "created_at": "2026-11-10T13:10:55Z"
+  },
+  {
+   "id": "fdb643bd796d",
+   "ts": "2026-11-10T13:09:00Z",
+   "headline": "US Defense Secretary Hegseth says the US controls the Strait of Hormuz and over 80% of Iran's nuclear industrial base is gone",
+   "detail": "US Defense Secretary Pete Hegseth made the remarks at a press conference, where he also said Iran started the war.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0dd919bcd9c0fd5f",
+    "5ec562dc588547f6",
+    "12218466795f3feb",
+    "ae18befe873f1664"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxj65c53y2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxj65c53y2i"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxj64xpbn22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxj64xpbn22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxj65mafg2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxj65mafg2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxjabypgu2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxjabypgu2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f79e194c6ba4",
+   "created_at": "2026-11-10T13:10:55Z"
+  },
   {
    "id": "b73e6a2c3744",
    "ts": "2026-11-10T12:56:14Z",
@@ -5792,66 +5852,6 @@
    "model": "opus",
    "run_id": "09a8e0e9840f",
    "created_at": "2026-11-06T17:55:39Z"
-  },
-  {
-   "id": "fb40b2b1a526",
-   "ts": "2026-11-06T17:32:36Z",
-   "headline": "US Treasury Secretary Bessent says he and USTR Greer held talks with China's Vice Premier He Lifeng on economic ties",
-   "detail": "Bessent said that during the call with He Lifeng, he and Greer pressed China to honour its commitments under the Busan arrangement in full and without delay.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ca8217da8e927ae6",
-    "86b66114d895968b",
-    "8b69d3b02c0c707f",
-    "dc45fb2170fe21f0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznvzsmckv2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznvzsmckv2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznvzvrzh52d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznvzvrzh52d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznw2o62jr24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznw2o62jr24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznw3k3spu2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznw3k3spu2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e583717fd52c",
-   "created_at": "2026-11-06T17:35:45Z"
-  },
-  {
-   "id": "12416bb1f5c0",
-   "ts": "2026-11-06T17:30:51Z",
-   "headline": "Putin and Russia's Security Council discuss the upcoming Ukraine talks",
-   "detail": "Reports say President Putin discussed the forthcoming Ukraine negotiations with Russia's Security Council. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6d318069a642405c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznvwo5ocz26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznvwo5ocz26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c62ccffd8c92",
-   "created_at": "2026-11-06T17:30:57Z"
   }
  ]
 }
