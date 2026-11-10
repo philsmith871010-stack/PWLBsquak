@@ -1,8 +1,83 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T09:01:13Z",
+ "generated_at": "2026-11-10T09:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c224db931547",
+   "ts": "2026-11-10T09:01:14Z",
+   "headline": "Fed's Waller backs a December hike and is open to 50bp if October core CPI is 0.3% or more; traders fully price 25bp",
+   "detail": "Fed Governor Waller said he would back a quarter-point hike in December even if October CPI improves on September, and that a half-point move may be needed if October core CPI comes in around 0.3% or higher. He called US inflation too high, flagged concern about how widespread price rises are and the risk of a more persistent energy shock, and described the labour market as solid; traders were reported to have moved to fully price a 25bp December hike.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "00c25c5845f3292d",
+    "cb338d3b8cea3477",
+    "d2c8ba3b292e663f",
+    "4000f302c1c82a5f",
+    "64f7e21b1a5890b4",
+    "677f6f6a5d813c56",
+    "0686b1453e1ced87",
+    "5e2abeb0ae1fd2d4",
+    "c2ab366cbdd522fe",
+    "cf88517bfd2ac3c4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx3d3y6ea2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx3d3y6ea2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx3dsla3g2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx3dsla3g2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx3ejlhrr2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx3ejlhrr2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx3ejbx3m22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx3ejbx3m22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx3ejxcko2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx3ejxcko2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx3fam6xo2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx3fam6xo2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx3fxd3ng26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx3fxd3ng26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx3fxmmby26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx3fxmmby26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx3goawyj22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx3goawyj22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx3hfhgsf2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx3hfhgsf2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "061b6aee10f5",
+   "created_at": "2026-11-10T09:05:42Z"
+  },
   {
    "id": "c6754ab6b9a4",
    "ts": "2026-11-10T08:56:35Z",
@@ -5850,27 +5925,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmvwkdo62r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmvwkdo62r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "40448ae406f3",
-   "created_at": "2026-11-06T14:50:48Z"
-  },
-  {
-   "id": "45725c1a3de7",
-   "ts": "2026-11-06T14:47:52Z",
-   "headline": "Fed's Musalem says excess US inflation comes from both supply and demand; expects AI to lift productivity sharply",
-   "detail": "St Louis Fed President Musalem said the data centre build-out is adding to strong demand and that AI will bring much higher productivity.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "2530c582065d46f5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmtajbur2e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmtajbur2e"
     }
    ],
    "model": "opus",
