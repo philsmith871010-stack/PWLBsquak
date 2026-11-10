@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T10:25:42Z",
+ "generated_at": "2026-11-10T10:31:01Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f382c50b12b2",
+   "ts": "2026-11-10T10:30:07Z",
+   "headline": "Budget keeps the Local Housing Allowance freeze in place into 2027-28, Resolution Foundation says",
+   "detail": "According to the Resolution Foundation, more than a million families lose out from extending the freeze, and 91% of them are in the bottom half of the income distribution. The think tank says the Budget's Your First Home scheme will help a small number of renters buy.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "1546e86941015af5"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mzxabzgfgi2g",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mzxabzgfgi2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5f3459a3ffff",
+   "created_at": "2026-11-10T10:31:01Z"
+  },
+  {
+   "id": "2c6a3fb7e5c2",
+   "ts": "2026-11-10T10:28:30Z",
+   "headline": "Iran's IRGC navy says two tankers caught fire after striking naval mines in the Strait of Hormuz",
+   "detail": "Iranian state media and Tasnim carried the IRGC navy's report of the two tankers catching fire in the strait. The inputs report no market reaction.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d27362bf5159a3e0",
+    "200a02d4c0d0bd91"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxa755kce2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxa755kce2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxa75ic6y2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxa75ic6y2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5f3459a3ffff",
+   "created_at": "2026-11-10T10:31:01Z"
+  },
   {
    "id": "aa5b14a1d19f",
    "ts": "2026-11-10T10:23:00Z",
@@ -5913,60 +5961,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqviso3h22",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqviso3h22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d812ad21d086",
-   "created_at": "2026-11-06T16:01:08Z"
-  },
-  {
-   "id": "2db2d2470c52",
-   "ts": "2026-11-06T15:57:17Z",
-   "headline": "France has sold 3.6 million barrels of diesel from its strategic reserves so far, energy ministry says",
-   "detail": "The French energy ministry said 3.6 million barrels of diesel have been released from the country's strategic reserves to date.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "cf55816c23febe75"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqpewumc2e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqpewumc2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d812ad21d086",
-   "created_at": "2026-11-06T16:01:08Z"
-  },
-  {
-   "id": "60378d6d03a8",
-   "ts": "2026-11-06T15:56:04Z",
-   "headline": "IMF's Georgieva flags concern over large, rising global imbalances and expects AI-related market volatility to persist",
-   "detail": "IMF Managing Director Kristalina Georgieva said widening global imbalances have often come with fragile growth and have sometimes preceded financial crises. She also said market volatility linked to AI is likely to continue.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "688a55831253eb32",
-    "0ce94f4fc6dd70fa",
-    "9a81089ae6ae7c49"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqn6u3ik24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqn6u3ik24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqoga3jo22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqoga3jo22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqqc5fyx2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqqc5fyx2k"
     }
    ],
    "model": "opus",
