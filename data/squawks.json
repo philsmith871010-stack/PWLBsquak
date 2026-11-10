@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T06:01:15Z",
+ "generated_at": "2026-11-10T06:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f90c228b9491",
+   "ts": "2026-11-10T00:02:14Z",
+   "headline": "Barclays data show UK consumer spending up 2.3% y/y in October, the most since July 2025, while confidence hits its lowest since April",
+   "detail": "Barclays said UK card spending rose 2.3% year on year in October, up from 2.0% in September and the largest increase since July 2025. It also said consumer confidence in October was the weakest since April.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "c218c2055a760273",
+    "9be5387e57ab55c9",
+    "507558fe55ff95a2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzw57buh6g2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzw57buh6g2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzw5c3smw72w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzw5c3smw72w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzw56kos5z22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzw56kos5z22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fbee3a86409d",
+   "created_at": "2026-11-10T06:05:41Z"
+  },
   {
    "id": "577afbc6b111",
    "ts": "2026-11-10T00:01:49Z",
@@ -5898,39 +5931,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn4ryfgyh2k",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn4ryfgyh2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0c976b0d1e81",
-   "created_at": "2026-11-06T10:01:09Z"
-  },
-  {
-   "id": "0530dea42fa8",
-   "ts": "2026-11-06T09:57:49Z",
-   "headline": "EU Council agrees position to delay EU methane rules by one year to 1 January 2028",
-   "detail": "The Irish presidency says the Council of the EU has agreed to push the start of the EU methane regulation back to 1 January 2028. A document seen by Reuters shows the position allows further one-year postponements if implementation is not ready.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "943bc00e9a08b161",
-    "e32e41f23ed8969d",
-    "ef785403f36c7669"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn4mlhzoa22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn4mlhzoa22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn4pjox6x2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn4pjox6x2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn4poz5jm2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn4poz5jm2y"
     }
    ],
    "model": "opus",
