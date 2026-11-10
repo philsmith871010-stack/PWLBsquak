@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T08:35:42Z",
+ "generated_at": "2026-11-10T08:40:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7f82b2987647",
+   "ts": "2026-11-10T08:39:51Z",
+   "headline": "US gasoline price falls below $4 a gallon for the first time since July",
+   "detail": "A market commentator reports that US gasoline has dropped under $4 per gallon, its first time below that level since July.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "98c2f138b553f64a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx24tyi6522",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx24tyi6522"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8d67961f7e5f",
+   "created_at": "2026-11-10T08:40:49Z"
+  },
   {
    "id": "4f3b19fe6689",
    "ts": "2026-11-10T08:35:33Z",
@@ -5891,33 +5912,6 @@
    "model": "opus",
    "run_id": "4d48dc7ba666",
    "created_at": "2026-11-06T14:45:52Z"
-  },
-  {
-   "id": "1f3ec4747b34",
-   "ts": "2026-11-06T14:39:42Z",
-   "headline": "Fed's Musalem says public concern about current inflation persists but expectations remain anchored",
-   "detail": "St Louis Fed President Musalem said people are still worried about inflation at its present level. He also said inflation expectations remain anchored.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c2d51a5f51b1dd7f",
-    "986a93daad054595"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmemxsja2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmemxsja2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmfvncrx2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmfvncrx2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "62b8cbc1802f",
-   "created_at": "2026-11-06T14:40:48Z"
   }
  ]
 }
