@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T07:05:40Z",
+ "generated_at": "2026-11-10T07:35:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ec2fad38dbb4",
+   "ts": "2026-11-10T07:34:28Z",
+   "headline": "Ukraine peace talks get under way in Abu Dhabi, with US, Ukrainian and European delegations meeting",
+   "detail": "Market commentary accounts report that talks have begun in Abu Dhabi and that the US delegation is meeting Ukrainian and European delegations. No market reaction is reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6599ad52262d4529",
+    "076e1f80025efacd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwwhwrej225",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwwhwrej225"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwwjdz4ke22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwwjdz4ke22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d54472a0e55f",
+   "created_at": "2026-11-10T07:35:45Z"
+  },
   {
    "id": "90e964615a95",
    "ts": "2026-11-10T07:02:28Z",
@@ -5940,45 +5967,6 @@
      "author": "financialtimes.com",
      "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mznipndfy42a",
      "url": "https://bsky.app/profile/financialtimes.com/post/3mznipndfy42a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "41640c3dceac",
-   "created_at": "2026-11-06T13:35:41Z"
-  },
-  {
-   "id": "393faad58928",
-   "ts": "2026-11-06T13:31:23Z",
-   "headline": "Canada loses 4.7K jobs in October against a forecast 15K gain; unemployment rate rises to 6.7%",
-   "detail": "Canadian employment fell by 4,700 in October against a forecast rise of 15,000, after a 68,300 fall the previous month. The unemployment rate rose to 6.7% from 6.5%, and average hourly earnings growth slowed to 2% y/y from 2.30%, against a 2.05% forecast.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "72c719f77112f43e",
-    "c86b9af0a23cf4c9",
-    "bc3f708754acfcfe",
-    "1108d32c859898eb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznikhqtax2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznikhqtax2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznik77oy62t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznik77oy62t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznik3b7g224",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznik3b7g224"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzniog3bqc22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzniog3bqc22"
     }
    ],
    "model": "opus",
