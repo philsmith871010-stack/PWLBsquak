@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T17:25:41Z",
+ "generated_at": "2026-11-10T17:31:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d62479e947e2",
+   "ts": "2026-11-10T17:28:17Z",
+   "headline": "ECB's Lane says the ECB needs a tool for dealing with multiple equilibria in bond markets",
+   "detail": "ECB chief economist Philip Lane said it is important for the ECB to have an instrument for situations where bond markets could settle at more than one equilibrium. The remarks follow his earlier comments on forward guidance.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "d24694228693410f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxxnrdz742m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxxnrdz742m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ffea129be4a7",
+   "created_at": "2026-11-10T17:31:00Z"
+  },
   {
    "id": "31fda415a7f1",
    "ts": "2026-11-10T17:24:23Z",
@@ -6125,33 +6146,6 @@
    "model": "opus",
    "run_id": "c080a51df381",
    "created_at": "2026-11-09T08:45:48Z"
-  },
-  {
-   "id": "fecc82e0ba37",
-   "ts": "2026-11-09T08:39:30Z",
-   "headline": "Iraq prices December Basrah Medium to Asia at a $8.80/b discount and Basrah Heavy at a $11.80/b discount",
-   "detail": "Iraq has set its December official selling prices for crude sold to Asia: Basrah Medium at a discount of $8.80 a barrel and Basrah Heavy at a discount of $11.80 a barrel.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "3518a790d30098e9",
-    "003b3f9747ee3ea3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzujnck2km2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzujnck2km2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzujnjbwq62f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzujnjbwq62f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "05b483fadd99",
-   "created_at": "2026-11-09T08:40:51Z"
   }
  ]
 }
