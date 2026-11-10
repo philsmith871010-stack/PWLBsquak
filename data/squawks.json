@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T06:15:49Z",
+ "generated_at": "2026-11-10T06:20:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b69286b124c5",
+   "ts": "2026-11-10T05:59:38Z",
+   "headline": "Thames Water creditors ready a 'final' offer as PM Burnham weighs whether to nationalise the company, FT reports",
+   "detail": "The Financial Times reports that Thames Water's creditors are preparing what they describe as a final offer. It says the prime minister has been reluctant to take the company into state ownership despite having supported the idea earlier.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "dfd33bb47f38d53d"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzwr6dy35l2w",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mzwr6dy35l2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0de281cee848",
+   "created_at": "2026-11-10T06:20:58Z"
+  },
   {
    "id": "1e755ad40a1d",
    "ts": "2026-11-10T05:20:07Z",
@@ -5969,27 +5990,6 @@
    "model": "opus",
    "run_id": "1c214e9e744a",
    "created_at": "2026-11-06T12:45:52Z"
-  },
-  {
-   "id": "23c200f7a39c",
-   "ts": "2026-11-06T12:36:37Z",
-   "headline": "US and Iran move closer to a possible deal to end the war, Bloomberg reports, with Tehran open to nuclear topics once ruled out",
-   "detail": "Bloomberg reports that the US and Iran are nearing a possible agreement to end the war. It says Tehran is willing to discuss nuclear issues it had previously treated as off-limits.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "15cf55ebede39464"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznfikbyd52r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznfikbyd52r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f5d50dcab32a",
-   "created_at": "2026-11-06T12:40:45Z"
   }
  ]
 }
