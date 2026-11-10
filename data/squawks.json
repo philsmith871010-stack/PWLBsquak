@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T21:10:49Z",
+ "generated_at": "2026-11-10T21:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "13dfbff5e902",
+   "ts": "2026-11-10T21:15:39Z",
+   "headline": "Fed's Bowman says AI will raise worker productivity, create new jobs and remove less essential ones",
+   "detail": "Federal Reserve Vice Chair for Supervision Michelle Bowman commented on the labour market effects of artificial intelligence in remarks on Tuesday.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e2a034b081b5e574"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyeecxueu2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyeecxueu2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "184367514f03",
+   "created_at": "2026-11-10T21:15:50Z"
+  },
   {
    "id": "3cf6feccf60a",
    "ts": "2026-11-10T21:07:03Z",
@@ -6336,27 +6357,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzv53yjwn42a",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzv53yjwn42a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5baa86fba447",
-   "created_at": "2026-11-09T14:31:02Z"
-  },
-  {
-   "id": "92139d1adf8d",
-   "ts": "2026-11-09T14:25:40Z",
-   "headline": "Brent crude losses deepen to 5% on the day",
-   "detail": "A market news account reports that Brent crude's decline has reached 5%. Oil had already been falling after Trump said further US strikes on Iran were highly unlikely.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "af7abb6a2bb081fc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzv4ycsgco2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzv4ycsgco2u"
     }
    ],
    "model": "opus",
