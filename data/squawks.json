@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T09:55:40Z",
+ "generated_at": "2026-11-10T10:05:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d43d9a9bb95f",
+   "ts": "2026-11-10T10:03:20Z",
+   "headline": "UK 30-year gilt auction draws 3.75 times cover at an average yield of 5.54%",
+   "detail": "The 30-year gilt sale was covered 3.75 times, down from 3.84 at the previous auction. The average yield was 5.54%, compared with 5.517% last time.",
+   "category": "supply",
+   "importance": 2,
+   "source_event_ids": [
+    "e1a67016dd9fc998",
+    "4a314c1c19eff596"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx6s57dmj25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx6s57dmj25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx6s4xpd32q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx6s4xpd32q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "34ab0bcb814d",
+   "created_at": "2026-11-10T10:05:44Z"
+  },
+  {
+   "id": "5b53a1681961",
+   "ts": "2026-11-10T10:02:55Z",
+   "headline": "ECB's Kazaks says policy must stop energy inflation spilling over and gradual action is still appropriate",
+   "detail": "ECB Governing Council member Kazaks said policymakers must stay vigilant and cautious. He said it remains appropriate to act gradually and that policy must keep energy inflation from spreading further.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "358de48d8ff24f81",
+    "fc7639918fbcd886",
+    "a1826bdb903c5398"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx6rfd7bc22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx6rfd7bc22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx6rfu7fz25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx6rfu7fz25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx6rfndor25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx6rfndor25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "34ab0bcb814d",
+   "created_at": "2026-11-10T10:05:44Z"
+  },
   {
    "id": "f08fa9e35640",
    "ts": "2026-11-10T09:53:55Z",
@@ -5912,54 +5972,6 @@
    "model": "opus",
    "run_id": "5e768fca7855",
    "created_at": "2026-11-06T15:40:50Z"
-  },
-  {
-   "id": "9f219bc58b6e",
-   "ts": "2026-11-06T15:34:54Z",
-   "headline": "Polish foreign minister says a ceasefire must come before Ukraine peace talks can begin",
-   "detail": "Poland's foreign minister set a ceasefire as a precondition for starting Ukraine peace talks. The US has said it will host US-Ukraine-Russia talks in Abu Dhabi next week.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f972bc27f4dca17c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznphdg6fw2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznphdg6fw2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "707c14efad50",
-   "created_at": "2026-11-06T15:35:40Z"
-  },
-  {
-   "id": "cf7322848b17",
-   "ts": "2026-11-06T15:13:29Z",
-   "headline": "CDS on US hyperscalers and chipmakers widen to levels implying heavy ratings downgrades as the AI debt sell-off spreads",
-   "detail": "IFR reports that a sharp sell-off in debt has pushed credit default swaps on US hyperscalers and chipmakers to levels consistent with large ratings downgrades, with Oracle and SpaceX swaps trading well into junk territory. Reuters separately reports that traders' focus is shifting from inflation to growth as the tech rout deepens, raising questions over room for further central bank rate hikes.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "69f5d947ee602af1",
-    "c282e698eacb18fe"
-   ],
-   "sources": [
-    {
-     "author": "chriswhittall.bsky.social",
-     "uri": "at://did:plc:mw33frnll5jjux3vvkfyyrdt/app.bsky.feed.post/3mznoazkqn222",
-     "url": "https://bsky.app/profile/chriswhittall.bsky.social/post/3mznoazkqn222"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mznoe4b4zy2c",
-     "url": "https://bsky.app/profile/reuters.com/post/3mznoe4b4zy2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ecbfcc813550",
-   "created_at": "2026-11-06T15:15:48Z"
   }
  ]
 }
