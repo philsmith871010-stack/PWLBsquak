@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T16:01:20Z",
+ "generated_at": "2026-11-10T16:15:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2aaa0b7ef723",
+   "ts": "2026-11-10T16:14:43Z",
+   "headline": "Iran's Rezaei says Iran has set seven conditions and the US has not yet given a clear response",
+   "detail": "Iranian Major General Rezaei said Iran had laid down seven conditions and was still waiting for a clear US answer, and called the American response deceptive, Fars News reported. He also said US claims that talks with Iran are continuing are meant to bring oil prices down.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2a13f4a9943f6b9b",
+    "952d636f95cd4113",
+    "2f2fd612941d11a7",
+    "32237d8937a1db0e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxtfzqgxo2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxtfzqgxo2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxtk767uf25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxtk767uf25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxtk7uhp52q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxtk7uhp52q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxtk7ka7j2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxtk7ka7j2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7e592a64dca1",
+   "created_at": "2026-11-10T16:15:47Z"
+  },
   {
    "id": "0a8f6c292da9",
    "ts": "2026-11-10T15:56:56Z",
@@ -6029,33 +6068,6 @@
    "model": "opus",
    "run_id": "af1d7f93a569",
    "created_at": "2026-11-09T07:01:13Z"
-  },
-  {
-   "id": "ab6f3bddeddc",
-   "ts": "2026-11-09T06:17:54Z",
-   "headline": "Russian Foreign Ministry says the Russia-US diesel deal could allow business ties between the two countries to recover gradually",
-   "detail": "TASS reported the Russian Foreign Ministry's comments on the diesel deal between Russia and the US. The ministry described the deal as an opening for a gradual restoration of business ties.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2cfb2b2f439725ce",
-    "db7d262f043bbbbd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzubq4obvd2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzubq4obvd2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzubrnkcpf24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzubrnkcpf24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7dc0e86cbacf",
-   "created_at": "2026-11-09T06:35:45Z"
   }
  ]
 }
