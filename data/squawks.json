@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T15:31:05Z",
+ "generated_at": "2026-11-10T15:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a658ea4afd72",
+   "ts": "2026-11-10T15:33:25Z",
+   "headline": "Netanyahu says Israel will soon face international pressure to accept a nuclear Iran and to pull back from security zones",
+   "detail": "Israel's prime minister told the Knesset that Iran is working to renew its nuclear threat and has not dropped its aim of destroying Israel. He said Israel faces pressure to give up its gains in Syria, Lebanon and Gaza, and called for a national unity government.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b9b6a41bc93917d3",
+    "71c015d3170b29f9",
+    "c8063d8292037c52",
+    "094a08edc637f096",
+    "90516956fb572038"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxraeznpg26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxraeznpg26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxrafdlau25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxrafdlau25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxrbtszmp22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxrbtszmp22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxrdz3ho425",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxrdz3ho425"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxrdyoraw26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxrdyoraw26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1f425985c27c",
+   "created_at": "2026-11-10T15:35:43Z"
+  },
   {
    "id": "8995790ed15d",
    "ts": "2026-11-10T15:30:12Z",
@@ -5886,27 +5931,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzu3vqoi2k2w",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzu3vqoi2k2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dd3f725becfb",
-   "created_at": "2026-11-09T06:31:05Z"
-  },
-  {
-   "id": "1e04d3e408b8",
-   "ts": "2026-11-09T04:30:25Z",
-   "headline": "Iran says no unauthorised vessels crossed the Strait of Hormuz overnight after southern navigation aids were destroyed",
-   "detail": "An unnamed Revolutionary Guards Navy official told Iranian state media on Monday that no unauthorised vessels used the route overnight, Reuters reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "015ca795f89c0a23"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzu3pvnt6d2z",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzu3pvnt6d2z"
     }
    ],
    "model": "opus",
