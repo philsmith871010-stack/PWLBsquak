@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T18:01:14Z",
+ "generated_at": "2026-11-10T18:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cb9aa7c21fdf",
+   "ts": "2026-11-10T18:04:38Z",
+   "headline": "US $42bn 10-year note auction tails by 1bp at 5.020% high yield; bid-to-cover falls to 2.46 from 2.770",
+   "detail": "The US Treasury sold $42bn of 10-year notes at a high yield of 5.020%, against 5.300% at the previous sale, with a 1bp tail and 95.17% of bids awarded at the high. Primary dealers took 9.8%, direct bidders 29.0% and indirect bidders 61.2%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "96925729d8934aae",
+    "b5bf93b03b79775d",
+    "1ddd7dae8f58236a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxzoreg3q2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxzoreg3q2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxzlx4xpv2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxzlx4xpv2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxzlxht4h2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxzlxht4h2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a7fa94913a6b",
+   "created_at": "2026-11-10T18:05:43Z"
+  },
   {
    "id": "8c55d538d45d",
    "ts": "2026-11-10T18:01:07Z",
@@ -6137,27 +6170,6 @@
    "model": "opus",
    "run_id": "063bd0547fde",
    "created_at": "2026-11-09T09:35:41Z"
-  },
-  {
-   "id": "e95ad6787287",
-   "ts": "2026-11-09T09:30:52Z",
-   "headline": "Eurozone Sentix investor confidence comes in at 2.4, above the 2.05 forecast but down from 2.7",
-   "detail": "The Sentix investor confidence index for the eurozone was 2.4 in the latest reading. The forecast was 2.05 and the previous reading was 2.7.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0ad6a84e04b813d7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzumj5ydqq2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzumj5ydqq2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a0a811d2571e",
-   "created_at": "2026-11-09T09:31:05Z"
   }
  ]
 }
