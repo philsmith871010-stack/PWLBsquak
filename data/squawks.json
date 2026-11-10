@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T11:45:46Z",
+ "generated_at": "2026-11-10T11:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9135222a72ce",
+   "ts": "2026-11-10T11:48:09Z",
+   "headline": "France and Ukraine welcome US efforts at the Abu Dhabi Ukraine peace talks",
+   "detail": "Paris said France and Ukraine welcome the US role in the trilateral talks under way in Abu Dhabi. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "aded932624086472"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxenle2yo2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxenle2yo2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f20c88d9e7b1",
+   "created_at": "2026-11-10T11:50:48Z"
+  },
   {
    "id": "994ccb81b7d0",
    "ts": "2026-11-10T11:43:25Z",
@@ -5933,33 +5954,6 @@
    "model": "opus",
    "run_id": "d81b7d8920fc",
    "created_at": "2026-11-06T16:25:41Z"
-  },
-  {
-   "id": "50215a1100a5",
-   "ts": "2026-11-06T16:19:06Z",
-   "headline": "BoJ's Ueda says Japan's 1990s demographic decline cut expected returns on domestic capital at home",
-   "detail": "Bank of Japan Governor Kazuo Ueda said Japan's demographic decline in the 1990s held down the expected return on domestic capital. He added that a severe scarcity has only become a reality in recent years.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "274b10ce076922fe",
-    "eda01d31d5d6bbe4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznrwek6pi26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznrwek6pi26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznrxewnnu2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznrxewnnu2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5fb90023f232",
-   "created_at": "2026-11-06T16:20:49Z"
   }
  ]
 }
