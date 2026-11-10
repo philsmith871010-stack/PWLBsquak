@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T21:25:42Z",
+ "generated_at": "2026-11-10T21:31:02Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ae3d013d7258",
+   "ts": "2026-11-10T21:30:01Z",
+   "headline": "Fed's Bowman says inflation is not trending lower and the Fed must consider the pace and timeline of its response",
+   "detail": "Fed Governor Bowman said that inflation not moving down should give policymakers pause. She added that the Fed needs to weigh how fast to act on it and over what timeline.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "42516e613d437a9e",
+    "1d2a8dfdf99b2719"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyf4li4sm2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyf4li4sm2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyf5z3nv42y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyf5z3nv42y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5a81cf24e82a",
+   "created_at": "2026-11-10T21:31:02Z"
+  },
   {
    "id": "7f77144e3436",
    "ts": "2026-11-10T21:21:52Z",
@@ -6335,33 +6362,6 @@
    "model": "opus",
    "run_id": "56c4cae8f286",
    "created_at": "2026-11-09T15:10:49Z"
-  },
-  {
-   "id": "cc0349ff976e",
-   "ts": "2026-11-09T15:01:07Z",
-   "headline": "US wholesale sales rise 2.8% m/m, above the 1.1% forecast; wholesale inventories revised up to 0.7%",
-   "detail": "US wholesale sales grew 2.8% month on month, against a 1.1% forecast and a previous reading of 1.8%. Wholesale inventories were revised to 0.7% m/m, against a 0.6% forecast and a previous reading of 0.6%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "cd66e4e0c9133dba",
-    "13aeeb4418c5b96f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzv6xoqmcm2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzv6xoqmcm2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzv6xljjk52v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzv6xljjk52v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "26b54aec03a7",
-   "created_at": "2026-11-09T15:01:13Z"
   }
  ]
 }
