@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T14:01:13Z",
+ "generated_at": "2026-11-10T14:10:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7ac01c06e922",
+   "ts": "2026-11-10T14:10:26Z",
+   "headline": "Houthis say they have carried out several operations against Saudi Arabia",
+   "detail": "The Houthis announced several operations against Saudi Arabia, according to a market news account. The report did not give details of targets or say whether markets moved.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e9957a2ac6f3ee47"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxmlyput426",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxmlyput426"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aef5d31620b9",
+   "created_at": "2026-11-10T14:10:46Z"
+  },
   {
    "id": "54c1574880c4",
    "ts": "2026-11-10T14:00:57Z",
@@ -5981,27 +6002,6 @@
    "model": "opus",
    "run_id": "db1135945150",
    "created_at": "2026-11-09T06:11:03Z"
-  },
-  {
-   "id": "86726126fd5c",
-   "ts": "2026-11-06T22:09:20Z",
-   "headline": "Iranian state broadcaster reports two blasts heard near Suza on Qeshm Island, with no casualties reported",
-   "detail": "Iran's state broadcaster cited an informed source on two explosions near the Suza area of Qeshm Island and said there were no casualty reports. Earlier, Tasnim had reported two missiles striking the island without official confirmation.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "401a43b1f6ac866f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzofinmk5c2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzofinmk5c2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "20c11054e438",
-   "created_at": "2026-11-06T22:10:49Z"
   }
  ]
 }
