@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T16:35:44Z",
+ "generated_at": "2026-11-10T16:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d9ed10b7f09b",
+   "ts": "2026-11-10T16:43:25Z",
+   "headline": "Canada's Carney says some difficult areas remain in trade talks with the US",
+   "detail": "Canadian Prime Minister Carney said Canada has settled its red lines with the US on cultural questions. He also said Canada does not need a contested tax on large web companies.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0db90ce5a06bcbcd",
+    "eb57fbdcf811eadc",
+    "48e56dec15f05659"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxv5jkqf52q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxv5jkqf52q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxv6a6rdy22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxv6a6rdy22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxvaznlpf2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxvaznlpf2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9c8b6225b8ef",
+   "created_at": "2026-11-10T16:45:51Z"
+  },
   {
    "id": "463abef620c1",
    "ts": "2026-11-10T16:32:25Z",
@@ -6071,27 +6104,6 @@
    "model": "opus",
    "run_id": "4ac6768595cb",
    "created_at": "2026-11-09T07:55:53Z"
-  },
-  {
-   "id": "eb7e7908c200",
-   "ts": "2026-11-09T07:44:00Z",
-   "headline": "Iran's Foreign Ministry spokesman says the US Iron Gate task force is meant to divert attention from the US midterm results",
-   "detail": "Iranian Foreign Ministry spokesman Baghaei said the US Task Force Iron Gate operation is a way of deflecting attention from the outcome of the US midterm elections. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "541720e1412032fa"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzugk36p2t2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzugk36p2t2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d07cb2ea3efa",
-   "created_at": "2026-11-09T07:45:57Z"
   }
  ]
 }
