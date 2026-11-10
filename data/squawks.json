@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T10:05:44Z",
+ "generated_at": "2026-11-10T10:10:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "75fda7f90b2c",
+   "ts": "2026-11-10T10:10:23Z",
+   "headline": "ECB's Kazaks says monetary policy still needs some hawkish edge but must avoid hurting the economy too much",
+   "detail": "ECB Governing Council member Kazaks said policy should keep some hawkish edge. He also said inflation must be brought under control without doing too much damage to the economy.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "66c83d417370361a",
+    "62063cd3d1db8e30"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx76qh5f726",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx76qh5f726"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx6zsandz2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx6zsandz2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "eb6f952137df",
+   "created_at": "2026-11-10T10:10:47Z"
+  },
+  {
+   "id": "4b7744f5603d",
+   "ts": "2026-11-10T10:08:25Z",
+   "headline": "Fed's Waller says reversing the three insurance cuts is the minimum needed but rules out hikes of 150bp to 200bp",
+   "detail": "Fed Governor Waller said that at the very least the Fed needs to undo its three insurance rate cuts. He added that he is not super hawkish, does not want to slam the economy down and that the Fed will not raise rates by 150bp or 200bp.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "755eb15b9a1ceda1",
+    "15b8424d7e753e8e",
+    "5d3e473cbd5e0b0e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx73aaxpi2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx73aaxpi2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx75dawzd2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx75dawzd2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx75ztttr2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx75ztttr2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "eb6f952137df",
+   "created_at": "2026-11-10T10:10:47Z"
+  },
   {
    "id": "d43d9a9bb95f",
    "ts": "2026-11-10T10:03:20Z",
@@ -5924,54 +5984,6 @@
    "model": "opus",
    "run_id": "192e2bca83ed",
    "created_at": "2026-11-06T15:45:50Z"
-  },
-  {
-   "id": "4e7c0a1a4a42",
-   "ts": "2026-11-06T15:40:39Z",
-   "headline": "EU foreign policy chief Kallas says the EU must be part of any Ukraine peace deal",
-   "detail": "The EU's foreign policy chief said the EU would need to be involved in any peace agreement on Ukraine. Separately, Poland's foreign minister said no settlement can be imposed on Ukraine unless it agrees and takes part.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d4b0c743df4717d1",
-    "1440b6cba934bd58"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznprmf2xl24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznprmf2xl24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznpjqtnli2e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznpjqtnli2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5e768fca7855",
-   "created_at": "2026-11-06T15:40:50Z"
-  },
-  {
-   "id": "0824a7ac1c10",
-   "ts": "2026-11-06T15:39:49Z",
-   "headline": "European officials fear a US security deal with Russia could undermine NATO, FT reports",
-   "detail": "The Financial Times reports that European officials are concerned Washington could reach a security agreement with Moscow that weakens NATO and restores a Russian sphere of influence.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3569c7b61313822c"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mznpq4madz27",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mznpq4madz27"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5e768fca7855",
-   "created_at": "2026-11-06T15:40:50Z"
   }
  ]
 }
