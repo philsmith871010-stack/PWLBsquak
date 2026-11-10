@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T17:10:50Z",
+ "generated_at": "2026-11-10T17:20:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6933bdec1aae",
+   "ts": "2026-11-10T17:20:24Z",
+   "headline": "UK PM Burnham rules out dynamic alignment of the UK with EU financial services rules",
+   "detail": "Prime Minister Burnham rejected dynamically aligning the UK with EU rules on financial services, a market news account reported. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7fd151ac0b3cd0b8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxx7onfrr2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxx7onfrr2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0349c4f13a7a",
+   "created_at": "2026-11-10T17:20:52Z"
+  },
   {
    "id": "8fcd108a7e93",
    "ts": "2026-11-10T17:09:50Z",
@@ -6120,27 +6141,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuitq4cea2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuitq4cea2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "522442c5372b",
-   "created_at": "2026-11-09T08:25:55Z"
-  },
-  {
-   "id": "b688d88054c9",
-   "ts": "2026-11-09T08:21:55Z",
-   "headline": "Iran's foreign minister says mediators have stopped travelling since the US midterm results",
-   "detail": "Iran's foreign minister said mediators in the US-Iran talks have made no trips since the US midterm election results came out. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a3fe3a2941913a06"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuinv435h2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuinv435h2l"
     }
    ],
    "model": "opus",
