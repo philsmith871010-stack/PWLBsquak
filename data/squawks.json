@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T21:05:42Z",
+ "generated_at": "2026-11-10T21:10:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3cf6feccf60a",
+   "ts": "2026-11-10T21:07:03Z",
+   "headline": "Fed's Bowman says the Fed is collecting data on AI debt counterparties and stresses open communication with the Treasury",
+   "detail": "Federal Reserve Governor Bowman said the Fed is seeking data on counterparties to AI-related debt, and that keeping lines of communication open with the US Treasury is critically important.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "3ec0e70a64b3d42b",
+    "d3f09de223c91fcf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyduxj7cq2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyduxj7cq2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzydx2cpuk2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzydx2cpuk2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3b640c164049",
+   "created_at": "2026-11-10T21:10:49Z"
+  },
   {
    "id": "40bd060723b4",
    "ts": "2026-11-10T21:03:32Z",
@@ -6335,27 +6362,6 @@
    "model": "opus",
    "run_id": "5baa86fba447",
    "created_at": "2026-11-09T14:31:02Z"
-  },
-  {
-   "id": "23561d38ef69",
-   "ts": "2026-11-09T14:24:14Z",
-   "headline": "Germany's Merz threatens to block the EU's next budget unless the bloc unanimously agrees more financial support for Ukraine",
-   "detail": "The Financial Times reports that Chancellor Friedrich Merz is threatening to withhold Germany's agreement on the EU's next budget unless member states unanimously agree additional funding for Kyiv. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "582e699befbae55f"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzv4vq4xjg2v",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mzv4vq4xjg2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "68f380e34283",
-   "created_at": "2026-11-09T14:25:41Z"
   }
  ]
 }
