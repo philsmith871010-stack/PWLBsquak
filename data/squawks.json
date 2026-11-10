@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T09:05:42Z",
+ "generated_at": "2026-11-10T09:15:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "49fb789a409b",
+   "ts": "2026-11-10T09:15:19Z",
+   "headline": "Canada reimposes sanctions on 11 Iranian entities",
+   "detail": "Canada's foreign minister, Anita Anand, announced that sanctions are being reimposed on 11 Iranian entities. She noted that Canada had delisted Iranian entities in 2016 after Iran's progress under the 2015 Joint Comprehensive Plan of Action.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5f0b37221d2d7a5a",
+    "2010af5f439e31d0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx44bt36b2l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx44bt36b2l"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx426ufts25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx426ufts25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "77dd7c8c65d7",
+   "created_at": "2026-11-10T09:15:49Z"
+  },
   {
    "id": "c224db931547",
    "ts": "2026-11-10T09:01:14Z",
@@ -5903,33 +5930,6 @@
    "model": "opus",
    "run_id": "b221a984d0ba",
    "created_at": "2026-11-06T14:55:40Z"
-  },
-  {
-   "id": "575f7ad77d23",
-   "ts": "2026-11-06T14:48:23Z",
-   "headline": "White House adviser Hassett says inflation is falling and he sees no policy change that needs planning",
-   "detail": "The National Economic Council's Hassett said the data show strong growth and slowing inflation, that the administration's policies are working, and that the job market is firing on all cylinders.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "f4bd184d0e6185c5",
-    "23688ec5fafae20a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmu63n7u26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmu63n7u26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmvwkdo62r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmvwkdo62r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "40448ae406f3",
-   "created_at": "2026-11-06T14:50:48Z"
   }
  ]
 }
