@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T17:35:43Z",
+ "generated_at": "2026-11-10T17:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f9a830351139",
+   "ts": "2026-11-10T17:40:30Z",
+   "headline": "EU's Costa says Ukraine financing will be taken up at the 26-27 November EU summit once the Commission sends its proposal",
+   "detail": "European Council President Costa told German Chancellor Merz in a letter that Ukraine financing will be on the agenda of the EU summit on 26-27 November. He said this will follow receipt of a proposal from the European Commission.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4f3f3fe7432a8ba7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxydm573622",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxydm573622"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dee412e2ba19",
+   "created_at": "2026-11-10T17:40:50Z"
+  },
   {
    "id": "46b756efc246",
    "ts": "2026-11-10T17:33:02Z",
@@ -6138,27 +6159,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzulwrssoo2f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzulwrssoo2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fb20dfa98a61",
-   "created_at": "2026-11-09T09:21:06Z"
-  },
-  {
-   "id": "657b939ce826",
-   "ts": "2026-11-09T06:33:00Z",
-   "headline": "Oil prices fall as Trump says further US strikes on Iran are highly unlikely",
-   "detail": "City AM's markets blog reports that oil prices are lower on Monday morning after President Trump said new strikes on Iran were highly unlikely. The FTSE 100 is reported higher at the open.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "fa6ba627a03d5c55"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3mzulwrhdhk72",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3mzulwrhdhk72"
     }
    ],
    "model": "opus",
