@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T07:01:10Z",
+ "generated_at": "2026-11-10T07:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "90e964615a95",
+   "ts": "2026-11-10T07:02:28Z",
+   "headline": "Norway's October underlying CPI slows to 2.7% y/y, matching forecasts and down from 3.0%",
+   "detail": "Norway's underlying inflation rose 0.3% m/m in October, against a forecast of 0.4% and 0.2% the previous month. Headline CPI was 3.6% y/y, below the 3.7% estimate.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "66a9b48b6f941827",
+    "64973af4049102a8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwuoplcs62m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwuoplcs62m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwuoped3p22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwuoped3p22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9c406583baaa",
+   "created_at": "2026-11-10T07:05:40Z"
+  },
   {
    "id": "aab4d56fa9f8",
    "ts": "2026-11-10T07:00:54Z",
@@ -5957,27 +5984,6 @@
    "model": "opus",
    "run_id": "41640c3dceac",
    "created_at": "2026-11-06T13:35:41Z"
-  },
-  {
-   "id": "1506eb80078a",
-   "ts": "2026-11-06T13:30:24Z",
-   "headline": "FTSE 100 drops 2% and heads for its steepest fall in more than seven months as AI worries drive a global sell-off",
-   "detail": "Reuters reports that the FTSE 100 fell 2% on Friday and was on course for a weekly decline. It links the global sell-off to jitters over AI that followed the change in the US political landscape.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "500241dc60caa7d5"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzniipz3x52y",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzniipz3x52y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cfd95096081e",
-   "created_at": "2026-11-06T13:31:02Z"
   }
  ]
 }
