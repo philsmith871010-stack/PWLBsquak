@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T19:01:13Z",
+ "generated_at": "2026-11-10T19:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f32345ed918f",
+   "ts": "2026-11-10T19:05:24Z",
+   "headline": "Fed's Schmid says US hiring has been fairly robust and demand is strong",
+   "detail": "Fed's Schmid said recent US hiring has been fairly robust, demand is strong and interest rates are not holding activity back. He added that a lot of data is due before the Fed's December meeting.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a0a6aa0b15a7d934",
+    "b9244d3402520b75"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy53gmvrv2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy53gmvrv2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy52ozqro2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy52ozqro2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c23bc1fe6e36",
+   "created_at": "2026-11-10T19:05:40Z"
+  },
   {
    "id": "06c46d7a3ff5",
    "ts": "2026-11-10T18:56:02Z",
@@ -6203,27 +6230,6 @@
    "model": "opus",
    "run_id": "26a10b434807",
    "created_at": "2026-11-09T12:55:39Z"
-  },
-  {
-   "id": "4a8a3462dc96",
-   "ts": "2026-11-09T12:15:16Z",
-   "headline": "Iranian official Bagheri says moving enriched material out of Iran is not on the agenda, Iranian reports say",
-   "detail": "Iranian media reports cite Bagheri as saying that taking enriched material out of Iran is not under discussion, amid the running US-Iran talks. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e40c91717cd51a83"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuvp5diyq2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuvp5diyq2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "04c3a12e8266",
-   "created_at": "2026-11-09T12:15:49Z"
   }
  ]
 }
