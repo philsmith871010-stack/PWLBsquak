@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T18:05:43Z",
+ "generated_at": "2026-11-10T18:10:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "34298c0145ce",
+   "ts": "2026-11-10T18:07:21Z",
+   "headline": "New US 10-year notes to carry a 5% coupon, the highest since 2006",
+   "detail": "A market commentator reported the coupon after the $42bn US 10-year note auction, which had already been reported as tailing.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "491879e1e06c303b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxztmftpq2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxztmftpq2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "40f8751ebb79",
+   "created_at": "2026-11-10T18:10:49Z"
+  },
   {
    "id": "cb9aa7c21fdf",
    "ts": "2026-11-10T18:04:38Z",
@@ -6149,27 +6170,6 @@
    "model": "opus",
    "run_id": "69ca7df00418",
    "created_at": "2026-11-09T09:40:47Z"
-  },
-  {
-   "id": "f797bd81dce6",
-   "ts": "2026-11-09T09:35:04Z",
-   "headline": "Gulf stock markets rise in early Monday trade after Trump signals new US strikes on Iran are unlikely",
-   "detail": "Reuters reports Gulf stock markets gained early on Monday after President Trump indicated that new strikes on Iran were unlikely while talks continue to end the eight-month conflict.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d6d934f2161f587b"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzumqoef232w",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzumqoef232w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "063bd0547fde",
-   "created_at": "2026-11-09T09:35:41Z"
   }
  ]
 }
