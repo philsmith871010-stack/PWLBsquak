@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T22:20:50Z",
+ "generated_at": "2026-11-10T22:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8c5227c12b92",
+   "ts": "2026-11-10T22:45:09Z",
+   "headline": "Poland's Orlen ends a long-term LNG supply contract with QatarEnergy, citing ongoing force majeure",
+   "detail": "Orlen, Poland's largest energy group, said on Tuesday it had terminated one of its two long-term LNG supply contracts with QatarEnergy. It said an ongoing force majeure had left the supplier unable to meet its delivery obligations.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "ba00de6ac1853e47"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzyjeehmii2y",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzyjeehmii2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6158955f8356",
+   "created_at": "2026-11-10T22:45:51Z"
+  },
   {
    "id": "be772d61523c",
    "ts": "2026-11-10T22:16:08Z",
@@ -6323,39 +6344,6 @@
    "model": "opus",
    "run_id": "f3cd8b89c113",
    "created_at": "2026-11-09T15:31:03Z"
-  },
-  {
-   "id": "6f3aba49f952",
-   "ts": "2026-11-09T15:24:12Z",
-   "headline": "Fed's Goolsbee says growth and employment are stable but the main problem has been inflation",
-   "detail": "Chicago Fed President Austan Goolsbee said employment and growth look fairly steady, that the main problem has been inflation, and that policymakers have to face up to a failure on inflation.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "90022b3fc63b9e54",
-    "8cb450f80e62b67a",
-    "4354c45bfe56cb77"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvaaxi5tl26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvaaxi5tl26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvabyhua422",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvabyhua422"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvaccpapd2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvaccpapd2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "457f01e0a4aa",
-   "created_at": "2026-11-09T15:25:41Z"
   }
  ]
 }
