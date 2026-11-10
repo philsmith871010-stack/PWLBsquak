@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T15:15:49Z",
+ "generated_at": "2026-11-10T15:31:05Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8995790ed15d",
+   "ts": "2026-11-10T15:30:12Z",
+   "headline": "Netanyahu tells Knesset Iran is reviving its nuclear programme and says overthrowing its regime is the only lasting solution",
+   "detail": "In a speech to the Knesset, Israeli Prime Minister Netanyahu said Iran is working to revive its nuclear programme after the immediate threat was removed. He said the only way to remove the threat permanently is to overthrow the regime.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9a77c93239d4bfe9",
+    "ce97edbbaef9a942"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxr2mdwge2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxr2mdwge2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxr3dsba222",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxr3dsba222"
+    }
+   ],
+   "model": "opus",
+   "run_id": "45ffc63fcf69",
+   "created_at": "2026-11-10T15:31:05Z"
+  },
   {
    "id": "e71940552a76",
    "ts": "2026-11-10T15:14:02Z",
@@ -5885,27 +5912,6 @@
    "model": "opus",
    "run_id": "dd3f725becfb",
    "created_at": "2026-11-09T06:31:05Z"
-  },
-  {
-   "id": "1570b0f1a7ba",
-   "ts": "2026-11-09T04:21:20Z",
-   "headline": "Japan's 40-year government bond yield rises to 3.990%",
-   "detail": "The 40-year JGB yield climbs to 3.990% in Asian trading on Monday.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1076c138741f43d3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzu37nvgvo26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzu37nvgvo26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "11e0c43429a9",
-   "created_at": "2026-11-09T06:26:19Z"
   }
  ]
 }
