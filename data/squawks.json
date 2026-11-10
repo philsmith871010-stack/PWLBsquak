@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T11:55:40Z",
+ "generated_at": "2026-11-10T12:10:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "962fe757033f",
+   "ts": "2026-11-10T12:08:32Z",
+   "headline": "BoE is reportedly considering changes to how it carries out its remaining APF gilt sales",
+   "detail": "A market commentary account reported that the Bank of England is weighing an adjustment to how it conducts the remaining gilt sales from the Asset Purchase Facility. The post gave no further details or timing.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "4cc56df0a2453539"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxfrz6rik2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxfrz6rik2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a9ddb799cf6f",
+   "created_at": "2026-11-10T12:10:48Z"
+  },
   {
    "id": "28e6f24481bd",
    "ts": "2026-11-10T11:52:46Z",
@@ -5915,33 +5936,6 @@
    "model": "opus",
    "run_id": "641f8123aaf9",
    "created_at": "2026-11-06T16:35:41Z"
-  },
-  {
-   "id": "25f3c1524424",
-   "ts": "2026-11-06T16:26:45Z",
-   "headline": "BoJ's Ueda expects domestic investment in Japan to rise but says the scale is highly uncertain",
-   "detail": "Bank of Japan Governor Kazuo Ueda said he expects domestic investment in Japan to increase, though how far it will rise is very uncertain. The remarks came during the same appearance as his earlier comments on corporate saving and the current account.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "cbd8bd08a3fe4021",
-    "6276b5cc6ca6b21b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznse2fzsc2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznse2fzsc2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznsf3dwiw2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznsf3dwiw2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "400d1fc02047",
-   "created_at": "2026-11-06T16:30:59Z"
   }
  ]
 }
