@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T16:45:51Z",
+ "generated_at": "2026-11-10T16:55:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "98d99c40d7c5",
+   "ts": "2026-11-10T16:54:52Z",
+   "headline": "US 10-year Treasury yield reported up 15bp on the day after October CPI beat",
+   "detail": "The Financial Times reports the 10-year US Treasury yield has risen 15bp on the day, taking it back to 5%. The move follows a stronger-than-expected October CPI reading of 0.4% m/m.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "472788c742ec9389"
+   ],
+   "sources": [
+    {
+     "author": "iankmsmith.ft.com",
+     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3mzxvryrfcs2n",
+     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3mzxvryrfcs2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a337569b3f2a",
+   "created_at": "2026-11-10T16:55:40Z"
+  },
   {
    "id": "d9ed10b7f09b",
    "ts": "2026-11-10T16:43:25Z",
@@ -6077,33 +6098,6 @@
    "model": "opus",
    "run_id": "f1a635dfcdd2",
    "created_at": "2026-11-09T08:05:49Z"
-  },
-  {
-   "id": "797618441b6d",
-   "ts": "2026-11-09T07:54:19Z",
-   "headline": "EU Economy Commissioner Dombrovskis says the economy faces uncertainty and downside risks",
-   "detail": "EU Economy Commissioner Valdis Dombrovskis said on Monday morning that the economy faces uncertainty and downside risks. The reports gave no figures.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "daab65a62b2a57f2",
-    "393c325d741a259c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuh4jktuz2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuh4jktuz2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuh5j6iwv2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuh5j6iwv2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4ac6768595cb",
-   "created_at": "2026-11-09T07:55:53Z"
   }
  ]
 }
