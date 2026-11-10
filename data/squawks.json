@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T11:50:48Z",
+ "generated_at": "2026-11-10T11:55:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "28e6f24481bd",
+   "ts": "2026-11-10T11:52:46Z",
+   "headline": "Oil is more than 20% below its late-October peak as markets bet on the Iran conflict winding down, Reuters says",
+   "detail": "Reuters reports that oil prices have fallen more than 20% from their late-October peak, with markets betting that the Iran conflict is winding down.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "aa9e096a84aca847"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzxevswxrc2y",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzxevswxrc2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "83dea6080b4d",
+   "created_at": "2026-11-10T11:55:40Z"
+  },
   {
    "id": "9135222a72ce",
    "ts": "2026-11-10T11:48:09Z",
@@ -5921,39 +5942,6 @@
    "model": "opus",
    "run_id": "400d1fc02047",
    "created_at": "2026-11-06T16:30:59Z"
-  },
-  {
-   "id": "42482a9db699",
-   "ts": "2026-11-06T16:20:56Z",
-   "headline": "BoJ's Ueda says Japanese firms spent years repaying debt after the bubble burst, and corporate saving stayed high afterwards",
-   "detail": "In further remarks, the Bank of Japan Governor said Japan's experience shows why corporate adjustment matters. He said firms cut investment and repaired their balance sheets after the bubble collapsed, and that overseas investment grew in importance once that process was largely over.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0ac477d2a5496164",
-    "1a8c8d5bb4f0aa7a",
-    "16ae9ecf9b08ff5c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznrzo3sth2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznrzo3sth2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzns2oj6tc2e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzns2oj6tc2e"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzns4fddwp2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzns4fddwp2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d81b7d8920fc",
-   "created_at": "2026-11-06T16:25:41Z"
   }
  ]
 }
