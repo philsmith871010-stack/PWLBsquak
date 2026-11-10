@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T18:45:51Z",
+ "generated_at": "2026-11-10T18:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dce49cdb9788",
+   "ts": "2026-11-10T18:49:00Z",
+   "headline": "Fed's Schmid calls policy rate fairly accommodative and finds no restriction outside housing",
+   "detail": "Kansas City Fed President Schmid said US hiring had been quite robust lately and demand was strong. He said rates gave no cause for hesitation, and that apart from the housing market he could find no sign that policy was restrictive.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "93548567fdf4b369",
+    "7565243a96b48d74",
+    "47436dd54416ad5c",
+    "9d9d8ca16d367b3e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy464mv7f25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy464mv7f25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy43wtuyp2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy43wtuyp2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy46thf3q2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy46thf3q2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy4aw6ei422",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy4aw6ei422"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9443f1497a98",
+   "created_at": "2026-11-10T18:50:48Z"
+  },
+  {
+   "id": "e6a1a1a81f7c",
+   "ts": "2026-11-10T18:47:23Z",
+   "headline": "US envoy Kushner calls the day's Ukraine talks constructive and says the US is working to end the war",
+   "detail": "Kushner said the US was acting at President Trump's direction to end the war and to agree security arrangements for a sovereign Ukraine and lasting peace in Europe.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4a8225fe876498d2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy437qdzi2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy437qdzi2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9443f1497a98",
+   "created_at": "2026-11-10T18:50:48Z"
+  },
   {
    "id": "5492015e119e",
    "ts": "2026-11-10T18:45:27Z",
@@ -6164,60 +6224,6 @@
    "model": "opus",
    "run_id": "cd23c690139e",
    "created_at": "2026-11-09T11:50:49Z"
-  },
-  {
-   "id": "ca835cdca5db",
-   "ts": "2026-11-09T11:45:09Z",
-   "headline": "Lavrov says security issues are the main topic of the Abu Dhabi Ukraine talks, which aim to agree principles for a settlement",
-   "detail": "Russia's Foreign Minister Lavrov said the Abu Dhabi talks will centre on security issues for Russia, Ukraine and the wider region. He said they aim to agree principles that would be approved when talks on a comprehensive settlement in Ukraine conclude.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "69bce68ef6473d8e",
-    "d171b42561bea1c7",
-    "0d8dc49fc7cab4ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzutzbq5ks2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzutzbq5ks2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzutxrtkat2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzutxrtkat2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuu23w7mt2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuu23w7mt2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fb4c94210663",
-   "created_at": "2026-11-09T11:45:51Z"
-  },
-  {
-   "id": "a59fa682cb0a",
-   "ts": "2026-11-09T11:42:40Z",
-   "headline": "European Commission says the EU must be present in any talks on a European security framework, responding to Kushner's proposal",
-   "detail": "Responding to a proposal from Kushner, the European Commission said that deciding any European security framework is a matter for the EU, so the EU needs to take part in such discussions.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "acb9fc62943ad77c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzututvjs726",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzututvjs726"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fb4c94210663",
-   "created_at": "2026-11-09T11:45:51Z"
   }
  ]
 }
