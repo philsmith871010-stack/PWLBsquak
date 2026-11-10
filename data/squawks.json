@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T07:45:48Z",
+ "generated_at": "2026-11-10T07:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c61faa045a80",
+   "ts": "2026-11-10T07:50:45Z",
+   "headline": "Canada's foreign minister hopes for progress on US tariffs after the midterm elections",
+   "detail": "Canada's foreign minister said she hopes for progress on US tariffs once the US midterm elections are over. No timetable or specific measures were reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "924d2edbb48817d2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwxf2mpcs2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwxf2mpcs2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "05b9fdc13620",
+   "created_at": "2026-11-10T07:50:49Z"
+  },
   {
    "id": "ed65b12907c4",
    "ts": "2026-11-10T07:43:00Z",
@@ -5861,33 +5882,6 @@
    "model": "opus",
    "run_id": "372dca3413d8",
    "created_at": "2026-11-06T13:45:47Z"
-  },
-  {
-   "id": "137c6b594dbb",
-   "ts": "2026-11-06T13:33:04Z",
-   "headline": "US 10-year Treasury yield rises 6.3bp to 4.898% after jobs data as traders add to December Fed hike bets",
-   "detail": "US Treasury yields extended gains after the October employment report, with the 10-year yield last up 6.3bp at 4.898%. Traders were reported to be adding to bets on a Federal Reserve rate hike in December.",
-   "category": "global_rates",
-   "importance": 3,
-   "source_event_ids": [
-    "393bb7bb0909ee94",
-    "fae5142f813b389c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznini7mko2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznini7mko2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzniofpaya2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzniofpaya2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "41640c3dceac",
-   "created_at": "2026-11-06T13:35:41Z"
   }
  ]
 }
