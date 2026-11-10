@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T09:15:49Z",
+ "generated_at": "2026-11-10T09:25:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "83886af2954d",
+   "ts": "2026-11-10T09:21:37Z",
+   "headline": "Kremlin declines to predict chances of progress at Abu Dhabi Ukraine talks while negotiations continue",
+   "detail": "Kremlin spokesman Peskov said the Russian delegation in Abu Dhabi will decide how often and in what format to report to President Putin, depending on how the negotiations progress. He declined to give a view on the prospects for progress towards peace while talks are under way.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6652cef620ff8147",
+    "fca1b6344a38be57"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx4grrpnd2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx4grrpnd2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx4hjepqc26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx4hjepqc26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "47fdaf3c6dbb",
+   "created_at": "2026-11-10T09:25:43Z"
+  },
   {
    "id": "49fb789a409b",
    "ts": "2026-11-10T09:15:19Z",
@@ -5909,27 +5936,6 @@
    "model": "opus",
    "run_id": "318838c4fc3d",
    "created_at": "2026-11-06T15:01:12Z"
-  },
-  {
-   "id": "142a870f93fc",
-   "ts": "2026-11-06T14:52:34Z",
-   "headline": "Fed's Musalem says clear Fed communication helps policy pass through to the economy more smoothly",
-   "detail": "St Louis Fed President Musalem said that good communication from the Fed leads to smoother transmission of monetary policy. The remark was part of his comments on Friday.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "275a5447861273b3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznn3mwdmu26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznn3mwdmu26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b221a984d0ba",
-   "created_at": "2026-11-06T14:55:40Z"
   }
  ]
 }
