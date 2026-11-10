@@ -1,8 +1,80 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T14:55:44Z",
+ "generated_at": "2026-11-10T15:01:19Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8e5735f9e3de",
+   "ts": "2026-11-10T14:58:40Z",
+   "headline": "ECB's Nagel calls the fall in energy prices since the US midterms positive and says France must address its finances",
+   "detail": "ECB Governing Council member Nagel said action will be taken to return inflation to 2%, and that market expectations matter but are not the main influence on policy. He also said France needs to deal with its fiscal problems.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b965a9146d248b2c",
+    "2dff722eb357a01e",
+    "af8946c106ba5d77",
+    "8eae16c95ecc7778",
+    "523c800959664ee4",
+    "cd87c3a9a8b6d07b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxpcafbjw2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxpcafbjw2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxpcbf52j25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxpcbf52j25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxpcapjnj25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxpcapjnj25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxpcbokov26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxpcbokov26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxpbjmvmz26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxpbjmvmz26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxpcayqj72l",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxpcayqj72l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aa87b70896e7",
+   "created_at": "2026-11-10T15:01:19Z"
+  },
+  {
+   "id": "332f4502c61e",
+   "ts": "2026-11-10T14:58:15Z",
+   "headline": "US 2-year Treasury yield heads for its biggest one-day rise since April 2025",
+   "detail": "A market report says the US 2-year yield is on course for its largest single-session increase since April 2025, after the October CPI release.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "70e039a98960b5e4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxpbismsr26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxpbismsr26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aa87b70896e7",
+   "created_at": "2026-11-10T15:01:19Z"
+  },
   {
    "id": "a4fb16fefa96",
    "ts": "2026-11-10T14:55:02Z",
@@ -5846,120 +5918,6 @@
    "model": "opus",
    "run_id": "11e0c43429a9",
    "created_at": "2026-11-09T06:26:19Z"
-  },
-  {
-   "id": "c36e20c3d1ae",
-   "ts": "2026-11-09T01:31:21Z",
-   "headline": "China's October PPI rises 5.7% y/y, above the 5.3% forecast, while CPI slows to 0.7% against 0.8% expected",
-   "detail": "Chinese producer prices rose 5.7% on the year in October, up from 5.0%, and 0.7% on the month after 1.2%. Consumer prices rose 0.7% y/y after 0.9% and were flat on the month; core CPI was 0.8% against 0.9% forecast and 1.0% previously.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "46706a06c2b1afe2",
-    "fcb8e784180f1044",
-    "12a543737cf6c074",
-    "4a57ca9797b72b36",
-    "aaef4e415a4bb071",
-    "6b03908c45618276",
-    "62d2d38e59fc61ec",
-    "de383789d562d38d",
-    "a870b1dd9bf10b12",
-    "a81c6f3957cbefc3",
-    "0feaebf2e1e9e632"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztrphj5hw2e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztrphj5hw2e"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztrplujgc2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztrplujgc2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztrpppyhq2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztrpppyhq2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztrptimxg2e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztrptimxg2e"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztrpwsw4g2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztrpwsw4g2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztrpzxqsb2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztrpzxqsb2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztrqtw37g22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztrqtw37g22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztruthjpu2e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztruthjpu2e"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztrvnx7jw2x",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztrvnx7jw2x"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztrvrgty722",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztrvrgty722"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzts3vhxyt2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzts3vhxyt2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a6d94dbccdf9",
-   "created_at": "2026-11-09T06:21:24Z"
-  },
-  {
-   "id": "fe84c01d3541",
-   "ts": "2026-11-09T00:52:22Z",
-   "headline": "JGB yields rise across the curve, with 5-year up 6.5bp to 2.110% and 30-year up 4bp to 3.865%",
-   "detail": "Japanese government bond yields climbed in Asian trading on Monday: the 5-year rose 6.5bp to 2.110%, the 20-year rose 5bp to 3.595% and the 30-year rose 4bp to 3.865%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "9a9c9fe00e385046",
-    "08f28a02730dc8f7",
-    "4dd1437448624db5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztpjz4rpg2x",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztpjz4rpg2x"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztra7bs3q2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztra7bs3q2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztqorryxi26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztqorryxi26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a6d94dbccdf9",
-   "created_at": "2026-11-09T06:21:24Z"
   }
  ]
 }
