@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T18:20:50Z",
+ "generated_at": "2026-11-10T18:25:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "01d94a6c8208",
+   "ts": "2026-11-10T18:24:39Z",
+   "headline": "BoE's Lombardelli sees a case for another rate rise in the near term, citing high energy prices and resilient UK growth",
+   "detail": "The Financial Times reports that Bank of England Deputy Governor Clare Lombardelli said high energy prices and the resilience of UK growth support a further rate increase in the near term. She did not rule out back-to-back rate rises.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "6f2dedf794cad94a"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzy2skbll32n",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mzy2skbll32n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3f390cda4976",
+   "created_at": "2026-11-10T18:25:45Z"
+  },
   {
    "id": "97fd7d270f03",
    "ts": "2026-11-10T18:17:53Z",
@@ -6155,27 +6176,6 @@
    "model": "opus",
    "run_id": "48575c3ea630",
    "created_at": "2026-11-09T11:20:51Z"
-  },
-  {
-   "id": "a7c44d3040c9",
-   "ts": "2026-11-09T10:32:55Z",
-   "headline": "Centre for Cities report looks at Mayor of London's view that new fiscal powers could back more than £10bn of infrastructure borrowing",
-   "detail": "The Centre for Cities has published analysis of how London's borrowing plans of more than £10bn would fit within national fiscal rules, and compares them with Madrid. The Mayor of London has said new fiscal powers could support that level of infrastructure borrowing.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "616424ce7adcd64b"
-   ],
-   "sources": [
-    {
-     "author": "centreforcities.bsky.social",
-     "uri": "at://did:plc:opnnmgvzba7l7symuar4hnk7/app.bsky.feed.post/3mzupy5rqoc2r",
-     "url": "https://bsky.app/profile/centreforcities.bsky.social/post/3mzupy5rqoc2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "31549f026970",
-   "created_at": "2026-11-09T10:35:46Z"
   }
  ]
 }
