@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T06:20:58Z",
+ "generated_at": "2026-11-10T06:31:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "62a93debe1e3",
+   "ts": "2026-11-10T06:30:21Z",
+   "headline": "BoE Deputy Governor Lombardelli does not rule out a December rate hike but says she needs more information",
+   "detail": "Lombardelli says she would not exclude a December rate rise but does not yet have enough information, according to The Guardian. She also says hiring in the UK labour market has fallen off sharply without much sign of redundancies, and that young people are being hurt by a low-gear economy.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "cf6dc51307d35c77",
+    "9f0f242da9cd0c93",
+    "48147341d997b8de",
+    "1cd06256fefef14d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwsvcam3h2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwsvcam3h2i"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwsvzqfpo26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwsvzqfpo26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwst66hw52m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwst66hw52m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwspmzyg32v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwspmzyg32v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3c52a48d6c5b",
+   "created_at": "2026-11-10T06:31:00Z"
+  },
   {
    "id": "b69286b124c5",
    "ts": "2026-11-10T05:59:38Z",
@@ -5939,57 +5978,6 @@
    "model": "opus",
    "run_id": "885174f1d41e",
    "created_at": "2026-11-06T12:50:47Z"
-  },
-  {
-   "id": "d98b557a23a3",
-   "ts": "2026-11-06T12:41:37Z",
-   "headline": "BoE's Pill calls the rate hike pre-emptive and says the Bank will not repeat the 2022 hiking cycle",
-   "detail": "BoE Chief Economist Huw Pill said there is not yet evidence of second-round effects, but energy prices are creating pipeline pressure and activity and employment are adding to demand at the margin. He also said MPC members took different views and stressed different points around the decision.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "c7b4f5a645895fe3",
-    "2701a15971fa2875",
-    "903cb28c3e760fe2",
-    "727a0b2b8e61aa1c",
-    "f6a08b3582ad039a",
-    "43f295cae0519d77"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznfrim3sw2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznfrim3sw2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznfsddlsf2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznfsddlsf2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznfu4gmm426",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznfu4gmm426"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznfuxite426",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznfuxite426"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznfvrqbot2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznfvrqbot2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznfxz4t662r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznfxz4t662r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1c214e9e744a",
-   "created_at": "2026-11-06T12:45:52Z"
   }
  ]
 }
