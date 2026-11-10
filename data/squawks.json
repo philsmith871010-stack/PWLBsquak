@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T13:45:52Z",
+ "generated_at": "2026-11-10T13:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "01b486fa36e2",
+   "ts": "2026-11-10T13:46:52Z",
+   "headline": "Prediction markets price a 12% chance of a Fed hike above 25bp in December and 85% for a 25bp move",
+   "detail": "Natixis says the stronger-than-expected October US CPI and hawkish Fed remarks have put a larger December hike in play. Prediction markets give a 12% chance of a move above 25bp and 85% for a standard 25bp increase.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "82c5b3ff8fc26e90"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxlbtmlco2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxlbtmlco2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "be474db68228",
+   "created_at": "2026-11-10T13:50:48Z"
+  },
   {
    "id": "c311fa2bf261",
    "ts": "2026-11-10T13:42:08Z",
@@ -5987,39 +6008,6 @@
    "model": "opus",
    "run_id": "dea4e9db3ee2",
    "created_at": "2026-11-06T20:05:39Z"
-  },
-  {
-   "id": "8759edfaef94",
-   "ts": "2026-11-06T19:52:11Z",
-   "headline": "Trump says the US is in talks with Iran and has been for some time",
-   "detail": "President Trump told reporters that Washington is talking to Tehran. No details of the talks or any market reaction were reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2f443a1d6e97666a",
-    "027266b801a21937",
-    "5dfc8e9e8b7169c0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzo5tfplh72t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzo5tfplh72t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzo5tjxs5q2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzo5tjxs5q2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzo5tooken2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzo5tooken2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "08ecc5c84c48",
-   "created_at": "2026-11-06T19:55:44Z"
   }
  ]
 }
