@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T21:31:02Z",
+ "generated_at": "2026-11-10T22:05:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5d5073bb755d",
+   "ts": "2026-11-10T22:03:26Z",
+   "headline": "US Senate advances permitting reform bill meant to speed up building of energy infrastructure",
+   "detail": "Semafor reports that the US Senate has moved forward major permitting reforms designed to speed up construction of energy infrastructure. The outlet says the Democrats' win in last week's midterms has added momentum to the reform.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "70ade57f3fb57fd8"
+   ],
+   "sources": [
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3mzygzrldl727",
+     "url": "https://bsky.app/profile/semafor.com/post/3mzygzrldl727"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1bf703a61acc",
+   "created_at": "2026-11-10T22:05:44Z"
+  },
   {
    "id": "ae3d013d7258",
    "ts": "2026-11-10T21:30:01Z",
@@ -6335,33 +6356,6 @@
    "model": "opus",
    "run_id": "457f01e0a4aa",
    "created_at": "2026-11-09T15:25:41Z"
-  },
-  {
-   "id": "e77af7e1e5bb",
-   "ts": "2026-11-09T15:08:59Z",
-   "headline": "EU's von der Leyen backs Abu Dhabi Ukraine peace talks and says Black Sea freedom of navigation must be preserved and restored",
-   "detail": "European Commission President Ursula von der Leyen said she supports the Ukraine peace talks due to take place in Abu Dhabi on Tuesday. She also said again that freedom of navigation in the Black Sea must be preserved and restored.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "595a32ddac90afb9",
-    "0c119dd19eef8d5c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzv7friwkb2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzv7friwkb2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzv7et5mft2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzv7et5mft2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "56c4cae8f286",
-   "created_at": "2026-11-09T15:10:49Z"
   }
  ]
 }
