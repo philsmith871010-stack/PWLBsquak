@@ -1,8 +1,143 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T06:10:50Z",
+ "generated_at": "2026-11-10T06:15:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1e755ad40a1d",
+   "ts": "2026-11-10T05:20:07Z",
+   "headline": "Laden LNG tanker exits from the Strait of Hormuz hit their highest monthly level in October since the Iran war began",
+   "detail": "Reuters cites vessel tracking data showing the monthly count of laden LNG tankers leaving the Strait of Hormuz reached its highest in October since the US-Iran conflict disrupted shipping.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "1d79c783a620abfc"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzwoxpcnek2g",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzwoxpcnek2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6f759203767b",
+   "created_at": "2026-11-10T06:15:49Z"
+  },
+  {
+   "id": "ad7bb1bdf8b3",
+   "ts": "2026-11-10T05:10:07Z",
+   "headline": "US military moves aircraft out of a second UK base after an Iranian threat, WSJ reports",
+   "detail": "The Wall Street Journal, citing people familiar with the matter, reported that the US military evacuated aircraft from a UK airbase on Monday following a threat from Iran.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d5d32975b59faefc",
+    "208fed29f310e6ef"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzwofsh2zc2v",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzwofsh2zc2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwn5uswaq2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwn5uswaq2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6f759203767b",
+   "created_at": "2026-11-10T06:15:49Z"
+  },
+  {
+   "id": "64d79e332a60",
+   "ts": "2026-11-10T04:00:41Z",
+   "headline": "China's October crude imports reach their highest since March but are down 13.3% y/y",
+   "detail": "Official Chinese data show October crude oil imports fell 13.3% from a year earlier but were the highest since March, after the war on Iran disrupted Middle East supplies.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "18b1c719a5c09f76"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzwkjnjvns2o",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzwkjnjvns2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6f759203767b",
+   "created_at": "2026-11-10T06:15:49Z"
+  },
+  {
+   "id": "c1251774f238",
+   "ts": "2026-11-10T03:40:30Z",
+   "headline": "Japan's 30-year JGB auction tail widens to 0.35 from 0.16; 30-year yield rises 2.5bp to 3.865% afterwards",
+   "detail": "The tail at Japan's 30-year government bond sale widened to 0.35, from 0.16 at the previous auction. The 30-year JGB yield rose 2.5bp to 3.865% after the result.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c74143b8a1f662e5",
+    "ebd4bdb418999c89"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwjfkztp42v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwjfkztp42v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwkr63ys422",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwkr63ys422"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6f759203767b",
+   "created_at": "2026-11-10T06:15:49Z"
+  },
+  {
+   "id": "c6a9aa7ceb58",
+   "ts": "2026-11-10T03:29:35Z",
+   "headline": "China's trade surplus tops $1tn in the first 10 months of the year",
+   "detail": "The FT and Reuters report China's January to October trade surplus passed $1tn, led by exports of high-tech goods linked to AI infrastructure. Customs data put October exports up 28.7% y/y in yuan terms and imports up 34.7%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "75c431348bb38f60",
+    "c7ed53ace94dd40f",
+    "9ef1638e792fae30",
+    "efe2fcee948b4571"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzwis2jafx2f",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mzwis2jafx2f"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzwmqd2hjp2x",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzwmqd2hjp2x"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwnmepvfc2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwnmepvfc2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwq42e6cl2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwq42e6cl2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6f759203767b",
+   "created_at": "2026-11-10T06:15:49Z"
+  },
   {
    "id": "bd2a355db0e0",
    "ts": "2026-11-10T02:31:40Z",
@@ -5855,129 +5990,6 @@
    "model": "opus",
    "run_id": "f5d50dcab32a",
    "created_at": "2026-11-06T12:40:45Z"
-  },
-  {
-   "id": "45a78e0fb49c",
-   "ts": "2026-11-06T12:20:55Z",
-   "headline": "Senior Iranian official says written US commitments on a deal are not enough and Tehran wants action before talks begin",
-   "detail": "According to reports, a senior Iranian official said Iran will not start negotiations until Washington takes practical steps, and that written American commitments on the agreement do not satisfy Tehran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9b6f95c5f07d7f3c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznemhtvdq2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznemhtvdq2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c1bd1ca3bfc5",
-   "created_at": "2026-11-06T12:25:42Z"
-  },
-  {
-   "id": "ec0b1d43992d",
-   "ts": "2026-11-06T12:15:24Z",
-   "headline": "UK Budget keeps the Local Housing Allowance freeze in place into 2027-28, Resolution Foundation says",
-   "detail": "The Resolution Foundation says keeping the LHA freeze into 2027-28 leaves more than a million families worse off, 91% of them in the bottom half of the income distribution. It also notes that the Budget's Your First Home scheme will help a small number of renters to buy.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "47156f15ba5b84fb"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mznecm7uvu2b",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mznecm7uvu2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f0174470c20b",
-   "created_at": "2026-11-06T12:15:48Z"
-  },
-  {
-   "id": "86632199e064",
-   "ts": "2026-11-06T11:53:22Z",
-   "headline": "Spain puts forward former Bank of Spain governor Pablo Hernández de Cos as its candidate for ECB president",
-   "detail": "Spain's deputy prime minister announced the nomination in a letter to the Eurogroup president.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b70939d5017bcc06"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznd372ybd2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznd372ybd2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "52a7692f6c90",
-   "created_at": "2026-11-06T11:55:40Z"
-  },
-  {
-   "id": "51ae2d188dc2",
-   "ts": "2026-11-06T10:52:09Z",
-   "headline": "Belgian King rejects PM De Wever's resignation and tells him to restart budget negotiations at once",
-   "detail": "The Belgian royal palace says the King met Prime Minister Bart De Wever and the heads of the five majority parties, then declined to accept the prime minister's resignation. He asked him to resume budget negotiations immediately to resolve the crisis.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a44ef6238b987e7c",
-    "601eea9ff50ebbee",
-    "3de68fc5185cb07c",
-    "4320f3498da546a4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn7nqm5sg2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn7nqm5sg2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn7oklpxl2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn7oklpxl2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn7prep432y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn7prep432y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn7qw2aq326",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn7qw2aq326"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ccec5f4b400c",
-   "created_at": "2026-11-06T10:55:39Z"
-  },
-  {
-   "id": "c606631ac061",
-   "ts": "2026-11-06T10:41:16Z",
-   "headline": "Iran says diplomacy with the US can only progress if Washington takes practical steps, state broadcaster reports",
-   "detail": "Iranian state broadcaster IRIB reported that Tehran wants practical steps from the US before diplomacy between the two moves forward. The report comes as mediators led by Qatar try to broker an interim US-Iran deal.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2e526ba2ccc61353"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzn72bqcek2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzn72bqcek2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "17049eace752",
-   "created_at": "2026-11-06T10:45:53Z"
   }
  ]
 }
