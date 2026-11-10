@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T18:50:48Z",
+ "generated_at": "2026-11-10T18:55:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a2a5acb53b04",
+   "ts": "2026-11-10T18:50:59Z",
+   "headline": "Fed's Schmid says inflation is his main concern",
+   "detail": "Kansas City Fed President Jeffrey Schmid said inflation is foremost in his thinking, in further remarks on 10 November.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "aad72ef6e7a91b9b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy4bn52za22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy4bn52za22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6c46eb80b60b",
+   "created_at": "2026-11-10T18:55:41Z"
+  },
   {
    "id": "dce49cdb9788",
    "ts": "2026-11-10T18:49:00Z",
@@ -6203,27 +6224,6 @@
    "model": "opus",
    "run_id": "bdf575bca368",
    "created_at": "2026-11-09T12:10:53Z"
-  },
-  {
-   "id": "efcc25d08c7d",
-   "ts": "2026-11-09T11:49:05Z",
-   "headline": "France extends its €1,000 fuel bonus cap into 2027, finance minister Lescure says",
-   "detail": "French finance minister Lescure says the cap of €1,000 on the fuel bonus will continue into 2027. No further details were given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "b3f5971ae2b82a23"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuuacwgtd2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuuacwgtd2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cd23c690139e",
-   "created_at": "2026-11-09T11:50:49Z"
   }
  ]
 }
