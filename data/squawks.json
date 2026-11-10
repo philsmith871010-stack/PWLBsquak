@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T17:05:38Z",
+ "generated_at": "2026-11-10T17:10:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8fcd108a7e93",
+   "ts": "2026-11-10T17:09:50Z",
+   "headline": "Ukraine's foreign minister says Kyiv awaits Russia's reply on Black Sea ceasefire proposals and is not optimistic on progress",
+   "detail": "Ukrainian Foreign Minister Sybiha also said the cost of the war will be higher in 2027 and called on allies to agree long-term funding commitments this year. He said he asked US Secretary of State Rubio to speed up deliveries of air-defence interceptors as Russia attacks energy infrastructure.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a7322187cea6beb7",
+    "9da1262ccae3f6f6",
+    "6a85a3cf8564b0fa"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwmrbwza2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwmrbwza2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwmshmex2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwmshmex2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwlzlenh2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwlzlenh2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ea08910a0e17",
+   "created_at": "2026-11-10T17:10:50Z"
+  },
   {
    "id": "64a0995e539b",
    "ts": "2026-11-10T17:04:19Z",
@@ -6113,27 +6146,6 @@
    "model": "opus",
    "run_id": "522442c5372b",
    "created_at": "2026-11-09T08:25:55Z"
-  },
-  {
-   "id": "8be74aebf324",
-   "ts": "2026-11-09T08:10:04Z",
-   "headline": "German exports grow 2% m/m in September, beating expectations",
-   "detail": "Germany's federal statistics office said on Monday that exports rose 2% on the month in September, more than expected.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "502799e8ebbedb58"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzuhyojskx2g",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzuhyojskx2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3729c67c662e",
-   "created_at": "2026-11-09T08:11:29Z"
   }
  ]
 }
