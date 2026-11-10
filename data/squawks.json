@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T16:15:47Z",
+ "generated_at": "2026-11-10T16:20:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a311ff194235",
+   "ts": "2026-11-10T16:18:40Z",
+   "headline": "Iranian officials say the Strait of Hormuz will stay closed until Iran's seven conditions are met",
+   "detail": "Major General Rezaei said Hormuz will not reopen until Iran's seven conditions are met, and the Secretary of Iran's Supreme National Security Council said the same. Rezaei separately repeated that the US has not yet given a clear response to the conditions.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e534830481b88842",
+    "75d8a6f59803d634",
+    "324077f3692cb60b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxtrbljeq2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxtrbljeq2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxtuqxiyv2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxtuqxiyv2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxtnqmmfu2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxtnqmmfu2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9d9dca4314f7",
+   "created_at": "2026-11-10T16:20:49Z"
+  },
   {
    "id": "2aaa0b7ef723",
    "ts": "2026-11-10T16:14:43Z",
@@ -6041,33 +6074,6 @@
    "model": "opus",
    "run_id": "eef1830a1011",
    "created_at": "2026-11-09T07:05:40Z"
-  },
-  {
-   "id": "6d8c6af7e34e",
-   "ts": "2026-11-09T07:01:01Z",
-   "headline": "German trade surplus narrows to 15.6bn, below the 19.4bn forecast, as imports jump 4.2% m/m",
-   "detail": "Germany's seasonally adjusted trade balance came in at 15.6bn against a 19.4bn forecast and 19.5bn previously. Imports rose 4.2% month on month, against a 0.5% forecast and 0.9% previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "f12caf8d13b72538",
-    "be9932456a9d51b8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzue57u2ls2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzue57u2ls2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzue5ecact2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzue5ecact2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "af1d7f93a569",
-   "created_at": "2026-11-09T07:01:13Z"
   }
  ]
 }
