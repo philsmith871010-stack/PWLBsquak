@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T14:35:41Z",
+ "generated_at": "2026-11-10T14:50:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d80fce9598ca",
+   "ts": "2026-11-10T14:48:00Z",
+   "headline": "Two-year yield reported up 17.4bp on the day, with the 30-year yield up 6.3bp",
+   "detail": "A market newswire reports the two-year yield up 17.4bp and the 30-year up 6.3bp on the day; the post does not name the market. It follows the October US CPI release.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "9c9004fc3c808890"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxop6bvfb2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxop6bvfb2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7477343f876f",
+   "created_at": "2026-11-10T14:50:51Z"
+  },
   {
    "id": "4cb24449e268",
    "ts": "2026-11-10T14:35:22Z",
@@ -5915,39 +5936,6 @@
    "model": "opus",
    "run_id": "a6d94dbccdf9",
    "created_at": "2026-11-09T06:21:24Z"
-  },
-  {
-   "id": "eec0b6736572",
-   "ts": "2026-11-08T23:52:31Z",
-   "headline": "Japan's largest daily intervention in July–September was 7.98 trillion yen on 30 July, Finance Ministry data show",
-   "detail": "The Finance Ministry also reported foreign reserves of $1,179.119bn at the end of October, compared with $1,178.396bn at the end of September. Benchmark 10-year JGB futures fell 0.36 point in early trade.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1c75ee0eb67abe70",
-    "511968ea7d4de197",
-    "341a23107b8104ee"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztm6y5cy226",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztm6y5cy226"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztm6txcvn2x",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztm6txcvn2x"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztlvzqine2e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztlvzqine2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1d4a6f02006c",
-   "created_at": "2026-11-09T06:16:28Z"
   }
  ]
 }
