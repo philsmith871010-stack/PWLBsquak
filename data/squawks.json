@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T13:21:04Z",
+ "generated_at": "2026-11-10T13:25:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0f2bfa47a737",
+   "ts": "2026-11-10T13:23:23Z",
+   "headline": "BoE's Lombardelli says long-term inflation expectations remain well anchored, with no sign of de-anchoring",
+   "detail": "Bank of England Deputy Governor Clare Lombardelli said long-term inflation expectations are very well anchored and the Bank does not see them de-anchoring. She made the remarks during her appearance on 10 November.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "8bce19b65c849f38"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxjxtpfi62y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxjxtpfi62y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "70a84b5ef416",
+   "created_at": "2026-11-10T13:25:44Z"
+  },
   {
    "id": "326a7e425609",
    "ts": "2026-11-10T13:20:13Z",
@@ -5832,27 +5853,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznydzqwuk2t",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznydzqwuk2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5e122b33b296",
-   "created_at": "2026-11-06T18:15:47Z"
-  },
-  {
-   "id": "354dded1b034",
-   "ts": "2026-11-06T18:11:37Z",
-   "headline": "Canada's PM Carney says Ottawa is in talks with China on next steps for trade",
-   "detail": "Canadian Prime Minister Mark Carney said Canada is talking to China about the next steps in developing trade between the two countries.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "97830368fb2d236b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzny7kx6m32r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzny7kx6m32r"
     }
    ],
    "model": "opus",
