@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T09:31:00Z",
+ "generated_at": "2026-11-10T09:55:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f08fa9e35640",
+   "ts": "2026-11-10T09:53:55Z",
+   "headline": "Fed's Waller says real rates must rise to keep policy restrictive and higher rates are needed to bear down on inflation",
+   "detail": "Federal Reserve Governor Waller said real interest rates need to rise to keep monetary policy as restrictive as it is now. He added that the Fed needs to raise rates to put downward pressure on inflation.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9335d96a3214d42f",
+    "9bd6e8e9e0fd25d6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx6bcgywc2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx6bcgywc2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx6bcqdvx26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx6bcqdvx26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6797b73fe098",
+   "created_at": "2026-11-10T09:55:40Z"
+  },
   {
    "id": "7ad9d185afa2",
    "ts": "2026-11-10T09:27:06Z",
@@ -5933,33 +5960,6 @@
    "model": "opus",
    "run_id": "ecbfcc813550",
    "created_at": "2026-11-06T15:15:48Z"
-  },
-  {
-   "id": "8c4f16892543",
-   "ts": "2026-11-06T15:01:41Z",
-   "headline": "Canada's Ivey PMI edges up to 58.3 in October from 58.2",
-   "detail": "Canada's Ivey purchasing managers' index came in at 58.3 for October, against 58.2 the previous month. No consensus forecast was given.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7c075e245c1a0519",
-    "106bb609d47dd03c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznnlwtgbn2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznnlwtgbn2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznno7yuxz22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznno7yuxz22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "60f44a01d8bf",
-   "created_at": "2026-11-06T15:05:42Z"
   }
  ]
 }
