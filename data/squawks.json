@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T08:25:40Z",
+ "generated_at": "2026-11-10T08:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4f3b19fe6689",
+   "ts": "2026-11-10T08:35:33Z",
+   "headline": "Riksbank's Jansson says policy normalisation remains relatively cautious",
+   "detail": "Riksbank Deputy Governor Jansson said Sweden's current policy normalisation is still relatively cautious.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2e0a1c4026ad2502"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwzv6efpm2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwzv6efpm2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a0f5661312a6",
+   "created_at": "2026-11-10T08:35:42Z"
+  },
+  {
+   "id": "4df295b699b9",
+   "ts": "2026-11-10T08:35:10Z",
+   "headline": "Ukraine's chief negotiator confirms trilateral talks with the US and Russia are under way; Russia's Medinsky hopes for progress",
+   "detail": "Ukraine's chief negotiator Umerov said the talks with the US and Russia have moved to a trilateral format, with an agenda covering an end to hostilities and peace. Russia's lead negotiator Medinsky said he hopes the updated Russian delegation will help move things towards peace.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "52ddbdc81153c1a0",
+    "28ecf5f13243542c",
+    "942b0a21b70a81dc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwzuhspz22m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwzuhspz22m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwzuhhwb426",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwzuhhwb426"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwzv6nlqi2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwzv6nlqi2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a0f5661312a6",
+   "created_at": "2026-11-10T08:35:42Z"
+  },
   {
    "id": "9a91ae269988",
    "ts": "2026-11-10T08:22:27Z",
@@ -5864,84 +5918,6 @@
    "model": "opus",
    "run_id": "62b8cbc1802f",
    "created_at": "2026-11-06T14:40:48Z"
-  },
-  {
-   "id": "269c573befd3",
-   "ts": "2026-11-06T14:39:12Z",
-   "headline": "Iranian source says Tehran is responding positively to the latest proposal from mediators",
-   "detail": "An Iranian source told Al Arabiya that Tehran is responding positively to the newest proposal put forward by mediators in the US-Iran talks. Separately, a senior Iranian security official repeated that Tehran wants concrete US action before a new phase of diplomacy.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "dd0a7c205a2aa123",
-    "1b61134809b1c551",
-    "0b73b7a9c44cfa06"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmdqjepw2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmdqjepw2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmer3ggi2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmer3ggi2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmbxknk62l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmbxknk62l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "62b8cbc1802f",
-   "created_at": "2026-11-06T14:40:48Z"
-  },
-  {
-   "id": "ea83f9f47eda",
-   "ts": "2026-11-06T14:16:50Z",
-   "headline": "White House adviser Hassett points to three months of strong US job growth and says inflation should be slowing",
-   "detail": "In a CNBC interview, White House senior adviser Kevin Hassett said he was looking at the last three months of very strong job growth and, when asked about the Fed, said inflation should be slowing. He also said an AI bubble is a fair concern, but the US economy could still be very strong even if data centre building slows.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "27a841bf770fed75",
-    "d307f1209114cf34",
-    "218b7fe6b808ab37",
-    "be21e2054309ddc0",
-    "231e6e4f20ff654c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznl3qklxc2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznl3qklxc2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznl5m3nso2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznl5m3nso2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznl5o44co2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznl5o44co2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznl6rp3na2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznl6rp3na2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznlalblmw22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznlalblmw22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "67fc293f891b",
-   "created_at": "2026-11-06T14:20:55Z"
   }
  ]
 }
