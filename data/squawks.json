@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T14:31:05Z",
+ "generated_at": "2026-11-10T14:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4cb24449e268",
+   "ts": "2026-11-10T14:35:22Z",
+   "headline": "UK government security group investigates a possible leak of Budget measures that may have moved markets",
+   "detail": "A letter published by the Treasury Select Committee confirms the investigation, which is being led by a government security group. It concerns a Bloomberg report on a bank tax published just before the Budget, and the committee's chair, Meg Hillier, was reported to have responded with exasperation.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "0598f3cc83613857",
+    "2967899ad5aba6a4",
+    "9501de17523daeec"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxnyksrgu2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxnyksrgu2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxnswku7m2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxnswku7m2k"
+    },
+    {
+     "author": "bruceandy.bsky.social",
+     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3mzxnyla4n22w",
+     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3mzxnyla4n22w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "af7c8f0ab18d",
+   "created_at": "2026-11-10T14:35:41Z"
+  },
   {
    "id": "f4e510da4b6b",
    "ts": "2026-11-10T14:30:33Z",
@@ -5910,75 +5943,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztlvzqine2e",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztlvzqine2e"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1d4a6f02006c",
-   "created_at": "2026-11-09T06:16:28Z"
-  },
-  {
-   "id": "d18cf495671d",
-   "ts": "2026-11-08T22:30:55Z",
-   "headline": "RBA's Hunter says AI demand will lift inflation in the near term and flags risk of disorderly asset repricing",
-   "detail": "Reserve Bank of Australia Assistant Governor Hunter said AI could raise financial stability risks if returns disappoint, although its long-run effect on inflation is likely to be broadly neutral. She said there is limited evidence that AI has significantly boosted productivity or employment in advanced economies.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0a98a83ddcbf5a21",
-    "e9f88ebcd1b69f22",
-    "0624ff684679836c",
-    "48a92c84b4cd22ea",
-    "4fca6dc7942e2894",
-    "2ecc4cd68880054d",
-    "fb108697c67c8b6f",
-    "454355d3140abdd2",
-    "14395ceab4f7194d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzthn2pfw72s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzthn2pfw72s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzthn5hckj2e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzthn5hckj2e"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzthnabbgw2e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzthnabbgw2e"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztho22ua526",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztho22ua526"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztho4jewf26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztho4jewf26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztho7kdle2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztho7kdle2i"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztkxbm5nx2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztkxbm5nx2o"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztkxe6ihz2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztkxe6ihz2i"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mztkxhczd22e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mztkxhczd22e"
     }
    ],
    "model": "opus",
