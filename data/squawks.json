@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T10:31:01Z",
+ "generated_at": "2026-11-10T10:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d31c52218bb5",
+   "ts": "2026-11-10T10:49:08Z",
+   "headline": "Russia, US and Ukraine talks in Abu Dhabi reportedly restart after being suspended",
+   "detail": "Reports say the trilateral negotiations between Russia, the United States and Ukraine in Abu Dhabi have resumed after a suspension. No further details or market reaction were reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7910f47efef6e7fb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxbdzmxv42m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxbdzmxv42m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7e168d15a1f6",
+   "created_at": "2026-11-10T10:50:49Z"
+  },
   {
    "id": "f382c50b12b2",
    "ts": "2026-11-10T10:30:07Z",
@@ -5939,33 +5960,6 @@
    "model": "opus",
    "run_id": "0ce3d8e5a1ba",
    "created_at": "2026-11-06T16:05:41Z"
-  },
-  {
-   "id": "53948b27c12d",
-   "ts": "2026-11-06T16:00:05Z",
-   "headline": "Iranian negotiators review proposals to limit Tehran's nuclear programme, Times of Israel reports",
-   "detail": "The Times of Israel, citing a US official and a diplomat, reported that Iranian negotiators are reviewing proposals to curb the nuclear programme, an issue Tehran had long refused to discuss.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6fd8b6a2e8e068c1",
-    "cd458337c1d66060"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznquepq3r2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznquepq3r2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznqviso3h22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznqviso3h22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d812ad21d086",
-   "created_at": "2026-11-06T16:01:08Z"
   }
  ]
 }
