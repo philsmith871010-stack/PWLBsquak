@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T18:40:50Z",
+ "generated_at": "2026-11-10T18:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5492015e119e",
+   "ts": "2026-11-10T18:45:27Z",
+   "headline": "Fed's Schmid sees some concerning price trends beneath the energy-driven inflation story",
+   "detail": "Kansas City Fed President Jeffrey Schmid said there are some worrying trends in prices underlying the effect of energy. The remarks come on the day US October CPI came in above forecasts.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "09042fc420169cb8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy3xqkx7w2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy3xqkx7w2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f308210ab663",
+   "created_at": "2026-11-10T18:45:51Z"
+  },
   {
    "id": "254dcb6a1eca",
    "ts": "2026-11-10T18:40:40Z",
@@ -6197,33 +6218,6 @@
    "model": "opus",
    "run_id": "fb4c94210663",
    "created_at": "2026-11-09T11:45:51Z"
-  },
-  {
-   "id": "fa26741d5442",
-   "ts": "2026-11-09T11:32:34Z",
-   "headline": "France to lift its minimum wage by 1.6% to €1,502, with the increase brought forward to 1 December",
-   "detail": "France's labour minister says the government will raise the minimum wage by 1.6% to €1,502. The minister says the increase will now take effect on 1 December.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "41b02fc98f6018c0",
-    "08b9de9ae6664412"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzutcrg5kg2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzutcrg5kg2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzutcvdyuq26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzutcvdyuq26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2c92125b14b8",
-   "created_at": "2026-11-09T11:35:44Z"
   }
  ]
 }
