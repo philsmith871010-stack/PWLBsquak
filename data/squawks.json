@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T19:35:41Z",
+ "generated_at": "2026-11-10T20:01:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "840774289571",
+   "ts": "2026-11-10T20:00:05Z",
+   "headline": "Iran's Fars says the South Pars platform hit by fire produces 14.5m cubic metres of the field's 700m cubic metres of gas",
+   "detail": "Iran's Fars news agency gave the output of the platform at the South Pars gas field where a fire was earlier reported to be under control. It put the platform's production at 14.5m cubic metres of gas, out of a field total of 700m cubic metres.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "285fd51998a2a352"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzya56ryht2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzya56ryht2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "00500bcd02cb",
+   "created_at": "2026-11-10T20:01:17Z"
+  },
   {
    "id": "dbf9046b7806",
    "ts": "2026-11-10T19:31:35Z",
@@ -6221,39 +6242,6 @@
    "model": "opus",
    "run_id": "b4cbc0f6aff4",
    "created_at": "2026-11-09T13:10:52Z"
-  },
-  {
-   "id": "e875d5364a1d",
-   "ts": "2026-11-09T12:56:38Z",
-   "headline": "Trump backs Iraqi PM's proposals to end the Iran war and asks him to pass them on to Tehran",
-   "detail": "Reports of a phone call between Trump and Iraq's prime minister say Trump approved the Iraqi proposals for ending the war with Iran. He also asked the prime minister to convey them to Tehran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3c784cb446066a44",
-    "59df2d54a3985d8f",
-    "ccfcdfc22eb879ab"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuxz3qgji2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuxz3qgji2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuxzfj43e2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuxzfj43e2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuxyrir6a2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuxyrir6a2u"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a1872f05e5f5",
-   "created_at": "2026-11-09T13:01:12Z"
   }
  ]
 }
