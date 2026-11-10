@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T21:15:50Z",
+ "generated_at": "2026-11-10T21:20:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5c6d84c26075",
+   "ts": "2026-11-10T21:19:32Z",
+   "headline": "Fed's Waller warns a half-point rate rise in December may be necessary",
+   "detail": "Waller's warning came on the same day Fed's Logan backed at least two more quarter-point rises, after a stronger-than-expected US CPI print. Market wraps report that US stocks and Treasuries fell, with short-dated Treasuries hit hardest, while the dollar rose and money markets priced in a December move larger than 25bp.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "9fc5d55a9841a6ba",
+    "6fc8190310fcf4de",
+    "2fa9921913662976",
+    "3d33c216fd42dce5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyelbcuws2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyelbcuws2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyekjrsck2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyekjrsck2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyekjznck2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyekjznck2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyelaz6fc22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyelaz6fc22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8e9d8b07f3ea",
+   "created_at": "2026-11-10T21:20:48Z"
+  },
   {
    "id": "13dfbff5e902",
    "ts": "2026-11-10T21:15:39Z",
@@ -6341,27 +6380,6 @@
    "model": "opus",
    "run_id": "3e604c7a9335",
    "created_at": "2026-11-09T14:35:42Z"
-  },
-  {
-   "id": "6a93fba53408",
-   "ts": "2026-11-09T14:27:44Z",
-   "headline": "Kremlin's Peskov says rare earth metals are not on the agenda at the Abu Dhabi Ukraine talks",
-   "detail": "Kremlin spokesman Dmitry Peskov said rare earth metals will not be discussed at this week's Abu Dhabi talks on Ukraine.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a760b77b1cbc4583"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzv53yjwn42a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzv53yjwn42a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5baa86fba447",
-   "created_at": "2026-11-09T14:31:02Z"
   }
  ]
 }
