@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T16:31:02Z",
+ "generated_at": "2026-11-10T16:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "463abef620c1",
+   "ts": "2026-11-10T16:32:25Z",
+   "headline": "US 10-year Treasury yield climbs back to 5% for the first time in 12 days",
+   "detail": "A market news feed reports the US 10-year Treasury yield back at 5%, the first time in 12 days. The move follows the October US CPI release, which came in above forecasts earlier in the session.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "7fe0812b70d6193d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxujuedoh25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxujuedoh25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "60609765cf22",
+   "created_at": "2026-11-10T16:35:44Z"
+  },
   {
    "id": "8979d0aacc2a",
    "ts": "2026-11-10T16:30:26Z",
@@ -6071,33 +6092,6 @@
    "model": "opus",
    "run_id": "d07cb2ea3efa",
    "created_at": "2026-11-09T07:45:57Z"
-  },
-  {
-   "id": "d3fccbe2745c",
-   "ts": "2026-11-09T07:33:55Z",
-   "headline": "Iran's Foreign Ministry calls Tehran's two-day proposal the most reasonable offer in talks with the US",
-   "detail": "Iran's Foreign Ministry spokesperson Baghaei said Iran's two-day proposal is the most reasonable one under discussion. He also said pressure should not damage Iran's ties with Iraq.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a418837ba89410ee",
-    "173044560280de98"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzufy2gbkx2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzufy2gbkx2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzug37cr362v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzug37cr362v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "443e6fbd65d6",
-   "created_at": "2026-11-09T07:35:49Z"
   }
  ]
 }
