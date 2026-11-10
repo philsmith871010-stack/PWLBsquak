@@ -1,8 +1,65 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T16:55:40Z",
+ "generated_at": "2026-11-10T17:05:38Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "64a0995e539b",
+   "ts": "2026-11-10T17:04:19Z",
+   "headline": "US EIA raises Brent forecasts to $97.44/bbl for 2026 and $85.78/bbl for 2027",
+   "detail": "The US Energy Information Administration's Short-Term Energy Outlook raises its 2026 Brent average forecast from $96.32/bbl and its 2027 forecast from $83.74/bbl. It puts 2026 world oil output at 101.7m bpd, up from 101.1m bpd, and cuts its 2027 figure to 108.4m bpd from 109.6m bpd, with 2026 world demand unchanged at 102.4m bpd.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "7c91ece3a3520e79",
+    "fd4e8f9487247ea1",
+    "36687642b8e2ede4",
+    "ece8fa16a8b5a471",
+    "ea93815a0fa80e4f",
+    "01e10f67792ee43a",
+    "32640d2d6ec968a8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwcvcdps26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwcvcdps26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwc5zssx2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwc5zssx2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwbeue5x2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwbeue5x2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwcutxyn2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwcutxyn2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwbfcn6d2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwbfcn6d2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwc4nza622",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwc4nza622"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwc5dins26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwc5dins26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "558af35e8ed2",
+   "created_at": "2026-11-10T17:05:38Z"
+  },
   {
    "id": "98d99c40d7c5",
    "ts": "2026-11-10T16:54:52Z",
@@ -6077,27 +6134,6 @@
    "model": "opus",
    "run_id": "3729c67c662e",
    "created_at": "2026-11-09T08:11:29Z"
-  },
-  {
-   "id": "ec9d1b8da935",
-   "ts": "2026-11-09T08:02:20Z",
-   "headline": "China extends its suspension of export controls aimed at US companies",
-   "detail": "A market news feed reported that China will extend its suspension of export controls targeting US companies. The report gave no new expiry date. It follows China's decision to keep its extra tariff on US imports suspended for two more months.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "70f773b9e37fd97c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuhkuawch2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuhkuawch2u"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f1a635dfcdd2",
-   "created_at": "2026-11-09T08:05:49Z"
   }
  ]
 }
