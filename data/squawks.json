@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T19:05:40Z",
+ "generated_at": "2026-11-10T19:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dbf9046b7806",
+   "ts": "2026-11-10T19:31:35Z",
+   "headline": "Fire on a platform at Iran's South Pars gas field is under control, Iranian media report; cause under investigation",
+   "detail": "Iran's Fars news agency reports the fire is under control. Iranian reports say the platform produces 14.5m cubic metres of gas out of the field's total 700m, and that a gas leak or an operational incident are the two possible causes.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "f279f2bf6b4191d7",
+    "09bab30777f539d5",
+    "12817ebb20685a80",
+    "47f00622d9775911",
+    "d12daf8cc1e94219"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy6katl3y2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy6katl3y2h"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy6lp52wx22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy6lp52wx22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy6mg6dle26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy6mg6dle26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy6ntnrq62k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy6ntnrq62k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy6py3bfl2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy6py3bfl2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c279773b64cb",
+   "created_at": "2026-11-10T19:35:41Z"
+  },
   {
    "id": "f32345ed918f",
    "ts": "2026-11-10T19:05:24Z",
@@ -6209,27 +6254,6 @@
    "model": "opus",
    "run_id": "a1872f05e5f5",
    "created_at": "2026-11-09T13:01:12Z"
-  },
-  {
-   "id": "84494dcc821c",
-   "ts": "2026-11-09T12:52:57Z",
-   "headline": "Iraq's prime minister puts forward proposals to end the Iran war in a phone call with Trump, sources say",
-   "detail": "Sources report that Iraq's prime minister set out proposals to end the Iran war during a phone call with US President Trump. No details of the proposals were given.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0b351d9994b2a4d0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzuxsjbwcs24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzuxsjbwcs24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "26a10b434807",
-   "created_at": "2026-11-09T12:55:39Z"
   }
  ]
 }
