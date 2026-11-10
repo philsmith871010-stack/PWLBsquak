@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T17:31:00Z",
+ "generated_at": "2026-11-10T17:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "46b756efc246",
+   "ts": "2026-11-10T17:33:02Z",
+   "headline": "ECB's Lane expects second-round effects and says headline inflation could fall as energy reverses while underlying inflation rises",
+   "detail": "ECB chief economist Lane said underlying inflation has not yet moved, consistent with the usual delayed response, and that it guides inflation one year ahead. He added that energy prices are already reversing and it would be surprising if there were no second-round effects.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "3dddf85d1a026df9",
+    "2bb9f4dd0c3bab2c",
+    "a243c18787bfaa86",
+    "c55fc638796ef811"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxxspjgcb2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxxspjgcb2i"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxxus7prp2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxxus7prp2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxxvjtqjw22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxxvjtqjw22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxxwb5fu22y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxxwb5fu22y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6842d817e134",
+   "created_at": "2026-11-10T17:35:43Z"
+  },
   {
    "id": "d62479e947e2",
    "ts": "2026-11-10T17:28:17Z",
@@ -6125,27 +6164,6 @@
    "model": "opus",
    "run_id": "fb20dfa98a61",
    "created_at": "2026-11-09T09:21:06Z"
-  },
-  {
-   "id": "7de859708337",
-   "ts": "2026-11-09T08:43:13Z",
-   "headline": "Dutch finance minister says the next ECB president should be chosen on merit, not through political bargaining",
-   "detail": "The Dutch finance minister said the choice of Lagarde's successor should be based on merit and kept out of political discussions. Spain and the Netherlands both have candidates in the race.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b8d35d58897450b8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzujtxewsl2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzujtxewsl2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c080a51df381",
-   "created_at": "2026-11-09T08:45:48Z"
   }
  ]
 }
