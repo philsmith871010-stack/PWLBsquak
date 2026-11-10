@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T18:35:41Z",
+ "generated_at": "2026-11-10T18:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "254dcb6a1eca",
+   "ts": "2026-11-10T18:40:40Z",
+   "headline": "Qatar's PM tells G7 foreign ministers Doha has won at least two weeks for diplomacy towards a US-Iran understanding",
+   "detail": "According to the Jerusalem Post, Qatari Prime Minister Al Thani told G7 foreign ministers meeting in Paris that Doha had secured a window of at least two weeks to pursue diplomatic efforts between Washington and Tehran.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1ec0e10dfc7131d4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy3p72ltv26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy3p72ltv26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "13dbf71049b2",
+   "created_at": "2026-11-10T18:40:50Z"
+  },
   {
    "id": "1206ff01c005",
    "ts": "2026-11-10T18:32:26Z",
@@ -6203,27 +6224,6 @@
    "model": "opus",
    "run_id": "2c92125b14b8",
    "created_at": "2026-11-09T11:35:44Z"
-  },
-  {
-   "id": "bead8325b041",
-   "ts": "2026-11-09T11:18:31Z",
-   "headline": "Brent crude falls to an intraday low below $96/bbl",
-   "detail": "Brent crude falls below $96 a barrel and hits a new intraday low on Monday. Earlier in the session, prices had already fallen after Trump said further US strikes on Iran were highly unlikely.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "7f26acec23104286"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzusjnts7c2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzusjnts7c2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "48575c3ea630",
-   "created_at": "2026-11-09T11:20:51Z"
   }
  ]
 }
