@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T22:05:44Z",
+ "generated_at": "2026-11-10T22:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "be772d61523c",
+   "ts": "2026-11-10T22:16:08Z",
+   "headline": "UK ministers reject Botley West, which would have been Britain's largest solar farm",
+   "detail": "The UK government turned down the Oxfordshire project, saying it would do substantial harm to the green belt and to Blenheim Palace, the FT reports.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "31607274299611d8"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzyhqhxi3n2j",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mzyhqhxi3n2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7312ab2db450",
+   "created_at": "2026-11-10T22:20:50Z"
+  },
   {
    "id": "5d5073bb755d",
    "ts": "2026-11-10T22:03:26Z",
@@ -6330,27 +6351,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvaccpapd2m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvaccpapd2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "457f01e0a4aa",
-   "created_at": "2026-11-09T15:25:41Z"
-  },
-  {
-   "id": "7e598d374dc9",
-   "ts": "2026-11-09T15:22:29Z",
-   "headline": "Saudi and Omani foreign ministers call for diplomatic efforts to continue to contain the regional crisis",
-   "detail": "Reports say the foreign ministers of Saudi Arabia and Oman stressed that diplomatic efforts to contain the regional crisis need to continue.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "35c865ebe546ead6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzva5ve5gp2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzva5ve5gp2l"
     }
    ],
    "model": "opus",
