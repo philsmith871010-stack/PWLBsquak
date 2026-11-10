@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T08:55:45Z",
+ "generated_at": "2026-11-10T09:01:13Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c6754ab6b9a4",
+   "ts": "2026-11-10T08:56:35Z",
+   "headline": "BoE's Breeden says firms have become very good at adapting to cost shocks",
+   "detail": "Bank of England Deputy Governor Sarah Breeden, a member of the MPC, said businesses are now very good at adjusting to cost shocks. No remarks on the rate outlook were reported in the post.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "a72fc7f14fcaaa83"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx32rjspe2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx32rjspe2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f53340e1a448",
+   "created_at": "2026-11-10T09:01:13Z"
+  },
   {
    "id": "ac466503cc03",
    "ts": "2026-11-10T08:52:41Z",
@@ -5855,39 +5876,6 @@
    "model": "opus",
    "run_id": "40448ae406f3",
    "created_at": "2026-11-06T14:50:48Z"
-  },
-  {
-   "id": "fc0904882fb5",
-   "ts": "2026-11-06T14:44:59Z",
-   "headline": "White House adviser Hassett says Trump will decide on Fed Governor Cook after reading the report",
-   "detail": "Senior White House adviser Hassett also said headline inflation is being driven by energy and Iran, and that he sees no need to plan a policy change.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e275cd89cd5a6063",
-    "bbed4aeefa7d573d",
-    "7ee38ebc046e8dcf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmo3msee26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmo3msee26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmjvyy4z2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmjvyy4z2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznmgtefh426",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznmgtefh426"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4d48dc7ba666",
-   "created_at": "2026-11-06T14:45:52Z"
   }
  ]
 }
