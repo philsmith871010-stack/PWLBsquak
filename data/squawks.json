@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T10:10:47Z",
+ "generated_at": "2026-11-10T10:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "10a7c1b5d4ba",
+   "ts": "2026-11-10T10:11:59Z",
+   "headline": "ECB's Kazaks says more tightening may be needed if the energy shock persists and sees no need to slow or end QT",
+   "detail": "ECB Governing Council member Kazaks also said inflation is likely to go significantly above 4% in 2027. He described stress in French bonds as a repricing of fiscal risk.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "94037d212f32dd01",
+    "6386c68d992f7a58",
+    "7da9f909d576a362",
+    "ce8064da6c169466"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx7bm5tkt2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx7bm5tkt2i"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx7bmsni72k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx7bmsni72k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx7bmgzki2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx7bmgzki2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx7dsn5il2h",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx7dsn5il2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7d222ea9f63b",
+   "created_at": "2026-11-10T10:15:50Z"
+  },
   {
    "id": "75fda7f90b2c",
    "ts": "2026-11-10T10:10:23Z",
@@ -5951,39 +5990,6 @@
    "model": "opus",
    "run_id": "7c81c2eb3640",
    "created_at": "2026-11-06T15:50:50Z"
-  },
-  {
-   "id": "79c6b3b5ed98",
-   "ts": "2026-11-06T15:42:55Z",
-   "headline": "EU's Kallas says Putin has no veto over European security and Ukraine must become part of its security architecture",
-   "detail": "EU foreign policy chief Kaja Kallas also said Russian sabotage across Europe must stop. She made the remarks on Friday as talks continue over a possible Ukraine settlement.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a80d628fc32de81c",
-    "17013d7cdcc84e41",
-    "663c31d0b57199ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznptnogdl24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznptnogdl24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznpve3cyr2e",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznpve3cyr2e"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mznpvodk3i2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mznpvodk3i2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "192e2bca83ed",
-   "created_at": "2026-11-06T15:45:50Z"
   }
  ]
 }
