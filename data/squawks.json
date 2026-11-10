@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-10T17:40:50Z",
+ "generated_at": "2026-11-10T18:01:14Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8c55d538d45d",
+   "ts": "2026-11-10T18:01:07Z",
+   "headline": "US 10-year when-issued yield stands at 5.010% ahead of $42bn Treasury auction",
+   "detail": "Ahead of the US Treasury's $42 billion 10-year note auction, the 10-year when-issued yield was reported at 5.010%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "71dc74a32a84dc2f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxzihyhxj26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxzihyhxj26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a220a6358c1e",
+   "created_at": "2026-11-10T18:01:14Z"
+  },
   {
    "id": "f9a830351139",
    "ts": "2026-11-10T17:40:30Z",
@@ -6137,33 +6158,6 @@
    "model": "opus",
    "run_id": "a0a811d2571e",
    "created_at": "2026-11-09T09:31:05Z"
-  },
-  {
-   "id": "465e680a1419",
-   "ts": "2026-11-09T09:20:39Z",
-   "headline": "Kremlin says this week's Abu Dhabi Ukraine peace talks are a three-way meeting between Russia and Ukraine, mediated by the US",
-   "detail": "Asked whether European countries could join the talks in Abu Dhabi this week, the Kremlin said the format is Russia and Ukraine with the US as mediator. It added that the US and Ukraine each have their own channels to the Europeans.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "04c795c2a322f756",
-    "a3c47d6a02606fe9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzulwuweae2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzulwuweae2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzulwrssoo2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzulwrssoo2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fb20dfa98a61",
-   "created_at": "2026-11-09T09:21:06Z"
   }
  ]
 }
