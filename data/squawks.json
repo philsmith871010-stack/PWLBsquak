@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T12:01:19Z",
+ "generated_at": "2026-11-11T12:10:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5309075b2e04",
+   "ts": "2026-11-11T12:09:06Z",
+   "headline": "Russia-Ukraine prisoner swap to be the largest yet, with more than 1,000 people on each side",
+   "detail": "A Russian official, General Zorin, gave the figure for the exchange agreed at the Abu Dhabi talks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "306a1c4c994942ef"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzwbx5nsu2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzwbx5nsu2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3be36d887f6d",
+   "created_at": "2026-11-11T12:10:51Z"
+  },
+  {
+   "id": "ae14519394aa",
+   "ts": "2026-11-11T12:06:43Z",
+   "headline": "UK PM Burnham says he will set out a plan for the UK before the Christmas recess",
+   "detail": "The Prime Minister made the pledge while taking questions in parliament on 11 November. He gave no further details of the plan's content.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "40c415e6d21d1cfb",
+    "b9a40970e49c59b1",
+    "6a43b7392a9f5f8b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzw5os3cs2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzw5os3cs2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzwajkmdp2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzwajkmdp2c"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzzw6yyem22s",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzzw6yyem22s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3be36d887f6d",
+   "created_at": "2026-11-11T12:10:51Z"
+  },
   {
    "id": "643d0832d9c6",
    "ts": "2026-11-11T12:00:49Z",
@@ -6668,72 +6722,6 @@
    "model": "opus",
    "run_id": "4cbdf213f1b1",
    "created_at": "2026-11-09T21:40:55Z"
-  },
-  {
-   "id": "d153cc1e89ca",
-   "ts": "2026-11-09T21:31:24Z",
-   "headline": "Trump says he sees positive momentum towards ending the Iran conflict and that an Iranian nuclear weapon is non-negotiable",
-   "detail": "In a Truth Social post, US President Trump said all parties agree that Iran cannot have a nuclear weapon. He added that the US stands ready to act if the situation in the Middle East changes, but that this now looks quite unlikely.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b3907cf520bebad7",
-    "c9675e3d1c8f4461",
-    "1b36b82435d2dc7f",
-    "911765ca3ab93b3b",
-    "bc1ceed141093d42"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvurkmzla22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvurkmzla22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvuzbyo7h24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvuzbyo7h24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvuzbllz22h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvuzbllz22h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvurkdel32f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvurkdel32f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvusbexez2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvusbexez2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2e2ec1537507",
-   "created_at": "2026-11-09T21:35:47Z"
-  },
-  {
-   "id": "b8b8db11bcb0",
-   "ts": "2026-11-09T21:30:59Z",
-   "headline": "Trump says he had an excellent conversation with Qatar's prime minister",
-   "detail": "The US president said this in a Truth Social post. Earlier reports said the talks covered efforts towards a deal with Iran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f3e1a390e6a8bb76"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvuqtghpr2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvuqtghpr2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e0fc5b437072",
-   "created_at": "2026-11-09T21:31:05Z"
   }
  ]
 }
