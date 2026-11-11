@@ -1,8 +1,98 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T11:10:48Z",
+ "generated_at": "2026-11-11T11:15:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ee373b18a1dd",
+   "ts": "2026-11-11T11:11:37Z",
+   "headline": "German Chancellor Merz says Germany must do everything it can to keep its AAA credit rating",
+   "detail": "German Chancellor Friedrich Merz said Germany must do all it can to preserve its AAA credit rating.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "df1ac598b140644a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzt35sb4f2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzt35sb4f2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "635f881397fb",
+   "created_at": "2026-11-11T11:15:51Z"
+  },
+  {
+   "id": "543c37d28c36",
+   "ts": "2026-11-11T11:10:48Z",
+   "headline": "Russia's chief negotiator praises US envoys and says Europe can join the Ukraine peace process only once it changes its stance",
+   "detail": "Russia's chief negotiator Medinsky said European security architecture was the central topic at the Abu Dhabi talks, described the US envoys as constructive, and said Europe had made no proposals. He said details would not be made public until agreements are reached.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2f7224f8cad005f1",
+    "c8e0a4983477ceb0",
+    "5888e57a4f1602ab",
+    "aab0938b811c5b0f",
+    "e23de09f98b138fc",
+    "fcc55d30759c74c0",
+    "6d5ddcb7ae4d1df8",
+    "6db4c293c9ba7173",
+    "322346a2a99e14b2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzszp6lpp2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzszp6lpp2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzszphwfg22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzszphwfg22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzt2g64oq2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzt2g64oq2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzt2gukin2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzt2gukin2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzt3uro6622",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzt3uro6622"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzt3uf7qi2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzt3uf7qi2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzt5ckaah2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzt5ckaah2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzt5ccekj2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzt5ccekj2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzt5zainh2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzt5zainh2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "635f881397fb",
+   "created_at": "2026-11-11T11:15:51Z"
+  },
   {
    "id": "a721eeeb4ed3",
    "ts": "2026-11-11T11:09:10Z",
@@ -6392,66 +6482,6 @@
    "model": "opus",
    "run_id": "c8d05599419e",
    "created_at": "2026-11-09T19:40:51Z"
-  },
-  {
-   "id": "9455c0ce6553",
-   "ts": "2026-11-09T19:31:54Z",
-   "headline": "WTI crude December futures settle at $86.85, down $3.98 or 4.38% on the day",
-   "detail": "NYMEX WTI December crude futures settled at $86.85 a barrel, a fall of $3.98 or 4.38%. NYMEX natural gas December futures settled at $3.2180/MMBtu.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "932ff0774172dad4",
-    "9c17e06d00bb781a",
-    "bfc4b524dab501b9",
-    "3d45523f1d5b07e5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvo3v53iz2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvo3v53iz2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvo4ozngv2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvo4ozngv2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvo5zfi5322",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvo5zfi5322"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvo4vpga42y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvo4vpga42y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b783267046bc",
-   "created_at": "2026-11-09T19:35:44Z"
-  },
-  {
-   "id": "1cdd26188a5d",
-   "ts": "2026-11-09T19:12:54Z",
-   "headline": "Iran says three tankers hit mines in the Strait of Hormuz after using unauthorised routes",
-   "detail": "Iran said three tankers struck mines in the Strait of Hormuz, and footage showed one tanker on fire on the shipping route. The posts report that attacks on commercial shipping are continuing; no market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7af17d551bc1b0b3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvmzw6mn22a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvmzw6mn22a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dc9eba5c96e9",
-   "created_at": "2026-11-09T19:15:52Z"
   }
  ]
 }
