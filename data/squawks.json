@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T13:15:52Z",
+ "generated_at": "2026-11-11T13:20:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "862f7d0a0682",
+   "ts": "2026-11-11T13:17:45Z",
+   "headline": "German government says any Putin-Merz talks could build on principles agreed in Abu Dhabi",
+   "detail": "The German government said possible talks between Russian President Putin and Chancellor Merz could go ahead based on the principles agreed at the Abu Dhabi Ukraine talks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d7f6ba082b89e9f4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2224p37ak2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2224p37ak2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "87f1d43316d8",
+   "created_at": "2026-11-11T13:20:52Z"
+  },
   {
    "id": "5ebd7cd39049",
    "ts": "2026-11-11T13:14:56Z",
@@ -6635,27 +6656,6 @@
    "model": "opus",
    "run_id": "fbee3a86409d",
    "created_at": "2026-11-10T06:05:41Z"
-  },
-  {
-   "id": "577afbc6b111",
-   "ts": "2026-11-10T00:01:49Z",
-   "headline": "UK BRC retail sales rise 1.1% y/y, a little below the 1.2% forecast",
-   "detail": "The British Retail Consortium's retail sales monitor shows annual growth of 1.1%, against a forecast of 1.2% and up from 1.0% previously.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "6024c53bd9a589ab"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzw56k5nv42f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzw56k5nv42f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f3f6f0d8681e",
-   "created_at": "2026-11-10T06:01:15Z"
   }
  ]
 }
