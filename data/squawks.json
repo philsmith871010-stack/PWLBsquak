@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T15:05:40Z",
+ "generated_at": "2026-11-11T15:10:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9a698571fe58",
+   "ts": "2026-11-11T15:10:39Z",
+   "headline": "Chancellor Healey says fiscal headroom should be used when needed and rebuilt when possible",
+   "detail": "UK Chancellor Healey set out her approach to fiscal headroom: draw on it when it is needed and restore it when conditions allow. The post gave no figures.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "b83379f2da5c448c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22aglribi2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22aglribi2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ccdbf88b5f52",
+   "created_at": "2026-11-11T15:10:49Z"
+  },
+  {
+   "id": "1e987c9e49ad",
+   "ts": "2026-11-11T15:05:53Z",
+   "headline": "Russia's chief negotiator Medinsky rules out territorial swaps with Ukraine and says the border security zone will keep growing",
+   "detail": "TASS and Vesti report that Medinsky said Russia sees no possibility of territorial exchanges with Ukraine. He also said the security zone along the border is substantial and will expand further, and that a fair security system could secure peace in Europe for decades.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f6eaf514db4a4c58",
+    "f4687f5e3ad4f04f",
+    "54af7e46b6e49d47",
+    "5e5683039196e137",
+    "8fccac25386ffd9d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22a62m5kq2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22a62m5kq2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22aa6htko2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22aa6htko2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22abmmurk2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22abmmurk2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22ace33zp2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22ace33zp2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22aeifg4b2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22aeifg4b2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ccdbf88b5f52",
+   "created_at": "2026-11-11T15:10:49Z"
+  },
   {
    "id": "1182205b0fe7",
    "ts": "2026-11-11T15:05:27Z",
@@ -6512,60 +6578,6 @@
    "model": "opus",
    "run_id": "bb8b822c81f4",
    "created_at": "2026-11-10T07:45:48Z"
-  },
-  {
-   "id": "ec2fad38dbb4",
-   "ts": "2026-11-10T07:34:28Z",
-   "headline": "Ukraine peace talks get under way in Abu Dhabi, with US, Ukrainian and European delegations meeting",
-   "detail": "Market commentary accounts report that talks have begun in Abu Dhabi and that the US delegation is meeting Ukrainian and European delegations. No market reaction is reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6599ad52262d4529",
-    "076e1f80025efacd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwwhwrej225",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwwhwrej225"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwwjdz4ke22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwwjdz4ke22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d54472a0e55f",
-   "created_at": "2026-11-10T07:35:45Z"
-  },
-  {
-   "id": "90e964615a95",
-   "ts": "2026-11-10T07:02:28Z",
-   "headline": "Norway's October underlying CPI slows to 2.7% y/y, matching forecasts and down from 3.0%",
-   "detail": "Norway's underlying inflation rose 0.3% m/m in October, against a forecast of 0.4% and 0.2% the previous month. Headline CPI was 3.6% y/y, below the 3.7% estimate.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "66a9b48b6f941827",
-    "64973af4049102a8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwuoplcs62m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwuoplcs62m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwuoped3p22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwuoped3p22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9c406583baaa",
-   "created_at": "2026-11-10T07:05:40Z"
   }
  ]
 }
