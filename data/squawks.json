@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T20:05:40Z",
+ "generated_at": "2026-11-11T20:57:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "275666a5f5a1",
+   "ts": "2026-11-11T20:36:19Z",
+   "headline": "Markets price 76bp of Fed hikes through June 2027, up from 72bp at Tuesday's close",
+   "detail": "Fed pricing moved further in the hawkish direction after the hot US CPI print. Gold is reported to be falling and all G10 currencies are down against the dollar.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "4ff00773b4e70bb1",
+    "ade014c62dc82a23"
+   ],
+   "sources": [
+    {
+     "author": "robin-j-brooks.bsky.social",
+     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3n22smvtix22l",
+     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3n22smvtix22l"
+    },
+    {
+     "author": "robin-j-brooks.bsky.social",
+     "uri": "at://did:plc:ud2qlpa2iyw2yamklvfl246q/app.bsky.feed.post/3n22ryqkbkk2l",
+     "url": "https://bsky.app/profile/robin-j-brooks.bsky.social/post/3n22ryqkbkk2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f80d328f6fe7",
+   "created_at": "2026-11-11T20:57:41Z"
+  },
+  {
+   "id": "6e405e84438a",
+   "ts": "2026-11-11T20:15:51Z",
+   "headline": "German coalition agrees 2027 budget and drops planned electricity tax cut, Spiegel reports",
+   "detail": "Spiegel reports that Germany's governing coalition has agreed its 2027 budget and that a planned cut to electricity tax is not in it.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8229c54fcbe4a951"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22rid3mad2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22rid3mad2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f80d328f6fe7",
+   "created_at": "2026-11-11T20:57:41Z"
+  },
   {
    "id": "92fce98ae4c6",
    "ts": "2026-11-11T20:01:51Z",
@@ -6374,48 +6422,6 @@
    "model": "opus",
    "run_id": "a9ddb799cf6f",
    "created_at": "2026-11-10T12:10:48Z"
-  },
-  {
-   "id": "28e6f24481bd",
-   "ts": "2026-11-10T11:52:46Z",
-   "headline": "Oil is more than 20% below its late-October peak as markets bet on the Iran conflict winding down, Reuters says",
-   "detail": "Reuters reports that oil prices have fallen more than 20% from their late-October peak, with markets betting that the Iran conflict is winding down.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "aa9e096a84aca847"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzxevswxrc2y",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzxevswxrc2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "83dea6080b4d",
-   "created_at": "2026-11-10T11:55:40Z"
-  },
-  {
-   "id": "9135222a72ce",
-   "ts": "2026-11-10T11:48:09Z",
-   "headline": "France and Ukraine welcome US efforts at the Abu Dhabi Ukraine peace talks",
-   "detail": "Paris said France and Ukraine welcome the US role in the trilateral talks under way in Abu Dhabi. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "aded932624086472"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxenle2yo2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxenle2yo2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f20c88d9e7b1",
-   "created_at": "2026-11-10T11:50:48Z"
   }
  ]
 }
