@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T14:35:41Z",
+ "generated_at": "2026-11-11T14:45:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b2d2b0f78629",
+   "ts": "2026-11-11T14:43:25Z",
+   "headline": "Russian foreign ministry says Russia has no plans to attack Europe",
+   "detail": "Russia's foreign ministry made the statement on 11 November, as US-brokered talks on a Ukraine settlement continue. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d59ade13e4fbbc14"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n226vv2i5o2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n226vv2i5o2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "486f84b21c6e",
+   "created_at": "2026-11-11T14:45:48Z"
+  },
   {
    "id": "0ec8b3ce6ac6",
    "ts": "2026-11-11T14:34:21Z",
@@ -6546,39 +6567,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwubyzzxf22",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwubyzzxf22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cd5bd2155e7d",
-   "created_at": "2026-11-10T06:55:39Z"
-  },
-  {
-   "id": "4a3d50551e25",
-   "ts": "2026-11-10T06:54:57Z",
-   "headline": "France says Europeans will attend Abu Dhabi Ukraine talks, rules out European security talks with Russia before a ceasefire",
-   "detail": "France's foreign minister said European representatives will take part in the Ukraine-Russia talks in Abu Dhabi. France also said there will be no discussions with Russia on European security until a ceasefire is in place and peace in Ukraine is secured.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a93db0355488feb0",
-    "0cb00350540c72b4",
-    "a074aa9bc9fcb035"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwu4ydxzh2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwu4ydxzh2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwu7twckv22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwu7twckv22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwubbsivd2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwubbsivd2l"
     }
    ],
    "model": "opus",
