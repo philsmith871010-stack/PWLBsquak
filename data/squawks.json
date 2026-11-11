@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T09:05:43Z",
+ "generated_at": "2026-11-11T09:10:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "058ae863f157",
+   "ts": "2026-11-11T09:09:38Z",
+   "headline": "Belgium joins France as investors target weaker eurozone credits over debt and deficits, FT reports",
+   "detail": "The Financial Times reports that investors are paying renewed attention to fiscal and political risks and are increasingly targeting the eurozone's weaker credits, now including Belgium alongside France, over debt and deficit concerns.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ea3ca9efc180b777"
+   ],
+   "sources": [
+    {
+     "author": "iankmsmith.ft.com",
+     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3mzzmazfkts2d",
+     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3mzzmazfkts2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "72fc8261e427",
+   "created_at": "2026-11-11T09:10:47Z"
+  },
+  {
+   "id": "c6e0b97ce98c",
+   "ts": "2026-11-11T09:08:14Z",
+   "headline": "Japan PM Takaichi says the government is coordinating with the BoJ under their existing joint statement",
+   "detail": "Japan's prime minister said the government will work with the Bank of Japan towards price stability and economic growth, as set out in the existing joint statement.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "5d9d86649179053b",
+    "de96ce6c9bec6b72"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzm6jmzfl2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzm6jmzfl2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzm7a6w6d2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzm7a6w6d2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "72fc8261e427",
+   "created_at": "2026-11-11T09:10:47Z"
+  },
   {
    "id": "8c07305d69aa",
    "ts": "2026-11-11T09:01:36Z",
@@ -6302,84 +6350,6 @@
    "model": "opus",
    "run_id": "c5246923442f",
    "created_at": "2026-11-09T17:40:58Z"
-  },
-  {
-   "id": "85f98a878133",
-   "ts": "2026-11-09T17:27:43Z",
-   "headline": "BoE's Bailey says UK activity is more resilient than expected, helped by AI investment, but warns an AI asset bubble threatens stability",
-   "detail": "In a speech, Bank of England Governor Bailey said there are growing signs of an early positive supply shock from AI and investment, notably in business services. He also said an AI asset price bubble poses clear financial stability risks, as markets could overvalue AI returns, and that frontier AI has raised cyberattack risks.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "310697e2cb7e7814",
-    "a32d26a9dd83885f",
-    "acfa5f81e38c11b9",
-    "75429f2a6acddc48",
-    "0a029f9ebfa920db",
-    "b7b51c907e8aeedd",
-    "aef26f316f9e6ab2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvh43aeaq22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvh43aeaq22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvh5ti42a22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvh5ti42a22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvh5wvrrr2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvh5wvrrr2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvh6r2hgm2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvh6r2hgm2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvh6v5bqr2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvh6v5bqr2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvh72et7p2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvh72et7p2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvh77a6xm2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvh77a6xm2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "69cac176d627",
-   "created_at": "2026-11-09T17:31:01Z"
-  },
-  {
-   "id": "bde67012ece4",
-   "ts": "2026-11-09T17:25:08Z",
-   "headline": "NY Fed survey shows Americans growing more worried about the US labour market outlook",
-   "detail": "The New York Fed's consumer expectations survey for October, published on Monday, found US households more concerned about future unemployment. No figures for the labour market measures were given in the report.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "331e2cd0f79fb368"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzvgz7azzm2g",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzvgz7azzm2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a6f5e729396a",
-   "created_at": "2026-11-09T17:25:43Z"
   }
  ]
 }
