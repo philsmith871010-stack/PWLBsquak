@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T19:05:40Z",
+ "generated_at": "2026-11-11T19:10:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3870375bbf07",
+   "ts": "2026-11-11T19:10:15Z",
+   "headline": "Dollar hits a session high against the Swiss franc, up 0.98% at 0.83325",
+   "detail": "A market commentator reported that the dollar reached a session high against the Swiss franc and was last up 0.98% at 0.83325 francs.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "5ac4124e377a46c3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22nszfxkh2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22nszfxkh2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f04a6e1dd561",
+   "created_at": "2026-11-11T19:10:50Z"
+  },
   {
    "id": "33fe8b4915a7",
    "ts": "2026-11-11T19:05:12Z",
@@ -6413,27 +6434,6 @@
    "model": "opus",
    "run_id": "5fad17e658f9",
    "created_at": "2026-11-10T11:01:15Z"
-  },
-  {
-   "id": "d31c52218bb5",
-   "ts": "2026-11-10T10:49:08Z",
-   "headline": "Russia, US and Ukraine talks in Abu Dhabi reportedly restart after being suspended",
-   "detail": "Reports say the trilateral negotiations between Russia, the United States and Ukraine in Abu Dhabi have resumed after a suspension. No further details or market reaction were reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7910f47efef6e7fb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxbdzmxv42m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxbdzmxv42m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7e168d15a1f6",
-   "created_at": "2026-11-10T10:50:49Z"
   }
  ]
 }
