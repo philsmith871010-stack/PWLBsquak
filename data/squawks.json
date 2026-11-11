@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T13:55:43Z",
+ "generated_at": "2026-11-11T14:01:14Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "74a1e5f256f3",
+   "ts": "2026-11-11T13:57:56Z",
+   "headline": "Russia's chief negotiator Medinsky says the sides have moved closer to peace after the Abu Dhabi talks",
+   "detail": "Russia's top Ukraine negotiator Medinsky said the parties appear closer to peace following the three-way negotiations in Abu Dhabi, according to Interfax reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5c323fb584d9ab6d",
+    "241f096ffc691254"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n224ekugzu2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n224ekugzu2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n224i23fcm22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n224i23fcm22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "09971de47ffc",
+   "created_at": "2026-11-11T14:01:14Z"
+  },
   {
    "id": "489f3a62c157",
    "ts": "2026-11-11T13:51:35Z",
@@ -6546,33 +6573,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzwkjnjvns2o",
      "url": "https://bsky.app/profile/reuters.com/post/3mzwkjnjvns2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6f759203767b",
-   "created_at": "2026-11-10T06:15:49Z"
-  },
-  {
-   "id": "c1251774f238",
-   "ts": "2026-11-10T03:40:30Z",
-   "headline": "Japan's 30-year JGB auction tail widens to 0.35 from 0.16; 30-year yield rises 2.5bp to 3.865% afterwards",
-   "detail": "The tail at Japan's 30-year government bond sale widened to 0.35, from 0.16 at the previous auction. The 30-year JGB yield rose 2.5bp to 3.865% after the result.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "c74143b8a1f662e5",
-    "ebd4bdb418999c89"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwjfkztp42v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwjfkztp42v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwkr63ys422",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwkr63ys422"
     }
    ],
    "model": "opus",
