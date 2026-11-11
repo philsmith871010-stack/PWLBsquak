@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T19:01:12Z",
+ "generated_at": "2026-11-11T19:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "33fe8b4915a7",
+   "ts": "2026-11-11T19:05:12Z",
+   "headline": "Zelenskiy says Russian envoys have rejected ceasefire proposals",
+   "detail": "Ukraine's President Zelenskiy said Russia's negotiators turned down proposals for a ceasefire. The statement follows the US-Russia-Ukraine talks in Abu Dhabi.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "851e8bc28cad113c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22njymaxm2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22njymaxm2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5601e9e9a2ab",
+   "created_at": "2026-11-11T19:05:40Z"
+  },
   {
    "id": "b42834ae7689",
    "ts": "2026-11-11T19:00:10Z",
@@ -6413,27 +6434,6 @@
    "model": "opus",
    "run_id": "7e168d15a1f6",
    "created_at": "2026-11-10T10:50:49Z"
-  },
-  {
-   "id": "f382c50b12b2",
-   "ts": "2026-11-10T10:30:07Z",
-   "headline": "Budget keeps the Local Housing Allowance freeze in place into 2027-28, Resolution Foundation says",
-   "detail": "According to the Resolution Foundation, more than a million families lose out from extending the freeze, and 91% of them are in the bottom half of the income distribution. The think tank says the Budget's Your First Home scheme will help a small number of renters buy.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "1546e86941015af5"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mzxabzgfgi2g",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mzxabzgfgi2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5f3459a3ffff",
-   "created_at": "2026-11-10T10:31:01Z"
   }
  ]
 }
