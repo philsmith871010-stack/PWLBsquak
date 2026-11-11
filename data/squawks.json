@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T10:55:41Z",
+ "generated_at": "2026-11-11T11:01:24Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9216eca2753f",
+   "ts": "2026-11-11T11:00:59Z",
+   "headline": "Ireland's final October CPI shows 4.3% annual inflation, with the harmonised measure at 4.2%",
+   "detail": "Final October figures put Ireland's consumer price inflation at 4.3% year on year and the harmonised index at 4.2% year on year.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "be401c5fdfaf59ef",
+    "3264e494bd9e914d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzsi5hhkd2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzsi5hhkd2i"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzsi4xzbo2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzsi4xzbo2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "df29b1c53ef3",
+   "created_at": "2026-11-11T11:01:24Z"
+  },
   {
    "id": "a818015495ea",
    "ts": "2026-11-11T10:51:34Z",
@@ -6281,39 +6308,6 @@
    "model": "opus",
    "run_id": "e16d0afdff55",
    "created_at": "2026-11-09T19:01:12Z"
-  },
-  {
-   "id": "631e075dd4b1",
-   "ts": "2026-11-09T18:42:49Z",
-   "headline": "Fed's Barkin calls last jobs report healthy but says firms are still in a low-hire, low-fire mode",
-   "detail": "Richmond Fed President Barkin also said ballot measures approved in recent US elections should not stop data centre expansion because firms will find other places to build. He added that it would help if each Fed policy meeting came with two full months of economic data.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4cef2e13b1db8969",
-    "8c46976042b30b1f",
-    "1b9640bb566ba9ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvle4funa2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvle4funa2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvlexk2672f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvlexk2672f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvld4tv6n26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvld4tv6n26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "677560b54611",
-   "created_at": "2026-11-09T18:45:51Z"
   }
  ]
 }
