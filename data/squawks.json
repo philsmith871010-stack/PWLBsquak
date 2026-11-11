@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T11:35:41Z",
+ "generated_at": "2026-11-11T11:40:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cfc0622dcd5d",
+   "ts": "2026-11-11T11:36:21Z",
+   "headline": "Russia's chief negotiator Medinsky says all Russian land will be returned by one means or another",
+   "detail": "Russian presidential aide and chief negotiator Vladimir Medinsky made the remark on territory after the three-way Russia-US-Ukraine talks in Abu Dhabi ended. The post reported no market reaction.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7d396f05952bff9f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzuhfeazx2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzuhfeazx2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e56b5ce2fc84",
+   "created_at": "2026-11-11T11:40:52Z"
+  },
   {
    "id": "66f65d743fba",
    "ts": "2026-11-11T11:35:33Z",
@@ -6671,27 +6692,6 @@
    "model": "opus",
    "run_id": "501ca9e40293",
    "created_at": "2026-11-09T21:10:48Z"
-  },
-  {
-   "id": "bce8cbf6e10d",
-   "ts": "2026-11-09T20:46:08Z",
-   "headline": "Zelenskiy says Ukraine's gains on the battlefield give Kyiv a stronger hand in peace talks",
-   "detail": "Ukraine's President Zelenskiy said recent battlefield successes have strengthened Kyiv's negotiating position. The remarks come ahead of this week's Abu Dhabi talks on Ukraine.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "bc9935d2546b2d22"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvsamvnkv2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvsamvnkv2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "62dc4f784f3e",
-   "created_at": "2026-11-09T20:50:57Z"
   }
  ]
 }
