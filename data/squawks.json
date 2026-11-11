@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T18:20:56Z",
+ "generated_at": "2026-11-11T18:31:07Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e14074cf88c1",
+   "ts": "2026-11-11T18:30:33Z",
+   "headline": "BoE's Green backs tightening policy proactively to guard against wage growth staying high, FT reports",
+   "detail": "Bank of England MPC member Megan Green said it is right to tighten the monetary policy stance proactively to lean against the risk that wage growth stays at higher levels, according to the Financial Times.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "98e762c960e07281"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22lm22xy42t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22lm22xy42t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1dd81f76b3c1",
+   "created_at": "2026-11-11T18:31:07Z"
+  },
   {
    "id": "1bd03f380c46",
    "ts": "2026-11-11T18:17:03Z",
@@ -6407,45 +6428,6 @@
    "model": "opus",
    "run_id": "f9edc924e793",
    "created_at": "2026-11-10T10:20:52Z"
-  },
-  {
-   "id": "10a7c1b5d4ba",
-   "ts": "2026-11-10T10:11:59Z",
-   "headline": "ECB's Kazaks says more tightening may be needed if the energy shock persists and sees no need to slow or end QT",
-   "detail": "ECB Governing Council member Kazaks also said inflation is likely to go significantly above 4% in 2027. He described stress in French bonds as a repricing of fiscal risk.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "94037d212f32dd01",
-    "6386c68d992f7a58",
-    "7da9f909d576a362",
-    "ce8064da6c169466"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx7bm5tkt2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx7bm5tkt2i"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx7bmsni72k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx7bmsni72k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx7bmgzki2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx7bmgzki2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx7dsn5il2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx7dsn5il2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7d222ea9f63b",
-   "created_at": "2026-11-10T10:15:50Z"
   }
  ]
 }
