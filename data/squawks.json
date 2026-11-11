@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T13:40:49Z",
+ "generated_at": "2026-11-11T13:55:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "489f3a62c157",
+   "ts": "2026-11-11T13:51:35Z",
+   "headline": "Dollar extends gains against the yen, up 0.5% at 159.55",
+   "detail": "A market newswire reports the dollar up 0.5% at 159.55 yen. Earlier in the session it was up 0.2% at 159.04.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "062ebe795111428c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n223z6v5632g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n223z6v5632g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bf818ea6f66f",
+   "created_at": "2026-11-11T13:55:43Z"
+  },
   {
    "id": "3e63b9a737c8",
    "ts": "2026-11-11T13:37:25Z",
@@ -6552,45 +6573,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwkr63ys422",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwkr63ys422"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6f759203767b",
-   "created_at": "2026-11-10T06:15:49Z"
-  },
-  {
-   "id": "c6a9aa7ceb58",
-   "ts": "2026-11-10T03:29:35Z",
-   "headline": "China's trade surplus tops $1tn in the first 10 months of the year",
-   "detail": "The FT and Reuters report China's January to October trade surplus passed $1tn, led by exports of high-tech goods linked to AI infrastructure. Customs data put October exports up 28.7% y/y in yuan terms and imports up 34.7%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "75c431348bb38f60",
-    "c7ed53ace94dd40f",
-    "9ef1638e792fae30",
-    "efe2fcee948b4571"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzwis2jafx2f",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mzwis2jafx2f"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzwmqd2hjp2x",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzwmqd2hjp2x"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwnmepvfc2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwnmepvfc2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwq42e6cl2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwq42e6cl2y"
     }
    ],
    "model": "opus",
