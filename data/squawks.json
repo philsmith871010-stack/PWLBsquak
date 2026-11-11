@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T15:10:49Z",
+ "generated_at": "2026-11-11T15:15:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "741c86363fa4",
+   "ts": "2026-11-11T15:11:28Z",
+   "headline": "Russia's chief negotiator Medinsky says a fair security system from the talks would secure peace in Europe for decades",
+   "detail": "Medinsky made the remarks after the Abu Dhabi talks on a Ukraine settlement, according to reports from Russia. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f8c1d8ba7a6e62ce"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22ahzup4u2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22ahzup4u2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "768c5a3a5b42",
+   "created_at": "2026-11-11T15:15:45Z"
+  },
   {
    "id": "9a698571fe58",
    "ts": "2026-11-11T15:10:39Z",
@@ -6557,27 +6578,6 @@
    "model": "opus",
    "run_id": "05b9fdc13620",
    "created_at": "2026-11-10T07:50:49Z"
-  },
-  {
-   "id": "ed65b12907c4",
-   "ts": "2026-11-10T07:43:00Z",
-   "headline": "Brent crude futures drop 2% to $90.66 a barrel",
-   "detail": "Brent crude futures were reported down 2% at $90.66 a barrel in early European trading on 10 November.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "36e1ac21a60fc95d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwwx6zrvl2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwwx6zrvl2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bb8b822c81f4",
-   "created_at": "2026-11-10T07:45:48Z"
   }
  ]
 }
