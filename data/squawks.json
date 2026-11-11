@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T15:40:51Z",
+ "generated_at": "2026-11-11T15:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d12e8e22a7b3",
+   "ts": "2026-11-11T15:43:34Z",
+   "headline": "Saudi Arabia reportedly says it intercepted three Houthi cruise missiles over Riyadh",
+   "detail": "Reports say Saudi Arabia intercepted three cruise missiles launched by the Houthis over its capital, Riyadh. No market reaction was reported in the inputs.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1e15d4711b8f08fb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22cbgstmt2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22cbgstmt2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "78a4986b4e2c",
+   "created_at": "2026-11-11T15:45:51Z"
+  },
   {
    "id": "55e3c8162861",
    "ts": "2026-11-11T15:37:19Z",
@@ -6480,39 +6501,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwzv6efpm2v",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwzv6efpm2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a0f5661312a6",
-   "created_at": "2026-11-10T08:35:42Z"
-  },
-  {
-   "id": "4df295b699b9",
-   "ts": "2026-11-10T08:35:10Z",
-   "headline": "Ukraine's chief negotiator confirms trilateral talks with the US and Russia are under way; Russia's Medinsky hopes for progress",
-   "detail": "Ukraine's chief negotiator Umerov said the talks with the US and Russia have moved to a trilateral format, with an agenda covering an end to hostilities and peace. Russia's lead negotiator Medinsky said he hopes the updated Russian delegation will help move things towards peace.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "52ddbdc81153c1a0",
-    "28ecf5f13243542c",
-    "942b0a21b70a81dc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwzuhspz22m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwzuhspz22m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwzuhhwb426",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwzuhhwb426"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwzv6nlqi2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwzv6nlqi2q"
     }
    ],
    "model": "opus",
