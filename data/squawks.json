@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T10:20:56Z",
+ "generated_at": "2026-11-11T10:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "50ca3f075ba9",
+   "ts": "2026-11-11T10:34:51Z",
+   "headline": "German 30-year Bund auction draws 1.297 bid-to-cover, down from 1.4, with yield at 3.66%",
+   "detail": "Germany's 30-year Bund auction had a bid-to-cover ratio of 1.297, down from 1.4 at the previous sale. The yield was 3.66%, against 3.8% last time.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "080caf335b0972ee",
+    "088d72e7a296b850"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzqzg6s5m22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzqzg6s5m22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzqzggf7w2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzqzggf7w2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "055213a96f39",
+   "created_at": "2026-11-11T10:35:42Z"
+  },
   {
    "id": "d5d3645c9992",
    "ts": "2026-11-11T10:18:51Z",
@@ -6287,57 +6314,6 @@
    "model": "opus",
    "run_id": "69291d0a6e37",
    "created_at": "2026-11-09T18:40:49Z"
-  },
-  {
-   "id": "e8b85be24a0f",
-   "ts": "2026-11-09T18:21:23Z",
-   "headline": "Fed's Barkin says he has no base case for December and sees policy rate around or slightly below neutral",
-   "detail": "Richmond Fed President Barkin said he has no base case for the December meeting and called the last jobs report healthy, though firms remain in a low-hire, low-fire pattern. He also said it is hard to know how the elections will affect the economy.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "4b19597f95f6b63a",
-    "c71b56500044a2a3",
-    "9dc4ffbc97cf7d17",
-    "39ace9e5f72bc526",
-    "dab8463b8688e164",
-    "b3b05dd2267e3888"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvk4vpbbp2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvk4vpbbp2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvk5s3b5z2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvk5s3b5z2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvk5zsbfp2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvk5zsbfp2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvk4xm4o32h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvk4xm4o32h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvk5vvntc26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvk5vvntc26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvk6uduyg24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvk6uduyg24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "be6e765a462f",
-   "created_at": "2026-11-09T18:31:01Z"
   }
  ]
 }
