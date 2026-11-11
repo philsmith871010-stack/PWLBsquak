@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T11:01:24Z",
+ "generated_at": "2026-11-11T11:05:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d73313b17992",
+   "ts": "2026-11-11T11:01:24Z",
+   "headline": "Portugal's final October CPI confirms 3.8% annual inflation, with the harmonised measure at 3.9%",
+   "detail": "Portugal's statistics office INE confirmed the flash reading of 3.8% annual inflation for October and 0.2% on the month. The harmonised index rose 3.9% on the year and was unchanged on the month.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "3cd8f196cd128e34",
+    "8ea3c014c1a131b7",
+    "0befa11eaee96725",
+    "3e7e5dc853f24527"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzsiuwhk42f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzsiuwhk42f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzsiv5yyz2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzsiv5yyz2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzske4ukh2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzske4ukh2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzsmhqh322n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzsmhqh322n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "98c8187a9f76",
+   "created_at": "2026-11-11T11:05:44Z"
+  },
   {
    "id": "9216eca2753f",
    "ts": "2026-11-11T11:00:59Z",
@@ -6287,27 +6326,6 @@
    "model": "opus",
    "run_id": "0113cf7303a5",
    "created_at": "2026-11-09T19:05:41Z"
-  },
-  {
-   "id": "22c2fbac9cb0",
-   "ts": "2026-11-09T19:01:09Z",
-   "headline": "Bank of France says it faces great uncertainty in assessing growth",
-   "detail": "The Bank of France said there is great uncertainty around its assessment of growth. No figures were reported with the comment.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "f8676c3609cdae24"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvmevoc6s24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvmevoc6s24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e16d0afdff55",
-   "created_at": "2026-11-09T19:01:12Z"
   }
  ]
 }
