@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T09:20:48Z",
+ "generated_at": "2026-11-11T09:25:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "227cf801893e",
+   "ts": "2026-11-11T09:25:05Z",
+   "headline": "Goldman Sachs adds a 25bp Fed rate rise in March to its outlook after hotter-than-expected US October inflation",
+   "detail": "Reuters reports that Goldman Sachs now expects a 25bp Federal Reserve rate rise in March. It made the change on Tuesday after US October inflation came in above expectations, dropping its earlier call that the hiking cycle would end in December.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "33105a92fd4fcbd4"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzzn4nz6lz23",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzzn4nz6lz23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "070a23d1f552",
+   "created_at": "2026-11-11T09:25:44Z"
+  },
   {
    "id": "5b8fa4debd77",
    "ts": "2026-11-11T09:19:57Z",
@@ -6270,33 +6291,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvibjuevb2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvibjuevb2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6c69af686d69",
-   "created_at": "2026-11-09T17:50:47Z"
-  },
-  {
-   "id": "1d8f8ea6d1a7",
-   "ts": "2026-11-09T17:45:46Z",
-   "headline": "BoE's Bailey says policymakers can no longer afford to assume supply shocks will fade",
-   "detail": "The Bank of England Governor made the remark in a speech on Monday evening. He said it can no longer be taken for granted that supply shocks will pass on their own.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "78d707731e6ab71f",
-    "3423ba7be1611c7d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvi64izia24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvi64izia24"
-    },
-    {
-     "author": "bruceandy.bsky.social",
-     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3mzvi65tfxs26",
-     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3mzvi65tfxs26"
     }
    ],
    "model": "opus",
