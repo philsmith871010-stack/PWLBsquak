@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T18:40:48Z",
+ "generated_at": "2026-11-11T19:01:12Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b42834ae7689",
+   "ts": "2026-11-11T19:00:10Z",
+   "headline": "Chancellor Healey says the Treasury is discussing worst-case energy support for UK households, FT reports",
+   "detail": "The FT reports that Chancellor Rachel Healey is preparing for a deepening energy crisis, with the Treasury discussing worst-case support for households. No cost or details of the support were given.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "834bf38aee274046"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n22naxrt3y2r",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n22naxrt3y2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f2f74793545d",
+   "created_at": "2026-11-11T19:01:12Z"
+  },
   {
    "id": "f77337480ad3",
    "ts": "2026-11-11T18:37:39Z",
@@ -6408,33 +6429,6 @@
      "author": "resolutionfoundation.org",
      "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mzxabzgfgi2g",
      "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mzxabzgfgi2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5f3459a3ffff",
-   "created_at": "2026-11-10T10:31:01Z"
-  },
-  {
-   "id": "2c6a3fb7e5c2",
-   "ts": "2026-11-10T10:28:30Z",
-   "headline": "Iran's IRGC navy says two tankers caught fire after striking naval mines in the Strait of Hormuz",
-   "detail": "Iranian state media and Tasnim carried the IRGC navy's report of the two tankers catching fire in the strait. The inputs report no market reaction.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d27362bf5159a3e0",
-    "200a02d4c0d0bd91"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxa755kce2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxa755kce2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxa75ic6y2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxa75ic6y2l"
     }
    ],
    "model": "opus",
