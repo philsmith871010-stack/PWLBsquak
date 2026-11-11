@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T17:25:41Z",
+ "generated_at": "2026-11-11T18:01:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ad3cbbbbe311",
+   "ts": "2026-11-11T17:58:06Z",
+   "headline": "US seeks to close Iran's land borders to tighten blockade, but neighbouring states push back, NYT reports",
+   "detail": "The New York Times reports that Washington wants to step up economic pressure on Iran by sealing its land borders. Neighbouring countries are resisting because they fear the economic fallout.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1283212adf4bfdba"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22jrz2eaq2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22jrz2eaq2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "22ed630d50d3",
+   "created_at": "2026-11-11T18:01:15Z"
+  },
   {
    "id": "9d8309bf9075",
    "ts": "2026-11-11T17:24:10Z",
@@ -6443,33 +6464,6 @@
    "model": "opus",
    "run_id": "34ab0bcb814d",
    "created_at": "2026-11-10T10:05:44Z"
-  },
-  {
-   "id": "f08fa9e35640",
-   "ts": "2026-11-10T09:53:55Z",
-   "headline": "Fed's Waller says real rates must rise to keep policy restrictive and higher rates are needed to bear down on inflation",
-   "detail": "Federal Reserve Governor Waller said real interest rates need to rise to keep monetary policy as restrictive as it is now. He added that the Fed needs to raise rates to put downward pressure on inflation.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "9335d96a3214d42f",
-    "9bd6e8e9e0fd25d6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx6bcgywc2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx6bcgywc2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx6bcqdvx26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx6bcqdvx26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6797b73fe098",
-   "created_at": "2026-11-10T09:55:40Z"
   }
  ]
 }
