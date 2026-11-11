@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T17:10:52Z",
+ "generated_at": "2026-11-11T17:15:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dda340840703",
+   "ts": "2026-11-11T17:11:40Z",
+   "headline": "Trump declares US victory in Iran and says it will take Iran 25 years to rebuild its losses",
+   "detail": "US President Trump said the US had won in Iran and that rebuilding what Iran had lost would take 25 years. He also said the US was more respected than ever.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0ae8987d898e7300",
+    "ca59486cb79a021e",
+    "ef15ac46295cbf95"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22h6xpg3g2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22h6xpg3g2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22hb4ksnt2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22hb4ksnt2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22hg2ex2r22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22hg2ex2r22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8d9e0d558104",
+   "created_at": "2026-11-11T17:15:51Z"
+  },
   {
    "id": "3a79b6c5e73f",
    "ts": "2026-11-11T17:09:41Z",
@@ -6479,33 +6512,6 @@
    "model": "opus",
    "run_id": "4ce1aa9d7065",
    "created_at": "2026-11-10T09:31:00Z"
-  },
-  {
-   "id": "83886af2954d",
-   "ts": "2026-11-10T09:21:37Z",
-   "headline": "Kremlin declines to predict chances of progress at Abu Dhabi Ukraine talks while negotiations continue",
-   "detail": "Kremlin spokesman Peskov said the Russian delegation in Abu Dhabi will decide how often and in what format to report to President Putin, depending on how the negotiations progress. He declined to give a view on the prospects for progress towards peace while talks are under way.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6652cef620ff8147",
-    "fca1b6344a38be57"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx4grrpnd2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx4grrpnd2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx4hjepqc26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx4hjepqc26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "47fdaf3c6dbb",
-   "created_at": "2026-11-10T09:25:43Z"
   }
  ]
 }
