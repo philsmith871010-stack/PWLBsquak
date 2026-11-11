@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T10:35:42Z",
+ "generated_at": "2026-11-11T10:55:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a818015495ea",
+   "ts": "2026-11-11T10:51:34Z",
+   "headline": "Bank of Mauritius sets its repo rate at 5%",
+   "detail": "The Bank of Mauritius has announced its policy decision, setting the repo rate at 5%. The post did not say whether the rate had changed.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "afadd9f9f890e3d0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzrxd475l2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzrxd475l2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1e8464ca699c",
+   "created_at": "2026-11-11T10:55:41Z"
+  },
   {
    "id": "50ca3f075ba9",
    "ts": "2026-11-11T10:34:51Z",
@@ -6293,27 +6314,6 @@
    "model": "opus",
    "run_id": "677560b54611",
    "created_at": "2026-11-09T18:45:51Z"
-  },
-  {
-   "id": "82572baf8814",
-   "ts": "2026-11-09T18:40:17Z",
-   "headline": "Zelenskyy tells European partners he expects sustained Russian attacks on Dnipro bridges aimed at splitting Ukraine",
-   "detail": "The FT reports that Ukraine's president has warned European partners he expects Russia to launch sustained attacks on bridges across the Dnipro river in an attempt to cut the country in half. The warning comes during the Abu Dhabi Ukraine talks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f05389ba4c8fb059"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzvl7lobhx2z",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mzvl7lobhx2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "69291d0a6e37",
-   "created_at": "2026-11-09T18:40:49Z"
   }
  ]
 }
