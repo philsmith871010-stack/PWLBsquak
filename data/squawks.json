@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T09:10:47Z",
+ "generated_at": "2026-11-11T09:15:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9777de0c00fd",
+   "ts": "2026-11-11T09:12:54Z",
+   "headline": "Iran's security chief says Tehran will not let any enriched nuclear material leave the country",
+   "detail": "Iran's security chief Rezaei made the remarks in an exchange with a Lebanese official, according to a newswire headline, and Al Mayadeen separately reported that Iran will not remove enriched material from the country. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "054ee3e049c97ddd",
+    "434569ed6c73ad8b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzmguqyhd2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzmguqyhd2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzmlqysus2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzmlqysus2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e5b3b0ca9021",
+   "created_at": "2026-11-11T09:15:47Z"
+  },
   {
    "id": "058ae863f157",
    "ts": "2026-11-11T09:09:38Z",
@@ -6293,63 +6320,6 @@
    "model": "opus",
    "run_id": "8975186851f4",
    "created_at": "2026-11-09T17:45:47Z"
-  },
-  {
-   "id": "3b384127b8bf",
-   "ts": "2026-11-09T17:40:54Z",
-   "headline": "US official says European partners will join the Abu Dhabi Ukraine talks and both sides show some private flexibility on territory",
-   "detail": "A US official said European partners will take part in the Abu Dhabi talks and that Washington will try to get Russia to accept a multilateral format, with daily contact with both Ukraine and Russia. The official also said Kyiv and Moscow have privately shown a little flexibility on territorial concessions, and that NATO will remain central to European collective defence.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e0ad373e91cb3fad",
-    "7e5f0b9a468696a2",
-    "d0c60d61ff86a3ec",
-    "80f27d8cd540e425",
-    "97b47385623bf352",
-    "f17bf3c89cab69f2",
-    "9a22541d76c4d3b8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvhmmya4w2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvhmmya4w2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvhnhtahj2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvhnhtahj2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvhomz46q2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvhomz46q2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvhpgbmno2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvhpgbmno2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvhtpq3oj2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvhtpq3oj2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvhvao5zq2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvhvao5zq2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvhvfuu5t2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvhvfuu5t2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c5246923442f",
-   "created_at": "2026-11-09T17:40:58Z"
   }
  ]
 }
