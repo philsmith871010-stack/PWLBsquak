@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T18:10:48Z",
+ "generated_at": "2026-11-11T18:20:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1bd03f380c46",
+   "ts": "2026-11-11T18:17:03Z",
+   "headline": "US-Russia-Ukraine talks in Abu Dhabi end with a prisoner swap but without a breakthrough, FT reports",
+   "detail": "The Financial Times reports that the Abu Dhabi talks, the first in about nine months after a pause caused by the war in Iran, ended with an agreed prisoner exchange but no breakthrough.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "da882978fe766e17"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n22ktv4cwq2y",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n22ktv4cwq2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c5b8a7fbe747",
+   "created_at": "2026-11-11T18:20:56Z"
+  },
   {
    "id": "93b602288516",
    "ts": "2026-11-11T18:08:52Z",
@@ -6425,33 +6446,6 @@
    "model": "opus",
    "run_id": "7d222ea9f63b",
    "created_at": "2026-11-10T10:15:50Z"
-  },
-  {
-   "id": "75fda7f90b2c",
-   "ts": "2026-11-10T10:10:23Z",
-   "headline": "ECB's Kazaks says monetary policy still needs some hawkish edge but must avoid hurting the economy too much",
-   "detail": "ECB Governing Council member Kazaks said policy should keep some hawkish edge. He also said inflation must be brought under control without doing too much damage to the economy.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "66c83d417370361a",
-    "62063cd3d1db8e30"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx76qh5f726",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx76qh5f726"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx6zsandz2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx6zsandz2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "eb6f952137df",
-   "created_at": "2026-11-10T10:10:47Z"
   }
  ]
 }
