@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T13:01:14Z",
+ "generated_at": "2026-11-11T13:05:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b7cf4c53ce7c",
+   "ts": "2026-11-11T13:01:22Z",
+   "headline": "OPEC+ crude output rises 2.04m bpd to 41.23m bpd in October as Saudi output jumps to 10.563m bpd",
+   "detail": "OPEC's monthly report puts OPEC+ crude production, including former member UAE, at an average 41.23 million bpd in October, up 2.04 million bpd from September. Saudi Arabia told OPEC it produced 10.563 million bpd in October, up 26% from 8.372 million bpd in September, and the rise was reported as a new wartime high.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "2c7a17c1ad03e07a",
+    "aec43df605850950",
+    "7fa2abf10572ab81",
+    "4e0a3cb192c7f09c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzz7ftopa2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzz7ftopa2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzz7g7bmy2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzz7g7bmy2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzza5jzkb2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzza5jzkb2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzza6cwgb2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzza6cwgb2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e4f84b0734a1",
+   "created_at": "2026-11-11T13:05:51Z"
+  },
   {
    "id": "4c2ab8a8ee4a",
    "ts": "2026-11-11T13:00:57Z",
@@ -6695,33 +6734,6 @@
    "model": "opus",
    "run_id": "e54b20d5cb98",
    "created_at": "2026-11-09T22:25:43Z"
-  },
-  {
-   "id": "b5d874e8240e",
-   "ts": "2026-11-09T22:05:19Z",
-   "headline": "Iran's top security official denies talks with the US are taking place and tells Washington to accept Tehran's seven conditions",
-   "detail": "Iran's top security official told the US to stop putting out false reports of talks that he said do not exist. He also said it was time for Washington to give in to the seven conditions Iran has repeatedly set out.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "93f69485a445c735",
-    "2f8d59e385244ab4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvwo7zjqh2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvwo7zjqh2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvwoxbxbz22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvwoxbxbz22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2995e2e20aa3",
-   "created_at": "2026-11-09T22:05:47Z"
   }
  ]
 }
