@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T14:45:48Z",
+ "generated_at": "2026-11-11T14:55:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8e9282966eca",
+   "ts": "2026-11-11T14:52:02Z",
+   "headline": "Kremlin says no Putin-Trump conversation is currently planned after the Abu Dhabi talks",
+   "detail": "Kremlin spokesman Peskov said no conversation between Putin and Trump is planned at present following the three-way talks between delegations in Abu Dhabi.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e02e60315a0190b0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n227fbzmtb2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n227fbzmtb2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b0fe63130217",
+   "created_at": "2026-11-11T14:55:40Z"
+  },
   {
    "id": "b2d2b0f78629",
    "ts": "2026-11-11T14:43:25Z",
@@ -6551,27 +6572,6 @@
    "model": "opus",
    "run_id": "f5fbf87c07c9",
    "created_at": "2026-11-10T07:01:10Z"
-  },
-  {
-   "id": "31fc967ad4ec",
-   "ts": "2026-11-10T06:55:21Z",
-   "headline": "ECB's Moulin says there are positive signs on energy prices",
-   "detail": "ECB official Moulin said on 10 November that the central bank sees positive signs on energy prices.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ce952293b6f17dff"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwubyzzxf22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwubyzzxf22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cd5bd2155e7d",
-   "created_at": "2026-11-10T06:55:39Z"
   }
  ]
 }
