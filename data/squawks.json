@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T14:05:40Z",
+ "generated_at": "2026-11-11T14:10:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bc0bb58bc97c",
+   "ts": "2026-11-11T14:08:38Z",
+   "headline": "Euro falls to its lowest against the dollar since May 2025, down 0.61% at $1.1097",
+   "detail": "A market news account reported the euro last down 0.61% at $1.1097 against the US dollar, its weakest level since May 2025.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "ed0cbba9e371d0bd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n224xoojof2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n224xoojof2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fdfe25a1c0c3",
+   "created_at": "2026-11-11T14:10:47Z"
+  },
   {
    "id": "9df27db467ea",
    "ts": "2026-11-11T14:02:55Z",
@@ -6551,27 +6572,6 @@
    "model": "opus",
    "run_id": "0de281cee848",
    "created_at": "2026-11-10T06:20:58Z"
-  },
-  {
-   "id": "1e755ad40a1d",
-   "ts": "2026-11-10T05:20:07Z",
-   "headline": "Laden LNG tanker exits from the Strait of Hormuz hit their highest monthly level in October since the Iran war began",
-   "detail": "Reuters cites vessel tracking data showing the monthly count of laden LNG tankers leaving the Strait of Hormuz reached its highest in October since the US-Iran conflict disrupted shipping.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "1d79c783a620abfc"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzwoxpcnek2g",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzwoxpcnek2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6f759203767b",
-   "created_at": "2026-11-10T06:15:49Z"
   }
  ]
 }
