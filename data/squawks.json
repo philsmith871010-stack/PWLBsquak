@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T09:15:47Z",
+ "generated_at": "2026-11-11T09:20:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5b8fa4debd77",
+   "ts": "2026-11-11T09:19:57Z",
+   "headline": "Iran warns any US attack would trigger strikes on distant US bases",
+   "detail": "A wire-style headline reports an Iranian warning that it would answer a US attack by striking US bases far from Iran. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a694099aa01fb4d5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzmthie3n2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzmthie3n2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e61c56587181",
+   "created_at": "2026-11-11T09:20:48Z"
+  },
   {
    "id": "9777de0c00fd",
    "ts": "2026-11-11T09:12:54Z",
@@ -6281,45 +6302,6 @@
    "model": "opus",
    "run_id": "6c69af686d69",
    "created_at": "2026-11-09T17:50:47Z"
-  },
-  {
-   "id": "9efbad4befe2",
-   "ts": "2026-11-09T17:42:00Z",
-   "headline": "US official says Ukraine territorial issues will wait until post-war security architecture is settled; US to press Russia on wider format",
-   "detail": "A US official briefing on the Abu Dhabi Ukraine talks said the US will try to get Russia to accept a multilateral format with Europe at the table after the trilateral meeting, and that both parties are coming with good intentions. The official said territorial questions will not be resolved until the post-war security architecture is known.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "574314d86e583c3a",
-    "b3fd0ed866d37520",
-    "bc6d6ac7f6eb83c3",
-    "73ff9f47795a6f33"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvhxethrz2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvhxethrz2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvhwilzen26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvhwilzen26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvhwaxic32f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvhwaxic32f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvhxbgy2b22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvhxbgy2b22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8975186851f4",
-   "created_at": "2026-11-09T17:45:47Z"
   }
  ]
 }
