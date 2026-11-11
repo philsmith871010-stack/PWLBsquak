@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T07:01:08Z",
+ "generated_at": "2026-11-11T08:25:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "54ff86eaaf47",
+   "ts": "2026-11-11T08:21:14Z",
+   "headline": "ECB's Nagel says Germany's recovery is beating forecasts and expects growth to pick up in Q4",
+   "detail": "Bundesbank President and ECB Governing Council member Joachim Nagel said the German economic recovery has been stronger than forecast. He said growth is likely to accelerate in the fourth quarter.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9428c1c4fd521bb3",
+    "ce321e3f390c4c42",
+    "a64cee05bf543ab4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzjkicqdw2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzjkicqdw2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzjki3nhm2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzjki3nhm2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzjpiniv72i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzjpiniv72i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1515b4f1e247",
+   "created_at": "2026-11-11T08:25:45Z"
+  },
   {
    "id": "afc6f5aba72e",
    "ts": "2026-11-11T07:00:53Z",
@@ -6395,27 +6428,6 @@
    "model": "opus",
    "run_id": "4d240dda495b",
    "created_at": "2026-11-09T17:05:43Z"
-  },
-  {
-   "id": "a82897896b7a",
-   "ts": "2026-11-09T16:54:45Z",
-   "headline": "Brent crude falls to a 10-week low after Trump says US strikes on Iran are highly unlikely",
-   "detail": "The Financial Times reports that Brent extended last week's losses, which came after the Republicans' midterm defeat, to reach its lowest level in 10 weeks.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "4731649540811f66"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzvfcv3oja2z",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mzvfcv3oja2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "64f7c1dc6f47",
-   "created_at": "2026-11-09T16:55:41Z"
   }
  ]
 }
