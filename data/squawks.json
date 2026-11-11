@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T15:35:43Z",
+ "generated_at": "2026-11-11T15:40:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "55e3c8162861",
+   "ts": "2026-11-11T15:37:19Z",
+   "headline": "Brent crude adds to gains and is up $3 a barrel amid uncertainty over the Iran and Ukraine talks",
+   "detail": "Oil futures extended their rise, with Brent up $3 a barrel, from the earlier $2 gain. Reports linked the move to uncertainty over talks on Iran and Ukraine.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "07210afe90109b6c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22bwb6c3m2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22bwb6c3m2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "84d40cf905ee",
+   "created_at": "2026-11-11T15:40:51Z"
+  },
   {
    "id": "aa913fbb2cfb",
    "ts": "2026-11-11T15:34:34Z",
@@ -6497,27 +6518,6 @@
    "model": "opus",
    "run_id": "a0f5661312a6",
    "created_at": "2026-11-10T08:35:42Z"
-  },
-  {
-   "id": "9a91ae269988",
-   "ts": "2026-11-10T08:22:27Z",
-   "headline": "BoE's Lombardelli calls December MPC meeting live for a further rate hike and says the Iran war is pushing up unemployment",
-   "detail": "In an interview with the Guardian, Bank of England Deputy Governor Clare Lombardelli said the December MPC meeting is live for considering another rate rise. She said the Iran war has raised energy prices, clouded the outlook and driven up unemployment, and that young people are bearing the brunt of a sluggish economy.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "488b074c133a413e"
-   ],
-   "sources": [
-    {
-     "author": "rjpartington.bsky.social",
-     "uri": "at://did:plc:7gxgy7wfvg4tdsspy32rcvvw/app.bsky.feed.post/3mzwz5qbsm227",
-     "url": "https://bsky.app/profile/rjpartington.bsky.social/post/3mzwz5qbsm227"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e148dedd8ab7",
-   "created_at": "2026-11-10T08:25:40Z"
   }
  ]
 }
