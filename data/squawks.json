@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T18:01:15Z",
+ "generated_at": "2026-11-11T18:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b108df674c3e",
+   "ts": "2026-11-11T18:05:05Z",
+   "headline": "Iran attacks ship navigation systems on Oman's Didamar island in the Strait of Hormuz, sources say",
+   "detail": "Reuters cites three sources with knowledge of the matter as confirming that Iran attacked shipping navigation systems on the Omani island, which is infrastructure used to restore Gulf oil flows. No market reaction was reported in the posts.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3c01d240d83d032a",
+    "76b7b80b85495625"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n22k6hxpjc2q",
+     "url": "https://bsky.app/profile/reuters.com/post/3n22k6hxpjc2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22k6lvtgm2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22k6lvtgm2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1fdabc45ef55",
+   "created_at": "2026-11-11T18:05:42Z"
+  },
   {
    "id": "ad3cbbbbe311",
    "ts": "2026-11-11T17:58:06Z",
@@ -6426,39 +6453,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx6s4xpd32q",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx6s4xpd32q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "34ab0bcb814d",
-   "created_at": "2026-11-10T10:05:44Z"
-  },
-  {
-   "id": "5b53a1681961",
-   "ts": "2026-11-10T10:02:55Z",
-   "headline": "ECB's Kazaks says policy must stop energy inflation spilling over and gradual action is still appropriate",
-   "detail": "ECB Governing Council member Kazaks said policymakers must stay vigilant and cautious. He said it remains appropriate to act gradually and that policy must keep energy inflation from spreading further.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "358de48d8ff24f81",
-    "fc7639918fbcd886",
-    "a1826bdb903c5398"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx6rfd7bc22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx6rfd7bc22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx6rfu7fz25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx6rfu7fz25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx6rfndor25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx6rfndor25"
     }
    ],
    "model": "opus",
