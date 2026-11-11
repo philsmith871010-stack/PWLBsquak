@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T16:45:51Z",
+ "generated_at": "2026-11-11T16:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6f0173fe4d71",
+   "ts": "2026-11-11T16:50:12Z",
+   "headline": "Sterling falls against a stronger dollar as markets bet on a Fed rate hike next month",
+   "detail": "Reuters reports the pound fell against the dollar on Wednesday. The dollar strengthened across the board after US inflation data and hawkish comments from Federal Reserve officials the day before raised bets on a Fed hike next month.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "0ef318877742189f"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n22fyl2cpb2z",
+     "url": "https://bsky.app/profile/reuters.com/post/3n22fyl2cpb2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1deaceddba49",
+   "created_at": "2026-11-11T16:50:48Z"
+  },
   {
    "id": "9a3aba72b9fb",
    "ts": "2026-11-11T16:41:54Z",
@@ -6545,27 +6566,6 @@
    "model": "opus",
    "run_id": "061b6aee10f5",
    "created_at": "2026-11-10T09:05:42Z"
-  },
-  {
-   "id": "c6754ab6b9a4",
-   "ts": "2026-11-10T08:56:35Z",
-   "headline": "BoE's Breeden says firms have become very good at adapting to cost shocks",
-   "detail": "Bank of England Deputy Governor Sarah Breeden, a member of the MPC, said businesses are now very good at adjusting to cost shocks. No remarks on the rate outlook were reported in the post.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "a72fc7f14fcaaa83"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx32rjspe2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx32rjspe2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f53340e1a448",
-   "created_at": "2026-11-10T09:01:13Z"
   }
  ]
 }
