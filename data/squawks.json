@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T12:35:42Z",
+ "generated_at": "2026-11-11T12:50:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "47faa2ed3603",
+   "ts": "2026-11-11T12:46:05Z",
+   "headline": "G7 foreign ministers condemn North Korean, Iranian and Chinese support for Russia's military, UK reports",
+   "detail": "According to the UK, the G7 foreign ministers' statement condemns North Korea and Iran for giving military assistance to Russia, and China for supplying weapons, military training and dual-use components. The ministers also express grave concern over Iranian involvement in violent plots, including one against the UK's RAF Fairford base.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b813f40b1d3c508e",
+    "5c051fc681d5e3ec",
+    "b00eec61c9eb6a6d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzye3jg4u2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzye3jg4u2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzyg6abgw2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzyg6abgw2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzyjqiv4t2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzyjqiv4t2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "99ef7b4aa804",
+   "created_at": "2026-11-11T12:50:51Z"
+  },
   {
    "id": "00f3c47085f1",
    "ts": "2026-11-11T12:34:02Z",
@@ -6689,27 +6722,6 @@
    "model": "opus",
    "run_id": "42af1d566df6",
    "created_at": "2026-11-09T22:01:14Z"
-  },
-  {
-   "id": "85104f48f7d1",
-   "ts": "2026-11-09T21:48:15Z",
-   "headline": "Qatar's prime minister says he met Trump and Vance to discuss ways to move Iran negotiations forward",
-   "detail": "Qatar's prime minister said the meeting with US President Trump and Vice President Vance covered ways to make progress in negotiations with Iran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6f4e40620e73bf26"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvvpp3nwb24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvvpp3nwb24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1dce55be0f52",
-   "created_at": "2026-11-09T21:50:54Z"
   }
  ]
 }
