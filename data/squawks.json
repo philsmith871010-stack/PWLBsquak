@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T08:25:45Z",
+ "generated_at": "2026-11-11T08:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9cab69f12c8a",
+   "ts": "2026-11-11T08:48:12Z",
+   "headline": "Banks use credit insurance to free up lending capacity as they hit limits on exposure to the AI boom, FT reports",
+   "detail": "The Financial Times reports that Barclays, HSBC and JPMorgan Chase are among the lenders exploring or using credit insurance to free up capacity after reaching limits on lending to AI.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8a80f3fdbdcdf6e6"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzzl2pbl6g2f",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3mzzl2pbl6g2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "053ef87b69d6",
+   "created_at": "2026-11-11T08:50:48Z"
+  },
   {
    "id": "54ff86eaaf47",
    "ts": "2026-11-11T08:21:14Z",
@@ -6395,39 +6416,6 @@
    "model": "opus",
    "run_id": "0c95e7b0b178",
    "created_at": "2026-11-09T17:10:52Z"
-  },
-  {
-   "id": "7c9fd505f28b",
-   "ts": "2026-11-09T17:04:52Z",
-   "headline": "Fed's Barkin says inflation is where the risk lies and policy should move with care despite a clear direction",
-   "detail": "Richmond Fed President Barkin said the risk sits on the inflation side of the Fed's mandate. He described the US economy as remarkably stable and said the direction of policy is straightforward but changes should be made with care.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "dbb86d4b6f62e9f7",
-    "88ec1a70c763c3bc",
-    "7163aac566da8b2b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvfuyc3hu2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvfuyc3hu2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvfv74cuu2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvfv74cuu2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvfw6pyoc26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvfw6pyoc26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4d240dda495b",
-   "created_at": "2026-11-09T17:05:43Z"
   }
  ]
 }
