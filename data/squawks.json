@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T12:50:51Z",
+ "generated_at": "2026-11-11T13:01:14Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4c2ab8a8ee4a",
+   "ts": "2026-11-11T13:00:57Z",
+   "headline": "OPEC keeps its 2026 and 2027 global oil demand growth forecasts unchanged in its monthly report",
+   "detail": "OPEC's monthly oil market report leaves its world oil demand growth projections for 2026 and 2027 unchanged.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "a1cf8caf5958fa21"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzz6o3r7o2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzz6o3r7o2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3e84fd5fc2ec",
+   "created_at": "2026-11-11T13:01:14Z"
+  },
   {
    "id": "47faa2ed3603",
    "ts": "2026-11-11T12:46:05Z",
@@ -6701,27 +6722,6 @@
    "model": "opus",
    "run_id": "2995e2e20aa3",
    "created_at": "2026-11-09T22:05:47Z"
-  },
-  {
-   "id": "20153cc774c9",
-   "ts": "2026-11-09T22:01:02Z",
-   "headline": "Trump says the US has another aircraft carrier ready as Iran talks continue",
-   "detail": "US President Trump said in remarks on Iran on Monday evening that the US has a further aircraft carrier loaded up. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "05b9996e875f8990"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvwgke7cw2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvwgke7cw2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "42af1d566df6",
-   "created_at": "2026-11-09T22:01:14Z"
   }
  ]
 }
