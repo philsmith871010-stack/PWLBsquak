@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T06:15:46Z",
+ "generated_at": "2026-11-11T06:20:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6316e76f72d8",
+   "ts": "2026-11-11T06:14:08Z",
+   "headline": "UK government backs approval of two major offshore wind projects with £1bn from the National Wealth Fund",
+   "detail": "The UK government welcomed the approval of two large offshore wind projects. It confirmed a £12bn investment announcement by RWE and KKR, with £1bn of the financing package coming from the National Wealth Fund. It said more than 2,400 jobs would be supported during construction and operation.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "7fa1e91ec40d1442",
+    "743b523ade4c7d3f",
+    "b64fe58a86d09f03",
+    "f83de72cca61355f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzch7hseq2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzch7hseq2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzchaf2y32f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzchaf2y32f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzch7woy72i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzch7woy72i"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzclscmrd2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzclscmrd2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1f799bdedeac",
+   "created_at": "2026-11-11T06:20:52Z"
+  },
   {
    "id": "bcac06c99850",
    "ts": "2026-11-11T05:50:52Z",
@@ -6407,27 +6446,6 @@
    "model": "opus",
    "run_id": "d3c927354cda",
    "created_at": "2026-11-09T16:35:45Z"
-  },
-  {
-   "id": "7a632bd8a93e",
-   "ts": "2026-11-09T16:30:08Z",
-   "headline": "US Strategic Petroleum Reserve falls to 279.5mn barrels, its lowest level since 1982",
-   "detail": "Crude oil held in the US Strategic Petroleum Reserve fell to 279.5mn barrels last week, the lowest since 1982. The report gave no price reaction.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "f8edf46fa933a77d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvdwuazda2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvdwuazda2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4221e02c29f3",
-   "created_at": "2026-11-09T16:31:03Z"
   }
  ]
 }
