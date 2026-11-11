@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T11:50:47Z",
+ "generated_at": "2026-11-11T12:01:19Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "643d0832d9c6",
+   "ts": "2026-11-11T12:00:49Z",
+   "headline": "ECB's Makhlouf says price pressures sit mainly in energy but upside inflation risks persist",
+   "detail": "ECB Governing Council member Gabriel Makhlouf said price pressures were largely limited to energy and that upside risks to inflation remain. He added that financing conditions have tightened following the rise in yields.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "04be0124bb486aa5",
+    "4291683c0a802f4c",
+    "57eeb58def7c5fc7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzvt4mgg52g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzvt4mgg52g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzvtu3hfr2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzvtu3hfr2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzvttrhw52k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzvttrhw52k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2c94f6f0ec21",
+   "created_at": "2026-11-11T12:01:19Z"
+  },
   {
    "id": "2d1863d8535e",
    "ts": "2026-11-11T11:50:11Z",
@@ -6701,39 +6734,6 @@
    "model": "opus",
    "run_id": "e0fc5b437072",
    "created_at": "2026-11-09T21:31:05Z"
-  },
-  {
-   "id": "71bc61b87e79",
-   "ts": "2026-11-09T21:10:54Z",
-   "headline": "Canada extends tariff relief on goods hit by US tariffs by one year, to 30 June 2028",
-   "detail": "Canada's finance minister said the general remission for US tariffs is extended to 30 June 2028. Relief will also cover non-steel goods used in mining, quarrying and oil and gas extraction, and certain imported goods that are in short supply in Canada.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e584c3c7cc0ad739",
-    "66bf3a12511b2e5d",
-    "297e9306e0b51a3a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvtmw4upv2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvtmw4upv2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvtnvuxi52w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvtnvuxi52w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvtow7sk72h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvtow7sk72h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0496f065a982",
-   "created_at": "2026-11-09T21:17:28Z"
   }
  ]
 }
