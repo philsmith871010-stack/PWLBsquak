@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T16:25:44Z",
+ "generated_at": "2026-11-11T16:35:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c8e877918ceb",
+   "ts": "2026-11-11T16:31:47Z",
+   "headline": "Iran's parliament speaker Ghalibaf says US envoys asked Putin to help set up direct Iran-US talks",
+   "detail": "Iran's parliament speaker Ghalibaf said US officials who travelled to Russia asked Putin to speak to Iran about holding direct talks between Tehran and Washington, according to Fars News. Iranian reports also quoted him as saying Trump would be defeated again if he returned to war.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "cd09c60a26157d7d",
+    "d5aa59ef9291e767"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22exno4ij2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22exno4ij2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22exo5x7v2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22exo5x7v2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "451a8b0111c6",
+   "created_at": "2026-11-11T16:35:45Z"
+  },
   {
    "id": "7b060ceee934",
    "ts": "2026-11-11T16:24:42Z",
@@ -6497,27 +6524,6 @@
    "model": "opus",
    "run_id": "7f9469fff8c3",
    "created_at": "2026-11-10T08:55:45Z"
-  },
-  {
-   "id": "7f82b2987647",
-   "ts": "2026-11-10T08:39:51Z",
-   "headline": "US gasoline price falls below $4 a gallon for the first time since July",
-   "detail": "A market commentator reports that US gasoline has dropped under $4 per gallon, its first time below that level since July.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "98c2f138b553f64a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx24tyi6522",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx24tyi6522"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8d67961f7e5f",
-   "created_at": "2026-11-10T08:40:49Z"
   }
  ]
 }
