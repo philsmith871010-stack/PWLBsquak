@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T14:01:14Z",
+ "generated_at": "2026-11-11T14:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9df27db467ea",
+   "ts": "2026-11-11T14:02:55Z",
+   "headline": "German economic advisers urge Merz to fund defence from the regular budget to keep debt from reaching 98% of GDP by 2040",
+   "detail": "The Financial Times reports that Germany's Council of Economic Experts wants military spending moved gradually onto the regular budget. The panel warns that otherwise debt could reach 98% of GDP by 2040.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "573108abd4f764af"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n224nha7yh2m",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n224nha7yh2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2e52d0fb1df1",
+   "created_at": "2026-11-11T14:05:40Z"
+  },
+  {
+   "id": "0743bf2aff2a",
+   "ts": "2026-11-11T14:02:55Z",
+   "headline": "Saudi oil output recovers to above its average before the Iran conflict, FT reports",
+   "detail": "The Financial Times reports that Saudi Arabia's crude production has rebounded to near prewar levels and is above its average before the Iran conflict. The kingdom has kept exports moving despite attacks on shipping and energy infrastructure.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "3e41f664b8824e8d"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n224nha42m2b",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n224nha42m2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2e52d0fb1df1",
+   "created_at": "2026-11-11T14:05:40Z"
+  },
   {
    "id": "74a1e5f256f3",
    "ts": "2026-11-11T13:57:56Z",
@@ -6525,54 +6567,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzwoxpcnek2g",
      "url": "https://bsky.app/profile/reuters.com/post/3mzwoxpcnek2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6f759203767b",
-   "created_at": "2026-11-10T06:15:49Z"
-  },
-  {
-   "id": "ad7bb1bdf8b3",
-   "ts": "2026-11-10T05:10:07Z",
-   "headline": "US military moves aircraft out of a second UK base after an Iranian threat, WSJ reports",
-   "detail": "The Wall Street Journal, citing people familiar with the matter, reported that the US military evacuated aircraft from a UK airbase on Monday following a threat from Iran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d5d32975b59faefc",
-    "208fed29f310e6ef"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzwofsh2zc2v",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzwofsh2zc2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwn5uswaq2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwn5uswaq2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6f759203767b",
-   "created_at": "2026-11-10T06:15:49Z"
-  },
-  {
-   "id": "64d79e332a60",
-   "ts": "2026-11-10T04:00:41Z",
-   "headline": "China's October crude imports reach their highest since March but are down 13.3% y/y",
-   "detail": "Official Chinese data show October crude oil imports fell 13.3% from a year earlier but were the highest since March, after the war on Iran disrupted Middle East supplies.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "18b1c719a5c09f76"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzwkjnjvns2o",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzwkjnjvns2o"
     }
    ],
    "model": "opus",
