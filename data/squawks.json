@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T15:20:49Z",
+ "generated_at": "2026-11-11T15:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "aa913fbb2cfb",
+   "ts": "2026-11-11T15:34:34Z",
+   "headline": "Fed officials reportedly split over whether New York Fed President Williams should leave in 2027 or 2028",
+   "detail": "Sources say there is an internal Federal Reserve debate over the timing of New York Fed President John Williams' departure, with 2027 and 2028 both under consideration. No market reaction was reported.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ce11f7078208184d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22brdulxm2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22brdulxm2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e5135e2d32cb",
+   "created_at": "2026-11-11T15:35:43Z"
+  },
   {
    "id": "3ed0095f8111",
    "ts": "2026-11-11T15:20:06Z",
@@ -6497,75 +6518,6 @@
    "model": "opus",
    "run_id": "e148dedd8ab7",
    "created_at": "2026-11-10T08:25:40Z"
-  },
-  {
-   "id": "b2f194b190a4",
-   "ts": "2026-11-10T07:59:00Z",
-   "headline": "ECB's Lane says a December hike would be prudent if the data hold, and sees inflation slightly above 4% at year-end",
-   "detail": "ECB chief economist Philip Lane said inflation is likely to end the year a little above 4%, with more to come before the peak, and he expects core and food inflation to pick up. He also said oil prices could move a lot before the December meeting, that he would like markets to reprice in line with the wider macro picture, that Europe's resilience is reassuring, and that France's fiscal problems need to be fixed in Paris.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "ca408d879fe55f92",
-    "f889c36ecca6d78a",
-    "8f34843c49463d98",
-    "de84cb9bf30802a0",
-    "4e7d38b1593d3c2a",
-    "1c5bfa95146d79b7",
-    "fb57386a24e48d73",
-    "f0528bf1e9a8630d",
-    "6c72a88b2f1c3d1f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwxtsbrqg26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwxtsbrqg26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwxtryxjs2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwxtryxjs2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwxujqoyf22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwxujqoyf22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwxuji6n422",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwxuji6n422"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwxuj5xfh2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwxuj5xfh2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwxvdnz7d2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwxvdnz7d2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwxveisks2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwxveisks2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwxws7ia22m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwxws7ia22m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwxwrvsne2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwxwrvsne2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "daf586c25175",
-   "created_at": "2026-11-10T08:01:11Z"
   }
  ]
 }
