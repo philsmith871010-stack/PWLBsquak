@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T06:20:52Z",
+ "generated_at": "2026-11-11T07:01:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "afc6f5aba72e",
+   "ts": "2026-11-11T07:00:53Z",
+   "headline": "German final HICP confirms annual inflation at 2.8%, in line with forecasts",
+   "detail": "Final German HICP shows 2.8% year on year and -0.1% month on month, both matching forecasts and the previous readings. Final German CPI shows -0.2% month on month, also as expected.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4a2bd192abfbf825",
+    "0ed1d5acc6cd77f7",
+    "0dc5f77caf3c394d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzf2st5vu2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzf2st5vu2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzf2s6czh2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzf2s6czh2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzf2siwti2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzf2siwti2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8ef7a40471ee",
+   "created_at": "2026-11-11T07:01:08Z"
+  },
   {
    "id": "6316e76f72d8",
    "ts": "2026-11-11T06:14:08Z",
@@ -6383,69 +6416,6 @@
    "model": "opus",
    "run_id": "64f7c1dc6f47",
    "created_at": "2026-11-09T16:55:41Z"
-  },
-  {
-   "id": "971feb9aa9d6",
-   "ts": "2026-11-09T16:34:23Z",
-   "headline": "US Treasury sells $95bn of 3-month bills at 4.06% and $82bn of 6-month bills at 4.145%",
-   "detail": "The 3-month bill auction had a bid-to-cover of 2.67, down from 2.880, with 79.03% awarded at the high, compared with 4.040% at the previous sale. The 6-month bill drew a bid-to-cover of 2.92, up from 2.890, with 70.91% awarded at the high; its yield compares with 4.150% previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "870c37fc0c699f51",
-    "e8dc888c71e82172",
-    "578de00b92960569",
-    "fafa685defb37e3b",
-    "e7066bb8eb257978",
-    "07e6dd4c6850db4f",
-    "d8e8d4fc40abb66b",
-    "9a3a982c3635f6a1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzve3zccfd2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzve3zccfd2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzve4c7lah2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzve4c7lah2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzve4mjbwe2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzve4mjbwe2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzve5qf3ic2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzve5qf3ic2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzve5tkxdy24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzve5tkxdy24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzve5yykvy2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzve5yykvy2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzve65gmn426",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzve65gmn426"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzve6hpxui2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzve6hpxui2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d3c927354cda",
-   "created_at": "2026-11-09T16:35:45Z"
   }
  ]
 }
