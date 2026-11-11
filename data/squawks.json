@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T20:01:09Z",
+ "generated_at": "2026-11-11T20:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "92fce98ae4c6",
+   "ts": "2026-11-11T20:01:51Z",
+   "headline": "Iranian general Heydari says Strait of Hormuz is closed and will reopen only on the Supreme Leader's order",
+   "detail": "Brigadier General Heydari said Iran has closed the Strait of Hormuz and will not reopen it unless the leader of the revolution orders it, the ISNA news agency reported. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "891e66e6b10d0ebf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22qpcdz5l2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22qpcdz5l2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6bd312e753b7",
+   "created_at": "2026-11-11T20:05:40Z"
+  },
   {
    "id": "a6cfd4f53e91",
    "ts": "2026-11-11T19:56:47Z",
@@ -6395,27 +6416,6 @@
    "model": "opus",
    "run_id": "f20c88d9e7b1",
    "created_at": "2026-11-10T11:50:48Z"
-  },
-  {
-   "id": "994ccb81b7d0",
-   "ts": "2026-11-10T11:43:25Z",
-   "headline": "EU says the US should respect pharmaceutical trade commitments made in their August joint statement",
-   "detail": "An EU spokesperson said on Tuesday that the commitments on trade in the pharmaceutical sector set out in the EU-US joint statement in August should be respected.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6b4d9841cf886bbf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxef44ukl2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxef44ukl2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ea101ac25f51",
-   "created_at": "2026-11-10T11:45:46Z"
   }
  ]
 }
