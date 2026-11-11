@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T13:05:51Z",
+ "generated_at": "2026-11-11T13:10:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dae4ad300241",
+   "ts": "2026-11-11T13:07:21Z",
+   "headline": "German government says a proposal exists for Europeans to take part in future Ukraine talks",
+   "detail": "A German government spokesperson said Europe's involvement in several formats at the Abu Dhabi talks on Ukraine had paid off. The spokesperson added that agreements could not be put into effect without consensus among NATO members.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "cddf4625c28312b8",
+    "53155d555e56a43c",
+    "e58f252b9ca3edae"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzzk43tgd2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzzk43tgd2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzzoe5cwq22",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzzoe5cwq22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzzpt6yj72i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzzpt6yj72i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f406b64a6df6",
+   "created_at": "2026-11-11T13:10:50Z"
+  },
   {
    "id": "b7cf4c53ce7c",
    "ts": "2026-11-11T13:01:22Z",
@@ -6713,27 +6746,6 @@
    "model": "opus",
    "run_id": "f3f6f0d8681e",
    "created_at": "2026-11-10T06:01:15Z"
-  },
-  {
-   "id": "b932528cfd1a",
-   "ts": "2026-11-09T22:25:05Z",
-   "headline": "Trump tells reporters US military action against Iran does not look necessary for now",
-   "detail": "US President Donald Trump told reporters on Monday that US military action against Iran did not currently appear necessary, Reuters reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1e1aef86d5f008a1"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzvxrkmpeg2w",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzvxrkmpeg2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e54b20d5cb98",
-   "created_at": "2026-11-09T22:25:43Z"
   }
  ]
 }
