@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T15:45:51Z",
+ "generated_at": "2026-11-11T16:25:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7b060ceee934",
+   "ts": "2026-11-11T16:24:42Z",
+   "headline": "Iran's parliament speaker Ghalibaf says US must meet all seven of Iran's conditions before Hormuz reopens and talks resume",
+   "detail": "Iran's Parliament Speaker Ghalibaf said Washington has not yet formally answered Iran's message and plan, and that the decision now rests with the US, Al Jazeera reported. He said the Strait of Hormuz will reopen and talks will resume only once the US fully implements Iran's seven conditions.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "922c3d38e4396a5e",
+    "cc7250c1b8dc7617",
+    "8d25839dc516ddc6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22ekyjspn2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22ekyjspn2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22eivis4f2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22eivis4f2i"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22ekywd7x2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22ekywd7x2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "69b9eaea7ff3",
+   "created_at": "2026-11-11T16:25:44Z"
+  },
   {
    "id": "d12e8e22a7b3",
    "ts": "2026-11-11T15:43:34Z",
@@ -6485,27 +6518,6 @@
    "model": "opus",
    "run_id": "8d67961f7e5f",
    "created_at": "2026-11-10T08:40:49Z"
-  },
-  {
-   "id": "4f3b19fe6689",
-   "ts": "2026-11-10T08:35:33Z",
-   "headline": "Riksbank's Jansson says policy normalisation remains relatively cautious",
-   "detail": "Riksbank Deputy Governor Jansson said Sweden's current policy normalisation is still relatively cautious.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "2e0a1c4026ad2502"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwzv6efpm2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwzv6efpm2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a0f5661312a6",
-   "created_at": "2026-11-10T08:35:42Z"
   }
  ]
 }
