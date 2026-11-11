@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T12:25:41Z",
+ "generated_at": "2026-11-11T12:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "00f3c47085f1",
+   "ts": "2026-11-11T12:34:02Z",
+   "headline": "German finance minister says Germany's AAA credit rating is not under threat",
+   "detail": "Germany's finance minister said the country's top AAA sovereign rating is not in danger, after Chancellor Merz said Germany must do everything it can to keep the rating.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "dbfc56e73759cb1f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzxojsic42a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzxojsic42a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1343c5bc3da9",
+   "created_at": "2026-11-11T12:35:42Z"
+  },
   {
    "id": "fa8064e7bde5",
    "ts": "2026-11-11T12:23:07Z",
@@ -6684,39 +6705,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvvpp3nwb24",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvvpp3nwb24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1dce55be0f52",
-   "created_at": "2026-11-09T21:50:54Z"
-  },
-  {
-   "id": "56b3f58bdce2",
-   "ts": "2026-11-09T21:47:03Z",
-   "headline": "Trump says Iran is effectively finished as a military force and the US is keeping Iran at the status quo",
-   "detail": "US President Trump made the remarks on Monday evening, and repeated that he sees momentum towards ending the conflict. The posts in this batch report no market reaction.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2952fd080a3f8a90",
-    "523ae6e0c877964e",
-    "7294f04447f010a2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvvnktvsk2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvvnktvsk2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvvnkkyzu22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvvnkkyzu22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvvoyey522y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvvoyey522y"
     }
    ],
    "model": "opus",
