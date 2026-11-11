@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T13:35:41Z",
+ "generated_at": "2026-11-11T13:40:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3e63b9a737c8",
+   "ts": "2026-11-11T13:37:25Z",
+   "headline": "Lavrov says Putin will decide next steps on Ukraine after US envoys Witkoff and Kushner brief him in Moscow",
+   "detail": "Russian Foreign Minister Sergei Lavrov said US envoys Witkoff and Kushner will brief President Putin in Moscow, after which Putin will determine the further course of action, according to reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "568438aa63b9f4c7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2237u77xl2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2237u77xl2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d3060101bb0b",
+   "created_at": "2026-11-11T13:40:49Z"
+  },
   {
    "id": "9cca089d58b1",
    "ts": "2026-11-11T13:31:08Z",
@@ -6575,63 +6596,6 @@
    "model": "opus",
    "run_id": "6f759203767b",
    "created_at": "2026-11-10T06:15:49Z"
-  },
-  {
-   "id": "bd2a355db0e0",
-   "ts": "2026-11-10T02:31:40Z",
-   "headline": "China's October dollar exports rise 35.2% y/y, above the 33.5% forecast; trade surplus of $105.28bn falls short of $125.8bn poll",
-   "detail": "Chinese customs data show October dollar-denominated exports up 35.2% y/y against a poll of 33.5%, with the trade surplus at $105.28bn against a forecast of $125.8bn. The surplus with the United States was $32.71bn, and yuan-denominated exports rose 28.7% y/y.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "f03abb0dee0f7eca",
-    "99f34c594380520d",
-    "098a8cbf6803c5bc",
-    "40405aaf93c3060c",
-    "0114ee11e06a4cb5",
-    "d079938c02c6affa",
-    "1b611b325b3f08da"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwfkixkkx2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwfkixkkx2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwfkja4f32y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwfkja4f32y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwfmlrdof2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwfmlrdof2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwfmm24fl2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwfmm24fl2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwfndhwfd2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwfndhwfd2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwfo2vodx2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwfo2vodx2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzwfrjjsko2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzwfrjjsko2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1ff857876eb8",
-   "created_at": "2026-11-10T06:10:50Z"
   }
  ]
 }
