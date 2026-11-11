@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T18:35:42Z",
+ "generated_at": "2026-11-11T18:40:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f77337480ad3",
+   "ts": "2026-11-11T18:37:39Z",
+   "headline": "BoE's Greene says UK labour market has less slack than thought and data show wage growth is too high",
+   "detail": "MPC member Megan Greene made the remarks in comments reported by the FT, in which she also repeated her support for tightening monetary policy proactively.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "e6a4f5bd44bbfe0e",
+    "4372e649dd4932bd",
+    "989756ea603d2bb9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22lxzekyl2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22lxzekyl2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22lyqbc5z2n",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22lyqbc5z2n"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22m47m5332c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22m47m5332c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7d6adac57adf",
+   "created_at": "2026-11-11T18:40:48Z"
+  },
   {
    "id": "3af8024c0741",
    "ts": "2026-11-11T18:35:38Z",
@@ -6407,33 +6440,6 @@
    "model": "opus",
    "run_id": "5f3459a3ffff",
    "created_at": "2026-11-10T10:31:01Z"
-  },
-  {
-   "id": "aa5b14a1d19f",
-   "ts": "2026-11-10T10:23:00Z",
-   "headline": "Qatar says its US-Iran mediation continues and both sides have responded positively",
-   "detail": "Qatar said its efforts to mediate between Iran and the US are continuing, and that both sides have reacted positively to the mediation.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2268ce1fff8bc358",
-    "c14106854fda88a1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx7um275t2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx7um275t2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzx7vck2ba2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzx7vck2ba2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "39a8b95eff71",
-   "created_at": "2026-11-10T10:25:42Z"
   }
  ]
 }
