@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T06:10:48Z",
+ "generated_at": "2026-11-11T06:15:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bcac06c99850",
+   "ts": "2026-11-11T05:50:52Z",
+   "headline": "Japan's 10-year JGB yield extends rise to 2.795%, up 10.5bp, as longer maturities also climb",
+   "detail": "Market reports put the 10-year JGB yield at 2.795%, up 10.5bp on the day. The 30-year yield rose 6.5bp to 3.935% and the 40-year rose 4bp to 4.100%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "f9125ed1b4b1eed9",
+    "c9c6c456817bf57e",
+    "52493981e9c6d3f4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzb5lxgnk2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzb5lxgnk2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzz3o6sbls2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzz3o6sbls2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzamr6mnm2i",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzamr6mnm2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "43e0bb7853d9",
+   "created_at": "2026-11-11T06:15:46Z"
+  },
+  {
+   "id": "231f521663ca",
+   "ts": "2026-11-11T04:10:08Z",
+   "headline": "Oil rebounds from a two-month low as attacks on Hormuz shipping offset hopes of an Iran truce",
+   "detail": "Reuters reports oil prices rose on Wednesday after falling to two-month lows in the previous session. It says traders were weighing hopes of de-escalation in the Iran war against continuing attacks on shipping in the Strait of Hormuz.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "97c777a82a053e09"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzz3jhlrks2o",
+     "url": "https://bsky.app/profile/reuters.com/post/3mzz3jhlrks2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "43e0bb7853d9",
+   "created_at": "2026-11-11T06:15:46Z"
+  },
   {
    "id": "41b769863027",
    "ts": "2026-11-11T03:40:16Z",
@@ -6374,72 +6428,6 @@
    "model": "opus",
    "run_id": "4221e02c29f3",
    "created_at": "2026-11-09T16:31:03Z"
-  },
-  {
-   "id": "59756c7482aa",
-   "ts": "2026-11-09T16:18:21Z",
-   "headline": "EU's Kallas says she has low expectations for the Abu Dhabi Ukraine talks and wants clear concessions from Russia",
-   "detail": "The EU foreign policy chief said she does not expect much from the Abu Dhabi talks and that Russia needs to make clear concessions.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6d23271e696c3221",
-    "e5d63995d5133f39",
-    "271072dd54df9d79"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvdbso2k22f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvdbso2k22f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvde3oxrx2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvde3oxrx2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvdeftihv2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvdeftihv2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a0b7901db56d",
-   "created_at": "2026-11-09T16:20:47Z"
-  },
-  {
-   "id": "d3ee6e779f8b",
-   "ts": "2026-11-09T16:17:34Z",
-   "headline": "Saudi energy ministry source says the East-West pipeline is still operating after the attack and there are no casualties",
-   "detail": "A Saudi energy ministry source said the attack in the Medina region caused a limited fire, which has since been put out, and the pipeline's operations were not affected, according to reports.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "0ac5cdd272d669ae",
-    "0b0c15e2804cfcb4",
-    "a8ab568c87d7dd83"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvdafacwj2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvdafacwj2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvd5qblu32f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvd5qblu32f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzvdcsytta22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzvdcsytta22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a0b7901db56d",
-   "created_at": "2026-11-09T16:20:47Z"
   }
  ]
 }
