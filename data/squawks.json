@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T18:01:19Z",
+ "generated_at": "2026-11-12T18:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ab82635f0d1b",
+   "ts": "2026-11-12T18:02:44Z",
+   "headline": "US $25bn 30-year bond auction stops at 5.441% with a 0.4bp tail; bid-to-cover falls to 2.36",
+   "detail": "The US Treasury's 30-year auction drew a high yield of 5.441%, down from 5.618% at the previous sale, while bid-to-cover dropped to 2.36 from 2.540. Indirect bidders took 68.11%, direct bidders 20.5% and primary dealers 11.39%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "1a31098e2017a8a9",
+    "5dc85329034e1747",
+    "237a167a1a256265"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n252j7ur4b2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n252j7ur4b2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n252ja6c4j2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n252ja6c4j2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n252jxcbnt2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n252jxcbnt2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bd839e11715d",
+   "created_at": "2026-11-12T18:05:42Z"
+  },
   {
    "id": "f91e68077aaa",
    "ts": "2026-11-12T18:00:48Z",
@@ -6365,27 +6398,6 @@
    "model": "opus",
    "run_id": "df29b1c53ef3",
    "created_at": "2026-11-11T11:01:24Z"
-  },
-  {
-   "id": "a818015495ea",
-   "ts": "2026-11-11T10:51:34Z",
-   "headline": "Bank of Mauritius sets its repo rate at 5%",
-   "detail": "The Bank of Mauritius has announced its policy decision, setting the repo rate at 5%. The post did not say whether the rate had changed.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "afadd9f9f890e3d0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzrxd475l2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzrxd475l2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1e8464ca699c",
-   "created_at": "2026-11-11T10:55:41Z"
   }
  ]
 }
