@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T13:45:52Z",
+ "generated_at": "2026-11-12T13:51:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d9df2ea0a89e",
+   "ts": "2026-11-12T13:45:59Z",
+   "headline": "USTR Greer says trade issues will be taken up with China next week and declines to give a timeline for a Canada trade deal",
+   "detail": "US Trade Representative Greer also said national security is paramount in trade and that he expects to work with the new Congress on tariffs. He gave no timeline for a trade deal with Canada.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7b2a74b806bed1c1",
+    "dd9efdfbc9e1ab97",
+    "0265dce7443367de",
+    "460903f7ad9ef5bc",
+    "6fe14c9acd55c5e1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24m645kqp25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24m645kqp25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24m6tylot2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24m6tylot2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24m6tprjx2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24m6tprjx2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24m6tfz7z2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24m6tfz7z2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24mcgloga25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24mcgloga25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d8b867c60f2c",
+   "created_at": "2026-11-12T13:51:04Z"
+  },
   {
    "id": "fbf4d6cc4e4a",
    "ts": "2026-11-12T13:45:10Z",
@@ -6557,27 +6602,6 @@
    "model": "opus",
    "run_id": "73fbda714709",
    "created_at": "2026-11-10T19:01:13Z"
-  },
-  {
-   "id": "a2a5acb53b04",
-   "ts": "2026-11-10T18:50:59Z",
-   "headline": "Fed's Schmid says inflation is his main concern",
-   "detail": "Kansas City Fed President Jeffrey Schmid said inflation is foremost in his thinking, in further remarks on 10 November.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "aad72ef6e7a91b9b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy4bn52za22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy4bn52za22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6c46eb80b60b",
-   "created_at": "2026-11-10T18:55:41Z"
   }
  ]
 }
