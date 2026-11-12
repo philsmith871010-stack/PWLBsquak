@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T09:05:43Z",
+ "generated_at": "2026-11-12T09:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1c66da99f164",
+   "ts": "2026-11-12T09:24:51Z",
+   "headline": "Iran's IRGC Navy says a third tanker has exploded in the Strait of Hormuz after hitting a naval mine",
+   "detail": "The IRGC Navy's public relations office said the tanker had breached its rules for the Strait of Hormuz, according to reports. The statement follows its earlier claim that two supertankers exploded in the strait overnight.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c0b8008caf4d2e7b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n245l62crd2o",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n245l62crd2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "12973682beb1",
+   "created_at": "2026-11-12T09:25:42Z"
+  },
   {
    "id": "33d361220838",
    "ts": "2026-11-12T09:04:29Z",
@@ -6522,33 +6543,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxmzhzbmu2q",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxmzhzbmu2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "398bc51b238a",
-   "created_at": "2026-11-10T14:20:50Z"
-  },
-  {
-   "id": "f3e73f70867f",
-   "ts": "2026-11-10T14:17:34Z",
-   "headline": "Zelenskiy says Abu Dhabi talks covered a prisoner exchange and security guarantees",
-   "detail": "Ukraine's President Zelenskiy said he had received reports from his negotiators after the trilateral talks in Abu Dhabi. He said the talks covered a prisoner exchange and security guarantees.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b9302121bc4952ae",
-    "6c65e451448bd967"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxmwn2aa72k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxmwn2aa72k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxmyqlr762l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxmyqlr762l"
     }
    ],
    "model": "opus",
