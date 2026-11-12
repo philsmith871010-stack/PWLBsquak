@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T12:01:10Z",
+ "generated_at": "2026-11-12T12:05:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "326d250d2056",
+   "ts": "2026-11-12T12:01:24Z",
+   "headline": "Zelenskiy asks for energy support for Ukraine now and through the winter, citing equipment destroyed by Russia",
+   "detail": "Speaking in Dublin, Ukraine's President Zelenskiy said Ukraine needs energy support now and through the winter. He said his team has a list of the equipment it needs to replace after Russian attacks destroyed it.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9c2395465028e4fe"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24gd3hfpo2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24gd3hfpo2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "72957c741c67",
+   "created_at": "2026-11-12T12:05:39Z"
+  },
   {
    "id": "3cb919f21e79",
    "ts": "2026-11-12T12:00:59Z",
@@ -6347,45 +6368,6 @@
    "model": "opus",
    "run_id": "9d9dca4314f7",
    "created_at": "2026-11-10T16:20:49Z"
-  },
-  {
-   "id": "2aaa0b7ef723",
-   "ts": "2026-11-10T16:14:43Z",
-   "headline": "Iran's Rezaei says Iran has set seven conditions and the US has not yet given a clear response",
-   "detail": "Iranian Major General Rezaei said Iran had laid down seven conditions and was still waiting for a clear US answer, and called the American response deceptive, Fars News reported. He also said US claims that talks with Iran are continuing are meant to bring oil prices down.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2a13f4a9943f6b9b",
-    "952d636f95cd4113",
-    "2f2fd612941d11a7",
-    "32237d8937a1db0e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxtfzqgxo2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxtfzqgxo2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxtk767uf25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxtk767uf25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxtk7uhp52q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxtk7uhp52q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxtk7ka7j2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxtk7ka7j2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7e592a64dca1",
-   "created_at": "2026-11-10T16:15:47Z"
   }
  ]
 }
