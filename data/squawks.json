@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T18:25:45Z",
+ "generated_at": "2026-11-12T18:31:05Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3fa92a47de78",
+   "ts": "2026-11-12T18:29:30Z",
+   "headline": "Fed's Daly says the focus must be on lowering inflation but productivity gains could eventually prove disinflationary",
+   "detail": "San Francisco Fed President Daly described the US as having a stable labour market, positive growth, productivity growth and high inflation, and said the Fed must concentrate on bringing inflation down. She added that it is too early to say when AI will lift productivity, but the chance that productivity growth eases inflation should not be ignored.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "c64701c3abcbd766",
+    "869eebc0167ab267",
+    "b4d30981c14ddae0",
+    "d40b5f092eb47e72"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253timncw2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253timncw2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253yefiot2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253yefiot2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253z33bph2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253z33bph2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253z3n2v62c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253z3n2v62c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3caf3172cbea",
+   "created_at": "2026-11-12T18:31:05Z"
+  },
   {
    "id": "2eaade4dedb2",
    "ts": "2026-11-12T18:24:48Z",
@@ -6227,27 +6266,6 @@
    "model": "opus",
    "run_id": "7069e0d668ee",
    "created_at": "2026-11-11T11:20:50Z"
-  },
-  {
-   "id": "ee373b18a1dd",
-   "ts": "2026-11-11T11:11:37Z",
-   "headline": "German Chancellor Merz says Germany must do everything it can to keep its AAA credit rating",
-   "detail": "German Chancellor Friedrich Merz said Germany must do all it can to preserve its AAA credit rating.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "df1ac598b140644a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzt35sb4f2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzt35sb4f2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "635f881397fb",
-   "created_at": "2026-11-11T11:15:51Z"
   }
  ]
 }
