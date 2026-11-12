@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T10:25:40Z",
+ "generated_at": "2026-11-12T10:35:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5e89df5ef214",
+   "ts": "2026-11-12T10:32:27Z",
+   "headline": "India's consumer price inflation reaches 6.09% in October, above the 5.93% forecast",
+   "detail": "India's government says consumer prices rose 6.09% year on year in October. A Reuters poll had forecast 5.93%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "7789200904778c84"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24be26ogk25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24be26ogk25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "821d2d454f78",
+   "created_at": "2026-11-12T10:35:40Z"
+  },
   {
    "id": "ec3198dfa8b2",
    "ts": "2026-11-12T10:25:26Z",
@@ -6515,27 +6536,6 @@
    "model": "opus",
    "run_id": "af7c8f0ab18d",
    "created_at": "2026-11-10T14:35:41Z"
-  },
-  {
-   "id": "f4e510da4b6b",
-   "ts": "2026-11-10T14:30:33Z",
-   "headline": "IFS says Conservative welfare proposals imply large but uncertain reductions in benefit spending",
-   "detail": "The Institute for Fiscal Studies published a response from its researcher Tom Waters assessing the opposition Conservatives' welfare plans. It says the plans imply substantial cuts to benefit spending, though the scale is uncertain.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "015e9f534f84eaa4"
-   ],
-   "sources": [
-    {
-     "author": "theifs.bsky.social",
-     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3mzxnpx5rqy2r",
-     "url": "https://bsky.app/profile/theifs.bsky.social/post/3mzxnpx5rqy2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "235e856b1a0e",
-   "created_at": "2026-11-10T14:31:05Z"
   }
  ]
 }
