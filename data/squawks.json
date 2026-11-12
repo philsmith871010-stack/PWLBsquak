@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T13:15:49Z",
+ "generated_at": "2026-11-12T13:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "430d04221462",
+   "ts": "2026-11-12T13:30:49Z",
+   "headline": "US initial jobless claims rise to 200K, above the 194K forecast; continuing claims fall to 1.697M",
+   "detail": "US weekly initial jobless claims came in at 200K, up from 189K the week before and above the 194K forecast. Continuing claims dropped to 1.697M from 1.718M, below the 1.71M forecast.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "08e836fee09beafe",
+    "5c0307241e537b9d",
+    "1181886b8adb85c5",
+    "a491a632fa1947e4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24lcxxr4i2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24lcxxr4i2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24lcytfve2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24lcytfve2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24lcyknma2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24lcyknma2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24lcybis52q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24lcybis52q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d8a4e33c37d2",
+   "created_at": "2026-11-12T13:31:03Z"
+  },
   {
    "id": "0432de6e42d5",
    "ts": "2026-11-12T13:14:17Z",
@@ -6419,27 +6458,6 @@
    "model": "opus",
    "run_id": "fc0f85dd8b99",
    "created_at": "2026-11-10T18:35:41Z"
-  },
-  {
-   "id": "01d94a6c8208",
-   "ts": "2026-11-10T18:24:39Z",
-   "headline": "BoE's Lombardelli sees a case for another rate rise in the near term, citing high energy prices and resilient UK growth",
-   "detail": "The Financial Times reports that Bank of England Deputy Governor Clare Lombardelli said high energy prices and the resilience of UK growth support a further rate increase in the near term. She did not rule out back-to-back rate rises.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "6f2dedf794cad94a"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzy2skbll32n",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mzy2skbll32n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3f390cda4976",
-   "created_at": "2026-11-10T18:25:45Z"
   }
  ]
 }
