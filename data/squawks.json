@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T16:01:17Z",
+ "generated_at": "2026-11-12T16:05:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1fddd3c6a2a8",
+   "ts": "2026-11-12T16:02:34Z",
+   "headline": "US Treasury sets $16bn 20-year bond sale for 18 November and $19bn 10-year TIPS reopening for 19 November",
+   "detail": "The US Treasury will also sell $95bn of 3-month bills and $82bn of 6-month bills on 16 November, settling 19 November. The 20-year bond and 10-year TIPS sales both settle on 30 November.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "dd23f32e01ce638e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24tsd6mss2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24tsd6mss2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "170cbb49710d",
+   "created_at": "2026-11-12T16:05:45Z"
+  },
+  {
+   "id": "6a4d56f831bc",
+   "ts": "2026-11-12T16:01:46Z",
+   "headline": "US envoy Kushner calls Kremlin talks with Putin thorough and a basis for further consultations",
+   "detail": "Reports say US envoy Kushner described the latest Ukraine talks with Putin as thorough and detailed. He said they would serve as a foundation for future consultations.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "52c2da66732de533"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24tqvinig2o",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24tqvinig2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "170cbb49710d",
+   "created_at": "2026-11-12T16:05:45Z"
+  },
   {
    "id": "2f7d6d3afa92",
    "ts": "2026-11-12T16:00:33Z",
@@ -6350,66 +6392,6 @@
    "model": "opus",
    "run_id": "0b39379b3376",
    "created_at": "2026-11-11T06:10:48Z"
-  },
-  {
-   "id": "ad52a5826b3d",
-   "ts": "2026-11-11T01:47:33Z",
-   "headline": "Rubio tells G7 counterparts Trump has opted to pressure Iran's regime rather than go to war or strike a deal",
-   "detail": "Axios reports that the US Secretary of State told G7 peers the president has chosen a policy of pressure on Iran's government instead of either military action or an agreement.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "49cd8a5490e26edf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzytkjn3tc2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzytkjn3tc2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0b39379b3376",
-   "created_at": "2026-11-11T06:10:48Z"
-  },
-  {
-   "id": "a745dcdd7615",
-   "ts": "2026-11-11T01:13:22Z",
-   "headline": "Japan's 10-year JGB yield rises 6.5bp to 2.755% and 2-year climbs 7bp to 1.845%",
-   "detail": "Japanese government bond yields rose in early Tokyo trade, with the 10-year up 6.5bp at 2.755% and the 2-year up 7bp at 1.845%. Earlier in the session, 10-year JGB futures fell 0.56 point.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "f2e8ca22f0f6d4a6",
-    "0be8b73eb70ba668",
-    "01bf5855cbf6597d",
-    "9fb1b5a16c4794c1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyrnfrh3n2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyrnfrh3n2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyrngbxbs2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyrngbxbs2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzypt7bfsz2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzypt7bfsz2o"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzynp46p2r2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzynp46p2r2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6234e4fdbd57",
-   "created_at": "2026-11-11T06:05:40Z"
   }
  ]
 }
