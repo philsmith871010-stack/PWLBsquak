@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T09:50:47Z",
+ "generated_at": "2026-11-12T10:01:13Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "837bb8e15259",
+   "ts": "2026-11-12T10:00:08Z",
+   "headline": "Resolution Foundation says UK GDP has grown 1.9% over the first nine months of the year",
+   "detail": "Following the third-quarter GDP release, the Resolution Foundation said UK output rose 1.9% over the first nine months of the year. It said this puts the UK on track to be the second-fastest growing economy in the G7.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "f93cad447d34a256"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3n247kb4uu42t",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3n247kb4uu42t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d341e15d8c52",
+   "created_at": "2026-11-12T10:01:13Z"
+  },
   {
    "id": "7a61dd62d2f4",
    "ts": "2026-11-12T09:47:54Z",
@@ -6516,27 +6537,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxn6hnndl2h",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxn6hnndl2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "398bc51b238a",
-   "created_at": "2026-11-10T14:20:50Z"
-  },
-  {
-   "id": "7ca39144571f",
-   "ts": "2026-11-10T14:20:22Z",
-   "headline": "SNB's Martin expects moderate Swiss growth over the coming quarters",
-   "detail": "Swiss National Bank official Martin said the Swiss economy is expected to grow moderately over the next few quarters.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b47da89400b45d2e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxn5qtaet22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxn5qtaet22"
     }
    ],
    "model": "opus",
