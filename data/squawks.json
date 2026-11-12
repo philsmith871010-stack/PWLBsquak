@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T16:20:53Z",
+ "generated_at": "2026-11-12T16:25:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6486edf1cebc",
+   "ts": "2026-11-12T16:23:57Z",
+   "headline": "US envoy Witkoff says he is very optimistic about the coming meeting on Ukraine",
+   "detail": "Witkoff spoke after his Kremlin talks with Putin, at which a new round of Ukraine talks was agreed.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a9f4ee97a90ac16c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24uyktyun2o",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24uyktyun2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "312a087b2267",
+   "created_at": "2026-11-12T16:25:46Z"
+  },
+  {
+   "id": "7fa954d7da55",
+   "ts": "2026-11-12T16:21:57Z",
+   "headline": "Fed's Goolsbee says the Fed should watch for signs that the overall US economy is overheating",
+   "detail": "Chicago Fed President Austan Goolsbee made the remarks on Thursday, adding to his earlier comments on the hot inflation report.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "72bdd0b8bfb17122"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24uuyafmg2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24uuyafmg2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "312a087b2267",
+   "created_at": "2026-11-12T16:25:46Z"
+  },
   {
    "id": "0db15e9198bc",
    "ts": "2026-11-12T16:18:21Z",
@@ -6332,60 +6374,6 @@
    "model": "opus",
    "run_id": "43e0bb7853d9",
    "created_at": "2026-11-11T06:15:46Z"
-  },
-  {
-   "id": "231f521663ca",
-   "ts": "2026-11-11T04:10:08Z",
-   "headline": "Oil rebounds from a two-month low as attacks on Hormuz shipping offset hopes of an Iran truce",
-   "detail": "Reuters reports oil prices rose on Wednesday after falling to two-month lows in the previous session. It says traders were weighing hopes of de-escalation in the Iran war against continuing attacks on shipping in the Strait of Hormuz.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "97c777a82a053e09"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzz3jhlrks2o",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzz3jhlrks2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "43e0bb7853d9",
-   "created_at": "2026-11-11T06:15:46Z"
-  },
-  {
-   "id": "41b769863027",
-   "ts": "2026-11-11T03:40:16Z",
-   "headline": "Japan's 10-year JGB yield rises 9bp to 2.780% and 5-year climbs 8.5bp to 2.185%",
-   "detail": "The 10-year JGB yield extended its rise to 2.780%, up 9bp, after the 5-year yield earlier gained 8.5bp to 2.185%. Asian bond yields rose as bets on a Federal Reserve rate increase grew.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "373532887a87f34f",
-    "68c125d56edebb52",
-    "8e0daaf97b8dbeaf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyzu2tegt2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyzu2tegt2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzysneesm722",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzysneesm722"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyvtxok752b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyvtxok752b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0b39379b3376",
-   "created_at": "2026-11-11T06:10:48Z"
   }
  ]
 }
