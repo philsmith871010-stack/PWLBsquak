@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T14:10:49Z",
+ "generated_at": "2026-11-12T14:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7ed5fb306ac7",
+   "ts": "2026-11-12T14:17:46Z",
+   "headline": "Fed's Hammack says financial conditions are supportive of growth",
+   "detail": "Cleveland Fed President Beth Hammack said current financial conditions are supporting growth. She made the remark in further comments on 12 November.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a859d3922f3b66d9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24nwwp33t2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24nwwp33t2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a08e419cac62",
+   "created_at": "2026-11-12T14:20:50Z"
+  },
   {
    "id": "71c764d9d8bd",
    "ts": "2026-11-12T14:06:02Z",
@@ -6611,27 +6632,6 @@
    "model": "opus",
    "run_id": "8973c528d5f7",
    "created_at": "2026-11-10T20:20:50Z"
-  },
-  {
-   "id": "840774289571",
-   "ts": "2026-11-10T20:00:05Z",
-   "headline": "Iran's Fars says the South Pars platform hit by fire produces 14.5m cubic metres of the field's 700m cubic metres of gas",
-   "detail": "Iran's Fars news agency gave the output of the platform at the South Pars gas field where a fire was earlier reported to be under control. It put the platform's production at 14.5m cubic metres of gas, out of a field total of 700m cubic metres.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "285fd51998a2a352"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzya56ryht2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzya56ryht2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "00500bcd02cb",
-   "created_at": "2026-11-10T20:01:17Z"
   }
  ]
 }
