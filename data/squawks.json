@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T19:35:44Z",
+ "generated_at": "2026-11-12T19:51:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "42563c37bb73",
+   "ts": "2026-11-12T19:47:30Z",
+   "headline": "Brent crude futures settle 3.3% higher at $95.82 a barrel",
+   "detail": "Brent futures closed up $3.06 at $95.82 a barrel. US crude futures settled 2.55% higher at $88.74, up $2.21.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "f194a3a759b46650",
+    "1af91a3e44ceab6b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25aek6zzs2o",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25aek6zzs2o"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25aeju75p2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25aeju75p2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1eb2a7843d1c",
+   "created_at": "2026-11-12T19:51:03Z"
+  },
   {
    "id": "79992c8cbf4f",
    "ts": "2026-11-12T19:31:55Z",
@@ -6017,27 +6044,6 @@
    "model": "opus",
    "run_id": "99ef7b4aa804",
    "created_at": "2026-11-11T12:50:51Z"
-  },
-  {
-   "id": "00f3c47085f1",
-   "ts": "2026-11-11T12:34:02Z",
-   "headline": "German finance minister says Germany's AAA credit rating is not under threat",
-   "detail": "Germany's finance minister said the country's top AAA sovereign rating is not in danger, after Chancellor Merz said Germany must do everything it can to keep the rating.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "dbfc56e73759cb1f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzxojsic42a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzxojsic42a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1343c5bc3da9",
-   "created_at": "2026-11-11T12:35:42Z"
   }
  ]
 }
