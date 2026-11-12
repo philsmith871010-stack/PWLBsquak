@@ -1,8 +1,65 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T12:15:54Z",
+ "generated_at": "2026-11-12T12:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f12d3917e3d9",
+   "ts": "2026-11-12T12:17:18Z",
+   "headline": "US envoy Witkoff says planned Russia-Ukraine prisoner swap shows progress towards a settlement",
+   "detail": "Speaking around his Kremlin talks with Putin, US envoy Witkoff said the Russian and Ukrainian delegations worked effectively in Abu Dhabi and that Europeans were kept informed but did not sit at the negotiating table. He said he will brief Zelenskiy on the talks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "199baa4084554308",
+    "f87caee261f3f542",
+    "5631da779c5b08f7",
+    "de0aca3520953645",
+    "945071450d9810a3",
+    "138d1601e9754bc0",
+    "87208283fca566ee"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24h7jwcv42s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24h7jwcv42s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hcdfiwv25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hcdfiwv25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hdsr3wm2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hdsr3wm2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hekfyp42y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hekfyp42y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hfbgs3d2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hfbgs3d2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hds3re52u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hds3re52u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hekrnxx2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hekrnxx2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "57834f437e72",
+   "created_at": "2026-11-12T12:20:50Z"
+  },
   {
    "id": "249681490fd4",
    "ts": "2026-11-12T12:15:43Z",
@@ -6359,27 +6416,6 @@
    "model": "opus",
    "run_id": "558af35e8ed2",
    "created_at": "2026-11-10T17:05:38Z"
-  },
-  {
-   "id": "98d99c40d7c5",
-   "ts": "2026-11-10T16:54:52Z",
-   "headline": "US 10-year Treasury yield reported up 15bp on the day after October CPI beat",
-   "detail": "The Financial Times reports the 10-year US Treasury yield has risen 15bp on the day, taking it back to 5%. The move follows a stronger-than-expected October CPI reading of 0.4% m/m.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "472788c742ec9389"
-   ],
-   "sources": [
-    {
-     "author": "iankmsmith.ft.com",
-     "uri": "at://did:plc:xbzge44ocelaiqhwia6sns3l/app.bsky.feed.post/3mzxvryrfcs2n",
-     "url": "https://bsky.app/profile/iankmsmith.ft.com/post/3mzxvryrfcs2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a337569b3f2a",
-   "created_at": "2026-11-10T16:55:40Z"
   }
  ]
 }
