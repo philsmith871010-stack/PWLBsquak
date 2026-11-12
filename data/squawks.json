@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T06:20:47Z",
+ "generated_at": "2026-11-12T06:55:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "20f4f2b363fb",
+   "ts": "2026-11-12T06:51:37Z",
+   "headline": "Iran's IRGC Navy claims two supertankers exploded in the Strait of Hormuz overnight",
+   "detail": "Sepah News, the IRGC's news outlet, reports the IRGC Navy's claim that two supertankers exploded in the Strait of Hormuz overnight. The claim has not been independently confirmed, and no market reaction has been reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d7b258ab0c14d4eb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23uz5e4kx2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23uz5e4kx2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a8bf690eaff6",
+   "created_at": "2026-11-12T06:55:45Z"
+  },
   {
    "id": "11ebd1e801eb",
    "ts": "2026-11-12T06:19:07Z",
@@ -6569,63 +6590,6 @@
    "model": "opus",
    "run_id": "08cf0fa5347d",
    "created_at": "2026-11-10T13:35:43Z"
-  },
-  {
-   "id": "086ba4e69b53",
-   "ts": "2026-11-10T13:30:28Z",
-   "headline": "US October CPI rises 0.4% m/m, above 0.3% forecast; core CPI up 0.3%, above 0.2% forecast",
-   "detail": "US consumer prices rose 0.4% month on month in October, compared with a 0.3% forecast and 0.6% in the previous month. Core CPI rose 0.3%, against a 0.2% forecast and unchanged from the previous month's 0.3%.",
-   "category": "global_rates",
-   "importance": 3,
-   "source_event_ids": [
-    "e72ed1897a38977e",
-    "65a164a692a82394",
-    "2ce0e7a53f83b628",
-    "f02483fd8c90e4d2",
-    "035a6143f9c2932c",
-    "de9fad1a1cac5ab4",
-    "d7f2f6c7f495ec0b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxkej3vhv2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxkej3vhv2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxkf7tdq42k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxkf7tdq42k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxkfahmia22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxkfahmia22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxkfa5fcq25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxkfa5fcq25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxkfbd6zp26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxkfbd6zp26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxkfazybe2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxkfazybe2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxkfas36h26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxkfas36h26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c1ff1a87645f",
-   "created_at": "2026-11-10T13:31:01Z"
   }
  ]
 }
