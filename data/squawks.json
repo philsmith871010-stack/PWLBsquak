@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T22:01:14Z",
+ "generated_at": "2026-11-12T22:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "37d5e79e459f",
+   "ts": "2026-11-12T22:05:05Z",
+   "headline": "Zelenskiy says Ukraine and US envoys agreed to work towards a form of ceasefire, with over 1,000 Ukrainians due home in prisoner swap",
+   "detail": "Ukraine's president spoke after the Dublin talks with US envoys. He said more than 1,000 Ukrainians will return in the prisoner exchange. US envoy Witkoff said another Russia-Ukraine meeting is scheduled and that Trump is intent on leading efforts to end the war.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0f56b9a754c482e3",
+    "cb0d40bae7045163",
+    "2cb0bdd0f1668f84",
+    "853e8f4f0ea9596d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25i2kj33m2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25i2kj33m2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25i2k7jge2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25i2k7jge2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25hubaedf2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25hubaedf2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25huawuvm25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25huawuvm25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9bded512bc73",
+   "created_at": "2026-11-12T22:05:41Z"
+  },
   {
    "id": "ab5c4ce55e7a",
    "ts": "2026-11-12T21:59:08Z",
@@ -6059,27 +6098,6 @@
    "model": "opus",
    "run_id": "09971de47ffc",
    "created_at": "2026-11-11T14:01:14Z"
-  },
-  {
-   "id": "489f3a62c157",
-   "ts": "2026-11-11T13:51:35Z",
-   "headline": "Dollar extends gains against the yen, up 0.5% at 159.55",
-   "detail": "A market newswire reports the dollar up 0.5% at 159.55 yen. Earlier in the session it was up 0.2% at 159.04.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "062ebe795111428c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n223z6v5632g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n223z6v5632g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bf818ea6f66f",
-   "created_at": "2026-11-11T13:55:43Z"
   }
  ]
 }
