@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T13:10:49Z",
+ "generated_at": "2026-11-12T13:15:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0432de6e42d5",
+   "ts": "2026-11-12T13:14:17Z",
+   "headline": "European gas climbs as much as 5.2% and Brent adds to gains after Trump's Iran comments",
+   "detail": "Market reports say European gas prices rose by up to 5.2% after President Trump's remarks on Iran. Brent crude added to its earlier gain and was up 1%.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "7f506f9b99de4bee",
+    "338451e1c1a25a7d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24kfgdxjn2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24kfgdxjn2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24kffxs3j2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24kffxs3j2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "83b1d6340ef8",
+   "created_at": "2026-11-12T13:15:49Z"
+  },
   {
    "id": "9d6b3c5675cd",
    "ts": "2026-11-12T13:09:33Z",
@@ -6413,33 +6440,6 @@
    "model": "opus",
    "run_id": "3f390cda4976",
    "created_at": "2026-11-10T18:25:45Z"
-  },
-  {
-   "id": "97fd7d270f03",
-   "ts": "2026-11-10T18:17:53Z",
-   "headline": "US EIA holds 2026 world oil demand at 102.4m bpd, cuts 2027 to 104.4m bpd and trims its 2027 world output forecast",
-   "detail": "The US Energy Information Administration's Short-Term Energy Outlook keeps 2026 world oil demand at 102.4m bpd and lowers 2027 to 104.4m bpd from 104.6m bpd. It raises 2026 world oil output to 101.7m bpd from 101.1m bpd and cuts 2027 to 108.4m bpd from 109.6m bpd.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "99721dbcfcfb88d5",
-    "92559b52bb748c61"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy2gha6ns26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy2gha6ns26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzy2ggv3bf2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzy2ggv3bf2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "266211ac3f78",
-   "created_at": "2026-11-10T18:20:50Z"
   }
  ]
 }
