@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T08:45:53Z",
+ "generated_at": "2026-11-12T09:01:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a89860cb4664",
+   "ts": "2026-11-12T08:56:59Z",
+   "headline": "Russia's Ryabkov says US and European approaches differ sharply and bringing Europe into Ukraine talks could derail progress",
+   "detail": "Russian media report that Deputy Foreign Minister Ryabkov said the United States and Europe take very different approaches to the Ukraine negotiations. He said that involving European countries could undermine constructive efforts.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "311103c6de0616ff"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n243zdwjqk2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n243zdwjqk2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9bfa24d95773",
+   "created_at": "2026-11-12T09:01:15Z"
+  },
   {
    "id": "fdcc2939ea30",
    "ts": "2026-11-12T08:44:29Z",
@@ -6551,27 +6572,6 @@
    "model": "opus",
    "run_id": "fd6472698a1a",
    "created_at": "2026-11-10T14:15:49Z"
-  },
-  {
-   "id": "7ac01c06e922",
-   "ts": "2026-11-10T14:10:26Z",
-   "headline": "Houthis say they have carried out several operations against Saudi Arabia",
-   "detail": "The Houthis announced several operations against Saudi Arabia, according to a market news account. The report did not give details of targets or say whether markets moved.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e9957a2ac6f3ee47"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxmlyput426",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxmlyput426"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aef5d31620b9",
-   "created_at": "2026-11-10T14:10:46Z"
   }
  ]
 }
