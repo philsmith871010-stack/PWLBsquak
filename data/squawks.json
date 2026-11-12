@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T20:31:04Z",
+ "generated_at": "2026-11-12T20:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "28dbd86946e4",
+   "ts": "2026-11-12T20:33:18Z",
+   "headline": "Trump says the US does not need an Iran deal and directs Vance away from peace talks to domestic issues",
+   "detail": "The Financial Times reports that President Trump has signalled an end to Vice-President JD Vance's push for a peace deal with Iran. Trump said the US does not need an agreement with Tehran and told Vance to focus on domestic concerns.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7e45d6f643a3e160"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n25cwgn7s52o",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n25cwgn7s52o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "55fb8c8d5804",
+   "created_at": "2026-11-12T20:35:42Z"
+  },
   {
    "id": "c482c6cc2461",
    "ts": "2026-11-12T20:29:12Z",
@@ -5999,45 +6020,6 @@
    "model": "opus",
    "run_id": "f406b64a6df6",
    "created_at": "2026-11-11T13:10:50Z"
-  },
-  {
-   "id": "b7cf4c53ce7c",
-   "ts": "2026-11-11T13:01:22Z",
-   "headline": "OPEC+ crude output rises 2.04m bpd to 41.23m bpd in October as Saudi output jumps to 10.563m bpd",
-   "detail": "OPEC's monthly report puts OPEC+ crude production, including former member UAE, at an average 41.23 million bpd in October, up 2.04 million bpd from September. Saudi Arabia told OPEC it produced 10.563 million bpd in October, up 26% from 8.372 million bpd in September, and the rise was reported as a new wartime high.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "2c7a17c1ad03e07a",
-    "aec43df605850950",
-    "7fa2abf10572ab81",
-    "4e0a3cb192c7f09c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzz7ftopa2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzz7ftopa2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzz7g7bmy2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzz7g7bmy2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzza5jzkb2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzza5jzkb2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzza6cwgb2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzza6cwgb2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e4f84b0734a1",
-   "created_at": "2026-11-11T13:05:51Z"
   }
  ]
 }
