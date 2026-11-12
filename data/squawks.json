@@ -1,8 +1,101 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T12:20:50Z",
+ "generated_at": "2026-11-12T12:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "55c8aac3d2ac",
+   "ts": "2026-11-12T12:25:18Z",
+   "headline": "Putin says Russia recognises only one demarcation line with Ukraine, the state border",
+   "detail": "Russian President Putin said that for Russia the only demarcation line with Ukraine is the state border. He spoke as the Kremlin's talks with US envoys continued.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "94cff02637c33c47"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hntc3m52u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hntc3m52u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f948afe1af01",
+   "created_at": "2026-11-12T12:25:41Z"
+  },
+  {
+   "id": "99f12d0e64d1",
+   "ts": "2026-11-12T12:24:06Z",
+   "headline": "US envoy Kushner says Washington has begun talks with European partners on the continent's security architecture",
+   "detail": "US envoy Kushner said the US has started discussing Europe's security architecture with European partners. He also said the US sees a strong European wish to take part in negotiations and end the war in Ukraine, Interfax reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ede7c24918937dd0",
+    "9bd550ed8cd95e39",
+    "fb26459a121d0909",
+    "68934bd84d8b1c0a",
+    "b807865a839fd293"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hlob62n2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hlob62n2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hlokaaf2o",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hlokaaf2o"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hi43f6x2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hi43f6x2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hlnq46x2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hlnq46x2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hnsulwp2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hnsulwp2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f948afe1af01",
+   "created_at": "2026-11-12T12:25:41Z"
+  },
+  {
+   "id": "1d5245df0434",
+   "ts": "2026-11-12T12:20:55Z",
+   "headline": "Riksbank's Bunge says the policy rate will likely need to rise over the coming year, with gradual changes important",
+   "detail": "Riksbank policymaker Bunge said a rate rise is likely to be needed over the coming year. She added that it is important for monetary policy to change gradually.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "3ba08f576672c5d8",
+    "1ecde8247c91401d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hfyc64f25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hfyc64f25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hfylddp2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hfylddp2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f948afe1af01",
+   "created_at": "2026-11-12T12:25:41Z"
+  },
   {
    "id": "f12d3917e3d9",
    "ts": "2026-11-12T12:17:18Z",
@@ -6305,117 +6398,6 @@
    "model": "opus",
    "run_id": "5414c634822e",
    "created_at": "2026-11-10T17:25:41Z"
-  },
-  {
-   "id": "6933bdec1aae",
-   "ts": "2026-11-10T17:20:24Z",
-   "headline": "UK PM Burnham rules out dynamic alignment of the UK with EU financial services rules",
-   "detail": "Prime Minister Burnham rejected dynamically aligning the UK with EU rules on financial services, a market news account reported. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7fd151ac0b3cd0b8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxx7onfrr2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxx7onfrr2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0349c4f13a7a",
-   "created_at": "2026-11-10T17:20:52Z"
-  },
-  {
-   "id": "8fcd108a7e93",
-   "ts": "2026-11-10T17:09:50Z",
-   "headline": "Ukraine's foreign minister says Kyiv awaits Russia's reply on Black Sea ceasefire proposals and is not optimistic on progress",
-   "detail": "Ukrainian Foreign Minister Sybiha also said the cost of the war will be higher in 2027 and called on allies to agree long-term funding commitments this year. He said he asked US Secretary of State Rubio to speed up deliveries of air-defence interceptors as Russia attacks energy infrastructure.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a7322187cea6beb7",
-    "9da1262ccae3f6f6",
-    "6a85a3cf8564b0fa"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwmrbwza2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwmrbwza2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwmshmex2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwmshmex2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwlzlenh2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwlzlenh2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ea08910a0e17",
-   "created_at": "2026-11-10T17:10:50Z"
-  },
-  {
-   "id": "64a0995e539b",
-   "ts": "2026-11-10T17:04:19Z",
-   "headline": "US EIA raises Brent forecasts to $97.44/bbl for 2026 and $85.78/bbl for 2027",
-   "detail": "The US Energy Information Administration's Short-Term Energy Outlook raises its 2026 Brent average forecast from $96.32/bbl and its 2027 forecast from $83.74/bbl. It puts 2026 world oil output at 101.7m bpd, up from 101.1m bpd, and cuts its 2027 figure to 108.4m bpd from 109.6m bpd, with 2026 world demand unchanged at 102.4m bpd.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "7c91ece3a3520e79",
-    "fd4e8f9487247ea1",
-    "36687642b8e2ede4",
-    "ece8fa16a8b5a471",
-    "ea93815a0fa80e4f",
-    "01e10f67792ee43a",
-    "32640d2d6ec968a8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwcvcdps26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwcvcdps26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwc5zssx2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwc5zssx2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwbeue5x2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwbeue5x2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwcutxyn2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwcutxyn2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwbfcn6d2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwbfcn6d2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwc4nza622",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwc4nza622"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxwc5dins26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxwc5dins26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "558af35e8ed2",
-   "created_at": "2026-11-10T17:05:38Z"
   }
  ]
 }
