@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T09:25:42Z",
+ "generated_at": "2026-11-12T09:50:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7a61dd62d2f4",
+   "ts": "2026-11-12T09:47:54Z",
+   "headline": "Russia's Ryabkov says the US is committed to resolving the Ukraine conflict",
+   "detail": "Russian Deputy Foreign Minister Ryabkov said Washington is committed to finding a solution to the war in Ukraine, according to reports. He also said that NATO's Supreme Commander Grinkevich being at the Abu Dhabi talks made the discussion of European security more professional.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8797757185823e06"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n246ufccq52r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n246ufccq52r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "16dddb422fb6",
+   "created_at": "2026-11-12T09:50:47Z"
+  },
   {
    "id": "1c66da99f164",
    "ts": "2026-11-12T09:24:51Z",
@@ -6516,33 +6537,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxn5qtaet22",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxn5qtaet22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "398bc51b238a",
-   "created_at": "2026-11-10T14:20:50Z"
-  },
-  {
-   "id": "1c6b195ac56c",
-   "ts": "2026-11-10T14:17:59Z",
-   "headline": "Houthis deny attacking East-West pipeline in Medina region and say their strike was only on the Riyadh section",
-   "detail": "Yemen's Houthis denied attacking the Saudi East-West oil pipeline in the Medina region. They said they attacked the pipeline only in the Riyadh area.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "efae7c01efff745d",
-    "1615194d6b84c8a9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxmwmsjx52v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxmwmsjx52v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxmzhzbmu2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxmzhzbmu2q"
     }
    ],
    "model": "opus",
