@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T10:35:40Z",
+ "generated_at": "2026-11-12T11:01:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d93e6c39f7a8",
+   "ts": "2026-11-12T10:58:49Z",
+   "headline": "NIESR raises its UK fourth-quarter GDP growth projection to 0.4% from 0.2%",
+   "detail": "NIESR's GDP tracker confirms that UK GDP grew 0.7% in Q3, up from 0.5% in Q2, and now projects 0.4% growth in Q4 2026, revised up from last month's 0.2%. The institute says the Bank of England should stay focused on second-round effects.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "7214208ada28df3d"
+   ],
+   "sources": [
+    {
+     "author": "niesrorg.bsky.social",
+     "uri": "at://did:plc:6s7n3h2jcntzuvlw2movrget/app.bsky.feed.post/3n24ct6loms25",
+     "url": "https://bsky.app/profile/niesrorg.bsky.social/post/3n24ct6loms25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fcaaf6745cd4",
+   "created_at": "2026-11-12T11:01:15Z"
+  },
+  {
+   "id": "f0ecc5917ae3",
+   "ts": "2026-11-12T10:57:00Z",
+   "headline": "EU's Kallas says Russia is showing no goodwill and that the focus in Ukraine should be on a ceasefire",
+   "detail": "EU foreign policy chief Kallas said the EU sees no goodwill from Russia and that attention in Ukraine should be on a ceasefire. She also said European Council President Costa and the High Representative should represent the EU.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d1e459b6a35f9167",
+    "7d9b65b8898b27fa",
+    "e935053a6b9fd84c",
+    "2fd18671d9a4a4ff"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24cpwvoxk2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24cpwvoxk2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24cqnjo442q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24cqnjo442q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24csrmct32c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24csrmct32c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24cu7b4t52s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24cu7b4t52s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fcaaf6745cd4",
+   "created_at": "2026-11-12T11:01:15Z"
+  },
   {
    "id": "5e89df5ef214",
    "ts": "2026-11-12T10:32:27Z",
@@ -6482,60 +6542,6 @@
    "model": "opus",
    "run_id": "61a21939b11b",
    "created_at": "2026-11-10T14:55:44Z"
-  },
-  {
-   "id": "d80fce9598ca",
-   "ts": "2026-11-10T14:48:00Z",
-   "headline": "Two-year yield reported up 17.4bp on the day, with the 30-year yield up 6.3bp",
-   "detail": "A market newswire reports the two-year yield up 17.4bp and the 30-year up 6.3bp on the day; the post does not name the market. It follows the October US CPI release.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "9c9004fc3c808890"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxop6bvfb2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxop6bvfb2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7477343f876f",
-   "created_at": "2026-11-10T14:50:51Z"
-  },
-  {
-   "id": "4cb24449e268",
-   "ts": "2026-11-10T14:35:22Z",
-   "headline": "UK government security group investigates a possible leak of Budget measures that may have moved markets",
-   "detail": "A letter published by the Treasury Select Committee confirms the investigation, which is being led by a government security group. It concerns a Bloomberg report on a bank tax published just before the Budget, and the committee's chair, Meg Hillier, was reported to have responded with exasperation.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "0598f3cc83613857",
-    "2967899ad5aba6a4",
-    "9501de17523daeec"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxnyksrgu2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxnyksrgu2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxnswku7m2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxnswku7m2k"
-    },
-    {
-     "author": "bruceandy.bsky.social",
-     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3mzxnyla4n22w",
-     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3mzxnyla4n22w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "af7c8f0ab18d",
-   "created_at": "2026-11-10T14:35:41Z"
   }
  ]
 }
