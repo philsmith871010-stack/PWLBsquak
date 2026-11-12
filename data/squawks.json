@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T17:55:41Z",
+ "generated_at": "2026-11-12T18:01:19Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f91e68077aaa",
+   "ts": "2026-11-12T18:00:48Z",
+   "headline": "US 30-year when-issued yield is 5.437% ahead of the $25bn bond auction",
+   "detail": "Ahead of the US Treasury's $25bn 30-year bond auction, the when-issued yield was reported at 5.437%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "57b2c8d024e8070d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n252fqpr7b2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n252fqpr7b2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d5fa92eeffe0",
+   "created_at": "2026-11-12T18:01:19Z"
+  },
   {
    "id": "cdb3d8d4e976",
    "ts": "2026-11-12T17:55:15Z",
@@ -6365,33 +6386,6 @@
    "model": "opus",
    "run_id": "1e8464ca699c",
    "created_at": "2026-11-11T10:55:41Z"
-  },
-  {
-   "id": "50ca3f075ba9",
-   "ts": "2026-11-11T10:34:51Z",
-   "headline": "German 30-year Bund auction draws 1.297 bid-to-cover, down from 1.4, with yield at 3.66%",
-   "detail": "Germany's 30-year Bund auction had a bid-to-cover ratio of 1.297, down from 1.4 at the previous sale. The yield was 3.66%, against 3.8% last time.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "080caf335b0972ee",
-    "088d72e7a296b850"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzqzg6s5m22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzqzg6s5m22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzqzggf7w2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzqzggf7w2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "055213a96f39",
-   "created_at": "2026-11-11T10:35:42Z"
   }
  ]
 }
