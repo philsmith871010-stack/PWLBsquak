@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T16:16:02Z",
+ "generated_at": "2026-11-12T16:20:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0db15e9198bc",
+   "ts": "2026-11-12T16:18:21Z",
+   "headline": "Fed's Goolsbee says the hot inflation report was not a one-off and the Fed is edging into a historically difficult position",
+   "detail": "Chicago Fed President Goolsbee said in a Yahoo Finance interview that inflation has been well above target and that the inflation data and the Fed's response call for a sober approach. He also said AI investment looks like a form of stimulus.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "400c69e8d3e0a989",
+    "6fc9dd5ad70419dd",
+    "d5f60b2d38078638",
+    "92b085fab33a152b",
+    "81bb70a52c68b54e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24unthqo42r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24unthqo42r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24uokirqp2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24uokirqp2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24upbjltd2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24upbjltd2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24upy55au2o",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24upy55au2o"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24uqpf6p325",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24uqpf6p325"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2613e823cece",
+   "created_at": "2026-11-12T16:20:53Z"
+  },
   {
    "id": "0c894026b337",
    "ts": "2026-11-12T16:12:24Z",
@@ -6336,39 +6381,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyvtxok752b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyvtxok752b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0b39379b3376",
-   "created_at": "2026-11-11T06:10:48Z"
-  },
-  {
-   "id": "37adbfca4f5a",
-   "ts": "2026-11-11T02:30:28Z",
-   "headline": "Global bonds fall and dollar holds firm as hot US inflation raises risk of a half-point Fed hike",
-   "detail": "Reuters reports that global bonds fell sharply after a hot US inflation print and hawkish central bank comments raised the chance of a half-point Federal Reserve rate rise next month. Equities held up and the dollar stayed firm.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "82f0bc819cbf56f0",
-    "5777c64943390784",
-    "89ac0a7790fd0fed"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzyvxbegpq2x",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzyvxbegpq2x"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyuasmx7a2x",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyuasmx7a2x"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyy6qsriv2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyy6qsriv2d"
     }
    ],
    "model": "opus",
