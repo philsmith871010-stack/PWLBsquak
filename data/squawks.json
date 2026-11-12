@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T21:25:48Z",
+ "generated_at": "2026-11-12T21:55:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a2de60ecc5f5",
+   "ts": "2026-11-12T21:54:00Z",
+   "headline": "Zelenskiy's Dublin talks with US envoys Witkoff and Kushner end, and all three make media statements",
+   "detail": "Ukraine's president finished his meeting with US envoys Witkoff and Kushner in Dublin, and the three then spoke to the media. The posts did not say what was said.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "99b35b4026fde635",
+    "0aebe0d92ef102d5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25hgqjj7o2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25hgqjj7o2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25hjkg6r62q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25hjkg6r62q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4340e2e64eac",
+   "created_at": "2026-11-12T21:55:42Z"
+  },
   {
    "id": "aed166f8c36f",
    "ts": "2026-11-12T21:24:29Z",
@@ -5975,33 +6002,6 @@
    "model": "opus",
    "run_id": "d3060101bb0b",
    "created_at": "2026-11-11T13:40:49Z"
-  },
-  {
-   "id": "9cca089d58b1",
-   "ts": "2026-11-11T13:31:08Z",
-   "headline": "German Council of Economic Experts forecasts growth of 1.3% in 2026 and 1% in 2027, flags defence borrowing strain",
-   "detail": "Germany's Council of Economic Experts projects GDP growth of 1.3% in 2026 and 1% in 2027. The panel also warns that defence-related borrowing is putting pressure on the public finances.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "88f898682988efec",
-    "3d37a05b8f42c4ed"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n222umzs2w2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n222umzs2w2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n222unejvq2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n222unejvq2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a044555a4326",
-   "created_at": "2026-11-11T13:35:41Z"
   }
  ]
 }
