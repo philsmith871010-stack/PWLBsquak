@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T10:01:13Z",
+ "generated_at": "2026-11-12T10:25:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ec3198dfa8b2",
+   "ts": "2026-11-12T10:25:26Z",
+   "headline": "Chancellor Healey says any UK deal with the EU must bring benefits greater than its trade-offs",
+   "detail": "The UK Chancellor made the comment when asked about a deal with the EU. No further detail or market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7c54b1705deaafee"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24axilqsp2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24axilqsp2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7affa8084de4",
+   "created_at": "2026-11-12T10:25:40Z"
+  },
   {
    "id": "837bb8e15259",
    "ts": "2026-11-12T10:00:08Z",
@@ -6515,33 +6536,6 @@
    "model": "opus",
    "run_id": "235e856b1a0e",
    "created_at": "2026-11-10T14:31:05Z"
-  },
-  {
-   "id": "2c10652649f4",
-   "ts": "2026-11-10T14:20:46Z",
-   "headline": "White House adviser Hassett calls US CPI report disappointing and says energy prices are feeding into the data",
-   "detail": "White House senior adviser Hassett called the October US CPI report disappointing. In an interview with Fox Business, he said higher energy prices were feeding through into the data.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "61f7b5ddc9628a33",
-    "2243c770093a6d6f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxn4zqz5u22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxn4zqz5u22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxn6hnndl2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxn6hnndl2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "398bc51b238a",
-   "created_at": "2026-11-10T14:20:50Z"
   }
  ]
 }
