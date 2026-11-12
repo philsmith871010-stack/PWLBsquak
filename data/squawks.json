@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T18:05:42Z",
+ "generated_at": "2026-11-12T18:15:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "688786fd95c8",
+   "ts": "2026-11-12T18:14:04Z",
+   "headline": "Fed's Daly says a technology boom is driving the US economy and the AI pipeline is deep enough to continue if it slows",
+   "detail": "San Francisco Fed President Mary Daly said the US economy is being driven by a technology boom. She added that the AI investment pipeline is deep, so it would continue even if it slowed.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "3ad909da7798f565",
+    "a99177f54981ccbe"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2535iejss2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2535iejss2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2537noubr2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2537noubr2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8570e32b6521",
+   "created_at": "2026-11-12T18:15:46Z"
+  },
   {
    "id": "ab82635f0d1b",
    "ts": "2026-11-12T18:02:44Z",
@@ -6371,33 +6398,6 @@
    "model": "opus",
    "run_id": "98c8187a9f76",
    "created_at": "2026-11-11T11:05:44Z"
-  },
-  {
-   "id": "9216eca2753f",
-   "ts": "2026-11-11T11:00:59Z",
-   "headline": "Ireland's final October CPI shows 4.3% annual inflation, with the harmonised measure at 4.2%",
-   "detail": "Final October figures put Ireland's consumer price inflation at 4.3% year on year and the harmonised index at 4.2% year on year.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "be401c5fdfaf59ef",
-    "3264e494bd9e914d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzsi5hhkd2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzsi5hhkd2i"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzsi4xzbo2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzsi4xzbo2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "df29b1c53ef3",
-   "created_at": "2026-11-11T11:01:24Z"
   }
  ]
 }
