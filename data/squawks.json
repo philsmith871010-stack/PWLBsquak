@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T17:05:51Z",
+ "generated_at": "2026-11-12T17:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "22a6a42adcfc",
+   "ts": "2026-11-12T17:15:09Z",
+   "headline": "UK GDP grows 0.7% in the third quarter, bringing growth over the first nine months of 2026 to 1.9%",
+   "detail": "The Resolution Foundation, commenting on the official figures published this morning, said Q3 growth was 0.7% and the economy has grown 1.9% over the first nine months of 2026. It said that puts the UK second in the G7 for growth, behind only the US.",
+   "category": "data",
+   "importance": 3,
+   "source_event_ids": [
+    "ceaf401f442c0558"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3n24xu4wd4i2r",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3n24xu4wd4i2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4f94fe785d5a",
+   "created_at": "2026-11-12T17:15:52Z"
+  },
   {
    "id": "02e98bd38a4c",
    "ts": "2026-11-12T17:01:46Z",
@@ -6384,27 +6405,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzpwhb5sp2n",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzpwhb5sp2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "face1aa7667d",
-   "created_at": "2026-11-11T10:15:54Z"
-  },
-  {
-   "id": "53fea4890484",
-   "ts": "2026-11-11T10:14:54Z",
-   "headline": "Zelenskiy welcomes the US decision to include Europe in the Abu Dhabi peace talks",
-   "detail": "Ukraine's president says he welcomes the US move to bring Europe into the Abu Dhabi talks on ending the war.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0b2741871fb90bf6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzpvqmcne2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzpvqmcne2f"
     }
    ],
    "model": "opus",
