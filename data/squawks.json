@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T14:45:50Z",
+ "generated_at": "2026-11-12T15:01:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7798fefb0393",
+   "ts": "2026-11-12T15:01:12Z",
+   "headline": "Fed's Barr warns AI could cause serious short-term disruption in the US job market",
+   "detail": "Fed Governor Barr said there are signs AI is replacing labour in some sectors and that the dislocation could be large if change comes quickly, though so far few workers have been displaced. He also noted that labour's share of income is falling, and said it is an open question whether AI will further raise returns to capital.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ae7c4c3d243f9bf7",
+    "d70431947b21b93a",
+    "46460f2c545960cc",
+    "e9a3be79612207b4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24qemmaer2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24qemmaer2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24qeo6moj2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24qeo6moj2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24qenslwc2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24qenslwc2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24qenfpux2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24qenfpux2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5ece6aa5df0f",
+   "created_at": "2026-11-12T15:01:17Z"
+  },
+  {
+   "id": "bd681eb78cbe",
+   "ts": "2026-11-12T15:00:48Z",
+   "headline": "US existing home sales fall 5.5% to 3.75M, below the 3.85M forecast",
+   "detail": "US existing home sales came in at an annualised 3.75M, against a forecast of 3.85M and a previous 3.99M. The monthly change was -5.5%, compared with a forecast of -3.5% and a previous 1.5%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "91e9408e50fe6363",
+    "a9bb708b59bea860"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24qdvfxl42q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24qdvfxl42q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24qdvpq462c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24qdvpq462c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5ece6aa5df0f",
+   "created_at": "2026-11-12T15:01:17Z"
+  },
   {
    "id": "cbb7e7aaed77",
    "ts": "2026-11-12T14:45:11Z",
@@ -6482,54 +6548,6 @@
    "model": "opus",
    "run_id": "8e9d8b07f3ea",
    "created_at": "2026-11-10T21:20:48Z"
-  },
-  {
-   "id": "13dfbff5e902",
-   "ts": "2026-11-10T21:15:39Z",
-   "headline": "Fed's Bowman says AI will raise worker productivity, create new jobs and remove less essential ones",
-   "detail": "Federal Reserve Vice Chair for Supervision Michelle Bowman commented on the labour market effects of artificial intelligence in remarks on Tuesday.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e2a034b081b5e574"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyeecxueu2h",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyeecxueu2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "184367514f03",
-   "created_at": "2026-11-10T21:15:50Z"
-  },
-  {
-   "id": "3cf6feccf60a",
-   "ts": "2026-11-10T21:07:03Z",
-   "headline": "Fed's Bowman says the Fed is collecting data on AI debt counterparties and stresses open communication with the Treasury",
-   "detail": "Federal Reserve Governor Bowman said the Fed is seeking data on counterparties to AI-related debt, and that keeping lines of communication open with the US Treasury is critically important.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "3ec0e70a64b3d42b",
-    "d3f09de223c91fcf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyduxj7cq2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyduxj7cq2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzydx2cpuk2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzydx2cpuk2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3b640c164049",
-   "created_at": "2026-11-10T21:10:49Z"
   }
  ]
 }
