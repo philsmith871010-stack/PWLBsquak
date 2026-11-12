@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T17:50:50Z",
+ "generated_at": "2026-11-12T17:55:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cdb3d8d4e976",
+   "ts": "2026-11-12T17:55:15Z",
+   "headline": "CENTCOM reportedly tells Israel to prepare for a possible resumption of war",
+   "detail": "Israel's Kan News, citing a US official, reported that US Central Command has told Israel to prepare for a possible resumption of war. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4bb81d2830a55308"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2523t37hr2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2523t37hr2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7fec2429cc4d",
+   "created_at": "2026-11-12T17:55:41Z"
+  },
+  {
+   "id": "03093818c03d",
+   "ts": "2026-11-12T17:54:50Z",
+   "headline": "Houthis say they hit Saudi Aramco in Riyadh with a drone",
+   "detail": "A Houthi military spokesperson said the group struck Saudi Aramco in the Saudi capital, Riyadh, and that the operation achieved its objective. This follows an earlier Houthi claim of attacks on the East-West pipeline and Yanbu. No market reaction was reported in the posts.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "0ddbd8436cd31edb",
+    "c2eac13be6e4751b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25233plqr2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25233plqr2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2524kd72b2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2524kd72b2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7fec2429cc4d",
+   "created_at": "2026-11-12T17:55:41Z"
+  },
   {
    "id": "2fb764200ef1",
    "ts": "2026-11-12T17:46:12Z",
@@ -6344,72 +6392,6 @@
    "model": "opus",
    "run_id": "055213a96f39",
    "created_at": "2026-11-11T10:35:42Z"
-  },
-  {
-   "id": "d5d3645c9992",
-   "ts": "2026-11-11T10:18:51Z",
-   "headline": "Three-way Russia-US-Ukraine talks on a Ukraine settlement conclude in Abu Dhabi",
-   "detail": "Reports citing a source and Russian media say the round of trilateral talks in Abu Dhabi has ended. The second day of talks lasted almost two hours.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "700625ab1d041245",
-    "caa3f1ed43b86454",
-    "63986c8b85b9e907",
-    "174e201fbce973b4",
-    "d03193781e224d83"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzq4sgwm22k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzq4sgwm22k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzq4s4jj422",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzq4s4jj422"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzq6ap2or2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzq6ap2or2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzq6xfdas2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzq6xfdas2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzq6xmpd22t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzq6xmpd22t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d4782fd08cd4",
-   "created_at": "2026-11-11T10:20:56Z"
-  },
-  {
-   "id": "6cffec2ec5d2",
-   "ts": "2026-11-11T10:15:42Z",
-   "headline": "Iran's IRGC says two tankers struck mines in the Strait of Hormuz overnight",
-   "detail": "Iran's Revolutionary Guards say two tankers hit mines in the Strait of Hormuz overnight, Iran's Fars news agency reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "61466be0bb54caf3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzpx5xb572a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzpx5xb572a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "face1aa7667d",
-   "created_at": "2026-11-11T10:15:54Z"
   }
  ]
 }
