@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T11:10:52Z",
+ "generated_at": "2026-11-12T11:15:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "792a72b39def",
+   "ts": "2026-11-12T11:11:36Z",
+   "headline": "Germany's Merz says Europeans must be involved in Ukraine talks and expects Putin to agree to give them a seat",
+   "detail": "German Chancellor Merz said it was important that Russia is willing to engage in talks, and that he expects Putin to agree that Europeans should have a seat at the table. He also said he sees a good chance of concluding EU budget talks before the end of the year.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4f67f89b00fcd171",
+    "3fa33ba0f2d3c7a5",
+    "2bc6bbdb3d4d0d24",
+    "0a44de5672a87244"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24djzvxvo2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24djzvxvo2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24dkqvzqa2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24dkqvzqa2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24dlhylap2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24dlhylap2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24djcxsly2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24djcxsly2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "64a6f5e63f3c",
+   "created_at": "2026-11-12T11:15:55Z"
+  },
   {
    "id": "39e283a6e3e0",
    "ts": "2026-11-12T11:07:42Z",
@@ -6473,57 +6512,6 @@
    "model": "opus",
    "run_id": "cb57c710c6a4",
    "created_at": "2026-11-10T15:10:56Z"
-  },
-  {
-   "id": "8e5735f9e3de",
-   "ts": "2026-11-10T14:58:40Z",
-   "headline": "ECB's Nagel calls the fall in energy prices since the US midterms positive and says France must address its finances",
-   "detail": "ECB Governing Council member Nagel said action will be taken to return inflation to 2%, and that market expectations matter but are not the main influence on policy. He also said France needs to deal with its fiscal problems.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b965a9146d248b2c",
-    "2dff722eb357a01e",
-    "af8946c106ba5d77",
-    "8eae16c95ecc7778",
-    "523c800959664ee4",
-    "cd87c3a9a8b6d07b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxpcafbjw2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxpcafbjw2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxpcbf52j25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxpcbf52j25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxpcapjnj25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxpcapjnj25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxpcbokov26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxpcbokov26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxpbjmvmz26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxpbjmvmz26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxpcayqj72l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxpcayqj72l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aa87b70896e7",
-   "created_at": "2026-11-10T15:01:19Z"
   }
  ]
 }
