@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T20:35:42Z",
+ "generated_at": "2026-11-12T20:40:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dade3c168e5b",
+   "ts": "2026-11-12T20:39:49Z",
+   "headline": "Trump says he would consider military force against Cuba, including a week-long campaign",
+   "detail": "Asked whether military force against Cuba was possible, US President Trump said he would consider it, including a campaign lasting a week, and said he wants Cuba dealt with before he leaves office. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "39ff2451f51682c5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25dc47cdg2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25dc47cdg2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ee2728cce79d",
+   "created_at": "2026-11-12T20:40:48Z"
+  },
   {
    "id": "28dbd86946e4",
    "ts": "2026-11-12T20:33:18Z",
@@ -5987,39 +6008,6 @@
    "model": "opus",
    "run_id": "ad41a516a569",
    "created_at": "2026-11-11T13:15:52Z"
-  },
-  {
-   "id": "dae4ad300241",
-   "ts": "2026-11-11T13:07:21Z",
-   "headline": "German government says a proposal exists for Europeans to take part in future Ukraine talks",
-   "detail": "A German government spokesperson said Europe's involvement in several formats at the Abu Dhabi talks on Ukraine had paid off. The spokesperson added that agreements could not be put into effect without consensus among NATO members.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "cddf4625c28312b8",
-    "53155d555e56a43c",
-    "e58f252b9ca3edae"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzzk43tgd2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzzk43tgd2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzzoe5cwq22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzzoe5cwq22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzzpt6yj72i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzzpt6yj72i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f406b64a6df6",
-   "created_at": "2026-11-11T13:10:50Z"
   }
  ]
 }
