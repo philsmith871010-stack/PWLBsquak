@@ -1,8 +1,89 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T14:35:41Z",
+ "generated_at": "2026-11-12T14:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cbb7e7aaed77",
+   "ts": "2026-11-12T14:45:11Z",
+   "headline": "US House Speaker Johnson says a consensus is forming in Congress on limiting chip exports to China",
+   "detail": "Reuters reported the remarks on Thursday, after a scandal forced Nvidia's chief executive to step down. Separately, a White House official told CNN that Trump is standing by Commerce Secretary Lutnick despite growing scrutiny of export controls.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b3955034dae3c1ca",
+    "be5599b43dd57008",
+    "7884c50e8909c320"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n24phxiigj2o",
+     "url": "https://bsky.app/profile/reuters.com/post/3n24phxiigj2o"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24pc5dhhd2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24pc5dhhd2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24pc5n35e2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24pc5n35e2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d859b6c2b240",
+   "created_at": "2026-11-12T14:45:50Z"
+  },
+  {
+   "id": "b306f307e120",
+   "ts": "2026-11-12T14:43:08Z",
+   "headline": "Iranian army says two tankers have hit naval mines while passing through the Strait of Hormuz",
+   "detail": "Iranian state TV carried the army statement. It follows an earlier IRGC Navy report that a third tanker had exploded in the strait after hitting a mine.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "f1777ff816fb694b",
+    "affab53aa1a9bf50"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24pecdsje2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24pecdsje2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24pecpub42c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24pecpub42c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d859b6c2b240",
+   "created_at": "2026-11-12T14:45:50Z"
+  },
+  {
+   "id": "66fe5ab7d68e",
+   "ts": "2026-11-12T14:41:07Z",
+   "headline": "Iran's Assembly of Experts says a revision of the country's defence doctrine is unavoidable",
+   "detail": "The statement was reported on Thursday, after Iran said it is reviewing withdrawal from the nuclear Non-Proliferation Treaty.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7dacd623cf699837"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24pap4ejd2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24pap4ejd2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d859b6c2b240",
+   "created_at": "2026-11-12T14:45:50Z"
+  },
   {
    "id": "6fc40b856342",
    "ts": "2026-11-12T14:31:14Z",
@@ -6449,99 +6530,6 @@
    "model": "opus",
    "run_id": "3b640c164049",
    "created_at": "2026-11-10T21:10:49Z"
-  },
-  {
-   "id": "40bd060723b4",
-   "ts": "2026-11-10T21:03:32Z",
-   "headline": "Fed's Bowman says she would need AI and Middle East risks to ease before being confident inflation falls next year",
-   "detail": "Fed Vice Chair for Supervision Bowman said she is shifting her focus to inflation and that longer-term inflation expectations remain very well anchored. She added that expectations are an important input but do not necessarily drive her thinking.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "629775ccba4b5be4",
-    "bf6b61da125aec83",
-    "2b3b225f57deceb2",
-    "ce56d204a970c667",
-    "6f0d1ed0b88508aa"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzydonkrfs22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzydonkrfs22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzydq36b7n2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzydq36b7n2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzydl3lgrr2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzydl3lgrr2i"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzydmj55q52v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzydmj55q52v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzydq2u7wf2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzydq2u7wf2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a370783cc97b",
-   "created_at": "2026-11-10T21:05:42Z"
-  },
-  {
-   "id": "716e8aa67102",
-   "ts": "2026-11-10T20:44:47Z",
-   "headline": "Zelenskiy welcomes recent US messages and sees a change in approach from envoys Witkoff and Kushner",
-   "detail": "Ukraine's President Zelenskiy, speaking in Copenhagen, said he was very pleased with recent messages from the US side and saw changes in the approach of US envoys Witkoff and Kushner. The remarks follow the Abu Dhabi talks on ending the war.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6a16be4101f1e51a",
-    "8ace51131d6381af"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzycn5hvzs2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzycn5hvzs2l"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyckdx62a22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyckdx62a22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f9c00c89fdb7",
-   "created_at": "2026-11-10T20:45:50Z"
-  },
-  {
-   "id": "9359dfaefd08",
-   "ts": "2026-11-10T20:36:56Z",
-   "headline": "Zelenskiy says a new European security architecture is on the agenda at the Abu Dhabi talks",
-   "detail": "Ukraine's President Zelenskiy, speaking in Copenhagen, said a new European security architecture is among the topics in the Abu Dhabi talks on ending the war.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "fa262af337d3a966"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyc74bgmg2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyc74bgmg2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2cc6033e06e4",
-   "created_at": "2026-11-10T20:40:48Z"
   }
  ]
 }
