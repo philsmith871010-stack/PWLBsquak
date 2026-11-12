@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T11:05:43Z",
+ "generated_at": "2026-11-12T11:10:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "39e283a6e3e0",
+   "ts": "2026-11-12T11:07:42Z",
+   "headline": "EU's von der Leyen says the next Russia sanctions package and a Ukraine financing proposal will come before the new year",
+   "detail": "European Commission President von der Leyen said the Commission will present its next sanctions package and a proposal on financial rules for Ukraine before next year. She also said she strongly welcomes the peace talks in Abu Dhabi.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b8e7d5eb95d51d15",
+    "602b14eff29e7879",
+    "33a42ef728875742"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24dd2vrhl2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24dd2vrhl2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24dbmwjeu2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24dbmwjeu2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24dcdowug2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24dcdowug2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "de464ec67780",
+   "created_at": "2026-11-12T11:10:52Z"
+  },
   {
    "id": "34e305e49dbe",
    "ts": "2026-11-12T11:04:54Z",
@@ -6486,27 +6519,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxpcayqj72l",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxpcayqj72l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aa87b70896e7",
-   "created_at": "2026-11-10T15:01:19Z"
-  },
-  {
-   "id": "332f4502c61e",
-   "ts": "2026-11-10T14:58:15Z",
-   "headline": "US 2-year Treasury yield heads for its biggest one-day rise since April 2025",
-   "detail": "A market report says the US 2-year yield is on course for its largest single-session increase since April 2025, after the October CPI release.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "70e039a98960b5e4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxpbismsr26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxpbismsr26"
     }
    ],
    "model": "opus",
