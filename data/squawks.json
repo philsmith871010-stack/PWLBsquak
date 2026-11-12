@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T11:15:55Z",
+ "generated_at": "2026-11-12T11:20:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b6c4f79a7274",
+   "ts": "2026-11-12T11:16:23Z",
+   "headline": "All 71 economists in a poll expect the ECB to raise its deposit rate to 2.75% in December",
+   "detail": "In a poll of economists, all 71 respondents expect the ECB to raise its deposit rate to 2.75% in December, up from 64 of 73 in the October poll. 46 of the 71 see the deposit rate peaking at 2.75%, while 25 see a peak of 3.00%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "5aa0cbe981e1d66e",
+    "060926f6611109fb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24dsmakuf2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24dsmakuf2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24dtcv7jb2o",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24dtcv7jb2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "eeb0b9b983ff",
+   "created_at": "2026-11-12T11:20:49Z"
+  },
   {
    "id": "792a72b39def",
    "ts": "2026-11-12T11:11:36Z",
@@ -6485,33 +6512,6 @@
    "model": "opus",
    "run_id": "61d22a9b2e4c",
    "created_at": "2026-11-10T15:15:49Z"
-  },
-  {
-   "id": "2f15b75ea11d",
-   "ts": "2026-11-10T15:08:57Z",
-   "headline": "Iran's foreign minister says diplomacy, not military action or sanctions, will end the war and denies reports of a Rezaei-Vance meeting",
-   "detail": "Iranian Foreign Minister Araghchi said the conflict will be resolved through diplomacy and acceptance of Iran's conditions, not by military action or sanctions. He also called reports of a meeting between security chief Rezaei and US Vice President Vance baseless media speculation.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "62cc22f6e7fd4f26",
-    "92e1bd42f8256d19"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxpumnzst2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxpumnzst2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxpumc56h2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxpumc56h2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cb57c710c6a4",
-   "created_at": "2026-11-10T15:10:56Z"
   }
  ]
 }
