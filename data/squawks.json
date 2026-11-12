@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T19:05:41Z",
+ "generated_at": "2026-11-12T19:10:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9368cc4171db",
+   "ts": "2026-11-12T19:10:04Z",
+   "headline": "Fed's Schmid says the Fed must bring inflation down to its 2% goal",
+   "detail": "Kansas City Fed President Schmid said the Fed has to return inflation to its 2% mandated target, adding to his earlier remark that inflation has not yet been defeated.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0462a29038bdfa0d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n256bmt3iq2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n256bmt3iq2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ec50b4582534",
+   "created_at": "2026-11-12T19:10:49Z"
+  },
   {
    "id": "e73cb0c5e8a3",
    "ts": "2026-11-12T19:04:51Z",
@@ -6029,39 +6050,6 @@
    "model": "opus",
    "run_id": "3be36d887f6d",
    "created_at": "2026-11-11T12:10:51Z"
-  },
-  {
-   "id": "643d0832d9c6",
-   "ts": "2026-11-11T12:00:49Z",
-   "headline": "ECB's Makhlouf says price pressures sit mainly in energy but upside inflation risks persist",
-   "detail": "ECB Governing Council member Gabriel Makhlouf said price pressures were largely limited to energy and that upside risks to inflation remain. He added that financing conditions have tightened following the rise in yields.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "04be0124bb486aa5",
-    "4291683c0a802f4c",
-    "57eeb58def7c5fc7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzvt4mgg52g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzvt4mgg52g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzvtu3hfr2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzvtu3hfr2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzvttrhw52k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzvttrhw52k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2c94f6f0ec21",
-   "created_at": "2026-11-11T12:01:19Z"
   }
  ]
 }
