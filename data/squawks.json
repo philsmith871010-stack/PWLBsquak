@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T12:25:41Z",
+ "generated_at": "2026-11-12T12:31:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e0f377e2cf76",
+   "ts": "2026-11-12T12:28:54Z",
+   "headline": "Putin proposes a humanitarian mission from Kostiantynivka modelled on earlier cooperation with Ukraine over Oleshky",
+   "detail": "At his Kremlin meeting with US envoys Witkoff and Kushner, President Putin described humanitarian cooperation with Ukraine over Oleshky as positive. He proposed organising a similar mission from Kostiantynivka, according to reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "edf6eff2791ce899",
+    "e0a18438517ee265"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hub6fup2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hub6fup2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hs4baiu2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hs4baiu2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "77fd04062a2e",
+   "created_at": "2026-11-12T12:31:04Z"
+  },
   {
    "id": "55c8aac3d2ac",
    "ts": "2026-11-12T12:25:18Z",
@@ -6371,33 +6398,6 @@
    "model": "opus",
    "run_id": "ffea129be4a7",
    "created_at": "2026-11-10T17:31:00Z"
-  },
-  {
-   "id": "31fda415a7f1",
-   "ts": "2026-11-10T17:24:23Z",
-   "headline": "ECB's Lane sets a high bar for directional forward guidance and says a dot plot would sit poorly with the ECB's consensus approach",
-   "detail": "ECB chief economist Philip Lane said the Governing Council places great weight on consensus, which would make publishing rate projections in the style of a dot plot difficult. He added that he would set a high bar for directional forward guidance at present.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "463c47dd175df64d",
-    "3ab939b1e939214c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxxdxh4oz2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxxdxh4oz2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxxgrujpw2l",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxxgrujpw2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5414c634822e",
-   "created_at": "2026-11-10T17:25:41Z"
   }
  ]
 }
