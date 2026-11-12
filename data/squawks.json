@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T15:05:59Z",
+ "generated_at": "2026-11-12T15:31:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "12b6131ecf00",
+   "ts": "2026-11-12T15:30:36Z",
+   "headline": "Draft declaration by about 40 countries says matters affecting European security should be decided with Europeans",
+   "detail": "Reuters says it has seen a draft declaration on key principles of European security. About 40 countries are expected to issue it on Thursday, and it says any matter affecting European security should be decided with the Europeans.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ee3c14cd131b5996"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n24rz62mzm23",
+     "url": "https://bsky.app/profile/reuters.com/post/3n24rz62mzm23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "38a0c54b847c",
+   "created_at": "2026-11-12T15:31:06Z"
+  },
   {
    "id": "cf4070d8a7b0",
    "ts": "2026-11-12T15:01:40Z",
@@ -6509,27 +6530,6 @@
    "model": "opus",
    "run_id": "5a81cf24e82a",
    "created_at": "2026-11-10T21:31:02Z"
-  },
-  {
-   "id": "7f77144e3436",
-   "ts": "2026-11-10T21:21:52Z",
-   "headline": "Fed's Bowman likens possible action on inflation in coming months to last year's gradual cuts followed by a pause",
-   "detail": "Federal Reserve Governor Bowman said the Fed cut rates gradually last year, paused and then resumed, and that it may take a similar approach to addressing inflation in the coming months.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e41e7c56aca526b6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyepgujrk2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyepgujrk2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bb65fe0c5402",
-   "created_at": "2026-11-10T21:25:42Z"
   }
  ]
 }
