@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T11:20:49Z",
+ "generated_at": "2026-11-12T11:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5b040b25584e",
+   "ts": "2026-11-12T11:40:13Z",
+   "headline": "Iran says it is reviewing withdrawal from the nuclear Non-Proliferation Treaty, calling the move an unavoidable necessity",
+   "detail": "Iran's Fars news agency reported the statement. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5435df825bc5289c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24f57nirz2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24f57nirz2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2ce45697be28",
+   "created_at": "2026-11-12T11:40:50Z"
+  },
   {
    "id": "b6c4f79a7274",
    "ts": "2026-11-12T11:16:23Z",
@@ -6479,39 +6500,6 @@
    "model": "opus",
    "run_id": "45ffc63fcf69",
    "created_at": "2026-11-10T15:31:05Z"
-  },
-  {
-   "id": "e71940552a76",
-   "ts": "2026-11-10T15:14:02Z",
-   "headline": "Zelenskiy calls Abu Dhabi talks constructive and substantive; trilateral talks set to continue tomorrow",
-   "detail": "Ukraine's president says negotiators discussed the substance of security guarantees for Ukraine in detail. He says he has given his team instructions for tomorrow's trilateral round and for talks in the coming days with US and European representatives.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "76e4698a915bf74b",
-    "ebb6c4bf8c12b73c",
-    "c11d8de7afa6b582"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxq3mdh532k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxq3mdh532k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxq5povlo26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxq5povlo26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxq7547fy2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxq7547fy2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "61d22a9b2e4c",
-   "created_at": "2026-11-10T15:15:49Z"
   }
  ]
 }
