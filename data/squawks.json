@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T19:10:49Z",
+ "generated_at": "2026-11-12T19:15:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "702bb8bca8f9",
+   "ts": "2026-11-12T19:15:14Z",
+   "headline": "Banxico deputy governor Heath says the bank's recent rate cut confuses markets and sends the wrong signal",
+   "detail": "Bank of Mexico Deputy Governor Jonathan Heath told Reuters on Thursday that the inflation outlook remains tilted to the upside. He also said the US Federal Reserve appears set to keep raising its key rate.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "c1b3a4a1a4110578"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n256ktub4g2r",
+     "url": "https://bsky.app/profile/reuters.com/post/3n256ktub4g2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0c6535e8a5d3",
+   "created_at": "2026-11-12T19:15:49Z"
+  },
   {
    "id": "9368cc4171db",
    "ts": "2026-11-12T19:10:04Z",
@@ -6012,39 +6033,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzwbx5nsu2f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzwbx5nsu2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3be36d887f6d",
-   "created_at": "2026-11-11T12:10:51Z"
-  },
-  {
-   "id": "ae14519394aa",
-   "ts": "2026-11-11T12:06:43Z",
-   "headline": "UK PM Burnham says he will set out a plan for the UK before the Christmas recess",
-   "detail": "The Prime Minister made the pledge while taking questions in parliament on 11 November. He gave no further details of the plan's content.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "40c415e6d21d1cfb",
-    "b9a40970e49c59b1",
-    "6a43b7392a9f5f8b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzw5os3cs2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzw5os3cs2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzwajkmdp2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzwajkmdp2c"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzzw6yyem22s",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzzw6yyem22s"
     }
    ],
    "model": "opus",
