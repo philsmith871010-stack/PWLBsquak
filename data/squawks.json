@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T17:01:15Z",
+ "generated_at": "2026-11-12T17:05:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "02e98bd38a4c",
+   "ts": "2026-11-12T17:01:46Z",
+   "headline": "US 30-year fixed mortgage rate eases to 7.11% from 7.18%, Freddie Mac says",
+   "detail": "Freddie Mac's weekly survey puts the average US 30-year fixed mortgage rate at 7.11% for the week to 12 November, down from 7.18% the week before.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f694654acd91c1c0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24x46iefv2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24x46iefv2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a74883cbd876",
+   "created_at": "2026-11-12T17:05:51Z"
+  },
   {
    "id": "72aecf13ffd8",
    "ts": "2026-11-12T16:59:19Z",
@@ -6384,33 +6405,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzpvqmcne2f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzpvqmcne2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "face1aa7667d",
-   "created_at": "2026-11-11T10:15:54Z"
-  },
-  {
-   "id": "e4d8eafd0461",
-   "ts": "2026-11-11T10:11:23Z",
-   "headline": "PBOC says Chinese loan rates are already relatively low and expects prices to grow at a reasonable pace",
-   "detail": "China's central bank says lending rates in China are already fairly low and that it expects reasonable growth in prices.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4a6e6292074527a8",
-    "cf184e0601520aeb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzpopxsgw2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzpopxsgw2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzppgvylh2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzppgvylh2g"
     }
    ],
    "model": "opus",
