@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T13:05:40Z",
+ "generated_at": "2026-11-12T13:10:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9d6b3c5675cd",
+   "ts": "2026-11-12T13:09:33Z",
+   "headline": "Trump says the US does not need a deal with Iran",
+   "detail": "US President Trump said in remarks on Thursday that Washington has no need for an agreement with Iran. Iran had earlier said it was reviewing withdrawal from the nuclear Non-Proliferation Treaty.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b2a0d20d3c551a87",
+    "06ea55440f1cb6cc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24k4wyeve2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24k4wyeve2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24k5ppibg2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24k5ppibg2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f5860e776cbb",
+   "created_at": "2026-11-12T13:10:49Z"
+  },
   {
    "id": "6a7d91649236",
    "ts": "2026-11-12T13:02:46Z",
@@ -6413,27 +6440,6 @@
    "model": "opus",
    "run_id": "266211ac3f78",
    "created_at": "2026-11-10T18:20:50Z"
-  },
-  {
-   "id": "01e4a7e3882f",
-   "ts": "2026-11-10T18:15:18Z",
-   "headline": "Resolution Foundation puts real per-person public services spending growth at 1.7% a year from 2023-24 to 2028-29",
-   "detail": "In its Budget analysis, the Resolution Foundation says day-to-day spending is growing moderately in this Parliament. It puts public services spending growth at 1.7% a year in real per-person terms between 2023-24 and 2028-29, which it says is similar to the two most recent periods under Conservative governments.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "ddeb8084821b0fda"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3mzy2bsxmvt22",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3mzy2bsxmvt22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5c704455424e",
-   "created_at": "2026-11-10T18:15:47Z"
   }
  ]
 }
