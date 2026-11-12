@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T11:01:15Z",
+ "generated_at": "2026-11-12T11:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "34e305e49dbe",
+   "ts": "2026-11-12T11:04:54Z",
+   "headline": "EU foreign policy chief Kallas says she would very much like Britain to return to Europe",
+   "detail": "Kaja Kallas, the EU's foreign policy chief, said she would strongly welcome Britain rejoining Europe. Earlier on the blotter, Chancellor Healey said any UK deal with the EU must bring benefits greater than its trade-offs.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7f32a008cbb6f4b5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24d62pz7o2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24d62pz7o2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "37c7ce017b27",
+   "created_at": "2026-11-12T11:05:43Z"
+  },
   {
    "id": "d93e6c39f7a8",
    "ts": "2026-11-12T10:58:49Z",
@@ -6491,57 +6512,6 @@
    "model": "opus",
    "run_id": "aa87b70896e7",
    "created_at": "2026-11-10T15:01:19Z"
-  },
-  {
-   "id": "a4fb16fefa96",
-   "ts": "2026-11-10T14:55:02Z",
-   "headline": "ECB's Nagel says a December rate rise is clearly needed and sees no risk of fiscal dominance",
-   "detail": "ECB Governing Council member Nagel said the ECB will do what is needed to bring inflation back to 2%, called the fall in energy prices since the US midterms good news, and said market expectations matter but are not the deciding factor. He also said France must address its fiscal challenges.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "7b1224e36477f5cb",
-    "8eacc05d2e0d3fad",
-    "08e562360b066089",
-    "3c4eaaa8ee56c871",
-    "2c404a2b1d3951d8",
-    "961b150164d08618"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxp3qp3jn2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxp3qp3jn2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxp3r4t4n26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxp3r4t4n26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxp4i7ogs2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxp4i7ogs2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxp4hti6u22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxp4hti6u22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxp4italr22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxp4italr22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxp4ikj7726",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxp4ikj7726"
-    }
-   ],
-   "model": "opus",
-   "run_id": "61a21939b11b",
-   "created_at": "2026-11-10T14:55:44Z"
   }
  ]
 }
