@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T13:01:10Z",
+ "generated_at": "2026-11-12T13:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6a7d91649236",
+   "ts": "2026-11-12T13:02:46Z",
+   "headline": "Putin says he will raise territorial questions with US envoys today and that Russia and Ukraine read them differently",
+   "detail": "Russian President Putin said territory would be among the topics in his talks with US envoys Witkoff and Kushner on Thursday, according to TASS. He said Russia and Ukraine interpret territorial issues differently, and that Russia's priority is people being able to live by their own values.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8242be1891c2d587",
+    "8491ce24ce3331c4",
+    "5f74799edbd58483",
+    "c9ac94123c7c0900"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24jqtiweg2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24jqtiweg2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24jsy74fe2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24jsy74fe2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24jtouww32o",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24jtouww32o"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24jtp7not2o",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24jtp7not2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ff032f516f67",
+   "created_at": "2026-11-12T13:05:40Z"
+  },
   {
    "id": "8e71d2e3f2de",
    "ts": "2026-11-12T13:00:24Z",
@@ -6395,27 +6434,6 @@
    "model": "opus",
    "run_id": "5c704455424e",
    "created_at": "2026-11-10T18:15:47Z"
-  },
-  {
-   "id": "34298c0145ce",
-   "ts": "2026-11-10T18:07:21Z",
-   "headline": "New US 10-year notes to carry a 5% coupon, the highest since 2006",
-   "detail": "A market commentator reported the coupon after the $42bn US 10-year note auction, which had already been reported as tailing.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "491879e1e06c303b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxztmftpq2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxztmftpq2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "40f8751ebb79",
-   "created_at": "2026-11-10T18:10:49Z"
   }
  ]
 }
