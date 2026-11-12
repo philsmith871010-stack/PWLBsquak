@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T08:20:48Z",
+ "generated_at": "2026-11-12T08:45:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fdcc2939ea30",
+   "ts": "2026-11-12T08:44:29Z",
+   "headline": "Gassco extends reduced capacity at Norway's Troll gas field by one day to Saturday",
+   "detail": "Norwegian gas system operator Gassco says the capacity reduction at the Troll field will now last one extra day, until Saturday. No figure for the size of the reduction was given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "f3d04a2c41dfe984"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n243cy7j5l2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n243cy7j5l2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "11236f963de6",
+   "created_at": "2026-11-12T08:45:53Z"
+  },
+  {
+   "id": "96c2031bfc7d",
+   "ts": "2026-11-12T08:43:41Z",
+   "headline": "Russia's Ryabkov says Putin will set out Russia's position to US negotiators, leaving Washington to persuade European allies",
+   "detail": "Russian Deputy Foreign Minister Ryabkov says Putin will give Russia's position to the American negotiators, after which it falls to the United States to bring its European allies round. The remarks follow US-Russia-Ukraine talks in Abu Dhabi.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ae9942e9e8aa8871"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n243bkbj3u2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n243bkbj3u2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "11236f963de6",
+   "created_at": "2026-11-12T08:45:53Z"
+  },
   {
    "id": "4118a143a18a",
    "ts": "2026-11-12T08:18:52Z",
@@ -6530,54 +6572,6 @@
    "model": "opus",
    "run_id": "aef5d31620b9",
    "created_at": "2026-11-10T14:10:46Z"
-  },
-  {
-   "id": "54c1574880c4",
-   "ts": "2026-11-10T14:00:57Z",
-   "headline": "ECB's Cipollone warns the digital euro could be delayed if legislative talks drag on",
-   "detail": "ECB Executive Board member Piero Cipollone warned on Tuesday that the digital euro could be delayed if talks on it continue for too long. He made no reported comment on interest rates.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "55e3a4a2383fab18"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxm2zmbko2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxm2zmbko2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2d5c35aa3d85",
-   "created_at": "2026-11-10T14:01:13Z"
-  },
-  {
-   "id": "e73f7bea92f2",
-   "ts": "2026-11-10T13:52:22Z",
-   "headline": "Rubio rejects negotiating over Lebanon with Iran as part of US-Iran talks",
-   "detail": "US Secretary of State Rubio questioned why the US would negotiate with Iran over Lebanon. He made the remarks during comments on the US-Iran talks, which Qatar is mediating.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "421e13ae44ffbc74",
-    "7465c0c593ff3ac0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxllogx6z2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxllogx6z2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxlmezuaf26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxlmezuaf26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "391ce3722a62",
-   "created_at": "2026-11-10T13:55:42Z"
   }
  ]
 }
