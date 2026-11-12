@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T18:40:59Z",
+ "generated_at": "2026-11-12T18:45:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2ccb537fbc5e",
+   "ts": "2026-11-12T18:44:01Z",
+   "headline": "Fed's Daly says the economy can be slowed while growth stays good, and describes the US labour market as stable",
+   "detail": "San Francisco Fed President Daly said the US has a stable labour market, positive growth and productivity growth alongside high inflation. She said the Fed must focus on bringing inflation down and that services inflation tends to be sticky once it rises.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ca4d393946b54c0f",
+    "88e5591233ed7212"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n254t224pq25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n254t224pq25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n254t2fkwz2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n254t2fkwz2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f56cdd406ffe",
+   "created_at": "2026-11-12T18:45:52Z"
+  },
   {
    "id": "3ea324320fb6",
    "ts": "2026-11-12T18:36:08Z",
@@ -6149,51 +6176,6 @@
    "model": "opus",
    "run_id": "baacb6aae8e8",
    "created_at": "2026-11-11T11:31:01Z"
-  },
-  {
-   "id": "e204c147039a",
-   "ts": "2026-11-11T11:24:27Z",
-   "headline": "Ukrainian negotiators see momentum towards a settlement before year-end and call for multilateral talks that include Europe",
-   "detail": "After the Abu Dhabi talks, Ukrainian negotiators said a solution before the end of the year was possible and reported major progress on European security. They also said the talks should be multilateral rather than three-way and that Russia's delegation had arrived with strict instructions, which made discussions difficult.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0d6683c68dcb0b8d",
-    "8296c5d661f6137b",
-    "49000015c721b04c",
-    "91d797d38ea0508b",
-    "27e4147c97011995"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzts3khz22a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzts3khz22a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzztlnvu7b2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzztlnvu7b2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzztrdzy3k2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzztrdzy3k2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzztp7be5k2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzztp7be5k2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzttiyepu2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzttiyepu2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f3db11003fc8",
-   "created_at": "2026-11-11T11:25:43Z"
   }
  ]
 }
