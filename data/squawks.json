@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T16:45:48Z",
+ "generated_at": "2026-11-12T16:50:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ca1e08fb8d4e",
+   "ts": "2026-11-12T16:47:53Z",
+   "headline": "US envoy Kushner says multilateral Ukraine negotiations will be held next week",
+   "detail": "US envoy Jared Kushner said the multilateral talks next week will build on what US negotiators discussed with Putin, according to reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2632d62485ab4c7d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24wdebxi22r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24wdebxi22r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "612ddff04b66",
+   "created_at": "2026-11-12T16:50:53Z"
+  },
   {
    "id": "44237d7ca2a6",
    "ts": "2026-11-12T16:44:18Z",
@@ -6431,27 +6452,6 @@
    "model": "opus",
    "run_id": "070a23d1f552",
    "created_at": "2026-11-11T09:25:44Z"
-  },
-  {
-   "id": "5b8fa4debd77",
-   "ts": "2026-11-11T09:19:57Z",
-   "headline": "Iran warns any US attack would trigger strikes on distant US bases",
-   "detail": "A wire-style headline reports an Iranian warning that it would answer a US attack by striking US bases far from Iran. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a694099aa01fb4d5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzmthie3n2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzmthie3n2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e61c56587181",
-   "created_at": "2026-11-11T09:20:48Z"
   }
  ]
 }
