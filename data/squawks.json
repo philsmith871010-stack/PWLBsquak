@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T15:45:52Z",
+ "generated_at": "2026-11-12T15:50:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6e05b51701dc",
+   "ts": "2026-11-12T15:47:10Z",
+   "headline": "Kremlin's Peskov accuses Europeans of saying they want peace while moving to continue and widen the Ukraine war",
+   "detail": "Kremlin spokesman Peskov said European actions must stop being contradictory, echoing Putin's remarks earlier in the day. He said this gap between Europe's words and actions has created a vicious circle.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "40eebd4b7ea478b2",
+    "4803c02c5e048103"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24swsskth2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24swsskth2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24szmbzmt2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24szmbzmt2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0bf00345d79c",
+   "created_at": "2026-11-12T15:50:52Z"
+  },
+  {
+   "id": "cc0a1044e2a6",
+   "ts": "2026-11-12T15:46:01Z",
+   "headline": "Fed's Barr says banks are concentrating on AI risk controls and flags agentic AI as a major issue for them",
+   "detail": "Federal Reserve Governor Barr said banks are paying close attention to risk controls and usage standards for AI. He added that agentic AI will be a significant challenge for banks in ensuring the tools follow customer instructions.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "66671c50e23c4011",
+    "ada0acb05a0be10c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24suq3u4x2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24suq3u4x2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24t53ldmi2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24t53ldmi2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0bf00345d79c",
+   "created_at": "2026-11-12T15:50:52Z"
+  },
   {
    "id": "7635403d6101",
    "ts": "2026-11-12T15:40:53Z",
@@ -6500,48 +6554,6 @@
    "model": "opus",
    "run_id": "e4701a140ac6",
    "created_at": "2026-11-11T06:01:13Z"
-  },
-  {
-   "id": "8c5227c12b92",
-   "ts": "2026-11-10T22:45:09Z",
-   "headline": "Poland's Orlen ends a long-term LNG supply contract with QatarEnergy, citing ongoing force majeure",
-   "detail": "Orlen, Poland's largest energy group, said on Tuesday it had terminated one of its two long-term LNG supply contracts with QatarEnergy. It said an ongoing force majeure had left the supplier unable to meet its delivery obligations.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "ba00de6ac1853e47"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3mzyjeehmii2y",
-     "url": "https://bsky.app/profile/reuters.com/post/3mzyjeehmii2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6158955f8356",
-   "created_at": "2026-11-10T22:45:51Z"
-  },
-  {
-   "id": "be772d61523c",
-   "ts": "2026-11-10T22:16:08Z",
-   "headline": "UK ministers reject Botley West, which would have been Britain's largest solar farm",
-   "detail": "The UK government turned down the Oxfordshire project, saying it would do substantial harm to the green belt and to Blenheim Palace, the FT reports.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "31607274299611d8"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3mzyhqhxi3n2j",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3mzyhqhxi3n2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7312ab2db450",
-   "created_at": "2026-11-10T22:20:50Z"
   }
  ]
 }
