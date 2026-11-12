@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T20:40:48Z",
+ "generated_at": "2026-11-12T21:01:11Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dfc47990afef",
+   "ts": "2026-11-12T20:58:58Z",
+   "headline": "US envoy Kushner says a Russia-Ukraine deal will take time as US envoys arrive in Dublin to meet Zelenskiy",
+   "detail": "US envoys Kushner and Witkoff have arrived in Dublin for a meeting with Ukraine's President Zelenskiy, following their Kremlin talks with Putin. Kushner said reaching a Russia-Ukraine deal would take time.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1a55f4c725a98599"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25eee3pua2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25eee3pua2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aa65657c59dc",
+   "created_at": "2026-11-12T21:01:11Z"
+  },
   {
    "id": "dade3c168e5b",
    "ts": "2026-11-12T20:39:49Z",
@@ -5976,33 +5997,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzzxnqu5j2w",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzzxnqu5j2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ad41a516a569",
-   "created_at": "2026-11-11T13:15:52Z"
-  },
-  {
-   "id": "d914850b2f7c",
-   "ts": "2026-11-11T13:14:07Z",
-   "headline": "German government says it is waiting for Russia to respond to proposals for future Ukraine talks",
-   "detail": "A German government spokesperson said Berlin is awaiting Russia's reaction to the proposals for future Ukraine talks. The spokesperson added that the US has as much interest as Europe in a peaceful settlement for Ukraine.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "de6bf6126de5f3a9",
-    "f486879bbf49a378"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzzw7iqjy2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzzw7iqjy2i"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzzyerzyj2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzzyerzyj2w"
     }
    ],
    "model": "opus",
