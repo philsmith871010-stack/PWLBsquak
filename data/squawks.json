@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T08:05:42Z",
+ "generated_at": "2026-11-12T08:15:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b902a9b1ddda",
+   "ts": "2026-11-12T08:15:45Z",
+   "headline": "Russia's Ryabkov denies that the Abu Dhabi negotiations have restored trust between the parties",
+   "detail": "Russian Deputy Foreign Minister Ryabkov said it was wrong to describe trust between the sides as restored after the Abu Dhabi talks. Earlier, US envoy Kushner had described the talks as an important breakthrough.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "82507acc03408f53"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23zpm23b42y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23zpm23b42y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d2174fd269d1",
+   "created_at": "2026-11-12T08:15:49Z"
+  },
   {
    "id": "b0a86bb9ee75",
    "ts": "2026-11-12T08:05:09Z",
@@ -6557,33 +6578,6 @@
    "model": "opus",
    "run_id": "be474db68228",
    "created_at": "2026-11-10T13:50:48Z"
-  },
-  {
-   "id": "c311fa2bf261",
-   "ts": "2026-11-10T13:42:08Z",
-   "headline": "Rubio says Trump has decided there is currently no need for US military operations against Iran and denies a stalemate",
-   "detail": "US Secretary of State Rubio said President Trump had judged that military operations against Iran are not needed at present. He also said the situation with Iran is not a stalemate.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "750e6193cf20b11c",
-    "f15286fffdd4f782"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxkzf5t7i26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxkzf5t7i26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxl4x7qdb25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxl4x7qdb25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8a8394a45095",
-   "created_at": "2026-11-10T13:45:52Z"
   }
  ]
 }
