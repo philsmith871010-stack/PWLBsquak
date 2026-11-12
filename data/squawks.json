@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T19:20:49Z",
+ "generated_at": "2026-11-12T19:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "79992c8cbf4f",
+   "ts": "2026-11-12T19:31:55Z",
+   "headline": "WTI crude December futures settle up 2.55% at $88.74 a barrel",
+   "detail": "NYMEX WTI December futures settled $2.21 higher at $88.74 a barrel. Oil prices rose during the day after Iranian state media reported an enemy strike on Iran.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "a40f2173d5151ac4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n257iom4ht2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n257iom4ht2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "001cac16c022",
+   "created_at": "2026-11-12T19:35:44Z"
+  },
   {
    "id": "a72e8321a47a",
    "ts": "2026-11-12T19:16:21Z",
@@ -6017,27 +6038,6 @@
    "model": "opus",
    "run_id": "1343c5bc3da9",
    "created_at": "2026-11-11T12:35:42Z"
-  },
-  {
-   "id": "fa8064e7bde5",
-   "ts": "2026-11-11T12:23:07Z",
-   "headline": "UK PM Burnham says an EU deal could lift UK GDP by 0.4%",
-   "detail": "Prime Minister Burnham gave the estimate of an EU deal's potential effect on UK GDP in remarks reported on Wednesday. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "dc9edf489e7c74e0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzx2ywm5p2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzx2ywm5p2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f582a7d6bc7f",
-   "created_at": "2026-11-11T12:25:41Z"
   }
  ]
 }
