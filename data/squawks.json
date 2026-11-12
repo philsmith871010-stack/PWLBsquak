@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T15:31:06Z",
+ "generated_at": "2026-11-12T15:40:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fc9875648df9",
+   "ts": "2026-11-12T15:38:09Z",
+   "headline": "Fed's Barr says the Fed is watching AI-related liabilities and the potential for shocks",
+   "detail": "Federal Reserve Governor Barr said the central bank is monitoring liabilities linked to AI and possible shocks from it. He made the remarks after earlier warning about AI disruption to the US job market.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "90be4f520bfe1074"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24sgnweod2o",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24sgnweod2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1e4516801bd9",
+   "created_at": "2026-11-12T15:40:48Z"
+  },
   {
    "id": "12b6131ecf00",
    "ts": "2026-11-12T15:30:36Z",
@@ -6503,33 +6524,6 @@
    "model": "opus",
    "run_id": "1bf703a61acc",
    "created_at": "2026-11-10T22:05:44Z"
-  },
-  {
-   "id": "ae3d013d7258",
-   "ts": "2026-11-10T21:30:01Z",
-   "headline": "Fed's Bowman says inflation is not trending lower and the Fed must consider the pace and timeline of its response",
-   "detail": "Fed Governor Bowman said that inflation not moving down should give policymakers pause. She added that the Fed needs to weigh how fast to act on it and over what timeline.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "42516e613d437a9e",
-    "1d2a8dfdf99b2719"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyf4li4sm2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyf4li4sm2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzyf5z3nv42y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzyf5z3nv42y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5a81cf24e82a",
-   "created_at": "2026-11-10T21:31:02Z"
   }
  ]
 }
