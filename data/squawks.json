@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T19:51:03Z",
+ "generated_at": "2026-11-12T20:10:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b65fa69b73f0",
+   "ts": "2026-11-12T20:10:12Z",
+   "headline": "Intesa Sanpaolo criticises bank levies in Italy's 2027 budget and says the ECB could step in on lenders' sovereign holdings",
+   "detail": "Reuters reports that Intesa Sanpaolo, Italy's largest bank, objected strongly on Thursday to the taxes on banks planned in Rome's 2027 budget. The bank warned the measures could lead the ECB to ask Italian lenders to cut their exposure to sovereign debt.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "d15d54668f5ad272"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n25bn5k5v32a",
+     "url": "https://bsky.app/profile/reuters.com/post/3n25bn5k5v32a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4cefba9c8690",
+   "created_at": "2026-11-12T20:10:52Z"
+  },
   {
    "id": "42563c37bb73",
    "ts": "2026-11-12T19:47:30Z",
@@ -6011,39 +6032,6 @@
    "model": "opus",
    "run_id": "3e84fd5fc2ec",
    "created_at": "2026-11-11T13:01:14Z"
-  },
-  {
-   "id": "47faa2ed3603",
-   "ts": "2026-11-11T12:46:05Z",
-   "headline": "G7 foreign ministers condemn North Korean, Iranian and Chinese support for Russia's military, UK reports",
-   "detail": "According to the UK, the G7 foreign ministers' statement condemns North Korea and Iran for giving military assistance to Russia, and China for supplying weapons, military training and dual-use components. The ministers also express grave concern over Iranian involvement in violent plots, including one against the UK's RAF Fairford base.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b813f40b1d3c508e",
-    "5c051fc681d5e3ec",
-    "b00eec61c9eb6a6d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzye3jg4u2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzye3jg4u2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzyg6abgw2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzyg6abgw2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzzyjqiv4t2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzzyjqiv4t2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "99ef7b4aa804",
-   "created_at": "2026-11-11T12:50:51Z"
   }
  ]
 }
