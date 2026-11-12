@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T12:40:47Z",
+ "generated_at": "2026-11-12T12:55:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f2b55e5e2940",
+   "ts": "2026-11-12T12:55:19Z",
+   "headline": "Putin says leaving 'grey zones' in place would make any agreement unstable and rule out lasting peace",
+   "detail": "Russian President Putin said during talks with US envoys that keeping grey zones would undermine any agreements on Ukraine and prevent a lasting peace.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "66b686727bebdafd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24jdiooy22y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24jdiooy22y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6b2719dea30a",
+   "created_at": "2026-11-12T12:55:44Z"
+  },
+  {
+   "id": "e8c5006189cc",
+   "ts": "2026-11-12T12:54:30Z",
+   "headline": "US envoy Witkoff hopes Putin talks lead to a new round of trilateral Ukraine talks with Europeans taking part",
+   "detail": "US envoy Witkoff said he hoped a new round of trilateral talks, with European participation, could be announced after the negotiations with Putin in Moscow.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5edca969136c64dd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24jc2oftj2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24jc2oftj2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6b2719dea30a",
+   "created_at": "2026-11-12T12:55:44Z"
+  },
   {
    "id": "584e970813d5",
    "ts": "2026-11-12T12:39:39Z",
@@ -6380,48 +6422,6 @@
    "model": "opus",
    "run_id": "a7fa94913a6b",
    "created_at": "2026-11-10T18:05:43Z"
-  },
-  {
-   "id": "8c55d538d45d",
-   "ts": "2026-11-10T18:01:07Z",
-   "headline": "US 10-year when-issued yield stands at 5.010% ahead of $42bn Treasury auction",
-   "detail": "Ahead of the US Treasury's $42 billion 10-year note auction, the 10-year when-issued yield was reported at 5.010%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "71dc74a32a84dc2f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxzihyhxj26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxzihyhxj26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a220a6358c1e",
-   "created_at": "2026-11-10T18:01:14Z"
-  },
-  {
-   "id": "f9a830351139",
-   "ts": "2026-11-10T17:40:30Z",
-   "headline": "EU's Costa says Ukraine financing will be taken up at the 26-27 November EU summit once the Commission sends its proposal",
-   "detail": "European Council President Costa told German Chancellor Merz in a letter that Ukraine financing will be on the agenda of the EU summit on 26-27 November. He said this will follow receipt of a proposal from the European Commission.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4f3f3fe7432a8ba7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3mzxydm573622",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3mzxydm573622"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dee412e2ba19",
-   "created_at": "2026-11-10T17:40:50Z"
   }
  ]
 }
