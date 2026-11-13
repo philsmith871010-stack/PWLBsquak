@@ -1,8 +1,104 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T13:31:13Z",
+ "generated_at": "2026-11-13T13:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "988172b2169f",
+   "ts": "2026-11-13T13:33:33Z",
+   "headline": "US October PPI rises 0.3% on the month, below the 0.4% forecast; core PPI up 0.3% in line with forecasts",
+   "detail": "US headline producer prices rose 0.3% in October after 1.3% the month before, against a 0.4% forecast. Core PPI rose 0.3% after 0.7%, matching forecasts. Spot gold was reported up 0.5% after the release.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "2e62a87b7275624c",
+    "c1233e175a8b530e",
+    "a28a7114021dc296",
+    "65d430b5a4d629e1",
+    "34fd858c153e094a",
+    "4507acd19edfd96d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273wskbae2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273wskbae2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273wt5wzo2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273wt5wzo2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273wstagy2o",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273wstagy2o"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273xjvzw32q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273xjvzw32q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273txdygn25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273txdygn25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2742eed3b2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2742eed3b2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5c63eae523c3",
+   "created_at": "2026-11-13T13:35:42Z"
+  },
+  {
+   "id": "6ffb364c4b5f",
+   "ts": "2026-11-13T13:33:10Z",
+   "headline": "Bessent says the US economy is in very good shape and he is optimistic on trade deals with Canada and Mexico",
+   "detail": "US Treasury Secretary Bessent said markets are resilient and the dollar is well bid, and that he sees no cause for alarm. He also said he is optimistic the US can reach trade deals with Canada and Mexico.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f96c7cc29d328f4a",
+    "59c20c223f3255c5",
+    "f36c9955ce742375",
+    "9a30eecbb07c1e57",
+    "49bc6fd763f0aa25"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273vedoqa2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273vedoqa2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273w35ajo2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273w35ajo2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273w2wbnw2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273w2wbnw2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273w3rb3b2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273w3rb3b2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273w3gs6w2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273w3gs6w2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5c63eae523c3",
+   "created_at": "2026-11-13T13:35:42Z"
+  },
   {
    "id": "366fe0b4d03f",
    "ts": "2026-11-13T13:31:10Z",
@@ -6272,48 +6368,6 @@
    "model": "opus",
    "run_id": "fc1a50a9d69f",
    "created_at": "2026-11-12T07:01:12Z"
-  },
-  {
-   "id": "20f4f2b363fb",
-   "ts": "2026-11-12T06:51:37Z",
-   "headline": "Iran's IRGC Navy claims two supertankers exploded in the Strait of Hormuz overnight",
-   "detail": "Sepah News, the IRGC's news outlet, reports the IRGC Navy's claim that two supertankers exploded in the Strait of Hormuz overnight. The claim has not been independently confirmed, and no market reaction has been reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d7b258ab0c14d4eb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23uz5e4kx2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23uz5e4kx2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a8bf690eaff6",
-   "created_at": "2026-11-12T06:55:45Z"
-  },
-  {
-   "id": "11ebd1e801eb",
-   "ts": "2026-11-12T06:19:07Z",
-   "headline": "Chinese and UK trade ministers discuss electric vehicles, China's commerce ministry says",
-   "detail": "China's Commerce Ministry said its trade minister and the UK trade minister exchanged views on electric vehicles. It gave no details of any outcome.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e7f9103b7200f71f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23t6zmelo2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23t6zmelo2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "163036131baa",
-   "created_at": "2026-11-12T06:20:47Z"
   }
  ]
 }
