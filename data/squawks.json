@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T17:20:53Z",
+ "generated_at": "2026-11-13T17:25:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dfc8fda354ec",
+   "ts": "2026-11-13T17:21:38Z",
+   "headline": "Fed's Daly says the Fed will most likely need to raise rates and it is hard to argue policy is restrictive enough",
+   "detail": "San Francisco Fed President Daly said many factors are pushing inflation up, which she called a concern, and that more producers say they want to pass on costs. She also said markets understand the Fed's reaction function.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "28f46fd027350b2e",
+    "15a4a5a7bf5fb228",
+    "3f772d86aadf9dd4",
+    "c093b6f287d67779",
+    "1575aed2c76b9f3c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27iomt5z72u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27iomt5z72u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27ipeb4zx2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27ipeb4zx2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27isahay42m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27isahay42m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27iudaoqd2o",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27iudaoqd2o"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27inw67og2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27inw67og2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3c3f07edf2cb",
+   "created_at": "2026-11-13T17:25:40Z"
+  },
   {
    "id": "7722552ec7a3",
    "ts": "2026-11-13T17:20:26Z",
@@ -6491,45 +6536,6 @@
    "model": "opus",
    "run_id": "eeb0b9b983ff",
    "created_at": "2026-11-12T11:20:49Z"
-  },
-  {
-   "id": "792a72b39def",
-   "ts": "2026-11-12T11:11:36Z",
-   "headline": "Germany's Merz says Europeans must be involved in Ukraine talks and expects Putin to agree to give them a seat",
-   "detail": "German Chancellor Merz said it was important that Russia is willing to engage in talks, and that he expects Putin to agree that Europeans should have a seat at the table. He also said he sees a good chance of concluding EU budget talks before the end of the year.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4f67f89b00fcd171",
-    "3fa33ba0f2d3c7a5",
-    "2bc6bbdb3d4d0d24",
-    "0a44de5672a87244"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24djzvxvo2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24djzvxvo2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24dkqvzqa2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24dkqvzqa2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24dlhylap2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24dlhylap2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24djcxsly2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24djcxsly2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "64a6f5e63f3c",
-   "created_at": "2026-11-12T11:15:55Z"
   }
  ]
 }
