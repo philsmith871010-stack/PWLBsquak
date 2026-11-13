@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T13:25:42Z",
+ "generated_at": "2026-11-13T13:31:13Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "366fe0b4d03f",
+   "ts": "2026-11-13T13:31:10Z",
+   "headline": "US producer prices rise 6.5% on the year, slightly below the 6.6% forecast; core PPI holds at 5.0%",
+   "detail": "US headline PPI rose 0.3% in the month, below the 0.4% forecast, after 1.3% previously, and the annual rate rose to 6.5% from 6.3%. Core PPI rose 0.3% in the month, in line with forecasts and down from 0.7%, with the annual core rate unchanged at 5.0%, as expected.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "6bda93fdb40de220",
+    "77c9affd4237b038",
+    "93f425f591e37cd1",
+    "8c22e012c15167fd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273sjms3s2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273sjms3s2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273sjcrxl2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273sjcrxl2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273sjwgtn2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273sjwgtn2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273sk6y2w2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273sk6y2w2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3fb89c0909f2",
+   "created_at": "2026-11-13T13:31:13Z"
+  },
   {
    "id": "4e37a8286b88",
    "ts": "2026-11-13T13:20:56Z",
@@ -6270,27 +6309,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23t6zmelo2t",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23t6zmelo2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "163036131baa",
-   "created_at": "2026-11-12T06:20:47Z"
-  },
-  {
-   "id": "bfec50df1d5d",
-   "ts": "2026-11-12T06:16:00Z",
-   "headline": "EU leaders aim to agree Hernández de Cos as next ECB president as soon as this month, FT reports",
-   "detail": "The Financial Times reports growing support for the Spanish economist Pablo Hernández de Cos's bid to become president of the European Central Bank. It says EU leaders want to seal a deal as early as November.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6b3bf12567a5cbe0"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n23szhylk52y",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n23szhylk52y"
     }
    ],
    "model": "opus",
