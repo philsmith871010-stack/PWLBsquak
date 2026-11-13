@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T11:35:56Z",
+ "generated_at": "2026-11-13T12:15:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "30e42de6e7d2",
+   "ts": "2026-11-13T12:15:46Z",
+   "headline": "German government says it wants ECB leadership that is responsible and widely supported, declines comment on talks",
+   "detail": "A German government spokesperson said Berlin's aim is ECB leadership that is responsible and has broad support, and declined to comment on current talks, according to a market news feed.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ee8a74949b0f008e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26xlp4meu2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26xlp4meu2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fd51972d74ee",
+   "created_at": "2026-11-13T12:15:49Z"
+  },
+  {
+   "id": "ec210e8f6977",
+   "ts": "2026-11-13T12:15:45Z",
+   "headline": "German Chancellor Merz says Ukraine talks have made some progress but a resolution remains distant",
+   "detail": "German Chancellor Friedrich Merz said there had been some progress on Ukraine but that the sides remain far from a resolution, according to a market news feed.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5bc095f648771aa9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26xlou3tq2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26xlou3tq2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fd51972d74ee",
+   "created_at": "2026-11-13T12:15:49Z"
+  },
   {
    "id": "20fb78eabef4",
    "ts": "2026-11-13T11:31:09Z",
@@ -6434,60 +6476,6 @@
    "model": "opus",
    "run_id": "6851e406a120",
    "created_at": "2026-11-12T06:05:40Z"
-  },
-  {
-   "id": "a098cd2d846d",
-   "ts": "2026-11-12T01:19:39Z",
-   "headline": "US 2-year Treasury yield rises nearly 5bp to a two-week high of 4.7756%",
-   "detail": "The US 2-year Treasury yield reached a two-week high in Asian trading, while the 10-year yield was reported steady at 4.99%. Gold prices were reported under pressure from rising expectations of Fed rate hikes.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "73b4bdbb2699eee3",
-    "18c04773c970d8c4",
-    "5b6a4161a227e73f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23chksr4o2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23chksr4o2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23cgtsuc62d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23cgtsuc62d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23bmdlck62d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23bmdlck62d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6851e406a120",
-   "created_at": "2026-11-12T06:05:40Z"
-  },
-  {
-   "id": "fd62508f9b4c",
-   "ts": "2026-11-12T00:14:51Z",
-   "headline": "Japan's top currency official Mimura says currency moves are too rapid",
-   "detail": "Japan's vice finance minister for international affairs commented on the speed of moves in the currency market. The dollar was trading near 159.55 yen after recent gains.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "15406497bfbf63ae"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n236topn6k22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n236topn6k22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2db2eacd6c40",
-   "created_at": "2026-11-12T06:01:19Z"
   }
  ]
 }
