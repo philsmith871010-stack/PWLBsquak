@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T09:01:14Z",
+ "generated_at": "2026-11-13T09:05:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cffe7ac143cf",
+   "ts": "2026-11-13T09:02:27Z",
+   "headline": "IEA members plan to release a further 71m barrels of emergency oil stocks through end-February 2027, with a focus on diesel",
+   "detail": "The IEA says member countries will release another 71 million barrels of emergency crude and product stocks by the end of February 2027. About 15 million barrels of the total will be diesel.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "3995e30606da6494"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26mrztfjy25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26mrztfjy25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9eea11a4c3aa",
+   "created_at": "2026-11-13T09:05:49Z"
+  },
+  {
+   "id": "825eed609e23",
+   "ts": "2026-11-13T09:01:15Z",
+   "headline": "IEA sees global oil market moving to a 1.7m bpd surplus in Q4 2026 as supply overtakes demand for the first time since the Iran war began",
+   "detail": "The IEA's monthly oil market report forecasts a surplus of 1.7 million bpd in Q4 2026, replacing its earlier deficit forecast, with a larger build expected in 2027. It also reports that oil flows through Hormuz rose by 440k b/d month on month to 11.8m b/d in October.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "12080f60f66f1597",
+    "a94fa23ac26338aa",
+    "71fc399875960391"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26mpuyt4u2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26mpuyt4u2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26mti6flq25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26mti6flq25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26msqworm2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26msqworm2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9eea11a4c3aa",
+   "created_at": "2026-11-13T09:05:49Z"
+  },
   {
    "id": "3c99bd3f4071",
    "ts": "2026-11-13T08:58:07Z",
@@ -6356,60 +6410,6 @@
    "model": "opus",
    "run_id": "cc3c59bf91cd",
    "created_at": "2026-11-11T17:25:41Z"
-  },
-  {
-   "id": "dda340840703",
-   "ts": "2026-11-11T17:11:40Z",
-   "headline": "Trump declares US victory in Iran and says it will take Iran 25 years to rebuild its losses",
-   "detail": "US President Trump said the US had won in Iran and that rebuilding what Iran had lost would take 25 years. He also said the US was more respected than ever.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0ae8987d898e7300",
-    "ca59486cb79a021e",
-    "ef15ac46295cbf95"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22h6xpg3g2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22h6xpg3g2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22hb4ksnt2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22hb4ksnt2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22hg2ex2r22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22hg2ex2r22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8d9e0d558104",
-   "created_at": "2026-11-11T17:15:51Z"
-  },
-  {
-   "id": "3a79b6c5e73f",
-   "ts": "2026-11-11T17:09:41Z",
-   "headline": "Trump says Iran will never be allowed to have a nuclear weapon",
-   "detail": "US President Trump repeated that Iran will never have a nuclear weapon, as talks continue on reopening Hormuz and on direct Iran-US talks. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4a5caf419b61ef7e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22h3g4va72r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22h3g4va72r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6ba1002367bc",
-   "created_at": "2026-11-11T17:10:52Z"
   }
  ]
 }
