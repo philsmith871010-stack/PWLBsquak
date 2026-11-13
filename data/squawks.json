@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T17:25:40Z",
+ "generated_at": "2026-11-13T17:31:02Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "593e522b04af",
+   "ts": "2026-11-13T17:27:12Z",
+   "headline": "EU leaders agree Germany, France, Italy, Poland, the UK and EU institutions will represent them in Ukraine talks, sources say",
+   "detail": "Sources say the 27 EU leaders agreed the group will represent Europe in talks with the United States, Russia and Ukraine.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "576884abe73d9920"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27iyli5en2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27iyli5en2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c85c55e52820",
+   "created_at": "2026-11-13T17:31:02Z"
+  },
+  {
+   "id": "4e971d2ea829",
+   "ts": "2026-11-13T17:26:01Z",
+   "headline": "Fed's Daly says US consumer spending has been surprisingly resilient and plays down the Summary of Economic Projections",
+   "detail": "San Francisco Fed President Daly said she is watching how the gap between consumer sentiment and behaviour closes. She described the Summary of Economic Projections as a snapshot of one point in time.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ff35b308c5d5bcbd",
+    "77bed4fa78c04390",
+    "6a4c450e676380a0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27iwhqm562r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27iwhqm562r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27izcbamw2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27izcbamw2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27j4rh26f2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27j4rh26f2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c85c55e52820",
+   "created_at": "2026-11-13T17:31:02Z"
+  },
   {
    "id": "dfc8fda354ec",
    "ts": "2026-11-13T17:21:38Z",
@@ -6488,54 +6542,6 @@
    "model": "opus",
    "run_id": "379b331f1c7b",
    "created_at": "2026-11-12T11:45:50Z"
-  },
-  {
-   "id": "5b040b25584e",
-   "ts": "2026-11-12T11:40:13Z",
-   "headline": "Iran says it is reviewing withdrawal from the nuclear Non-Proliferation Treaty, calling the move an unavoidable necessity",
-   "detail": "Iran's Fars news agency reported the statement. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5435df825bc5289c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24f57nirz2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24f57nirz2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2ce45697be28",
-   "created_at": "2026-11-12T11:40:50Z"
-  },
-  {
-   "id": "b6c4f79a7274",
-   "ts": "2026-11-12T11:16:23Z",
-   "headline": "All 71 economists in a poll expect the ECB to raise its deposit rate to 2.75% in December",
-   "detail": "In a poll of economists, all 71 respondents expect the ECB to raise its deposit rate to 2.75% in December, up from 64 of 73 in the October poll. 46 of the 71 see the deposit rate peaking at 2.75%, while 25 see a peak of 3.00%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "5aa0cbe981e1d66e",
-    "060926f6611109fb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24dsmakuf2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24dsmakuf2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24dtcv7jb2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24dtcv7jb2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "eeb0b9b983ff",
-   "created_at": "2026-11-12T11:20:49Z"
   }
  ]
 }
