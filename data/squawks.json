@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T17:55:41Z",
+ "generated_at": "2026-11-13T18:15:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bf0d43de79ff",
+   "ts": "2026-11-13T18:13:29Z",
+   "headline": "Market commentators flag suspected intervention in the yen",
+   "detail": "A market commentary account reported suspected intervention in the yen late on Friday. It gave no figures and did not name an official source.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "33fb29212cb50b9d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27lle2if62y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27lle2if62y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2e198cc186d7",
+   "created_at": "2026-11-13T18:15:56Z"
+  },
   {
    "id": "f6c9edf2bc79",
    "ts": "2026-11-13T17:54:44Z",
@@ -6486,33 +6507,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24h3x7f4d2c",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24h3x7f4d2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fcb15a0d8df8",
-   "created_at": "2026-11-12T12:15:54Z"
-  },
-  {
-   "id": "3370ef62fa5c",
-   "ts": "2026-11-12T12:11:45Z",
-   "headline": "European Council President Costa says next week will be a decisive test of whether Russia is willing to end the war",
-   "detail": "European Council President António Costa made the remarks in a speech in Dublin on Thursday. He did not give further detail on the timing.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "02175d6393659b34",
-    "941c0edee15666c0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24gvmar4o2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24gvmar4o2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24gvld4zv2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24gvld4zv2j"
     }
    ],
    "model": "opus",
