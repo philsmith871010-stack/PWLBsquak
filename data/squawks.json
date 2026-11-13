@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T14:55:42Z",
+ "generated_at": "2026-11-13T15:31:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f15a99786cd9",
+   "ts": "2026-11-13T15:27:15Z",
+   "headline": "Russian foreign ministry says European participation in Ukraine talks was not raised at meeting with Witkoff and Kushner",
+   "detail": "Russian Foreign Ministry spokesperson Maria Zakharova said European involvement in the Ukraine negotiations was not discussed at the meeting with US envoys Witkoff and Kushner.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "591be0150578197d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27cc436q52j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27cc436q52j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9b0c2082b031",
+   "created_at": "2026-11-13T15:31:06Z"
+  },
   {
    "id": "1b92aece74f5",
    "ts": "2026-11-13T14:52:49Z",
@@ -6395,27 +6416,6 @@
    "model": "opus",
    "run_id": "87a08b613121",
    "created_at": "2026-11-12T09:05:43Z"
-  },
-  {
-   "id": "a89860cb4664",
-   "ts": "2026-11-12T08:56:59Z",
-   "headline": "Russia's Ryabkov says US and European approaches differ sharply and bringing Europe into Ukraine talks could derail progress",
-   "detail": "Russian media report that Deputy Foreign Minister Ryabkov said the United States and Europe take very different approaches to the Ukraine negotiations. He said that involving European countries could undermine constructive efforts.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "311103c6de0616ff"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n243zdwjqk2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n243zdwjqk2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9bfa24d95773",
-   "created_at": "2026-11-12T09:01:15Z"
   }
  ]
 }
