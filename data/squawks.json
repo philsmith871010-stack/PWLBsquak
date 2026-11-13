@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T13:50:48Z",
+ "generated_at": "2026-11-13T13:55:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "92c8e028f153",
+   "ts": "2026-11-13T13:51:55Z",
+   "headline": "Fed's Goolsbee says limited refining capacity will keep diesel and jet fuel prices high even if oil falls quickly",
+   "detail": "Chicago Fed President Goolsbee also said the Fed is not currently on track to reach its 2% inflation target and must deal with that. He added that, like Treasury Secretary Bessent, the Fed is trying to judge how persistent inflation will be.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b13a0fd07374ea53",
+    "1cb4d83f3135c008",
+    "c63f9a4e5dd9d0a4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n274xn6ykd2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n274xn6ykd2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n274xmiftk2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n274xmiftk2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27535gypu2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27535gypu2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3fbf0205128d",
+   "created_at": "2026-11-13T13:55:48Z"
+  },
   {
    "id": "23bd0c0f8163",
    "ts": "2026-11-13T13:49:08Z",
@@ -6317,27 +6350,6 @@
    "model": "opus",
    "run_id": "ecef2abdc3db",
    "created_at": "2026-11-12T08:05:42Z"
-  },
-  {
-   "id": "330cd38a5ecf",
-   "ts": "2026-11-12T07:38:00Z",
-   "headline": "France's European affairs minister says sanctions on Iran will be tightened after a cyber attack involving fridges",
-   "detail": "France's European affairs minister Haddad said sanctions against Iran would be strengthened in response to a cyber attack that targeted fridges. No further details or market reaction were reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e89619408104f234"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23xm4i7ju2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23xm4i7ju2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "01cc35ceb8c6",
-   "created_at": "2026-11-12T07:40:45Z"
   }
  ]
 }
