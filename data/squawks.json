@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T06:15:55Z",
+ "generated_at": "2026-11-13T06:20:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "729e317f64b4",
+   "ts": "2026-11-13T06:07:31Z",
+   "headline": "Dollar/yen climbs to 160.09, its highest level since early September",
+   "detail": "Dollar/yen rose to 160.09 in early European trade, its highest since early September, according to market reports. The move follows a suspected yen intervention reported earlier and Japanese officials' warnings about rapid one-sided moves in the currency.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9ee7320a50475079",
+    "9f20d5e2c1faee49"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26cz7ozkq2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26cz7ozkq2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26d5fa7ul2o",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26d5fa7ul2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6e999ebfe7bd",
+   "created_at": "2026-11-13T06:20:57Z"
+  },
   {
    "id": "cbec3b8fa25c",
    "ts": "2026-11-13T05:46:29Z",
@@ -6293,27 +6320,6 @@
    "model": "opus",
    "run_id": "e5135e2d32cb",
    "created_at": "2026-11-11T15:35:43Z"
-  },
-  {
-   "id": "3ed0095f8111",
-   "ts": "2026-11-11T15:20:06Z",
-   "headline": "US envoy Kushner says Russia and Ukraine have reached an important breakthrough in the Abu Dhabi talks",
-   "detail": "US envoy Kushner described the Abu Dhabi talks as serious and frank and said Russia and Ukraine had achieved an important breakthrough, according to reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c397c34571d63251"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22axig6ep2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22axig6ep2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b1ea9890f7ce",
-   "created_at": "2026-11-11T15:20:49Z"
   }
  ]
 }
