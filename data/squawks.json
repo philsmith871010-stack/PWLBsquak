@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T09:20:55Z",
+ "generated_at": "2026-11-13T09:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d65f086e251b",
+   "ts": "2026-11-13T09:30:08Z",
+   "headline": "Resolution Foundation says UK grew 1.9% in first nine months of 2026, behind only the US in the G7, after 0.7% Q3 GDP",
+   "detail": "The Resolution Foundation notes that Thursday's official data showed UK GDP rose 0.7% in the third quarter. It says cumulative growth of 1.9% so far in 2026 makes the UK the second-fastest-growing G7 economy after the US.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "35eb33703ce24ab8"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3n26odjnfcd2t",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3n26odjnfcd2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bf803689713b",
+   "created_at": "2026-11-13T09:31:03Z"
+  },
   {
    "id": "ca5865dda124",
    "ts": "2026-11-13T09:15:57Z",
@@ -6407,27 +6428,6 @@
    "model": "opus",
    "run_id": "1dd81f76b3c1",
    "created_at": "2026-11-11T18:31:07Z"
-  },
-  {
-   "id": "1bd03f380c46",
-   "ts": "2026-11-11T18:17:03Z",
-   "headline": "US-Russia-Ukraine talks in Abu Dhabi end with a prisoner swap but without a breakthrough, FT reports",
-   "detail": "The Financial Times reports that the Abu Dhabi talks, the first in about nine months after a pause caused by the war in Iran, ended with an agreed prisoner exchange but no breakthrough.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "da882978fe766e17"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n22ktv4cwq2y",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n22ktv4cwq2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c5b8a7fbe747",
-   "created_at": "2026-11-11T18:20:56Z"
   }
  ]
 }
