@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T17:15:52Z",
+ "generated_at": "2026-11-13T17:20:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7722552ec7a3",
+   "ts": "2026-11-13T17:20:26Z",
+   "headline": "Fed's Daly says her bias is towards higher rates, as overlapping shocks have shifted underlying US inflation",
+   "detail": "San Francisco Fed President Daly said her bias is for rates to rise and that several overlapping shocks have changed the underlying rate of inflation. She also said employment gains are broad-based, manufacturing is reviving, and there is little evidence so far that higher productivity is being driven by AI.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "e723b8ebdafb0863",
+    "26e8eb5c687fdab0",
+    "d4f4971c3469385c",
+    "39136d1df1ba94e6",
+    "1ec1f9813834a999"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27imiy2ed2o",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27imiy2ed2o"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27ilsbbab2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27ilsbbab2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27iffcfqc2o",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27iffcfqc2o"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27ig4hxa32y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27ig4hxa32y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27iiafjty2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27iiafjty2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "811431a17174",
+   "created_at": "2026-11-13T17:20:53Z"
+  },
   {
    "id": "7be59469333e",
    "ts": "2026-11-13T17:13:19Z",
@@ -6485,39 +6530,6 @@
    "model": "opus",
    "run_id": "64a6f5e63f3c",
    "created_at": "2026-11-12T11:15:55Z"
-  },
-  {
-   "id": "39e283a6e3e0",
-   "ts": "2026-11-12T11:07:42Z",
-   "headline": "EU's von der Leyen says the next Russia sanctions package and a Ukraine financing proposal will come before the new year",
-   "detail": "European Commission President von der Leyen said the Commission will present its next sanctions package and a proposal on financial rules for Ukraine before next year. She also said she strongly welcomes the peace talks in Abu Dhabi.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b8e7d5eb95d51d15",
-    "602b14eff29e7879",
-    "33a42ef728875742"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24dd2vrhl2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24dd2vrhl2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24dbmwjeu2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24dbmwjeu2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24dcdowug2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24dcdowug2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "de464ec67780",
-   "created_at": "2026-11-12T11:10:52Z"
   }
  ]
 }
