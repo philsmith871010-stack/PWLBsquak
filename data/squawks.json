@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T12:40:57Z",
+ "generated_at": "2026-11-13T12:50:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1a80db602cce",
+   "ts": "2026-11-13T12:49:55Z",
+   "headline": "Moscow tells Europe to name an envoy if it wants a role in Ukraine peace talks",
+   "detail": "The Financial Times reports that Moscow has told Europe to choose an envoy if it wants to take part in the Ukraine talks. EU foreign policy chief Kaja Kallas said Putin does not want to talk to her because she is strong.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5bf245fd1b202c5c"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n26zirnqnb23",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n26zirnqnb23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d191b511c151",
+   "created_at": "2026-11-13T12:50:50Z"
+  },
   {
    "id": "f1ec3682d016",
    "ts": "2026-11-13T12:37:12Z",
@@ -6330,27 +6351,6 @@
      "author": "financialtimes.com",
      "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n23qciwtoe2d",
      "url": "https://bsky.app/profile/financialtimes.com/post/3n23qciwtoe2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "87cb51ed6c20",
-   "created_at": "2026-11-12T06:15:47Z"
-  },
-  {
-   "id": "2dba4a9da55c",
-   "ts": "2026-11-12T04:29:05Z",
-   "headline": "China's central bank signals more room for monetary easing as growth holds up, WSJ reports",
-   "detail": "The Wall Street Journal reports that the People's Bank of China has signalled greater scope to ease monetary policy while growth remains firm.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "2e2b5690b6cc6c17"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23n2bz46v2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23n2bz46v2o"
     }
    ],
    "model": "opus",
