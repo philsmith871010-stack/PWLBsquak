@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T15:45:49Z",
+ "generated_at": "2026-11-13T15:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fb103efc9b9b",
+   "ts": "2026-11-13T15:50:15Z",
+   "headline": "Fed's Collins says AI is helping firms meet rising demand and is mostly complementing workers rather than replacing them",
+   "detail": "Boston Fed President Collins said she sees signs that AI is helping firms keep up with rising demand, and that she hears more about AI complementing labour than substituting for it. She also said construction productivity has declined.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ff95ccaa77e9aac5",
+    "d4f0f13644ed4fb7",
+    "f0bdf5684c9b833a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27dl7z66q2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27dl7z66q2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27dlxhmml2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27dlxhmml2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27dgcaie32c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27dgcaie32c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c33f4c527334",
+   "created_at": "2026-11-13T15:50:49Z"
+  },
   {
    "id": "8bd2dc7d082a",
    "ts": "2026-11-13T15:40:49Z",
@@ -6461,27 +6494,6 @@
    "model": "opus",
    "run_id": "d341e15d8c52",
    "created_at": "2026-11-12T10:01:13Z"
-  },
-  {
-   "id": "7a61dd62d2f4",
-   "ts": "2026-11-12T09:47:54Z",
-   "headline": "Russia's Ryabkov says the US is committed to resolving the Ukraine conflict",
-   "detail": "Russian Deputy Foreign Minister Ryabkov said Washington is committed to finding a solution to the war in Ukraine, according to reports. He also said that NATO's Supreme Commander Grinkevich being at the Abu Dhabi talks made the discussion of European security more professional.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "8797757185823e06"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n246ufccq52r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n246ufccq52r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "16dddb422fb6",
-   "created_at": "2026-11-12T09:50:47Z"
   }
  ]
 }
