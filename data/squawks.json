@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T08:31:00Z",
+ "generated_at": "2026-11-13T08:50:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7a16ab2e4237",
+   "ts": "2026-11-13T08:48:01Z",
+   "headline": "Irish Taoiseach says the terms of any Ukraine peace deal matter as much as who speaks for Europe at the talks",
+   "detail": "Ireland's Taoiseach commented on the Ukraine peace process after US envoys held talks with Zelenskiy in Dublin. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5e9c5c596983ab6e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26ly7meoi2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26ly7meoi2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9ea44c98c7fc",
+   "created_at": "2026-11-13T08:50:58Z"
+  },
   {
    "id": "0c459138e19a",
    "ts": "2026-11-13T08:25:37Z",
@@ -6383,27 +6404,6 @@
    "model": "opus",
    "run_id": "b608ceebd646",
    "created_at": "2026-11-11T17:01:12Z"
-  },
-  {
-   "id": "6f0173fe4d71",
-   "ts": "2026-11-11T16:50:12Z",
-   "headline": "Sterling falls against a stronger dollar as markets bet on a Fed rate hike next month",
-   "detail": "Reuters reports the pound fell against the dollar on Wednesday. The dollar strengthened across the board after US inflation data and hawkish comments from Federal Reserve officials the day before raised bets on a Fed hike next month.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "0ef318877742189f"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n22fyl2cpb2z",
-     "url": "https://bsky.app/profile/reuters.com/post/3n22fyl2cpb2z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1deaceddba49",
-   "created_at": "2026-11-11T16:50:48Z"
   }
  ]
 }
