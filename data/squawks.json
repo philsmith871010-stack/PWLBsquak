@@ -1,8 +1,92 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T13:45:49Z",
+ "generated_at": "2026-11-13T13:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "23bd0c0f8163",
+   "ts": "2026-11-13T13:49:08Z",
+   "headline": "Axios reports Israeli PM Netanyahu is pressing Trump to resume the war, as Mossad chief visits Washington",
+   "detail": "Axios reports that Netanyahu is pressing the US president to restart the war. Mossad head Roman Gofman is meeting CIA Director John Ratcliffe and is also expected to meet White House envoy Steve Witkoff.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4eb22c5ec10643c4",
+    "9cbd290cbebcb97c",
+    "608c05f53e4eb2cf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n274snmwwo2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n274snmwwo2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n274u3njpf2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n274u3njpf2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n274u3cva42y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n274u3cva42y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a0f30852fe5c",
+   "created_at": "2026-11-13T13:50:48Z"
+  },
+  {
+   "id": "60ee6f40cf50",
+   "ts": "2026-11-13T13:47:54Z",
+   "headline": "Fed's Goolsbee says the Fed has work to do to keep its credibility as inflation proves more persistent than expected",
+   "detail": "Speaking on CNBC, Chicago Fed President Goolsbee said inflation has spread into categories not driven by energy and is more persistent than a supply-shock story would suggest. He added that services and healthcare inflation do not look likely to change quickly, and that wages are a lagging indicator.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "3bcad5d7f464bf43",
+    "114a3430b0755cbb",
+    "4a43d5dff5c251ea",
+    "5d64f450c8c3b75f",
+    "e0574b5836e9d72e",
+    "e957192a186a2b30"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n274muvdww2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n274muvdww2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n274mumumk2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n274mumumk2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n274qh5zpp25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n274qh5zpp25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n274qguxsc2o",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n274qguxsc2o"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n274r6brp42g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n274r6brp42g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n274r6povj2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n274r6povj2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a0f30852fe5c",
+   "created_at": "2026-11-13T13:50:48Z"
+  },
   {
    "id": "711421fd332e",
    "ts": "2026-11-13T13:45:29Z",
@@ -6254,66 +6338,6 @@
    "model": "opus",
    "run_id": "01cc35ceb8c6",
    "created_at": "2026-11-12T07:40:45Z"
-  },
-  {
-   "id": "83e120eec471",
-   "ts": "2026-11-12T07:27:52Z",
-   "headline": "France's European affairs minister says the EU will approve further sanctions on Russia on Monday",
-   "detail": "France's European affairs minister, Haddad, said EU approval of a further package of sanctions on Russia is due on Monday.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "49fb0095f46e2489"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23wzxz56t2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23wzxz56t2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5778ff6966d1",
-   "created_at": "2026-11-12T07:31:10Z"
-  },
-  {
-   "id": "98f34f7a8ec5",
-   "ts": "2026-11-12T07:11:38Z",
-   "headline": "China's commerce ministry says Beijing and Washington are in close contact on tariff cuts, trade and investment",
-   "detail": "China's commerce ministry said it is in close communication with the US over tariff reduction, trade and investment, and on interaction between Xi and Trump. It added that China is willing to keep strengthening cooperation and to manage differences properly.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e4c2736021ea5818",
-    "7a63af4135f4cce0",
-    "15460780a8a4eaaa",
-    "224af8c180b3f899"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23w4xh6j22c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23w4xh6j22c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23wfb4ji22y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23wfb4ji22y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23wfbp47e2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23wfbp47e2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23wfber5k25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23wfber5k25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5778ff6966d1",
-   "created_at": "2026-11-12T07:31:10Z"
   }
  ]
 }
