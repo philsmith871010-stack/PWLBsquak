@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T18:15:56Z",
+ "generated_at": "2026-11-13T18:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f95d454a7d03",
+   "ts": "2026-11-13T18:25:07Z",
+   "headline": "Fed's Logan says the US Treasury market is working well despite rate volatility but the Fed should bolster its support tools",
+   "detail": "Dallas Fed President Lorie Logan said on Friday that banks have improved their access to contingent funding over the past three years. She also said the Fed should strengthen its support tools for both the Treasury market and bank funding, Reuters reported.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "11cc62b92d6c4806"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n27ma5vpux2o",
+     "url": "https://bsky.app/profile/reuters.com/post/3n27ma5vpux2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2aed6e904802",
+   "created_at": "2026-11-13T18:25:42Z"
+  },
   {
    "id": "bf0d43de79ff",
    "ts": "2026-11-13T18:13:29Z",
@@ -6461,57 +6482,6 @@
    "model": "opus",
    "run_id": "57834f437e72",
    "created_at": "2026-11-12T12:20:50Z"
-  },
-  {
-   "id": "249681490fd4",
-   "ts": "2026-11-12T12:15:43Z",
-   "headline": "US envoy Witkoff tells Putin meeting the Abu Dhabi contacts were held in a positive atmosphere",
-   "detail": "Witkoff and Kushner are meeting Putin, with Russian officials Medinsky, Dmitriev and Ushakov also present. Reports say Putin told the envoys it was important for him to hear their assessment of the Abu Dhabi talks, and that he noted the success of humanitarian efforts in Ukraine.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "38d928c84a42748a",
-    "fe9576442676397f",
-    "2eea5d65e13a466d",
-    "0bcd232af84b1144",
-    "358265159e18b56c",
-    "3149fb65986591dd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24h4oq56f2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24h4oq56f2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24gwdrkxo2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24gwdrkxo2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24h4oeq2n2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24h4oeq2n2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24gx2nkps2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24gx2nkps2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24h3wudld2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24h3wudld2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24h3x7f4d2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24h3x7f4d2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fcb15a0d8df8",
-   "created_at": "2026-11-12T12:15:54Z"
   }
  ]
 }
