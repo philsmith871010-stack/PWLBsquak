@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T06:20:57Z",
+ "generated_at": "2026-11-13T07:01:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d209e3426c36",
+   "ts": "2026-11-13T07:01:01Z",
+   "headline": "German wholesale prices rise 0.4% in the month, with the annual rate edging up to 8.8% from 8.7%",
+   "detail": "German wholesale price data show a 0.4% monthly rise, down from 1.9% previously. The annual rate is 8.8%, up from 8.7%, and no forecast was given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "5dde761a12452ff7",
+    "cb201f8b5e1c9bfe"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26fyvlenw2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26fyvlenw2k"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26fyvuhle2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26fyvuhle2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "feffb10c8082",
+   "created_at": "2026-11-13T07:01:15Z"
+  },
   {
    "id": "729e317f64b4",
    "ts": "2026-11-13T06:07:31Z",
@@ -6299,27 +6326,6 @@
    "model": "opus",
    "run_id": "84d40cf905ee",
    "created_at": "2026-11-11T15:40:51Z"
-  },
-  {
-   "id": "aa913fbb2cfb",
-   "ts": "2026-11-11T15:34:34Z",
-   "headline": "Fed officials reportedly split over whether New York Fed President Williams should leave in 2027 or 2028",
-   "detail": "Sources say there is an internal Federal Reserve debate over the timing of New York Fed President John Williams' departure, with 2027 and 2028 both under consideration. No market reaction was reported.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ce11f7078208184d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22brdulxm2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22brdulxm2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e5135e2d32cb",
-   "created_at": "2026-11-11T15:35:43Z"
   }
  ]
 }
