@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T14:45:49Z",
+ "generated_at": "2026-11-13T14:55:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1b92aece74f5",
+   "ts": "2026-11-13T14:52:49Z",
+   "headline": "EU sets 18 November deadline for ECB Executive Board vacancies other than the presidency",
+   "detail": "An EU official says a new deadline of 18 November has been set for candidates for the ECB Executive Board vacancies, excluding the presidency.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f7ac2a2f5c891ead"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27aek3h462s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27aek3h462s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4f43979a5ea4",
+   "created_at": "2026-11-13T14:55:42Z"
+  },
   {
    "id": "c8db6860a620",
    "ts": "2026-11-13T14:40:57Z",
@@ -6395,27 +6416,6 @@
    "model": "opus",
    "run_id": "9bfa24d95773",
    "created_at": "2026-11-12T09:01:15Z"
-  },
-  {
-   "id": "fdcc2939ea30",
-   "ts": "2026-11-12T08:44:29Z",
-   "headline": "Gassco extends reduced capacity at Norway's Troll gas field by one day to Saturday",
-   "detail": "Norwegian gas system operator Gassco says the capacity reduction at the Troll field will now last one extra day, until Saturday. No figure for the size of the reduction was given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "f3d04a2c41dfe984"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n243cy7j5l2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n243cy7j5l2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "11236f963de6",
-   "created_at": "2026-11-12T08:45:53Z"
   }
  ]
 }
