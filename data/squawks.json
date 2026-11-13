@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T12:25:41Z",
+ "generated_at": "2026-11-13T12:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "80d9f99267e4",
+   "ts": "2026-11-13T12:32:32Z",
+   "headline": "Norway's energy minister says he will not seek a production halt at three oilfields after Supreme Court ruling",
+   "detail": "Norway's energy minister said the government will correct what is needed for the three oilfields whose approvals the Supreme Court ruled invalid. He said permit conditions are now stricter after the verdict.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "a0d4ceb3ea916b36",
+    "2852bd22ab588a76",
+    "45bfc7663a95ecb2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26yhlclwe2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26yhlclwe2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26yiylbg32c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26yiylbg32c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26yjp7uyk2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26yjp7uyk2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a649bdd08cd2",
+   "created_at": "2026-11-13T12:35:41Z"
+  },
   {
    "id": "3cab4638835c",
    "ts": "2026-11-13T12:22:48Z",
@@ -6330,27 +6363,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23k7rk4on2q",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23k7rk4on2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "adc7243769fe",
-   "created_at": "2026-11-12T06:10:54Z"
-  },
-  {
-   "id": "9f6e0dbc7215",
-   "ts": "2026-11-12T01:52:55Z",
-   "headline": "Japan's 5-year government bond yield falls 2bp to 2.170%",
-   "detail": "The 5-year JGB yield fell 2bp to 2.170% in Asian trade, after BoJ board member Asada's remarks urging caution on rate rises.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "728bf4928c1bfddd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23eczwk5h2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23eczwk5h2y"
     }
    ],
    "model": "opus",
