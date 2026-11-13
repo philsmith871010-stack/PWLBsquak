@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T12:35:41Z",
+ "generated_at": "2026-11-13T12:40:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f1ec3682d016",
+   "ts": "2026-11-13T12:37:12Z",
+   "headline": "Merz says Germany will definitely take part in Ukraine peace talks",
+   "detail": "German Chancellor Friedrich Merz said Germany's participation in the Ukraine negotiations is assured. He made the comment as European leaders push for a seat at the next round of talks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3f3699a82721cd71"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26ys23gkg2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26ys23gkg2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6e69e0822ff7",
+   "created_at": "2026-11-13T12:40:57Z"
+  },
   {
    "id": "80d9f99267e4",
    "ts": "2026-11-13T12:32:32Z",
@@ -6335,39 +6356,6 @@
    "model": "opus",
    "run_id": "87cb51ed6c20",
    "created_at": "2026-11-12T06:15:47Z"
-  },
-  {
-   "id": "9829450ff74b",
-   "ts": "2026-11-12T03:12:52Z",
-   "headline": "Dollar reaches a 19-month high as markets price further Fed tightening and the yen weakens",
-   "detail": "The dollar rose to its strongest level in 19 months in Asian trade on bets on further Federal Reserve tightening. Asian currencies came under renewed pressure, and the New Zealand dollar fell as traders weighed a bigger Fed rate rise.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "c5d041913daa3dbc",
-    "acaaf3597a0ef9c1",
-    "e115bb971a2de04c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23irytdi527",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23irytdi527"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23jrxfmmy2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23jrxfmmy2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23k7rk4on2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23k7rk4on2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "adc7243769fe",
-   "created_at": "2026-11-12T06:10:54Z"
   }
  ]
 }
