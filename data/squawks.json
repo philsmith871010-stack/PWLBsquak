@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T17:35:47Z",
+ "generated_at": "2026-11-13T17:45:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fdf4afe1f097",
+   "ts": "2026-11-13T17:45:35Z",
+   "headline": "EU's von der Leyen says ending the war must be the focus and the EU will keep supporting Ukraine after it ends",
+   "detail": "European Commission President Ursula von der Leyen said the EU will support Ukraine while maintaining its own interests, and that ending the war must be the priority. She spoke on Friday evening, alongside separate remarks from EU Council President Costa that Ukraine's financial needs will be discussed at the next EU Council.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "eec2ef3c621c0084",
+    "03dc96b80ea6365c",
+    "cba90cd6590bb627",
+    "410d1791670d2812"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27jzhdou52d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27jzhdou52d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27jxzquii2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27jxzquii2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27jyqpqay2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27jyqpqay2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27jttw4tn2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27jttw4tn2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "87234a658496",
+   "created_at": "2026-11-13T17:45:53Z"
+  },
   {
    "id": "a3f1f8f00fc4",
    "ts": "2026-11-13T17:32:44Z",
@@ -6539,39 +6578,6 @@
    "model": "opus",
    "run_id": "bd022696f306",
    "created_at": "2026-11-12T12:01:10Z"
-  },
-  {
-   "id": "77f3301f3a7c",
-   "ts": "2026-11-12T11:54:15Z",
-   "headline": "NATO's Rutte calls Abu Dhabi talks news positive but says whether Russia will cooperate will be judged later",
-   "detail": "NATO Secretary General Mark Rutte described the outcome of the Abu Dhabi talks on Ukraine as positive and said Russia's willingness to cooperate would be assessed later. He also said Ukraine needs to be as strong as possible, both in the fighting and in negotiations with Russia.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "82c3e6c7d5f8f905",
-    "e5f92b9d85f50a10",
-    "5b7adf04f4650b21"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24fvm5ang2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24fvm5ang2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24fwcqm5e2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24fwcqm5e2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24fyfq7pu2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24fyfq7pu2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bf82966df381",
-   "created_at": "2026-11-12T11:55:39Z"
   }
  ]
 }
