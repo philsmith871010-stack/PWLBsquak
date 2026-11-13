@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T08:50:58Z",
+ "generated_at": "2026-11-13T09:01:14Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3c99bd3f4071",
+   "ts": "2026-11-13T08:58:07Z",
+   "headline": "Von der Leyen welcomes Russia-Ukraine prisoner exchange and says Europe must be at the table in peace talks",
+   "detail": "European Commission President Ursula von der Leyen welcomed the exchange of prisoners of war between Russia and Ukraine. She also said Europe's place in the peace talks should go without saying.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d45964aeed07e106",
+    "50288de4dbabfc5c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26mkc3umv2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26mkc3umv2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26mkysckd2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26mkysckd2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2c51273ca0e2",
+   "created_at": "2026-11-13T09:01:14Z"
+  },
   {
    "id": "7a16ab2e4237",
    "ts": "2026-11-13T08:48:01Z",
@@ -6383,27 +6410,6 @@
    "model": "opus",
    "run_id": "6ba1002367bc",
    "created_at": "2026-11-11T17:10:52Z"
-  },
-  {
-   "id": "c09bcc928cd0",
-   "ts": "2026-11-11T16:59:30Z",
-   "headline": "Ukraine's military says it struck Russia's Baltic oil port of Ust-Luga, damaging storage tanks",
-   "detail": "Ukraine's military said it carried out a strike on the Russian Baltic port of Ust-Luga and that tanks at the port were damaged. No market reaction was reported.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "5e1b511952570444"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22gj7mezs2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22gj7mezs2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b608ceebd646",
-   "created_at": "2026-11-11T17:01:12Z"
   }
  ]
 }
