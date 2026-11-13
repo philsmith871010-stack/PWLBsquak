@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T15:50:49Z",
+ "generated_at": "2026-11-13T15:55:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c2830462c156",
+   "ts": "2026-11-13T15:51:28Z",
+   "headline": "Fed's Collins says she sees evidence that financial markets are stable and working well",
+   "detail": "Boston Fed President Collins made the comment before ending her remarks on Friday.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "246276df1c34a25d",
+    "238b67d115e1ceac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27dngctgy2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27dngctgy2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27dngk2jt2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27dngk2jt2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "99bb330f8e5f",
+   "created_at": "2026-11-13T15:55:42Z"
+  },
   {
    "id": "fb103efc9b9b",
    "ts": "2026-11-13T15:50:15Z",
@@ -6473,27 +6500,6 @@
    "model": "opus",
    "run_id": "7affa8084de4",
    "created_at": "2026-11-12T10:25:40Z"
-  },
-  {
-   "id": "837bb8e15259",
-   "ts": "2026-11-12T10:00:08Z",
-   "headline": "Resolution Foundation says UK GDP has grown 1.9% over the first nine months of the year",
-   "detail": "Following the third-quarter GDP release, the Resolution Foundation said UK output rose 1.9% over the first nine months of the year. It said this puts the UK on track to be the second-fastest growing economy in the G7.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "f93cad447d34a256"
-   ],
-   "sources": [
-    {
-     "author": "resolutionfoundation.org",
-     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3n247kb4uu42t",
-     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3n247kb4uu42t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d341e15d8c52",
-   "created_at": "2026-11-12T10:01:13Z"
   }
  ]
 }
