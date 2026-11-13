@@ -1,8 +1,221 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T06:10:48Z",
+ "generated_at": "2026-11-13T06:15:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cbec3b8fa25c",
+   "ts": "2026-11-13T05:46:29Z",
+   "headline": "Dollar/yen briefly touches 160 and the dollar index reaches a 19-month high",
+   "detail": "Dollar/yen briefly hit 160 before trading at 159.96. Separately, the dollar index was reported at a 19-month high as markets priced in a December Fed hike.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d8dcc3aa70651b69",
+    "0ded84e95d64f143",
+    "227d351de114bf78"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26btm4cox2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26btm4cox2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26bx42x7p2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26bx42x7p2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26cospb5p2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26cospb5p2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8cc820d4bab9",
+   "created_at": "2026-11-13T06:15:55Z"
+  },
+  {
+   "id": "ad2bb553a2b3",
+   "ts": "2026-11-13T05:11:54Z",
+   "headline": "ECB's Lane says rising long-term rates are weighing on AI deployment in Europe",
+   "detail": "ECB chief economist Philip Lane made the remarks in comments reported by the Financial Times.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0fab474ff4b771f7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n267vr5et72q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n267vr5et72q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8cc820d4bab9",
+   "created_at": "2026-11-13T06:15:55Z"
+  },
+  {
+   "id": "4104c2b5f0fd",
+   "ts": "2026-11-13T05:07:12Z",
+   "headline": "German budget committee approves 2027 budget with €123bn of core borrowing and €561bn of spending",
+   "detail": "A document shows Germany's 2027 core federal budget includes €123bn in debt, total spending of €561bn and investment of €62bn. Backing from the budget committee clears the way for approval by parliament.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "97af0d384309f0f4",
+    "a1cdf8eabb49aaa7",
+    "abadff203936689e",
+    "fd581136050e80ff",
+    "0eaa6ba17224de1c",
+    "81a33817098be9e6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n267ne2jt72m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n267ne2jt72m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n267ndsoyd2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n267ndsoyd2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n267o2lygy2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n267o2lygy2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n267pi2zk32g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n267pi2zk32g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n267q74ey72r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n267q74ey72r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n267q7kj5w2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n267q7kj5w2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8cc820d4bab9",
+   "created_at": "2026-11-13T06:15:55Z"
+  },
+  {
+   "id": "bbe1eebc7084",
+   "ts": "2026-11-13T04:42:42Z",
+   "headline": "Japan PM Takaichi says Japan is in close contact with US authorities on FX and will work to keep markets orderly",
+   "detail": "Takaichi would not discuss currency levels. She said several factors drive exchange rates and that Japan's economic and fiscal policy is not designed to influence FX.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "652dc0087ffa4ea1",
+    "fcc577dba9775262",
+    "658f8eca44aa691a",
+    "e3207a66aa6de675",
+    "4f2a5a4a182e9f1d",
+    "3cc49d829a0415a6",
+    "be469b0254d31e19",
+    "929382aa492c982b",
+    "1fd00285eab11d5b",
+    "487a2e53fdd3c73e",
+    "d82e1c0e40a950f2",
+    "ea4520b822bfd668"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n266bkmhm62m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n266bkmhm62m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n266atydwf2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n266atydwf2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n266atjm662y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n266atjm662y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n266cbwbsw2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n266cbwbsw2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n266cyzvzh25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n266cyzvzh25"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n266dpx6t52r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n266dpx6t52r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n266egma6q2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n266egma6q2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n266f5h2mq2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n266f5h2mq2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n266gknrta2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n266gknrta2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n266glcboa2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n266glcboa2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n266io2m4g2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n266io2m4g2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n266jfhzp32g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n266jfhzp32g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8cc820d4bab9",
+   "created_at": "2026-11-13T06:15:55Z"
+  },
+  {
+   "id": "4ad2afef5f5c",
+   "ts": "2026-11-13T04:17:52Z",
+   "headline": "Japan's 10-year government bond yield extends its rise, up 8.5bp at 2.875%",
+   "detail": "The 10-year JGB yield was reported 8.5bp higher at 2.875% in Tokyo trade, above the 2.860% level recorded earlier in the session.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "b13e8df05c906c70"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n264v5bgks2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n264v5bgks2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8cc820d4bab9",
+   "created_at": "2026-11-13T06:15:55Z"
+  },
   {
    "id": "3fc31afa4515",
    "ts": "2026-11-13T03:51:31Z",
@@ -6101,135 +6314,6 @@
    "model": "opus",
    "run_id": "b1ea9890f7ce",
    "created_at": "2026-11-11T15:20:49Z"
-  },
-  {
-   "id": "b203bea0f932",
-   "ts": "2026-11-11T15:19:42Z",
-   "headline": "Brent crude extends gains, up $2 a barrel amid uncertainty over talks to end the Iran and Ukraine wars",
-   "detail": "Oil futures extended their rise, with Brent reported up $2 a barrel, citing uncertainty over negotiations to end the wars in Iran and Ukraine.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "4ee0698ad11eb3b6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22awrnyll2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22awrnyll2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b1ea9890f7ce",
-   "created_at": "2026-11-11T15:20:49Z"
-  },
-  {
-   "id": "741c86363fa4",
-   "ts": "2026-11-11T15:11:28Z",
-   "headline": "Russia's chief negotiator Medinsky says a fair security system from the talks would secure peace in Europe for decades",
-   "detail": "Medinsky made the remarks after the Abu Dhabi talks on a Ukraine settlement, according to reports from Russia. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f8c1d8ba7a6e62ce"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22ahzup4u2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22ahzup4u2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "768c5a3a5b42",
-   "created_at": "2026-11-11T15:15:45Z"
-  },
-  {
-   "id": "9a698571fe58",
-   "ts": "2026-11-11T15:10:39Z",
-   "headline": "Chancellor Healey says fiscal headroom should be used when needed and rebuilt when possible",
-   "detail": "UK Chancellor Healey set out her approach to fiscal headroom: draw on it when it is needed and restore it when conditions allow. The post gave no figures.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "b83379f2da5c448c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22aglribi2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22aglribi2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ccdbf88b5f52",
-   "created_at": "2026-11-11T15:10:49Z"
-  },
-  {
-   "id": "1e987c9e49ad",
-   "ts": "2026-11-11T15:05:53Z",
-   "headline": "Russia's chief negotiator Medinsky rules out territorial swaps with Ukraine and says the border security zone will keep growing",
-   "detail": "TASS and Vesti report that Medinsky said Russia sees no possibility of territorial exchanges with Ukraine. He also said the security zone along the border is substantial and will expand further, and that a fair security system could secure peace in Europe for decades.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f6eaf514db4a4c58",
-    "f4687f5e3ad4f04f",
-    "54af7e46b6e49d47",
-    "5e5683039196e137",
-    "8fccac25386ffd9d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22a62m5kq2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22a62m5kq2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22aa6htko2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22aa6htko2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22abmmurk2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22abmmurk2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22ace33zp2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22ace33zp2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22aeifg4b2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22aeifg4b2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ccdbf88b5f52",
-   "created_at": "2026-11-11T15:10:49Z"
-  },
-  {
-   "id": "1182205b0fe7",
-   "ts": "2026-11-11T15:05:27Z",
-   "headline": "Chancellor Healey says an end to the Middle East war would be the biggest single economic gain for the UK",
-   "detail": "UK Chancellor Rachel Healey made the remarks on Wednesday, according to a market news account. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2216335287d096b9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22a5ccufc2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22a5ccufc2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1f4928d9bb27",
-   "created_at": "2026-11-11T15:05:40Z"
   }
  ]
 }
