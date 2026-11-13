@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T09:35:46Z",
+ "generated_at": "2026-11-13T09:40:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2518be3c9853",
+   "ts": "2026-11-13T09:39:08Z",
+   "headline": "Bank of England says its critical operations are unaffected by the Microsoft outage",
+   "detail": "The Bank of England said on 13 November that its critical operations have not been affected by the ongoing Microsoft outage.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "addf9fa0d81147ec"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26otmftqz2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26otmftqz2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1dac049a8ae0",
+   "created_at": "2026-11-13T09:40:51Z"
+  },
   {
    "id": "c17c4f47c0a3",
    "ts": "2026-11-13T09:31:43Z",
@@ -6401,33 +6422,6 @@
    "model": "opus",
    "run_id": "7d6adac57adf",
    "created_at": "2026-11-11T18:40:48Z"
-  },
-  {
-   "id": "3af8024c0741",
-   "ts": "2026-11-11T18:35:38Z",
-   "headline": "Houthis claim cruise missile attack on Riyadh's King Khalid airport and a drone strike on a pumping station in Saudi Arabia's Yanbu region",
-   "detail": "Yemen's Houthis said they fired three cruise missiles at King Khalid airport in Riyadh and attacked a pumping station in the Yanbu region with a drone. Saudi Arabia had earlier reportedly said it intercepted three Houthi cruise missiles over Riyadh; no market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "96330e5696ffd873",
-    "a84cc678c55fbbf3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22lv442aj2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22lv442aj2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22lv4ojvt2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22lv4ojvt2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "49727a485a1b",
-   "created_at": "2026-11-11T18:35:42Z"
   }
  ]
 }
