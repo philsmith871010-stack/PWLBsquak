@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T13:35:42Z",
+ "generated_at": "2026-11-13T13:40:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "709c63016241",
+   "ts": "2026-11-13T13:40:38Z",
+   "headline": "Fed's Goolsbee says US inflation is broad-based and moving in the wrong direction",
+   "detail": "Chicago Fed President Austan Goolsbee said inflation is broad-based and heading the wrong way, according to a market commentary account.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "ed77013475bd0655"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n274dhvtzm2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n274dhvtzm2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fee9187132eb",
+   "created_at": "2026-11-13T13:40:49Z"
+  },
+  {
+   "id": "36c9400c8c97",
+   "ts": "2026-11-13T13:36:44Z",
+   "headline": "Traders scale back expected Fed tightening after US October PPI report",
+   "detail": "Market pricing moved towards less Fed tightening after the US October producer price data, according to a market commentary account. No figures for the change in pricing were given.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "43b917a67de23641"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2744iexcp2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2744iexcp2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fee9187132eb",
+   "created_at": "2026-11-13T13:40:49Z"
+  },
   {
    "id": "988172b2169f",
    "ts": "2026-11-13T13:33:33Z",
@@ -6260,114 +6302,6 @@
    "model": "opus",
    "run_id": "b005fb7c9080",
    "created_at": "2026-11-12T07:05:40Z"
-  },
-  {
-   "id": "c782fd4841fa",
-   "ts": "2026-11-12T07:01:24Z",
-   "headline": "UK manufacturing output rises 0.7% in September against a forecast 0.5% fall; industrial production up 0.3%",
-   "detail": "ONS data show September industrial production rose 0.3% on the month against a forecast -0.4%, and manufacturing rose 4.4% year on year against a 3.8% forecast. Construction output rose 0.8% on the month against a forecast 0.0%.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "72db20ab5bd740a7",
-    "f37226597c362c01",
-    "4c1d05707bae7ab7",
-    "522481797b350fce",
-    "218ef4936ce77eef",
-    "920fd54bcccc4845"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23vkmzca325",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23vkmzca325"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23vkncl4q2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23vkncl4q2o"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23vkoe6aj2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23vkoe6aj2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23vqdwe4j27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23vqdwe4j27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23vr42jxg2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23vr42jxg2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23vr4n3sq2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23vr4n3sq2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b005fb7c9080",
-   "created_at": "2026-11-12T07:05:40Z"
-  },
-  {
-   "id": "4c06f76ef68a",
-   "ts": "2026-11-12T07:00:59Z",
-   "headline": "UK GDP grows 0.7% in the third quarter, in line with forecasts, while monthly GDP rises 0.2% against an expected 0%",
-   "detail": "The preliminary estimate shows annual growth of 1.9%, matching forecasts, up from 0.5% quarterly and 1.4% annual growth previously; services rose 0.2% on the month against a forecast of 0%. Construction output rose 0.8% month on month (forecast -0.1%), industrial production grew 3.1% year on year (forecast 2.8%) and business investment rose 0.43% quarter on quarter (forecast 0.6%, previous 1.8%).",
-   "category": "data",
-   "importance": 3,
-   "source_event_ids": [
-    "5e24c575b67cd817",
-    "961163f4d8e7bd91",
-    "6e2b0c591aab563f",
-    "8df705883aafa2c7",
-    "adbbf396d2197f7e",
-    "9ec244592a5164dc",
-    "cbedf403f9e84d79"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23vjv7o3i2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23vjv7o3i2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23vjvrxbj2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23vjvrxbj2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23vjupiqb2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23vjupiqb2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23vjvinby2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23vjvinby2o"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23vjw2x3h2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23vjw2x3h2i"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23vjubges2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23vjubges2o"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23vjuy6vg22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23vjuy6vg22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fc1a50a9d69f",
-   "created_at": "2026-11-12T07:01:12Z"
   }
  ]
 }
