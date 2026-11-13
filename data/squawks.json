@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T08:20:54Z",
+ "generated_at": "2026-11-13T08:31:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0c459138e19a",
+   "ts": "2026-11-13T08:25:37Z",
+   "headline": "NIESR Economic Outlook argues deferred decisions in the Budget and by the BoE are creating headwinds for the UK economy",
+   "detail": "The National Institute of Economic and Social Research has published its Economic Outlook, titled 'Decisions Deferred'. It says hesitant policy from the government and the Bank of England adds to the economic pressures on UK households.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "774f69b7a3536a31"
+   ],
+   "sources": [
+    {
+     "author": "jamessmithniesr.bsky.social",
+     "uri": "at://did:plc:dexo2jmyeby7i3tljuqjzbjg/app.bsky.feed.post/3n26kq62uj22j",
+     "url": "https://bsky.app/profile/jamessmithniesr.bsky.social/post/3n26kq62uj22j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6dfb626f0615",
+   "created_at": "2026-11-13T08:31:00Z"
+  },
   {
    "id": "7deabd940065",
    "ts": "2026-11-13T08:16:04Z",
@@ -6383,69 +6404,6 @@
    "model": "opus",
    "run_id": "1deaceddba49",
    "created_at": "2026-11-11T16:50:48Z"
-  },
-  {
-   "id": "9a3aba72b9fb",
-   "ts": "2026-11-11T16:41:54Z",
-   "headline": "Iran's parliament speaker Ghalibaf says Iran and Oman have agreed a Hormuz shipping lane and traffic separation arrangement",
-   "detail": "In an interview with Al Jazeera, Ghalibaf said Iran had reached an understanding with Oman on the shipping route and traffic separation system in the Strait of Hormuz, but that the strait will not go back to how it was before the war because this is one of Iran's seven conditions. He also said Iran does not want the war to go on but its demands must be met, and offered to help Saudi Arabia and the Houthis settle their differences if asked.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "17126ff429c46ac1",
-    "5adb97fb0c639c6f",
-    "0d3fc1f8e00f3929",
-    "a23d2101eece2435",
-    "9f86cb548cd026a9",
-    "797457510e6d0354",
-    "f9b4484c3a7089b6",
-    "4f30e7ff0baa812b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22fjqw4h22a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22fjqw4h22a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22fl6bwkr2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22fl6bwkr2n"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22flwchkg2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22flwchkg2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22fot52sh2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22fot52sh2i"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22fnfejkx2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22fnfejkx2i"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22fnfr6tp2i",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22fnfr6tp2i"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22fizlqxt2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22fizlqxt2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22fpjy2iz2n",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22fpjy2iz2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bcf7af65891f",
-   "created_at": "2026-11-11T16:45:51Z"
   }
  ]
 }
