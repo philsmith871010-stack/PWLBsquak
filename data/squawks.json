@@ -1,8 +1,80 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T17:31:02Z",
+ "generated_at": "2026-11-13T17:35:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a3f1f8f00fc4",
+   "ts": "2026-11-13T17:32:44Z",
+   "headline": "Fed's Daly says services inflation excluding housing is not moving in the right direction",
+   "detail": "San Francisco Fed President Daly said she is watching services inflation excluding housing closely. She also said the FOMC must be transparent, accountable and clear.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ae7a255dfb3fec93",
+    "1a33a095c67e2103"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27jci6glx2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27jci6glx2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27j7migxf2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27j7migxf2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "70888d7696a0",
+   "created_at": "2026-11-13T17:35:47Z"
+  },
+  {
+   "id": "a2505fede6fb",
+   "ts": "2026-11-13T17:31:55Z",
+   "headline": "EU's Costa confirms EU institutions and E5 will negotiate for Europe on Ukraine; next summit to discuss Ukraine's financing",
+   "detail": "European Council President Costa said leaders agreed that the EU institutions plus Germany, France, Italy, Poland and the UK will form Europe's team in Ukraine peace talks. He added that the next EU Council will discuss Ukraine's financing needs for next year and beyond.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "86c642f6dd4c07cd",
+    "85a32cb4de95494c",
+    "e7b4a86a94b9166b",
+    "c53f6ff5a42cc4e6",
+    "db739b84597f2e51"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27jazy3uk2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27jazy3uk2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27jbqm2x72r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27jbqm2x72r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27jchvcax2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27jchvcax2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27jem66kn2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27jem66kn2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27j7m7am32d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27j7m7am32d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "70888d7696a0",
+   "created_at": "2026-11-13T17:35:47Z"
+  },
   {
    "id": "593e522b04af",
    "ts": "2026-11-13T17:27:12Z",
@@ -6500,48 +6572,6 @@
    "model": "opus",
    "run_id": "bf82966df381",
    "created_at": "2026-11-12T11:55:39Z"
-  },
-  {
-   "id": "181ef6899e65",
-   "ts": "2026-11-12T11:42:12Z",
-   "headline": "France's Macron says Europe needs a clear, united vision of what it wants for Ukraine",
-   "detail": "French President Macron said on Thursday that Europe must have a clear and shared position on its goals for Ukraine. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d37ecbf7b048c0ca"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24faqufo22j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24faqufo22j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "379b331f1c7b",
-   "created_at": "2026-11-12T11:45:50Z"
-  },
-  {
-   "id": "e19b88a7a870",
-   "ts": "2026-11-12T11:41:24Z",
-   "headline": "Iran says reviewing an exit from the nuclear Non-Proliferation Treaty is now a national demand",
-   "detail": "Iran described its review of withdrawing from the NPT as having become a national demand, Fars news agency reported. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "05a287a8b67f5351"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24f7dlzz22j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24f7dlzz22j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "379b331f1c7b",
-   "created_at": "2026-11-12T11:45:50Z"
   }
  ]
 }
