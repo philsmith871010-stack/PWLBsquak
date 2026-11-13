@@ -1,8 +1,89 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T09:05:49Z",
+ "generated_at": "2026-11-13T09:10:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "749aeba1a666",
+   "ts": "2026-11-13T09:10:46Z",
+   "headline": "IEA says observed global oil inventories rose by 52m barrels in October, the first increase since June",
+   "detail": "The International Energy Agency reported that observed oil stocks rose by 52 million barrels in October, the first monthly build since June.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "82bf35b63276fe74"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26navcxwz2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26navcxwz2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "76d10e178a0c",
+   "created_at": "2026-11-13T09:10:49Z"
+  },
+  {
+   "id": "c6880ff3d0dd",
+   "ts": "2026-11-13T09:10:21Z",
+   "headline": "China's new yuan loans total CNY11.42T in January to October, below the CNY11.6T forecast",
+   "detail": "Chinese data showed January–October new yuan loans of CNY11.42T against a forecast of CNY11.600T, and aggregate financing of CNY28.61T against a forecast of CNY28.908T.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0ae200a1d6d7c81d",
+    "d9a92f6596083123"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26na5m7ks2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26na5m7ks2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26nauxqkl2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26nauxqkl2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "76d10e178a0c",
+   "created_at": "2026-11-13T09:10:49Z"
+  },
+  {
+   "id": "a6ef61368fc2",
+   "ts": "2026-11-13T09:08:45Z",
+   "headline": "German economy ministry expects pressure on the economy to ease by year-end but says the labour market has not yet recovered",
+   "detail": "In its assessment, Germany's economy ministry said leading indicators have stabilised but the recovery has not yet reached the labour market. It also said the consumer-related sector remains subdued.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "37c0ee69cf326171",
+    "22c692d949b8c97e",
+    "f727d9dda07e6cae"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26n5cg4qi2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26n5cg4qi2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26n5zjd3c2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26n5zjd3c2r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26n7gpmvn2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26n7gpmvn2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "76d10e178a0c",
+   "created_at": "2026-11-13T09:10:49Z"
+  },
   {
    "id": "cffe7ac143cf",
    "ts": "2026-11-13T09:02:27Z",
@@ -6335,81 +6416,6 @@
    "model": "opus",
    "run_id": "3492fc8eb2db",
    "created_at": "2026-11-11T18:10:48Z"
-  },
-  {
-   "id": "b108df674c3e",
-   "ts": "2026-11-11T18:05:05Z",
-   "headline": "Iran attacks ship navigation systems on Oman's Didamar island in the Strait of Hormuz, sources say",
-   "detail": "Reuters cites three sources with knowledge of the matter as confirming that Iran attacked shipping navigation systems on the Omani island, which is infrastructure used to restore Gulf oil flows. No market reaction was reported in the posts.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3c01d240d83d032a",
-    "76b7b80b85495625"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n22k6hxpjc2q",
-     "url": "https://bsky.app/profile/reuters.com/post/3n22k6hxpjc2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22k6lvtgm2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22k6lvtgm2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1fdabc45ef55",
-   "created_at": "2026-11-11T18:05:42Z"
-  },
-  {
-   "id": "ad3cbbbbe311",
-   "ts": "2026-11-11T17:58:06Z",
-   "headline": "US seeks to close Iran's land borders to tighten blockade, but neighbouring states push back, NYT reports",
-   "detail": "The New York Times reports that Washington wants to step up economic pressure on Iran by sealing its land borders. Neighbouring countries are resisting because they fear the economic fallout.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1283212adf4bfdba"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22jrz2eaq2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22jrz2eaq2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "22ed630d50d3",
-   "created_at": "2026-11-11T18:01:15Z"
-  },
-  {
-   "id": "9d8309bf9075",
-   "ts": "2026-11-11T17:24:10Z",
-   "headline": "Iran's parliament speaker Ghalibaf warns Trump he would be defeated if he returns to war, and says the US must decide",
-   "detail": "Iranian reports quote parliament speaker Ghalibaf as saying it is now up to the US to decide whether talks continue, which requires it to meet Iran's seven conditions. He also said Trump would face defeat if he chose to go to war again.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6c93cf5fd85c4fef",
-    "0b7f8e55b1cf4d80"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22hvdleri2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22hvdleri2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n22hruljaz2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n22hruljaz2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cc3c59bf91cd",
-   "created_at": "2026-11-11T17:25:41Z"
   }
  ]
 }
