@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T18:25:42Z",
+ "generated_at": "2026-11-13T20:05:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cca66ae7a253",
+   "ts": "2026-11-13T20:04:54Z",
+   "headline": "New York Fed plans about $14bn of bill purchases for MBS reinvestment and extends pause on reserve management purchases",
+   "detail": "The New York Fed desk plans about $14.0bn of reinvestment purchases and no reserve management purchases between 16 November and 11 December. This extends the pause on reserve management purchases to mid-December.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4d28e98b5c099827",
+    "5ac425bd8b3b9bcd",
+    "e2ae8753c6153cd8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27rslad7a2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27rslad7a2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27rqf7sfo2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27rqf7sfo2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27rr4muk22j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27rr4muk22j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9225ac97a03c",
+   "created_at": "2026-11-13T20:05:39Z"
+  },
   {
    "id": "f95d454a7d03",
    "ts": "2026-11-13T18:25:07Z",
@@ -6425,63 +6458,6 @@
    "model": "opus",
    "run_id": "f948afe1af01",
    "created_at": "2026-11-12T12:25:41Z"
-  },
-  {
-   "id": "f12d3917e3d9",
-   "ts": "2026-11-12T12:17:18Z",
-   "headline": "US envoy Witkoff says planned Russia-Ukraine prisoner swap shows progress towards a settlement",
-   "detail": "Speaking around his Kremlin talks with Putin, US envoy Witkoff said the Russian and Ukrainian delegations worked effectively in Abu Dhabi and that Europeans were kept informed but did not sit at the negotiating table. He said he will brief Zelenskiy on the talks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "199baa4084554308",
-    "f87caee261f3f542",
-    "5631da779c5b08f7",
-    "de0aca3520953645",
-    "945071450d9810a3",
-    "138d1601e9754bc0",
-    "87208283fca566ee"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24h7jwcv42s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24h7jwcv42s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hcdfiwv25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hcdfiwv25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hdsr3wm2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hdsr3wm2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hekfyp42y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hekfyp42y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hfbgs3d2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hfbgs3d2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hds3re52u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hds3re52u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hekrnxx2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hekrnxx2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "57834f437e72",
-   "created_at": "2026-11-12T12:20:50Z"
   }
  ]
 }
