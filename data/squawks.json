@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T17:10:51Z",
+ "generated_at": "2026-11-13T17:15:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7be59469333e",
+   "ts": "2026-11-13T17:13:19Z",
+   "headline": "Fed's Daly says inflation is the main problem in an otherwise good US economy",
+   "detail": "San Francisco Fed President Mary Daly described inflation as the key problem facing the Fed and said the economy is otherwise in good shape. The reports gave no further detail on the policy outlook.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "496176a4965034a1",
+    "daafb525f6e9cf1a",
+    "67bd698f6741c39d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27i7rslye2c",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27i7rslye2c"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27ib7gwj62u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27ib7gwj62u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27ibw3bgu2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27ibw3bgu2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2a104e0f85d4",
+   "created_at": "2026-11-13T17:15:52Z"
+  },
   {
    "id": "d498d16021c3",
    "ts": "2026-11-13T17:07:30Z",
@@ -6485,27 +6518,6 @@
    "model": "opus",
    "run_id": "de464ec67780",
    "created_at": "2026-11-12T11:10:52Z"
-  },
-  {
-   "id": "34e305e49dbe",
-   "ts": "2026-11-12T11:04:54Z",
-   "headline": "EU foreign policy chief Kallas says she would very much like Britain to return to Europe",
-   "detail": "Kaja Kallas, the EU's foreign policy chief, said she would strongly welcome Britain rejoining Europe. Earlier on the blotter, Chancellor Healey said any UK deal with the EU must bring benefits greater than its trade-offs.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7f32a008cbb6f4b5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24d62pz7o2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24d62pz7o2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "37c7ce017b27",
-   "created_at": "2026-11-12T11:05:43Z"
   }
  ]
 }
