@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T14:05:42Z",
+ "generated_at": "2026-11-13T14:10:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c0a405815074",
+   "ts": "2026-11-13T14:10:26Z",
+   "headline": "Fed's Collins says higher productivity has helped contain some inflation pressures, but gives no view on the policy outlook",
+   "detail": "Boston Fed President Collins said higher productivity has helped to hold down some inflationary pressures and that price stability benefits the housing market over the long run. She did not comment on the outlook for monetary policy.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8cc18ad3c4f5e4a5",
+    "b844ec5e0807162e",
+    "6e376215641bb0f5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n275ypop3y2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n275ypop3y2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n275yqgfyn2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n275yqgfyn2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n275yq2fa52y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n275yq2fa52y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5fb170ecdfc9",
+   "created_at": "2026-11-13T14:10:53Z"
+  },
+  {
+   "id": "65720486e5f5",
+   "ts": "2026-11-13T14:09:38Z",
+   "headline": "France calls for more pressure on Yemen's Houthis to stop attacks, including those on Saudi Arabia",
+   "detail": "France's foreign ministry said pressure on the Houthis must increase so that they end their attacks, singling out attacks on Saudi Arabia.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "da5aafdba9ac4fc1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n275xcecwa25",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n275xcecwa25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5fb170ecdfc9",
+   "created_at": "2026-11-13T14:10:53Z"
+  },
   {
    "id": "a4f65180d503",
    "ts": "2026-11-13T14:05:14Z",
@@ -6308,48 +6362,6 @@
    "model": "opus",
    "run_id": "11236f963de6",
    "created_at": "2026-11-12T08:45:53Z"
-  },
-  {
-   "id": "4118a143a18a",
-   "ts": "2026-11-12T08:18:52Z",
-   "headline": "Russia's Ryabkov says uncontrolled escalation should be avoided after the negotiations",
-   "detail": "Russian Deputy Foreign Minister Sergei Ryabkov said escalation should not be allowed to get out of control following the negotiations. He spoke after the US-Russia-Ukraine talks in Abu Dhabi.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c72f2b0ba7b05ffb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23zv6risy2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23zv6risy2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b06ac5ebf3c6",
-   "created_at": "2026-11-12T08:20:48Z"
-  },
-  {
-   "id": "b902a9b1ddda",
-   "ts": "2026-11-12T08:15:45Z",
-   "headline": "Russia's Ryabkov denies that the Abu Dhabi negotiations have restored trust between the parties",
-   "detail": "Russian Deputy Foreign Minister Ryabkov said it was wrong to describe trust between the sides as restored after the Abu Dhabi talks. Earlier, US envoy Kushner had described the talks as an important breakthrough.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "82507acc03408f53"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23zpm23b42y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23zpm23b42y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d2174fd269d1",
-   "created_at": "2026-11-12T08:15:49Z"
   }
  ]
 }
