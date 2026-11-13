@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T12:15:49Z",
+ "generated_at": "2026-11-13T12:20:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d6f1b1e5a8ff",
+   "ts": "2026-11-13T12:19:17Z",
+   "headline": "Merz says ECB succession is under intensive discussion, with no decision taken yet",
+   "detail": "German Chancellor Merz said talks on who will succeed at the top of the ECB are being held intensively but no decision has been reached. This follows the German government's earlier statement that it wants ECB leadership that is responsible and widely supported.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "288205b90058a156"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26xrynzjs2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26xrynzjs2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "427cf3a87722",
+   "created_at": "2026-11-13T12:20:51Z"
+  },
+  {
+   "id": "7a612f551c5c",
+   "ts": "2026-11-13T12:16:56Z",
+   "headline": "Merz says Ukraine funding will be on the agenda at the upcoming Berlin summit and asks the US for no surprises before Trump meets Putin",
+   "detail": "Speaking in Dublin, German Chancellor Merz said Ukraine funding will be addressed at a coming summit in Berlin and that the E3 grouping is well placed to represent the EU in Ukraine talks. His message to Washington ahead of Trump's meeting with Putin was that there should be no surprises.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "391d0f1199ca3afd",
+    "5b600156d1321e3f",
+    "364d2a6538c0c6d6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26xnrvvwm2q",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26xnrvvwm2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26xqlfgsv2y",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26xqlfgsv2y"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26xu4av2s2r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26xu4av2s2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "427cf3a87722",
+   "created_at": "2026-11-13T12:20:51Z"
+  },
   {
    "id": "30e42de6e7d2",
    "ts": "2026-11-13T12:15:46Z",
@@ -6338,144 +6392,6 @@
    "model": "opus",
    "run_id": "adc7243769fe",
    "created_at": "2026-11-12T06:10:54Z"
-  },
-  {
-   "id": "1cc4fcc9a90b",
-   "ts": "2026-11-12T01:38:04Z",
-   "headline": "Brent and WTI crude fall $1 a barrel on Middle East peace optimism",
-   "detail": "Brent and WTI crude oil were both reported $1 a barrel lower in Asian trading, with the fall attributed to optimism over peace in the Middle East.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "46fa090623e22626"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23dii4px22o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23dii4px22o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6851e406a120",
-   "created_at": "2026-11-12T06:05:40Z"
-  },
-  {
-   "id": "13e1355a0109",
-   "ts": "2026-11-12T01:34:50Z",
-   "headline": "BoJ's Asada urges caution on further rate rises, saying hikes from a neutral policy rate could hit the economy harder",
-   "detail": "Bank of Japan board member Asada said financial conditions remain accommodative and underlying inflation is around levels consistent with the 2% target. She said the BoJ must be cautious about the pace of any future increases and can use consumer price data to judge the risk of inflation overshooting.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "2ba55f9df9553fa3",
-    "534002b4c122c9c8",
-    "280ea61262c56c09",
-    "7d319baf019e2940",
-    "3d6b982a066ba5c5",
-    "a6c61df564dffd01",
-    "9fa70f0d43c6040f",
-    "8b979a9602ac151e",
-    "7a4512d33e936873",
-    "086b405cd44b684a",
-    "beee416d982fb1a6",
-    "1d00df75ec9f88ad",
-    "ecbd6a58e21c7e86",
-    "0d277f02a6533f1a",
-    "b257f56daaf20790",
-    "48cb494245671b6c",
-    "80341940e154f243"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23d52jnv32r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23d52jnv32r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23d537xs527",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23d537xs527"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23d5rr26q2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23d5rr26q2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23d6ifcnm2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23d6ifcnm2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23d776csa22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23d776csa22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23damov732y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23damov732y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23dcphhct2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23dcphhct2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23ddgoath2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23ddgoath2o"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23ddhbg3c2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23ddhbg3c2o"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23deuulgs2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23deuulgs2o"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23dfliel22o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23dfliel22o"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23dgcsjmo27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23dgcsjmo27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23dgddy7o27",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23dgddy7o27"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23dhr5gwa2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23dhr5gwa2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23diijqzh25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23diijqzh25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23dj7phcx22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23dj7phcx22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n23djxb4is2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n23djxb4is2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6851e406a120",
-   "created_at": "2026-11-12T06:05:40Z"
   }
  ]
 }
