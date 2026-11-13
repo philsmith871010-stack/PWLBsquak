@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T20:35:42Z",
+ "generated_at": "2026-11-13T21:01:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1836b62a3b85",
+   "ts": "2026-11-13T21:00:41Z",
+   "headline": "US Treasury says the government was $694.1bn below the $41.1tn debt limit as of 12 November",
+   "detail": "The figure comes from US Treasury data and is as of 12 November.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e65aaadbc3f43185"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27uwdi37s2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27uwdi37s2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "014beb7f2c22",
+   "created_at": "2026-11-13T21:01:15Z"
+  },
+  {
+   "id": "b741f5d0a947",
+   "ts": "2026-11-13T21:00:38Z",
+   "headline": "EU's Kallas says Russian demands for talks on European security architecture risk diverting focus from a Ukraine ceasefire",
+   "detail": "EU foreign policy chief Kaja Kallas made the remarks as the EU agreed on a group of five nations to represent Europe at Ukraine peace talks, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "dfb7f4dc7bcacae9"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n27uwa4rpy2i",
+     "url": "https://bsky.app/profile/reuters.com/post/3n27uwa4rpy2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "014beb7f2c22",
+   "created_at": "2026-11-13T21:01:15Z"
+  },
   {
    "id": "1530229fec1b",
    "ts": "2026-11-13T20:32:34Z",
@@ -6380,54 +6422,6 @@
    "model": "opus",
    "run_id": "f6a142dff75d",
    "created_at": "2026-11-12T12:35:44Z"
-  },
-  {
-   "id": "e0f377e2cf76",
-   "ts": "2026-11-12T12:28:54Z",
-   "headline": "Putin proposes a humanitarian mission from Kostiantynivka modelled on earlier cooperation with Ukraine over Oleshky",
-   "detail": "At his Kremlin meeting with US envoys Witkoff and Kushner, President Putin described humanitarian cooperation with Ukraine over Oleshky as positive. He proposed organising a similar mission from Kostiantynivka, according to reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "edf6eff2791ce899",
-    "e0a18438517ee265"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hub6fup2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hub6fup2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hs4baiu2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hs4baiu2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "77fd04062a2e",
-   "created_at": "2026-11-12T12:31:04Z"
-  },
-  {
-   "id": "55c8aac3d2ac",
-   "ts": "2026-11-12T12:25:18Z",
-   "headline": "Putin says Russia recognises only one demarcation line with Ukraine, the state border",
-   "detail": "Russian President Putin said that for Russia the only demarcation line with Ukraine is the state border. He spoke as the Kremlin's talks with US envoys continued.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "94cff02637c33c47"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24hntc3m52u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24hntc3m52u"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f948afe1af01",
-   "created_at": "2026-11-12T12:25:41Z"
   }
  ]
 }
