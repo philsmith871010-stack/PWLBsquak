@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T21:05:44Z",
+ "generated_at": "2026-11-13T21:10:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "16354ed5c8ff",
+   "ts": "2026-11-13T21:07:05Z",
+   "headline": "S&P affirms Italy's BBB+/A-2 sovereign ratings and keeps a positive outlook",
+   "detail": "S&P Global Ratings affirmed Italy's long- and short-term sovereign ratings at BBB+/A-2 on Friday evening. The outlook stays positive.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0b7e93303e753cdc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27vbrytzl2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27vbrytzl2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ef8fc9509872",
+   "created_at": "2026-11-13T21:10:55Z"
+  },
   {
    "id": "e454eefc5612",
    "ts": "2026-11-13T21:01:31Z",
@@ -6413,27 +6434,6 @@
    "model": "opus",
    "run_id": "6b2719dea30a",
    "created_at": "2026-11-12T12:55:44Z"
-  },
-  {
-   "id": "584e970813d5",
-   "ts": "2026-11-12T12:39:39Z",
-   "headline": "Putin says Russia wants the US to work out with Europe whether they want peace or war",
-   "detail": "Russian President Putin said Russia would like Washington to work with European allies to decide whether they are seeking peace or war over Ukraine, according to reports. The remarks follow his comments earlier in the day on foreign troops in Ukraine.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6cc38c233be591f4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24ihikdfo2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24ihikdfo2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1a518930a065",
-   "created_at": "2026-11-12T12:40:47Z"
   }
  ]
 }
