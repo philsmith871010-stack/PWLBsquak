@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T10:31:01Z",
+ "generated_at": "2026-11-13T11:35:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "20fb78eabef4",
+   "ts": "2026-11-13T11:31:09Z",
+   "headline": "US Treasuries head for their worst week since Trump's 'liberation day' tariff announcement",
+   "detail": "The Financial Times reports that Treasuries are on course for their heaviest weekly losses since the 'liberation day' tariff announcement. It attributes the losses to inflation that came in higher than expected and to hawkish comments from Fed officials.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "4f56b489aea37449"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n26v3voy3e2m",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n26v3voy3e2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ceb1952a7684",
+   "created_at": "2026-11-13T11:35:56Z"
+  },
   {
    "id": "b252e7f9b451",
    "ts": "2026-11-13T10:26:44Z",
@@ -6462,33 +6483,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n236topn6k22",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n236topn6k22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2db2eacd6c40",
-   "created_at": "2026-11-12T06:01:19Z"
-  },
-  {
-   "id": "bb4bce08fea1",
-   "ts": "2026-11-12T00:11:22Z",
-   "headline": "Fed's Goolsbee calls the latest US inflation report borderline disturbing",
-   "detail": "The Chicago Fed president's remarks came as hot US inflation data and hawkish Fed comments raised expectations of a rate hike in December. Gold fell 0.8% to $4,002.54 an ounce and the dollar index was reported up 0.4%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "35d0c59eaf333c37",
-    "3681d739a392e7ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n236nhnpby22",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n236nhnpby22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n236nhcyn42y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n236nhcyn42y"
     }
    ],
    "model": "opus",
