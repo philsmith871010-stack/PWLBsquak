@@ -1,8 +1,110 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T17:45:53Z",
+ "generated_at": "2026-11-13T17:50:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8e779585df8c",
+   "ts": "2026-11-13T17:50:00Z",
+   "headline": "US holds first official US-China Board of Trade meeting",
+   "detail": "The US Trade Representative and the Treasury held the first official meeting of the US-China Board of Trade, according to a statement.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e35dca28478c4ab8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27kbdu53d2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27kbdu53d2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "095e51e0d147",
+   "created_at": "2026-11-13T17:50:52Z"
+  },
+  {
+   "id": "332a1f842ad4",
+   "ts": "2026-11-13T17:49:35Z",
+   "headline": "Trump extends shipping waiver for oil and fertiliser by 90 days, White House official says",
+   "detail": "A White House official said President Trump has extended a shipping waiver covering oil and fertiliser for 90 days.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "66ebf7165dd0e81d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27kam5psb2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27kam5psb2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "095e51e0d147",
+   "created_at": "2026-11-13T17:50:52Z"
+  },
+  {
+   "id": "8336aa306a41",
+   "ts": "2026-11-13T17:48:22Z",
+   "headline": "Fed's Daly says she is starting to hear the US consumer may be losing steam",
+   "detail": "San Francisco Fed President Daly said businesses are cautiously optimistic but all are worried about inflation, and that there are early signs US consumers may be tiring.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "7c85644bd9a80f6d",
+    "969cacfa2b860776"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27k3ld6h52r",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27k3ld6h52r"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27k6gvkqs2k",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27k6gvkqs2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "095e51e0d147",
+   "created_at": "2026-11-13T17:50:52Z"
+  },
+  {
+   "id": "d8511753ce2c",
+   "ts": "2026-11-13T17:45:58Z",
+   "headline": "Von der Leyen says the EU will soon propose a 22nd package of sanctions on Russia",
+   "detail": "European Commission President von der Leyen said a 22nd Russia sanctions package will be proposed soon. She also said the path to peace in Ukraine will not be easy, and that a European team of the E5 and EU institutions has been agreed for the talks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c9596d12d06e185b",
+    "40f68c0e7a7e60a7",
+    "5674520b452a58e7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27k25xk6z2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27k25xk6z2g"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27k2uitdk2u",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27k2uitdk2u"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27kbdjbob2g",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27kbdjbob2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "095e51e0d147",
+   "created_at": "2026-11-13T17:50:52Z"
+  },
   {
    "id": "fdf4afe1f097",
    "ts": "2026-11-13T17:45:35Z",
@@ -6440,144 +6542,6 @@
    "model": "opus",
    "run_id": "c0644e2699d6",
    "created_at": "2026-11-12T12:10:48Z"
-  },
-  {
-   "id": "220ac9dd8de1",
-   "ts": "2026-11-12T12:06:10Z",
-   "headline": "Trump threatens to double tariffs on Mexico immediately unless it stops migrant caravans",
-   "detail": "US President Trump said tariffs on Mexico would be doubled straight away if Mexico does not stop migrant caravans.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ca5543667124e5fd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24glmaht32j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24glmaht32j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c0644e2699d6",
-   "created_at": "2026-11-12T12:10:48Z"
-  },
-  {
-   "id": "326d250d2056",
-   "ts": "2026-11-12T12:01:24Z",
-   "headline": "Zelenskiy asks for energy support for Ukraine now and through the winter, citing equipment destroyed by Russia",
-   "detail": "Speaking in Dublin, Ukraine's President Zelenskiy said Ukraine needs energy support now and through the winter. He said his team has a list of the equipment it needs to replace after Russian attacks destroyed it.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9c2395465028e4fe"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24gd3hfpo2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24gd3hfpo2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "72957c741c67",
-   "created_at": "2026-11-12T12:05:39Z"
-  },
-  {
-   "id": "3cb919f21e79",
-   "ts": "2026-11-12T12:00:59Z",
-   "headline": "Zelenskiy calls US approach of discussing a new security order with Russia strange and wants Europe at the table",
-   "detail": "Speaking in Dublin, Ukraine's president said Europe should be a regular part of negotiations with Russia and that he will hold talks with US representatives later on Thursday. He also said Russia treats energy as a battlefield each winter and that Ukraine needs air defence interceptors.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "348005699a12f630",
-    "488564aa070853d6",
-    "9c306822a793433a",
-    "47b161a37cc2bf6b",
-    "90baf86e6b73ec22",
-    "c16695916447681c",
-    "74a0794fb875487b",
-    "868d16c46fc0a77a",
-    "25f9faaa8c073438"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24gcebeet2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24gcebeet2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24gbms4hx2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24gbms4hx2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24g5e2jvk2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24g5e2jvk2o"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24g4nfhmt25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24g4nfhmt25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24ga5rh2p2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24ga5rh2p2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24gbniada2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24gbniada2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24gbn5ycw2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24gbn5ycw2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24gceo6kf2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24gceo6kf2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24g37pw3i2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24g37pw3i2u"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bd022696f306",
-   "created_at": "2026-11-12T12:01:10Z"
-  },
-  {
-   "id": "c0bb004c3ed8",
-   "ts": "2026-11-12T12:00:09Z",
-   "headline": "NATO's Rutte says US, European and Ukrainian positions were closely aligned at the Abu Dhabi talks",
-   "detail": "NATO Secretary General Rutte also said Europe and the US reached agreement in January on the outline of security guarantees, and that this work is complete.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "74aa99ee2d795f9d",
-    "d52fea00d3fc191c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24gaupqvi2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24gaupqvi2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24g3wqs5y2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24g3wqs5y2u"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bd022696f306",
-   "created_at": "2026-11-12T12:01:10Z"
   }
  ]
 }
