@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T15:01:13Z",
+ "generated_at": "2026-11-16T15:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "eea60fbb7010",
+   "ts": "2026-11-16T15:02:11Z",
+   "headline": "Bank of Canada Governor Macklem is to step down in June 2027 when his seven-year term ends",
+   "detail": "The Bank of Canada said in a statement that Governor Tiff Macklem will leave his post in June 2027, at the end of his seven-year term.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "918563493315b097",
+    "983210c2c39b9082",
+    "c594681fc83248de"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gsc2pngj2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gsc2pngj2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gsc2ym4r2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gsc2ym4r2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gsdi77kj2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gsdi77kj2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "74e40fde551a",
+   "created_at": "2026-11-16T15:05:42Z"
+  },
   {
    "id": "8cc71726aecf",
    "ts": "2026-11-16T15:00:54Z",
@@ -6648,27 +6681,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24w4aaqsn2u",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24w4aaqsn2u"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aeb711c21182",
-   "created_at": "2026-11-12T16:45:48Z"
-  },
-  {
-   "id": "0543568ec967",
-   "ts": "2026-11-12T16:44:18Z",
-   "headline": "Suspected yen intervention is reported",
-   "detail": "A market news account flagged a suspected intervention in the yen. No official confirmation or figures were given.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "b8d1266b4735e24d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24w4xovri2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24w4xovri2c"
     }
    ],
    "model": "opus",
