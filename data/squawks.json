@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T18:05:42Z",
+ "generated_at": "2026-11-16T18:35:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3b33dc1f47b7",
+   "ts": "2026-11-16T18:35:24Z",
+   "headline": "US envoy Kushner says he and Witkoff discussed with Kremlin aide Ushakov how to enable direct talks between Europe and Russia",
+   "detail": "US envoy Jared Kushner said on Monday that he and Steve Witkoff spoke with Kremlin aide Yuri Ushakov about progress so far and the next steps in the Ukraine peace process, including how to facilitate direct engagement between Europe and Russia. Kushner also said NATO will remain a critical pillar of European security.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "851e1a19b5e08912",
+    "0455a26dc1b6a79d",
+    "246d4a2ca4b2ae7e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2h634dagy2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2h634dagy2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2h67cqu772a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2h67cqu772a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2h67d52lk2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2h67d52lk2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2118df8e9bc4",
+   "created_at": "2026-11-16T18:35:53Z"
+  },
   {
    "id": "63f79cadbeeb",
    "ts": "2026-11-16T18:01:55Z",
@@ -6695,51 +6728,6 @@
    "model": "opus",
    "run_id": "72bbb61da50f",
    "created_at": "2026-11-12T18:25:45Z"
-  },
-  {
-   "id": "1ca7d91a9e53",
-   "ts": "2026-11-12T18:20:05Z",
-   "headline": "Fed's Daly says the US has an inflation problem but AI is not the main driver and adds only modestly to prices",
-   "detail": "San Francisco Fed President Daly said AI-related price pressures clearly exist but contribute only a modest amount directly to inflation, with a risk that the contribution grows. She also said AI is having a limited impact on the labour market.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "87fa936b87fa2be7",
-    "29614c57316c76f3",
-    "f51fd7e3985cb76e",
-    "c9f1e30b9d995048",
-    "b781febbb3f3ac42"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253dao5eg2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253dao5eg2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253eovt4z2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253eovt4z2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253hjaj4k25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253hjaj4k25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253i7xct22u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253i7xct22u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253ixasgk2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253ixasgk2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "41f6df7e5834",
-   "created_at": "2026-11-12T18:20:50Z"
   }
  ]
 }
