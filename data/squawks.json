@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T19:31:07Z",
+ "generated_at": "2026-11-16T19:35:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "88454f9d34da",
+   "ts": "2026-11-16T19:31:19Z",
+   "headline": "US crude futures settle 3.21% lower at $85.72 a barrel, down $2.84",
+   "detail": "NYMEX WTI December crude futures settled at $85.72 a barrel on Monday, down $2.84 or 3.21%. December diesel futures settled at $4.0818 a gallon and December natural gas at $3.1220/MMBtu.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "66328e336139f230",
+    "1b8dd2f7e63a27ab",
+    "7776447cf5058178",
+    "657789ca4d7145ec"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hbdbxpxz24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hbdbxpxz24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hbfgpluh2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hbfgpluh2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hbdykllt2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hbdykllt2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hbfge6sq2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hbfge6sq2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3e46094b2562",
+   "created_at": "2026-11-16T19:35:39Z"
+  },
   {
    "id": "a477274d111b",
    "ts": "2026-11-16T19:27:22Z",
@@ -6755,33 +6794,6 @@
    "model": "opus",
    "run_id": "c9f2f3374ec3",
    "created_at": "2026-11-12T19:01:13Z"
-  },
-  {
-   "id": "1e574f4b21ed",
-   "ts": "2026-11-12T18:48:43Z",
-   "headline": "Fed's Daly says AI, uncertainty and rising input costs are combining to hold back US hiring",
-   "detail": "San Francisco Fed President Mary Daly described conditions for hiring as a perfect storm. She named AI, uncertainty and higher input costs as the factors weighing on hiring.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0815ffd3c500d13c",
-    "5337118c53dd6b16"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2553ghh7h2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2553ghh7h2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2554tsfys2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2554tsfys2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8e078fd0062c",
-   "created_at": "2026-11-12T18:50:48Z"
   }
  ]
 }
