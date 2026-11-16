@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T18:40:49Z",
+ "generated_at": "2026-11-16T18:45:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5f8a6465a00d",
+   "ts": "2026-11-16T18:44:48Z",
+   "headline": "US envoy Kushner says work has begun on the agenda for the next multilateral Ukraine peace meeting, which the US aims to hold soon",
+   "detail": "Kushner said he and Witkoff spoke with Kremlin aide Ushakov on Monday about progress so far and next steps. He added that NATO will remain a critical pillar of European security and that both Russia and Ukraine must agree to any final peace deal.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b88a754ea32b109f",
+    "273ca435e5d2f194"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2h6q4o5652s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2h6q4o5652s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2h6qug3gn24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2h6qug3gn24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "664ac28bf07b",
+   "created_at": "2026-11-16T18:45:55Z"
+  },
   {
    "id": "d27596c236b5",
    "ts": "2026-11-16T18:37:47Z",
@@ -6683,45 +6710,6 @@
    "model": "opus",
    "run_id": "6430577c6686",
    "created_at": "2026-11-12T18:35:45Z"
-  },
-  {
-   "id": "3fa92a47de78",
-   "ts": "2026-11-12T18:29:30Z",
-   "headline": "Fed's Daly says the focus must be on lowering inflation but productivity gains could eventually prove disinflationary",
-   "detail": "San Francisco Fed President Daly described the US as having a stable labour market, positive growth, productivity growth and high inflation, and said the Fed must concentrate on bringing inflation down. She added that it is too early to say when AI will lift productivity, but the chance that productivity growth eases inflation should not be ignored.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c64701c3abcbd766",
-    "869eebc0167ab267",
-    "b4d30981c14ddae0",
-    "d40b5f092eb47e72"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253timncw2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253timncw2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253yefiot2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253yefiot2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253z33bph2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253z33bph2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253z3n2v62c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253z3n2v62c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3caf3172cbea",
-   "created_at": "2026-11-12T18:31:05Z"
   }
  ]
 }
