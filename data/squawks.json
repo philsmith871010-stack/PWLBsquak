@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T13:05:40Z",
+ "generated_at": "2026-11-16T13:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "74088f1d0d75",
+   "ts": "2026-11-16T13:16:06Z",
+   "headline": "US Commerce Department issues rule restricting remote access to advanced AI chips and tightening re-export controls",
+   "detail": "The US Commerce Department's Bureau of Industry and Security published a rule restricting remote access to advanced AI chips. It also requires a licence to re-export them to Brazil and Singapore and publishes a list of countries it deems higher than normal risk.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5d4c0535371d8726",
+    "64828c4ec83196cf",
+    "85d9a8aba2f14c87",
+    "f061aeb422edea69"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gmee5lmj2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gmee5lmj2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gmh6373l26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gmh6373l26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gmlzq5zp2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gmlzq5zp2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gmmqzrdj2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gmmqzrdj2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e6faecae956f",
+   "created_at": "2026-11-16T13:20:50Z"
+  },
   {
    "id": "49a9ebff0ee3",
    "ts": "2026-11-16T13:01:25Z",
@@ -6623,27 +6662,6 @@
    "model": "opus",
    "run_id": "2613e823cece",
    "created_at": "2026-11-12T16:20:53Z"
-  },
-  {
-   "id": "0c894026b337",
-   "ts": "2026-11-12T16:12:24Z",
-   "headline": "US push to close land routes and tighten Iran blockade is reportedly failing as neighbouring states refuse to comply",
-   "detail": "Unattributed market reports say countries bordering Iran are declining to follow Washington's orders to shut land routes as part of the blockade. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3672f84684ce0ec9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24udwk2qv2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24udwk2qv2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dc61bd605d0d",
-   "created_at": "2026-11-12T16:16:02Z"
   }
  ]
 }
