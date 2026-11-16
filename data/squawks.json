@@ -1,8 +1,98 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T09:45:56Z",
+ "generated_at": "2026-11-16T09:50:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e095c55f4215",
+   "ts": "2026-11-16T09:50:27Z",
+   "headline": "Kremlin says Brussels pledges to keep aiding Ukraine and pressuring Russia do not help the peace process",
+   "detail": "The Kremlin said it still hopes to hear Europe's position, declined to comment on the idea of Ukraine giving up Donbas in exchange for NATO membership, and denied Estonia's sabotage accusations. It also said a drone attack on the Crimea bridge caused minor damage and traffic is still running.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ca7ee39bf6dc0e3a",
+    "204e6427c45291aa",
+    "bdc26b92b2a55612",
+    "1c5429587e2bccba",
+    "fddb4a066fd10729",
+    "9ba32dc97b859d08",
+    "27a734f711fbf6db"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gaumvycw24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gaumvycw24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gaveqwsi2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gaveqwsi2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gavehagy2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gavehagy2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gavfa27a2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gavfa27a2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gavfnojs2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gavfnojs2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gaumhdsc2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gaumhdsc2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gavdjnxq2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gavdjnxq2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e020fff28fdb",
+   "created_at": "2026-11-16T09:50:59Z"
+  },
+  {
+   "id": "116bd3a7d670",
+   "ts": "2026-11-16T09:48:06Z",
+   "headline": "France's foreign minister says the EU's new Russia sanctions list includes a St Petersburg oil terminal and the CEO of Wildberries",
+   "detail": "French Foreign Minister Barrot named the St Petersburg oil terminal and the chief executive of Russian retailer Wildberries among the additions to the EU sanctions list. He also said France and the UK will host a conference in December on tackling Russia's shadow fleet.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a1cd49e749d251de",
+    "bf08217e9097636a",
+    "62d12625e060c426"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gaqg2fov2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gaqg2fov2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gaobyxxf2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gaobyxxf2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gaoypvvk2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gaoypvvk2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e020fff28fdb",
+   "created_at": "2026-11-16T09:50:59Z"
+  },
   {
    "id": "f239a2c8b993",
    "ts": "2026-11-16T09:43:01Z",
@@ -6572,72 +6662,6 @@
    "model": "opus",
    "run_id": "cfb0c5acc22d",
    "created_at": "2026-11-12T15:05:59Z"
-  },
-  {
-   "id": "7798fefb0393",
-   "ts": "2026-11-12T15:01:12Z",
-   "headline": "Fed's Barr warns AI could cause serious short-term disruption in the US job market",
-   "detail": "Fed Governor Barr said there are signs AI is replacing labour in some sectors and that the dislocation could be large if change comes quickly, though so far few workers have been displaced. He also noted that labour's share of income is falling, and said it is an open question whether AI will further raise returns to capital.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ae7c4c3d243f9bf7",
-    "d70431947b21b93a",
-    "46460f2c545960cc",
-    "e9a3be79612207b4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24qemmaer2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24qemmaer2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24qeo6moj2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24qeo6moj2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24qenslwc2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24qenslwc2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24qenfpux2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24qenfpux2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5ece6aa5df0f",
-   "created_at": "2026-11-12T15:01:17Z"
-  },
-  {
-   "id": "bd681eb78cbe",
-   "ts": "2026-11-12T15:00:48Z",
-   "headline": "US existing home sales fall 5.5% to 3.75M, below the 3.85M forecast",
-   "detail": "US existing home sales came in at an annualised 3.75M, against a forecast of 3.85M and a previous 3.99M. The monthly change was -5.5%, compared with a forecast of -3.5% and a previous 1.5%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "91e9408e50fe6363",
-    "a9bb708b59bea860"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24qdvfxl42q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24qdvfxl42q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24qdvpq462c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24qdvpq462c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5ece6aa5df0f",
-   "created_at": "2026-11-12T15:01:17Z"
   }
  ]
 }
