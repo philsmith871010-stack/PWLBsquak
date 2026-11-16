@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T10:15:46Z",
+ "generated_at": "2026-11-16T10:35:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "04dbcc37dcba",
+   "ts": "2026-11-16T10:33:07Z",
+   "headline": "EU antitrust regulators give UniCredit's takeover of Commerzbank unconditional approval",
+   "detail": "EU competition regulators have cleared UniCredit's acquisition of Commerzbank without conditions.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "28fa0dda862a3114"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gdavpefv2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gdavpefv2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "43c858d9b9d6",
+   "created_at": "2026-11-16T10:35:54Z"
+  },
   {
    "id": "ece2cc7c7af8",
    "ts": "2026-11-16T10:13:16Z",
@@ -6618,33 +6639,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24szmbzmt2s",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24szmbzmt2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0bf00345d79c",
-   "created_at": "2026-11-12T15:50:52Z"
-  },
-  {
-   "id": "cc0a1044e2a6",
-   "ts": "2026-11-12T15:46:01Z",
-   "headline": "Fed's Barr says banks are concentrating on AI risk controls and flags agentic AI as a major issue for them",
-   "detail": "Federal Reserve Governor Barr said banks are paying close attention to risk controls and usage standards for AI. He added that agentic AI will be a significant challenge for banks in ensuring the tools follow customer instructions.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "66671c50e23c4011",
-    "ada0acb05a0be10c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24suq3u4x2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24suq3u4x2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24t53ldmi2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24t53ldmi2k"
     }
    ],
    "model": "opus",
