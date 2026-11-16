@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T13:01:21Z",
+ "generated_at": "2026-11-16T13:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "49a9ebff0ee3",
+   "ts": "2026-11-16T13:01:25Z",
+   "headline": "Several explosions reported in Riyadh after attacks from Yemen, Iran's Fars news agency says",
+   "detail": "Iran's Fars news agency says explosions were heard in the Saudi capital following attacks launched from Yemen. This comes after Yemen's Houthis said they had attacked a pumping station on Saudi Arabia's East-West oil pipeline.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7969ae2c2163b839"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2glk3js4q26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2glk3js4q26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3732a117bae2",
+   "created_at": "2026-11-16T13:05:40Z"
+  },
   {
    "id": "8052390e73a3",
    "ts": "2026-11-16T12:58:13Z",
@@ -6623,27 +6644,6 @@
    "model": "opus",
    "run_id": "dc61bd605d0d",
    "created_at": "2026-11-12T16:16:02Z"
-  },
-  {
-   "id": "1fddd3c6a2a8",
-   "ts": "2026-11-12T16:02:34Z",
-   "headline": "US Treasury sets $16bn 20-year bond sale for 18 November and $19bn 10-year TIPS reopening for 19 November",
-   "detail": "The US Treasury will also sell $95bn of 3-month bills and $82bn of 6-month bills on 16 November, settling 19 November. The 20-year bond and 10-year TIPS sales both settle on 30 November.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "dd23f32e01ce638e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24tsd6mss2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24tsd6mss2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "170cbb49710d",
-   "created_at": "2026-11-12T16:05:45Z"
   }
  ]
 }
