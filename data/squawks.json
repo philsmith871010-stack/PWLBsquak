@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T22:45:56Z",
+ "generated_at": "2026-11-16T22:51:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a40918744438",
+   "ts": "2026-11-16T22:48:18Z",
+   "headline": "UK Milburn welfare review to propose cutting sickness benefits for under-25s and spending billions on employment support",
+   "detail": "The Financial Times reports that the review led by former minister Alan Milburn will set out a plan to reduce sickness benefits for under-25s while putting billions of pounds into employment support.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "97d26daa0da1df08"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2hmdjoerw2m",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2hmdjoerw2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "12e834262f3f",
+   "created_at": "2026-11-16T22:51:06Z"
+  },
   {
    "id": "bb88aa746391",
    "ts": "2026-11-16T22:45:19Z",
@@ -6839,27 +6860,6 @@
    "model": "opus",
    "run_id": "aa65657c59dc",
    "created_at": "2026-11-12T21:01:11Z"
-  },
-  {
-   "id": "dade3c168e5b",
-   "ts": "2026-11-12T20:39:49Z",
-   "headline": "Trump says he would consider military force against Cuba, including a week-long campaign",
-   "detail": "Asked whether military force against Cuba was possible, US President Trump said he would consider it, including a campaign lasting a week, and said he wants Cuba dealt with before he leaves office. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "39ff2451f51682c5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25dc47cdg2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25dc47cdg2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ee2728cce79d",
-   "created_at": "2026-11-12T20:40:48Z"
   }
  ]
 }
