@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T10:45:56Z",
+ "generated_at": "2026-11-16T11:10:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "74d445e8850c",
+   "ts": "2026-11-16T11:07:23Z",
+   "headline": "EU pays out €1.71bn to Ukraine for drones, ammunition and air defence",
+   "detail": "Reports say the EU has disbursed €1.71bn to Ukraine to fund drones, ammunition and air defence.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "10c0c6c6f3a53df9",
+    "042f5121caca1e3e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gf66p7yj2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gf66p7yj2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gf7luyxp2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gf7luyxp2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "480968b08609",
+   "created_at": "2026-11-16T11:10:54Z"
+  },
   {
    "id": "eb766b75e428",
    "ts": "2026-11-16T10:44:25Z",
@@ -6588,45 +6615,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24thnkers2g",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24thnkers2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "397099a703cd",
-   "created_at": "2026-11-12T16:01:17Z"
-  },
-  {
-   "id": "36e136bc66e0",
-   "ts": "2026-11-12T15:56:11Z",
-   "headline": "US envoy Witkoff says Europeans will take part in the next round of Ukraine negotiations",
-   "detail": "After the Kremlin meeting with Putin, US envoy Witkoff said progress had been made and the next round of trilateral talks would include Europeans. US envoy Kushner called the meeting fruitful.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a824697e3bf81a1e",
-    "c3320e2b1f0a97a4",
-    "cdf25a9ff002bd0e",
-    "a2d7510598bff172"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24tgwpsla2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24tgwpsla2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24tmm74mw25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24tmm74mw25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24tg7iuca2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24tg7iuca2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24tncunm52y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24tncunm52y"
     }
    ],
    "model": "opus",
