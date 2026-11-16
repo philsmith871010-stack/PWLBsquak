@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T21:25:43Z",
+ "generated_at": "2026-11-16T22:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a116aeedb81f",
+   "ts": "2026-11-16T22:18:20Z",
+   "headline": "IMF reports significant progress with Ukraine on reviews of its loan programme and estimates a $32-34bn financing gap for 2027",
+   "detail": "IMF staff say Ukraine's performance under the extended fund facility has improved since the first review, with virtual talks on the second and third reviews ongoing; they estimate a financing gap of $32-34 billion in 2027 and $17 billion in 2028. Given financing assurances, the review will go to the IMF board for approval, opening access to $1.6 billion.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a94326cf1fa09762",
+    "963dad92d5acf12d",
+    "856341d327e742ae",
+    "95500838339ce475",
+    "8503d264f30a1971"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hkmkb35n26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hkmkb35n26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hknx6oj42j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hknx6oj42j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hkoo3jom2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hkoo3jom2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hkrj7etm2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hkrj7etm2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hksaftsf2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hksaftsf2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "39a91c60c236",
+   "created_at": "2026-11-16T22:20:50Z"
+  },
   {
    "id": "64eb338956ba",
    "ts": "2026-11-16T21:24:41Z",
@@ -6815,27 +6860,6 @@
    "model": "opus",
    "run_id": "058fbeaf904b",
    "created_at": "2026-11-12T20:31:04Z"
-  },
-  {
-   "id": "b65fa69b73f0",
-   "ts": "2026-11-12T20:10:12Z",
-   "headline": "Intesa Sanpaolo criticises bank levies in Italy's 2027 budget and says the ECB could step in on lenders' sovereign holdings",
-   "detail": "Reuters reports that Intesa Sanpaolo, Italy's largest bank, objected strongly on Thursday to the taxes on banks planned in Rome's 2027 budget. The bank warned the measures could lead the ECB to ask Italian lenders to cut their exposure to sovereign debt.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "d15d54668f5ad272"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n25bn5k5v32a",
-     "url": "https://bsky.app/profile/reuters.com/post/3n25bn5k5v32a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4cefba9c8690",
-   "created_at": "2026-11-12T20:10:52Z"
   }
  ]
 }
