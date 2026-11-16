@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T18:35:53Z",
+ "generated_at": "2026-11-16T18:40:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d27596c236b5",
+   "ts": "2026-11-16T18:37:47Z",
+   "headline": "US envoy Kushner says Ukraine talks have made progress on security guarantees, a path to EU membership and a postwar security plan",
+   "detail": "US envoy Jared Kushner said negotiations had advanced over the past year on core elements, including security guarantees for Ukraine and its route to EU membership. He added that any final peace agreement would require the consent of both Russia and Ukraine.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8b263d9281918422",
+    "33bbdbdbaafc070d",
+    "b7c68ffa80386b24"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2h6dkwgzh2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2h6dkwgzh2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2h6dkjvxt2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2h6dkjvxt2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2h6ebproy2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2h6ebproy2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fe5d135e430f",
+   "created_at": "2026-11-16T18:40:49Z"
+  },
   {
    "id": "3b33dc1f47b7",
    "ts": "2026-11-16T18:35:24Z",
@@ -6689,45 +6722,6 @@
    "model": "opus",
    "run_id": "3caf3172cbea",
    "created_at": "2026-11-12T18:31:05Z"
-  },
-  {
-   "id": "2eaade4dedb2",
-   "ts": "2026-11-12T18:24:48Z",
-   "headline": "Fed's Daly sees positive momentum for productivity growth and says the AI valuation repricing does not threaten growth",
-   "detail": "San Francisco Fed President Daly said the repricing of AI valuations does not mean interest or enthusiasm is unwinding, so she sees no risk to growth from it. She said productivity growth has positive momentum and could pick up further over the next 1-3 years.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7d9f1a30a7afec15",
-    "dcd7ce9790e54715",
-    "e9b62767563e2d45",
-    "fe323de79ad3d769"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253ls3n352c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253ls3n352c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253nuw3vh2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253nuw3vh2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253qoio5z2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253qoio5z2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253rf7e5c2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253rf7e5c2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "72bbb61da50f",
-   "created_at": "2026-11-12T18:25:45Z"
   }
  ]
 }
