@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T08:40:54Z",
+ "generated_at": "2026-11-16T09:20:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2ab03f12a528",
+   "ts": "2026-11-16T09:10:07Z",
+   "headline": "UK and EU are set to announce food deals and a defence commitment at this week's summit, Reuters reports",
+   "detail": "Reuters reports that Britain and the EU will use a summit this week to set out deals on food and a commitment on defence. The report describes these as a step towards the closer relationship sought by Prime Minister Andy Burnham.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "50f7393d7bcc0442"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2g6mibkby25",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2g6mibkby25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8d7243cd3f39",
+   "created_at": "2026-11-16T09:20:50Z"
+  },
   {
    "id": "be344490566e",
    "ts": "2026-11-16T08:36:02Z",
@@ -6624,27 +6645,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24pecpub42c",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24pecpub42c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d859b6c2b240",
-   "created_at": "2026-11-12T14:45:50Z"
-  },
-  {
-   "id": "66fe5ab7d68e",
-   "ts": "2026-11-12T14:41:07Z",
-   "headline": "Iran's Assembly of Experts says a revision of the country's defence doctrine is unavoidable",
-   "detail": "The statement was reported on Thursday, after Iran said it is reviewing withdrawal from the nuclear Non-Proliferation Treaty.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7dacd623cf699837"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24pap4ejd2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24pap4ejd2q"
     }
    ],
    "model": "opus",
