@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T14:40:53Z",
+ "generated_at": "2026-11-16T14:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b9ee8a197b54",
+   "ts": "2026-11-16T14:42:56Z",
+   "headline": "Trump threatens heavy tariffs on Mexico unless it stops migrant caravans",
+   "detail": "US President Trump said migrant caravans will not be allowed into the US and that he would impose heavy tariffs on Mexico if it does not stop them. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5d92d911c0fc2714",
+    "61016a4d16a9cd6b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gr7mr4lh2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gr7mr4lh2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gr66mab22t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gr66mab22t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4238ef360e83",
+   "created_at": "2026-11-16T14:45:50Z"
+  },
   {
    "id": "22ff70447494",
    "ts": "2026-11-16T14:36:27Z",
@@ -6612,51 +6639,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24w3jio4s2y",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24w3jio4s2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aeb711c21182",
-   "created_at": "2026-11-12T16:45:48Z"
-  },
-  {
-   "id": "202db3c9533b",
-   "ts": "2026-11-12T16:42:40Z",
-   "headline": "Kremlin aide Ushakov calls Putin's talks with US envoys constructive and says the largest prisoner exchange is being arranged",
-   "detail": "Kremlin aide Ushakov and spokesman Peskov described the talks with Witkoff and Kushner as substantive, constructive, frank and productive. Ushakov said the terms of the largest prisoner exchange are being coordinated.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "39547e7bb1715f85",
-    "07f90062b4dd0b53",
-    "a48f2648904d89d3",
-    "8fb6ffa6353ade5a",
-    "0c038ab5277a8d57"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24w22hsqn2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24w22hsqn2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vxviyq62j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vxviyq62j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vxuzjmq2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vxuzjmq2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vx6beth2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vx6beth2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vzdutwq2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vzdutwq2s"
     }
    ],
    "model": "opus",
