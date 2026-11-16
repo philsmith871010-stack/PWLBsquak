@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T11:40:50Z",
+ "generated_at": "2026-11-16T12:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "96b14cceaa6e",
+   "ts": "2026-11-16T12:43:27Z",
+   "headline": "Knot expected to withdraw from the ECB leadership race this week, Volkskrant reports",
+   "detail": "Dutch newspaper Volkskrant reports that Klaas Knot is expected to drop out of the race for the ECB post this week.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "115649ced91a5eb6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gkjydbw62a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gkjydbw62a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3cdd9bd94772",
+   "created_at": "2026-11-16T12:45:50Z"
+  },
   {
    "id": "8d2972fdedf8",
    "ts": "2026-11-16T11:39:37Z",
@@ -6617,33 +6638,6 @@
    "model": "opus",
    "run_id": "170cbb49710d",
    "created_at": "2026-11-12T16:05:45Z"
-  },
-  {
-   "id": "2f7d6d3afa92",
-   "ts": "2026-11-12T16:00:33Z",
-   "headline": "ECB's Vujcic says the direction of travel on rates is unchanged and further price pressures may arrive with a lag",
-   "detail": "ECB Governing Council member Vujcic gave both comments on Thursday afternoon.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "3b68b84bf4dbf8c6",
-    "b9d91e848e188a94"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24toq5xha2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24toq5xha2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24tjru45c2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24tjru45c2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "397099a703cd",
-   "created_at": "2026-11-12T16:01:17Z"
   }
  ]
 }
