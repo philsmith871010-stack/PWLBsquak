@@ -1,8 +1,71 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T19:45:50Z",
+ "generated_at": "2026-11-16T20:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fd7d8668cca5",
+   "ts": "2026-11-16T20:02:52Z",
+   "headline": "RBNZ says global financial stability risks keep rising, citing higher bond yields and stretched AI valuations",
+   "detail": "The Reserve Bank of New Zealand's Financial Stability Report says the financial system and deposit takers remain resilient. It also says higher government bond yields and stretched valuations, particularly among AI-related firms, leave markets vulnerable to a correction, and that domestic stress has eased from last year's peak but remains uneven.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a2974c3a57939016",
+    "f09443bfdff00341",
+    "47f47b9e794f548f",
+    "e480412b5008739c",
+    "ef5dce102ea91846",
+    "e30ea32229747296",
+    "bd234c057da030b1",
+    "874c5999c4ebeeb1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hd2bvy572t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hd2bvy572t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hd2ykaoo2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hd2ykaoo2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hd3pjll32t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hd3pjll32t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hd3paiqa2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hd3paiqa2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hd4ghpde2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hd4ghpde2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hd4gsdyd2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hd4gsdyd2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hd55eo2h26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hd55eo2h26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hd5u2doo2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hd5u2doo2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0500072cbc67",
+   "created_at": "2026-11-16T20:05:43Z"
+  },
   {
    "id": "c40bd4df3e8f",
    "ts": "2026-11-16T19:42:39Z",
@@ -6762,33 +6825,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n255vhhfho2o",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n255vhhfho2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7f346457bd7d",
-   "created_at": "2026-11-12T19:05:41Z"
-  },
-  {
-   "id": "e76a07bb143c",
-   "ts": "2026-11-12T19:01:17Z",
-   "headline": "US October outlays rise to $773bn from $689bn a year earlier as receipts fall to $369bn from $404bn",
-   "detail": "The figures come from the US Treasury's monthly budget statement for October, which showed the wider deficit. Net customs receipts were $19.22bn, compared with $31.35bn in October 2025.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "78a9a2746723106f",
-    "cac3a55b1124383e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n255rvny2h2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n255rvny2h2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n255sme64k2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n255sme64k2u"
     }
    ],
    "model": "opus",
