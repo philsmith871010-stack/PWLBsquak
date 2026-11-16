@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T08:05:47Z",
+ "generated_at": "2026-11-16T08:31:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "870dbf241fdf",
+   "ts": "2026-11-16T08:28:32Z",
+   "headline": "Sweden's foreign minister says Russia is still not serious about Ukraine peace talks, pointing to its demands",
+   "detail": "Sweden's foreign minister said Russia is still not engaging seriously on peace in Ukraine and called the demands it is now making absurd. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "606ab105519d366c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4c5cjd72a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4c5cjd72a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8111ddb70317",
+   "created_at": "2026-11-16T08:31:08Z"
+  },
   {
    "id": "c578c7213ff6",
    "ts": "2026-11-16T08:02:33Z",
@@ -6569,45 +6590,6 @@
    "model": "opus",
    "run_id": "11ba322c9277",
    "created_at": "2026-11-12T14:35:41Z"
-  },
-  {
-   "id": "3ef63a250a25",
-   "ts": "2026-11-12T14:30:21Z",
-   "headline": "About 40 countries are set to sign a draft European security declaration backing Ukraine's sovereignty and security guarantees",
-   "detail": "Reuters reports that it has seen a draft declaration on the key principles of European security. The draft supports Ukraine's territorial integrity, calls for robust security guarantees for Ukraine and says any matter affecting European security should be decided with the Europeans.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9e8b4dae9fdc96fc",
-    "5e41b1bf7a8761f7",
-    "fd6ae1a284d7e253",
-    "d22eef3b6dbad804"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24ongsbzk2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24ongsbzk2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24onh5fik2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24onh5fik2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24oni2xm52r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24oni2xm52r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24ooasprd2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24ooasprd2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "715a7d202c17",
-   "created_at": "2026-11-12T14:31:03Z"
   }
  ]
 }
