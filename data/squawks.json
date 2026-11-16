@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T20:35:40Z",
+ "generated_at": "2026-11-16T21:10:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0fc1288fc200",
+   "ts": "2026-11-16T21:06:27Z",
+   "headline": "UK Prime Minister Burnham says Britain's exit from Europe left bad feeling on both sides",
+   "detail": "Prime Minister Burnham commented on the UK's departure from Europe ahead of this week's UK-EU summit. The post did not report any new policy step.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7e3b3e5ffe315624"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hgnfahcw26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hgnfahcw26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "48ca49bea106",
+   "created_at": "2026-11-16T21:10:56Z"
+  },
   {
    "id": "a91200183212",
    "ts": "2026-11-16T20:31:43Z",
@@ -6821,27 +6842,6 @@
    "model": "opus",
    "run_id": "001cac16c022",
    "created_at": "2026-11-12T19:35:44Z"
-  },
-  {
-   "id": "a72e8321a47a",
-   "ts": "2026-11-12T19:16:21Z",
-   "headline": "Brent rises 3% and WTI 2.36% as oil futures extend gains after Iranian state media reports an enemy strike on Iran",
-   "detail": "Oil futures add to earlier gains after Iran's state news agency IRNA reports an enemy strike on Iranian territory. Brent was last up 3% and WTI up 2.36%.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "c47e88054e6025a3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n256mu7a672k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n256mu7a672k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c05be58b80e3",
-   "created_at": "2026-11-12T19:20:49Z"
   }
  ]
 }
