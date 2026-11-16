@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T17:01:29Z",
+ "generated_at": "2026-11-16T17:05:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dcf302443ba7",
+   "ts": "2026-11-16T17:05:17Z",
+   "headline": "Fed Chair Warsh warns superintelligence could be highly disruptive and costly, with outcomes up to high unemployment",
+   "detail": "In a speech, Fed Chair Warsh said the risks of superintelligence should not be overlooked. He said outcomes could range from widely shared gains to high unemployment, or to a slowdown caused by falling equity valuations if the technology disappoints.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "269557e64f2615c4",
+    "fadd7f04f24f11a4",
+    "2323d843984a251f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gz66ghst2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gz66ghst2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gz66wqwt2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gz66wqwt2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gyykk4uw2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gyykk4uw2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "28e054d5c0b0",
+   "created_at": "2026-11-16T17:05:44Z"
+  },
   {
    "id": "bd48f486d63f",
    "ts": "2026-11-16T17:00:57Z",
@@ -6690,33 +6723,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2523t37hr2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2523t37hr2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7fec2429cc4d",
-   "created_at": "2026-11-12T17:55:41Z"
-  },
-  {
-   "id": "03093818c03d",
-   "ts": "2026-11-12T17:54:50Z",
-   "headline": "Houthis say they hit Saudi Aramco in Riyadh with a drone",
-   "detail": "A Houthi military spokesperson said the group struck Saudi Aramco in the Saudi capital, Riyadh, and that the operation achieved its objective. This follows an earlier Houthi claim of attacks on the East-West pipeline and Yanbu. No market reaction was reported in the posts.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "0ddbd8436cd31edb",
-    "c2eac13be6e4751b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25233plqr2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25233plqr2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2524kd72b2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2524kd72b2k"
     }
    ],
    "model": "opus",
