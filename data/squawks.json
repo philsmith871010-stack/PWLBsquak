@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T09:20:50Z",
+ "generated_at": "2026-11-16T09:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "339ecee65c23",
+   "ts": "2026-11-16T09:22:24Z",
+   "headline": "ECB's Vujcic sees no reason to change course on rates and says market pricing of another hike in 2027 looks reasonable",
+   "detail": "ECB Governing Council member Boris Vujcic said there was no reason to change the direction of travel on rates. He added that markets pricing a further rate rise in 2027 did not seem unreasonable.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "fe3e2d2558fe411c",
+    "1a4bfd86027b70a5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g7chjehr2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g7chjehr2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g7ci4vtt2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g7ci4vtt2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a71449aee308",
+   "created_at": "2026-11-16T09:25:41Z"
+  },
   {
    "id": "2ab03f12a528",
    "ts": "2026-11-16T09:10:07Z",
@@ -6618,33 +6645,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24pc5n35e2c",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24pc5n35e2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d859b6c2b240",
-   "created_at": "2026-11-12T14:45:50Z"
-  },
-  {
-   "id": "b306f307e120",
-   "ts": "2026-11-12T14:43:08Z",
-   "headline": "Iranian army says two tankers have hit naval mines while passing through the Strait of Hormuz",
-   "detail": "Iranian state TV carried the army statement. It follows an earlier IRGC Navy report that a third tanker had exploded in the strait after hitting a mine.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "f1777ff816fb694b",
-    "affab53aa1a9bf50"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24pecdsje2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24pecdsje2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24pecpub42c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24pecpub42c"
     }
    ],
    "model": "opus",
