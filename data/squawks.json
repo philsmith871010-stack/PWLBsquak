@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T12:45:50Z",
+ "generated_at": "2026-11-16T13:01:21Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8052390e73a3",
+   "ts": "2026-11-16T12:58:13Z",
+   "headline": "European Commission imposes anti-dumping duties on cold-rolled flat steel from India, Japan, Taiwan, Turkey and Vietnam",
+   "detail": "The European Commission has imposed anti-dumping duties on some cold-rolled flat steel products imported from India, Japan, Taiwan, Turkey and Vietnam.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "41ee3c7af301fbd4",
+    "93cfb559930cf31a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gleeqclq2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gleeqclq2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2glgiobxy2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2glgiobxy2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d1af54fd9f31",
+   "created_at": "2026-11-16T13:01:21Z"
+  },
   {
    "id": "96b14cceaa6e",
    "ts": "2026-11-16T12:43:27Z",
@@ -6612,27 +6639,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24tsd6mss2g",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24tsd6mss2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "170cbb49710d",
-   "created_at": "2026-11-12T16:05:45Z"
-  },
-  {
-   "id": "6a4d56f831bc",
-   "ts": "2026-11-12T16:01:46Z",
-   "headline": "US envoy Kushner calls Kremlin talks with Putin thorough and a basis for further consultations",
-   "detail": "Reports say US envoy Kushner described the latest Ukraine talks with Putin as thorough and detailed. He said they would serve as a foundation for future consultations.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "52c2da66732de533"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24tqvinig2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24tqvinig2o"
     }
    ],
    "model": "opus",
