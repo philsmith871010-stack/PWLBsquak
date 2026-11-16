@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T20:10:48Z",
+ "generated_at": "2026-11-16T20:20:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "51b7bc601abd",
+   "ts": "2026-11-16T20:17:38Z",
+   "headline": "Iranian state media says a fourth tanker in 24 hours has hit a mine in the Strait of Hormuz",
+   "detail": "Iran's state broadcaster IRIB reports that a fourth tanker has struck a mine in the Strait of Hormuz within 24 hours. The post gives no further details and reports no market reaction.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9fb8bd00579aa59f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hdw4oedj2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hdw4oedj2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bc5453332f0e",
+   "created_at": "2026-11-16T20:20:52Z"
+  },
   {
    "id": "fec3be2e1590",
    "ts": "2026-11-16T20:10:16Z",
@@ -6803,27 +6824,6 @@
    "model": "opus",
    "run_id": "0c6535e8a5d3",
    "created_at": "2026-11-12T19:15:49Z"
-  },
-  {
-   "id": "9368cc4171db",
-   "ts": "2026-11-12T19:10:04Z",
-   "headline": "Fed's Schmid says the Fed must bring inflation down to its 2% goal",
-   "detail": "Kansas City Fed President Schmid said the Fed has to return inflation to its 2% mandated target, adding to his earlier remark that inflation has not yet been defeated.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0462a29038bdfa0d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n256bmt3iq2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n256bmt3iq2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ec50b4582534",
-   "created_at": "2026-11-12T19:10:49Z"
   }
  ]
 }
