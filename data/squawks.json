@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T17:35:40Z",
+ "generated_at": "2026-11-16T17:40:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "45f4a06136ea",
+   "ts": "2026-11-16T17:35:45Z",
+   "headline": "Fed Chair Warsh says the AI boom could support markedly faster US growth without fuelling inflation",
+   "detail": "The Financial Times reports that Fed Chair Warsh said AI-driven innovation could hold US GDP above its long-run average without adding to inflation.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "372b68273d742c76"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2h2un3q3g22",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2h2un3q3g22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ed0e0ee0c8e4",
+   "created_at": "2026-11-16T17:40:48Z"
+  },
   {
    "id": "6c2bfaeb0c56",
    "ts": "2026-11-16T17:31:50Z",
@@ -6713,39 +6734,6 @@
    "model": "opus",
    "run_id": "8570e32b6521",
    "created_at": "2026-11-12T18:15:46Z"
-  },
-  {
-   "id": "ab82635f0d1b",
-   "ts": "2026-11-12T18:02:44Z",
-   "headline": "US $25bn 30-year bond auction stops at 5.441% with a 0.4bp tail; bid-to-cover falls to 2.36",
-   "detail": "The US Treasury's 30-year auction drew a high yield of 5.441%, down from 5.618% at the previous sale, while bid-to-cover dropped to 2.36 from 2.540. Indirect bidders took 68.11%, direct bidders 20.5% and primary dealers 11.39%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "1a31098e2017a8a9",
-    "5dc85329034e1747",
-    "237a167a1a256265"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n252j7ur4b2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n252j7ur4b2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n252ja6c4j2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n252ja6c4j2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n252jxcbnt2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n252jxcbnt2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bd839e11715d",
-   "created_at": "2026-11-12T18:05:42Z"
   }
  ]
 }
