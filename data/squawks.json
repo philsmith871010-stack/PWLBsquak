@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T17:40:48Z",
+ "generated_at": "2026-11-16T17:55:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3549a96b792a",
+   "ts": "2026-11-16T17:54:54Z",
+   "headline": "Iran's army shoots down a US MQ-1 drone near the Strait of Hormuz, Iranian media report",
+   "detail": "Iran's Mehr News Agency reports that Iranian army air defences downed an American MQ-1 drone close to the Strait of Hormuz. Separately, Mehr reports that air defence systems were activated in Isfahan minutes earlier; no market reaction is reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "cee3cae48dd3f010",
+    "c6da516bec4edaec"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2h3wuvpfh2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2h3wuvpfh2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2h3puwntx2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2h3puwntx2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "92114673e677",
+   "created_at": "2026-11-16T17:55:46Z"
+  },
   {
    "id": "45f4a06136ea",
    "ts": "2026-11-16T17:35:45Z",
@@ -6707,33 +6734,6 @@
    "model": "opus",
    "run_id": "41f6df7e5834",
    "created_at": "2026-11-12T18:20:50Z"
-  },
-  {
-   "id": "688786fd95c8",
-   "ts": "2026-11-12T18:14:04Z",
-   "headline": "Fed's Daly says a technology boom is driving the US economy and the AI pipeline is deep enough to continue if it slows",
-   "detail": "San Francisco Fed President Mary Daly said the US economy is being driven by a technology boom. She added that the AI investment pipeline is deep, so it would continue even if it slowed.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "3ad909da7798f565",
-    "a99177f54981ccbe"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2535iejss2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2535iejss2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2537noubr2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2537noubr2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8570e32b6521",
-   "created_at": "2026-11-12T18:15:46Z"
   }
  ]
 }
