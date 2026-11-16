@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T11:10:54Z",
+ "generated_at": "2026-11-16T11:25:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d903690d163f",
+   "ts": "2026-11-16T11:25:20Z",
+   "headline": "EU Council sanctions 30 individuals and two entities over Russian disinformation and cyber activity",
+   "detail": "The Council of the EU says the listings fall under its regime on Russian foreign information manipulation and malicious cyber activity. They include the pro-Russian hacker group NoName057, the Moscow-based PR firm Social Design Agency and Chay Bowes of RT International.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c5fa6a9ee252150c",
+    "3b4ff58e31346875",
+    "32e266429d3625e6",
+    "8512ca45791e0aa9",
+    "08a70c4313117eef"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gg6c2gjy2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gg6c2gjy2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gg45du3z2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gg45du3z2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gg5lamz72w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gg5lamz72w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gg6zojeg26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gg6zojeg26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gg45vfcd2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gg45vfcd2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3c8e7bc32fd1",
+   "created_at": "2026-11-16T11:25:48Z"
+  },
   {
    "id": "74d445e8850c",
    "ts": "2026-11-16T11:07:23Z",
@@ -6594,27 +6639,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24tj2seo42q",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24tj2seo42q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "397099a703cd",
-   "created_at": "2026-11-12T16:01:17Z"
-  },
-  {
-   "id": "1388acdbe88d",
-   "ts": "2026-11-12T15:56:35Z",
-   "headline": "Fed's Barr says he is worried that deregulation is taking place in a risk-on environment",
-   "detail": "Federal Reserve Governor Barr made the comment in remarks on Thursday that also covered AI risks to banks and the labour market.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "3ff35f4f3e989039"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24thnkers2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24thnkers2g"
     }
    ],
    "model": "opus",
