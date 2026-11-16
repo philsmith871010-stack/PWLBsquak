@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T19:25:42Z",
+ "generated_at": "2026-11-16T19:31:07Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a477274d111b",
+   "ts": "2026-11-16T19:27:22Z",
+   "headline": "US Vice President Vance says the US will not let Iran turn into even a two-year commitment",
+   "detail": "US Vice President JD Vance made the remark in a Fox News clip. The inputs report no market reaction.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "88bbb1ef9bab1c92"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hb4a3u422s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hb4a3u422s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "768ed4d803e4",
+   "created_at": "2026-11-16T19:31:07Z"
+  },
   {
    "id": "5ff2081b5bea",
    "ts": "2026-11-16T19:24:15Z",
@@ -6756,27 +6777,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2554tsfys2j",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2554tsfys2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8e078fd0062c",
-   "created_at": "2026-11-12T18:50:48Z"
-  },
-  {
-   "id": "9e379734864b",
-   "ts": "2026-11-12T18:46:47Z",
-   "headline": "Fed's Schmid says the Fed has not yet defeated inflation",
-   "detail": "Kansas City Fed President Jeffrey Schmid said the Fed has still not won its fight against inflation.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a120c32dae2351de"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n254xxnuuv2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n254xxnuuv2m"
     }
    ],
    "model": "opus",
