@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T15:25:43Z",
+ "generated_at": "2026-11-16T15:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e8ad0c7759c9",
+   "ts": "2026-11-16T15:32:51Z",
+   "headline": "EU's Kallas says a ceasefire must come before any talks with Russia on security architecture",
+   "detail": "The EU's foreign policy chief said on Monday that a ceasefire in Ukraine must be in place before the bloc discusses security architecture with Russia. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0f16287292b0c3c9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gtyup7zu2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gtyup7zu2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "773eb5bb8df4",
+   "created_at": "2026-11-16T15:35:41Z"
+  },
   {
    "id": "026c4f9fd7ad",
    "ts": "2026-11-16T15:24:13Z",
@@ -6641,33 +6662,6 @@
    "model": "opus",
    "run_id": "a74883cbd876",
    "created_at": "2026-11-12T17:05:51Z"
-  },
-  {
-   "id": "72aecf13ffd8",
-   "ts": "2026-11-12T16:59:19Z",
-   "headline": "Fed updates its 2027 FOMC calendar and drops the October rate meeting",
-   "detail": "The Federal Reserve has published a revised 2027 FOMC meeting calendar that no longer includes an October policy meeting.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "127b7712edf17622",
-    "50ed4c83acb4c9eb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24wxsig4q2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24wxsig4q2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24wyjbg542c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24wyjbg542c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "835f1eef9ef1",
-   "created_at": "2026-11-12T17:01:15Z"
   }
  ]
 }
