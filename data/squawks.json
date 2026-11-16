@@ -1,8 +1,98 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T13:35:48Z",
+ "generated_at": "2026-11-16T14:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "07d14c180e51",
+   "ts": "2026-11-16T14:05:05Z",
+   "headline": "Houthis take territory on Yemen's southern coast and move closer to Aden after government forces pull back",
+   "detail": "Reuters, citing military sources, reported on Monday that Houthi fighters have seized ground on the southern coast after Saudi-backed government forces fell back to defend Aden.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "54aab78a39e50186"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2gp3wh6zu2f",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2gp3wh6zu2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5915a4d6a2cd",
+   "created_at": "2026-11-16T14:05:41Z"
+  },
+  {
+   "id": "162f942e42ad",
+   "ts": "2026-11-16T14:01:46Z",
+   "headline": "Kremlin says Putin-Trump-Xi joint statement is under negotiation ahead of the 19 November meeting, and that Putin will meet Trump",
+   "detail": "The Kremlin said the three-way meeting will take place on 19 November at Xi's official residence. It expects a joint communique, and said Putin and Trump will hold separate talks that day, with format and venue still being finalised; Putin is also due to brief Xi on 18 November about his contacts with the US, including the Abu Dhabi talks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1eb89665ddc6689b",
+    "ea7eab8acd424e9f",
+    "d536f7ced0f8b532",
+    "da264413deb63e65",
+    "0e0ba618aacfb80e",
+    "801492b234e071e4",
+    "4cf4ea931542eae6",
+    "88c489ae7e936be0",
+    "9984da98613039f9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2govz5wou2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2govz5wou2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2govytguf2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2govytguf2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2govyinxk2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2govyinxk2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gowqlobc2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gowqlobc2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gowqwopp2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gowqwopp2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gowpxqi72d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gowpxqi72d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gova32g52p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gova32g52p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2govaqigl2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2govaqigl2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2goy6ejpn24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2goy6ejpn24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5915a4d6a2cd",
+   "created_at": "2026-11-16T14:05:41Z"
+  },
   {
    "id": "d673a85f8af0",
    "ts": "2026-11-16T13:31:00Z",
@@ -6620,78 +6710,6 @@
    "model": "opus",
    "run_id": "15a764cd74f1",
    "created_at": "2026-11-12T16:40:48Z"
-  },
-  {
-   "id": "f91b83a52750",
-   "ts": "2026-11-12T16:32:39Z",
-   "headline": "US 4-week bill auction sells $115bn at a high yield of 3.955%, up from 3.890% last time",
-   "detail": "Bid-to-cover was 2.94, against 2.46 at the previous sale, and 26.54% of bids were awarded at the high yield.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "96edace98dfe1ce1",
-    "2d45364250b429d8",
-    "31a2712d9fd2da05"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vi54ta42c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vi54ta42c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vi4u7xv2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vi4u7xv2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vkyyxcz2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vkyyxcz2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5edf44d8975f",
-   "created_at": "2026-11-12T16:35:47Z"
-  },
-  {
-   "id": "bab48eb954cf",
-   "ts": "2026-11-12T16:31:26Z",
-   "headline": "IMF says the Fed will need to keep policy restrictive to support disinflation",
-   "detail": "The IMF backs the Fed's focus on price stability and its readiness to act to bring inflation down. It says shifts in AI investment would affect US inflation but it is too early to judge the effect of recent developments, and it is monitoring stock volatility in the AI sector.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "69bce49584ee0a6a",
-    "8838cdd881b53a78",
-    "1c51bb125aad49bf",
-    "a2f1bc350c2ebce3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vfxlocb2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vfxlocb2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vfycko72q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vfycko72q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vfxwjvy2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vfxwjvy2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vkzdg522u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vkzdg522u"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5edf44d8975f",
-   "created_at": "2026-11-12T16:35:47Z"
   }
  ]
 }
