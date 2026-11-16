@@ -1,8 +1,71 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T19:20:48Z",
+ "generated_at": "2026-11-16T19:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5ff2081b5bea",
+   "ts": "2026-11-16T19:24:15Z",
+   "headline": "Fed's Hammack wants policy to reach a restrictive stance and says financial conditions are not yet restraining the economy",
+   "detail": "Cleveland Fed President Hammack said higher market borrowing costs are needed to restrain the economy, that the economy can cope with more restriction and that it is unclear how far the Fed must go. She also said AI is adding to inflation pressures now, that strong growth and Fed expectations are pushing rates higher, and that 2% remains a reasonable inflation goal.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "2789546de06710dd",
+    "46e61331bc0baaad",
+    "5e18ce8e459db8fd",
+    "dbe392b507a1d824",
+    "d0e90f40fa552822",
+    "42b8265cbdbc752d",
+    "cb6ac311f0993cdf",
+    "90ac57135c1fd9d5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2harpyhgi2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2harpyhgi2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hattemjx2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hattemjx2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hauk64il2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hauk64il2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2havaqd6f2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2havaqd6f2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2havxgwt32t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2havxgwt32t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hawo3hs52t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hawo3hs52t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hawoejtr24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hawoejtr24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2haxeze352b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2haxeze352b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "90ebe3207c72",
+   "created_at": "2026-11-16T19:25:42Z"
+  },
   {
    "id": "2f07e0b09cd4",
    "ts": "2026-11-16T19:16:46Z",
@@ -6719,33 +6782,6 @@
    "model": "opus",
    "run_id": "8e078fd0062c",
    "created_at": "2026-11-12T18:50:48Z"
-  },
-  {
-   "id": "2ccb537fbc5e",
-   "ts": "2026-11-12T18:44:01Z",
-   "headline": "Fed's Daly says the economy can be slowed while growth stays good, and describes the US labour market as stable",
-   "detail": "San Francisco Fed President Daly said the US has a stable labour market, positive growth and productivity growth alongside high inflation. She said the Fed must focus on bringing inflation down and that services inflation tends to be sticky once it rises.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ca4d393946b54c0f",
-    "88e5591233ed7212"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n254t224pq25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n254t224pq25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n254t2fkwz2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n254t2fkwz2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f56cdd406ffe",
-   "created_at": "2026-11-12T18:45:52Z"
   }
  ]
 }
