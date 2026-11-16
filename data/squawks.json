@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T14:05:41Z",
+ "generated_at": "2026-11-16T14:10:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3dbcefca7e78",
+   "ts": "2026-11-16T14:10:26Z",
+   "headline": "New York Fed's Nordstrom says FX markets are holding up well despite an uncertain global economy",
+   "detail": "Julie Nordstrom, an official at the New York Fed, said foreign exchange markets have stayed resilient against an uncertain global economic backdrop. No market reaction was reported.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "35d180274676bb30"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gpfinuph2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gpfinuph2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8f5b5f329e19",
+   "created_at": "2026-11-16T14:10:49Z"
+  },
   {
    "id": "07d14c180e51",
    "ts": "2026-11-16T14:05:05Z",
@@ -6624,87 +6645,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vsut2oy2g",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vsut2oy2g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "15a764cd74f1",
-   "created_at": "2026-11-12T16:40:48Z"
-  },
-  {
-   "id": "60c923335a20",
-   "ts": "2026-11-12T16:38:39Z",
-   "headline": "Kremlin says Putin and US envoys agreed Ukraine peace talks will go on, with Putin to meet Trump at the APEC summit in China",
-   "detail": "The Kremlin called the talks with US envoys Witkoff and Kushner useful and constructive, and said Putin will continue the Ukraine discussion with Trump at the APEC summit later this month. It also said it attaches great importance to a three-way meeting with Xi, and that the US envoys backed Putin's proposal for a humanitarian operation in Kostiantynivka, where Russia says it is ready to start demining immediately.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c24ee910526fd0b7",
-    "aaee75d090ce2671",
-    "a1b0dbd2e5dd97f8",
-    "90086cff3dff7078",
-    "7e8c453784c18515",
-    "453834abdff02f30",
-    "e569575e4e2bcb9b",
-    "15f0b6715b896040",
-    "1d1247b9a05857e6",
-    "99742625103896c2",
-    "8ba1c362e86c161f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vsttd3w2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vsttd3w2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vs4xk462j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vs4xk462j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vqmuora2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vqmuora2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vrfmyhr2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vrfmyhr2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vtlxb5a2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vtlxb5a2o"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vqnxaey2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vqnxaey2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vqo7roc2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vqo7roc2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vvpzqzg2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vvpzqzg2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vpw5xsv25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vpw5xsv25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vtllwxg2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vtllwxg2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24vtmbjej2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24vtmbjej2y"
     }
    ],
    "model": "opus",
