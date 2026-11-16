@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T20:05:43Z",
+ "generated_at": "2026-11-16T20:10:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fec3be2e1590",
+   "ts": "2026-11-16T20:10:16Z",
+   "headline": "RBNZ says domestic financial stress has eased from last year's peak but remains uneven; deposit takers well placed",
+   "detail": "The Reserve Bank of New Zealand says sectors that depend on discretionary spending still face challenges, while deposit takers are well positioned to manage financial risks.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b390a30b531a1f72"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hdiwnort24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hdiwnort24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6b85785abf2f",
+   "created_at": "2026-11-16T20:10:48Z"
+  },
   {
    "id": "fd7d8668cca5",
    "ts": "2026-11-16T20:02:52Z",
@@ -6803,33 +6824,6 @@
    "model": "opus",
    "run_id": "ec50b4582534",
    "created_at": "2026-11-12T19:10:49Z"
-  },
-  {
-   "id": "e73cb0c5e8a3",
-   "ts": "2026-11-12T19:04:51Z",
-   "headline": "Iran's southern port town of Sirik in Hormozgan province is hit by enemy fire, Iranian state media reports",
-   "detail": "Iran's state news agency IRNA said Sirik, in Hormozgan province on the Strait of Hormuz coast, was hit by what it called enemy fire. Earlier reports also referred to an attack on the town. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "8d82d16f0a718895",
-    "67345b7aac24743f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n255ybqffv2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n255ybqffv2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n255vhhfho2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n255vhhfho2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7f346457bd7d",
-   "created_at": "2026-11-12T19:05:41Z"
   }
  ]
 }
