@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T06:35:51Z",
+ "generated_at": "2026-11-16T07:21:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2810f74bcc6f",
+   "ts": "2026-11-16T07:18:56Z",
+   "headline": "EU's Kallas calls Russian demands a pretext to keep the war going and says talks must now turn to substance",
+   "detail": "The EU foreign policy chief said European leaders have settled the format for talks with Russia on Ukraine and must now discuss substance. She described Russia's demands as a clear pretext to continue the war.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4ce23235e13a3520",
+    "ec1b588e34bc1724"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fyeye3kz2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fyeye3kz2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fyfp3lj32j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fyfp3lj32j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bb42dfdb989c",
+   "created_at": "2026-11-16T07:21:03Z"
+  },
   {
    "id": "4ce988ed5194",
    "ts": "2026-11-16T06:02:02Z",
@@ -6581,75 +6608,6 @@
    "model": "opus",
    "run_id": "ddd2b071f41c",
    "created_at": "2026-11-12T14:10:49Z"
-  },
-  {
-   "id": "ad8d837bb101",
-   "ts": "2026-11-12T14:04:27Z",
-   "headline": "Fed's Hammack sees broadening price pressures and secondary effects from energy, but says the Fed is not behind the curve",
-   "detail": "Cleveland Fed President Hammack said recent inflation data show price pressures broadening, including secondary effects from energy. She said she does not think the Fed is behind the curve, but would consider larger or more aggressive moves if it fell behind.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "7e4eb0046cb8789f",
-    "56a2454d4a2cecac",
-    "fe19f60f73c563eb",
-    "03deae33e577ac02",
-    "a9a8efbab483c30d",
-    "78901d8711442d5c",
-    "bb29ad5a8c8ff6e0",
-    "c0f1f812077ae411",
-    "4a6e64ae8063d670"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24n473pli2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24n473pli2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24n4wicm52y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24n4wicm52y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24n6fhj2p2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24n6fhj2p2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24n74la572c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24n74la572c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24n7tdrlf2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24n7tdrlf2o"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24nakdqfh2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24nakdqfh2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24n22hrvs2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24n22hrvs2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24n6f6vwv2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24n6f6vwv2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24n6fuagn2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24n6fuagn2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "75b76b066632",
-   "created_at": "2026-11-12T14:05:39Z"
   }
  ]
 }
