@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T18:01:10Z",
+ "generated_at": "2026-11-16T18:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "63f79cadbeeb",
+   "ts": "2026-11-16T18:01:55Z",
+   "headline": "Zelenskiy says leaders will meet in Berlin to agree negotiating steps after online talks with US envoys",
+   "detail": "Ukraine's president said leaders will gather in Berlin to agree the next negotiating steps. He added that a new round of online discussions took place on Monday, with US envoys Witkoff and Kushner and European representatives taking part.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "248dc88b65a13b63",
+    "d451fbcf24800425"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2h4dghsbe2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2h4dghsbe2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2h4joofbd2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2h4joofbd2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2d716fa5c9fe",
+   "created_at": "2026-11-16T18:05:42Z"
+  },
   {
    "id": "1682ecc36b71",
    "ts": "2026-11-16T16:15:38Z",
@@ -6708,27 +6735,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253ixasgk2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253ixasgk2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "41f6df7e5834",
-   "created_at": "2026-11-12T18:20:50Z"
-  },
-  {
-   "id": "2b61a180a100",
-   "ts": "2026-11-12T18:18:06Z",
-   "headline": "UK is reported to be close to a major deal with the EU",
-   "detail": "The i newspaper reports growing optimism that the UK is on the verge of a landmark agreement with the EU. No terms or timing were given.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9e1aa11964f619c6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253eongoq2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253eongoq2y"
     }
    ],
    "model": "opus",
