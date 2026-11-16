@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T07:21:03Z",
+ "generated_at": "2026-11-16T07:55:26Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f9df903d3fe7",
+   "ts": "2026-11-16T07:51:20Z",
+   "headline": "EU foreign ministers to agree a new package of Russia sanctions today with 113 listings, Ireland's foreign minister says",
+   "detail": "Ireland's foreign minister says EU foreign ministers will agree a new Russia sanctions package on Monday, and that it will include 113 listings.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "51bef0d853aff7bb",
+    "16c9f1e1bd64fc8c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g27mjgag2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g27mjgag2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g27mvbap2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g27mvbap2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "064f928c6717",
+   "created_at": "2026-11-16T07:55:26Z"
+  },
+  {
+   "id": "cdec942c74ef",
+   "ts": "2026-11-16T07:50:07Z",
+   "headline": "China calls this week's trilateral meeting of the Chinese, US and Russian leaders groundbreaking",
+   "detail": "China's Foreign Ministry said on Monday that this week's meeting between Xi, Trump and Putin is of groundbreaking significance and will support world peace and stability, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ea5ce1949a6a78d5"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2g25gw7tv2b",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2g25gw7tv2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "064f928c6717",
+   "created_at": "2026-11-16T07:55:26Z"
+  },
   {
    "id": "2810f74bcc6f",
    "ts": "2026-11-16T07:18:56Z",
@@ -6560,54 +6608,6 @@
    "model": "opus",
    "run_id": "715a7d202c17",
    "created_at": "2026-11-12T14:31:03Z"
-  },
-  {
-   "id": "7ed5fb306ac7",
-   "ts": "2026-11-12T14:17:46Z",
-   "headline": "Fed's Hammack says financial conditions are supportive of growth",
-   "detail": "Cleveland Fed President Beth Hammack said current financial conditions are supporting growth. She made the remark in further comments on 12 November.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a859d3922f3b66d9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24nwwp33t2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24nwwp33t2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a08e419cac62",
-   "created_at": "2026-11-12T14:20:50Z"
-  },
-  {
-   "id": "71c764d9d8bd",
-   "ts": "2026-11-12T14:06:02Z",
-   "headline": "Fed's Hammack calls the US job market static and says it lacks the dynamism to be described as healthy",
-   "detail": "Cleveland Fed President Beth Hammack made the remarks on the labour market on Thursday, during the same appearance in which she discussed inflation and the policy stance.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a0211e2ffec5d96d",
-    "a871244e426dd90a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24nbxkkd32j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24nbxkkd32j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24ncobd3t2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24ncobd3t2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ddd2b071f41c",
-   "created_at": "2026-11-12T14:10:49Z"
   }
  ]
 }
