@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T07:55:26Z",
+ "generated_at": "2026-11-16T08:05:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c578c7213ff6",
+   "ts": "2026-11-16T08:02:33Z",
+   "headline": "Lithuania's foreign minister says a ceasefire must come before any talks with Russia on European security architecture",
+   "detail": "Lithuania's foreign minister said that discussing European security architecture with Russia now would be a trap and that a ceasefire in Ukraine is needed first. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c8ab9556ec067903"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g2tonh7b2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g2tonh7b2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f26b08d5aa12",
+   "created_at": "2026-11-16T08:05:47Z"
+  },
   {
    "id": "f9df903d3fe7",
    "ts": "2026-11-16T07:51:20Z",
@@ -6582,27 +6603,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24ooasprd2q",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24ooasprd2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "715a7d202c17",
-   "created_at": "2026-11-12T14:31:03Z"
-  },
-  {
-   "id": "b4e3839a2e54",
-   "ts": "2026-11-12T14:29:09Z",
-   "headline": "Mexico's Sheinbaum says no migrant caravan has reached the US border since Trump took office",
-   "detail": "Mexico's president made the remarks after Trump threatened to double tariffs on Mexico immediately unless it stops migrant caravans.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5f1194f6976d06bc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24olc7mgk2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24olc7mgk2r"
     }
    ],
    "model": "opus",
