@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T11:25:48Z",
+ "generated_at": "2026-11-16T11:31:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "464941f6835f",
+   "ts": "2026-11-16T11:29:18Z",
+   "headline": "European Commission says it is ready to host Ukraine talks in Europe, including with Russian delegates",
+   "detail": "A European Commission spokesperson said the EU is prepared to host Ukraine talks in Europe that would include Russian delegates. The statement follows the EU's agreement on which countries and institutions will represent Europe in the peace talks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6a03310fe812ee67"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ggfejt6b2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ggfejt6b2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7298d17edc84",
+   "created_at": "2026-11-16T11:31:08Z"
+  },
   {
    "id": "d903690d163f",
    "ts": "2026-11-16T11:25:20Z",
@@ -6618,27 +6639,6 @@
      "author": "financialtimes.com",
      "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n24tlicpuw22",
      "url": "https://bsky.app/profile/financialtimes.com/post/3n24tlicpuw22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "397099a703cd",
-   "created_at": "2026-11-12T16:01:17Z"
-  },
-  {
-   "id": "9acb4935ed9d",
-   "ts": "2026-11-12T15:57:23Z",
-   "headline": "Iran's military says four oil tankers were hit by explosions in the Strait of Hormuz",
-   "detail": "Iran's military said on Thursday that the four vessels had ignored warnings and entered waters of the strait that it treats as restricted. Earlier, the Iranian army had said two tankers hit naval mines in the strait.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "12a257b7a7f0c164"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24tj2seo42q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24tj2seo42q"
     }
    ],
    "model": "opus",
