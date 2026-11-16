@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T08:31:08Z",
+ "generated_at": "2026-11-16T08:35:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a1050add861f",
+   "ts": "2026-11-16T08:32:27Z",
+   "headline": "ECB's Vujcic calls financial stability risks elevated, citing AI and sovereign debt, and says energy prices may push inflation higher",
+   "detail": "ECB policymaker Vujcic says AI and high debts are the leading risks to financial stability, while private-credit risks look contained but need monitoring. He says wages are not responding materially to inflation, recent energy price moves may lift inflation, weaker confidence and higher borrowing costs should partly contain it, and Europe's economy is very resilient.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "a48bba62a48b7c8c",
+    "5822e87b32ba37be",
+    "9dec94d1bc6d47f3",
+    "ee408dd6532d6a22",
+    "8251a0e4907fca79",
+    "927b9c0a81108bb7",
+    "220d6287804a2931",
+    "4a528b865f72367f",
+    "d62dcaf8434b1520"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4hpxrlh2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4hpxrlh2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4hpmh6u2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4hpmh6u2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4igvsqu2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4igvsqu2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4j5k5en2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4j5k5en2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4j5wagd2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4j5wagd2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4jurngu2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4jurngu2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4jvivfy2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4jvivfy2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4jv57st2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4jv57st2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4osmdjk2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4osmdjk2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7ad0b67cea3d",
+   "created_at": "2026-11-16T08:35:40Z"
+  },
   {
    "id": "870dbf241fdf",
    "ts": "2026-11-16T08:28:32Z",
@@ -6564,27 +6633,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24ooyrnr32q",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24ooyrnr32q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "11ba322c9277",
-   "created_at": "2026-11-12T14:35:41Z"
-  },
-  {
-   "id": "0fa42bad8cfa",
-   "ts": "2026-11-12T14:31:13Z",
-   "headline": "Putin's Kremlin meeting with US envoys Witkoff and Kushner on Ukraine ends",
-   "detail": "Market news accounts report that the talks between Russian President Putin and US envoys Witkoff and Kushner have finished. No outcome was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0508034556faaaaf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24ooygyt325",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24ooygyt325"
     }
    ],
    "model": "opus",
