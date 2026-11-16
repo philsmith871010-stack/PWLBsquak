@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T09:50:59Z",
+ "generated_at": "2026-11-16T10:01:11Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c96002a64c7a",
+   "ts": "2026-11-16T10:01:07Z",
+   "headline": "Eurozone industrial production rises 0.2% on the month but falls 1.5% on the year, both short of forecasts",
+   "detail": "Eurozone industrial output rose 0.2% on the month, against a 0.3% forecast and a previous -0.5%. On the year it fell 1.5%, against a forecast of -0.2% and a previous -1.1%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "b5894447800b25c5",
+    "892a8c60e3791301"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gbgxuua52s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gbgxuua52s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gbhorxei2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gbhorxei2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7af690fb3309",
+   "created_at": "2026-11-16T10:01:11Z"
+  },
+  {
+   "id": "bdf4ffffb591",
+   "ts": "2026-11-16T09:53:42Z",
+   "headline": "France's foreign minister says Russia will not be allowed to set the terms of European security architecture",
+   "detail": "France's foreign minister Barrot said Russia would not be allowed to dictate the terms of Europe's security architecture. He spoke as European officials pushed back on Russian demands linked to Ukraine peace talks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5aaea133088b069b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gb2gq56x2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gb2gq56x2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7af690fb3309",
+   "created_at": "2026-11-16T10:01:11Z"
+  },
+  {
+   "id": "b08b8f0ed469",
+   "ts": "2026-11-16T08:00:20Z",
+   "headline": "UK average house price falls 1.8% in November to £364,270, a steeper drop than the usual November decline",
+   "detail": "Property-portal figures reported by City AM show the average UK house price fell 1.8% to £364,270 in November, against a ten-year average November fall of 1.1%. The report links the drop to higher mortgage rates since the Iran war, which have pushed sellers to cut their price expectations.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "0e6bd6a79e533010"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3n2gbczwp5xl2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3n2gbczwp5xl2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7af690fb3309",
+   "created_at": "2026-11-16T10:01:11Z"
+  },
   {
    "id": "e095c55f4215",
    "ts": "2026-11-16T09:50:27Z",
@@ -6599,69 +6668,6 @@
    "model": "opus",
    "run_id": "280c501959b7",
    "created_at": "2026-11-12T15:45:52Z"
-  },
-  {
-   "id": "fc9875648df9",
-   "ts": "2026-11-12T15:38:09Z",
-   "headline": "Fed's Barr says the Fed is watching AI-related liabilities and the potential for shocks",
-   "detail": "Federal Reserve Governor Barr said the central bank is monitoring liabilities linked to AI and possible shocks from it. He made the remarks after earlier warning about AI disruption to the US job market.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "90be4f520bfe1074"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24sgnweod2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24sgnweod2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1e4516801bd9",
-   "created_at": "2026-11-12T15:40:48Z"
-  },
-  {
-   "id": "12b6131ecf00",
-   "ts": "2026-11-12T15:30:36Z",
-   "headline": "Draft declaration by about 40 countries says matters affecting European security should be decided with Europeans",
-   "detail": "Reuters says it has seen a draft declaration on key principles of European security. About 40 countries are expected to issue it on Thursday, and it says any matter affecting European security should be decided with the Europeans.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ee3c14cd131b5996"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n24rz62mzm23",
-     "url": "https://bsky.app/profile/reuters.com/post/3n24rz62mzm23"
-    }
-   ],
-   "model": "opus",
-   "run_id": "38a0c54b847c",
-   "created_at": "2026-11-12T15:31:06Z"
-  },
-  {
-   "id": "cf4070d8a7b0",
-   "ts": "2026-11-12T15:01:40Z",
-   "headline": "US 2- to 5-year Treasury yields are up at least 10bp on the day",
-   "detail": "A market newswire reports that US Treasury yields from 2 to 5 years are at least 10bp higher on the day. The rise follows remarks today by the Fed's Hammack and US jobless claims data.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "ad37e53e4e280ffd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24qfgegfj2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24qfgegfj2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cfb0c5acc22d",
-   "created_at": "2026-11-12T15:05:59Z"
   }
  ]
 }
