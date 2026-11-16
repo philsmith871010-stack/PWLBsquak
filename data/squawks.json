@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T19:35:39Z",
+ "generated_at": "2026-11-16T19:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c40bd4df3e8f",
+   "ts": "2026-11-16T19:42:39Z",
+   "headline": "Brent crude futures settle 3.55% lower at $92.44 a barrel, down $3.40",
+   "detail": "Brent futures closed Monday's session down $3.40, or 3.55%, at $92.44 a barrel. US crude futures had settled 3.21% lower earlier in the day.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "72f0bcdcb17cbd1c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hbxkiwi32b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hbxkiwi32b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "978f39e6163f",
+   "created_at": "2026-11-16T19:45:50Z"
+  },
   {
    "id": "88454f9d34da",
    "ts": "2026-11-16T19:31:19Z",
@@ -6773,27 +6794,6 @@
    "model": "opus",
    "run_id": "7f346457bd7d",
    "created_at": "2026-11-12T19:05:41Z"
-  },
-  {
-   "id": "1ffa143a849f",
-   "ts": "2026-11-12T18:58:55Z",
-   "headline": "US federal budget deficit comes in at $404.064bn, wider than the $317.5bn forecast",
-   "detail": "The US federal budget balance printed at -$404.064bn, compared with a forecast of -$317.5bn and -$27.00bn in the previous release.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8063d23014da0237"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n255nobglk2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n255nobglk2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c9f2f3374ec3",
-   "created_at": "2026-11-12T19:01:13Z"
   }
  ]
 }
