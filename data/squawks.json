@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T09:25:41Z",
+ "generated_at": "2026-11-16T09:45:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f239a2c8b993",
+   "ts": "2026-11-16T09:43:01Z",
+   "headline": "EU Council approves ninth Ukraine Facility payment of €8bn to Kyiv, the largest single payment under the Facility",
+   "detail": "The EU Council approved the €8bn disbursement to Ukraine, which it described as the largest single payment under the Ukraine Facility since mid-2024.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "de126096289f4d96"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gahdnzqp2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gahdnzqp2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4f7c9dfb2107",
+   "created_at": "2026-11-16T09:45:56Z"
+  },
   {
    "id": "339ecee65c23",
    "ts": "2026-11-16T09:22:24Z",
@@ -6617,39 +6638,6 @@
    "model": "opus",
    "run_id": "5ece6aa5df0f",
    "created_at": "2026-11-12T15:01:17Z"
-  },
-  {
-   "id": "cbb7e7aaed77",
-   "ts": "2026-11-12T14:45:11Z",
-   "headline": "US House Speaker Johnson says a consensus is forming in Congress on limiting chip exports to China",
-   "detail": "Reuters reported the remarks on Thursday, after a scandal forced Nvidia's chief executive to step down. Separately, a White House official told CNN that Trump is standing by Commerce Secretary Lutnick despite growing scrutiny of export controls.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b3955034dae3c1ca",
-    "be5599b43dd57008",
-    "7884c50e8909c320"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n24phxiigj2o",
-     "url": "https://bsky.app/profile/reuters.com/post/3n24phxiigj2o"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24pc5dhhd2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24pc5dhhd2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24pc5n35e2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24pc5n35e2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d859b6c2b240",
-   "created_at": "2026-11-12T14:45:50Z"
   }
  ]
 }
