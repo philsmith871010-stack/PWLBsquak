@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T10:40:48Z",
+ "generated_at": "2026-11-16T10:45:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "eb766b75e428",
+   "ts": "2026-11-16T10:44:25Z",
+   "headline": "Ukraine hits the Crimean Bridge in a record drone attack, FT reports",
+   "detail": "The Financial Times reports that Ukraine struck the Crimean Bridge. Russia's defence ministry said it intercepted or destroyed more drones in the past 24 hours than at any point since the war began.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5118e28863cc33dd"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2gdv4nblo2b",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2gdv4nblo2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b7ecb3991980",
+   "created_at": "2026-11-16T10:45:56Z"
+  },
   {
    "id": "42d0c5003067",
    "ts": "2026-11-16T10:40:07Z",
@@ -6611,33 +6632,6 @@
    "model": "opus",
    "run_id": "397099a703cd",
    "created_at": "2026-11-12T16:01:17Z"
-  },
-  {
-   "id": "50a528301b08",
-   "ts": "2026-11-12T15:52:16Z",
-   "headline": "US envoy Witkoff says a new round of Ukraine talks was agreed after his meeting with Putin",
-   "detail": "RIA reported Witkoff's remarks after the Kremlin meeting. Fellow US envoy Kushner called the talks with Putin substantive and detailed.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0dc6e77ea6964af1",
-    "f88f0f7d913814ed"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24t7vrl2v2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24t7vrl2v2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24tbzazo62j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24tbzazo62j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2edbc9855ac6",
-   "created_at": "2026-11-12T15:55:45Z"
   }
  ]
 }
