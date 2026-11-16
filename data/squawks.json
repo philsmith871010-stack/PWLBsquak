@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T14:45:50Z",
+ "generated_at": "2026-11-16T15:01:13Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8cc71726aecf",
+   "ts": "2026-11-16T15:00:54Z",
+   "headline": "Kremlin says next round of Russia-Ukraine-US peace talks is agreed but denies agreeing to include Europeans",
+   "detail": "A Kremlin aide said the next round of three-way Ukraine talks has been agreed, probably in Abu Dhabi again, with no date set yet, and that for now only Russia, Ukraine and the US are taking part. The aide contradicted US negotiators by saying Russia had not agreed to include Europeans, and said a lot must be settled before they could join, which could take more than one further round.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c7a5faca3205183e",
+    "9385744fdff76d9b",
+    "bef6014342114eee",
+    "f3182dfb84c4068a",
+    "24d2f586958d4a83",
+    "a8747fcf9090b567"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gs7qwyns2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gs7qwyns2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gs6zylk42m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gs6zylk42m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gs7sijrn2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gs7sijrn2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gs7s4i3b2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gs7s4i3b2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gs7tq5pa2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gs7tq5pa2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gs7u3n4j2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gs7u3n4j2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8fe8bc837a8a",
+   "created_at": "2026-11-16T15:01:13Z"
+  },
   {
    "id": "b9ee8a197b54",
    "ts": "2026-11-16T14:42:56Z",
@@ -6618,27 +6669,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24w4xovri2c",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24w4xovri2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aeb711c21182",
-   "created_at": "2026-11-12T16:45:48Z"
-  },
-  {
-   "id": "b8e1084c9547",
-   "ts": "2026-11-12T16:43:30Z",
-   "headline": "ECB's Vujcic says France needs a credible fiscal adjustment",
-   "detail": "ECB Governing Council member Vujcic commented on French public finances.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ea7b4489871e2c38"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24w3jio4s2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24w3jio4s2y"
     }
    ],
    "model": "opus",
