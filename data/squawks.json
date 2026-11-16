@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T10:01:11Z",
+ "generated_at": "2026-11-16T10:15:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ece2cc7c7af8",
+   "ts": "2026-11-16T10:13:16Z",
+   "headline": "EU imposes new Russia sanctions on 145 individuals and entities, France's foreign minister says",
+   "detail": "France's foreign minister Jean-Noël Barrot said the EU has imposed sanctions on 145 individuals and legal entities. Earlier on Monday, Ireland's foreign minister had put the package at 113 listings.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ccfca77e8e34c07c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gc5gkapw2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gc5gkapw2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "25dde69fffd3",
+   "created_at": "2026-11-16T10:15:46Z"
+  },
   {
    "id": "c96002a64c7a",
    "ts": "2026-11-16T10:01:07Z",
@@ -6629,45 +6650,6 @@
    "model": "opus",
    "run_id": "0bf00345d79c",
    "created_at": "2026-11-12T15:50:52Z"
-  },
-  {
-   "id": "7635403d6101",
-   "ts": "2026-11-12T15:40:53Z",
-   "headline": "Fed's Barr says AI's impact so far falls mostly on prices, with input cost pressure feeding into consumer electronics",
-   "detail": "Fed Governor Barr said AI is currently boosting investment and GDP, and that pressure on AI input prices is spreading to goods such as phones, computers and gaming consoles. He said he does not yet see a big labour market impact, though AI may be contributing to low hiring of younger workers, and that rapid adoption could make the labour adjustment harder.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "f78c5c39a21f4dfe",
-    "92f87617a7b9186c",
-    "c24a215ca066ff12",
-    "556d85650be8f365"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24slkjztc2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24slkjztc2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24smxc5rr25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24smxc5rr25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24snogjay2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24snogjay2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n24sqjsw6h2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n24sqjsw6h2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "280c501959b7",
-   "created_at": "2026-11-12T15:45:52Z"
   }
  ]
 }
