@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T21:15:54Z",
+ "generated_at": "2026-11-16T21:25:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "64eb338956ba",
+   "ts": "2026-11-16T21:24:41Z",
+   "headline": "UK Prime Minister Burnham says the UK's options on the EU will shape decisions in the next Parliament",
+   "detail": "Prime Minister Burnham said on 16 November that the UK's options on its relationship with the EU will feed into decisions taken in the next Parliament. He spoke ahead of this week's UK-EU summit.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3e6784c228cb388f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hhnyrdjk2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hhnyrdjk2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "efd10169d727",
+   "created_at": "2026-11-16T21:25:43Z"
+  },
   {
    "id": "ec8fe7121c5b",
    "ts": "2026-11-16T21:15:12Z",
@@ -6815,33 +6836,6 @@
    "model": "opus",
    "run_id": "4cefba9c8690",
    "created_at": "2026-11-12T20:10:52Z"
-  },
-  {
-   "id": "42563c37bb73",
-   "ts": "2026-11-12T19:47:30Z",
-   "headline": "Brent crude futures settle 3.3% higher at $95.82 a barrel",
-   "detail": "Brent futures closed up $3.06 at $95.82 a barrel. US crude futures settled 2.55% higher at $88.74, up $2.21.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "f194a3a759b46650",
-    "1af91a3e44ceab6b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25aek6zzs2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25aek6zzs2o"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25aeju75p2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25aeju75p2u"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1eb2a7843d1c",
-   "created_at": "2026-11-12T19:51:03Z"
   }
  ]
 }
