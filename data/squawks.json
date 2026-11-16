@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T17:55:46Z",
+ "generated_at": "2026-11-16T18:01:10Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1682ecc36b71",
+   "ts": "2026-11-16T16:15:38Z",
+   "headline": "Two-year gilt yield rises above 5% for the first time since 2023 as traders add bets on further BoE hikes",
+   "detail": "City AM reports the two-year gilt yield rose 4bp on Monday to pass 5%. Investors are pricing three more Bank of England rate rises before April.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "af3ad3e42d3aca1e"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3n2h46r4dvlg2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3n2h46r4dvlg2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1998ba7a0bfa",
+   "created_at": "2026-11-16T18:01:10Z"
+  },
   {
    "id": "3549a96b792a",
    "ts": "2026-11-16T17:54:54Z",
@@ -6708,27 +6729,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253eongoq2y",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253eongoq2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "41f6df7e5834",
-   "created_at": "2026-11-12T18:20:50Z"
-  },
-  {
-   "id": "951ad562b1ba",
-   "ts": "2026-11-12T18:17:41Z",
-   "headline": "US official says Iran has added new demands and overreached, i24 reports",
-   "detail": "Israeli broadcaster i24 cites a US official as saying Iran has put forward additional demands. No details of the demands were given.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "758617dc54a7cb86"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n253dxe3bi2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n253dxe3bi2g"
     }
    ],
    "model": "opus",
