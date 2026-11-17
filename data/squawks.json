@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T09:35:44Z",
+ "generated_at": "2026-11-17T09:40:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "423b7e496ed6",
+   "ts": "2026-11-17T09:37:05Z",
+   "headline": "Iranian state media say a liquefied gas carrier and an oil tanker are on fire in the Strait of Hormuz after hitting naval mines",
+   "detail": "Iranian state media, citing the Revolutionary Guards, report that both vessels caught fire after striking mines in the Strait of Hormuz. No market reaction is reported in the post.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b3393825587fe906"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iqlncdis2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iqlncdis2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "af9fccb1a90b",
+   "created_at": "2026-11-17T09:40:51Z"
+  },
   {
    "id": "f75f5562f70a",
    "ts": "2026-11-17T09:33:32Z",
@@ -6851,39 +6872,6 @@
    "model": "opus",
    "run_id": "6e999ebfe7bd",
    "created_at": "2026-11-13T06:20:57Z"
-  },
-  {
-   "id": "cbec3b8fa25c",
-   "ts": "2026-11-13T05:46:29Z",
-   "headline": "Dollar/yen briefly touches 160 and the dollar index reaches a 19-month high",
-   "detail": "Dollar/yen briefly hit 160 before trading at 159.96. Separately, the dollar index was reported at a 19-month high as markets priced in a December Fed hike.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "d8dcc3aa70651b69",
-    "0ded84e95d64f143",
-    "227d351de114bf78"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26btm4cox2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26btm4cox2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26bx42x7p2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26bx42x7p2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26cospb5p2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26cospb5p2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8cc820d4bab9",
-   "created_at": "2026-11-13T06:15:55Z"
   }
  ]
 }
