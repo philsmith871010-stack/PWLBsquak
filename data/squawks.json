@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T20:01:13Z",
+ "generated_at": "2026-11-17T20:31:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a4db1cc03c69",
+   "ts": "2026-11-17T20:30:01Z",
+   "headline": "Milburn youth unemployment review proposes tax cuts for businesses that hire young people",
+   "detail": "The Guardian reports that Alan Milburn's review of youth unemployment recommends tax cuts for employers taking on young people. It says the review may clash with unions and the Labour left over workers' rights and the minimum wage.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "cb440255ebf29965"
+   ],
+   "sources": [
+    {
+     "author": "rjpartington.bsky.social",
+     "uri": "at://did:plc:7gxgy7wfvg4tdsspy32rcvvw/app.bsky.feed.post/3n2jv363rrc2q",
+     "url": "https://bsky.app/profile/rjpartington.bsky.social/post/3n2jv363rrc2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "781ff904ea63",
+   "created_at": "2026-11-17T20:31:04Z"
+  },
   {
    "id": "8266aabf9fba",
    "ts": "2026-11-17T20:01:00Z",
@@ -6449,27 +6470,6 @@
    "model": "opus",
    "run_id": "8e3d9f48b35b",
    "created_at": "2026-11-13T17:55:41Z"
-  },
-  {
-   "id": "8e779585df8c",
-   "ts": "2026-11-13T17:50:00Z",
-   "headline": "US holds first official US-China Board of Trade meeting",
-   "detail": "The US Trade Representative and the Treasury held the first official meeting of the US-China Board of Trade, according to a statement.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e35dca28478c4ab8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27kbdu53d2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27kbdu53d2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "095e51e0d147",
-   "created_at": "2026-11-13T17:50:52Z"
   }
  ]
 }
