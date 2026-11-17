@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T19:41:06Z",
+ "generated_at": "2026-11-17T19:45:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7fdb67dfa5c0",
+   "ts": "2026-11-17T19:45:22Z",
+   "headline": "Fed's Williams says the Fed will return inflation to 2% in a timely manner and flags cyber security as a continuing concern",
+   "detail": "New York Fed President Williams made the comments in further remarks on Tuesday evening, saying the Fed will bring inflation back to its 2% target in a timely way. He also named cyber security as an ongoing area of worry.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "06a64e595a2d1ba9",
+    "9d6a724694db1227"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jsldl7ke2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jsldl7ke2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jsey5q362p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jsey5q362p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5566e6213b53",
+   "created_at": "2026-11-17T19:45:49Z"
+  },
   {
    "id": "d1d5f24ea9a8",
    "ts": "2026-11-17T19:41:01Z",
@@ -6461,45 +6488,6 @@
    "model": "opus",
    "run_id": "095e51e0d147",
    "created_at": "2026-11-13T17:50:52Z"
-  },
-  {
-   "id": "fdf4afe1f097",
-   "ts": "2026-11-13T17:45:35Z",
-   "headline": "EU's von der Leyen says ending the war must be the focus and the EU will keep supporting Ukraine after it ends",
-   "detail": "European Commission President Ursula von der Leyen said the EU will support Ukraine while maintaining its own interests, and that ending the war must be the priority. She spoke on Friday evening, alongside separate remarks from EU Council President Costa that Ukraine's financial needs will be discussed at the next EU Council.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "eec2ef3c621c0084",
-    "03dc96b80ea6365c",
-    "cba90cd6590bb627",
-    "410d1791670d2812"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27jzhdou52d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27jzhdou52d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27jxzquii2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27jxzquii2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27jyqpqay2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27jyqpqay2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27jttw4tn2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27jttw4tn2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "87234a658496",
-   "created_at": "2026-11-13T17:45:53Z"
   }
  ]
 }
