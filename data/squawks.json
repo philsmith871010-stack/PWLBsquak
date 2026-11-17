@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T16:31:05Z",
+ "generated_at": "2026-11-17T16:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "31c789d0ec6e",
+   "ts": "2026-11-17T16:32:44Z",
+   "headline": "UK PM Burnham says some of Milburn's reforms will be dealt with in the Budget",
+   "detail": "Prime Minister Burnham said some of Alan Milburn's welfare and youth employment reforms are for the Budget, Sky News reported.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "1bbc9345ec5bc445"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jhsv4aks26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jhsv4aks26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7222baef0de3",
+   "created_at": "2026-11-17T16:35:43Z"
+  },
   {
    "id": "a60aaabf81f1",
    "ts": "2026-11-17T16:28:12Z",
@@ -6491,45 +6512,6 @@
    "model": "opus",
    "run_id": "c33f4c527334",
    "created_at": "2026-11-13T15:50:49Z"
-  },
-  {
-   "id": "8bd2dc7d082a",
-   "ts": "2026-11-13T15:40:49Z",
-   "headline": "Fed's Collins backs careful policy adjustment and says many firms expect to pass higher costs on to consumers",
-   "detail": "Boston Fed President Collins said careful adjustment of policy is appropriate, and that energy is driving inflation but the pressure is broader. She added that some firms report strong demand and plan to hire more in key sectors.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b8ca7ccb3c74e4bc",
-    "be2e1a4f7ef974a2",
-    "3b91dd9e4a6847a4",
-    "47303ca15de439e0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27d2e276f25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27d2e276f25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27d6l4wfs2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27d6l4wfs2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27dbfyfgd2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27dbfyfgd2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27dct7pvf2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27dct7pvf2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "848e932d1b8b",
-   "created_at": "2026-11-13T15:45:49Z"
   }
  ]
 }
