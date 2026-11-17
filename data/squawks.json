@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T16:10:51Z",
+ "generated_at": "2026-11-17T16:15:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8b3360ecfe61",
+   "ts": "2026-11-17T16:14:15Z",
+   "headline": "UK PM Burnham says an EU deal could lower power and grocery costs",
+   "detail": "Prime Minister Burnham said a deal with the EU could reduce the cost of electricity and groceries. He made the remark as he set out the government's position on the UK's future relationship with the EU.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e1ba68a3d84cf9a9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jgrtqjpc2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jgrtqjpc2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4aadeefc04a1",
+   "created_at": "2026-11-17T16:15:54Z"
+  },
   {
    "id": "860038a628d4",
    "ts": "2026-11-17T16:07:01Z",
@@ -6563,27 +6584,6 @@
    "model": "opus",
    "run_id": "fe6094e0151f",
    "created_at": "2026-11-13T15:40:49Z"
-  },
-  {
-   "id": "f15a99786cd9",
-   "ts": "2026-11-13T15:27:15Z",
-   "headline": "Russian foreign ministry says European participation in Ukraine talks was not raised at meeting with Witkoff and Kushner",
-   "detail": "Russian Foreign Ministry spokesperson Maria Zakharova said European involvement in the Ukraine negotiations was not discussed at the meeting with US envoys Witkoff and Kushner.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "591be0150578197d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27cc436q52j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27cc436q52j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9b0c2082b031",
-   "created_at": "2026-11-13T15:31:06Z"
   }
  ]
 }
