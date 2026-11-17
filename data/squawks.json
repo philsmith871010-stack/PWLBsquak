@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T07:15:47Z",
+ "generated_at": "2026-11-17T07:20:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a9b170f9e3a8",
+   "ts": "2026-11-17T07:18:37Z",
+   "headline": "Japan proposes an 'Asian IEA' to manage joint regional oil stockpiles",
+   "detail": "The Financial Times reports that Tokyo has proposed joint oil reserves for the region. The aim is to protect import-dependent Asian economies from future energy shocks.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "1bbc9c174e38b452"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2iitzpxf52f",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2iitzpxf52f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0b771a4ffaf7",
+   "created_at": "2026-11-17T07:20:51Z"
+  },
   {
    "id": "1ad5bee90715",
    "ts": "2026-11-17T07:11:26Z",
@@ -6978,51 +6999,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25qx5xwcd2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25qx5xwcd2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b0a364cc117c",
-   "created_at": "2026-11-13T06:05:40Z"
-  },
-  {
-   "id": "09d496a52eec",
-   "ts": "2026-11-13T00:36:44Z",
-   "headline": "Fed's Williams says evidence points to a K-shaped US economy and that rate shifts can affect AI investment",
-   "detail": "New York Fed President Williams also said the US has the economic tools to manage its debt levels but that political will is needed for a solution.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a9a377db3d3e57ad",
-    "1472fad46678896e",
-    "7674b8e571e13e8e",
-    "fb5c20bbfe3f935d",
-    "5dc40b6e177de12b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25qjq2qtb2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25qjq2qtb2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25qstkzm52k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25qstkzm52k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25qx5gok32r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25qx5gok32r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25qx6lxwr2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25qx6lxwr2o"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25qxvndg52m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25qxvndg52m"
     }
    ],
    "model": "opus",
