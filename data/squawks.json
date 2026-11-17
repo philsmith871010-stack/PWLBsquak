@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T19:35:53Z",
+ "generated_at": "2026-11-17T19:41:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d1d5f24ea9a8",
+   "ts": "2026-11-17T19:41:01Z",
+   "headline": "Fed's Williams says demand is clearly outpacing supply and financial markets are working very well",
+   "detail": "New York Fed President Williams also said he does not yet see a financial stability risk from AI. The remarks came in further comments on 17 November.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "5b237caad6768751",
+    "c812791242223b08",
+    "f71df88b77bc6738"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jsdkfhar2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jsdkfhar2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2js2gkuox2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2js2gkuox2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2js3tyyqn2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2js3tyyqn2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7d7c8ed51481",
+   "created_at": "2026-11-17T19:41:06Z"
+  },
   {
    "id": "09cf245a647d",
    "ts": "2026-11-17T19:31:10Z",
@@ -6467,33 +6500,6 @@
    "model": "opus",
    "run_id": "87234a658496",
    "created_at": "2026-11-13T17:45:53Z"
-  },
-  {
-   "id": "a3f1f8f00fc4",
-   "ts": "2026-11-13T17:32:44Z",
-   "headline": "Fed's Daly says services inflation excluding housing is not moving in the right direction",
-   "detail": "San Francisco Fed President Daly said she is watching services inflation excluding housing closely. She also said the FOMC must be transparent, accountable and clear.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ae7a255dfb3fec93",
-    "1a33a095c67e2103"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27jci6glx2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27jci6glx2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27j7migxf2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27j7migxf2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "70888d7696a0",
-   "created_at": "2026-11-13T17:35:47Z"
   }
  ]
 }
