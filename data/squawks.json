@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T13:51:00Z",
+ "generated_at": "2026-11-17T14:05:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ce99f4a75d78",
+   "ts": "2026-11-17T14:05:14Z",
+   "headline": "Lawyer for Fed Governor Cook threatens to stay away from White House mortgage fraud hearing next month",
+   "detail": "In a letter seen by Reuters on Tuesday, a lawyer for Federal Reserve Governor Lisa Cook called the planned White House hearing into mortgage fraud allegations unfair. The letter says Cook has no legal obligation to take part.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "d3e09811422968c3"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2j7l4hotu2y",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2j7l4hotu2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1eed246016eb",
+   "created_at": "2026-11-17T14:05:44Z"
+  },
   {
    "id": "912733a0612e",
    "ts": "2026-11-17T13:46:49Z",
@@ -6749,27 +6770,6 @@
    "model": "opus",
    "run_id": "cd6d3a105a29",
    "created_at": "2026-11-13T13:16:00Z"
-  },
-  {
-   "id": "1a80db602cce",
-   "ts": "2026-11-13T12:49:55Z",
-   "headline": "Moscow tells Europe to name an envoy if it wants a role in Ukraine peace talks",
-   "detail": "The Financial Times reports that Moscow has told Europe to choose an envoy if it wants to take part in the Ukraine talks. EU foreign policy chief Kaja Kallas said Putin does not want to talk to her because she is strong.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5bf245fd1b202c5c"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n26zirnqnb23",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n26zirnqnb23"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d191b511c151",
-   "created_at": "2026-11-13T12:50:50Z"
   }
  ]
 }
