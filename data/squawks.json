@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T14:05:44Z",
+ "generated_at": "2026-11-17T14:15:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cdebf88fbf15",
+   "ts": "2026-11-17T14:15:44Z",
+   "headline": "US industrial production falls 0.4% m/m in October, against 0.1% rise forecast; previous month 0.7%",
+   "detail": "US industrial production fell 0.4% month on month, compared with a forecast of a 0.1% rise and 0.7% growth in the previous month.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "3ac7691f115f541a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ja5voe6v2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ja5voe6v2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "379c86cd62e2",
+   "created_at": "2026-11-17T14:15:59Z"
+  },
+  {
+   "id": "65443d8a9bb1",
+   "ts": "2026-11-17T14:11:01Z",
+   "headline": "Fed's Waller says the Fed will back responsible payments innovation and makes no comment on monetary policy",
+   "detail": "Fed Governor Waller said the Fed will support innovation in payment systems, which he described as still at an early stage, and said traditional money and payment systems still play a key role. He did not comment on monetary policy or the economic outlook.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e67e0b46f199912c",
+    "df3a70dd17ddb890",
+    "21bbcefeeaaba789",
+    "a6459bf0fce77549",
+    "3dc1ba885e922059"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j7vibgcg2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j7vibgcg2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j7vinnn426",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j7vinnn426"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j7vjqhdx2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j7vjqhdx2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j7vj7nll2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j7vj7nll2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j7waryny2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j7waryny2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "379c86cd62e2",
+   "created_at": "2026-11-17T14:15:59Z"
+  },
   {
    "id": "ce99f4a75d78",
    "ts": "2026-11-17T14:05:14Z",
@@ -6710,66 +6776,6 @@
    "model": "opus",
    "run_id": "8900fbdd4737",
    "created_at": "2026-11-13T13:20:53Z"
-  },
-  {
-   "id": "9110bfc96214",
-   "ts": "2026-11-13T13:16:03Z",
-   "headline": "Poll: 64 of 65 economists see BoE holding Bank Rate at 4.00% on 17 December; 57 of 65 expect a rise to 4.25% in Q1",
-   "detail": "A poll of 65 economists found 64 expect Bank Rate to stay at 4.00% at the 17 December decision, and 57 expect an increase to 4.25% in the first quarter. The same poll puts UK GDP growth at 1.5% in 2026 and 1.2% in 2027, compared with 1.3% and 1.2% in the October poll.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "b1c76d5588845e76",
-    "1a3fa401d94080af",
-    "151909765d78ab4d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n272xisyh32m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n272xisyh32m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n272xj6mpj25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n272xj6mpj25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n272ya4qlq2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n272ya4qlq2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8900fbdd4737",
-   "created_at": "2026-11-13T13:20:53Z"
-  },
-  {
-   "id": "cb562418796e",
-   "ts": "2026-11-13T13:15:15Z",
-   "headline": "US Treasury Secretary Bessent says he is ready to sanction Iranian banks",
-   "detail": "US Treasury Secretary Bessent said he would not hesitate to impose sanctions on Iranian banks. In separate remarks on economic policy after the midterms, he described the underlying US economy as very strong.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "214f92c5a97f938f",
-    "a1d946ac58f8178b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n272w2moz72s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n272w2moz72s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n272ru2o2l2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n272ru2o2l2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cd6d3a105a29",
-   "created_at": "2026-11-13T13:16:00Z"
   }
  ]
 }
