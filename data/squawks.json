@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T11:01:18Z",
+ "generated_at": "2026-11-17T11:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ed9b1252062c",
+   "ts": "2026-11-17T11:05:12Z",
+   "headline": "US administration presses ahead with plan to block imports of Chinese data centre equipment despite tech industry lobbying",
+   "detail": "Reuters reports, citing people briefed on the matter, that the Trump administration is moving forward with the curb despite pushback from Amazon, Google, Meta and other US technology companies.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "86796d20f41fe541"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2ivj7qv652q",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2ivj7qv652q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e046d41418a7",
+   "created_at": "2026-11-17T11:05:42Z"
+  },
   {
    "id": "062b3bb3f63f",
    "ts": "2026-11-17T10:56:50Z",
@@ -6725,51 +6746,6 @@
    "model": "opus",
    "run_id": "5c6dfca6e954",
    "created_at": "2026-11-13T09:20:55Z"
-  },
-  {
-   "id": "fcbbc0d5cdd0",
-   "ts": "2026-11-13T09:11:10Z",
-   "headline": "IEA expects a larger oil stock build in 2027 and says about 15m barrels of diesel are due for release by end-February",
-   "detail": "The IEA's November report says Gulf shipments are recovering and the market will return to surplus in Q4 2026, with a larger build in 2027. It says stockpiles drawn down during the conflict will take months to rebuild, and that about 15m barrels of the planned emergency release will be diesel.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "499510b655bc7f9f",
-    "eb26f73c3417b0e1",
-    "a83a9b842bfdd8d4",
-    "9f2f61472829b409",
-    "a2e335bbbde7d4d3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26nbmrt5n2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26nbmrt5n2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26ncdwq7i2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26ncdwq7i2y"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n26nghnys623",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n26nghnys623"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26nbn7tl42g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26nbn7tl42g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26ngjhpm42q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26ngjhpm42q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "834eefc3cacf",
-   "created_at": "2026-11-13T09:15:48Z"
   }
  ]
 }
