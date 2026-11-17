@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T08:25:40Z",
+ "generated_at": "2026-11-17T08:45:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "392f648c14c0",
+   "ts": "2026-11-17T08:45:44Z",
+   "headline": "Russia says there is no understanding yet on continuing Ukraine peace talks",
+   "detail": "Russia said there was no understanding yet on continuing the Ukraine talks, Interfax reported. The Kremlin had earlier said the next round of Russia-Ukraine-US talks had been agreed.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f83966f112dab4f5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2inpsnieu24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2inpsnieu24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "87c482a502a5",
+   "created_at": "2026-11-17T08:45:53Z"
+  },
   {
    "id": "00e1715a60d4",
    "ts": "2026-11-17T08:24:26Z",
@@ -6911,39 +6932,6 @@
    "model": "opus",
    "run_id": "fcbbc2507e13",
    "created_at": "2026-11-13T06:10:48Z"
-  },
-  {
-   "id": "35aabcff0d40",
-   "ts": "2026-11-13T01:02:52Z",
-   "headline": "Long-dated JGB yields climb, with the 20-year up 6bp at 3.725% and the 30-year up 6.5bp at 3.985%",
-   "detail": "The 40-year Japanese government bond yield also rose 4.5bp to 4.115% in Asian trading.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "99151e25abcee506",
-    "c58081dca6daabec",
-    "884297aeb5f651d1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25ryhou6z25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25ryhou6z25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25uqn2mgp2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25uqn2mgp2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25shtyij72r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25shtyij72r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b0a364cc117c",
-   "created_at": "2026-11-13T06:05:40Z"
   }
  ]
 }
