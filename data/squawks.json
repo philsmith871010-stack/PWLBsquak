@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T10:35:41Z",
+ "generated_at": "2026-11-17T10:45:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "35fd7b3330d5",
+   "ts": "2026-11-17T10:45:26Z",
+   "headline": "European Commission raises euro zone growth forecasts on AI-driven exports and halves its GDP projections for France",
+   "detail": "The Financial Times reports that the Commission's latest forecasts raise the euro zone growth outlook as the AI boom lifts exports. The forecasts also show the bloc's largest economies diverging, with France's GDP projections halved.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f7e691e9c2a0dc17"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2iufzhlsx2z",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2iufzhlsx2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "00a2909dd1e1",
+   "created_at": "2026-11-17T10:45:47Z"
+  },
   {
    "id": "db5475cb0c03",
    "ts": "2026-11-17T10:33:42Z",
@@ -6737,33 +6758,6 @@
    "model": "opus",
    "run_id": "9eea11a4c3aa",
    "created_at": "2026-11-13T09:05:49Z"
-  },
-  {
-   "id": "3c99bd3f4071",
-   "ts": "2026-11-13T08:58:07Z",
-   "headline": "Von der Leyen welcomes Russia-Ukraine prisoner exchange and says Europe must be at the table in peace talks",
-   "detail": "European Commission President Ursula von der Leyen welcomed the exchange of prisoners of war between Russia and Ukraine. She also said Europe's place in the peace talks should go without saying.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d45964aeed07e106",
-    "50288de4dbabfc5c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26mkc3umv2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26mkc3umv2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26mkysckd2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26mkysckd2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2c51273ca0e2",
-   "created_at": "2026-11-13T09:01:14Z"
   }
  ]
 }
