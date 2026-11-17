@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T12:40:48Z",
+ "generated_at": "2026-11-17T12:45:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4821e2954f07",
+   "ts": "2026-11-17T12:45:41Z",
+   "headline": "McFadden says the government will publish a white paper on its jobs settlement plans in the new year",
+   "detail": "Work and Pensions Secretary Pat McFadden said a white paper setting out the jobs settlement plans will be published in the new year. The announcement follows the Milburn welfare review, which put potential savings at £3.8bn a year by 2036.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "641b63833fdfa5c8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j34vcb7g2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j34vcb7g2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "11e57a847779",
+   "created_at": "2026-11-17T12:45:48Z"
+  },
   {
    "id": "989d0314718e",
    "ts": "2026-11-17T12:38:09Z",
@@ -6732,33 +6753,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26r62rea62j",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26r62rea62j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9f54ea9065b0",
-   "created_at": "2026-11-13T10:20:48Z"
-  },
-  {
-   "id": "963782a99bea",
-   "ts": "2026-11-13T10:18:47Z",
-   "headline": "Swedish PM calls for one European voice in Ukraine talks and says France and Germany should take part in some discussions",
-   "detail": "Sweden's prime minister said several European voices could help Russia rather than Ukraine. He also said some discussions with Russia should include France and Germany, and welcomed the involvement of Italy and Poland.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d92ff08252390191",
-    "b97cc6867df10548"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26qyg4dtn2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26qyg4dtn2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26r2jktad2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26r2jktad2o"
     }
    ],
    "model": "opus",
