@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T16:06:04Z",
+ "generated_at": "2026-11-17T16:10:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "860038a628d4",
+   "ts": "2026-11-17T16:07:01Z",
+   "headline": "UK PM Burnham says there is no rush to settle long-term EU relationship and next steps will come later this year",
+   "detail": "Prime Minister Burnham said there was no hurry to decide the UK's long-term relationship with the EU. He said the government would set out its next steps on that relationship later this year.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "23afabef80cb0cf1",
+    "40e4527ad3920752"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jggyhzzc2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jggyhzzc2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jgfrjylk2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jgfrjylk2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3b401d43c6a7",
+   "created_at": "2026-11-17T16:10:51Z"
+  },
   {
    "id": "e05d641f2594",
    "ts": "2026-11-17T16:05:22Z",
@@ -6557,27 +6584,6 @@
    "model": "opus",
    "run_id": "9b0c2082b031",
    "created_at": "2026-11-13T15:31:06Z"
-  },
-  {
-   "id": "1b92aece74f5",
-   "ts": "2026-11-13T14:52:49Z",
-   "headline": "EU sets 18 November deadline for ECB Executive Board vacancies other than the presidency",
-   "detail": "An EU official says a new deadline of 18 November has been set for candidates for the ECB Executive Board vacancies, excluding the presidency.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "f7ac2a2f5c891ead"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27aek3h462s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27aek3h462s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4f43979a5ea4",
-   "created_at": "2026-11-13T14:55:42Z"
   }
  ]
 }
