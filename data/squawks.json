@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T16:35:43Z",
+ "generated_at": "2026-11-17T16:46:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d89bfe30e9c1",
+   "ts": "2026-11-17T16:42:08Z",
+   "headline": "Iran's foreign minister says regional security should be built by regional states without foreign interference",
+   "detail": "Iranian reports cite Foreign Minister Araghchi as saying all countries in the region believe security should come from within the region, without outside interference. The remarks follow reported US strikes on Iran's Qeshm Island.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "81dd17a929f1fe19"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jidoh5vr2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jidoh5vr2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c32242205699",
+   "created_at": "2026-11-17T16:46:15Z"
+  },
   {
    "id": "31c789d0ec6e",
    "ts": "2026-11-17T16:32:44Z",
@@ -6479,39 +6500,6 @@
    "model": "opus",
    "run_id": "99bb330f8e5f",
    "created_at": "2026-11-13T15:55:42Z"
-  },
-  {
-   "id": "fb103efc9b9b",
-   "ts": "2026-11-13T15:50:15Z",
-   "headline": "Fed's Collins says AI is helping firms meet rising demand and is mostly complementing workers rather than replacing them",
-   "detail": "Boston Fed President Collins said she sees signs that AI is helping firms keep up with rising demand, and that she hears more about AI complementing labour than substituting for it. She also said construction productivity has declined.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ff95ccaa77e9aac5",
-    "d4f0f13644ed4fb7",
-    "f0bdf5684c9b833a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27dl7z66q2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27dl7z66q2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27dlxhmml2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27dlxhmml2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27dgcaie32c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27dgcaie32c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c33f4c527334",
-   "created_at": "2026-11-13T15:50:49Z"
   }
  ]
 }
