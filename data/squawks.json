@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T08:45:53Z",
+ "generated_at": "2026-11-17T08:55:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ba9cb16314bb",
+   "ts": "2026-11-17T08:52:23Z",
+   "headline": "Russia says it has had no response yet to its security proposals",
+   "detail": "Russia said it has not yet received any feedback on its security proposals, Interfax reported, as Ukraine peace talks continue.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "721019876bd3d681"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2io3pkyoh2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2io3pkyoh2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5eb1a1a0b94f",
+   "created_at": "2026-11-17T08:55:40Z"
+  },
   {
    "id": "392f648c14c0",
    "ts": "2026-11-17T08:45:44Z",
@@ -6900,33 +6921,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n263empdi42y",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n263empdi42y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fcbbc2507e13",
-   "created_at": "2026-11-13T06:10:48Z"
-  },
-  {
-   "id": "79516fde8711",
-   "ts": "2026-11-13T02:13:13Z",
-   "headline": "Iran's IRGC says it hit a US early-warning radar in Bahrain in retaliation for an attack on a telecoms tower in Sirik",
-   "detail": "Iran's Revolutionary Guards say they struck the US radar site in Bahrain as a response to the earlier attack on a telecommunications tower in Sirik. No market reaction was reported in the posts.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "80142887bf1cf037",
-    "48885b599f454ddd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25vwbaq2n2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25vwbaq2n2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25vwybvyl2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25vwybvyl2q"
     }
    ],
    "model": "opus",
