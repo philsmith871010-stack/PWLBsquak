@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T19:55:49Z",
+ "generated_at": "2026-11-17T20:01:13Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8266aabf9fba",
+   "ts": "2026-11-17T20:01:00Z",
+   "headline": "Britain joins Germany in rejecting Pentagon criticism of Ukraine's deep strikes on Russian oil infrastructure",
+   "detail": "Reuters reports that Germany and Britain on Tuesday rejected Pentagon policy chief Elbridge Colby's view that Ukraine's deep strikes on Russian oil infrastructure and commercial warehouses were ineffective and risked hardening Russian resolve. Reuters reports the German minister called the criticism stupid.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7ae2e34fe98f8353"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2jthc3zqd2q",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2jthc3zqd2q"
+    }
+   ],
+   "model": "opus",
+   "run_id": "00607d16dcc9",
+   "created_at": "2026-11-17T20:01:13Z"
+  },
   {
    "id": "7fa3260911bc",
    "ts": "2026-11-17T19:51:44Z",
@@ -6444,27 +6465,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27kbdu53d2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27kbdu53d2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "095e51e0d147",
-   "created_at": "2026-11-13T17:50:52Z"
-  },
-  {
-   "id": "332a1f842ad4",
-   "ts": "2026-11-13T17:49:35Z",
-   "headline": "Trump extends shipping waiver for oil and fertiliser by 90 days, White House official says",
-   "detail": "A White House official said President Trump has extended a shipping waiver covering oil and fertiliser for 90 days.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "66ebf7165dd0e81d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27kam5psb2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27kam5psb2g"
     }
    ],
    "model": "opus",
