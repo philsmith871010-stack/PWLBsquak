@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T20:55:42Z",
+ "generated_at": "2026-11-17T21:11:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "34ac6d0ad040",
+   "ts": "2026-11-17T21:05:47Z",
+   "headline": "Qatar PM says Doha is still working to broker an agreement between Iran and the US",
+   "detail": "Qatar's prime minister said the country's diplomatic efforts to secure a deal between Iran and the US are continuing, Iranian state news agency IRNA reports. The statement follows reported US strikes on Iran's Qeshm Island earlier in the day.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7f0a45ca476b2cfd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jx34nrrn2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jx34nrrn2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ee5f3b67b549",
+   "created_at": "2026-11-17T21:11:15Z"
+  },
   {
    "id": "d5081d14f64f",
    "ts": "2026-11-17T20:53:13Z",
@@ -6455,27 +6476,6 @@
    "model": "opus",
    "run_id": "2aed6e904802",
    "created_at": "2026-11-13T18:25:42Z"
-  },
-  {
-   "id": "bf0d43de79ff",
-   "ts": "2026-11-13T18:13:29Z",
-   "headline": "Market commentators flag suspected intervention in the yen",
-   "detail": "A market commentary account reported suspected intervention in the yen late on Friday. It gave no figures and did not name an official source.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "33fb29212cb50b9d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27lle2if62y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27lle2if62y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2e198cc186d7",
-   "created_at": "2026-11-13T18:15:56Z"
   }
  ]
 }
