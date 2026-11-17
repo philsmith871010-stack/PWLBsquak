@@ -1,8 +1,110 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T13:15:57Z",
+ "generated_at": "2026-11-17T13:31:05Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8a0a745ce0e4",
+   "ts": "2026-11-17T13:30:57Z",
+   "headline": "US import prices rise 1.1% m/m, above 0.7% forecast; export prices up 1.1% against 0.5% expected",
+   "detail": "US import prices rose 1.1% m/m, matching the previous reading and above the 0.7% forecast. Export prices rose 1.1% m/m, against a 0.5% forecast and 2.2% previously.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "7dee0c9251802e3b",
+    "edb63779f03d94ee"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j5ntbnfk2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j5ntbnfk2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j5ntnyg32d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j5ntnyg32d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c423617dad59",
+   "created_at": "2026-11-17T13:31:05Z"
+  },
+  {
+   "id": "0a6acef0c3c2",
+   "ts": "2026-11-17T13:30:56Z",
+   "headline": "Canada's Carney and Mexico's Sheinbaum restate their commitment to renewing the USMCA trade agreement",
+   "detail": "A joint statement says the Canadian Prime Minister and the Mexican President reaffirmed their commitment to renewing the Canada-United States-Mexico Agreement.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5a7cf90bffba5513"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j5nrxuq32s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j5nrxuq32s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c423617dad59",
+   "created_at": "2026-11-17T13:31:05Z"
+  },
+  {
+   "id": "d24010e60a47",
+   "ts": "2026-11-17T13:30:56Z",
+   "headline": "US retail sales rise 0.2% m/m in October, above 0.1% forecast; core sales up 0.6% against 0.4% expected",
+   "detail": "US headline retail sales grew 0.2% m/m, compared with a 0.1% forecast and 0.8% previously. Core retail sales rose 0.6% m/m, against a 0.4% forecast and 0.9% previously.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "3e1e2b68906acc21",
+    "25d9faa994000799"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j5nsenv72t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j5nsenv72t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j5nsquc22j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j5nsquc22j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c423617dad59",
+   "created_at": "2026-11-17T13:31:05Z"
+  },
+  {
+   "id": "78f0420dd4c6",
+   "ts": "2026-11-17T13:29:29Z",
+   "headline": "Dollar returns to levels last seen in April 2025 on rising rate expectations; euro falls to 19-month low of $1.0982",
+   "detail": "The FT reports that the US dollar has recovered all of its 'liberation day' losses as US rate expectations rise. LSEG data show the euro at a 19-month low of $1.0982.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "2218f17944612ac8",
+    "c95b9baa8887f3a5"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2j5l6rner2a",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2j5l6rner2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j5i74dft2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j5i74dft2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c423617dad59",
+   "created_at": "2026-11-17T13:31:05Z"
+  },
   {
    "id": "4c9f59ff4259",
    "ts": "2026-11-17T13:15:36Z",
@@ -6680,90 +6782,6 @@
    "model": "opus",
    "run_id": "427cf3a87722",
    "created_at": "2026-11-13T12:20:51Z"
-  },
-  {
-   "id": "30e42de6e7d2",
-   "ts": "2026-11-13T12:15:46Z",
-   "headline": "German government says it wants ECB leadership that is responsible and widely supported, declines comment on talks",
-   "detail": "A German government spokesperson said Berlin's aim is ECB leadership that is responsible and has broad support, and declined to comment on current talks, according to a market news feed.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ee8a74949b0f008e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26xlp4meu2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26xlp4meu2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fd51972d74ee",
-   "created_at": "2026-11-13T12:15:49Z"
-  },
-  {
-   "id": "ec210e8f6977",
-   "ts": "2026-11-13T12:15:45Z",
-   "headline": "German Chancellor Merz says Ukraine talks have made some progress but a resolution remains distant",
-   "detail": "German Chancellor Friedrich Merz said there had been some progress on Ukraine but that the sides remain far from a resolution, according to a market news feed.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5bc095f648771aa9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26xlou3tq2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26xlou3tq2u"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fd51972d74ee",
-   "created_at": "2026-11-13T12:15:49Z"
-  },
-  {
-   "id": "20fb78eabef4",
-   "ts": "2026-11-13T11:31:09Z",
-   "headline": "US Treasuries head for their worst week since Trump's 'liberation day' tariff announcement",
-   "detail": "The Financial Times reports that Treasuries are on course for their heaviest weekly losses since the 'liberation day' tariff announcement. It attributes the losses to inflation that came in higher than expected and to hawkish comments from Fed officials.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "4f56b489aea37449"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n26v3voy3e2m",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n26v3voy3e2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ceb1952a7684",
-   "created_at": "2026-11-13T11:35:56Z"
-  },
-  {
-   "id": "b252e7f9b451",
-   "ts": "2026-11-13T10:26:44Z",
-   "headline": "Kremlin expects the next round of Ukraine negotiations to take place relatively soon",
-   "detail": "Kremlin spokesman Peskov said Russia expects the next round of talks on Ukraine to be held relatively soon. He gave no date.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7b9539d08acb0d13"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26riqdlgb2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26riqdlgb2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "27594f13b198",
-   "created_at": "2026-11-13T10:31:01Z"
   }
  ]
 }
