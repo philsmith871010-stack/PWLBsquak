@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T09:40:51Z",
+ "generated_at": "2026-11-17T09:45:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "178a605fd34e",
+   "ts": "2026-11-17T09:41:22Z",
+   "headline": "Germany to back Spain's de Cos for ECB president, sources say",
+   "detail": "Two sources say Germany will support the Spanish candidate, Pablo Hernández de Cos, for the ECB presidency. This follows the German government's nomination of Markus Brunnermeier for the post of ECB chief economist.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "8c30451516febe5d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iqtc4xfm2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iqtc4xfm2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a75f0f852798",
+   "created_at": "2026-11-17T09:45:53Z"
+  },
   {
    "id": "423b7e496ed6",
    "ts": "2026-11-17T09:37:05Z",
@@ -6845,33 +6866,6 @@
    "model": "opus",
    "run_id": "feffb10c8082",
    "created_at": "2026-11-13T07:01:15Z"
-  },
-  {
-   "id": "729e317f64b4",
-   "ts": "2026-11-13T06:07:31Z",
-   "headline": "Dollar/yen climbs to 160.09, its highest level since early September",
-   "detail": "Dollar/yen rose to 160.09 in early European trade, its highest since early September, according to market reports. The move follows a suspected yen intervention reported earlier and Japanese officials' warnings about rapid one-sided moves in the currency.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "9ee7320a50475079",
-    "9f20d5e2c1faee49"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26cz7ozkq2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26cz7ozkq2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26d5fa7ul2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26d5fa7ul2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6e999ebfe7bd",
-   "created_at": "2026-11-13T06:20:57Z"
   }
  ]
 }
