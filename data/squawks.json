@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T09:31:01Z",
+ "generated_at": "2026-11-17T09:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f75f5562f70a",
+   "ts": "2026-11-17T09:33:32Z",
+   "headline": "Iraq's oil minister puts initial Kirkuk-Ceyhan export capacity at 120,000 bpd, rising gradually to 500,000 bpd",
+   "detail": "Iraq's oil minister says crude exports via the Iraq-Turkey pipeline will start at 120,000 barrels per day. He says capacity will be increased step by step until it reaches 500,000 barrels per day.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "fe8b7701e597ebde",
+    "44930e927a0b5d53"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iqfbwgq72j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iqfbwgq72j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iqfzeue52w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iqfzeue52w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d826eb8e3492",
+   "created_at": "2026-11-17T09:35:44Z"
+  },
   {
    "id": "07e18b709aba",
    "ts": "2026-11-17T09:30:45Z",
@@ -6852,27 +6879,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26cospb5p2k",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26cospb5p2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8cc820d4bab9",
-   "created_at": "2026-11-13T06:15:55Z"
-  },
-  {
-   "id": "ad2bb553a2b3",
-   "ts": "2026-11-13T05:11:54Z",
-   "headline": "ECB's Lane says rising long-term rates are weighing on AI deployment in Europe",
-   "detail": "ECB chief economist Philip Lane made the remarks in comments reported by the Financial Times.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0fab474ff4b771f7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n267vr5et72q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n267vr5et72q"
     }
    ],
    "model": "opus",
