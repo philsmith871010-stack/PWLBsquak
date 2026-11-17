@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T11:40:50Z",
+ "generated_at": "2026-11-17T11:45:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "80bfe5a1bbd3",
+   "ts": "2026-11-17T11:45:24Z",
+   "headline": "Russian Deputy PM Novak orders oil refineries restored more quickly, reports say",
+   "detail": "Reports say Russian Deputy Prime Minister Alexander Novak has ordered work to restore the country's oil refineries to be speeded up. No timetable or volumes were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "986ed3cf3a94848b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ixr3hgfh2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ixr3hgfh2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9892cfb58152",
+   "created_at": "2026-11-17T11:45:53Z"
+  },
   {
    "id": "3e0df6335a05",
    "ts": "2026-11-17T11:38:50Z",
@@ -6701,63 +6722,6 @@
    "model": "opus",
    "run_id": "258880452b44",
    "created_at": "2026-11-13T10:01:16Z"
-  },
-  {
-   "id": "6beab7306724",
-   "ts": "2026-11-13T09:49:41Z",
-   "headline": "EU foreign policy chief Kallas says a Ukraine ceasefire must come first and calls Russia's focus on security architecture a distraction",
-   "detail": "The EU's foreign policy chief said Russia is opening with maximum demands, so the EU will do the same, and that Moscow has no say in whether she attends peace talks. She added that she represents the 27 member states and that the EU cannot send someone who has no institutional role.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "dfc01fbfb51c1332",
-    "cb1cb8808bec7143",
-    "b2b54bdc4ac3c246",
-    "b42dbf95f5c14973",
-    "e0547e435afe14aa",
-    "d09348aa646e0814",
-    "fcdf1de1bf3a6442"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26pginiab2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26pginiab2o"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26pilm4kw2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26pilm4kw2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26pkrwsty2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26pkrwsty2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26pkrib542c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26pkrib542c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26pmureke2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26pmureke2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26pnllqja2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26pnllqja2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26ppoi7wk2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26ppoi7wk2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7b67f5d88b8f",
-   "created_at": "2026-11-13T09:55:49Z"
   }
  ]
 }
