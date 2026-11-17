@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T07:31:05Z",
+ "generated_at": "2026-11-17T08:25:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "00e1715a60d4",
+   "ts": "2026-11-17T08:24:26Z",
+   "headline": "Germany's finance minister nominates Markus Brunnermeier for ECB chief economist; cabinet to decide tomorrow",
+   "detail": "The German Finance Ministry says the finance minister has put forward Markus Brunnermeier for the ECB chief economist post. It says the German cabinet is due to decide on the nomination tomorrow.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2e32f480f7e265a2",
+    "a8e9bd940b60e0c2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2imjqjpsk24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2imjqjpsk24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2imjqqscb2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2imjqqscb2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "60731306ffa1",
+   "created_at": "2026-11-17T08:25:40Z"
+  },
   {
    "id": "7629a054f070",
    "ts": "2026-11-17T07:26:07Z",
@@ -6912,51 +6939,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25shtyij72r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25shtyij72r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b0a364cc117c",
-   "created_at": "2026-11-13T06:05:40Z"
-  },
-  {
-   "id": "737716b8894c",
-   "ts": "2026-11-13T00:41:49Z",
-   "headline": "Japan's finance ministry proposes five-year defence spending of 50-60 trillion yen, below the 80 trillion sought",
-   "detail": "Sources say Japan has warned arms suppliers of deep order cuts as a budget squeeze hits its military build-up. Separately, the finance minister said winter utility subsidies will be brought forward using reserve funds.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "8f138a3b7c49596b",
-    "1873d41bf7edcbed",
-    "0a0396204b9d7c11",
-    "18cf8141091143ce",
-    "13cb14b55680822d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25qstbgee2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25qstbgee2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25qtl4unq25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25qtl4unq25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25qtkrrkz2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25qtkrrkz2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25qizj4dj2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25qizj4dj2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25qwf5r7l2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25qwf5r7l2r"
     }
    ],
    "model": "opus",
