@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T21:55:41Z",
+ "generated_at": "2026-11-17T22:15:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5c54be5108c1",
+   "ts": "2026-11-17T22:15:23Z",
+   "headline": "Fed's Williams says the Fed will likely need to raise rates again but rejects a shift to a more aggressive path",
+   "detail": "Reuters reports that New York Fed President John Williams said on Tuesday that further rate rises will likely be needed to counter high inflation. He argued against moving to a more aggressive pace of tightening.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "cfe84dea658b660e"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2k2xli5zn2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2k2xli5zn2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "825703a26617",
+   "created_at": "2026-11-17T22:15:51Z"
+  },
   {
    "id": "f316b0dcdec7",
    "ts": "2026-11-17T21:54:06Z",
@@ -6449,39 +6470,6 @@
    "model": "opus",
    "run_id": "730a6a525ae4",
    "created_at": "2026-11-13T20:35:42Z"
-  },
-  {
-   "id": "cca66ae7a253",
-   "ts": "2026-11-13T20:04:54Z",
-   "headline": "New York Fed plans about $14bn of bill purchases for MBS reinvestment and extends pause on reserve management purchases",
-   "detail": "The New York Fed desk plans about $14.0bn of reinvestment purchases and no reserve management purchases between 16 November and 11 December. This extends the pause on reserve management purchases to mid-December.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4d28e98b5c099827",
-    "5ac425bd8b3b9bcd",
-    "e2ae8753c6153cd8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27rslad7a2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27rslad7a2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27rqf7sfo2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27rqf7sfo2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27rr4muk22j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27rr4muk22j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9225ac97a03c",
-   "created_at": "2026-11-13T20:05:39Z"
   }
  ]
 }
