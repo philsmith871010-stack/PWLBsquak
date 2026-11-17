@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T14:55:43Z",
+ "generated_at": "2026-11-17T15:01:14Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c41c43929182",
+   "ts": "2026-11-17T15:00:50Z",
+   "headline": "US NAHB housing market index falls to 25 in November against 29 forecast; business inventories rise 0.5% m/m",
+   "detail": "The NAHB homebuilder sentiment index fell to 25 in November, from 29 the previous month and below the 29 forecast. US business inventories rose 0.5% m/m, in line with forecast, after 0.4% previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "930904eafef89200",
+    "47abddda72ee3770",
+    "3ae20da96376d698"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jcokhfzt2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jcokhfzt2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jcokwcjg24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jcokwcjg24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jcok2d3l2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jcok2d3l2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c29354153d02",
+   "created_at": "2026-11-17T15:01:14Z"
+  },
+  {
+   "id": "a73c827682e2",
+   "ts": "2026-11-17T14:56:31Z",
+   "headline": "Fed's Hammack says Fed and Treasury can coordinate on market stress and Fed is better placed to act in extreme dislocation",
+   "detail": "Cleveland Fed President Hammack said the Fed and Treasury can work together during market stress while the Fed keeps its independence on monetary policy. She also said the Fed is now better positioned to act when markets are severely dislocated.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "3297bcccbdcd0c56",
+    "6385c234af078694"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jcgtuqag2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jcgtuqag2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jcoisnh22v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jcoisnh22v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c29354153d02",
+   "created_at": "2026-11-17T15:01:14Z"
+  },
   {
    "id": "5fe309a66f75",
    "ts": "2026-11-17T14:53:23Z",
@@ -6668,48 +6728,6 @@
    "model": "opus",
    "run_id": "e36268e2ef80",
    "created_at": "2026-11-13T13:45:49Z"
-  },
-  {
-   "id": "709c63016241",
-   "ts": "2026-11-13T13:40:38Z",
-   "headline": "Fed's Goolsbee says US inflation is broad-based and moving in the wrong direction",
-   "detail": "Chicago Fed President Austan Goolsbee said inflation is broad-based and heading the wrong way, according to a market commentary account.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "ed77013475bd0655"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n274dhvtzm2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n274dhvtzm2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fee9187132eb",
-   "created_at": "2026-11-13T13:40:49Z"
-  },
-  {
-   "id": "36c9400c8c97",
-   "ts": "2026-11-13T13:36:44Z",
-   "headline": "Traders scale back expected Fed tightening after US October PPI report",
-   "detail": "Market pricing moved towards less Fed tightening after the US October producer price data, according to a market commentary account. No figures for the change in pricing were given.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "43b917a67de23641"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2744iexcp2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2744iexcp2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fee9187132eb",
-   "created_at": "2026-11-13T13:40:49Z"
   }
  ]
 }
