@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T10:50:58Z",
+ "generated_at": "2026-11-17T10:55:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "aca622812cc0",
+   "ts": "2026-11-17T10:52:15Z",
+   "headline": "Trump says he will push Xi and Putin to help end the war in Ukraine",
+   "detail": "US President Trump said he would press China's President Xi and Russia's President Putin to help bring the Ukraine war to an end. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "20b52474a48a702e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ius2mf4o2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ius2mf4o2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "30b00b38361f",
+   "created_at": "2026-11-17T10:55:40Z"
+  },
   {
    "id": "08ce71597e65",
    "ts": "2026-11-17T10:49:01Z",
@@ -6744,39 +6765,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26nauxqkl2y",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26nauxqkl2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "76d10e178a0c",
-   "created_at": "2026-11-13T09:10:49Z"
-  },
-  {
-   "id": "a6ef61368fc2",
-   "ts": "2026-11-13T09:08:45Z",
-   "headline": "German economy ministry expects pressure on the economy to ease by year-end but says the labour market has not yet recovered",
-   "detail": "In its assessment, Germany's economy ministry said leading indicators have stabilised but the recovery has not yet reached the labour market. It also said the consumer-related sector remains subdued.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "37c0ee69cf326171",
-    "22c692d949b8c97e",
-    "f727d9dda07e6cae"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26n5cg4qi2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26n5cg4qi2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26n5zjd3c2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26n5zjd3c2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26n7gpmvn2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26n7gpmvn2d"
     }
    ],
    "model": "opus",
