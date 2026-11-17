@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T17:40:48Z",
+ "generated_at": "2026-11-17T17:45:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a7bf4080bfc4",
+   "ts": "2026-11-17T17:41:54Z",
+   "headline": "Houthis say they attacked two sections of Saudi Arabia's East-West oil pipeline with drones",
+   "detail": "In two statements, Yemen's Houthis said they used two drones against the pipeline in the Riyadh area and then three more against another section. No damage, disruption to supply or market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4445d349f6696b16",
+    "2907f3744b247fc1",
+    "50a67843998bdd0c",
+    "9d75aa3a01528cad"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jlokplsu2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jlokplsu2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jlokd6ya2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jlokd6ya2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jlsqikyh2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jlsqikyh2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jlu6mrun2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jlu6mrun2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9f8ed290ce57",
+   "created_at": "2026-11-17T17:45:52Z"
+  },
   {
    "id": "08847364907c",
    "ts": "2026-11-17T17:40:26Z",
@@ -6455,27 +6494,6 @@
    "model": "opus",
    "run_id": "e9a838bdfa93",
    "created_at": "2026-11-13T16:55:44Z"
-  },
-  {
-   "id": "7a545ac6945c",
-   "ts": "2026-11-13T16:26:29Z",
-   "headline": "ECB's Nagel says the economic outlook has worsened since September",
-   "detail": "Bundesbank President and ECB Governing Council member Joachim Nagel said on Friday that the outlook has deteriorated since September. He earlier said further ECB action is highly likely.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1cd10b04b09c7320"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27flzbfsp2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27flzbfsp2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "43a94f0db8b0",
-   "created_at": "2026-11-13T16:31:05Z"
   }
  ]
 }
