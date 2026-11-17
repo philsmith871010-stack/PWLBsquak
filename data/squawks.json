@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T15:55:42Z",
+ "generated_at": "2026-11-17T16:01:16Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "031c42ec0bbc",
+   "ts": "2026-11-17T15:58:57Z",
+   "headline": "Iran's foreign minister rejects media reports of an Iranian plot to use chemical weapons in Washington",
+   "detail": "Iran's foreign minister dismissed reports from the past 72 hours that Iran planned a chemical weapons attack in Washington and was building missile bases under dams. He compared them to propaganda before the Iraq war and said Israel was behind them.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "79cc8d8d0763a9b2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jfwiargs2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jfwiargs2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "df68382ba67a",
+   "created_at": "2026-11-17T16:01:16Z"
+  },
   {
    "id": "022dfa4a61d9",
    "ts": "2026-11-17T15:54:33Z",
@@ -6612,27 +6633,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n275yq2fa52y",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n275yq2fa52y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5fb170ecdfc9",
-   "created_at": "2026-11-13T14:10:53Z"
-  },
-  {
-   "id": "65720486e5f5",
-   "ts": "2026-11-13T14:09:38Z",
-   "headline": "France calls for more pressure on Yemen's Houthis to stop attacks, including those on Saudi Arabia",
-   "detail": "France's foreign ministry said pressure on the Houthis must increase so that they end their attacks, singling out attacks on Saudi Arabia.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "da5aafdba9ac4fc1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n275xcecwa25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n275xcecwa25"
     }
    ],
    "model": "opus",
