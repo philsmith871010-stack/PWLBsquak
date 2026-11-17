@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T13:45:48Z",
+ "generated_at": "2026-11-17T13:51:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "912733a0612e",
+   "ts": "2026-11-17T13:46:49Z",
+   "headline": "Iran's Sepah News reports US air strikes on Qeshm Island, following earlier unconfirmed reports",
+   "detail": "Iran's Sepah News reports US air strikes on Iran's Qeshm Island. Earlier reports of the strike had been unconfirmed. The posts report no market reaction.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "48d067d0c2a4d838"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j6k6n2jh2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j6k6n2jh2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aeec7e10a45f",
+   "created_at": "2026-11-17T13:51:00Z"
+  },
   {
    "id": "9472940bed83",
    "ts": "2026-11-17T13:44:02Z",
@@ -6749,27 +6770,6 @@
    "model": "opus",
    "run_id": "d191b511c151",
    "created_at": "2026-11-13T12:50:50Z"
-  },
-  {
-   "id": "f1ec3682d016",
-   "ts": "2026-11-13T12:37:12Z",
-   "headline": "Merz says Germany will definitely take part in Ukraine peace talks",
-   "detail": "German Chancellor Friedrich Merz said Germany's participation in the Ukraine negotiations is assured. He made the comment as European leaders push for a seat at the next round of talks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3f3699a82721cd71"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26ys23gkg2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26ys23gkg2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6e69e0822ff7",
-   "created_at": "2026-11-13T12:40:57Z"
   }
  ]
 }
