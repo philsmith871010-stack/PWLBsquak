@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T12:55:42Z",
+ "generated_at": "2026-11-17T13:15:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4c9f59ff4259",
+   "ts": "2026-11-17T13:15:36Z",
+   "headline": "US ADP weekly employment change rises to 23.75K from 19.75K",
+   "detail": "ADP's weekly private payrolls estimate came in at 23.75K, against 19.75K the previous week. No forecast was given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9b797c61c196d99b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j4sfeqm32w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j4sfeqm32w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b4c1c11ed4a2",
+   "created_at": "2026-11-17T13:15:57Z"
+  },
+  {
+   "id": "21938a14d303",
+   "ts": "2026-11-17T13:13:39Z",
+   "headline": "Destatis revises German October HICP up to 2.9% y/y from 2.8%",
+   "detail": "The German statistics office also revised October CPI to -0.1% m/m from -0.2%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "c89229a4e116f68e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j4ovgp6a2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j4ovgp6a2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b4c1c11ed4a2",
+   "created_at": "2026-11-17T13:15:57Z"
+  },
+  {
+   "id": "186ad07ee0f0",
+   "ts": "2026-11-17T13:13:15Z",
+   "headline": "Fed's Musalem says monetary policy needs to respond immediately and AI is bringing forward demand and investment",
+   "detail": "St Louis Fed President Musalem made the further remarks after earlier saying several rate hikes are likely needed before spring.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "b4959a1e614ef1af",
+    "be9ac96d2aab95d2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j4o6quvi2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j4o6quvi2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j4mrdmk32s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j4mrdmk32s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b4c1c11ed4a2",
+   "created_at": "2026-11-17T13:15:57Z"
+  },
   {
    "id": "93f68484a906",
    "ts": "2026-11-17T12:51:58Z",
@@ -6695,87 +6764,6 @@
    "model": "opus",
    "run_id": "27594f13b198",
    "created_at": "2026-11-13T10:31:01Z"
-  },
-  {
-   "id": "fd2383e6694a",
-   "ts": "2026-11-13T10:25:56Z",
-   "headline": "India's trade minister says an India-US trade deal announcement could come soon",
-   "detail": "India's trade minister told India Today that an announcement on a trade deal with the US could be made soon. No timing or terms were given.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f8c71dba5617a865"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26rhd3wfy2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26rhd3wfy2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "27594f13b198",
-   "created_at": "2026-11-13T10:31:01Z"
-  },
-  {
-   "id": "ad3795b95eea",
-   "ts": "2026-11-13T10:24:45Z",
-   "headline": "Kremlin says Europeans can join Ukraine talks only once they show readiness to help the peace process",
-   "detail": "The Kremlin said it wants to know Europe's intentions before European participation in Ukraine talks becomes possible. It also urged the US to use its influence to get Ukraine to agree to an operation in Kostiantynivka.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "23aeb16cf7494243",
-    "e86f738615e7f9d7",
-    "7409c87fb6724d97",
-    "fb1508b2d699eee9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26rf6rgoi2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26rf6rgoi2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26rgmgxyg2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26rgmgxyg2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26rf6ingk2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26rf6ingk2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26r6sqzik2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26r6sqzik2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "30415f4982bc",
-   "created_at": "2026-11-13T10:25:40Z"
-  },
-  {
-   "id": "aeaea8985d31",
-   "ts": "2026-11-13T10:21:11Z",
-   "headline": "Swedish PM says the UK should at least be included in European discussions with Russia",
-   "detail": "Sweden's prime minister said Europe extends beyond the EU when it comes to talks with Russia, and that the UK in particular should take part.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7dfa679445620047"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26r6t3zuw2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26r6t3zuw2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "30415f4982bc",
-   "created_at": "2026-11-13T10:25:40Z"
   }
  ]
 }
