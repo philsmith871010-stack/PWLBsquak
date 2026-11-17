@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T07:05:42Z",
+ "generated_at": "2026-11-17T07:15:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1ad5bee90715",
+   "ts": "2026-11-17T07:11:26Z",
+   "headline": "China pledges to protect its firms' rights and interests after the US moves to restrict remote access to AI chips",
+   "detail": "China's foreign ministry spokesperson Guo responded to the US Commerce Department rule restricting remote access to advanced AI chips and tightening re-export controls. No specific countermeasures were reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "00737f226cb67625"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iih6qef42d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iih6qef42d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8fdbe92d0c50",
+   "created_at": "2026-11-17T07:15:47Z"
+  },
   {
    "id": "c7a56382f8df",
    "ts": "2026-11-17T07:02:09Z",
@@ -7007,33 +7028,6 @@
    "model": "opus",
    "run_id": "b0a364cc117c",
    "created_at": "2026-11-13T06:05:40Z"
-  },
-  {
-   "id": "ef0f2b56c4d8",
-   "ts": "2026-11-13T00:18:23Z",
-   "headline": "Japanese government bond yields rise 7bp, with the 10-year at 2.860% and the 5-year at 2.265%",
-   "detail": "The 5-year JGB yield rose 7bp to 2.265% and the 10-year rose 7bp to 2.860% in early Asian trading on 13 November.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "274a552be6803be5",
-    "24d7d52cb9b6f970"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25pb7gpm325",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25pb7gpm325"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n25piw5q2r2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n25piw5q2r2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "608be3b86c80",
-   "created_at": "2026-11-13T06:01:16Z"
   }
  ]
 }
