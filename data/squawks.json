@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T18:05:53Z",
+ "generated_at": "2026-11-17T18:10:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3f7932dc1d54",
+   "ts": "2026-11-17T18:06:06Z",
+   "headline": "German Defence Minister Pistorius rejects criticism of Ukraine's deep strikes on Russian military targets",
+   "detail": "Germany's defence minister said strikes on non-civilian targets in Russia should be seen as legal and legitimate, and called criticism of them foolish. He said Russia's daily attacks on Ukraine's energy, water and heating infrastructure should be condemned instead.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b2d5d83eb2cb6138",
+    "fc653b1389cfe011",
+    "749787ae8eac8b74",
+    "de3c087b8eb9cfb1",
+    "6ea4260690d7295d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jmztbcm424",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jmztbcm424"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jn3w422g2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jn3w422g2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jn6r2mpx2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jn6r2mpx2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jn7hzfd72j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jn7hzfd72j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jnavwbic2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jnavwbic2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "babee7f24c97",
+   "created_at": "2026-11-17T18:10:49Z"
+  },
   {
    "id": "756c06f99405",
    "ts": "2026-11-17T18:05:18Z",
@@ -6467,27 +6512,6 @@
    "model": "opus",
    "run_id": "2a104e0f85d4",
    "created_at": "2026-11-13T17:15:52Z"
-  },
-  {
-   "id": "d498d16021c3",
-   "ts": "2026-11-13T17:07:30Z",
-   "headline": "Poland is invited to join Europe's delegation at Ukraine peace talks alongside four other countries and the EU, reports say",
-   "detail": "Reports from Brussels say Poland has been asked to join the European representation at the Ukraine peace talks, which would also include four other countries and the EU.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "92296ce8b0b7cac9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27hveeobc25",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27hveeobc25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "edd0b08b8e63",
-   "created_at": "2026-11-13T17:10:51Z"
   }
  ]
 }
