@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T15:05:48Z",
+ "generated_at": "2026-11-17T15:10:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "09e4e35ba3e3",
+   "ts": "2026-11-17T15:07:14Z",
+   "headline": "Atlanta Fed interim President Venable says inflation is still too high and the job market is stable",
+   "detail": "Venable, interim president of the Atlanta Fed, commented on inflation and the labour market on 17 November. Posts in the batch report no figures and no market reaction.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b5ebd05c952c3634"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jczxxloo2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jczxxloo2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "54fe9db1a76f",
+   "created_at": "2026-11-17T15:10:54Z"
+  },
   {
    "id": "86918d5c2d65",
    "ts": "2026-11-17T15:04:51Z",
@@ -6617,39 +6638,6 @@
    "model": "opus",
    "run_id": "3fbf0205128d",
    "created_at": "2026-11-13T13:55:48Z"
-  },
-  {
-   "id": "23bd0c0f8163",
-   "ts": "2026-11-13T13:49:08Z",
-   "headline": "Axios reports Israeli PM Netanyahu is pressing Trump to resume the war, as Mossad chief visits Washington",
-   "detail": "Axios reports that Netanyahu is pressing the US president to restart the war. Mossad head Roman Gofman is meeting CIA Director John Ratcliffe and is also expected to meet White House envoy Steve Witkoff.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4eb22c5ec10643c4",
-    "9cbd290cbebcb97c",
-    "608c05f53e4eb2cf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n274snmwwo2q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n274snmwwo2q"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n274u3njpf2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n274u3njpf2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n274u3cva42y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n274u3cva42y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a0f30852fe5c",
-   "created_at": "2026-11-13T13:50:48Z"
   }
  ]
 }
