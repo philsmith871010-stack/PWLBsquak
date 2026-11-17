@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T09:01:14Z",
+ "generated_at": "2026-11-17T09:05:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d7b39854dc91",
+   "ts": "2026-11-17T09:01:51Z",
+   "headline": "Italy's final CPI is revised up to 5.5% y/y from 5.4%; final HICP confirmed at 5.6%",
+   "detail": "Italy's final October CPI rose 1% m/m against a 0.9% forecast, and annual CPI came in at 5.5% against a forecast of 5.4%. Final HICP matched expectations at 1.2% m/m and 5.6% y/y.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "71135e2540d199d0",
+    "71b7275eab107c11",
+    "107be78a78a3328e",
+    "ce955062bed61d1b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iolvy4ax2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iolvy4ax2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iommlg252d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iommlg252d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iomn2xu72v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iomn2xu72v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iommu44x2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iommu44x2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e2a57e092f25",
+   "created_at": "2026-11-17T09:05:47Z"
+  },
   {
    "id": "09e712e2b38f",
    "ts": "2026-11-17T08:59:53Z",
@@ -6917,27 +6956,6 @@
    "model": "opus",
    "run_id": "8cc820d4bab9",
    "created_at": "2026-11-13T06:15:55Z"
-  },
-  {
-   "id": "3fc31afa4515",
-   "ts": "2026-11-13T03:51:31Z",
-   "headline": "Japan's 2-year government bond yield rises 4bp to 1.890%",
-   "detail": "The 2-year JGB yield climbs 4bp to 1.890% in Friday trade. Earlier squawks recorded rises in the longer-dated yields.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c2b3a2853b1b3237"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n263g24fri2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n263g24fri2o"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fcbbc2507e13",
-   "created_at": "2026-11-13T06:10:48Z"
   }
  ]
 }
