@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T15:25:51Z",
+ "generated_at": "2026-11-17T15:55:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "022dfa4a61d9",
+   "ts": "2026-11-17T15:54:33Z",
+   "headline": "An official confirms the US has attacked Iran's Qeshm Island in the Strait of Hormuz",
+   "detail": "An official confirmed the US attack on Qeshm Island. Earlier reports of the strike were unconfirmed or came from Iranian media.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "e27639d5ec4ae3ed"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jfolrsxm2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jfolrsxm2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f3e976654e78",
+   "created_at": "2026-11-17T15:55:42Z"
+  },
   {
    "id": "9334118440b7",
    "ts": "2026-11-17T15:24:34Z",
@@ -6617,27 +6638,6 @@
    "model": "opus",
    "run_id": "5fb170ecdfc9",
    "created_at": "2026-11-13T14:10:53Z"
-  },
-  {
-   "id": "a4f65180d503",
-   "ts": "2026-11-13T14:05:14Z",
-   "headline": "Fed's Goolsbee says the Fed would become more aggressive if data show inflation getting worse",
-   "detail": "Chicago Fed President Austan Goolsbee said on 13 November that evidence of worsening inflation in the data would push the Fed towards a more aggressive stance.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "b9397d36fee2212f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n275pgygnq2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n275pgygnq2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c3d039507603",
-   "created_at": "2026-11-13T14:05:42Z"
   }
  ]
 }
