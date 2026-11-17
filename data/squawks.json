@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T19:45:49Z",
+ "generated_at": "2026-11-17T19:50:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ea812dd41b15",
+   "ts": "2026-11-17T19:50:20Z",
+   "headline": "UK outlines its planned package of EU agreements ahead of Friday's UK-EU summit",
+   "detail": "Reuters reports that on Tuesday the UK government set out the broad shape of the agreements it hopes to reach at this week's summit. The package includes a youth experience programme, a food trade deal and closer cooperation on carbon emissions.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "890143282eba6e85"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2jsu7nqam2l",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2jsu7nqam2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fef54bf20a43",
+   "created_at": "2026-11-17T19:50:50Z"
+  },
   {
    "id": "7fdb67dfa5c0",
    "ts": "2026-11-17T19:45:22Z",
@@ -6450,39 +6471,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27k6gvkqs2k",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27k6gvkqs2k"
-    }
-   ],
-   "model": "opus",
-   "run_id": "095e51e0d147",
-   "created_at": "2026-11-13T17:50:52Z"
-  },
-  {
-   "id": "d8511753ce2c",
-   "ts": "2026-11-13T17:45:58Z",
-   "headline": "Von der Leyen says the EU will soon propose a 22nd package of sanctions on Russia",
-   "detail": "European Commission President von der Leyen said a 22nd Russia sanctions package will be proposed soon. She also said the path to peace in Ukraine will not be easy, and that a European team of the E5 and EU institutions has been agreed for the talks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c9596d12d06e185b",
-    "40f68c0e7a7e60a7",
-    "5674520b452a58e7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27k25xk6z2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27k25xk6z2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27k2uitdk2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27k2uitdk2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27kbdjbob2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27kbdjbob2g"
     }
    ],
    "model": "opus",
