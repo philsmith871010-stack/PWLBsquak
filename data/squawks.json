@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T09:45:53Z",
+ "generated_at": "2026-11-17T10:01:12Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bac5ee8ac446",
+   "ts": "2026-11-17T10:00:49Z",
+   "headline": "German ZEW economic sentiment rises to 35.6, beating 28.8 forecast; current conditions improve to -33.2",
+   "detail": "The German ZEW economic sentiment index came in at 35.6, against a 28.8 forecast and 28.1 previously, while the current conditions index was -33.2, against a -35.3 forecast and -35.9 previously. The eurozone ZEW expectations index rose to 26.5 from 18.5.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "73a46956f2ffd292",
+    "67a308f8410cf8e7",
+    "2504d1b024203b32"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2irw2uhxr2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2irw2uhxr2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2irw3dl322p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2irw3dl322p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2irw343ic2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2irw343ic2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c919b610ef45",
+   "created_at": "2026-11-17T10:01:12Z"
+  },
   {
    "id": "178a605fd34e",
    "ts": "2026-11-17T09:41:22Z",
@@ -6839,33 +6872,6 @@
    "model": "opus",
    "run_id": "1c14a6973571",
    "created_at": "2026-11-13T07:30:59Z"
-  },
-  {
-   "id": "d209e3426c36",
-   "ts": "2026-11-13T07:01:01Z",
-   "headline": "German wholesale prices rise 0.4% in the month, with the annual rate edging up to 8.8% from 8.7%",
-   "detail": "German wholesale price data show a 0.4% monthly rise, down from 1.9% previously. The annual rate is 8.8%, up from 8.7%, and no forecast was given.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "5dde761a12452ff7",
-    "cb201f8b5e1c9bfe"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26fyvlenw2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26fyvlenw2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26fyvuhle2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26fyvuhle2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "feffb10c8082",
-   "created_at": "2026-11-13T07:01:15Z"
   }
  ]
 }
