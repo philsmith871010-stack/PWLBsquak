@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T14:40:53Z",
+ "generated_at": "2026-11-17T14:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "17185e1fa4d6",
+   "ts": "2026-11-17T14:48:36Z",
+   "headline": "France rejects Russia's claim that French troops are taking part in the Ukraine war, calling it absurd",
+   "detail": "France dismissed the Russian claim that French forces are involved in the war in Ukraine. Earlier, Russian Foreign Minister Lavrov said Moscow would treat French troops deployed in Ukraine as direct participation in the war.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ab2a64c85369a6cf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jbyoht7y2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jbyoht7y2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "28f9704d8ee0",
+   "created_at": "2026-11-17T14:50:49Z"
+  },
   {
    "id": "f6a4b2fbdc9c",
    "ts": "2026-11-17T14:35:53Z",
@@ -6708,51 +6729,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2742eed3b2r",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2742eed3b2r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5c63eae523c3",
-   "created_at": "2026-11-13T13:35:42Z"
-  },
-  {
-   "id": "6ffb364c4b5f",
-   "ts": "2026-11-13T13:33:10Z",
-   "headline": "Bessent says the US economy is in very good shape and he is optimistic on trade deals with Canada and Mexico",
-   "detail": "US Treasury Secretary Bessent said markets are resilient and the dollar is well bid, and that he sees no cause for alarm. He also said he is optimistic the US can reach trade deals with Canada and Mexico.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "f96c7cc29d328f4a",
-    "59c20c223f3255c5",
-    "f36c9955ce742375",
-    "9a30eecbb07c1e57",
-    "49bc6fd763f0aa25"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273vedoqa2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273vedoqa2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273w35ajo2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273w35ajo2g"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273w2wbnw2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273w2wbnw2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273w3rb3b2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273w3rb3b2c"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n273w3gs6w2g",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n273w3gs6w2g"
     }
    ],
    "model": "opus",
