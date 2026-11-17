@@ -1,8 +1,92 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T19:25:42Z",
+ "generated_at": "2026-11-17T19:31:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8cbf3615729e",
+   "ts": "2026-11-17T19:27:36Z",
+   "headline": "Fed's Williams says inflation is stubbornly high but the situation does not call for dramatic policy action",
+   "detail": "New York Fed President Williams said shocks from tariffs and energy are still feeding into inflation readings, with signs of spillover into broader inflation data. He described the economy as resilient and the labour market as solid.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "8d572b34ada9660a",
+    "7e51df1922a6c98b",
+    "28efa2c0a5a0db7e",
+    "ea1e7d68d1083dac",
+    "528732f6f220890d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jrjgsydy2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jrjgsydy2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jrk5lgzz2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jrk5lgzz2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jrkud26z2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jrkud26z2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jrkuquxp2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jrkuquxp2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jrlle7t42j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jrlle7t42j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f41c4df5fc36",
+   "created_at": "2026-11-17T19:31:08Z"
+  },
+  {
+   "id": "9bfe1f44f1b4",
+   "ts": "2026-11-17T19:26:00Z",
+   "headline": "US official says fighter jets hit an IRGC missile launch site on Qeshm Island in self-defence",
+   "detail": "A US military official said US fighter aircraft struck an IRGC missile launch site on Iran's Qeshm Island. A US official told Axios the strike was self-defence after Iran targeted US personnel and assets.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ec038f0942dace8a",
+    "2c127496963e1a29",
+    "78b8dbc111202dde",
+    "242c35036327caf1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jripohbs2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jripohbs2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jrjghvqe2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jrjghvqe2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jrp3d3ib2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jrp3d3ib2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jrqjdhwc2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jrqjdhwc2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f41c4df5fc36",
+   "created_at": "2026-11-17T19:31:08Z"
+  },
   {
    "id": "03cc779267cf",
    "ts": "2026-11-17T19:25:11Z",
@@ -6416,60 +6500,6 @@
    "model": "opus",
    "run_id": "70888d7696a0",
    "created_at": "2026-11-13T17:35:47Z"
-  },
-  {
-   "id": "593e522b04af",
-   "ts": "2026-11-13T17:27:12Z",
-   "headline": "EU leaders agree Germany, France, Italy, Poland, the UK and EU institutions will represent them in Ukraine talks, sources say",
-   "detail": "Sources say the 27 EU leaders agreed the group will represent Europe in talks with the United States, Russia and Ukraine.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "576884abe73d9920"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27iyli5en2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27iyli5en2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c85c55e52820",
-   "created_at": "2026-11-13T17:31:02Z"
-  },
-  {
-   "id": "4e971d2ea829",
-   "ts": "2026-11-13T17:26:01Z",
-   "headline": "Fed's Daly says US consumer spending has been surprisingly resilient and plays down the Summary of Economic Projections",
-   "detail": "San Francisco Fed President Daly said she is watching how the gap between consumer sentiment and behaviour closes. She described the Summary of Economic Projections as a snapshot of one point in time.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ff35b308c5d5bcbd",
-    "77bed4fa78c04390",
-    "6a4c450e676380a0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27iwhqm562r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27iwhqm562r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27izcbamw2k",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27izcbamw2k"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27j4rh26f2c",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27j4rh26f2c"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c85c55e52820",
-   "created_at": "2026-11-13T17:31:02Z"
   }
  ]
 }
