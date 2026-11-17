@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T13:35:47Z",
+ "generated_at": "2026-11-17T13:40:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "847dea6ea1ba",
+   "ts": "2026-11-17T13:40:26Z",
+   "headline": "Unconfirmed reports say the US has struck Iran's Qeshm Island after an Iranian attack in Bahrain earlier today",
+   "detail": "Israel's N12 News cites unofficial sources linked to Iran as reporting US attacks on Qeshm Island. The reports describe the strikes as a response to an Iranian attack in Bahrain on Tuesday morning; there is no official confirmation.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d2850ce08626efc1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j66s3e6c2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j66s3e6c2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ebb03af280d8",
+   "created_at": "2026-11-17T13:40:55Z"
+  },
   {
    "id": "fe0e5a9b6a00",
    "ts": "2026-11-17T13:32:09Z",
@@ -6761,27 +6782,6 @@
    "model": "opus",
    "run_id": "e1682a6a2e92",
    "created_at": "2026-11-13T12:25:41Z"
-  },
-  {
-   "id": "d6f1b1e5a8ff",
-   "ts": "2026-11-13T12:19:17Z",
-   "headline": "Merz says ECB succession is under intensive discussion, with no decision taken yet",
-   "detail": "German Chancellor Merz said talks on who will succeed at the top of the ECB are being held intensively but no decision has been reached. This follows the German government's earlier statement that it wants ECB leadership that is responsible and widely supported.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "288205b90058a156"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n26xrynzjs2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n26xrynzjs2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "427cf3a87722",
-   "created_at": "2026-11-13T12:20:51Z"
   }
  ]
 }
