@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T09:05:47Z",
+ "generated_at": "2026-11-17T09:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8ff4a19da371",
+   "ts": "2026-11-17T09:23:17Z",
+   "headline": "German Chancellor backs proposing Brunnermeier for ECB chief economist post, government sources say",
+   "detail": "Government sources say the German Chancellor supports the decision to put forward Markus Brunnermeier for the ECB role. The finance minister has already nominated him, and the cabinet is due to decide tomorrow.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0b38f06699e5a97c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ipsxtof72j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ipsxtof72j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9a4415dd8c60",
+   "created_at": "2026-11-17T09:25:41Z"
+  },
   {
    "id": "d7b39854dc91",
    "ts": "2026-11-17T09:01:51Z",
@@ -6930,27 +6951,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n266jfhzp32g",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n266jfhzp32g"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8cc820d4bab9",
-   "created_at": "2026-11-13T06:15:55Z"
-  },
-  {
-   "id": "4ad2afef5f5c",
-   "ts": "2026-11-13T04:17:52Z",
-   "headline": "Japan's 10-year government bond yield extends its rise, up 8.5bp at 2.875%",
-   "detail": "The 10-year JGB yield was reported 8.5bp higher at 2.875% in Tokyo trade, above the 2.860% level recorded earlier in the session.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "b13e8df05c906c70"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n264v5bgks2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n264v5bgks2s"
     }
    ],
    "model": "opus",
