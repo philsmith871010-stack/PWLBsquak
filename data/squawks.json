@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T19:10:52Z",
+ "generated_at": "2026-11-18T19:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6f3ef5130023",
+   "ts": "2026-11-18T19:14:11Z",
+   "headline": "Iran's foreign minister Araghchi says Oman talks covered a regional security framework and steps to stop the war resuming",
+   "detail": "Iranian Foreign Minister Araghchi said the talks in Oman covered a regional security framework, US actions and efforts to prevent the war from returning. The posts did not report any market reaction.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9e65915260e3c3ef"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mbcitdws2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mbcitdws2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e5a2dcc1075b",
+   "created_at": "2026-11-18T19:15:50Z"
+  },
   {
    "id": "b37cb66f3a7b",
    "ts": "2026-11-18T19:09:04Z",
@@ -5699,45 +5720,6 @@
    "model": "opus",
    "run_id": "e2a57e092f25",
    "created_at": "2026-11-17T09:05:47Z"
-  },
-  {
-   "id": "09e712e2b38f",
-   "ts": "2026-11-17T08:59:53Z",
-   "headline": "Russia says no date is set for the next round of Ukraine talks and calls Ukraine joining NATO unacceptable",
-   "detail": "Russian officials said no date has been fixed for the next round of Ukraine peace talks, according to Tass and other reports. Russia's foreign ministry, via Sergei Ryabkov, said Ukraine's entry into NATO is unacceptable to Moscow, Interfax reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "420b3f6524cf6eb7",
-    "67eee242c0ce1dd6",
-    "556ed3a74f49b237",
-    "276a031f696282e5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iohoodoq2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iohoodoq2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ioj4buih2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ioj4buih2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iogbngnh2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iogbngnh2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ioifc54q2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ioifc54q2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c1e49adef81a",
-   "created_at": "2026-11-17T09:01:14Z"
   }
  ]
 }
