@@ -1,8 +1,71 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T19:01:10Z",
+ "generated_at": "2026-11-18T19:05:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2ab46b42e0ac",
+   "ts": "2026-11-18T19:01:35Z",
+   "headline": "Fed minutes show a couple of officials saw a December hike of more than 25bp as possibly warranted; some called the hold a close call",
+   "detail": "Minutes of the Fed's October meeting show that a few officials who backed no change called it a close call. A few who favoured a hike said they could have accepted a hold if markets clearly understood more tightening was likely. Many stressed that the hold did not weaken their commitment to the 2% target, and staff saw a similar inflation outlook to September with slightly stronger growth.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "4e3bd16b493d76fa",
+    "403dde24a19e6ed3",
+    "5ca5d2f347d91e0f",
+    "d31fd5b2d956b42c",
+    "9ed246385cdc7fa1",
+    "a4da1c4702b3657f",
+    "004347bf58b48d0b",
+    "4d0c9730e8319a8b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2malx4no62t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2malx4no62t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2malwck7n2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2malwck7n2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mampq7xi2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mampq7xi2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mamovnsx2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mamovnsx2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mani7u6m24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mani7u6m24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2malxiwk42w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2malxiwk42w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2manh3yz52f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2manh3yz52f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mapkxbtg2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mapkxbtg2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "41dd9a74f3c1",
+   "created_at": "2026-11-18T19:05:52Z"
+  },
   {
    "id": "6e1d1022a701",
    "ts": "2026-11-18T19:01:06Z",
@@ -5657,27 +5720,6 @@
    "model": "opus",
    "run_id": "5eb1a1a0b94f",
    "created_at": "2026-11-17T08:55:40Z"
-  },
-  {
-   "id": "392f648c14c0",
-   "ts": "2026-11-17T08:45:44Z",
-   "headline": "Russia says there is no understanding yet on continuing Ukraine peace talks",
-   "detail": "Russia said there was no understanding yet on continuing the Ukraine talks, Interfax reported. The Kremlin had earlier said the next round of Russia-Ukraine-US talks had been agreed.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f83966f112dab4f5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2inpsnieu24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2inpsnieu24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "87c482a502a5",
-   "created_at": "2026-11-17T08:45:53Z"
   }
  ]
 }
