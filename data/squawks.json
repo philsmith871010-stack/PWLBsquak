@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T09:40:49Z",
+ "generated_at": "2026-11-18T09:50:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5e69aaf87e6c",
+   "ts": "2026-11-18T09:47:40Z",
+   "headline": "German cabinet approves nominating Brunnermeier as ECB chief economist",
+   "detail": "Reuters reports that the German cabinet has approved putting Markus Brunnermeier forward as the European Central Bank's chief economist.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "005ddac042cd5ead"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lbnirhpx2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lbnirhpx2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c535caa9c4a2",
+   "created_at": "2026-11-18T09:50:58Z"
+  },
   {
    "id": "66e518e66b76",
    "ts": "2026-11-18T09:40:13Z",
@@ -6173,33 +6194,6 @@
    "model": "opus",
    "run_id": "25dde69fffd3",
    "created_at": "2026-11-16T10:15:46Z"
-  },
-  {
-   "id": "c96002a64c7a",
-   "ts": "2026-11-16T10:01:07Z",
-   "headline": "Eurozone industrial production rises 0.2% on the month but falls 1.5% on the year, both short of forecasts",
-   "detail": "Eurozone industrial output rose 0.2% on the month, against a 0.3% forecast and a previous -0.5%. On the year it fell 1.5%, against a forecast of -0.2% and a previous -1.1%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "b5894447800b25c5",
-    "892a8c60e3791301"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gbgxuua52s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gbgxuua52s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gbhorxei2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gbhorxei2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7af690fb3309",
-   "created_at": "2026-11-16T10:01:11Z"
   }
  ]
 }
