@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T08:25:44Z",
+ "generated_at": "2026-11-18T08:40:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "360a442e02f1",
+   "ts": "2026-11-18T08:39:01Z",
+   "headline": "BoE begins issuing regular statements in response to UK inflation data, except in the run-up to MPC meetings",
+   "detail": "An economics journalist notes the Bank of England has started publishing regular statements after UK inflation releases. They will not be issued in the period before MPC meetings.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "5a93f589c1d6b86a"
+   ],
+   "sources": [
+    {
+     "author": "bruceandy.bsky.social",
+     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3n2l5spyzmk2n",
+     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3n2l5spyzmk2n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "82b701ec40f3",
+   "created_at": "2026-11-18T08:40:47Z"
+  },
+  {
+   "id": "e1d7e071b7a0",
+   "ts": "2026-11-18T08:36:02Z",
+   "headline": "Finland's President Stubb says Ukraine peace talks are moving in the right direction",
+   "detail": "Stubb described himself as cautiously optimistic about the talks on Ukraine. He also said Europe had organised itself for the peace negotiations.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "419096c934a993dc",
+    "b893119e5558daef"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l5nfd3xo26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l5nfd3xo26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l5qu6ela2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l5qu6ela2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "82b701ec40f3",
+   "created_at": "2026-11-18T08:40:47Z"
+  },
   {
    "id": "4b8d9444a69e",
    "ts": "2026-11-18T08:20:53Z",
@@ -6152,96 +6200,6 @@
    "model": "opus",
    "run_id": "f261ae9b665c",
    "created_at": "2026-11-16T08:40:54Z"
-  },
-  {
-   "id": "a1050add861f",
-   "ts": "2026-11-16T08:32:27Z",
-   "headline": "ECB's Vujcic calls financial stability risks elevated, citing AI and sovereign debt, and says energy prices may push inflation higher",
-   "detail": "ECB policymaker Vujcic says AI and high debts are the leading risks to financial stability, while private-credit risks look contained but need monitoring. He says wages are not responding materially to inflation, recent energy price moves may lift inflation, weaker confidence and higher borrowing costs should partly contain it, and Europe's economy is very resilient.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "a48bba62a48b7c8c",
-    "5822e87b32ba37be",
-    "9dec94d1bc6d47f3",
-    "ee408dd6532d6a22",
-    "8251a0e4907fca79",
-    "927b9c0a81108bb7",
-    "220d6287804a2931",
-    "4a528b865f72367f",
-    "d62dcaf8434b1520"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4hpxrlh2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4hpxrlh2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4hpmh6u2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4hpmh6u2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4igvsqu2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4igvsqu2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4j5k5en2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4j5k5en2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4j5wagd2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4j5wagd2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4jurngu2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4jurngu2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4jvivfy2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4jvivfy2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4jv57st2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4jv57st2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4osmdjk2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4osmdjk2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7ad0b67cea3d",
-   "created_at": "2026-11-16T08:35:40Z"
-  },
-  {
-   "id": "870dbf241fdf",
-   "ts": "2026-11-16T08:28:32Z",
-   "headline": "Sweden's foreign minister says Russia is still not serious about Ukraine peace talks, pointing to its demands",
-   "detail": "Sweden's foreign minister said Russia is still not engaging seriously on peace in Ukraine and called the demands it is now making absurd. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "606ab105519d366c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4c5cjd72a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4c5cjd72a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8111ddb70317",
-   "created_at": "2026-11-16T08:31:08Z"
   }
  ]
 }
