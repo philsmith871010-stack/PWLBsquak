@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T12:21:03Z",
+ "generated_at": "2026-11-18T12:25:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "019e9f81d348",
+   "ts": "2026-11-18T12:21:29Z",
+   "headline": "French foreign minister denies Moscow's claim that France is directly intervening in the war in Ukraine",
+   "detail": "The French foreign minister said French military activity in Ukraine is far from the front lines and does not amount to direct participation in the war, according to reports. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "aa6fe714449cdfc6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lkajvdka2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lkajvdka2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d7d1e7b1c5c6",
+   "created_at": "2026-11-18T12:25:39Z"
+  },
   {
    "id": "b6f7bab7026c",
    "ts": "2026-11-18T12:18:46Z",
@@ -6179,27 +6200,6 @@
    "model": "opus",
    "run_id": "e7d5072a4193",
    "created_at": "2026-11-16T14:25:46Z"
-  },
-  {
-   "id": "3dbcefca7e78",
-   "ts": "2026-11-16T14:10:26Z",
-   "headline": "New York Fed's Nordstrom says FX markets are holding up well despite an uncertain global economy",
-   "detail": "Julie Nordstrom, an official at the New York Fed, said foreign exchange markets have stayed resilient against an uncertain global economic backdrop. No market reaction was reported.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "35d180274676bb30"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gpfinuph2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gpfinuph2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8f5b5f329e19",
-   "created_at": "2026-11-16T14:10:49Z"
   }
  ]
 }
