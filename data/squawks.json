@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T19:55:46Z",
+ "generated_at": "2026-11-18T20:10:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a7f653c41f03",
+   "ts": "2026-11-18T20:07:10Z",
+   "headline": "Iran's army says three oil tankers struck sea mines and caught fire east of the Strait of Hormuz after ignoring navy warnings",
+   "detail": "Iranian state broadcaster IRIB reported the incident, citing the Iranian army, which said the three tankers were stopped after hitting the mines. No market reaction was reported in the posts.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ddc210f282344fae",
+    "25e2bc6d4c469471",
+    "e1e382383e22e824"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2meb7vjuh2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2meb7vjuh2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mecns6re2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mecns6re2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2medesu2f2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2medesu2f2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7d80990c389a",
+   "created_at": "2026-11-18T20:10:52Z"
+  },
   {
    "id": "35c947450885",
    "ts": "2026-11-18T19:52:25Z",
@@ -5705,27 +5738,6 @@
    "model": "opus",
    "run_id": "a75f0f852798",
    "created_at": "2026-11-17T09:45:53Z"
-  },
-  {
-   "id": "423b7e496ed6",
-   "ts": "2026-11-17T09:37:05Z",
-   "headline": "Iranian state media say a liquefied gas carrier and an oil tanker are on fire in the Strait of Hormuz after hitting naval mines",
-   "detail": "Iranian state media, citing the Revolutionary Guards, report that both vessels caught fire after striking mines in the Strait of Hormuz. No market reaction is reported in the post.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b3393825587fe906"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iqlncdis2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iqlncdis2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "af9fccb1a90b",
-   "created_at": "2026-11-17T09:40:51Z"
   }
  ]
 }
