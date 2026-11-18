@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T12:01:12Z",
+ "generated_at": "2026-11-18T12:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6fc00b259c2d",
+   "ts": "2026-11-18T12:02:10Z",
+   "headline": "UK plans to resist EU request to match its tariffs on Chinese goods, FT reports",
+   "detail": "The Financial Times reports the position is in a draft communiqué ahead of the UK-EU summit, and that it reduces the chance of Britain gaining access to subsidies and contracts under 'made in Europe' rules.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b3c67bf35341501e"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2lj5ycq7o2p",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2lj5ycq7o2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2e2c18a2aaa6",
+   "created_at": "2026-11-18T12:05:43Z"
+  },
+  {
+   "id": "a5acd924aedd",
+   "ts": "2026-11-18T12:01:25Z",
+   "headline": "ECB's Vujcic says a December rate hike looks very likely as things stand and expects second-round effects in 2027",
+   "detail": "ECB Governing Council member Vujcic also said market pricing for 2027 is not unreasonable.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "559dd12e12089e1b",
+    "c0c9cc1ac7eb5e6e",
+    "96b704b913bbd1ba",
+    "f22d76cfefd4f66f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lj4nhvt72t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lj4nhvt72t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ljax24zr2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ljax24zr2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lj4nted62p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lj4nted62p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lj4o4hkt2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lj4o4hkt2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2e2c18a2aaa6",
+   "created_at": "2026-11-18T12:05:43Z"
+  },
   {
    "id": "fcdaf2282a68",
    "ts": "2026-11-18T12:01:00Z",
@@ -6182,102 +6242,6 @@
    "model": "opus",
    "run_id": "5915a4d6a2cd",
    "created_at": "2026-11-16T14:05:41Z"
-  },
-  {
-   "id": "d673a85f8af0",
-   "ts": "2026-11-16T13:31:00Z",
-   "headline": "New York Fed's Empire State manufacturing index falls to 7.8 in November, well below the 18 forecast",
-   "detail": "The New York Fed's Empire State manufacturing index fell to 7.8 in November from 25.5 in October, against a forecast of 18.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "2782c97c23b89670",
-    "5095015e72e8198e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gn6yie4g2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gn6yie4g2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gnepwhum2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gnepwhum2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bb068d6d482d",
-   "created_at": "2026-11-16T13:35:48Z"
-  },
-  {
-   "id": "cb4c9ad909d9",
-   "ts": "2026-11-16T13:31:00Z",
-   "headline": "Canada's core inflation measures are mixed in October: CPI-median at 2%, CPI-trim at 1.8%, CPI-common at 2.5%",
-   "detail": "Canada's October CPI-median rose to 2% from 1.9%, as forecast, while CPI-trim held at 1.8% against a 1.9% forecast and CPI-common rose to 2.5% from 2.4%. Headline CPI was 3.1% on the year against a 3.2% forecast, and rose 0.2% on the month against a 0.3% forecast; the BoC core measure was 2.0% on the year, down from 2.2%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4b6a9297f9af1e6a",
-    "44b731a49df02865",
-    "aa2c824ab42a72bf",
-    "3d377aeef553e587",
-    "2ce172e6fe36ea17",
-    "e11deae04ade3bea",
-    "bb1a88c3af0fbb92",
-    "5dfd0a9159e1dda1",
-    "788d71751eb1a8c1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gn6ysdwv2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gn6ysdwv2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gn6zqd5o24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gn6zqd5o24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gn6zgk5b2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gn6zgk5b2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gn6z4x572t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gn6z4x572t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gn72isvb2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gn72isvb2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gn7rqbk42v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gn7rqbk42v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gn7sau3p2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gn7sau3p2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gn7ry7bo24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gn7ry7bo24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gnajqx7v2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gnajqx7v2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bb068d6d482d",
-   "created_at": "2026-11-16T13:35:48Z"
   }
  ]
 }
