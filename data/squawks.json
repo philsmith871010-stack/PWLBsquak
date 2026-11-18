@@ -1,8 +1,89 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T09:50:58Z",
+ "generated_at": "2026-11-18T10:01:21Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "449cab507683",
+   "ts": "2026-11-18T10:00:56Z",
+   "headline": "Eurozone final October CPI confirmed at 4.0% y/y; core revised up to 2.6%, above 2.5% forecast",
+   "detail": "The final eurozone October reading puts headline inflation at 4.0% y/y, matching the estimate, and 0.5% m/m against a 0.4% forecast. Core inflation is 2.6% y/y, compared with a 2.5% forecast and 2.5% previously.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "fac3ab57505efc7c",
+    "89023478bbd34db1",
+    "633eb1391607c97c",
+    "8f77433aa5163aee"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lcf7omkd2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lcf7omkd2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lcf6ks2t2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lcf6ks2t2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lcf7dhmh2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lcf7dhmh2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lcf6zlsh24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lcf6zlsh24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "334fa04f1861",
+   "created_at": "2026-11-18T10:01:21Z"
+  },
+  {
+   "id": "cea4d1438a7a",
+   "ts": "2026-11-18T10:00:14Z",
+   "headline": "Most Gulf stock markets fall as US-Iran hostilities escalate",
+   "detail": "Reuters reports that most Gulf bourses fell in early trade on Wednesday. Gulf states had intercepted Iranian and Houthi missiles and drones after a US strike on Qeshm Island.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "762e5cf167ce6239"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2lcdxdchp25",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2lcdxdchp25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "334fa04f1861",
+   "created_at": "2026-11-18T10:01:21Z"
+  },
+  {
+   "id": "d2b24aa9b7b7",
+   "ts": "2026-11-18T08:42:21Z",
+   "headline": "Cornwall Insight forecasts the UK energy price cap will rise 26% in January to £2,166 a year",
+   "detail": "The energy consultancy estimates that the January cap will add £443 to annualised household bills, taking them to £2,166, according to City AM.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "bf3dfeaf6f27a4c3"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3n2lcc2co2mc2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3n2lcc2co2mc2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "334fa04f1861",
+   "created_at": "2026-11-18T10:01:21Z"
+  },
   {
    "id": "5e69aaf87e6c",
    "ts": "2026-11-18T09:47:40Z",
@@ -6131,69 +6212,6 @@
    "model": "opus",
    "run_id": "b7ecb3991980",
    "created_at": "2026-11-16T10:45:56Z"
-  },
-  {
-   "id": "42d0c5003067",
-   "ts": "2026-11-16T10:40:07Z",
-   "headline": "Fed's Barr warns AI could pose risks to trading, cybersecurity and consumer and investor protection",
-   "detail": "Federal Reserve Governor Michael Barr set out the risks on Monday, Reuters reports. His remarks follow a Fed report last week that showed a sharp rise in concern about AI risks to financial stability.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ae3bd515640af28b"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2gdngxseg2q",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2gdngxseg2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1d4153e95bb4",
-   "created_at": "2026-11-16T10:40:48Z"
-  },
-  {
-   "id": "04dbcc37dcba",
-   "ts": "2026-11-16T10:33:07Z",
-   "headline": "EU antitrust regulators give UniCredit's takeover of Commerzbank unconditional approval",
-   "detail": "EU competition regulators have cleared UniCredit's acquisition of Commerzbank without conditions.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "28fa0dda862a3114"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gdavpefv2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gdavpefv2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "43c858d9b9d6",
-   "created_at": "2026-11-16T10:35:54Z"
-  },
-  {
-   "id": "ece2cc7c7af8",
-   "ts": "2026-11-16T10:13:16Z",
-   "headline": "EU imposes new Russia sanctions on 145 individuals and entities, France's foreign minister says",
-   "detail": "France's foreign minister Jean-Noël Barrot said the EU has imposed sanctions on 145 individuals and legal entities. Earlier on Monday, Ireland's foreign minister had put the package at 113 listings.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ccfca77e8e34c07c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gc5gkapw2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gc5gkapw2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "25dde69fffd3",
-   "created_at": "2026-11-16T10:15:46Z"
   }
  ]
 }
