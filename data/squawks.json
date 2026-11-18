@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T15:50:51Z",
+ "generated_at": "2026-11-18T16:01:13Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f4ff4be0349f",
+   "ts": "2026-11-18T14:06:27Z",
+   "headline": "UK PM Burnham declines to commit to welfare savings by 2030, a day after saying he would",
+   "detail": "City AM reports that at PMQs, when Conservative leader Kemi Badenoch asked whether he would deliver welfare savings in the near term after backing the Alan Milburn review, the Prime Minister said only that he would do everything he could. A day earlier he had said he would make the savings by 2030.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "337c5a58a1a56993"
+   ],
+   "sources": [
+    {
+     "author": "cityam.com.web.brid.gy",
+     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3n2lwgn4kj5i2",
+     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3n2lwgn4kj5i2"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2c2bc688c3a2",
+   "created_at": "2026-11-18T16:01:13Z"
+  },
   {
    "id": "2bb5632d98ac",
    "ts": "2026-11-18T15:47:19Z",
@@ -5927,45 +5948,6 @@
    "model": "opus",
    "run_id": "48ca49bea106",
    "created_at": "2026-11-16T21:10:56Z"
-  },
-  {
-   "id": "a91200183212",
-   "ts": "2026-11-16T20:31:43Z",
-   "headline": "CFTC data show speculators extend US 2-year Treasury futures net short; sterling net short at 43,216 contracts",
-   "detail": "In the week to 10 November, CFTC data show speculators added 110,201 contracts to their CBOT US 2-year Treasury futures net short, taking it to 1,112,745, and added 48,694 contracts to the 5-year net short, taking it to 1,324,064. The same data show a sterling net short of 43,216 contracts, a euro net short of 136,396 and a yen net long of 123,113.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "30c89c5ff1b0a73a",
-    "e8e8ba31a3740961",
-    "63e49a7d67ae5b72",
-    "e838569d292e327b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hepcbdaj2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hepcbdaj2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hepbx7oh2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hepbx7oh2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hes3wfrz2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hes3wfrz2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hes3lz3q2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hes3lz3q2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e5dd5d1114c9",
-   "created_at": "2026-11-16T20:35:40Z"
   }
  ]
 }
