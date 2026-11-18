@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T06:10:49Z",
+ "generated_at": "2026-11-18T06:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "29a1d32c1521",
+   "ts": "2026-11-18T04:03:44Z",
+   "headline": "Japan's 20-year government bond yield edges up to 3.780% after auction",
+   "detail": "The 20-year JGB yield rose slightly to 3.780% after the auction result was released on Wednesday.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "afbb625a539ba3b3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2koghxavu2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2koghxavu2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6b5f4ce3f64c",
+   "created_at": "2026-11-18T06:15:50Z"
+  },
+  {
+   "id": "4553de55d429",
+   "ts": "2026-11-18T03:59:46Z",
+   "headline": "Iran's army says it targeted US drone and missile sites at Kuwait's Ali Al Salem base",
+   "detail": "Iranian state media carried the army's claim. The WSJ separately reports that Iran has attacked Kuwait and Bahrain as the conflict over the Strait of Hormuz intensifies.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "556743ba96c4d992",
+    "e59c9a96759b1ff0",
+    "538f8ea8aaad7457"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ko7fasqy2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ko7fasqy2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ko7ev6uo2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ko7ev6uo2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kr5zzdzg2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kr5zzdzg2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6b5f4ce3f64c",
+   "created_at": "2026-11-18T06:15:50Z"
+  },
   {
    "id": "095f78ced657",
    "ts": "2026-11-18T03:30:39Z",
@@ -6441,72 +6495,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2feiqi7p42s",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2feiqi7p42s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "47d02c8daec7",
-   "created_at": "2026-11-16T06:20:47Z"
-  },
-  {
-   "id": "3abb25621012",
-   "ts": "2026-11-16T00:28:55Z",
-   "headline": "Japan's Q3 GDP deflator rises 2.4% on the year, below the 2.7% forecast",
-   "detail": "Japan's economy minister Kiuchi says rising prices linked to Middle East tensions, natural disasters and poor weather hurt private consumption. He adds that better jobs and incomes should support a gradual recovery and that the impact of the Middle East situation needs close monitoring.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ac059d4f8a77233e",
-    "6670506aa37c7253",
-    "10d8ec79881c4b0f",
-    "61e3b03af6e0aacf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fbiisjmg24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fbiisjmg24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fg3ikyej2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fg3ikyej2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fg47dyuc2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fg47dyuc2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fg6ymap42v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fg6ymap42v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "47d02c8daec7",
-   "created_at": "2026-11-16T06:20:47Z"
-  },
-  {
-   "id": "7d584ecf938a",
-   "ts": "2026-11-16T00:19:33Z",
-   "headline": "US 10-year Treasury yield holds above 5% as traders await Fed minutes and more policymaker remarks",
-   "detail": "A market report says rising Treasury yields, with the 10-year above 5%, weighed on gold, which steadied near $3,890 an ounce after a 4.6% fall last week. The report links the moves to strong US inflation data and hawkish Fed comments.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6821f6de420ffffd",
-    "9d72d758a2b9b7b0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2faxrfsl62t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2faxrfsl62t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fax2apv326",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fax2apv326"
     }
    ],
    "model": "opus",
