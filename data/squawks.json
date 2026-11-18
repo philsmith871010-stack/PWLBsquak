@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T12:45:50Z",
+ "generated_at": "2026-11-18T12:50:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "37b61c803ee3",
+   "ts": "2026-11-18T12:47:11Z",
+   "headline": "Fed's Waller says the Fed must reverse its 3 insurance cuts and possibly go further",
+   "detail": "Fed Governor Waller said returning rates to their summer 2025 level would not bring inflation down. He also said nothing in AI pricing looks like a bubble, and that his concern over AI financing is limited to banks.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "8cc1a5e105241612",
+    "5b59559e9e8e7021",
+    "9aba114de6097c3e",
+    "3932f301ca256f8c",
+    "5778a2da10d5c75c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lloidsq72t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lloidsq72t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2llp7zhnq2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2llp7zhnq2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2llohxs5t2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2llohxs5t2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lloiphrn2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lloiphrn2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2llmdx6io2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2llmdx6io2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ad8df0e6b5eb",
+   "created_at": "2026-11-18T12:50:55Z"
+  },
   {
    "id": "a1d89e54b563",
    "ts": "2026-11-18T12:43:58Z",
@@ -6167,27 +6212,6 @@
    "model": "opus",
    "run_id": "eef43e3587fa",
    "created_at": "2026-11-16T15:15:51Z"
-  },
-  {
-   "id": "d3c9239d8a4e",
-   "ts": "2026-11-16T15:07:20Z",
-   "headline": "US crude futures drop $2 as oil flows through the Strait of Hormuz show signs of recovering",
-   "detail": "US crude futures fell $2 a barrel on Monday afternoon. Signs that oil flows through the Strait of Hormuz are recovering added to expectations of surplus supply.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "65cac3cf1d025fc4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gslar7nj2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gslar7nj2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b6e2f431d80f",
-   "created_at": "2026-11-16T15:10:51Z"
   }
  ]
 }
