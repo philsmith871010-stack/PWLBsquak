@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T10:35:43Z",
+ "generated_at": "2026-11-18T10:40:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3b01499a3d38",
+   "ts": "2026-11-18T10:38:55Z",
+   "headline": "India reportedly levies effective 162.5% tariff and tax on bulk Scotch imports, above the 150% charged before the UK trade pact",
+   "detail": "Sources and a document cited in an exclusive report say India now applies an effective 162.5% combined tariff and tax on bulk Scotch imports. To release blocked shipments, firms must pay 75% of the duty up front and cover the rest with bank guarantees. Pernod and Diageo are reported to be arranging guarantees, while Bacardi has not yet decided.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "bf8f0826aed8399a",
+    "8fcf90f59507e7e1",
+    "df77459ab94ee648"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lej4sutf2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lej4sutf2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lejtuuea2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lejtuuea2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lej54hii2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lej54hii2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4a75834beb5e",
+   "created_at": "2026-11-18T10:40:51Z"
+  },
   {
    "id": "678436754b7f",
    "ts": "2026-11-18T10:33:23Z",
@@ -6251,33 +6284,6 @@
    "model": "opus",
    "run_id": "3732a117bae2",
    "created_at": "2026-11-16T13:05:40Z"
-  },
-  {
-   "id": "8052390e73a3",
-   "ts": "2026-11-16T12:58:13Z",
-   "headline": "European Commission imposes anti-dumping duties on cold-rolled flat steel from India, Japan, Taiwan, Turkey and Vietnam",
-   "detail": "The European Commission has imposed anti-dumping duties on some cold-rolled flat steel products imported from India, Japan, Taiwan, Turkey and Vietnam.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "41ee3c7af301fbd4",
-    "93cfb559930cf31a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gleeqclq2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gleeqclq2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2glgiobxy2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2glgiobxy2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d1af54fd9f31",
-   "created_at": "2026-11-16T13:01:21Z"
   }
  ]
 }
