@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T07:05:41Z",
+ "generated_at": "2026-11-18T07:10:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b4ec2f9bff5a",
+   "ts": "2026-11-18T07:09:23Z",
+   "headline": "Traders scale back BoE rate hike bets and now price 91bp of tightening by end-2027",
+   "detail": "Money markets have reduced expectations for Bank of England rate rises and now price 91bp of tightening by the end of 2027, according to a market report.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "f337713100aed183"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kysh7ch32b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kysh7ch32b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1f6843aedb63",
+   "created_at": "2026-11-18T07:10:49Z"
+  },
   {
    "id": "8a44af1d1580",
    "ts": "2026-11-18T07:03:31Z",
@@ -6197,27 +6218,6 @@
    "model": "opus",
    "run_id": "703b2b040831",
    "created_at": "2026-11-16T06:35:51Z"
-  },
-  {
-   "id": "d4f03e3d0510",
-   "ts": "2026-11-16T05:02:36Z",
-   "headline": "European Commission to propose a €45bn Ukraine loan backed by the EU budget, FT reports",
-   "detail": "The Financial Times reports that Brussels plans to put forward a €45bn loan for Ukraine, secured against the EU budget.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b301a120fe136256"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fqrw42sa24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fqrw42sa24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4c81a379c75a",
-   "created_at": "2026-11-16T06:31:02Z"
   }
  ]
 }
