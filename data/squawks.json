@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T18:20:48Z",
+ "generated_at": "2026-11-18T18:25:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b6014e368781",
+   "ts": "2026-11-18T18:22:17Z",
+   "headline": "US Defense Secretary Hegseth says the oil deal takes the Strait of Hormuz out of the equation",
+   "detail": "US Defense Secretary Pete Hegseth said the oil deal means the Strait of Hormuz is no longer a factor. No further details of the deal or any market reaction were reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9b10e199591d971d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m6fotbyr2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m6fotbyr2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c121d21c5211",
+   "created_at": "2026-11-18T18:25:40Z"
+  },
   {
    "id": "e6e5e29d9ae9",
    "ts": "2026-11-18T18:19:10Z",
@@ -5633,51 +5654,6 @@
    "model": "opus",
    "run_id": "ad1105bdce27",
    "created_at": "2026-11-17T07:05:42Z"
-  },
-  {
-   "id": "a1d7dffc3c22",
-   "ts": "2026-11-17T07:00:56Z",
-   "headline": "UK unemployment rate falls to 4.6%, below 4.7% forecast; average weekly earnings growth eases to 3.6%",
-   "detail": "UK labour market data show the unemployment rate at 4.6% (forecast and previous 4.7%), average weekly earnings growth at 3.6% year on year (forecast 3.5%, previous 3.7%) and 3m/3m employment up 155K (forecast 139K, previous 102K). Unemployment change came in at 33.2K (previous 30.3K), and seasonally adjusted employment change was -34K against a 10K forecast (previous 13K).",
-   "category": "data",
-   "importance": 3,
-   "source_event_ids": [
-    "a5a8083ac5739712",
-    "c2a7c60294dfe154",
-    "3c99f19d5f605358",
-    "19db2aa897858057",
-    "c8305a7e79eda01c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ihughfje2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ihughfje2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ihufwu7u2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ihufwu7u2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ihug6rqv2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ihug6rqv2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ihufh2xn2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ihufh2xn2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ihufon5n2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ihufon5n2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e7a989924de3",
-   "created_at": "2026-11-17T07:01:10Z"
   }
  ]
 }
