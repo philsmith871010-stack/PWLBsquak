@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T09:05:43Z",
+ "generated_at": "2026-11-18T09:10:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "70f99502aee5",
+   "ts": "2026-11-18T09:08:30Z",
+   "headline": "Iceland's central bank says inflation is still too high and expectations remain above target",
+   "detail": "Iceland's central bank said inflation remains too high, inflation expectations are above target and the outlook is highly uncertain.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "3d9c40e8558b4183"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l7hhpouf2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l7hhpouf2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2538da9fe9af",
+   "created_at": "2026-11-18T09:10:48Z"
+  },
+  {
+   "id": "c0e4ab8d6f87",
+   "ts": "2026-11-18T09:08:06Z",
+   "headline": "ECB says fiscal consolidation is overdue and sovereign risk could be repriced further",
+   "detail": "The ECB said strict application of EU fiscal rules is essential and that fiscal consolidation is overdue, warning that sovereign risk could be repriced further. It added that wider French spreads point to risks specific to that country.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "daff93d551c06883",
+    "bbeea25a95ffc294",
+    "f68b8891099ea559"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l7gqkq5h26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l7gqkq5h26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l7gqa6kf2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l7gqa6kf2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l7gqy2pp2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l7gqy2pp2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2538da9fe9af",
+   "created_at": "2026-11-18T09:10:48Z"
+  },
   {
    "id": "c05c3230caa3",
    "ts": "2026-11-18T09:01:21Z",
@@ -6146,54 +6200,6 @@
    "model": "opus",
    "run_id": "4f7c9dfb2107",
    "created_at": "2026-11-16T09:45:56Z"
-  },
-  {
-   "id": "339ecee65c23",
-   "ts": "2026-11-16T09:22:24Z",
-   "headline": "ECB's Vujcic sees no reason to change course on rates and says market pricing of another hike in 2027 looks reasonable",
-   "detail": "ECB Governing Council member Boris Vujcic said there was no reason to change the direction of travel on rates. He added that markets pricing a further rate rise in 2027 did not seem unreasonable.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "fe3e2d2558fe411c",
-    "1a4bfd86027b70a5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g7chjehr2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g7chjehr2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g7ci4vtt2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g7ci4vtt2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a71449aee308",
-   "created_at": "2026-11-16T09:25:41Z"
-  },
-  {
-   "id": "2ab03f12a528",
-   "ts": "2026-11-16T09:10:07Z",
-   "headline": "UK and EU are set to announce food deals and a defence commitment at this week's summit, Reuters reports",
-   "detail": "Reuters reports that Britain and the EU will use a summit this week to set out deals on food and a commitment on defence. The report describes these as a step towards the closer relationship sought by Prime Minister Andy Burnham.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "50f7393d7bcc0442"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2g6mibkby25",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2g6mibkby25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8d7243cd3f39",
-   "created_at": "2026-11-16T09:20:50Z"
   }
  ]
 }
