@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T12:25:39Z",
+ "generated_at": "2026-11-18T12:31:10Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4b4755294692",
+   "ts": "2026-11-18T12:29:21Z",
+   "headline": "UK PM Burnham says he will keep to Labour's manifesto red lines on the EU",
+   "detail": "UK Prime Minister Burnham said the government will respect the red lines on the EU relationship set out in Labour's manifesto. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fbb15566f141b86f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lkoly3yj2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lkoly3yj2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6579499b09cf",
+   "created_at": "2026-11-18T12:31:10Z"
+  },
   {
    "id": "019e9f81d348",
    "ts": "2026-11-18T12:21:29Z",
@@ -6179,27 +6200,6 @@
    "model": "opus",
    "run_id": "022a8a0cb322",
    "created_at": "2026-11-16T14:40:53Z"
-  },
-  {
-   "id": "c49e6de2dcb2",
-   "ts": "2026-11-16T14:22:53Z",
-   "headline": "Brent futures drop 2% to $93.92 a barrel as Middle East flows recover",
-   "detail": "A market commentator reports that Brent crude futures fell 2% to $93.92 a barrel, attributing the decline to recovering oil flows from the Middle East.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "13a71b1a3a29fab4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gq3rp3k624",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gq3rp3k624"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e7d5072a4193",
-   "created_at": "2026-11-16T14:25:46Z"
   }
  ]
 }
