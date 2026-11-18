@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T12:50:55Z",
+ "generated_at": "2026-11-18T12:55:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fe164d2dbfab",
+   "ts": "2026-11-18T12:53:51Z",
+   "headline": "US 10-year Treasury yield rises 2bp to 5.12%",
+   "detail": "A market commentary account reported that the US 10-year Treasury yield was up 2bp at 5.12% at midday UK time.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b37dab94bdb031fd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lm2fwhu62w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lm2fwhu62w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9c857f6f9df7",
+   "created_at": "2026-11-18T12:55:42Z"
+  },
   {
    "id": "37b61c803ee3",
    "ts": "2026-11-18T12:47:11Z",
@@ -6191,27 +6212,6 @@
    "model": "opus",
    "run_id": "50831fe7672b",
    "created_at": "2026-11-16T15:25:43Z"
-  },
-  {
-   "id": "00687ad00e7e",
-   "ts": "2026-11-16T15:15:11Z",
-   "headline": "Supertanker rates fall more than 60% from October's record highs as geopolitical risk premium unwinds",
-   "detail": "Reuters reports that the cost of shipping oil in the largest tankers has dropped sharply since the start of November. It attributes the fall to weaker chartering demand and the unwinding of the geopolitical risk premium that pushed rates to a record in October.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "999fa4b9879763b3"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2gszbhtyk2q",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2gszbhtyk2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "eef43e3587fa",
-   "created_at": "2026-11-16T15:15:51Z"
   }
  ]
 }
