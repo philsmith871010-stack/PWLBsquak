@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T19:40:56Z",
+ "generated_at": "2026-11-18T19:51:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e453cf4fd593",
+   "ts": "2026-11-18T19:49:18Z",
+   "headline": "RBNZ's Breman says weak demand is limiting cost pass-through and the bank will keep watching how higher costs spread to other prices",
+   "detail": "RBNZ Governor Breman said subdued demand is making it difficult for businesses to pass on higher costs. She added that the central bank will keep monitoring how far those costs feed into other prices.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "0c71ff290b2e17cb",
+    "35580d5d2f1d9b64"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mdbc6wep26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mdbc6wep26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mdbcixks2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mdbcixks2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1217edfa0c3b",
+   "created_at": "2026-11-18T19:51:03Z"
+  },
   {
    "id": "818ed9620539",
    "ts": "2026-11-18T19:37:11Z",
@@ -5699,27 +5726,6 @@
    "model": "opus",
    "run_id": "d826eb8e3492",
    "created_at": "2026-11-17T09:35:44Z"
-  },
-  {
-   "id": "07e18b709aba",
-   "ts": "2026-11-17T09:30:45Z",
-   "headline": "Iraq's oil minister says crude exports through the Iraq-Turkey pipeline have resumed",
-   "detail": "Iraq's oil minister said crude pumping for export has restarted via the Iraq-Turkey pipeline. No volumes were given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "c8ad6998a83a2cff"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iqacxiro2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iqacxiro2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1dfea47eba96",
-   "created_at": "2026-11-17T09:31:01Z"
   }
  ]
 }
