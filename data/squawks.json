@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T10:40:51Z",
+ "generated_at": "2026-11-18T10:50:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8c047401e468",
+   "ts": "2026-11-18T10:50:47Z",
+   "headline": "Kremlin says Putin and Trump will mainly discuss Ukraine and current issues at their meeting, and may also cover Iran",
+   "detail": "Kremlin spokesman Peskov said the two leaders would focus on current issues and Ukraine and might also discuss Iran, Tass reported. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "85544e9af4b3af7a",
+    "6bd397562bae06fd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lf5maoxm2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lf5maoxm2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lf6dnexu2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lf6dnexu2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "be671261b1de",
+   "created_at": "2026-11-18T10:50:49Z"
+  },
   {
    "id": "3b01499a3d38",
    "ts": "2026-11-18T10:38:55Z",
@@ -6263,27 +6290,6 @@
    "model": "opus",
    "run_id": "e6faecae956f",
    "created_at": "2026-11-16T13:20:50Z"
-  },
-  {
-   "id": "49a9ebff0ee3",
-   "ts": "2026-11-16T13:01:25Z",
-   "headline": "Several explosions reported in Riyadh after attacks from Yemen, Iran's Fars news agency says",
-   "detail": "Iran's Fars news agency says explosions were heard in the Saudi capital following attacks launched from Yemen. This comes after Yemen's Houthis said they had attacked a pumping station on Saudi Arabia's East-West oil pipeline.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7969ae2c2163b839"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2glk3js4q26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2glk3js4q26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3732a117bae2",
-   "created_at": "2026-11-16T13:05:40Z"
   }
  ]
 }
