@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T18:25:40Z",
+ "generated_at": "2026-11-18T18:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "46e031e9f643",
+   "ts": "2026-11-18T18:39:16Z",
+   "headline": "BoC Deputy Governor Gravelle says energy price inflation is spreading",
+   "detail": "Bank of Canada Deputy Governor Gravelle said inflation from energy prices is spreading, adding to his earlier remarks on inflation expectations.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "c15940778a5440c5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m7e2n2va2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m7e2n2va2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3101757b200b",
+   "created_at": "2026-11-18T18:40:50Z"
+  },
+  {
+   "id": "131daa0a9437",
+   "ts": "2026-11-18T18:36:03Z",
+   "headline": "Fed's Barr backs further rate rises if the economy performs as expected, calling inflation too high",
+   "detail": "Federal Reserve Governor Barr said inflation is too high and must be brought back to 2% in a timely way, and that the economy is strong with low unemployment. He said he would support further hikes if the economy evolves as expected and will watch the data to decide the Fed's next move.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "104f44ac3ef69537",
+    "e0699d4e90d101c7",
+    "da0d5c54428389ce",
+    "09e303500d106b69",
+    "97fb38ea61fb596a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m76cpyoj2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m76cpyoj2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m76ccnph2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m76ccnph2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m76d373b2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m76d373b2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m76zssa72b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m76zssa72b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m77273o424",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m77273o424"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3101757b200b",
+   "created_at": "2026-11-18T18:40:50Z"
+  },
   {
    "id": "b6014e368781",
    "ts": "2026-11-18T18:22:17Z",
@@ -5594,66 +5660,6 @@
    "model": "opus",
    "run_id": "0b771a4ffaf7",
    "created_at": "2026-11-17T07:20:51Z"
-  },
-  {
-   "id": "1ad5bee90715",
-   "ts": "2026-11-17T07:11:26Z",
-   "headline": "China pledges to protect its firms' rights and interests after the US moves to restrict remote access to AI chips",
-   "detail": "China's foreign ministry spokesperson Guo responded to the US Commerce Department rule restricting remote access to advanced AI chips and tightening re-export controls. No specific countermeasures were reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "00737f226cb67625"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iih6qef42d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iih6qef42d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8fdbe92d0c50",
-   "created_at": "2026-11-17T07:15:47Z"
-  },
-  {
-   "id": "c7a56382f8df",
-   "ts": "2026-11-17T07:02:09Z",
-   "headline": "UK regular pay growth slows to 3.5% from 3.7%; October claimant count rises 33.2K, above 25.4K estimate",
-   "detail": "ONS figures show average earnings excluding bonuses grew 3.5% in the three months to September, down from 3.7%, while employment rose 156K on the 3M/3M measure after 102K previously. The claimant count rose 33.2K in October, compared with 9.8K the month before and an estimate of 25.4K.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "299ccc6a54e70720",
-    "e364320e1c8b062d",
-    "b4b71768f12238a3",
-    "2e2a5368ac04845a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ihv52etv2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ihv52etv2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ihwm5dzp2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ihwm5dzp2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ihwluqxw2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ihwluqxw2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ihvu5qvi2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ihvu5qvi2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ad1105bdce27",
-   "created_at": "2026-11-17T07:05:42Z"
   }
  ]
 }
