@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T16:51:00Z",
+ "generated_at": "2026-11-18T17:01:16Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b8b4e381e58e",
+   "ts": "2026-11-18T16:58:18Z",
+   "headline": "US crude futures extend losses to more than $3/bbl on supply surplus outlook",
+   "detail": "US crude futures are reported down by more than $3 a barrel, extending the earlier drop of more than $2. The move is put down to the outlook for surplus supply.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "af20f3a6cbf62978"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lzpjo7n22f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lzpjo7n22f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ff44edb85c4d",
+   "created_at": "2026-11-18T17:01:16Z"
+  },
   {
    "id": "c8ef836a2e4c",
    "ts": "2026-11-18T16:46:04Z",
@@ -5892,33 +5913,6 @@
      "author": "matthewholehouse.bsky.social",
      "uri": "at://did:plc:phrwhxykvoi3zwiasdcaijyi/app.bsky.feed.post/3n2hm66zisc2t",
      "url": "https://bsky.app/profile/matthewholehouse.bsky.social/post/3n2hm66zisc2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c9bbec697e23",
-   "created_at": "2026-11-16T22:45:56Z"
-  },
-  {
-   "id": "1efb1d4c89e3",
-   "ts": "2026-11-16T22:42:54Z",
-   "headline": "US Secretary of State Rubio condemns Iran's attacks on Bahrain and restates US commitment to Bahrain's security",
-   "detail": "The State Department says Rubio made the remarks in a call with Bahrain's foreign minister.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "72ede459b1d996f0",
-    "a0003ab55a3e7b5f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hlzuo25g2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hlzuo25g2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hm2lsqc62p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hm2lsqc62p"
     }
    ],
    "model": "opus",
