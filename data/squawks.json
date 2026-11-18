@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T21:05:45Z",
+ "generated_at": "2026-11-18T21:10:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2fae8b81933d",
+   "ts": "2026-11-18T21:10:18Z",
+   "headline": "Fed minutes flag financial stability risks from heavy AI investment and elevated asset prices",
+   "detail": "Minutes of the Federal Reserve's policy meeting last month, released on Wednesday, show policymakers were concerned about financial system risks linked to aggressive artificial intelligence investment and high asset prices, Reuters reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8aa82cee0daba7be"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2mhs55bx72a",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2mhs55bx72a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bbc319b1fd96",
+   "created_at": "2026-11-18T21:10:47Z"
+  },
   {
    "id": "018b98fd1f2f",
    "ts": "2026-11-18T21:03:24Z",
@@ -5699,27 +5720,6 @@
    "model": "opus",
    "run_id": "026b9f04bac5",
    "created_at": "2026-11-17T10:35:41Z"
-  },
-  {
-   "id": "01a04e0bbc50",
-   "ts": "2026-11-17T10:27:25Z",
-   "headline": "FT says Berlin's choice of Brunnermeier for the ECB board seals a deal with France for Spain's de Cos to lead the ECB",
-   "detail": "The Financial Times reports that Germany's pick of Markus Brunnermeier as its ECB board nominee consolidates an agreement with France under which Pablo Hernández de Cos would become ECB president.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7164e5eb1c0c09c9"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2itfn2puq2v",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n2itfn2puq2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4dcdc40626bc",
-   "created_at": "2026-11-17T10:31:03Z"
   }
  ]
 }
