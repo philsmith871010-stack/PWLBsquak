@@ -1,8 +1,107 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T06:01:18Z",
+ "generated_at": "2026-11-18T06:05:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "84c8c8292273",
+   "ts": "2026-11-18T01:37:58Z",
+   "headline": "China warns the US it will retaliate over new curbs on AI chips",
+   "detail": "CNBC reports that Beijing has warned Washington of retaliation over new US rules restricting China's access to advanced US-made AI chips. Semafor reports that Singapore is pressing US officials for details of the rules.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "38e6cbe0d74aaf88",
+    "33b52abfe81e2382"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kgbtg4gu2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kgbtg4gu2t"
+    },
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3n2kfx6x2hy2m",
+     "url": "https://bsky.app/profile/semafor.com/post/3n2kfx6x2hy2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ff2f8b704827",
+   "created_at": "2026-11-18T06:05:39Z"
+  },
+  {
+   "id": "5f8d372e8994",
+   "ts": "2026-11-18T01:35:59Z",
+   "headline": "BoJ's Ueda warns long-term rates could rise if bond buying is seen as backing government fiscal measures",
+   "detail": "BoJ Governor Ueda said the bank will take account of the effect of a food tax cut on underlying inflation when setting policy, and that yen weakness is an upside risk to food prices through higher import costs. He said long-term borrowing costs are set by the market and the bank is ready to adjust its market operations if long-term yields surge excessively.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "3c174698d2a8828c",
+    "7a30f36a96172243",
+    "8b71ac2eded7683a",
+    "13c1cc2e564f788d",
+    "905ec9fa72710d34",
+    "d74c5659bb3a3a0e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kg6bg2th24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kg6bg2th24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfwhihjf2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfwhihjf2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfzcxqmn2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfzcxqmn2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kg2qhg6t2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kg2qhg6t2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kg6ark4n2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kg6ark4n2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kg6yzhvj2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kg6yzhvj2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ff2f8b704827",
+   "created_at": "2026-11-18T06:05:39Z"
+  },
+  {
+   "id": "57f149dd5d51",
+   "ts": "2026-11-18T01:32:48Z",
+   "headline": "PBOC sets the yuan midpoint at its strongest level since July 2022",
+   "detail": "The People's Bank of China's latest daily fixing put the yuan midpoint at its strongest level since July 2022.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "bf2abb52beb56cbc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfylznvb2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfylznvb2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ff2f8b704827",
+   "created_at": "2026-11-18T06:05:39Z"
+  },
   {
    "id": "d4f56f50bee6",
    "ts": "2026-11-18T01:30:25Z",
@@ -6425,135 +6524,6 @@
    "model": "opus",
    "run_id": "068ddb25e805",
    "created_at": "2026-11-16T06:15:48Z"
-  },
-  {
-   "id": "4dcd442bfcad",
-   "ts": "2026-11-15T22:40:09Z",
-   "headline": "UK PM Burnham is set to address the costs of Brexit and push a reset with the EU ahead of a Brussels summit",
-   "detail": "Prime Minister Andy Burnham is due to tell a City of London audience on Monday that he is ready for a national discussion about a longer-term agreement with Europe, ahead of a summit in Brussels this week. Briefings indicate he will restate the 2024 red lines.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "12b41acbb91f28bc",
-    "61a89c6dae854767",
-    "dfd8a3b0b16d599a"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2f3fzsjvb2l",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2f3fzsjvb2l"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2f66hpuhf2r",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n2f66hpuhf2r"
-    },
-    {
-     "author": "matthewholehouse.bsky.social",
-     "uri": "at://did:plc:phrwhxykvoi3zwiasdcaijyi/app.bsky.feed.post/3n2f3ljgi722z",
-     "url": "https://bsky.app/profile/matthewholehouse.bsky.social/post/3n2f3ljgi722z"
-    }
-   ],
-   "model": "opus",
-   "run_id": "068ddb25e805",
-   "created_at": "2026-11-16T06:15:48Z"
-  },
-  {
-   "id": "16354ed5c8ff",
-   "ts": "2026-11-13T21:07:05Z",
-   "headline": "S&P affirms Italy's BBB+/A-2 sovereign ratings and keeps a positive outlook",
-   "detail": "S&P Global Ratings affirmed Italy's long- and short-term sovereign ratings at BBB+/A-2 on Friday evening. The outlook stays positive.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "0b7e93303e753cdc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27vbrytzl2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27vbrytzl2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ef8fc9509872",
-   "created_at": "2026-11-13T21:10:55Z"
-  },
-  {
-   "id": "e454eefc5612",
-   "ts": "2026-11-13T21:01:31Z",
-   "headline": "Fed financial stability report names AI as top risk; fiscal debt sustainability climbs to fifth, with warnings on disorderly yield rises",
-   "detail": "Several respondents warned that persistent deficits and heavy Treasury issuance could cause a disorderly rise in yields; the report also put hedge fund leverage at its highest since 2013 and said advanced computing-related debt issuance had passed $680bn by October 2026, 31% of non-financial investment-grade corporate issuance.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "642b9fd3d021b492",
-    "d2226bcee2cef8f7",
-    "79c442d040997642",
-    "5c4f603be4a6889a",
-    "d22457f6bc25a9d6",
-    "aa7dc3e6022c3d28",
-    "4d5e6ecc3c1673b4",
-    "af51dcaaad6800fb",
-    "e8ce55ac86f7cb3e",
-    "36a2cf5fcc1932be"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27uxrfmyg2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27uxrfmyg2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27uxrxbch2r",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27uxrxbch2r"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27uxshyix2o",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27uxshyix2o"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27uyjyqkk2u",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27uyjyqkk2u"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27uyjl6z22j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27uyjl6z22j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27uykqhbo2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27uykqhbo2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27uzbuzmk2y",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27uzbuzmk2y"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27uzbfxp22d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27uzbfxp22d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27uzzh6wk2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27uzzh6wk2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n27v2qaiw42q",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n27v2qaiw42q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f33f25c5b222",
-   "created_at": "2026-11-13T21:05:44Z"
   }
  ]
 }
