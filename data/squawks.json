@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T22:05:57Z",
+ "generated_at": "2026-11-18T22:15:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "92fcc46c16bf",
+   "ts": "2026-11-18T22:12:35Z",
+   "headline": "Moody's expects the US to keep its record of highly effective monetary policy led by an independent Fed",
+   "detail": "Moody's gave the view in commentary on the US economy, alongside its expectations that 2026 growth beat forecasts and that Congress will raise or suspend the debt limit.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "fde58a527d3f1571",
+    "011b8aff9f4d15a8",
+    "24bece768d8f28dc",
+    "befab8f9c59b0797"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mlbidjqe2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mlbidjqe2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mlaqvueg24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mlaqvueg24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mlbhm5bu2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mlbhm5bu2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mlc7vwwm2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mlc7vwwm2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c3a1927f2378",
+   "created_at": "2026-11-18T22:15:54Z"
+  },
   {
    "id": "54fe47f84b56",
    "ts": "2026-11-18T22:01:34Z",
@@ -5718,33 +5757,6 @@
      "author": "rjpartington.bsky.social",
      "uri": "at://did:plc:7gxgy7wfvg4tdsspy32rcvvw/app.bsky.feed.post/3n2iv27xugc2n",
      "url": "https://bsky.app/profile/rjpartington.bsky.social/post/3n2iv27xugc2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d97a64c094a7",
-   "created_at": "2026-11-17T11:01:18Z"
-  },
-  {
-   "id": "b32a4f83be7e",
-   "ts": "2026-11-17T10:55:52Z",
-   "headline": "BofA fund manager survey shows investors at their smallest bond underweight since November 2025",
-   "detail": "The Bank of America fund manager survey shows investors at their smallest underweight in bonds since November 2025. A net 32% of respondents expect global CPI to be lower in 12 months.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ce74082ab6ec3a74",
-    "0bf138ef2c190567"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iuyjji4h2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iuyjji4h2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iuyinbyi2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iuyinbyi2f"
     }
    ],
    "model": "opus",
