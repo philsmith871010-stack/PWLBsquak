@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T18:55:42Z",
+ "generated_at": "2026-11-18T19:01:10Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6e1d1022a701",
+   "ts": "2026-11-18T19:01:06Z",
+   "headline": "Fed minutes show most officials backed no hike in October; almost all see further hikes in line with September projections",
+   "detail": "Minutes of the Fed's 27-28 October meeting show that most participants supported holding rates, while some favoured a 25bp hike, arguing that inflation was too high and showed few signs of easing. Almost all judged that further hikes broadly in line with the September projections would likely be appropriate, and a couple said a move of more than 25bp could be considered in December if inflation data were unfavourable.",
+   "category": "global_rates",
+   "importance": 3,
+   "source_event_ids": [
+    "d4e9c3bded919bbb",
+    "520b29c7e7801c44",
+    "a68474dd8052953b",
+    "9bd1ee26aaaa5f95",
+    "e7ec7a0b52a8cd2a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mal3jc3o2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mal3jc3o2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mal4vjge2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mal4vjge2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mal4iheg2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mal4iheg2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mal5dzbo2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mal5dzbo2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mal3zcy424",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mal3zcy424"
+    }
+   ],
+   "model": "opus",
+   "run_id": "03095ba44752",
+   "created_at": "2026-11-18T19:01:10Z"
+  },
   {
    "id": "ade4cbd1638d",
    "ts": "2026-11-18T18:54:27Z",
@@ -5633,33 +5678,6 @@
    "model": "opus",
    "run_id": "87c482a502a5",
    "created_at": "2026-11-17T08:45:53Z"
-  },
-  {
-   "id": "00e1715a60d4",
-   "ts": "2026-11-17T08:24:26Z",
-   "headline": "Germany's finance minister nominates Markus Brunnermeier for ECB chief economist; cabinet to decide tomorrow",
-   "detail": "The German Finance Ministry says the finance minister has put forward Markus Brunnermeier for the ECB chief economist post. It says the German cabinet is due to decide on the nomination tomorrow.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "2e32f480f7e265a2",
-    "a8e9bd940b60e0c2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2imjqjpsk24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2imjqjpsk24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2imjqqscb2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2imjqqscb2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "60731306ffa1",
-   "created_at": "2026-11-17T08:25:40Z"
   }
  ]
 }
