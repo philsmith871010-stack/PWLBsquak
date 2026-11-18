@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T14:01:14Z",
+ "generated_at": "2026-11-18T14:05:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f903933e6cf8",
+   "ts": "2026-11-18T14:05:38Z",
+   "headline": "UK set to conclude food trade deal with EU later this week, FT reports",
+   "detail": "The Financial Times reports that the UK expects to finalise a food trade agreement with Brussels later this week. Under the deal the UK would have to drop its promised ban on foie gras imports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d49bfe91339c8d5f"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2lq2rcg2v2i",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2lq2rcg2v2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8dcea0e0a6f9",
+   "created_at": "2026-11-18T14:05:52Z"
+  },
+  {
+   "id": "48bd2f04860a",
+   "ts": "2026-11-18T14:02:53Z",
+   "headline": "Mexico's President Sheinbaum says trade talks with the US are advancing after APEC sideline talks with Trump",
+   "detail": "Mexican President Sheinbaum said she discussed trade with President Trump and his team on the sidelines of the APEC meeting. She said the two countries are making progress in their trade talks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "470b81ca40949a3d",
+    "e62c6a0286118d43"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lpsyjqyy2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lpsyjqyy2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lpvuc2pa2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lpvuc2pa2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8dcea0e0a6f9",
+   "created_at": "2026-11-18T14:05:52Z"
+  },
   {
    "id": "8f37d50967c4",
    "ts": "2026-11-18T12:00:00Z",
@@ -6110,60 +6158,6 @@
    "model": "opus",
    "run_id": "817719d64933",
    "created_at": "2026-11-16T17:35:40Z"
-  },
-  {
-   "id": "5c5f74080aac",
-   "ts": "2026-11-16T17:20:25Z",
-   "headline": "Fed Chair Warsh says Fed staff have begun modelling superintelligence scenarios and flags risk from disappointing AI investment",
-   "detail": "Fed Chair Warsh said a disappointment in AI investment could lead to an equity sell-off, an economic slowdown and higher unemployment. He described the AI scenarios as illustrative rather than forecasts.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "dac26014f3841cf5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gzzaeaji24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gzzaeaji24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f636a1ba9755",
-   "created_at": "2026-11-16T17:20:51Z"
-  },
-  {
-   "id": "dcf302443ba7",
-   "ts": "2026-11-16T17:05:17Z",
-   "headline": "Fed Chair Warsh warns superintelligence could be highly disruptive and costly, with outcomes up to high unemployment",
-   "detail": "In a speech, Fed Chair Warsh said the risks of superintelligence should not be overlooked. He said outcomes could range from widely shared gains to high unemployment, or to a slowdown caused by falling equity valuations if the technology disappoints.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "269557e64f2615c4",
-    "fadd7f04f24f11a4",
-    "2323d843984a251f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gz66ghst2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gz66ghst2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gz66wqwt2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gz66wqwt2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gyykk4uw2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gyykk4uw2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "28e054d5c0b0",
-   "created_at": "2026-11-16T17:05:44Z"
   }
  ]
 }
