@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T09:10:48Z",
+ "generated_at": "2026-11-18T09:20:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3d352fbac265",
+   "ts": "2026-11-18T09:19:08Z",
+   "headline": "Russia's Novatek to redirect LNG supply away from the EU market, with most going to China",
+   "detail": "Interfax reports that Russian LNG producer Novatek will redirect LNG supply away from the EU market and that most of it will go to China. Novatek has also signed a contract to supply LNG to Turkey, Interfax reports.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "0a3835cedd72d05b",
+    "556d7eb94d792459",
+    "44d30a9381a014b3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2la2hkmvi2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2la2hkmvi2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2la2hvfea2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2la2hvfea2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2la2h7h4e2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2la2h7h4e2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b4a68dc365c7",
+   "created_at": "2026-11-18T09:20:49Z"
+  },
   {
    "id": "70f99502aee5",
    "ts": "2026-11-18T09:08:30Z",
@@ -6179,27 +6212,6 @@
    "model": "opus",
    "run_id": "e020fff28fdb",
    "created_at": "2026-11-16T09:50:59Z"
-  },
-  {
-   "id": "f239a2c8b993",
-   "ts": "2026-11-16T09:43:01Z",
-   "headline": "EU Council approves ninth Ukraine Facility payment of €8bn to Kyiv, the largest single payment under the Facility",
-   "detail": "The EU Council approved the €8bn disbursement to Ukraine, which it described as the largest single payment under the Ukraine Facility since mid-2024.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "de126096289f4d96"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gahdnzqp2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gahdnzqp2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4f7c9dfb2107",
-   "created_at": "2026-11-16T09:45:56Z"
   }
  ]
 }
