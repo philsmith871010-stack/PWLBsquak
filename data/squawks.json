@@ -1,8 +1,101 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T12:40:47Z",
+ "generated_at": "2026-11-18T12:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a1d89e54b563",
+   "ts": "2026-11-18T12:43:58Z",
+   "headline": "ECB to discuss raising banks' minimum reserve requirement from 1% to 2% on 25 November, sources say",
+   "detail": "Sources familiar with the discussion say the ECB will consider the increase on 25 November, but the decision could be put off until December.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "512f64b4df94d9dd",
+    "296e9b19080da001"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lliqfblr2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lliqfblr2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lliqokbo24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lliqokbo24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d2b1543fa9c1",
+   "created_at": "2026-11-18T12:45:50Z"
+  },
+  {
+   "id": "ac71ccbdf11c",
+   "ts": "2026-11-18T12:42:46Z",
+   "headline": "Fed's Waller says the Fed should hike 50bp now unless it signals a tougher path in its statement or press conference",
+   "detail": "Waller also said the Fed may need to go beyond reversing last year's cuts to bring inflation down and must break the idea that 3% inflation is normal. He added that the December SEP will be of limited use because it is a year-end figure.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c63fd02d077cc538",
+    "af8f65d278052a00",
+    "6e30901aa0fbe94b",
+    "77ddf80eb8208de9",
+    "4842df758fc97b39"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lldrh4js2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lldrh4js2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2llglcdlr2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2llglcdlr2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lliqz2li2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lliqz2li2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2llkwfdgj26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2llkwfdgj26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2llei6ovj2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2llei6ovj2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d2b1543fa9c1",
+   "created_at": "2026-11-18T12:45:50Z"
+  },
+  {
+   "id": "52ee4023f53b",
+   "ts": "2026-11-18T12:41:15Z",
+   "headline": "NIESR expects the BoE to hold rates in December and raise them again early next year",
+   "detail": "NIESR's monthly CPI tracker says the risk of second-round effects is growing as unemployment falls and inflation expectations rise. It notes that October was the fourth consecutive rise in CPI.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "59899d7e60949345"
+   ],
+   "sources": [
+    {
+     "author": "niesrorg.bsky.social",
+     "uri": "at://did:plc:6s7n3h2jcntzuvlw2movrget/app.bsky.feed.post/3n2llduymyc2s",
+     "url": "https://bsky.app/profile/niesrorg.bsky.social/post/3n2llduymyc2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d2b1543fa9c1",
+   "created_at": "2026-11-18T12:45:50Z"
+  },
   {
    "id": "e772d8b96313",
    "ts": "2026-11-18T12:37:58Z",
@@ -6095,117 +6188,6 @@
    "model": "opus",
    "run_id": "b6e2f431d80f",
    "created_at": "2026-11-16T15:10:51Z"
-  },
-  {
-   "id": "eea60fbb7010",
-   "ts": "2026-11-16T15:02:11Z",
-   "headline": "Bank of Canada Governor Macklem is to step down in June 2027 when his seven-year term ends",
-   "detail": "The Bank of Canada said in a statement that Governor Tiff Macklem will leave his post in June 2027, at the end of his seven-year term.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "918563493315b097",
-    "983210c2c39b9082",
-    "c594681fc83248de"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gsc2pngj2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gsc2pngj2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gsc2ym4r2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gsc2ym4r2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gsdi77kj2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gsdi77kj2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "74e40fde551a",
-   "created_at": "2026-11-16T15:05:42Z"
-  },
-  {
-   "id": "8cc71726aecf",
-   "ts": "2026-11-16T15:00:54Z",
-   "headline": "Kremlin says next round of Russia-Ukraine-US peace talks is agreed but denies agreeing to include Europeans",
-   "detail": "A Kremlin aide said the next round of three-way Ukraine talks has been agreed, probably in Abu Dhabi again, with no date set yet, and that for now only Russia, Ukraine and the US are taking part. The aide contradicted US negotiators by saying Russia had not agreed to include Europeans, and said a lot must be settled before they could join, which could take more than one further round.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c7a5faca3205183e",
-    "9385744fdff76d9b",
-    "bef6014342114eee",
-    "f3182dfb84c4068a",
-    "24d2f586958d4a83",
-    "a8747fcf9090b567"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gs7qwyns2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gs7qwyns2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gs6zylk42m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gs6zylk42m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gs7sijrn2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gs7sijrn2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gs7s4i3b2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gs7s4i3b2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gs7tq5pa2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gs7tq5pa2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gs7u3n4j2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gs7u3n4j2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8fe8bc837a8a",
-   "created_at": "2026-11-16T15:01:13Z"
-  },
-  {
-   "id": "b9ee8a197b54",
-   "ts": "2026-11-16T14:42:56Z",
-   "headline": "Trump threatens heavy tariffs on Mexico unless it stops migrant caravans",
-   "detail": "US President Trump said migrant caravans will not be allowed into the US and that he would impose heavy tariffs on Mexico if it does not stop them. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5d92d911c0fc2714",
-    "61016a4d16a9cd6b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gr7mr4lh2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gr7mr4lh2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gr66mab22t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gr66mab22t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4238ef360e83",
-   "created_at": "2026-11-16T14:45:50Z"
   }
  ]
 }
