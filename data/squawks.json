@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T07:10:49Z",
+ "generated_at": "2026-11-18T07:40:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "052cd3977d9c",
+   "ts": "2026-11-18T07:39:52Z",
+   "headline": "Futures cut odds of a December BoE rate hike to 80% from 90% after UK CPI data",
+   "detail": "UK interest rate futures put the chance of a Bank of England rate rise in December at 80%, down from 90%, after the release of October's UK CPI figures.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "325ed13789bd2f33"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l2ixyzez26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l2ixyzez26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2a36a1c7e720",
+   "created_at": "2026-11-18T07:40:58Z"
+  },
   {
    "id": "b4ec2f9bff5a",
    "ts": "2026-11-18T07:09:23Z",
@@ -6192,27 +6213,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2fu45xzc62a",
      "url": "https://bsky.app/profile/reuters.com/post/3n2fu45xzc62a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "703b2b040831",
-   "created_at": "2026-11-16T06:35:51Z"
-  },
-  {
-   "id": "032cae371b1a",
-   "ts": "2026-11-16T05:50:55Z",
-   "headline": "UK weighs scrapping post-Brexit border inspection sites ahead of trade reset with the EU, FT reports",
-   "detail": "The Financial Times reports that the UK government is considering closing border inspection sites built after Brexit as it prepares to reset trade relations with the EU.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "21af202eaf6bf3af"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fticjfw72b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fticjfw72b"
     }
    ],
    "model": "opus",
