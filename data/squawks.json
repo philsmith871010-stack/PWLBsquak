@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T15:25:39Z",
+ "generated_at": "2026-11-18T15:31:14Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b5f75c8bcefb",
+   "ts": "2026-11-18T15:29:19Z",
+   "headline": "BoE Governor Bailey says inflation will rise further and calls the rise very frustrating; stronger food inflation has not materialised",
+   "detail": "The Bank of England Governor said, when asked about rising inflation, that it was enormously frustrating and that he expects inflation to go up further. He also said the expected pick-up in food inflation has not happened.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "599449d5bb960ff6",
+    "cd5f5ff9b36a966a",
+    "d4e776c753e64aea"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lupokwfg2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lupokwfg2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2luqg663n2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2luqg663n2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lur5axkr24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lur5axkr24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "286c46fd690e",
+   "created_at": "2026-11-18T15:31:14Z"
+  },
   {
    "id": "3366480d30c0",
    "ts": "2026-11-18T15:21:49Z",
@@ -5993,69 +6026,6 @@
    "model": "opus",
    "run_id": "768ed4d803e4",
    "created_at": "2026-11-16T19:31:07Z"
-  },
-  {
-   "id": "5ff2081b5bea",
-   "ts": "2026-11-16T19:24:15Z",
-   "headline": "Fed's Hammack wants policy to reach a restrictive stance and says financial conditions are not yet restraining the economy",
-   "detail": "Cleveland Fed President Hammack said higher market borrowing costs are needed to restrain the economy, that the economy can cope with more restriction and that it is unclear how far the Fed must go. She also said AI is adding to inflation pressures now, that strong growth and Fed expectations are pushing rates higher, and that 2% remains a reasonable inflation goal.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "2789546de06710dd",
-    "46e61331bc0baaad",
-    "5e18ce8e459db8fd",
-    "dbe392b507a1d824",
-    "d0e90f40fa552822",
-    "42b8265cbdbc752d",
-    "cb6ac311f0993cdf",
-    "90ac57135c1fd9d5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2harpyhgi2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2harpyhgi2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hattemjx2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hattemjx2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hauk64il2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hauk64il2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2havaqd6f2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2havaqd6f2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2havxgwt32t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2havxgwt32t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hawo3hs52t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hawo3hs52t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hawoejtr24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hawoejtr24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2haxeze352b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2haxeze352b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "90ebe3207c72",
-   "created_at": "2026-11-16T19:25:42Z"
   }
  ]
 }
