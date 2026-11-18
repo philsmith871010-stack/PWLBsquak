@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T21:01:14Z",
+ "generated_at": "2026-11-18T21:05:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "018b98fd1f2f",
+   "ts": "2026-11-18T21:03:24Z",
+   "headline": "US unlikely to take action against China during Trump's Asia trip, ABC reports",
+   "detail": "ABC reports that US action against China is not expected while President Trump is travelling in Asia. This follows an earlier ABC report that Washington was weighing new penalties on China over detained Americans.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5affc3171e28204a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mhfs2yvt24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mhfs2yvt24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "98bf083f494b",
+   "created_at": "2026-11-18T21:05:45Z"
+  },
   {
    "id": "89b1425ca2c0",
    "ts": "2026-11-18T21:00:38Z",
@@ -5699,27 +5720,6 @@
    "model": "opus",
    "run_id": "4dcdc40626bc",
    "created_at": "2026-11-17T10:31:03Z"
-  },
-  {
-   "id": "5b477081d540",
-   "ts": "2026-11-17T10:14:06Z",
-   "headline": "Qatar says its mediation between the US and Iran is continuing",
-   "detail": "Qatar said its efforts to mediate between the US and Iran are still under way. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "da2e1e7c7e4800b2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2isnswp3k2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2isnswp3k2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "228a85847a34",
-   "created_at": "2026-11-17T10:15:48Z"
   }
  ]
 }
