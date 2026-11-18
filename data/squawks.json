@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T06:15:50Z",
+ "generated_at": "2026-11-18T06:40:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "80842683aa5d",
+   "ts": "2026-11-18T06:39:12Z",
+   "headline": "Germany to cut its electricity tax to the EU minimum for 2027 as a temporary step, with a permanent cut intended",
+   "detail": "The German government says the electricity tax will fall to the European minimum level for 2027 on a temporary basis and that it intends to make the reduction permanent.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "48ed49ffa7efb7be",
+    "f026233da1b6a2b6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kx4inmvo2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kx4inmvo2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kx5wx7a324",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kx5wx7a324"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e7be496cc6ff",
+   "created_at": "2026-11-18T06:40:46Z"
+  },
   {
    "id": "29a1d32c1521",
    "ts": "2026-11-18T04:03:44Z",
@@ -6461,45 +6488,6 @@
    "model": "opus",
    "run_id": "ed79bd6476e4",
    "created_at": "2026-11-16T06:25:38Z"
-  },
-  {
-   "id": "4bc6d2e840cc",
-   "ts": "2026-11-16T01:44:09Z",
-   "headline": "JGB yields rise across the curve, with the 30-year at 4.025% and the 20-year at 3.755%",
-   "detail": "The 30-year JGB yield is up 2.5bp at 4.025% and the 20-year up 2bp at 3.755%. The 5-year is up 1bp at 2.26% and the 2-year up half a basis point at 1.88%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "59609480d6f395fc",
-    "94674327a6981cdf",
-    "2a01f7b80050aa96",
-    "d54a963f8ab291a3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ffozxbco24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ffozxbco24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fdfvvshq26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fdfvvshq26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fbbjypvw2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fbbjypvw2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2feiqi7p42s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2feiqi7p42s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "47d02c8daec7",
-   "created_at": "2026-11-16T06:20:47Z"
   }
  ]
 }
