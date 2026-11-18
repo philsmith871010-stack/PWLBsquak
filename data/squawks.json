@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T15:01:14Z",
+ "generated_at": "2026-11-18T15:05:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4005a328453d",
+   "ts": "2026-11-18T15:02:37Z",
+   "headline": "BoE Governor Bailey says policy is not on a pre-set path and labour market slack has stabilised as growth picks up",
+   "detail": "Bank of England Governor Andrew Bailey said monetary policy is not on a pre-set path. He added that the margin of slack in the labour market has stabilised as activity growth has picked up.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "879b03be461a3ddc",
+    "cad07c045308f5a3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ltao3apw2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ltao3apw2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ltc4sack2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ltc4sack2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a3cdffb2d68d",
+   "created_at": "2026-11-18T15:05:44Z"
+  },
   {
    "id": "952032b18c98",
    "ts": "2026-11-18T15:00:59Z",
@@ -6125,39 +6152,6 @@
    "model": "opus",
    "run_id": "fe5d135e430f",
    "created_at": "2026-11-16T18:40:49Z"
-  },
-  {
-   "id": "3b33dc1f47b7",
-   "ts": "2026-11-16T18:35:24Z",
-   "headline": "US envoy Kushner says he and Witkoff discussed with Kremlin aide Ushakov how to enable direct talks between Europe and Russia",
-   "detail": "US envoy Jared Kushner said on Monday that he and Steve Witkoff spoke with Kremlin aide Yuri Ushakov about progress so far and the next steps in the Ukraine peace process, including how to facilitate direct engagement between Europe and Russia. Kushner also said NATO will remain a critical pillar of European security.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "851e1a19b5e08912",
-    "0455a26dc1b6a79d",
-    "246d4a2ca4b2ae7e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2h634dagy2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2h634dagy2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2h67cqu772a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2h67cqu772a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2h67d52lk2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2h67d52lk2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2118df8e9bc4",
-   "created_at": "2026-11-16T18:35:53Z"
   }
  ]
 }
