@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T08:20:46Z",
+ "generated_at": "2026-11-18T08:25:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4b8d9444a69e",
+   "ts": "2026-11-18T08:20:53Z",
+   "headline": "BoE says it will keep setting rates to bring inflation back to the 2% target and keep it there",
+   "detail": "The Bank of England said this in its response to Wednesday's UK inflation data for October.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "ba36657167140313"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l4scimw62s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l4scimw62s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6b950333bbc6",
+   "created_at": "2026-11-18T08:25:44Z"
+  },
   {
    "id": "f25b7b49a821",
    "ts": "2026-11-18T08:20:06Z",
@@ -6221,27 +6242,6 @@
    "model": "opus",
    "run_id": "8111ddb70317",
    "created_at": "2026-11-16T08:31:08Z"
-  },
-  {
-   "id": "c578c7213ff6",
-   "ts": "2026-11-16T08:02:33Z",
-   "headline": "Lithuania's foreign minister says a ceasefire must come before any talks with Russia on European security architecture",
-   "detail": "Lithuania's foreign minister said that discussing European security architecture with Russia now would be a trap and that a ceasefire in Ukraine is needed first. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c8ab9556ec067903"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g2tonh7b2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g2tonh7b2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f26b08d5aa12",
-   "created_at": "2026-11-16T08:05:47Z"
   }
  ]
 }
