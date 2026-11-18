@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T12:10:49Z",
+ "generated_at": "2026-11-18T12:21:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b6f7bab7026c",
+   "ts": "2026-11-18T12:18:46Z",
+   "headline": "UK PM Burnham says the EU deal will lower food prices",
+   "detail": "Prime Minister Burnham said the UK's agreement with the EU will lower food prices. The remarks come ahead of Friday's UK-EU summit.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "cb22fd34ee89f065"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lk3oq4pt2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lk3oq4pt2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7e57516dd441",
+   "created_at": "2026-11-18T12:21:03Z"
+  },
   {
    "id": "51594b5c089d",
    "ts": "2026-11-18T12:07:23Z",
@@ -6179,27 +6200,6 @@
    "model": "opus",
    "run_id": "8f5b5f329e19",
    "created_at": "2026-11-16T14:10:49Z"
-  },
-  {
-   "id": "07d14c180e51",
-   "ts": "2026-11-16T14:05:05Z",
-   "headline": "Houthis take territory on Yemen's southern coast and move closer to Aden after government forces pull back",
-   "detail": "Reuters, citing military sources, reported on Monday that Houthi fighters have seized ground on the southern coast after Saudi-backed government forces fell back to defend Aden.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "54aab78a39e50186"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2gp3wh6zu2f",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2gp3wh6zu2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5915a4d6a2cd",
-   "created_at": "2026-11-16T14:05:41Z"
   }
  ]
 }
