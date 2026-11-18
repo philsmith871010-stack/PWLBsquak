@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T17:01:16Z",
+ "generated_at": "2026-11-18T17:15:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1079d7abcfac",
+   "ts": "2026-11-18T17:11:16Z",
+   "headline": "Yemeni forces carry out drone attacks on Riyadh and southern Saudi Arabia, reports say",
+   "detail": "Reports say Yemeni forces launched drone attacks on targets in the Saudi capital, Riyadh, and in southern parts of the country. This follows Western officials saying Saudi Arabia expects its war with the Houthis to run well into 2027.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0d732d1e1ea8f7c5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m2gpdgf22b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m2gpdgf22b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d3019e8b52f8",
+   "created_at": "2026-11-18T17:15:46Z"
+  },
   {
    "id": "b8b4e381e58e",
    "ts": "2026-11-18T16:58:18Z",
@@ -5897,27 +5918,6 @@
    "model": "opus",
    "run_id": "12e834262f3f",
    "created_at": "2026-11-16T22:51:06Z"
-  },
-  {
-   "id": "bb88aa746391",
-   "ts": "2026-11-16T22:45:19Z",
-   "headline": "UK Prime Minister Burnham says next steps on EU options will take time; ministers expect a timescale of months",
-   "detail": "Burnham said in a speech that the work would take time. According to a political journalist, ministers expect the next steps in setting out the UK's options on the EU to take months rather than weeks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "bc3d575dee480c0b"
-   ],
-   "sources": [
-    {
-     "author": "matthewholehouse.bsky.social",
-     "uri": "at://did:plc:phrwhxykvoi3zwiasdcaijyi/app.bsky.feed.post/3n2hm66zisc2t",
-     "url": "https://bsky.app/profile/matthewholehouse.bsky.social/post/3n2hm66zisc2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c9bbec697e23",
-   "created_at": "2026-11-16T22:45:56Z"
   }
  ]
 }
