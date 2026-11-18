@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T15:40:49Z",
+ "generated_at": "2026-11-18T15:45:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8ab3ce46771d",
+   "ts": "2026-11-18T15:43:01Z",
+   "headline": "BoE Governor Bailey says the Bank is applying system patches at its fastest rate ever to protect its systems",
+   "detail": "BoE Governor Andrew Bailey said the Bank is applying patches to protect its systems at the highest rate it has ever done.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "05232679632c2b5b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lviw3rea2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lviw3rea2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d5533a84a6ee",
+   "created_at": "2026-11-18T15:45:48Z"
+  },
   {
    "id": "720cd9c70c69",
    "ts": "2026-11-18T15:40:39Z",
@@ -5945,27 +5966,6 @@
    "model": "opus",
    "run_id": "bc5453332f0e",
    "created_at": "2026-11-16T20:20:52Z"
-  },
-  {
-   "id": "fec3be2e1590",
-   "ts": "2026-11-16T20:10:16Z",
-   "headline": "RBNZ says domestic financial stress has eased from last year's peak but remains uneven; deposit takers well placed",
-   "detail": "The Reserve Bank of New Zealand says sectors that depend on discretionary spending still face challenges, while deposit takers are well positioned to manage financial risks.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b390a30b531a1f72"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hdiwnort24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hdiwnort24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6b85785abf2f",
-   "created_at": "2026-11-16T20:10:48Z"
   }
  ]
 }
