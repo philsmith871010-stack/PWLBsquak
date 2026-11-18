@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T08:40:47Z",
+ "generated_at": "2026-11-18T09:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c05c3230caa3",
+   "ts": "2026-11-18T09:01:21Z",
+   "headline": "ECB stability review says market discipline should push indebted states to fiscal correction and flags French spreads",
+   "detail": "The ECB's Financial Stability Review says market discipline should push highly indebted countries to correct their fiscal policy. It also says the widening in French spreads points to risks specific to France.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "f1233e4b07373da3",
+    "460fcac0146e73aa"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l72nzgjm2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l72nzgjm2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l72ogxwe2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l72ogxwe2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9a551a4fb0fd",
+   "created_at": "2026-11-18T09:05:43Z"
+  },
   {
    "id": "360a442e02f1",
    "ts": "2026-11-18T08:39:01Z",
@@ -6167,39 +6194,6 @@
    "model": "opus",
    "run_id": "8d7243cd3f39",
    "created_at": "2026-11-16T09:20:50Z"
-  },
-  {
-   "id": "be344490566e",
-   "ts": "2026-11-16T08:36:02Z",
-   "headline": "ECB's Vujcic says private-credit risks appear contained but need watching, and names valuations, funding and cyberattacks as AI risks",
-   "detail": "ECB Vice-President Vujcic listed valuations, funding and cyberattacks among the risks linked to AI and said private-credit risks look contained but need monitoring. In the same remarks he repeated that recent moves in energy prices may add to inflation.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "aa639e943c862648",
-    "4f6353d3d8154101",
-    "af8efa539ccf3271"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4pkirnp2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4pkirnp2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4pk47pf2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4pk47pf2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g4qbbx2d24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g4qbbx2d24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f261ae9b665c",
-   "created_at": "2026-11-16T08:40:54Z"
   }
  ]
 }
