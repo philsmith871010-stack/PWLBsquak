@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T09:35:44Z",
+ "generated_at": "2026-11-18T09:40:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "66e518e66b76",
+   "ts": "2026-11-18T09:40:13Z",
+   "headline": "ECB compares the AI borrowing surge to the run-up to the subprime bubble",
+   "detail": "The ECB says the current wave of AI-related borrowing has historic parallels with the subprime bubble, the FT reports. It raises concerns that hyperscalers are building up trillions of dollars of off-balance-sheet commitments through contracts with other technology groups.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "cae5eeb1609a4384"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2lba5td7w2p",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2lba5td7w2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a0db3d8861ba",
+   "created_at": "2026-11-18T09:40:49Z"
+  },
   {
    "id": "08c4fc1b5265",
    "ts": "2026-11-18T09:32:53Z",
@@ -6174,27 +6195,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gbhorxei2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gbhorxei2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7af690fb3309",
-   "created_at": "2026-11-16T10:01:11Z"
-  },
-  {
-   "id": "bdf4ffffb591",
-   "ts": "2026-11-16T09:53:42Z",
-   "headline": "France's foreign minister says Russia will not be allowed to set the terms of European security architecture",
-   "detail": "France's foreign minister Barrot said Russia would not be allowed to dictate the terms of Europe's security architecture. He spoke as European officials pushed back on Russian demands linked to Ukraine peace talks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5aaea133088b069b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gb2gq56x2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gb2gq56x2w"
     }
    ],
    "model": "opus",
