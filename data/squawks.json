@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T19:51:03Z",
+ "generated_at": "2026-11-18T19:55:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "35c947450885",
+   "ts": "2026-11-18T19:52:25Z",
+   "headline": "RBNZ Governor Breman says measures of underlying inflation are still elevated",
+   "detail": "The Reserve Bank of New Zealand Governor also said there are risks in both directions. She made the remarks in comments that continued earlier statements on inflation and the economy.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2dc74d66c777fa10",
+    "7f01154b92098684"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mdguvx2h2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mdguvx2h2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mdibjn2n2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mdibjn2n2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "89eec1fa3ca5",
+   "created_at": "2026-11-18T19:55:46Z"
+  },
   {
    "id": "e453cf4fd593",
    "ts": "2026-11-18T19:49:18Z",
@@ -5699,33 +5726,6 @@
    "model": "opus",
    "run_id": "af9fccb1a90b",
    "created_at": "2026-11-17T09:40:51Z"
-  },
-  {
-   "id": "f75f5562f70a",
-   "ts": "2026-11-17T09:33:32Z",
-   "headline": "Iraq's oil minister puts initial Kirkuk-Ceyhan export capacity at 120,000 bpd, rising gradually to 500,000 bpd",
-   "detail": "Iraq's oil minister says crude exports via the Iraq-Turkey pipeline will start at 120,000 barrels per day. He says capacity will be increased step by step until it reaches 500,000 barrels per day.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "fe8b7701e597ebde",
-    "44930e927a0b5d53"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iqfbwgq72j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iqfbwgq72j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2iqfzeue52w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2iqfzeue52w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d826eb8e3492",
-   "created_at": "2026-11-17T09:35:44Z"
   }
  ]
 }
