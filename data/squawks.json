@@ -1,8 +1,101 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T06:40:46Z",
+ "generated_at": "2026-11-18T07:01:10Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "24da7f61cff9",
+   "ts": "2026-11-18T07:01:06Z",
+   "headline": "UK core CPI holds at 2.8% y/y as forecast; headline CPI rises 0.5% m/m, matching expectations",
+   "detail": "UK core CPI was 2.8% year on year, unchanged from the previous month and in line with forecasts. Headline CPI rose 0.5% month on month against 0.4% previously, and RPI rose 0.6% m/m against a 0.5% forecast and 0.1% previously.",
+   "category": "data",
+   "importance": 3,
+   "source_event_ids": [
+    "2664ab684cc4236e",
+    "d6a382f2ecd432d5",
+    "0d3cc56fc319db2b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kydmrtoz24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kydmrtoz24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kydmf57b2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kydmf57b2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kydn2m3d2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kydn2m3d2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "68a86ff51a0b",
+   "created_at": "2026-11-18T07:01:10Z"
+  },
+  {
+   "id": "06510f9fb2c6",
+   "ts": "2026-11-18T07:01:04Z",
+   "headline": "UK PPI input prices jump 10.8% y/y, well above 9.2% forecast; output prices rise 5.1% y/y as expected",
+   "detail": "UK input producer prices rose 2.2% m/m against a 0.8% forecast and 10.8% y/y, up from 8.3%. Output prices rose 0.4% m/m, below the 0.6% forecast, and 5.1% y/y, in line with forecasts and up from 4.6%.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "71dd845a140d9917",
+    "668eee89f7e94722",
+    "cfd02d151f4dedc6",
+    "a80fde6737b7e0d2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kydlelud2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kydlelud2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kydlztat2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kydlztat2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kydlp72j2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kydlp72j2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kydng5tr2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kydng5tr2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "68a86ff51a0b",
+   "created_at": "2026-11-18T07:01:10Z"
+  },
+  {
+   "id": "be3f4479d033",
+   "ts": "2026-11-18T06:56:50Z",
+   "headline": "UK PM Burnham pledges sweeping welfare overhaul for young people and hints at changes for older claimants",
+   "detail": "The prime minister committed to reforms following the Milburn review, whose author argued for extending them to over-24s, the FT reports. Labour MPs who led last year's rebellion against £5bn of benefit cuts have backed the proposals.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "d62cccc2b75a6d15"
+   ],
+   "sources": [
+    {
+     "author": "gilesyb.bsky.social",
+     "uri": "at://did:plc:cdklqekun5o7gvz4sbujp3b3/app.bsky.feed.post/3n2ky3zb77k2y",
+     "url": "https://bsky.app/profile/gilesyb.bsky.social/post/3n2ky3zb77k2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "68a86ff51a0b",
+   "created_at": "2026-11-18T07:01:10Z"
+  },
   {
    "id": "80842683aa5d",
    "ts": "2026-11-18T06:39:12Z",
@@ -6299,195 +6392,6 @@
    "model": "opus",
    "run_id": "4c81a379c75a",
    "created_at": "2026-11-16T06:31:02Z"
-  },
-  {
-   "id": "9fadf3a196ef",
-   "ts": "2026-11-16T04:02:24Z",
-   "headline": "BoJ's Takata says price rises are now more likely to cause second-round effects",
-   "detail": "Bank of Japan board member Takata also said that monitoring price developments passed through markets is essential, because some currency market participants are focusing on real and nominal interest rate differentials.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "2d1d2b0db596d4e7",
-    "487996b4839e02bd",
-    "53867809701d58f1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fngaquut2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fngaquut2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fngbur322f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fngbur322f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fngztxmj2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fngztxmj2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ed79bd6476e4",
-   "created_at": "2026-11-16T06:25:38Z"
-  },
-  {
-   "id": "36132c590716",
-   "ts": "2026-11-16T02:00:52Z",
-   "headline": "China's October retail sales rise 0.4% and industrial output 4.8% on the year, both below forecasts",
-   "detail": "Retail sales growth missed the 0.8% forecast, industrial output missed the 5.3% poll, and fixed-asset investment fell 8.1% in January to October against an expected 7.0% drop. Property investment fell 21.6% and the surveyed jobless rate was 5.1%, against a 5.2% forecast; USD/CNH was near flat after the data.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "b58721b1acf86296",
-    "f8bd5ee6e9b3a63d",
-    "7fcbb883e26c0ef7",
-    "b069bf9026ce629a",
-    "2df0de83e6e01634",
-    "6394546d2a9fd049",
-    "fcbc91fc8e55623d",
-    "f9fcf8bd241053a4",
-    "8037ef8e61e60d7b",
-    "69605ca086d6a106",
-    "f94056000d292ef5",
-    "9138e46f25a68dbb",
-    "bf09750f93b58a3a",
-    "064ee647c7115a35",
-    "001021a9bfc4567d",
-    "8b1c1f2d4ecab2a5",
-    "3a4b713cb41aca02",
-    "63f217a968df0d3d",
-    "f35439839120b79e",
-    "865c850d7bc4f69f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fgmwyrhe2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fgmwyrhe2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fgmxvf6i2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fgmxvf6i2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fgmxfuve24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fgmxfuve24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fgmyb74a2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fgmyb74a2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fgnphyh424",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fgnphyh424"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fgnqm5ht2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fgnqm5ht2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fgnrppln2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fgnrppln2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fgns2tzv2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fgns2tzv2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fgojmgq62m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fgojmgq62m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fgpxmmvu2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fgpxmmvu2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fgpyfkbm24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fgpyfkbm24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fgqpilcr2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fgqpilcr2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fgqptym62m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fgqptym62m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fgqqcmwo2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fgqqcmwo2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fgria47v2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fgria47v2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fhe74ew42a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fhe74ew42a"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2flqrpnff2v",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n2flqrpnff2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fne5udqh2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fne5udqh2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fgnqaexg2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fgnqaexg2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fgnrdsj424",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fgnrdsj424"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ed79bd6476e4",
-   "created_at": "2026-11-16T06:25:38Z"
-  },
-  {
-   "id": "7ec5f01d0e3e",
-   "ts": "2026-11-16T01:56:37Z",
-   "headline": "Estonia will close all border crossings to Russia on 1 December after blaming the GRU for an attempted explosion",
-   "detail": "Estonia's government said it would shut the crossings after accusing Russian military intelligence of being behind a failed explosion on Saturday at an Estonian drone maker, the FT reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "92cf813398a965c9"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2fgfdbn532r",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n2fgfdbn532r"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ed79bd6476e4",
-   "created_at": "2026-11-16T06:25:38Z"
   }
  ]
 }
