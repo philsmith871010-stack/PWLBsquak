@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T15:20:57Z",
+ "generated_at": "2026-11-18T15:25:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3366480d30c0",
+   "ts": "2026-11-18T15:21:49Z",
+   "headline": "Czech LNG deal with the US will cover 20% of the country's LNG consumption, industry and trade minister says",
+   "detail": "Czech Minister of Industry and Trade Havlicek gave the figure in Warsaw. It refers to the long-term US LNG purchase deal the Czech Republic is finalising.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "ab9fe5eed8c0145d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lucyqnmd2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lucyqnmd2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e7095fd34ac2",
+   "created_at": "2026-11-18T15:25:39Z"
+  },
   {
    "id": "dda1c03c531a",
    "ts": "2026-11-18T15:19:00Z",
@@ -6035,63 +6056,6 @@
    "model": "opus",
    "run_id": "90ebe3207c72",
    "created_at": "2026-11-16T19:25:42Z"
-  },
-  {
-   "id": "2f07e0b09cd4",
-   "ts": "2026-11-16T19:16:46Z",
-   "headline": "Fed's Hammack says she prefers slow, steady rate hikes in small steps and sees signs the labour market may be tightening",
-   "detail": "Cleveland Fed President Hammack said she is concerned that businesses are more willing to accept price rises and are passing more of them on. She described the job market as broadly in balance but not dynamic, with possible early signs of tightening, and said the impact of AI could vary widely.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "0335604f1edfdb7d",
-    "53f81eca9b3a40dd",
-    "b66808fccec1f12a",
-    "4dcd793a14d17332",
-    "b2cd977d7ba36c86",
-    "f517ef3cd50cfd6e",
-    "84580f1d7c58e57d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hajbahnl2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hajbahnl2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2haik5qkj2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2haik5qkj2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2haijq3vb24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2haijq3vb24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hakoodoh26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hakoodoh26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hakp6ois2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hakp6ois2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hanjlzps2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hanjlzps2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ham4an3c2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ham4an3c2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "32133f5b1ab5",
-   "created_at": "2026-11-16T19:20:48Z"
   }
  ]
 }
