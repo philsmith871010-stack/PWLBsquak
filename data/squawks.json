@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T07:55:43Z",
+ "generated_at": "2026-11-18T08:20:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f25b7b49a821",
+   "ts": "2026-11-18T08:20:06Z",
+   "headline": "BoE says it expects inflation to rise further by mid-2026 next year as pipeline cost pressures feed through",
+   "detail": "The Bank of England issued a statement responding to Wednesday's UK inflation data. It said it expects inflation to rise further by the middle of next year because of cost pressures already in the pipeline.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "1c277768c0756042"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l4qvdqlo2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l4qvdqlo2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7c2a99654eb9",
+   "created_at": "2026-11-18T08:20:46Z"
+  },
+  {
+   "id": "d0240900b80f",
+   "ts": "2026-11-18T08:17:20Z",
+   "headline": "Xi tells Putin China and Russia should deepen cooperation",
+   "detail": "Chinese President Xi Jinping told Russian President Vladimir Putin that the two countries should deepen their cooperation, according to Chinese state broadcaster CCTV.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "53f96e6a0f0f5770"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l4lxo5vf2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l4lxo5vf2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7c2a99654eb9",
+   "created_at": "2026-11-18T08:20:46Z"
+  },
   {
    "id": "78730a0644b5",
    "ts": "2026-11-18T07:54:20Z",
@@ -6200,54 +6242,6 @@
    "model": "opus",
    "run_id": "f26b08d5aa12",
    "created_at": "2026-11-16T08:05:47Z"
-  },
-  {
-   "id": "f9df903d3fe7",
-   "ts": "2026-11-16T07:51:20Z",
-   "headline": "EU foreign ministers to agree a new package of Russia sanctions today with 113 listings, Ireland's foreign minister says",
-   "detail": "Ireland's foreign minister says EU foreign ministers will agree a new Russia sanctions package on Monday, and that it will include 113 listings.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "51bef0d853aff7bb",
-    "16c9f1e1bd64fc8c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g27mjgag2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g27mjgag2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2g27mvbap2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2g27mvbap2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "064f928c6717",
-   "created_at": "2026-11-16T07:55:26Z"
-  },
-  {
-   "id": "cdec942c74ef",
-   "ts": "2026-11-16T07:50:07Z",
-   "headline": "China calls this week's trilateral meeting of the Chinese, US and Russian leaders groundbreaking",
-   "detail": "China's Foreign Ministry said on Monday that this week's meeting between Xi, Trump and Putin is of groundbreaking significance and will support world peace and stability, Reuters reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ea5ce1949a6a78d5"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2g25gw7tv2b",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2g25gw7tv2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "064f928c6717",
-   "created_at": "2026-11-16T07:55:26Z"
   }
  ]
 }
