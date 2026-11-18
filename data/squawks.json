@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T17:45:50Z",
+ "generated_at": "2026-11-18T17:51:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d2eedfbd1ac1",
+   "ts": "2026-11-18T17:50:15Z",
+   "headline": "UK and EU remove 'trusted partnership' wording from latest draft of joint summit statement, Reuters reports",
+   "detail": "Reuters reports that the latest draft of the UK-European Commission joint summit statement no longer refers to a trusted partnership. It says this suggests talks on special status for the UK under the EU's Made in Europe rules are proving difficult.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f16c85cfe7577d6a"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2m4mfnolx25",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2m4mfnolx25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "520e2bbbc3ee",
+   "created_at": "2026-11-18T17:51:04Z"
+  },
   {
    "id": "f9fe0b7ba712",
    "ts": "2026-11-18T17:42:49Z",
@@ -5766,99 +5787,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hx6wkrrz2t",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hx6wkrrz2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1f0ff9d118b2",
-   "created_at": "2026-11-17T06:05:56Z"
-  },
-  {
-   "id": "2aa8a3bf5f5d",
-   "ts": "2026-11-17T01:23:37Z",
-   "headline": "RBA minutes say inflation pressures will stay uncomfortably high for at least 12 more months and neutral rate has likely risen",
-   "detail": "The Reserve Bank of Australia's minutes say domestic demand is likely to exceed capacity until the middle of 2027 and global developments have probably pushed the neutral rate higher. Members who backed a hike said 2026 tightening had not contained inflation, while those against it warned of a deeper contraction.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "23af811c518c390d",
-    "a82a223c7f94998b",
-    "60e11f427fe5486c",
-    "117e886c35dbd645",
-    "f39eb30d881cd897",
-    "5490f79d4808b0bf",
-    "619672dee6a30686",
-    "40309992023bc9da",
-    "f0939b5896c98360",
-    "78e11e901eb74dc8",
-    "8ab5d7f403254c87",
-    "216312effc7662f9",
-    "a95ea7282c6479ca"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2huzbebxo2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2huzbebxo2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2huzyqynp2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2huzyqynp2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2huzyim2g2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2huzyim2g2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2huzzt5gh2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2huzzt5gh2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2huzzltq42f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2huzzltq42f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2huzzcx7m2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2huzzcx7m2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2huzyzunm2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2huzyzunm2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hv22pxaw2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hv22pxaw2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hv22grro26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hv22grro26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hv226pxo26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hv226pxo26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hv2rsxub2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hv2rsxub2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hv2s3ywb2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hv2s3ywb2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hv4afr332m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hv4afr332m"
     }
    ],
    "model": "opus",
