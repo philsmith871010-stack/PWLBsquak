@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T16:01:13Z",
+ "generated_at": "2026-11-18T16:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e9afd1a393c2",
+   "ts": "2026-11-18T16:03:37Z",
+   "headline": "Brent extends losses after official US inventory data; January contract at $91.95/bbl",
+   "detail": "Oil prices kept falling on Wednesday evening after the official US inventory figures were released, according to reports. January Brent crude futures on ICE stood at $91.95 per barrel.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "150458b9964ba682"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lwnqecbw2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lwnqecbw2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6fec283d62d2",
+   "created_at": "2026-11-18T16:05:43Z"
+  },
   {
    "id": "f4ff4be0349f",
    "ts": "2026-11-18T14:06:27Z",
@@ -5927,27 +5948,6 @@
    "model": "opus",
    "run_id": "15d2762f66f2",
    "created_at": "2026-11-16T21:15:54Z"
-  },
-  {
-   "id": "0fc1288fc200",
-   "ts": "2026-11-16T21:06:27Z",
-   "headline": "UK Prime Minister Burnham says Britain's exit from Europe left bad feeling on both sides",
-   "detail": "Prime Minister Burnham commented on the UK's departure from Europe ahead of this week's UK-EU summit. The post did not report any new policy step.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7e3b3e5ffe315624"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2hgnfahcw26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2hgnfahcw26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "48ca49bea106",
-   "created_at": "2026-11-16T21:10:56Z"
   }
  ]
 }
