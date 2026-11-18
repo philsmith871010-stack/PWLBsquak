@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T13:05:43Z",
+ "generated_at": "2026-11-18T13:10:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e39c8859f8c3",
+   "ts": "2026-11-18T13:08:27Z",
+   "headline": "Saudi Arabia expects its war with the Houthis to run well into 2027, Western officials say",
+   "detail": "Two Western officials, citing conversations with Saudi counterparts, say Riyadh expects the conflict to continue well into 2027. They add that Saudi Arabia wants its allies to gain ground in Yemen before any negotiations with the Houthis.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9d077555a90e0ae3",
+    "65544670eb27ca4c",
+    "be93c863520a62c3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lmuj52wf2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lmuj52wf2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lmvahpiw2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lmvahpiw2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lmxem6xb2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lmxem6xb2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "268b6b413b82",
+   "created_at": "2026-11-18T13:10:52Z"
+  },
   {
    "id": "bd177218431f",
    "ts": "2026-11-18T13:05:40Z",
@@ -6179,27 +6212,6 @@
    "model": "opus",
    "run_id": "41c53f3a2223",
    "created_at": "2026-11-16T16:01:15Z"
-  },
-  {
-   "id": "e8ad0c7759c9",
-   "ts": "2026-11-16T15:32:51Z",
-   "headline": "EU's Kallas says a ceasefire must come before any talks with Russia on security architecture",
-   "detail": "The EU's foreign policy chief said on Monday that a ceasefire in Ukraine must be in place before the bloc discusses security architecture with Russia. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0f16287292b0c3c9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gtyup7zu2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gtyup7zu2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "773eb5bb8df4",
-   "created_at": "2026-11-16T15:35:41Z"
   }
  ]
 }
