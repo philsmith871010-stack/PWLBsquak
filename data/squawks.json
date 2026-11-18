@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T18:45:45Z",
+ "generated_at": "2026-11-18T18:55:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ade4cbd1638d",
+   "ts": "2026-11-18T18:54:27Z",
+   "headline": "US natural gas futures rise more than 5% to $3.371/MMBtu",
+   "detail": "US natural gas futures were reported up by more than 5% at $3.371 per MMBtu late on 18 November.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "ea93599c84348caa"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ma77ujon2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ma77ujon2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "435ed852b040",
+   "created_at": "2026-11-18T18:55:42Z"
+  },
   {
    "id": "e8eee30bf10d",
    "ts": "2026-11-18T18:44:23Z",
@@ -5639,27 +5660,6 @@
    "model": "opus",
    "run_id": "60731306ffa1",
    "created_at": "2026-11-17T08:25:40Z"
-  },
-  {
-   "id": "7629a054f070",
-   "ts": "2026-11-17T07:26:07Z",
-   "headline": "UK Milburn welfare review puts potential savings at £3.8bn a year by 2036",
-   "detail": "The Milburn welfare review estimates that its proposals could save £3.8bn a year by 2036. The review is due to propose cutting sickness benefits for under-25s and spending more on employment support.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "9edde93511c48aa9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ijbhgscx2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ijbhgscx2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0937d4f54f33",
-   "created_at": "2026-11-17T07:31:05Z"
   }
  ]
 }
