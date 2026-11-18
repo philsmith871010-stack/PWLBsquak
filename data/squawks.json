@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T13:01:11Z",
+ "generated_at": "2026-11-18T13:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bd177218431f",
+   "ts": "2026-11-18T13:05:40Z",
+   "headline": "US Energy Secretary Wright says US LNG will now cover about a third of Poland's yearly gas demand",
+   "detail": "US Energy Secretary Wright said in a post on X that there will now be enough American LNG to supply roughly one-third of Poland's annual natural gas demand.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "7b41e39484210da7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lmpkaf5b2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lmpkaf5b2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8fe6f55b1002",
+   "created_at": "2026-11-18T13:05:43Z"
+  },
   {
    "id": "5ab8df2c9473",
    "ts": "2026-11-18T13:00:58Z",
@@ -6179,33 +6200,6 @@
    "model": "opus",
    "run_id": "773eb5bb8df4",
    "created_at": "2026-11-16T15:35:41Z"
-  },
-  {
-   "id": "026c4f9fd7ad",
-   "ts": "2026-11-16T15:24:13Z",
-   "headline": "EU's Kallas says a 22nd Russia sanctions package will be presented in the coming days",
-   "detail": "The EU foreign policy chief spoke after the foreign ministers' meeting. She said ministers had approved 140 new sanctions on Russia.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "fe82697b06723d9b",
-    "045f21186270f522"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gtjgopr224",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gtjgopr224"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gtipy6rv2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gtipy6rv2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "50831fe7672b",
-   "created_at": "2026-11-16T15:25:43Z"
   }
  ]
 }
