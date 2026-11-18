@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T14:10:53Z",
+ "generated_at": "2026-11-18T14:45:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8f820dd10fe0",
+   "ts": "2026-11-18T14:43:22Z",
+   "headline": "Mexico's President Sheinbaum says Trump told her the US and Mexico are close to a trade deal",
+   "detail": "Mexican President Sheinbaum said US President Trump told her the two countries are nearing a trade agreement. This follows her earlier remarks that talks were advancing after their meeting on the sidelines of APEC.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "19eeadb5719eebe0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ls67rpim2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ls67rpim2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5a0f2411e0d0",
+   "created_at": "2026-11-18T14:45:48Z"
+  },
+  {
+   "id": "4dac1a31862a",
+   "ts": "2026-11-18T14:41:22Z",
+   "headline": "ECB's Lagarde says AI valuations are very ambitious and will eventually be corrected; European economy more resilient than expected",
+   "detail": "ECB President Lagarde said AI valuations are very ambitious and stand to be corrected at some point. She added that the European economy has held up much better than anticipated, supported by AI and fiscal policy.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "375ac11bfdc410f5",
+    "1a0742d2a70dc4ae",
+    "7b5ce160b4ee8d1a",
+    "f42857e97c8405b7",
+    "95ae677f7bd13578"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ls2nfmmy26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ls2nfmmy26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ls3e6kke2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ls3e6kke2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ls67d7ht24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ls67d7ht24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ls6wiiss2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ls6wiiss2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ls7n7fcv2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ls7n7fcv2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5a0f2411e0d0",
+   "created_at": "2026-11-18T14:45:48Z"
+  },
   {
    "id": "00072dc103cd",
    "ts": "2026-11-18T14:06:09Z",
@@ -6092,54 +6158,6 @@
    "model": "opus",
    "run_id": "1998ba7a0bfa",
    "created_at": "2026-11-16T18:01:10Z"
-  },
-  {
-   "id": "3549a96b792a",
-   "ts": "2026-11-16T17:54:54Z",
-   "headline": "Iran's army shoots down a US MQ-1 drone near the Strait of Hormuz, Iranian media report",
-   "detail": "Iran's Mehr News Agency reports that Iranian army air defences downed an American MQ-1 drone close to the Strait of Hormuz. Separately, Mehr reports that air defence systems were activated in Isfahan minutes earlier; no market reaction is reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "cee3cae48dd3f010",
-    "c6da516bec4edaec"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2h3wuvpfh2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2h3wuvpfh2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2h3puwntx2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2h3puwntx2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "92114673e677",
-   "created_at": "2026-11-16T17:55:46Z"
-  },
-  {
-   "id": "45f4a06136ea",
-   "ts": "2026-11-16T17:35:45Z",
-   "headline": "Fed Chair Warsh says the AI boom could support markedly faster US growth without fuelling inflation",
-   "detail": "The Financial Times reports that Fed Chair Warsh said AI-driven innovation could hold US GDP above its long-run average without adding to inflation.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "372b68273d742c76"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2h2un3q3g22",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n2h2un3q3g22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ed0e0ee0c8e4",
-   "created_at": "2026-11-16T17:40:48Z"
   }
  ]
 }
