@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T07:50:47Z",
+ "generated_at": "2026-11-18T07:55:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "78730a0644b5",
+   "ts": "2026-11-18T07:54:20Z",
+   "headline": "French finance minister Lescure says 2027 budget needs a bigger effort than planned and 1% growth forecast may be cut",
+   "detail": "France's finance minister Lescure said the 2027 budget will require a larger effort than previously planned. He also said the 1% growth forecast for 2027 risks being revised down.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6f7b3861e5cbe50e",
+    "d7f36809c7c97c46",
+    "542a77417feb089a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l36macxf2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l36macxf2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l3ctkkfc2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l3ctkkfc2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l3ctaefp2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l3ctaefp2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "83fa9c633acb",
+   "created_at": "2026-11-18T07:55:43Z"
+  },
   {
    "id": "25d6c8d5080f",
    "ts": "2026-11-18T07:48:03Z",
@@ -6215,33 +6248,6 @@
    "model": "opus",
    "run_id": "064f928c6717",
    "created_at": "2026-11-16T07:55:26Z"
-  },
-  {
-   "id": "2810f74bcc6f",
-   "ts": "2026-11-16T07:18:56Z",
-   "headline": "EU's Kallas calls Russian demands a pretext to keep the war going and says talks must now turn to substance",
-   "detail": "The EU foreign policy chief said European leaders have settled the format for talks with Russia on Ukraine and must now discuss substance. She described Russia's demands as a clear pretext to continue the war.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4ce23235e13a3520",
-    "ec1b588e34bc1724"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fyeye3kz2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fyeye3kz2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2fyfp3lj32j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2fyfp3lj32j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bb42dfdb989c",
-   "created_at": "2026-11-16T07:21:03Z"
   }
  ]
 }
