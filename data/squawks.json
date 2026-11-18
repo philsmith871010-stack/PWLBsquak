@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T18:05:42Z",
+ "generated_at": "2026-11-18T18:20:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e6e5e29d9ae9",
+   "ts": "2026-11-18T18:19:10Z",
+   "headline": "Gold falls 2.9% to $3,737.79/oz, its lowest in more than a year, as hawkish Fed signals lift the dollar",
+   "detail": "Gold fell 2.9% to $3,737.79 an ounce, its lowest level in more than a year. The drop was attributed to hawkish Fed signals and expectations of more aggressive rate hikes, which strengthened the dollar.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "e7dc0bea1294c387"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m6a4mv4u2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m6a4mv4u2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "80c16c254b6b",
+   "created_at": "2026-11-18T18:20:48Z"
+  },
   {
    "id": "98e9f6718828",
    "ts": "2026-11-18T18:02:46Z",
@@ -5657,75 +5678,6 @@
    "model": "opus",
    "run_id": "e7a989924de3",
    "created_at": "2026-11-17T07:01:10Z"
-  },
-  {
-   "id": "ac62a8c7f177",
-   "ts": "2026-11-17T05:53:58Z",
-   "headline": "China and Canada back putting a central bank currency swap into effect and open China's panda bond market to Canadian firms",
-   "detail": "China's finance ministry said both sides support steps by the Bank of Canada and the People's Bank of China to bring a local currency swap deal into effect, and that qualified Canadian institutions may issue panda bonds on Chinese exchanges. The statement also says the two countries aim for trade results before their leaders meet at APEC.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e269d4347e27e722",
-    "a5cc96326e5a5c48",
-    "44407537d33ed04e",
-    "27085741a16de152",
-    "02818e4f581d51d8",
-    "4b9d357eb25b472a",
-    "c389af4e681375c2",
-    "2374df8683ddb92c",
-    "09295599c8f773e4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ie4ogbwh2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ie4ogbwh2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ie4oxr6a2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ie4oxr6a2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ie2k3fzy2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ie2k3fzy2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ie2koihi2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ie2koihi2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2idzsvqce2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2idzsvqce2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2idzsn4al2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2idzsn4al2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2idztk22i2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2idztk22i2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2icwahna72p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2icwahna72p"
-    },
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2ie7myobe2v",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n2ie7myobe2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f216af5e3ddf",
-   "created_at": "2026-11-17T06:20:51Z"
   }
  ]
 }
