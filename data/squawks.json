@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T19:05:52Z",
+ "generated_at": "2026-11-18T19:10:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b37cb66f3a7b",
+   "ts": "2026-11-18T19:09:04Z",
+   "headline": "Fed minutes show some officials wanted a 25bp hike in October; staff see a slightly stronger growth outlook",
+   "detail": "Minutes of the Fed's 27-28 October meeting show some participants favoured a 25bp hike, citing high inflation with few signs of easing. A few of those said they could have accepted no change if markets clearly understood more tightening was likely. Staff kept their inflation forecast close to September's, upgraded the growth outlook slightly, and officials discussed the AI buildout at length.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "5d073b3abe6a16b0",
+    "07d175ea76961d2d",
+    "88ae386383da0a42",
+    "1f8ce4ecc0147327"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mazdrjjr26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mazdrjjr26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mazf5afi2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mazf5afi2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mazcryp22d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mazcryp22d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mazdb7n22j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mazdb7n22j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "705c7d99ab3f",
+   "created_at": "2026-11-18T19:10:52Z"
+  },
   {
    "id": "2ab46b42e0ac",
    "ts": "2026-11-18T19:01:35Z",
@@ -5699,27 +5738,6 @@
    "model": "opus",
    "run_id": "c1e49adef81a",
    "created_at": "2026-11-17T09:01:14Z"
-  },
-  {
-   "id": "ba9cb16314bb",
-   "ts": "2026-11-17T08:52:23Z",
-   "headline": "Russia says it has had no response yet to its security proposals",
-   "detail": "Russia said it has not yet received any feedback on its security proposals, Interfax reported, as Ukraine peace talks continue.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "721019876bd3d681"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2io3pkyoh2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2io3pkyoh2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5eb1a1a0b94f",
-   "created_at": "2026-11-17T08:55:40Z"
   }
  ]
 }
