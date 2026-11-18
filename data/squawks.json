@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T10:15:48Z",
+ "generated_at": "2026-11-18T10:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "678436754b7f",
+   "ts": "2026-11-18T10:33:23Z",
+   "headline": "Kremlin says Putin and Trump will talk at APEC but full negotiations are unlikely",
+   "detail": "Kremlin spokesman Peskov said Putin and Trump are unlikely to have time for full negotiations at the APEC summit, but the two leaders will speak.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "aac5ac361a30dff5",
+    "3736e7c6c3572ca5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2le7agdlu2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2le7agdlu2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2le4dlms22j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2le4dlms22j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bab8758ab960",
+   "created_at": "2026-11-18T10:35:43Z"
+  },
+  {
+   "id": "b1cf176b483b",
+   "ts": "2026-11-18T10:32:10Z",
+   "headline": "German 7-year Bund auction sells at 3.27% average yield, down from 3.36%; bid-to-cover rises to 1.5",
+   "detail": "Germany's 7-year Bund auction gave an average yield of 3.27%, compared with 3.36% at the previous sale. The bid-to-cover ratio was 1.5, up from 1.4 last time.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4516238665810169",
+    "2a36c8ced3116344"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2le52sjw62a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2le52sjw62a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2le5343fk2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2le5343fk2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bab8758ab960",
+   "created_at": "2026-11-18T10:35:43Z"
+  },
   {
    "id": "a5191755e138",
    "ts": "2026-11-18T10:11:50Z",
@@ -6224,48 +6278,6 @@
    "model": "opus",
    "run_id": "d1af54fd9f31",
    "created_at": "2026-11-16T13:01:21Z"
-  },
-  {
-   "id": "96b14cceaa6e",
-   "ts": "2026-11-16T12:43:27Z",
-   "headline": "Knot expected to withdraw from the ECB leadership race this week, Volkskrant reports",
-   "detail": "Dutch newspaper Volkskrant reports that Klaas Knot is expected to drop out of the race for the ECB post this week.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "115649ced91a5eb6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2gkjydbw62a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2gkjydbw62a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3cdd9bd94772",
-   "created_at": "2026-11-16T12:45:50Z"
-  },
-  {
-   "id": "8d2972fdedf8",
-   "ts": "2026-11-16T11:39:37Z",
-   "headline": "EU Council formally lists 12 individuals and 101 entities in Russia's banking, finance, energy and shadow fleet sectors",
-   "detail": "The EU Council says it has sanctioned 12 individuals and 101 entities in Russia's banking, financial and energy sectors and in its shadow fleet. It says the aim is to further limit Russia's ability to fund the war.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5f50bfaeaf495ad8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ggxte75h2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ggxte75h2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "74fcc0f4f3f0",
-   "created_at": "2026-11-16T11:40:50Z"
   }
  ]
 }
