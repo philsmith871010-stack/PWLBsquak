@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-18T18:40:50Z",
+ "generated_at": "2026-11-18T18:45:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e8eee30bf10d",
+   "ts": "2026-11-18T18:44:23Z",
+   "headline": "UK government says ministers are working urgently with India to settle dispute over higher tariffs on Scotch whisky",
+   "detail": "The UK government said ministers are working urgently with India on the dispute over Indian demands for higher tariffs on Scotch whisky imports. This follows reports that India is applying an effective 162.5% tariff and tax on bulk Scotch imports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c68ffaf503f6f806"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m7n7i4tl24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m7n7i4tl24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "dc515c2a92af",
+   "created_at": "2026-11-18T18:45:45Z"
+  },
   {
    "id": "46e031e9f643",
    "ts": "2026-11-18T18:39:16Z",
@@ -5639,27 +5660,6 @@
    "model": "opus",
    "run_id": "0937d4f54f33",
    "created_at": "2026-11-17T07:31:05Z"
-  },
-  {
-   "id": "a9b170f9e3a8",
-   "ts": "2026-11-17T07:18:37Z",
-   "headline": "Japan proposes an 'Asian IEA' to manage joint regional oil stockpiles",
-   "detail": "The Financial Times reports that Tokyo has proposed joint oil reserves for the region. The aim is to protect import-dependent Asian economies from future energy shocks.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "1bbc9c174e38b452"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2iitzpxf52f",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n2iitzpxf52f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0b771a4ffaf7",
-   "created_at": "2026-11-17T07:20:51Z"
   }
  ]
 }
