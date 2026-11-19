@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T09:45:50Z",
+ "generated_at": "2026-11-19T10:01:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "919e710412ce",
+   "ts": "2026-11-19T09:59:28Z",
+   "headline": "France sells 4-, 5- and 8-year OATs at higher yields than previous sales, with stronger bid-to-cover ratios",
+   "detail": "The 4-year OAT went at 4.09% (previous 4.01%) with cover of 2.83 (previous 2.32), and the 5-year at 4.26% (previous 4.16%) with cover of 2.819 (previous 2.3). The 8-year went at 4.67% (previous 3.88%) with cover of 3.053 (previous 2.69).",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "034f14bdd2c07ba7",
+    "46c3713082d002d1",
+    "d5df5ee463f9af67",
+    "f3028df35ac35c73",
+    "ce96c440325141b7",
+    "c9d18210ee0776da"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nsrj2jbn2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nsrj2jbn2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nsrirybr2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nsrirybr2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nsrjyck52d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nsrjyck52d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nsrjqerm2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nsrjqerm2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nssxtizm2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nssxtizm2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nstowdmk2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nstowdmk2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c407d54a75f2",
+   "created_at": "2026-11-19T10:01:08Z"
+  },
   {
    "id": "9295e8a29224",
    "ts": "2026-11-19T09:45:25Z",
@@ -6071,39 +6122,6 @@
    "model": "opus",
    "run_id": "894be07f61fc",
    "created_at": "2026-11-17T15:05:48Z"
-  },
-  {
-   "id": "c41c43929182",
-   "ts": "2026-11-17T15:00:50Z",
-   "headline": "US NAHB housing market index falls to 25 in November against 29 forecast; business inventories rise 0.5% m/m",
-   "detail": "The NAHB homebuilder sentiment index fell to 25 in November, from 29 the previous month and below the 29 forecast. US business inventories rose 0.5% m/m, in line with forecast, after 0.4% previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "930904eafef89200",
-    "47abddda72ee3770",
-    "3ae20da96376d698"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jcokhfzt2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jcokhfzt2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jcokwcjg24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jcokwcjg24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jcok2d3l2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jcok2d3l2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c29354153d02",
-   "created_at": "2026-11-17T15:01:14Z"
   }
  ]
 }
