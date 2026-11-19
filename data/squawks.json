@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T19:25:41Z",
+ "generated_at": "2026-11-19T19:31:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "23efd80cd8f4",
+   "ts": "2026-11-19T19:26:28Z",
+   "headline": "Fed's Barr says AI may raise the risk of faster bank runs",
+   "detail": "Federal Reserve Governor Michael Barr said AI could widen access to financial services but must comply with financial sector rules, and may increase the risk of faster bank runs.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f067d3772bc33502",
+    "46e7c7b1b2c1f8e6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oshekhwr2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oshekhwr2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2osoj3crs26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2osoj3crs26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e1327b03b743",
+   "created_at": "2026-11-19T19:31:06Z"
+  },
+  {
+   "id": "e78f494dadf5",
+   "ts": "2026-11-19T19:26:03Z",
+   "headline": "BoE's Greene says second-round inflation effects are likely and the Bank must shore up its inflation credibility",
+   "detail": "Bank of England MPC member Megan Greene said second-round effects on inflation will probably occur and that the Bank needs to strengthen its credibility on inflation. The remarks add to her earlier comments today on the labour market and policy restrictiveness.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "e1e4ea1081617721",
+    "82be52951bb57cf2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2osgnkrni2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2osgnkrni2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2osmey7fl2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2osmey7fl2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e1327b03b743",
+   "created_at": "2026-11-19T19:31:06Z"
+  },
   {
    "id": "246e480bf92e",
    "ts": "2026-11-19T19:21:45Z",
@@ -6110,78 +6164,6 @@
    "model": "opus",
    "run_id": "ad8df0e6b5eb",
    "created_at": "2026-11-18T12:50:55Z"
-  },
-  {
-   "id": "a1d89e54b563",
-   "ts": "2026-11-18T12:43:58Z",
-   "headline": "ECB to discuss raising banks' minimum reserve requirement from 1% to 2% on 25 November, sources say",
-   "detail": "Sources familiar with the discussion say the ECB will consider the increase on 25 November, but the decision could be put off until December.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "512f64b4df94d9dd",
-    "296e9b19080da001"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lliqfblr2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lliqfblr2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lliqokbo24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lliqokbo24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d2b1543fa9c1",
-   "created_at": "2026-11-18T12:45:50Z"
-  },
-  {
-   "id": "ac71ccbdf11c",
-   "ts": "2026-11-18T12:42:46Z",
-   "headline": "Fed's Waller says the Fed should hike 50bp now unless it signals a tougher path in its statement or press conference",
-   "detail": "Waller also said the Fed may need to go beyond reversing last year's cuts to bring inflation down and must break the idea that 3% inflation is normal. He added that the December SEP will be of limited use because it is a year-end figure.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "c63fd02d077cc538",
-    "af8f65d278052a00",
-    "6e30901aa0fbe94b",
-    "77ddf80eb8208de9",
-    "4842df758fc97b39"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lldrh4js2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lldrh4js2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2llglcdlr2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2llglcdlr2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lliqz2li2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lliqz2li2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2llkwfdgj26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2llkwfdgj26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2llei6ovj2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2llei6ovj2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d2b1543fa9c1",
-   "created_at": "2026-11-18T12:45:50Z"
   }
  ]
 }
