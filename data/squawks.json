@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T18:50:45Z",
+ "generated_at": "2026-11-19T19:01:10Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "95d39ad4282d",
+   "ts": "2026-11-19T18:58:03Z",
+   "headline": "Ukraine's Zelensky says Kyiv needs 70bn more in financing and hopes the war ends before 2028",
+   "detail": "Ukraine's President Zelensky said Kyiv needs a further 70bn in financing and dozens of F-16 jets, and that no date or venue has been set for the next round of talks. He said he hopes the war will end before 2028.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0d94c2304151c323",
+    "814a60b33128c446",
+    "b52db43295dd50ee",
+    "813bc7432129d3b5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oqul5ijk2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oqul5ijk2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oqwozz6d2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oqwozz6d2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oqtuhkgd2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oqtuhkgd2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oqrrcoq32v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oqrrcoq32v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f490e97f6537",
+   "created_at": "2026-11-19T19:01:10Z"
+  },
   {
    "id": "30455b3d71c8",
    "ts": "2026-11-19T18:46:16Z",
@@ -6149,27 +6188,6 @@
    "model": "opus",
    "run_id": "38f8122f4180",
    "created_at": "2026-11-18T12:10:49Z"
-  },
-  {
-   "id": "6fc00b259c2d",
-   "ts": "2026-11-18T12:02:10Z",
-   "headline": "UK plans to resist EU request to match its tariffs on Chinese goods, FT reports",
-   "detail": "The Financial Times reports the position is in a draft communiqué ahead of the UK-EU summit, and that it reduces the chance of Britain gaining access to subsidies and contracts under 'made in Europe' rules.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b3c67bf35341501e"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2lj5ycq7o2p",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n2lj5ycq7o2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2e2c18a2aaa6",
-   "created_at": "2026-11-18T12:05:43Z"
   }
  ]
 }
