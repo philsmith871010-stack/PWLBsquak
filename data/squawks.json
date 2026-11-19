@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T09:05:43Z",
+ "generated_at": "2026-11-19T09:10:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7896d69e0127",
+   "ts": "2026-11-19T09:09:46Z",
+   "headline": "Xi proposes a China-US-Russia crisis prevention mechanism and says the three countries should be partners",
+   "detail": "At the three-way meeting with Putin and Trump, Chinese President Xi said the three countries should set up a crisis prevention mechanism and that major powers should respect each other and coexist peacefully, Xinhua reported. He also called for non-interference in other countries' internal affairs.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b09b99eed3cc7dbb",
+    "9f36d789f5110e6b",
+    "bb4fdc24c2765f9a",
+    "f1b5ed870c392c02",
+    "970e6346e265ba65"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2npyn3j4l2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2npyn3j4l2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2npvs6tes2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2npvs6tes2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2npxvct6d24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2npxvct6d24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2npymcfew26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2npymcfew26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2npym2ywr2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2npym2ywr2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7fe04113f70c",
+   "created_at": "2026-11-19T09:10:51Z"
+  },
   {
    "id": "55354ca09202",
    "ts": "2026-11-19T09:04:17Z",
@@ -6071,27 +6116,6 @@
    "model": "opus",
    "run_id": "b9a789e338f3",
    "created_at": "2026-11-17T14:55:43Z"
-  },
-  {
-   "id": "17185e1fa4d6",
-   "ts": "2026-11-17T14:48:36Z",
-   "headline": "France rejects Russia's claim that French troops are taking part in the Ukraine war, calling it absurd",
-   "detail": "France dismissed the Russian claim that French forces are involved in the war in Ukraine. Earlier, Russian Foreign Minister Lavrov said Moscow would treat French troops deployed in Ukraine as direct participation in the war.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ab2a64c85369a6cf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jbyoht7y2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jbyoht7y2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "28f9704d8ee0",
-   "created_at": "2026-11-17T14:50:49Z"
   }
  ]
 }
