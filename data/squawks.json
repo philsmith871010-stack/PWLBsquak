@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T10:25:43Z",
+ "generated_at": "2026-11-19T10:31:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c1ad7596c685",
+   "ts": "2026-11-19T10:26:26Z",
+   "headline": "ECB's Nagel says the ECB may have to adjust rates further after its two hikes",
+   "detail": "ECB Governing Council member Joachim Nagel said further rate adjustments may be needed after the ECB's two increases, according to a market news post. He spoke on the same day as his earlier remarks that a hike would send a clear signal.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "06e2c1ae2cf235a6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nubqcfti2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nubqcfti2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "903c4ad56e9a",
+   "created_at": "2026-11-19T10:31:00Z"
+  },
   {
    "id": "7f4c4e35a917",
    "ts": "2026-11-19T10:24:51Z",
@@ -6119,39 +6140,6 @@
    "model": "opus",
    "run_id": "f3e976654e78",
    "created_at": "2026-11-17T15:55:42Z"
-  },
-  {
-   "id": "9334118440b7",
-   "ts": "2026-11-17T15:24:34Z",
-   "headline": "Fed's Hammack says inflation is moving the wrong way and housing is the only sector where she sees rates restricting activity",
-   "detail": "Cleveland Fed President Hammack said yields are being pushed up by expectations for growth and for the Fed, and that inflation is heading in the wrong direction. She also said housing is the one part of the economy where she sees rates holding activity back.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "3d000606680fadba",
-    "56f535e11c3cf0a1",
-    "d2b635a6a37d73e9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jdyxvkky2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jdyxvkky2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jdyya5s52p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jdyya5s52p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2je35zb2h2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2je35zb2h2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5bbc6f7b0824",
-   "created_at": "2026-11-17T15:25:51Z"
   }
  ]
 }
