@@ -1,8 +1,104 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T17:55:42Z",
+ "generated_at": "2026-11-19T18:01:07Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "922142884b93",
+   "ts": "2026-11-19T18:00:17Z",
+   "headline": "US gas exporters grow more willing to sign long-term European deals after EU delays methane law",
+   "detail": "A senior US gas industry official told Reuters that exporters are more comfortable signing long-term contracts with European buyers. This follows EU lawmakers agreeing to delay a new methane emissions law further.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "4f1d989abcade9d9"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2onnbkkkq25",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2onnbkkkq25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5ad3cfc95fbe",
+   "created_at": "2026-11-19T18:01:07Z"
+  },
+  {
+   "id": "0ba33f3f03ee",
+   "ts": "2026-11-19T17:59:55Z",
+   "headline": "Trump discusses the possibility of an attack on Iran, Israel's Channel 12 reports",
+   "detail": "Israel's Channel 12 reported that US President Trump discussed a possible attack on Iran. The report follows earlier news that the White House had asked the Pentagon to assess scenarios on Iran.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b27a838e7fbb3355"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onmmfar72t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onmmfar72t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5ad3cfc95fbe",
+   "created_at": "2026-11-19T18:01:07Z"
+  },
+  {
+   "id": "1e201d3f49fb",
+   "ts": "2026-11-19T17:56:22Z",
+   "headline": "Fed's Goolsbee says the Fed's job now is to stop the AI surge overheating the US economy",
+   "detail": "Chicago Fed President Goolsbee said greater hype around AI companies pulls more demand and investment into the present. He added that the Fed has fallen short on inflation but he does not see stagflation now.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ab02ebe0fa8facd2",
+    "28674ca9e4ea167e",
+    "edd73865a8ccfd59"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ongaxfib2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ongaxfib2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ongbcn662v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ongbcn662v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onjslo5t2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onjslo5t2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5ad3cfc95fbe",
+   "created_at": "2026-11-19T18:01:07Z"
+  },
+  {
+   "id": "e025e488d909",
+   "ts": "2026-11-19T17:55:57Z",
+   "headline": "ECB's Panetta says inflation must be stopped from becoming entrenched",
+   "detail": "ECB Governing Council member Fabio Panetta said policy must prevent inflation from taking root. He gave no further detail in the reported remarks.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1bfb3f056333e008"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onfjm3bh2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onfjm3bh2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5ad3cfc95fbe",
+   "created_at": "2026-11-19T18:01:07Z"
+  },
   {
    "id": "94c03288bfad",
    "ts": "2026-11-19T17:52:01Z",
@@ -6092,108 +6188,6 @@
    "model": "opus",
    "run_id": "10c4d204afef",
    "created_at": "2026-11-18T10:05:45Z"
-  },
-  {
-   "id": "449cab507683",
-   "ts": "2026-11-18T10:00:56Z",
-   "headline": "Eurozone final October CPI confirmed at 4.0% y/y; core revised up to 2.6%, above 2.5% forecast",
-   "detail": "The final eurozone October reading puts headline inflation at 4.0% y/y, matching the estimate, and 0.5% m/m against a 0.4% forecast. Core inflation is 2.6% y/y, compared with a 2.5% forecast and 2.5% previously.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "fac3ab57505efc7c",
-    "89023478bbd34db1",
-    "633eb1391607c97c",
-    "8f77433aa5163aee"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lcf7omkd2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lcf7omkd2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lcf6ks2t2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lcf6ks2t2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lcf7dhmh2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lcf7dhmh2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lcf6zlsh24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lcf6zlsh24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "334fa04f1861",
-   "created_at": "2026-11-18T10:01:21Z"
-  },
-  {
-   "id": "cea4d1438a7a",
-   "ts": "2026-11-18T10:00:14Z",
-   "headline": "Most Gulf stock markets fall as US-Iran hostilities escalate",
-   "detail": "Reuters reports that most Gulf bourses fell in early trade on Wednesday. Gulf states had intercepted Iranian and Houthi missiles and drones after a US strike on Qeshm Island.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "762e5cf167ce6239"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2lcdxdchp25",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2lcdxdchp25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "334fa04f1861",
-   "created_at": "2026-11-18T10:01:21Z"
-  },
-  {
-   "id": "d2b24aa9b7b7",
-   "ts": "2026-11-18T08:42:21Z",
-   "headline": "Cornwall Insight forecasts the UK energy price cap will rise 26% in January to £2,166 a year",
-   "detail": "The energy consultancy estimates that the January cap will add £443 to annualised household bills, taking them to £2,166, according to City AM.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "bf3dfeaf6f27a4c3"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3n2lcc2co2mc2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3n2lcc2co2mc2"
-    }
-   ],
-   "model": "opus",
-   "run_id": "334fa04f1861",
-   "created_at": "2026-11-18T10:01:21Z"
-  },
-  {
-   "id": "5e69aaf87e6c",
-   "ts": "2026-11-18T09:47:40Z",
-   "headline": "German cabinet approves nominating Brunnermeier as ECB chief economist",
-   "detail": "Reuters reports that the German cabinet has approved putting Markus Brunnermeier forward as the European Central Bank's chief economist.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "005ddac042cd5ead"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lbnirhpx2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lbnirhpx2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c535caa9c4a2",
-   "created_at": "2026-11-18T09:50:58Z"
   }
  ]
 }
