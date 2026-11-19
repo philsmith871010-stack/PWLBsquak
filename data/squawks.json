@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T12:40:47Z",
+ "generated_at": "2026-11-19T12:45:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f0e6fd13755b",
+   "ts": "2026-11-19T12:41:35Z",
+   "headline": "Putin says Russia is not preparing for war with Europe in 2030 and that such plans keep being talked about in the EU",
+   "detail": "Russian President Putin said Russia has no plans for a war with Europe in 2030, and that it repeatedly hears the EU talking about such plans. He made the remarks as he continued to comment on Ukraine settlement talks and European security.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "bbac636bbb8cbbde"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o3tfetqm2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o3tfetqm2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6c0bdf2e3f3b",
+   "created_at": "2026-11-19T12:45:49Z"
+  },
   {
    "id": "10ff07ee3bb8",
    "ts": "2026-11-19T12:36:06Z",
@@ -6251,51 +6272,6 @@
    "model": "opus",
    "run_id": "8fe2fc5e4f44",
    "created_at": "2026-11-17T19:35:53Z"
-  },
-  {
-   "id": "8cbf3615729e",
-   "ts": "2026-11-17T19:27:36Z",
-   "headline": "Fed's Williams says inflation is stubbornly high but the situation does not call for dramatic policy action",
-   "detail": "New York Fed President Williams said shocks from tariffs and energy are still feeding into inflation readings, with signs of spillover into broader inflation data. He described the economy as resilient and the labour market as solid.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "8d572b34ada9660a",
-    "7e51df1922a6c98b",
-    "28efa2c0a5a0db7e",
-    "ea1e7d68d1083dac",
-    "528732f6f220890d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jrjgsydy2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jrjgsydy2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jrk5lgzz2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jrk5lgzz2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jrkud26z2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jrkud26z2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jrkuquxp2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jrkuquxp2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jrlle7t42j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jrlle7t42j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f41c4df5fc36",
-   "created_at": "2026-11-17T19:31:08Z"
   }
  ]
 }
