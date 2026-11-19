@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T17:40:51Z",
+ "generated_at": "2026-11-19T17:45:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "54f4cf67c4ed",
+   "ts": "2026-11-19T17:44:57Z",
+   "headline": "Fed's Goolsbee says US consumer demand has been very strong and solid",
+   "detail": "Chicago Fed President Austan Goolsbee made the remark in the same comments in which he said the job market is stable and inflation is well above the 2% target.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "582794ae3a5eeba3",
+    "a9857740442d4a6a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2omrtqvwd2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2omrtqvwd2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2omrtfan22w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2omrtfan22w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f8df9490cb78",
+   "created_at": "2026-11-19T17:45:49Z"
+  },
+  {
+   "id": "b48124d2f044",
+   "ts": "2026-11-19T17:43:44Z",
+   "headline": "Polish PM Tusk says Poland will not send troops to Ukraine after hostilities end under the coalition of the willing plan",
+   "detail": "Russian media reported the remarks. Tusk was commenting on NATO exercises currently taking place in Poland.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b61144378c9ee989"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ompohcja2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ompohcja2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f8df9490cb78",
+   "created_at": "2026-11-19T17:45:49Z"
+  },
   {
    "id": "127ecd9b9793",
    "ts": "2026-11-19T17:40:33Z",
@@ -6128,84 +6176,6 @@
    "model": "opus",
    "run_id": "a0db3d8861ba",
    "created_at": "2026-11-18T09:40:49Z"
-  },
-  {
-   "id": "08c4fc1b5265",
-   "ts": "2026-11-18T09:32:53Z",
-   "headline": "ONS: UK house prices rise 1.2% y/y to £273,000 in September; private rents up 3.8% y/y to £1,411 in October",
-   "detail": "The ONS reports that average UK house prices rose 1.2% to £273,000 in the 12 months to September 2026. It also reports that average monthly private rents rose 3.8% to £1,411 in the 12 months to October 2026.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "5d0ae5ae28b65a21",
-    "1fa6584d89b34eb3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lat22zqi2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lat22zqi2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2latqpkcq2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2latqpkcq2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f45edee7f381",
-   "created_at": "2026-11-18T09:35:44Z"
-  },
-  {
-   "id": "71ff99259cb1",
-   "ts": "2026-11-18T09:30:30Z",
-   "headline": "ECB's Vujcic says hedge fund activity partly drove this year's rapid spread widening, though the effect was short-lived",
-   "detail": "ECB policymaker Vujcic said hedge fund positions and their unwinding can move markets very rapidly, and that a sharp market correction could cut consumption in Europe and the US through the wealth effect. He also said the ECB had discussed opening its balance sheet to funds and decided against it, though the idea may return.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a4d29923b7305379",
-    "64dfb108f3288ebe",
-    "968043dbe2c80f6b",
-    "0156e0e15f968fa9",
-    "5890c691a427ed52",
-    "c48c5fa54091ce35"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2laorf4jw2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2laorf4jw2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2laoscwka2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2laoscwka2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lapjaclu2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lapjaclu2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lapjlkns2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lapjlkns2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lapkqpci26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lapkqpci26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lactgy7a26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lactgy7a26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f45edee7f381",
-   "created_at": "2026-11-18T09:35:44Z"
   }
  ]
 }
