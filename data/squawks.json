@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T20:35:44Z",
+ "generated_at": "2026-11-19T20:40:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b879cac4eda4",
+   "ts": "2026-11-19T20:36:11Z",
+   "headline": "Iran's foreign ministry says US claims about Iranian chemical and biological weapons are meant to justify military action",
+   "detail": "A spokesman for Iran's foreign ministry said on X that US accusations of chemical and biological weapons development aim to spread fear and build a case for military action against Tehran.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b4d04b301f8d9f77"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2owe27ido26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2owe27ido26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "be6d7c3dafd7",
+   "created_at": "2026-11-19T20:40:51Z"
+  },
   {
    "id": "8119478d7d65",
    "ts": "2026-11-19T20:31:50Z",
@@ -6263,27 +6284,6 @@
    "model": "opus",
    "run_id": "8dcea0e0a6f9",
    "created_at": "2026-11-18T14:05:52Z"
-  },
-  {
-   "id": "8f37d50967c4",
-   "ts": "2026-11-18T12:00:00Z",
-   "headline": "IEA chief Birol says energy markets have no realistic route back to where they stood before the Iran war",
-   "detail": "International Energy Agency executive director Fatih Birol said flows through the Strait of Hormuz could be blocked again, according to City AM.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "1623146bd00896f9"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3n2lppymyaf22",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3n2lppymyaf22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "76d709f1f0a4",
-   "created_at": "2026-11-18T14:01:14Z"
   }
  ]
 }
