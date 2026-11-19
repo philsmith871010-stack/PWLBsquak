@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T13:50:43Z",
+ "generated_at": "2026-11-19T14:15:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f4b216a5618c",
+   "ts": "2026-11-19T14:14:22Z",
+   "headline": "NAO overview of HMRC puts tax revenue at £966.4bn and the tax gap at £59.2bn",
+   "detail": "The National Audit Office has published its latest overview of HMRC, covering £966.4bn of tax revenue, a £59.2bn tax gap and plans for £886m of efficiency savings. The report also looks at HMRC's work to modernise its technology and customer services.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "c302fafc2cd33143"
+   ],
+   "sources": [
+    {
+     "author": "nao.org.uk",
+     "uri": "at://did:plc:zl6coddye75giblpxli7r7zr/app.bsky.feed.post/3n2oazckwea2x",
+     "url": "https://bsky.app/profile/nao.org.uk/post/3n2oazckwea2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4404ed657480",
+   "created_at": "2026-11-19T14:15:47Z"
+  },
   {
    "id": "8e53e3062a10",
    "ts": "2026-11-19T13:49:11Z",
@@ -6276,27 +6297,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfst6vwd2t",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfst6vwd2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b6c80e22c327",
-   "created_at": "2026-11-18T06:01:18Z"
-  },
-  {
-   "id": "016029da753e",
-   "ts": "2026-11-18T01:22:23Z",
-   "headline": "EU lawmakers agree measures to speed up approvals for renewables, power grids and energy storage",
-   "detail": "European lawmakers agreed to shorten approval timelines for renewable energy projects, electricity grids and energy storage facilities.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "44e5932a448265b6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kffxnuin2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kffxnuin2f"
     }
    ],
    "model": "opus",
