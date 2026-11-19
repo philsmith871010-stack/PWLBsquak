@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T13:20:51Z",
+ "generated_at": "2026-11-19T13:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9e0a0effc72d",
+   "ts": "2026-11-19T13:30:39Z",
+   "headline": "US continuing jobless claims rise to 1.763M, above the 1.7025M forecast",
+   "detail": "US continuing jobless claims came in at 1.763M, compared with a forecast of 1.7025M and 1.697M in the previous reading.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2e9859d1387d94e2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o6l5ijms2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o6l5ijms2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "20eaf3aeced5",
+   "created_at": "2026-11-19T13:31:03Z"
+  },
   {
    "id": "df3d403e85cb",
    "ts": "2026-11-19T13:20:43Z",
@@ -6269,27 +6290,6 @@
    "model": "opus",
    "run_id": "550d825198e9",
    "created_at": "2026-11-17T20:55:42Z"
-  },
-  {
-   "id": "a4db1cc03c69",
-   "ts": "2026-11-17T20:30:01Z",
-   "headline": "Milburn youth unemployment review proposes tax cuts for businesses that hire young people",
-   "detail": "The Guardian reports that Alan Milburn's review of youth unemployment recommends tax cuts for employers taking on young people. It says the review may clash with unions and the Labour left over workers' rights and the minimum wage.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "cb440255ebf29965"
-   ],
-   "sources": [
-    {
-     "author": "rjpartington.bsky.social",
-     "uri": "at://did:plc:7gxgy7wfvg4tdsspy32rcvvw/app.bsky.feed.post/3n2jv363rrc2q",
-     "url": "https://bsky.app/profile/rjpartington.bsky.social/post/3n2jv363rrc2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "781ff904ea63",
-   "created_at": "2026-11-17T20:31:04Z"
   }
  ]
 }
