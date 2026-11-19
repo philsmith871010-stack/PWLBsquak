@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T10:50:47Z",
+ "generated_at": "2026-11-19T10:55:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4eaaf6a397c6",
+   "ts": "2026-11-19T10:51:54Z",
+   "headline": "China, US and Russia issue joint peace declaration that includes a plan to raise refined fuel production and supply",
+   "detail": "Chinese state media report that the joint statement from the three leaders sets out plans to increase both production and supply of refined petroleum products. The statement also restates that a nuclear war cannot be won and must never be fought.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1c61a799208988ac",
+    "ee59bfb13a38e40f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nvpbmdwj2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nvpbmdwj2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nvs2xedq2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nvs2xedq2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "570261b1cc63",
+   "created_at": "2026-11-19T10:55:41Z"
+  },
   {
    "id": "f63402b2f4af",
    "ts": "2026-11-19T10:50:44Z",
@@ -6108,33 +6135,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jgbxcqss2t",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jgbxcqss2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4c35e780183d",
-   "created_at": "2026-11-17T16:06:04Z"
-  },
-  {
-   "id": "b531cb357086",
-   "ts": "2026-11-17T16:03:00Z",
-   "headline": "Iran's foreign minister calls for continued regional consultations after talks with Qatari delegation in Muscat",
-   "detail": "Iranian state news agency reports Foreign Minister Araghchi met a Qatari delegation in Oman's capital and stressed the need for ongoing consultations among countries in the region. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1f00a43b95151bed",
-    "c37ac761ead1b127"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jg5pvsjc2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jg5pvsjc2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jg4ytwai2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jg4ytwai2f"
     }
    ],
    "model": "opus",
