@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T16:05:41Z",
+ "generated_at": "2026-11-19T16:25:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "754f72fbb465",
+   "ts": "2026-11-19T16:24:08Z",
+   "headline": "Polish PM Tusk says Russia is unlikely to be ready for peace talks before the end of winter",
+   "detail": "Polish Prime Minister Donald Tusk said Russia is unlikely to be ready for Ukraine peace talks before winter ends. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f77fd636d6cf30c3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oibdkotv2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oibdkotv2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "31e720000792",
+   "created_at": "2026-11-19T16:25:45Z"
+  },
   {
    "id": "bdad1f73d58f",
    "ts": "2026-11-19T16:02:54Z",
@@ -6077,27 +6098,6 @@
    "model": "opus",
    "run_id": "2a36a1c7e720",
    "created_at": "2026-11-18T07:40:58Z"
-  },
-  {
-   "id": "b4ec2f9bff5a",
-   "ts": "2026-11-18T07:09:23Z",
-   "headline": "Traders scale back BoE rate hike bets and now price 91bp of tightening by end-2027",
-   "detail": "Money markets have reduced expectations for Bank of England rate rises and now price 91bp of tightening by the end of 2027, according to a market report.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "f337713100aed183"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kysh7ch32b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kysh7ch32b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1f6843aedb63",
-   "created_at": "2026-11-18T07:10:49Z"
   }
  ]
 }
