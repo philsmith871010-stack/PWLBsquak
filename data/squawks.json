@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T18:31:00Z",
+ "generated_at": "2026-11-19T18:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "30211e049167",
+   "ts": "2026-11-19T18:37:56Z",
+   "headline": "UK, German, French and Ukrainian leaders pledge extra missile defence for Ukraine before winter and binding security guarantees",
+   "detail": "In a joint statement, the leaders of Germany, France, the UK and Ukraine say Russia cannot outlast the coalition's support. They pledge extra efforts to supply Ukraine with more missile defence before winter, and say robust, legally binding security guarantees must be in place once a ceasefire takes effect.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "06221e22726991ee",
+    "504dd61fef6d7ae9",
+    "7909c0d32e7adf75"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2opqm3vh32j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2opqm3vh32j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oprzsjmp2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oprzsjmp2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oputxxp32b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oputxxp32b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cca419d8c44e",
+   "created_at": "2026-11-19T18:40:50Z"
+  },
   {
    "id": "2323960083bd",
    "ts": "2026-11-19T18:30:27Z",
@@ -6132,27 +6165,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lj3v5lor2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lj3v5lor2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "18014ef9b597",
-   "created_at": "2026-11-18T12:01:12Z"
-  },
-  {
-   "id": "b34cc646b0ca",
-   "ts": "2026-11-18T10:21:52Z",
-   "headline": "Central London house prices fall 7.2% y/y in the year to September, the biggest annual drop since August 2009",
-   "detail": "City AM reports that average house prices in central London fell 7.2% in the year to September. The report links the fall to interest rates and higher taxes.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "68d223acb901ba60"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3n2liyo5o4kz2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3n2liyo5o4kz2"
     }
    ],
    "model": "opus",
