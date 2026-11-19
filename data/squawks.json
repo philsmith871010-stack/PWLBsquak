@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T12:50:50Z",
+ "generated_at": "2026-11-19T12:55:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "eb279fb1c0fd",
+   "ts": "2026-11-19T12:54:59Z",
+   "headline": "Putin says the EU is turning into a military-political bloc and calls this a challenge for Russia",
+   "detail": "In further remarks, President Putin also said Russia has opened a route to Crimea through Novorossiya and will strengthen its presence there after the attacks on the Crimean Bridge. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "85cb9b1e2148b62c",
+    "b69b2ea7b5b1db1a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o4ldysej2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o4ldysej2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o4ldjnk42t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o4ldjnk42t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a639b9b14a91",
+   "created_at": "2026-11-19T12:55:42Z"
+  },
   {
    "id": "1c0a1e3621ab",
    "ts": "2026-11-19T12:49:02Z",
@@ -6227,39 +6254,6 @@
    "model": "opus",
    "run_id": "5566e6213b53",
    "created_at": "2026-11-17T19:45:49Z"
-  },
-  {
-   "id": "d1d5f24ea9a8",
-   "ts": "2026-11-17T19:41:01Z",
-   "headline": "Fed's Williams says demand is clearly outpacing supply and financial markets are working very well",
-   "detail": "New York Fed President Williams also said he does not yet see a financial stability risk from AI. The remarks came in further comments on 17 November.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "5b237caad6768751",
-    "c812791242223b08",
-    "f71df88b77bc6738"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jsdkfhar2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jsdkfhar2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2js2gkuox2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2js2gkuox2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2js3tyyqn2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2js3tyyqn2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7d7c8ed51481",
-   "created_at": "2026-11-17T19:41:06Z"
   }
  ]
 }
