@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T16:01:10Z",
+ "generated_at": "2026-11-19T16:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bdad1f73d58f",
+   "ts": "2026-11-19T16:02:54Z",
+   "headline": "Trump says he discussed more Chinese purchases of US farm goods with Xi but is non-committal on soybeans",
+   "detail": "NBC reports that President Trump said he spoke to China's President Xi about buying more US agricultural products. He did not say clearly whether Xi had agreed to buy more soybeans.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b88befe71dd6d1ca",
+    "fdb774c5c246e0c8",
+    "3704de9458b5012b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oh3ev3g724",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oh3ev3g724"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oh3fqlch24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oh3fqlch24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oh3faosi2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oh3faosi2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2cdaa3d84005",
+   "created_at": "2026-11-19T16:05:41Z"
+  },
+  {
+   "id": "8d9f0891bc50",
+   "ts": "2026-11-19T16:01:21Z",
+   "headline": "US Kansas City Fed manufacturing index rises to 23 in November from 16",
+   "detail": "The Kansas City Fed's manufacturing index came in at 23, up from 16 the previous month. No forecast was given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "fd9924f7b6769181"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ogylsxpe2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ogylsxpe2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2cdaa3d84005",
+   "created_at": "2026-11-19T16:05:41Z"
+  },
   {
    "id": "67b66daee53d",
    "ts": "2026-11-19T15:59:46Z",
@@ -6044,84 +6098,6 @@
    "model": "opus",
    "run_id": "1f6843aedb63",
    "created_at": "2026-11-18T07:10:49Z"
-  },
-  {
-   "id": "8a44af1d1580",
-   "ts": "2026-11-18T07:03:31Z",
-   "headline": "UK RPI rises to 4.2% y/y in October, above 4.1% forecast; up 0.6% m/m",
-   "detail": "Retail price inflation rose to 4.2% y/y from 3.9% previously, against a 4.1% forecast, and was up 0.6% m/m against a 0.5% estimate. RPI excluding mortgage interest payments rose to 4.1% y/y from 3.9%, and the index stood at 424.5.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "bc26184ba4e20749",
-    "6ae0ab30cbd3bd81"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kyhxx2rw2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kyhxx2rw2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kyhbe4uu2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kyhbe4uu2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fc2b48f03da9",
-   "created_at": "2026-11-18T07:05:41Z"
-  },
-  {
-   "id": "45ed90f4a9a3",
-   "ts": "2026-11-18T07:01:30Z",
-   "headline": "UK CPI rises to 3.6% y/y in October as forecast; services inflation holds at 3.7%, below 3.8% forecast",
-   "detail": "October figures show headline CPI at 3.6% y/y against 3.5% previously, services CPI at 3.7% against a 3.8% forecast, CPIH at 3.7% against 3.6% previously, and core CPI up 0.3% m/m against 0.2% previously. The Guardian reports that higher energy prices were behind the rise, with the Iran war pushing up the cost of oil.",
-   "category": "data",
-   "importance": 3,
-   "source_event_ids": [
-    "b596565f1231a5d8",
-    "94a050c5e4ef6da2",
-    "a68b126995c375b4",
-    "37b6464703598a22",
-    "6ae0ab30cbd3bd81",
-    "e0acff1829a29c7d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kyeek25q26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kyeek25q26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kyefa5zw2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kyefa5zw2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kyeeufqb2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kyeeufqb2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kyhax3yw2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kyhax3yw2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kyhbe4uu2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kyhbe4uu2w"
-    },
-    {
-     "author": "rjpartington.bsky.social",
-     "uri": "at://did:plc:7gxgy7wfvg4tdsspy32rcvvw/app.bsky.feed.post/3n2kyhcog4s2n",
-     "url": "https://bsky.app/profile/rjpartington.bsky.social/post/3n2kyhcog4s2n"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fc2b48f03da9",
-   "created_at": "2026-11-18T07:05:41Z"
   }
  ]
 }
