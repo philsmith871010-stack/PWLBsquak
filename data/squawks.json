@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T14:41:01Z",
+ "generated_at": "2026-11-19T14:45:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "21420f03a668",
+   "ts": "2026-11-19T14:44:15Z",
+   "headline": "Mexico's President Sheinbaum says she hopes to reach a trade deal with the US at the December G20 summit in Miami",
+   "detail": "Mexico's president said she hopes to agree a trade deal with the US at the G20 summit in Miami in December. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "771ee0036e1fc3f0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ocoq67db2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ocoq67db2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c20fcbdb595e",
+   "created_at": "2026-11-19T14:45:54Z"
+  },
   {
    "id": "3f54846c8a9a",
    "ts": "2026-11-19T14:36:23Z",
@@ -6222,27 +6243,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kg6yzhvj2s",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kg6yzhvj2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ff2f8b704827",
-   "created_at": "2026-11-18T06:05:39Z"
-  },
-  {
-   "id": "57f149dd5d51",
-   "ts": "2026-11-18T01:32:48Z",
-   "headline": "PBOC sets the yuan midpoint at its strongest level since July 2022",
-   "detail": "The People's Bank of China's latest daily fixing put the yuan midpoint at its strongest level since July 2022.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "bf2abb52beb56cbc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfylznvb2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfylznvb2b"
     }
    ],
    "model": "opus",
