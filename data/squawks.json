@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T12:01:09Z",
+ "generated_at": "2026-11-19T12:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0603a1812eb5",
+   "ts": "2026-11-19T12:04:48Z",
+   "headline": "Putin expects Russia-US moves to restore relations to continue and says a partly implemented deal beats having no deal",
+   "detail": "Russian President Putin said he expects the momentum towards restoring Russia-US relations to continue and that some decisions will also be taken in other formats. He also said an agreement that is not fully implemented is better than none, and that Russia's demands on European security are legitimate even though they have not been clearly set out.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "143f8171faabcf29",
+    "626be70ef7cfc9be",
+    "81d28ce2b11bce39",
+    "7e5e366d3b2a22c8",
+    "a0a250c298bc5712"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzrmycdj2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzrmycdj2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzlammyk26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzlammyk26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzo3ctjq2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzo3ctjq2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzpjsbkj2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzpjsbkj2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzt2tkyw2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzt2tkyw2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f39b72094607",
+   "created_at": "2026-11-19T12:05:42Z"
+  },
   {
    "id": "ad9e7e8aff5d",
    "ts": "2026-11-19T11:56:03Z",
@@ -6167,27 +6212,6 @@
    "model": "opus",
    "run_id": "a595a4056ecd",
    "created_at": "2026-11-17T17:40:48Z"
-  },
-  {
-   "id": "0d5ff92686da",
-   "ts": "2026-11-17T16:49:46Z",
-   "headline": "Fed Governor Cook refuses to attend the hearing convened by Trump, citing the Fed's independence",
-   "detail": "The Financial Times reports that Fed Governor Lisa Cook will not attend the hearing called by President Trump. She said taking part in proceedings she considers unfair would put at risk the central bank's unique status and independence.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "068f1ded55865a4e"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2jirdf3pg2i",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n2jirdf3pg2i"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d33f2484cc2d",
-   "created_at": "2026-11-17T16:50:56Z"
   }
  ]
 }
