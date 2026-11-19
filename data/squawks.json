@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T13:35:44Z",
+ "generated_at": "2026-11-19T13:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "af7c5148adba",
+   "ts": "2026-11-19T13:36:10Z",
+   "headline": "US Treasury yields trim gains after data; 10-year up 1.85bp at 5.085%, 2-year up 3.21bp at 4.832%",
+   "detail": "US Treasury yields gave back part of their earlier rise after the release of US economic data. The 10-year yield was 1.85bp higher at 5.085% and the 2-year was up 3.21bp at 4.832%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "689970c2944cf64c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o6uyxuir2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o6uyxuir2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "85e8b14df937",
+   "created_at": "2026-11-19T13:40:50Z"
+  },
   {
    "id": "40a4c47859e0",
    "ts": "2026-11-19T13:31:05Z",
@@ -6281,33 +6302,6 @@
    "model": "opus",
    "run_id": "825703a26617",
    "created_at": "2026-11-17T22:15:51Z"
-  },
-  {
-   "id": "f316b0dcdec7",
-   "ts": "2026-11-17T21:54:06Z",
-   "headline": "Iranian media report air raid sirens at US bases in Kuwait and several explosions heard in the country",
-   "detail": "Fars News reported air raid sirens at US bases in Kuwait, and IRIB News, citing Arabic media, reported several explosions. The reports follow the US strike on Iran's Qeshm Island earlier today and have not been confirmed.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "07c7c6f7fe5702e1",
-    "027885ec36b61b04"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jzmnl7sa2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jzmnl7sa2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jzrk5lka2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jzrk5lka2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e56a3fecbcd4",
-   "created_at": "2026-11-17T21:55:41Z"
   }
  ]
 }
