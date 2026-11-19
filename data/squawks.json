@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T06:40:47Z",
+ "generated_at": "2026-11-19T06:46:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2fe6ade93057",
+   "ts": "2026-11-19T06:45:15Z",
+   "headline": "US dollar reaches a 19-month high after Fed minutes point to more hikes; Australian dollar hits 10-month low on soft jobs data",
+   "detail": "Reuters reports the US dollar rose to a fresh 19-month peak on Thursday after Federal Reserve minutes and hawkish remarks from a Fed official signalled further rate rises. The Australian dollar fell to a 10-month low after weak Australian jobs data.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c6051ff9571adc27"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2nhw7xejt2s",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2nhw7xejt2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8d6f93980ba9",
+   "created_at": "2026-11-19T06:46:00Z"
+  },
   {
    "id": "ab506232eb87",
    "ts": "2026-11-19T06:37:20Z",
@@ -6018,27 +6039,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j4sfeqm32w",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j4sfeqm32w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b4c1c11ed4a2",
-   "created_at": "2026-11-17T13:15:57Z"
-  },
-  {
-   "id": "21938a14d303",
-   "ts": "2026-11-17T13:13:39Z",
-   "headline": "Destatis revises German October HICP up to 2.9% y/y from 2.8%",
-   "detail": "The German statistics office also revised October CPI to -0.1% m/m from -0.2%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c89229a4e116f68e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j4ovgp6a2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j4ovgp6a2b"
     }
    ],
    "model": "opus",
