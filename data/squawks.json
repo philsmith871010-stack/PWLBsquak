@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T13:01:08Z",
+ "generated_at": "2026-11-19T13:10:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "47b2e84817bc",
+   "ts": "2026-11-19T13:07:39Z",
+   "headline": "Kremlin's Peskov says the US broadly backs a mission to Konstantinovka but Kyiv has not responded",
+   "detail": "Kremlin spokesman Dmitry Peskov said the United States has generally supported the idea of a mission to Konstantinovka, while Kyiv has given no response, according to reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "08b824b6d2e9b5a9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o5bz7t7s2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o5bz7t7s2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7579fd8c20f4",
+   "created_at": "2026-11-19T13:10:46Z"
+  },
   {
    "id": "103ecdede64e",
    "ts": "2026-11-19T12:56:57Z",
@@ -6239,27 +6260,6 @@
    "model": "opus",
    "run_id": "5b2a4d9cf3bf",
    "created_at": "2026-11-17T19:55:49Z"
-  },
-  {
-   "id": "ea812dd41b15",
-   "ts": "2026-11-17T19:50:20Z",
-   "headline": "UK outlines its planned package of EU agreements ahead of Friday's UK-EU summit",
-   "detail": "Reuters reports that on Tuesday the UK government set out the broad shape of the agreements it hopes to reach at this week's summit. The package includes a youth experience programme, a food trade deal and closer cooperation on carbon emissions.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "890143282eba6e85"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2jsu7nqam2l",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2jsu7nqam2l"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fef54bf20a43",
-   "created_at": "2026-11-17T19:50:50Z"
   }
  ]
 }
