@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T09:40:46Z",
+ "generated_at": "2026-11-19T09:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9295e8a29224",
+   "ts": "2026-11-19T09:45:25Z",
+   "headline": "ECB's Moulin says there are no signs of second-round inflation effects so far",
+   "detail": "ECB policymaker Moulin said he does not yet see second-round effects in inflation. This follows his earlier remarks that eurozone inflation is still too high and that oil is pushing it up.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "542787b510a75253"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nryfcfdf2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nryfcfdf2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c9d8ce5d65cf",
+   "created_at": "2026-11-19T09:45:50Z"
+  },
   {
    "id": "a0cd24c56b0c",
    "ts": "2026-11-19T09:36:56Z",
@@ -6078,33 +6099,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jcok2d3l2m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jcok2d3l2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c29354153d02",
-   "created_at": "2026-11-17T15:01:14Z"
-  },
-  {
-   "id": "a73c827682e2",
-   "ts": "2026-11-17T14:56:31Z",
-   "headline": "Fed's Hammack says Fed and Treasury can coordinate on market stress and Fed is better placed to act in extreme dislocation",
-   "detail": "Cleveland Fed President Hammack said the Fed and Treasury can work together during market stress while the Fed keeps its independence on monetary policy. She also said the Fed is now better positioned to act when markets are severely dislocated.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "3297bcccbdcd0c56",
-    "6385c234af078694"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jcgtuqag2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jcgtuqag2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jcoisnh22v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jcoisnh22v"
     }
    ],
    "model": "opus",
