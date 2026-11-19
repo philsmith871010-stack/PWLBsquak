@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T06:46:00Z",
+ "generated_at": "2026-11-19T06:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7379576499f6",
+   "ts": "2026-11-19T06:48:45Z",
+   "headline": "Japan PM Takaichi says Tokyo's Taiwan policy is unchanged and in line with the 1972 agreement with Beijing",
+   "detail": "Japanese Prime Minister Takaichi said Japan's position on Taiwan is consistent with its previous stance and the 1972 agreement with Beijing. She also said Japan must strengthen its defence capability and will keep explaining its national security stance to other countries.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "29bcf7cbfbaefd0a",
+    "71331bda715f61f6",
+    "c83a586dd93ea016",
+    "c4ef6ecbc0de9c67"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ni4i4xzm2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ni4i4xzm2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ni4hhnvv2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ni4hhnvv2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nhzms7a42p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nhzms7a42p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ni32gjn42s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ni32gjn42s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b4d7dbebb3d5",
+   "created_at": "2026-11-19T06:50:48Z"
+  },
   {
    "id": "2fe6ade93057",
    "ts": "2026-11-19T06:45:15Z",
@@ -6023,27 +6062,6 @@
    "model": "opus",
    "run_id": "c423617dad59",
    "created_at": "2026-11-17T13:31:05Z"
-  },
-  {
-   "id": "4c9f59ff4259",
-   "ts": "2026-11-17T13:15:36Z",
-   "headline": "US ADP weekly employment change rises to 23.75K from 19.75K",
-   "detail": "ADP's weekly private payrolls estimate came in at 23.75K, against 19.75K the previous week. No forecast was given.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "9b797c61c196d99b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j4sfeqm32w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j4sfeqm32w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b4c1c11ed4a2",
-   "created_at": "2026-11-17T13:15:57Z"
   }
  ]
 }
