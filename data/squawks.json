@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T12:05:42Z",
+ "generated_at": "2026-11-19T12:15:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "442a5a73d5d7",
+   "ts": "2026-11-19T12:07:16Z",
+   "headline": "Putin says Ukraine and Europe are not yet ready to compromise on a settlement and Russia accepted US proposals in Anchorage",
+   "detail": "Russian President Putin said Russia agreed in Anchorage to compromises proposed by the US on Ukraine, but Kyiv and Europe are not yet willing to make concessions, although that could change later. He added that Russia is ready to discuss settlement terms with its partners, Interfax reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c8f9b3647a507d6e",
+    "647bba2a9d27caac",
+    "2aa3bbdc99bd16b5",
+    "7684f7febec96be6",
+    "0391cf12dbcf0631"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzvzulv624",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzvzulv624"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzy6pt252v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzy6pt252v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o22cms2b2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o22cms2b2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o2dfj55w24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o2dfj55w24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzvbixnh2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzvbixnh2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5783fc7d86e5",
+   "created_at": "2026-11-19T12:15:46Z"
+  },
   {
    "id": "0603a1812eb5",
    "ts": "2026-11-19T12:04:48Z",
@@ -6191,27 +6236,6 @@
    "model": "opus",
    "run_id": "9f8ed290ce57",
    "created_at": "2026-11-17T17:45:52Z"
-  },
-  {
-   "id": "08847364907c",
-   "ts": "2026-11-17T17:40:26Z",
-   "headline": "US Democratic senator files bill to revoke China's normal trade status before Trump-Xi meeting",
-   "detail": "Reuters reports that US Senator Tammy Baldwin introduced legislation on Tuesday to remove China's normal trade status and favourable tariff treatment. The bill comes days before President Trump and President Xi meet for the third time this year to discuss their trade truce.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "27cd043b15591476"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2jllw4qji2u",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2jllw4qji2u"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a595a4056ecd",
-   "created_at": "2026-11-17T17:40:48Z"
   }
  ]
 }
