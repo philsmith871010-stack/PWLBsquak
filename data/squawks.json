@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T12:55:42Z",
+ "generated_at": "2026-11-19T13:01:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "103ecdede64e",
+   "ts": "2026-11-19T12:56:57Z",
+   "headline": "Putin says Russia considers the deployment of any foreign troops into Ukraine unacceptable",
+   "detail": "Russian President Putin restated his opposition to any foreign troop deployment in Ukraine, TASS reported. He also said living conditions in a security zone on Russia's border with Ukraine would match those in the rest of Russia.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1968c37c482c9e19",
+    "c4028e7e27dd81b5",
+    "0c42b7d37ac51b2b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o4ov3p6m26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o4ov3p6m26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o4qd2x5c2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o4qd2x5c2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o4mre4nr2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o4mre4nr2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "87f2c0be94e1",
+   "created_at": "2026-11-19T13:01:08Z"
+  },
   {
    "id": "eb279fb1c0fd",
    "ts": "2026-11-19T12:54:59Z",
@@ -6227,33 +6260,6 @@
    "model": "opus",
    "run_id": "fef54bf20a43",
    "created_at": "2026-11-17T19:50:50Z"
-  },
-  {
-   "id": "7fdb67dfa5c0",
-   "ts": "2026-11-17T19:45:22Z",
-   "headline": "Fed's Williams says the Fed will return inflation to 2% in a timely manner and flags cyber security as a continuing concern",
-   "detail": "New York Fed President Williams made the comments in further remarks on Tuesday evening, saying the Fed will bring inflation back to its 2% target in a timely way. He also named cyber security as an ongoing area of worry.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "06a64e595a2d1ba9",
-    "9d6a724694db1227"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jsldl7ke2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jsldl7ke2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jsey5q362p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jsey5q362p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5566e6213b53",
-   "created_at": "2026-11-17T19:45:49Z"
   }
  ]
 }
