@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T14:50:50Z",
+ "generated_at": "2026-11-19T15:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "27371f813b88",
+   "ts": "2026-11-19T15:03:13Z",
+   "headline": "Saudi civil defence says a Houthi attack hit a tower in Riyadh's financial centre, damaging several floors",
+   "detail": "Saudi civil defence attributed Thursday's attack on a tower in the Riyadh financial centre to the Houthis and said it damaged several floors and nearby buildings, with no injuries reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "18d046689f3e7f16",
+    "7c296cc58f8424e7",
+    "7016517342177f2b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2odqnny2d2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2odqnny2d2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2odqn3gj22v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2odqn3gj22v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2odrei3252t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2odrei3252t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "54ce1da30df5",
+   "created_at": "2026-11-19T15:05:41Z"
+  },
+  {
+   "id": "df04adb14ab6",
+   "ts": "2026-11-19T15:01:36Z",
+   "headline": "US leading economic indicators fall 0.3% in October against expectations of no change",
+   "detail": "The Conference Board's US leading economic index fell 0.3% month on month in October to 99.3, against a consensus of no change and an unchanged reading the previous month.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4bf3bc9acfd3d7eb",
+    "88ad4d097edbeea4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2odnprrio2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2odnprrio2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2odnqjqze2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2odnqjqze2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "54ce1da30df5",
+   "created_at": "2026-11-19T15:05:41Z"
+  },
   {
    "id": "262bd1b52b57",
    "ts": "2026-11-19T14:50:13Z",
@@ -6086,132 +6146,6 @@
    "model": "opus",
    "run_id": "6b5f4ce3f64c",
    "created_at": "2026-11-18T06:15:50Z"
-  },
-  {
-   "id": "095f78ced657",
-   "ts": "2026-11-18T03:30:39Z",
-   "headline": "Xi calls for free and open trade without investment barriers as he opens APEC summit in Shenzhen",
-   "detail": "In his opening speech at the APEC summit, Chinese President Xi Jinping called for free and open trade without barriers to investment, Reuters reported. He is due to meet his US and Russian counterparts at the summit.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "81704febf87f7033",
-    "0191bf3c4d0a8aaa",
-    "789e6051437a46c6"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2kmld3ghy2a",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2kmld3ghy2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2knbpe3jx2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2knbpe3jx2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kncgusfh2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kncgusfh2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d889dafb9f37",
-   "created_at": "2026-11-18T06:10:49Z"
-  },
-  {
-   "id": "eb6b05ee0108",
-   "ts": "2026-11-18T03:29:36Z",
-   "headline": "Putin tells APEC CEO summit that restrictions on Russia raise costs and Europe is bearing the impact",
-   "detail": "Speaking at the APEC CEO summit in China, Russian President Putin said sanctions on Moscow create artificial barriers that raise costs and hurt Europe, and that the US dollar's share of Russia's trade has fallen sharply. He also said Russia is ready to widen export markets for food and fertiliser, and that a Trump–Xi meeting could bring significant gains.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "af10ae66f72b0f0c",
-    "287cbd509e1ba8db",
-    "3ad52d2abcd11a2b",
-    "ac8930bd12db760b",
-    "ff42e9138203c76c",
-    "a2f51f14aa0d8e87",
-    "2cc231deead653d6",
-    "6abff943a375b9b6",
-    "edc2140de509f68a",
-    "a3fd3225c20ba9b9",
-    "75202cd78c6da7f5",
-    "8f09faca9c851ed4",
-    "8c688f71415659cf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kmjgsfae2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kmjgsfae2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kmk6acmy2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kmk6acmy2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kmjh7adh2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kmjh7adh2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kmk7bjmr2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kmk7bjmr2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kn3x73eg2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kn3x73eg2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kmmc3it42p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kmmc3it42p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kmmz66je2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kmmz66je2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kmw5ln532f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kmw5ln532f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kmvgti3g2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kmvgti3g2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kmw6cqau2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kmw6cqau2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kn3w7pkt2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kn3w7pkt2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kn7lomnw2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kn7lomnw2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kn7mks352d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kn7mks352d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d889dafb9f37",
-   "created_at": "2026-11-18T06:10:49Z"
   }
  ]
 }
