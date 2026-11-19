@@ -1,8 +1,80 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T13:10:46Z",
+ "generated_at": "2026-11-19T13:20:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "df3d403e85cb",
+   "ts": "2026-11-19T13:20:43Z",
+   "headline": "France and UK clash over food rules before an EU summit as talks on Britain's role in shaping regulations go to the wire",
+   "detail": "The FT reports that France and the UK disagree over whether Britain should be able to influence EU food regulations, with talks continuing up to a key EU summit. This follows reports that PM Burnham is due to sign a deal aligning the UK with EU food standards.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d5fc4b62d1b5e78c"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2o5zejpmi2r",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2o5zejpmi2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "618820d96cc8",
+   "created_at": "2026-11-19T13:20:51Z"
+  },
+  {
+   "id": "9a43b47561c6",
+   "ts": "2026-11-19T13:17:25Z",
+   "headline": "APEC leaders call for uninterrupted energy flows and resilient supply chains, and warn global imbalances threaten growth",
+   "detail": "According to Xinhua, APEC leaders committed to keep energy flowing without interruption, make supply chains resilient, cooperate on global rebalancing and cross-border data, and invest in tech infrastructure. They also said global imbalances threaten growth.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "256bfc57f12c10f2",
+    "06e268e08f511c30",
+    "15c6d530bb03fabf",
+    "c24acddbab1585ce",
+    "7c7ecdbf32c4a4aa",
+    "67e74269059dbbd5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o5thpgr32p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o5thpgr32p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o5rc7tme2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o5rc7tme2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o5sr2pl42f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o5sr2pl42f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o5rznabv2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o5rznabv2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o5rcicxt2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o5rcicxt2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o5xnchvd2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o5xnchvd2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "618820d96cc8",
+   "created_at": "2026-11-19T13:20:51Z"
+  },
   {
    "id": "47b2e84817bc",
    "ts": "2026-11-19T13:07:39Z",
@@ -6218,48 +6290,6 @@
    "model": "opus",
    "run_id": "781ff904ea63",
    "created_at": "2026-11-17T20:31:04Z"
-  },
-  {
-   "id": "8266aabf9fba",
-   "ts": "2026-11-17T20:01:00Z",
-   "headline": "Britain joins Germany in rejecting Pentagon criticism of Ukraine's deep strikes on Russian oil infrastructure",
-   "detail": "Reuters reports that Germany and Britain on Tuesday rejected Pentagon policy chief Elbridge Colby's view that Ukraine's deep strikes on Russian oil infrastructure and commercial warehouses were ineffective and risked hardening Russian resolve. Reuters reports the German minister called the criticism stupid.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7ae2e34fe98f8353"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2jthc3zqd2q",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2jthc3zqd2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "00607d16dcc9",
-   "created_at": "2026-11-17T20:01:13Z"
-  },
-  {
-   "id": "7fa3260911bc",
-   "ts": "2026-11-17T19:51:44Z",
-   "headline": "Fed's Williams says AI financing is becoming more opaque and complex but sees no financial stability risk from AI yet",
-   "detail": "New York Fed President Williams said financing linked to AI is growing more opaque and complex, though he does not yet see it as a risk to financial stability. He again named cyber security as an ongoing concern.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "66b52f5736087e4b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jswpkiqu2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jswpkiqu2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5b2a4d9cf3bf",
-   "created_at": "2026-11-17T19:55:49Z"
   }
  ]
 }
