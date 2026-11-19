@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T18:40:50Z",
+ "generated_at": "2026-11-19T18:45:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "178710f008e2",
+   "ts": "2026-11-19T18:41:31Z",
+   "headline": "UK, German, French and Ukrainian leaders urge Russia to accept a winter energy ceasefire as a first step to ending hostilities",
+   "detail": "A joint statement from the leaders of Germany, France, the UK and Ukraine asks Russia to agree to an energy ceasefire lasting through the winter, as a first step towards a cessation of hostilities. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3a456fa0964af6f3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2opwymcnn2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2opwymcnn2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "744490fc1599",
+   "created_at": "2026-11-19T18:45:48Z"
+  },
   {
    "id": "30211e049167",
    "ts": "2026-11-19T18:37:56Z",
@@ -6143,33 +6164,6 @@
    "model": "opus",
    "run_id": "2e2c18a2aaa6",
    "created_at": "2026-11-18T12:05:43Z"
-  },
-  {
-   "id": "fcdaf2282a68",
-   "ts": "2026-11-18T12:01:00Z",
-   "headline": "ECB's Vujcic says fiscal policy must fix fiscal problems and stagflation does not currently look likely",
-   "detail": "ECB Governing Council member Vujcic made the remarks on Wednesday. On the same day the ECB's financial stability review called fiscal consolidation overdue.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e620712c8f878df7",
-    "a8fd9504801b1cb9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lj3vi7i724",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lj3vi7i724"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lj3v5lor2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lj3v5lor2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "18014ef9b597",
-   "created_at": "2026-11-18T12:01:12Z"
   }
  ]
 }
