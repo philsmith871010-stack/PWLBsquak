@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T15:55:44Z",
+ "generated_at": "2026-11-19T16:01:10Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "67b66daee53d",
+   "ts": "2026-11-19T15:59:46Z",
+   "headline": "US Kansas City Fed composite index rises to 18 in November, above the 10.5 forecast",
+   "detail": "The Kansas City Fed manufacturing composite index came in at 18, against a forecast of 10.5 and a previous reading of 11.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "dac86c1fa4015e38"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ogvrli6x2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ogvrli6x2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4fb703f695bd",
+   "created_at": "2026-11-19T16:01:10Z"
+  },
+  {
+   "id": "86bc6ae199de",
+   "ts": "2026-11-19T15:59:22Z",
+   "headline": "Trump says Putin told him he is angry about the Crimean Bridge attack",
+   "detail": "US President Trump said Putin had expressed anger over the bridge attack, according to NBC. Putin earlier ruled out negotiations after the attack.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "43b1cfd7f3e8c1ac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ogv2iaso2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ogv2iaso2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4fb703f695bd",
+   "created_at": "2026-11-19T16:01:10Z"
+  },
   {
    "id": "fd5f12bc8524",
    "ts": "2026-11-19T15:51:12Z",
@@ -6080,78 +6122,6 @@
    "model": "opus",
    "run_id": "fc2b48f03da9",
    "created_at": "2026-11-18T07:05:41Z"
-  },
-  {
-   "id": "24da7f61cff9",
-   "ts": "2026-11-18T07:01:06Z",
-   "headline": "UK core CPI holds at 2.8% y/y as forecast; headline CPI rises 0.5% m/m, matching expectations",
-   "detail": "UK core CPI was 2.8% year on year, unchanged from the previous month and in line with forecasts. Headline CPI rose 0.5% month on month against 0.4% previously, and RPI rose 0.6% m/m against a 0.5% forecast and 0.1% previously.",
-   "category": "data",
-   "importance": 3,
-   "source_event_ids": [
-    "2664ab684cc4236e",
-    "d6a382f2ecd432d5",
-    "0d3cc56fc319db2b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kydmrtoz24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kydmrtoz24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kydmf57b2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kydmf57b2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kydn2m3d2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kydn2m3d2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "68a86ff51a0b",
-   "created_at": "2026-11-18T07:01:10Z"
-  },
-  {
-   "id": "06510f9fb2c6",
-   "ts": "2026-11-18T07:01:04Z",
-   "headline": "UK PPI input prices jump 10.8% y/y, well above 9.2% forecast; output prices rise 5.1% y/y as expected",
-   "detail": "UK input producer prices rose 2.2% m/m against a 0.8% forecast and 10.8% y/y, up from 8.3%. Output prices rose 0.4% m/m, below the 0.6% forecast, and 5.1% y/y, in line with forecasts and up from 4.6%.",
-   "category": "data",
-   "importance": 2,
-   "source_event_ids": [
-    "71dd845a140d9917",
-    "668eee89f7e94722",
-    "cfd02d151f4dedc6",
-    "a80fde6737b7e0d2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kydlelud2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kydlelud2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kydlztat2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kydlztat2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kydlp72j2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kydlp72j2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kydng5tr2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kydng5tr2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "68a86ff51a0b",
-   "created_at": "2026-11-18T07:01:10Z"
   }
  ]
 }
