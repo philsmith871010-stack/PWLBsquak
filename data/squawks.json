@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T19:01:10Z",
+ "generated_at": "2026-11-19T19:10:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2695409cd57d",
+   "ts": "2026-11-19T19:08:40Z",
+   "headline": "Canada seeks an interim trade arrangement with the US by the end of the year, CBC reports",
+   "detail": "Canadian broadcaster CBC reports that Canada is seeking an interim trade arrangement with the US by the end of the year.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9500ef58d2f993f6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2orhkdkeb2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2orhkdkeb2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "404274bb13c5",
+   "created_at": "2026-11-19T19:10:57Z"
+  },
+  {
+   "id": "3ca5dfdfe5cb",
+   "ts": "2026-11-19T19:07:06Z",
+   "headline": "Ukraine's Zelensky says leaders will not travel to Moscow",
+   "detail": "Ukraine's President Zelensky said leaders will not go to Moscow. He spoke as talks on ending the war in Ukraine continue.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b8a5b37fcdb95c00"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oreqsriz2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oreqsriz2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "404274bb13c5",
+   "created_at": "2026-11-19T19:10:57Z"
+  },
   {
    "id": "95d39ad4282d",
    "ts": "2026-11-19T18:58:03Z",
@@ -6140,54 +6182,6 @@
    "model": "opus",
    "run_id": "d7d1e7b1c5c6",
    "created_at": "2026-11-18T12:25:39Z"
-  },
-  {
-   "id": "b6f7bab7026c",
-   "ts": "2026-11-18T12:18:46Z",
-   "headline": "UK PM Burnham says the EU deal will lower food prices",
-   "detail": "Prime Minister Burnham said the UK's agreement with the EU will lower food prices. The remarks come ahead of Friday's UK-EU summit.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "cb22fd34ee89f065"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lk3oq4pt2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lk3oq4pt2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7e57516dd441",
-   "created_at": "2026-11-18T12:21:03Z"
-  },
-  {
-   "id": "51594b5c089d",
-   "ts": "2026-11-18T12:07:23Z",
-   "headline": "UK PM Burnham pledges to cut the welfare bill as fast as possible",
-   "detail": "Prime Minister Burnham said in parliament that he would do all he could to reduce the welfare bill as quickly as possible. He spoke during Prime Minister's Questions on Wednesday.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "3e56a3d3e54ee1d0",
-    "185b4454b2b8fb99"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ljhcztqt2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ljhcztqt2b"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2ljkckyhc2h",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2ljkckyhc2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "38f8122f4180",
-   "created_at": "2026-11-18T12:10:49Z"
   }
  ]
 }
