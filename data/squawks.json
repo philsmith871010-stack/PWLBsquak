@@ -1,8 +1,80 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T14:15:47Z",
+ "generated_at": "2026-11-19T14:31:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9779b93a1830",
+   "ts": "2026-11-19T14:27:36Z",
+   "headline": "Iran's IRGC says there will be no nuclear talks until the Strait of Hormuz issue is resolved",
+   "detail": "A spokesman for Iran's Islamic Revolutionary Guard Corps said Iran will not discuss its nuclear file until the Hormuz issue is settled, Iranian state news agency IRNA reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "00e6fbd078b25c6d",
+    "ce1aabb313aa1354"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2obqy6wsg2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2obqy6wsg2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2obul6smb24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2obul6smb24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ca3f2c25c029",
+   "created_at": "2026-11-19T14:31:06Z"
+  },
+  {
+   "id": "4e8395b0ff96",
+   "ts": "2026-11-19T14:26:01Z",
+   "headline": "Fed's Jefferson says AI buildout is adding to inflation pressure and an energy shock forces inflation-jobs trade-offs",
+   "detail": "Fed official Philip Jefferson said in prepared remarks that the AI buildout affects both demand and supply, with the current pressure falling on demand, and that the energy cost shock creates trade-offs for central banks between inflation and employment risks. His text did not comment on the interest-rate outlook.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "580a32f257b51385",
+    "1cd5c9f96d51502f",
+    "049d0359b5075164",
+    "f4a4c96212ce1dd4",
+    "578a99fd8ac023ab"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2obo3zvnw2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2obo3zvnw2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2obo4rplt2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2obo4rplt2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2obou43ie2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2obou43ie2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2obotn2w32t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2obotn2w32t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2obouhsu62a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2obouhsu62a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ca3f2c25c029",
+   "created_at": "2026-11-19T14:31:06Z"
+  },
   {
    "id": "f4b216a5618c",
    "ts": "2026-11-19T14:14:22Z",
@@ -6183,120 +6255,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfqpfmwl2t",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfqpfmwl2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b6c80e22c327",
-   "created_at": "2026-11-18T06:01:18Z"
-  },
-  {
-   "id": "1f77585ae33b",
-   "ts": "2026-11-18T01:26:48Z",
-   "headline": "BoJ's Ueda signals more rate rises and says the bank can act flexibly if long-term yields spike disproportionately",
-   "detail": "Bank of Japan Governor Ueda said further policy rate increases would be guided by the economy, prices and financial markets, that monetary conditions remain easy and that inflation needs to settle around 2%. He also said long-term rates could rise if the bank appears to support fiscal policy through bond buying, and that a soft yen may push up food prices.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "a0968ab495d14373",
-    "ea91cb79530318f5",
-    "76e4c58f1c404f6b",
-    "50353352dc4f0dbc",
-    "93de3b9e97f2bc36",
-    "e182806121e8d15e",
-    "ad5fe3ef0556e2fe",
-    "348d9de2c7825db9",
-    "1629c4a124920fd7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfnuk7t32t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfnuk7t32t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfeiudfc2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfeiudfc2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfhfzjzv2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfhfzjzv2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfi5boc326",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfi5boc326"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfjlln2o2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfjlln2o2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfn5krmj2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfn5krmj2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfpc36cb2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfpc36cb2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfstss5n26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfstss5n26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfuc7bkd2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfuc7bkd2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b6c80e22c327",
-   "created_at": "2026-11-18T06:01:18Z"
-  },
-  {
-   "id": "60ac43ac83e6",
-   "ts": "2026-11-18T01:22:48Z",
-   "headline": "Bahrain's military says its air defences repelled a series of Iranian attacks on Wednesday",
-   "detail": "Bahrain's Defence Force described the attacks as part of a continued hostile approach by Iran. The Interior Ministry later gave the all-clear, nearly an hour after it had warned of a possible threat amid exchanges of fire between the US and Iran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f9bfc1a9b3162c03",
-    "3007ab421464e83a",
-    "e5ac1bcc2db943ac",
-    "9976c0154dfbe98b",
-    "d475ddff9abe6dd2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfgp5kgj2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfgp5kgj2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfiud4ty2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfiud4ty2s"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2ke7deojw2h",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2ke7deojw2h"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfejehtb2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfejehtb2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfst6vwd2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfst6vwd2t"
     }
    ],
    "model": "opus",
