@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T07:35:40Z",
+ "generated_at": "2026-11-19T07:55:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "139cc60e2058",
+   "ts": "2026-11-19T07:54:57Z",
+   "headline": "ECB's Moulin says France cannot ignore its high debt and deficit",
+   "detail": "ECB policymaker Moulin said France must face up to the reality of its high public debt and deficit.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6f305da7f358c39d",
+    "58a840aadee949b9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nlsun3ao2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nlsun3ao2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nltlotc72a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nltlotc72a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1e05d9b62d11",
+   "created_at": "2026-11-19T07:55:40Z"
+  },
   {
    "id": "a45b27603c92",
    "ts": "2026-11-19T07:33:46Z",
@@ -6042,33 +6069,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j5nrxuq32s",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j5nrxuq32s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c423617dad59",
-   "created_at": "2026-11-17T13:31:05Z"
-  },
-  {
-   "id": "d24010e60a47",
-   "ts": "2026-11-17T13:30:56Z",
-   "headline": "US retail sales rise 0.2% m/m in October, above 0.1% forecast; core sales up 0.6% against 0.4% expected",
-   "detail": "US headline retail sales grew 0.2% m/m, compared with a 0.1% forecast and 0.8% previously. Core retail sales rose 0.6% m/m, against a 0.4% forecast and 0.9% previously.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "3e1e2b68906acc21",
-    "25d9faa994000799"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j5nsenv72t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j5nsenv72t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j5nsquc22j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j5nsquc22j"
     }
    ],
    "model": "opus",
