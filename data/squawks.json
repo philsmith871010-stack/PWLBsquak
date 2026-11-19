@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T19:40:47Z",
+ "generated_at": "2026-11-19T19:45:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4097b100f3ee",
+   "ts": "2026-11-19T19:43:44Z",
+   "headline": "US Senate rejects resolution to limit Trump's war powers on Iran, 48 votes to 51",
+   "detail": "The US Senate voted down a war powers resolution on Iran that would have removed US armed forces from hostilities with Iran, by 48 votes to 51 once all votes were counted.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "01404d6631d86954",
+    "f12d53da4490d112",
+    "6b833216cd3577e2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2otgbgnd526",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2otgbgnd526"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2otfkpbsy2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2otfkpbsy2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2otgykevh24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2otgykevh24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "56440f94159b",
+   "created_at": "2026-11-19T19:45:47Z"
+  },
   {
    "id": "1bfca4c8701b",
    "ts": "2026-11-19T19:38:56Z",
@@ -6203,27 +6236,6 @@
    "model": "opus",
    "run_id": "268b6b413b82",
    "created_at": "2026-11-18T13:10:52Z"
-  },
-  {
-   "id": "bd177218431f",
-   "ts": "2026-11-18T13:05:40Z",
-   "headline": "US Energy Secretary Wright says US LNG will now cover about a third of Poland's yearly gas demand",
-   "detail": "US Energy Secretary Wright said in a post on X that there will now be enough American LNG to supply roughly one-third of Poland's annual natural gas demand.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "7b41e39484210da7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lmpkaf5b2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lmpkaf5b2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8fe6f55b1002",
-   "created_at": "2026-11-18T13:05:43Z"
   }
  ]
 }
