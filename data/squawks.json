@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T17:05:43Z",
+ "generated_at": "2026-11-19T17:10:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "42245b744417",
+   "ts": "2026-11-19T17:06:59Z",
+   "headline": "Pentagon official puts the cost of the Iran war at more than $48bn",
+   "detail": "A Pentagon official said the US conflict with Iran has cost more than $48bn so far.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "5b572f005f78997e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2okny7v7d2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2okny7v7d2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "24e74577dc2d",
+   "created_at": "2026-11-19T17:10:55Z"
+  },
+  {
+   "id": "d46b758ceab0",
+   "ts": "2026-11-19T17:05:48Z",
+   "headline": "UK PM Burnham says Russia's demands are unrealistic, pledges lasting support for Ukraine and calls for a push to peace with US involvement",
+   "detail": "UK Prime Minister Burnham said the aggressor should not be setting wide-ranging demands, that the UK will step up again and stay at Ukraine's side for as long as it takes. He said this should be a moment to move towards peace with US involvement.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c8e35c3a42978fb8",
+    "2850a55d4d3bd69e",
+    "2c64e783d2b27f68",
+    "2ea82a70adc83ea5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oklu3el32a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oklu3el32a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oknykxp72b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oknykxp72b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2okq4mpvv2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2okq4mpvv2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oksw7md62p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oksw7md62p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "24e74577dc2d",
+   "created_at": "2026-11-19T17:10:55Z"
+  },
   {
    "id": "db108e2e7a23",
    "ts": "2026-11-19T17:02:37Z",
@@ -6068,54 +6128,6 @@
    "model": "opus",
    "run_id": "82b701ec40f3",
    "created_at": "2026-11-18T08:40:47Z"
-  },
-  {
-   "id": "e1d7e071b7a0",
-   "ts": "2026-11-18T08:36:02Z",
-   "headline": "Finland's President Stubb says Ukraine peace talks are moving in the right direction",
-   "detail": "Stubb described himself as cautiously optimistic about the talks on Ukraine. He also said Europe had organised itself for the peace negotiations.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "419096c934a993dc",
-    "b893119e5558daef"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l5nfd3xo26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l5nfd3xo26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l5qu6ela2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l5qu6ela2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "82b701ec40f3",
-   "created_at": "2026-11-18T08:40:47Z"
-  },
-  {
-   "id": "4b8d9444a69e",
-   "ts": "2026-11-18T08:20:53Z",
-   "headline": "BoE says it will keep setting rates to bring inflation back to the 2% target and keep it there",
-   "detail": "The Bank of England said this in its response to Wednesday's UK inflation data for October.",
-   "category": "boe",
-   "importance": 1,
-   "source_event_ids": [
-    "ba36657167140313"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l4scimw62s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l4scimw62s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6b950333bbc6",
-   "created_at": "2026-11-18T08:25:44Z"
   }
  ]
 }
