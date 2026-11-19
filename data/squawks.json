@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T17:20:46Z",
+ "generated_at": "2026-11-19T17:25:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c2c30213bc1e",
+   "ts": "2026-11-19T17:25:10Z",
+   "headline": "J.P. Morgan now expects the Fed to raise rates by a quarter point in January and March, adding to the December hike it already forecast",
+   "detail": "J.P.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "9e72ac415e17296d"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2oloi42xc2u",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2oloi42xc2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "51ac1701f195",
+   "created_at": "2026-11-19T17:25:54Z"
+  },
   {
    "id": "cd1f1866fc15",
    "ts": "2026-11-19T17:18:35Z",
@@ -6179,27 +6200,6 @@
    "model": "opus",
    "run_id": "b4a68dc365c7",
    "created_at": "2026-11-18T09:20:49Z"
-  },
-  {
-   "id": "70f99502aee5",
-   "ts": "2026-11-18T09:08:30Z",
-   "headline": "Iceland's central bank says inflation is still too high and expectations remain above target",
-   "detail": "Iceland's central bank said inflation remains too high, inflation expectations are above target and the outlook is highly uncertain.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "3d9c40e8558b4183"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l7hhpouf2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l7hhpouf2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2538da9fe9af",
-   "created_at": "2026-11-18T09:10:48Z"
   }
  ]
 }
