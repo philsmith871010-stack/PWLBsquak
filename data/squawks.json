@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T09:10:51Z",
+ "generated_at": "2026-11-19T09:40:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a0cd24c56b0c",
+   "ts": "2026-11-19T09:36:56Z",
+   "headline": "BoE forecasts point to the UK's longest stretch without inflation below 2% since the early 1990s, Reuters reports",
+   "detail": "A Reuters report says Bank of England forecasts show Britain facing its longest run without inflation falling below 2% since the early 1990s. Economists quoted in the report say this risks weakening public faith in the Bank's ability to control price growth.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "0271df59d371fff4"
+   ],
+   "sources": [
+    {
+     "author": "bruceandy.bsky.social",
+     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3n2nrj7nw2226",
+     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3n2nrj7nw2226"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6066fea2fe14",
+   "created_at": "2026-11-19T09:40:46Z"
+  },
   {
    "id": "7896d69e0127",
    "ts": "2026-11-19T09:09:46Z",
@@ -6089,33 +6110,6 @@
    "model": "opus",
    "run_id": "c29354153d02",
    "created_at": "2026-11-17T15:01:14Z"
-  },
-  {
-   "id": "5fe309a66f75",
-   "ts": "2026-11-17T14:53:23Z",
-   "headline": "Fed's Hammack says her views on monetary tightening are unchanged since yesterday",
-   "detail": "Cleveland Fed President Hammack said her views on tightening monetary policy have not changed since yesterday. She also said the US Treasury and the Fed have different objectives in the bond market.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "f534a98f3330105f",
-    "5a87864495b83174"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jcba3dwf2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jcba3dwf2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jcepjndz2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jcepjndz2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b9a789e338f3",
-   "created_at": "2026-11-17T14:55:43Z"
   }
  ]
 }
