@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T10:01:08Z",
+ "generated_at": "2026-11-19T10:05:39Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "996f61a0126f",
+   "ts": "2026-11-19T10:02:58Z",
+   "headline": "Air strike hits headquarters of Saudi Arabia's Public Investment Fund, FT reports",
+   "detail": "The Financial Times reports that an air strike hit the headquarters of the Saudi sovereign wealth fund. The attack comes after Houthi rebels fired at the kingdom almost every day. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4fbdfa06c8cc045e"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2nsxr3x6z2m",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2nsxr3x6z2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6db97ba2fe77",
+   "created_at": "2026-11-19T10:05:39Z"
+  },
   {
    "id": "919e710412ce",
    "ts": "2026-11-19T09:59:28Z",
@@ -6096,27 +6117,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jcwgpkv72f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jcwgpkv72f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "894be07f61fc",
-   "created_at": "2026-11-17T15:05:48Z"
-  },
-  {
-   "id": "38c1585bd4a4",
-   "ts": "2026-11-17T15:04:26Z",
-   "headline": "Iran's IRGC navy says a fourth tanker has caught fire in the eastern Strait of Hormuz",
-   "detail": "Fars News, citing the IRGC navy, reported that a fourth tanker caught fire in the east of the Strait of Hormuz in recent hours. Iran had earlier reported that a third tanker hit a sea mine there.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "82c23a886251fcd8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jcuyv5iu2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jcuyv5iu2j"
     }
    ],
    "model": "opus",
