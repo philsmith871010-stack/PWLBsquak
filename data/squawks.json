@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T13:31:03Z",
+ "generated_at": "2026-11-19T13:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "40a4c47859e0",
+   "ts": "2026-11-19T13:31:05Z",
+   "headline": "US Philadelphia Fed business index falls to 6.3 in November, far below the 20.1 forecast",
+   "detail": "The Philadelphia Fed manufacturing index came in at 6.3 for November, against a forecast of 20.1 and 20.9 the previous month.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "0e13ab9896e1c8de",
+    "ff75c9df53f9dbf6",
+    "75aea810cb39c503"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o6lvbd6p2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o6lvbd6p2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o6mnnqwg2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o6mnnqwg2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o6qtmpih2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o6qtmpih2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7455cdb7e561",
+   "created_at": "2026-11-19T13:35:44Z"
+  },
+  {
+   "id": "af4a9f90675f",
+   "ts": "2026-11-19T13:31:03Z",
+   "headline": "US initial jobless claims rise to 203K, above the 197.5K forecast",
+   "detail": "US initial jobless claims were 203K in the week to 14 November, up 1K from a prior week revised to 202K from 200K. Forecasts cited ranged from 197K to 198K.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "5d2047f030b3d3ea",
+    "a4ef149a03469ced",
+    "b5ce80996fb89c6f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o6lucafm2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o6lucafm2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o6luspjg2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o6luspjg2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o6mny3222s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o6mny3222s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7455cdb7e561",
+   "created_at": "2026-11-19T13:35:44Z"
+  },
   {
    "id": "9e0a0effc72d",
    "ts": "2026-11-19T13:30:39Z",
@@ -6242,54 +6308,6 @@
    "model": "opus",
    "run_id": "e56a3fecbcd4",
    "created_at": "2026-11-17T21:55:41Z"
-  },
-  {
-   "id": "34ac6d0ad040",
-   "ts": "2026-11-17T21:05:47Z",
-   "headline": "Qatar PM says Doha is still working to broker an agreement between Iran and the US",
-   "detail": "Qatar's prime minister said the country's diplomatic efforts to secure a deal between Iran and the US are continuing, Iranian state news agency IRNA reports. The statement follows reported US strikes on Iran's Qeshm Island earlier in the day.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7f0a45ca476b2cfd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jx34nrrn2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jx34nrrn2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ee5f3b67b549",
-   "created_at": "2026-11-17T21:11:15Z"
-  },
-  {
-   "id": "d5081d14f64f",
-   "ts": "2026-11-17T20:53:13Z",
-   "headline": "Fed's Hammack backs small, steady rate hikes but says larger increases may be needed if inflation expectations become entrenched",
-   "detail": "Cleveland Fed President Hammack pointed to broad inflation pressures from tariffs, energy costs and AI-related investment. She said further hikes may be needed to cool demand without significantly weakening the labour market.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "b99bc330026fdca1",
-    "e823093bab52ab6c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jweo2k372f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jweo2k372f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jwfezall2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jwfezall2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "550d825198e9",
-   "created_at": "2026-11-17T20:55:42Z"
   }
  ]
 }
