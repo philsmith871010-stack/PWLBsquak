@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T17:15:50Z",
+ "generated_at": "2026-11-19T17:20:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cd1f1866fc15",
+   "ts": "2026-11-19T17:18:35Z",
+   "headline": "EU's von der Leyen says a 22nd package of Russia sanctions is coming and points to a new €45bn loan for Ukraine",
+   "detail": "The European Commission President spoke after the Coalition of the Willing meeting. She said the EU will keep increasing pressure on Russia until it comes to negotiations.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "dc49650c86d5c253"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2olcpgccp2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2olcpgccp2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7f305af87855",
+   "created_at": "2026-11-19T17:20:46Z"
+  },
+  {
+   "id": "f09d6a1245a7",
+   "ts": "2026-11-19T17:17:23Z",
+   "headline": "US envoy Kushner says NATO will be a central pillar of any post-war Ukraine settlement",
+   "detail": "Speaking in Berlin, the US peace envoy said any deal will be made in close consultation with Ukraine and Europe, and that Trump wants Europe beside him for a deal.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e33f1bbdd6e6af43",
+    "839b14abaddcdac6",
+    "30360d41b76dea08",
+    "c6b4e66db29fd0d7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2olakwmeu24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2olakwmeu24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ol6fyd232w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ol6fyd232w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2olalpmd72d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2olalpmd72d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ol6gux5a2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ol6gux5a2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7f305af87855",
+   "created_at": "2026-11-19T17:20:46Z"
+  },
   {
    "id": "a5d5302fe5c6",
    "ts": "2026-11-19T17:15:22Z",
@@ -6140,66 +6200,6 @@
    "model": "opus",
    "run_id": "2538da9fe9af",
    "created_at": "2026-11-18T09:10:48Z"
-  },
-  {
-   "id": "c0e4ab8d6f87",
-   "ts": "2026-11-18T09:08:06Z",
-   "headline": "ECB says fiscal consolidation is overdue and sovereign risk could be repriced further",
-   "detail": "The ECB said strict application of EU fiscal rules is essential and that fiscal consolidation is overdue, warning that sovereign risk could be repriced further. It added that wider French spreads point to risks specific to that country.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "daff93d551c06883",
-    "bbeea25a95ffc294",
-    "f68b8891099ea559"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l7gqkq5h26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l7gqkq5h26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l7gqa6kf2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l7gqa6kf2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l7gqy2pp2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l7gqy2pp2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2538da9fe9af",
-   "created_at": "2026-11-18T09:10:48Z"
-  },
-  {
-   "id": "c05c3230caa3",
-   "ts": "2026-11-18T09:01:21Z",
-   "headline": "ECB stability review says market discipline should push indebted states to fiscal correction and flags French spreads",
-   "detail": "The ECB's Financial Stability Review says market discipline should push highly indebted countries to correct their fiscal policy. It also says the widening in French spreads points to risks specific to France.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "f1233e4b07373da3",
-    "460fcac0146e73aa"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l72nzgjm2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l72nzgjm2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l72ogxwe2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l72ogxwe2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9a551a4fb0fd",
-   "created_at": "2026-11-18T09:05:43Z"
   }
  ]
 }
