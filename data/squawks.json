@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T17:01:14Z",
+ "generated_at": "2026-11-19T17:05:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "db108e2e7a23",
+   "ts": "2026-11-19T17:02:37Z",
+   "headline": "France's Macron calls for reopening the question of Ukraine's NATO membership and says the coming weeks are critical for Kyiv",
+   "detail": "French President Macron said the issue of Ukraine's place in NATO must be put back on the table, and described the next few weeks as critical for Ukraine. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fa6900fc0b19b21a",
+    "da5a5c6408c12895"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2okg62zz52f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2okg62zz52f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2okidegze2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2okidegze2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4d09a2c49650",
+   "created_at": "2026-11-19T17:05:43Z"
+  },
   {
    "id": "b8cda2288932",
    "ts": "2026-11-19T17:00:11Z",
@@ -6089,27 +6116,6 @@
    "model": "opus",
    "run_id": "6b950333bbc6",
    "created_at": "2026-11-18T08:25:44Z"
-  },
-  {
-   "id": "f25b7b49a821",
-   "ts": "2026-11-18T08:20:06Z",
-   "headline": "BoE says it expects inflation to rise further by mid-2026 next year as pipeline cost pressures feed through",
-   "detail": "The Bank of England issued a statement responding to Wednesday's UK inflation data. It said it expects inflation to rise further by the middle of next year because of cost pressures already in the pipeline.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "1c277768c0756042"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2l4qvdqlo2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2l4qvdqlo2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7c2a99654eb9",
-   "created_at": "2026-11-18T08:20:46Z"
   }
  ]
 }
