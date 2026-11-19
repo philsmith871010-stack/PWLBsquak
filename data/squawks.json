@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T19:31:06Z",
+ "generated_at": "2026-11-19T19:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2316e339750d",
+   "ts": "2026-11-19T19:34:05Z",
+   "headline": "Fed's Barr says his disclosed disagreements on bank oversight centre on long-term challenges with bank rules",
+   "detail": "Federal Reserve Governor Barr said the disagreements over banking oversight that he has disclosed relate to long-term challenges with bank rules. He added that he is concerned the direction of regulation could make financial risks harder to understand.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "d9bdaf9fac61f779",
+    "7f0c4c6ac98bbb3a",
+    "2873ca21c213b648",
+    "76193ac4321c8193"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2osubaiog2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2osubaiog2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2osubllcl26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2osubllcl26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2osuyi4ds2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2osuyi4ds2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2osvpsoz42p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2osvpsoz42p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d89d7cd8d51d",
+   "created_at": "2026-11-19T19:35:44Z"
+  },
   {
    "id": "23efd80cd8f4",
    "ts": "2026-11-19T19:26:28Z",
@@ -6119,51 +6158,6 @@
    "model": "opus",
    "run_id": "9c857f6f9df7",
    "created_at": "2026-11-18T12:55:42Z"
-  },
-  {
-   "id": "37b61c803ee3",
-   "ts": "2026-11-18T12:47:11Z",
-   "headline": "Fed's Waller says the Fed must reverse its 3 insurance cuts and possibly go further",
-   "detail": "Fed Governor Waller said returning rates to their summer 2025 level would not bring inflation down. He also said nothing in AI pricing looks like a bubble, and that his concern over AI financing is limited to banks.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "8cc1a5e105241612",
-    "5b59559e9e8e7021",
-    "9aba114de6097c3e",
-    "3932f301ca256f8c",
-    "5778a2da10d5c75c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lloidsq72t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lloidsq72t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2llp7zhnq2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2llp7zhnq2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2llohxs5t2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2llohxs5t2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lloiphrn2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lloiphrn2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2llmdx6io2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2llmdx6io2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ad8df0e6b5eb",
-   "created_at": "2026-11-18T12:50:55Z"
   }
  ]
 }
