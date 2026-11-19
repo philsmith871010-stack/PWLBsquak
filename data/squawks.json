@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T10:40:52Z",
+ "generated_at": "2026-11-19T10:50:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f63402b2f4af",
+   "ts": "2026-11-19T10:50:44Z",
+   "headline": "Xi, Trump and Putin agree to increase supply of refined oil products",
+   "detail": "A market news account reports that the Chinese, US and Russian leaders agreed at their three-way meeting to raise supplies of refined oil products. The report gives no figures or details of how this would happen.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "0ae2cde729d35712"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nvn64ulh26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nvn64ulh26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4347b90c3336",
+   "created_at": "2026-11-19T10:50:47Z"
+  },
   {
    "id": "04c01839bba0",
    "ts": "2026-11-19T10:37:50Z",
@@ -6119,27 +6140,6 @@
    "model": "opus",
    "run_id": "4c35e780183d",
    "created_at": "2026-11-17T16:06:04Z"
-  },
-  {
-   "id": "031c42ec0bbc",
-   "ts": "2026-11-17T15:58:57Z",
-   "headline": "Iran's foreign minister rejects media reports of an Iranian plot to use chemical weapons in Washington",
-   "detail": "Iran's foreign minister dismissed reports from the past 72 hours that Iran planned a chemical weapons attack in Washington and was building missile bases under dams. He compared them to propaganda before the Iraq war and said Israel was behind them.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "79cc8d8d0763a9b2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2jfwiargs2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2jfwiargs2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "df68382ba67a",
-   "created_at": "2026-11-17T16:01:16Z"
   }
  ]
 }
