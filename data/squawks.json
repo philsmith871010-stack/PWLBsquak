@@ -1,8 +1,56 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T08:25:42Z",
+ "generated_at": "2026-11-19T08:30:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7caac29936d7",
+   "ts": "2026-11-19T08:27:31Z",
+   "headline": "China describes the Xi-Trump meeting as positive and constructive",
+   "detail": "China gave its assessment of the meeting between President Xi and President Trump on the sidelines of the APEC summit. A China-Russia-US summit in Shenzhen is also under way.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "47c126d882d8bd62",
+    "7f6c6402d69874cf"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nnn3j2uz2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nnn3j2uz2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nnrxobgk2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nnrxobgk2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7219d7d18914",
+   "created_at": "2026-11-19T08:30:57Z"
+  },
+  {
+   "id": "c23924e631a5",
+   "ts": "2026-11-19T08:25:58Z",
+   "headline": "Strike by workers cuts French nuclear output by 2.1 GW, EDF data show",
+   "detail": "EDF data show that French nuclear generation has fallen by 2.1 GW because of strike action by workers.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "eebb45d68ae03ed3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nnkckeke2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nnkckeke2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7219d7d18914",
+   "created_at": "2026-11-19T08:30:57Z"
+  },
   {
    "id": "71d95df7d4fe",
    "ts": "2026-11-19T08:23:09Z",
@@ -6092,54 +6140,6 @@
    "model": "opus",
    "run_id": "1eed246016eb",
    "created_at": "2026-11-17T14:05:44Z"
-  },
-  {
-   "id": "912733a0612e",
-   "ts": "2026-11-17T13:46:49Z",
-   "headline": "Iran's Sepah News reports US air strikes on Qeshm Island, following earlier unconfirmed reports",
-   "detail": "Iran's Sepah News reports US air strikes on Iran's Qeshm Island. Earlier reports of the strike had been unconfirmed. The posts report no market reaction.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "48d067d0c2a4d838"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j6k6n2jh2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j6k6n2jh2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "aeec7e10a45f",
-   "created_at": "2026-11-17T13:51:00Z"
-  },
-  {
-   "id": "9472940bed83",
-   "ts": "2026-11-17T13:44:02Z",
-   "headline": "Iran's navy says a third tanker has hit a sea mine and caught fire in the eastern Strait of Hormuz",
-   "detail": "Iranian state news agency IRNA, citing Iran's navy, reported a third tanker struck a naval mine and caught fire east of Hormuz. Earlier, Iranian state media reported that a liquefied gas carrier and an oil tanker had hit mines in the strait.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "cb9787d44493d47f",
-    "13c5a333406f8a5e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j6f7pqxl2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j6f7pqxl2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j6fa6fuq2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j6fa6fuq2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4335f245a1ae",
-   "created_at": "2026-11-17T13:45:48Z"
   }
  ]
 }
