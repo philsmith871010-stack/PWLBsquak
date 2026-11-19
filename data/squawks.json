@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T17:31:04Z",
+ "generated_at": "2026-11-19T17:40:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "127ecd9b9793",
+   "ts": "2026-11-19T17:40:33Z",
+   "headline": "Fed's Goolsbee says the US job market is stable but inflation is well above the Fed's 2% target",
+   "detail": "Chicago Fed President Austan Goolsbee said the labour market is steady while inflation remains far higher than the 2% target, according to a market newsfeed.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "cfe88a011eb11b40"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2omjymxd72b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2omjymxd72b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7edf3b7e0405",
+   "created_at": "2026-11-19T17:40:51Z"
+  },
   {
    "id": "aee78e36f72f",
    "ts": "2026-11-19T17:26:05Z",
@@ -6176,27 +6197,6 @@
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lapkqpci26",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lapkqpci26"
     },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lactgy7a26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lactgy7a26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f45edee7f381",
-   "created_at": "2026-11-18T09:35:44Z"
-  },
-  {
-   "id": "628ab653fb59",
-   "ts": "2026-11-18T09:24:41Z",
-   "headline": "FT reports the British energy price cap is set to rise above £2,000 in January",
-   "detail": "The Financial Times reports that the British household energy price cap is due to rise above £2,000 from January. It adds that reduced government support means households will pay more for energy in real terms than during the inflation shock after the invasion of Ukraine.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "c48c5fa54091ce35"
-   ],
-   "sources": [
     {
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lactgy7a26",
