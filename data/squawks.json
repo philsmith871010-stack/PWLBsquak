@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T19:15:53Z",
+ "generated_at": "2026-11-19T19:20:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7e38bec15d9f",
+   "ts": "2026-11-19T19:18:59Z",
+   "headline": "BoE's Greene says policy has been less restrictive than thought, pointing to above-target inflation and a resilient economy",
+   "detail": "Bank of England MPC member Megan Greene said there is a question over how restrictive monetary policy has been and that it has not been as tight as previously thought. She cited inflation running above target and economic resilience.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "0d2ce07bc482c083",
+    "18bc8ec25cda3066",
+    "b53e012b75a14ec5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2orwftsco2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2orwftsco2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2orzypqha26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2orzypqha26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2os3fqgpu2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2os3fqgpu2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c8261a3fb84c",
+   "created_at": "2026-11-19T19:20:55Z"
+  },
   {
    "id": "0ddb007d6944",
    "ts": "2026-11-19T19:15:19Z",
@@ -6143,63 +6176,6 @@
    "model": "opus",
    "run_id": "d2b1543fa9c1",
    "created_at": "2026-11-18T12:45:50Z"
-  },
-  {
-   "id": "e772d8b96313",
-   "ts": "2026-11-18T12:37:58Z",
-   "headline": "Fed's Waller calls for more aggressive rate hikes, saying inflation is moving the wrong way and broadening",
-   "detail": "In a CNBC interview, Fed Governor Waller said the Fed needs to be somewhat more aggressive with rate hikes to bring inflation down, and noted that about 70% of items in the core services basket are running above 3%, a rise he said is unrelated to oil. He said he is concerned that firms believe they can pass on price rises of 3% or more, and that the Fed may need to shock people out of treating 3% inflation as normal.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "617495761a05ea15",
-    "5c79844029228a57",
-    "8a6c2286b934569b",
-    "1de87d0747ffcb9e",
-    "7cc9764a40bf783a",
-    "f78f253b59545e14",
-    "b90fc9ca48b4c3bf"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ll5yyhik2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ll5yyhik2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ll5zczrj2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ll5zczrj2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ll6qhyl22t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ll6qhyl22t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ll7h77sk2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ll7h77sk2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lla6eyt32p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lla6eyt32p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2llavafsz2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2llavafsz2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2llcdalzs2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2llcdalzs2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dfb54e7ca0cd",
-   "created_at": "2026-11-18T12:40:47Z"
   }
  ]
 }
