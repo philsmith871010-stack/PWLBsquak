@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T14:31:06Z",
+ "generated_at": "2026-11-19T14:41:01Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3f54846c8a9a",
+   "ts": "2026-11-19T14:36:23Z",
+   "headline": "US Treasury issues Russia-related general licence 131l permitting some dealings involving Lukoil International GmbH",
+   "detail": "The US Treasury has issued a Russia-related general licence, numbered 131l, that authorises certain transactions involving Lukoil International GmbH.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "66bda5d4de2faa14"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ocaojgkk24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ocaojgkk24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e7555c6518af",
+   "created_at": "2026-11-19T14:41:01Z"
+  },
   {
    "id": "9779b93a1830",
    "ts": "2026-11-19T14:27:36Z",
@@ -6227,39 +6248,6 @@
    "model": "opus",
    "run_id": "ff2f8b704827",
    "created_at": "2026-11-18T06:05:39Z"
-  },
-  {
-   "id": "d4f56f50bee6",
-   "ts": "2026-11-18T01:30:25Z",
-   "headline": "US Secretary of State Rubio rules out an imminent Iranian threat to the US homeland",
-   "detail": "Rubio made the remarks as the US and Iran exchanged fire in the Gulf. He also said authorities had found no evidence linking recent tech outages to malicious actors.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "461a9c0df17a081d",
-    "8f864f4a6d069cf4",
-    "bcb7129e41b1e6f7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfuculpv2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfuculpv2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfqowcd42p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfqowcd42p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kfqpfmwl2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kfqpfmwl2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b6c80e22c327",
-   "created_at": "2026-11-18T06:01:18Z"
   }
  ]
 }
