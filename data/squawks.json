@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T08:30:57Z",
+ "generated_at": "2026-11-19T08:41:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2b09f079f830",
+   "ts": "2026-11-19T08:36:26Z",
+   "headline": "Putin says talks with Trump should cover global and regional ties and energy security; Trump raises nuclear arms reduction",
+   "detail": "Russian President Putin said the agenda with Trump should include global and regional relations and energy security, Interfax reported. Trump said the two had already covered a lot and were in a position to discuss cutting nuclear weapons, though he added that giving them up is very hard.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6ac4afb18b2daeef",
+    "17f846bdcea8d294",
+    "2f2085b612fe7fb4",
+    "d437f9b8333166a5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2no522vvm2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2no522vvm2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2no6hjdyp2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2no6hjdyp2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nobaaklc2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nobaaklc2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nobwy7qc2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nobwy7qc2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6fdfd22c4d1d",
+   "created_at": "2026-11-19T08:41:03Z"
+  },
   {
    "id": "7caac29936d7",
    "ts": "2026-11-19T08:27:31Z",
@@ -6119,27 +6158,6 @@
    "model": "opus",
    "run_id": "379c86cd62e2",
    "created_at": "2026-11-17T14:15:59Z"
-  },
-  {
-   "id": "ce99f4a75d78",
-   "ts": "2026-11-17T14:05:14Z",
-   "headline": "Lawyer for Fed Governor Cook threatens to stay away from White House mortgage fraud hearing next month",
-   "detail": "In a letter seen by Reuters on Tuesday, a lawyer for Federal Reserve Governor Lisa Cook called the planned White House hearing into mortgage fraud allegations unfair. The letter says Cook has no legal obligation to take part.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "d3e09811422968c3"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2j7l4hotu2y",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2j7l4hotu2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "1eed246016eb",
-   "created_at": "2026-11-17T14:05:44Z"
   }
  ]
 }
