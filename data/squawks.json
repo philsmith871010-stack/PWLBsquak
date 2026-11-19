@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T11:25:45Z",
+ "generated_at": "2026-11-19T11:35:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5537fbe83fce",
+   "ts": "2026-11-19T11:31:17Z",
+   "headline": "US Energy Secretary Wright says the US is considering increasing diesel and oil exports to Europe",
+   "detail": "US Energy Secretary Chris Wright said in Warsaw that the US is weighing a step-up in diesel and oil exports to Europe. The posts report no market reaction.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "4cd5403ff6f0beb8",
+    "86a37ba98dad5778"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nxvo6xhs24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nxvo6xhs24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nxx44dy224",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nxx44dy224"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1bf28aa30be6",
+   "created_at": "2026-11-19T11:35:42Z"
+  },
   {
    "id": "83a61dfd4c95",
    "ts": "2026-11-19T11:23:24Z",
@@ -6119,27 +6146,6 @@
    "model": "opus",
    "run_id": "7222baef0de3",
    "created_at": "2026-11-17T16:35:43Z"
-  },
-  {
-   "id": "a60aaabf81f1",
-   "ts": "2026-11-17T16:28:12Z",
-   "headline": "Welsh government's first multiyear Budget puts over £1.5bn of capital spending into social homes over three years",
-   "detail": "Inside Housing reports that the Plaid Cymru-led Welsh government's first full Budget sets aside more than £1.5bn over three years towards its target of 20,000 homes.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "711af6fa6012a855"
-   ],
-   "sources": [
-    {
-     "author": "insidehousing.bsky.social",
-     "uri": "at://did:plc:4crnjat2gafdo4ezfzxgd3gg/app.bsky.feed.post/3n2jhkrgcmf2q",
-     "url": "https://bsky.app/profile/insidehousing.bsky.social/post/3n2jhkrgcmf2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9eeaa2ab901a",
-   "created_at": "2026-11-17T16:31:05Z"
   }
  ]
 }
