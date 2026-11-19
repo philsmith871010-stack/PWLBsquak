@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T08:10:52Z",
+ "generated_at": "2026-11-19T08:15:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4dc193e19924",
+   "ts": "2026-11-19T08:15:44Z",
+   "headline": "Xi tells Trump that China and the US agree to draw up an action plan for a constructive, stable strategic relationship",
+   "detail": "At his meeting with the US President, China's President Xi called for more cooperation and fewer disputes between the two countries, and for the recent positive momentum in relations to continue, according to Xinhua. He also said the two countries will cooperate on AI safety risks.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f04cd383ac7aa17b",
+    "598b5b3486fd2afb",
+    "49b2ff574d349aa8",
+    "a5ee88bcac5f4550"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nmxztkmr2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nmxztkmr2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nmwlikkz2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nmwlikkz2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nmvucxwk2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nmvucxwk2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nmy2abkp2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nmy2abkp2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "44f88cae36e6",
+   "created_at": "2026-11-19T08:15:55Z"
+  },
   {
    "id": "252867c19d77",
    "ts": "2026-11-19T08:10:37Z",
@@ -6035,39 +6074,6 @@
    "model": "opus",
    "run_id": "ebb03af280d8",
    "created_at": "2026-11-17T13:40:55Z"
-  },
-  {
-   "id": "fe0e5a9b6a00",
-   "ts": "2026-11-17T13:32:09Z",
-   "headline": "US retail sales rise 6.8% y/y in October, up from 6.29% in the previous month",
-   "detail": "The annual figure was released with the October US retail sales report, which showed a 0.2% monthly rise. The previous month's annual rate was 6.29%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1ce21796a5291101",
-    "9f0b86e736593b58",
-    "dc541554847b75c5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j5py22662f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j5py22662f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j5qou74i2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j5qou74i2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2j5uwqdek2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2j5uwqdek2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "28869684479d",
-   "created_at": "2026-11-17T13:35:47Z"
   }
  ]
 }
