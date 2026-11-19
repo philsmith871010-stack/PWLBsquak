@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T17:25:54Z",
+ "generated_at": "2026-11-19T17:31:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "aee78e36f72f",
+   "ts": "2026-11-19T17:26:05Z",
+   "headline": "US envoy Kushner says Ukraine's security guarantees will be Article Five-based and Russia has been made comfortable with that",
+   "detail": "Speaking in Berlin, US peace envoy Kushner said an Article Five-like guarantee is a big deal that Trump is open to, provided it is in the US interest. He also stressed the importance of having the right communication channels.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4ae37cc00b120c87",
+    "71acd35329a44bc8",
+    "66399dd79d46947d",
+    "39cf4cf40f3034bc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2olq475yk2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2olq475yk2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2olqsxsdj2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2olqsxsdj2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2olrjp6bd2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2olrjp6bd2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2olsas6ak2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2olsas6ak2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a830a0a1b2a4",
+   "created_at": "2026-11-19T17:31:04Z"
+  },
   {
    "id": "c2c30213bc1e",
    "ts": "2026-11-19T17:25:10Z",
@@ -6167,39 +6206,6 @@
    "model": "opus",
    "run_id": "f45edee7f381",
    "created_at": "2026-11-18T09:35:44Z"
-  },
-  {
-   "id": "3d352fbac265",
-   "ts": "2026-11-18T09:19:08Z",
-   "headline": "Russia's Novatek to redirect LNG supply away from the EU market, with most going to China",
-   "detail": "Interfax reports that Russian LNG producer Novatek will redirect LNG supply away from the EU market and that most of it will go to China. Novatek has also signed a contract to supply LNG to Turkey, Interfax reports.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "0a3835cedd72d05b",
-    "556d7eb94d792459",
-    "44d30a9381a014b3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2la2hkmvi2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2la2hkmvi2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2la2hvfea2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2la2hvfea2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2la2h7h4e2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2la2h7h4e2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b4a68dc365c7",
-   "created_at": "2026-11-18T09:20:49Z"
   }
  ]
 }
