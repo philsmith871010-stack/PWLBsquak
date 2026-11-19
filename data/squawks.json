@@ -1,8 +1,80 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T18:10:55Z",
+ "generated_at": "2026-11-19T18:15:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "04491467715b",
+   "ts": "2026-11-19T18:11:46Z",
+   "headline": "Fed's Goolsbee says the Fed still wants evidence that AI productivity gains are spreading beyond tech",
+   "detail": "Chicago Fed President Goolsbee said the Fed is still looking for signs that AI-driven productivity gains are reaching beyond the tech sector. He said that if they do not, AI could turn out to be a short-lived boost.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "d1a56c5759639ef0",
+    "c1a8e759a1c14b50",
+    "371c9226f50d9c95"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oobsrsm22a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oobsrsm22a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oockibgu2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oockibgu2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oodzbinq26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oodzbinq26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "75f7fcd6f622",
+   "created_at": "2026-11-19T18:15:49Z"
+  },
+  {
+   "id": "a03fa73d0e90",
+   "ts": "2026-11-19T18:10:58Z",
+   "headline": "US Energy Secretary Wright says oil flow out of Hormuz was the largest yet yesterday and sees no rise in Iran tensions",
+   "detail": "US Energy Secretary Wright said the previous day had seen by far the largest flow of oil through the Strait of Hormuz. He also said there was no increase in tensions over Iran.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "349e345618078778",
+    "0e400128973b25de",
+    "cafcc1560e1226f6",
+    "fd187088e37521ed"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ooaenfdx2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ooaenfdx2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oobta6vx2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oobta6vx2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oob3lhxx2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oob3lhxx2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ooclwekp2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ooclwekp2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "75f7fcd6f622",
+   "created_at": "2026-11-19T18:15:49Z"
+  },
   {
    "id": "a56ce76015d4",
    "ts": "2026-11-19T18:07:05Z",
@@ -6104,60 +6176,6 @@
    "model": "opus",
    "run_id": "4a75834beb5e",
    "created_at": "2026-11-18T10:40:51Z"
-  },
-  {
-   "id": "678436754b7f",
-   "ts": "2026-11-18T10:33:23Z",
-   "headline": "Kremlin says Putin and Trump will talk at APEC but full negotiations are unlikely",
-   "detail": "Kremlin spokesman Peskov said Putin and Trump are unlikely to have time for full negotiations at the APEC summit, but the two leaders will speak.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "aac5ac361a30dff5",
-    "3736e7c6c3572ca5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2le7agdlu2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2le7agdlu2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2le4dlms22j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2le4dlms22j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bab8758ab960",
-   "created_at": "2026-11-18T10:35:43Z"
-  },
-  {
-   "id": "b1cf176b483b",
-   "ts": "2026-11-18T10:32:10Z",
-   "headline": "German 7-year Bund auction sells at 3.27% average yield, down from 3.36%; bid-to-cover rises to 1.5",
-   "detail": "Germany's 7-year Bund auction gave an average yield of 3.27%, compared with 3.36% at the previous sale. The bid-to-cover ratio was 1.5, up from 1.4 last time.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4516238665810169",
-    "2a36c8ced3116344"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2le52sjw62a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2le52sjw62a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2le5343fk2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2le5343fk2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bab8758ab960",
-   "created_at": "2026-11-18T10:35:43Z"
   }
  ]
 }
