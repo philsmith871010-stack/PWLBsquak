@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T17:45:49Z",
+ "generated_at": "2026-11-19T17:55:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "94c03288bfad",
+   "ts": "2026-11-19T17:52:01Z",
+   "headline": "Fed's Goolsbee is concerned that tariffs are pushing up inflation for longer than expected",
+   "detail": "Chicago Fed President Goolsbee said the effect of tariffs on inflation has lasted longer than expected. He also said AI looks promising for productivity, but the Fed's job is to judge whether the economy is overheating now.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "7c1380594cb1080a",
+    "002d723eba7a2071",
+    "b7af1c0559cadc0f",
+    "af6e68fd158bb77c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2on6iikrz2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2on6iikrz2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2on77rrfr2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2on77rrfr2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onbzoabr2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onbzoabr2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onesxpzv2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onesxpzv2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bc8cdd4de3e4",
+   "created_at": "2026-11-19T17:55:42Z"
+  },
   {
    "id": "54f4cf67c4ed",
    "ts": "2026-11-19T17:44:57Z",
@@ -6155,27 +6194,6 @@
    "model": "opus",
    "run_id": "c535caa9c4a2",
    "created_at": "2026-11-18T09:50:58Z"
-  },
-  {
-   "id": "66e518e66b76",
-   "ts": "2026-11-18T09:40:13Z",
-   "headline": "ECB compares the AI borrowing surge to the run-up to the subprime bubble",
-   "detail": "The ECB says the current wave of AI-related borrowing has historic parallels with the subprime bubble, the FT reports. It raises concerns that hyperscalers are building up trillions of dollars of off-balance-sheet commitments through contracts with other technology groups.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "cae5eeb1609a4384"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2lba5td7w2p",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n2lba5td7w2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a0db3d8861ba",
-   "created_at": "2026-11-18T09:40:49Z"
   }
  ]
 }
