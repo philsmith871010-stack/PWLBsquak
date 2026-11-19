@@ -1,8 +1,68 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T19:10:57Z",
+ "generated_at": "2026-11-19T19:15:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0ddb007d6944",
+   "ts": "2026-11-19T19:15:19Z",
+   "headline": "South Africa's central bank keeps its key rate on hold in a split decision",
+   "detail": "The South African Reserve Bank held its key interest rate on Thursday in a split vote, Reuters reports. Its governor said policy was tight enough after two hikes this year.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "ce15fcaacc22f8b6"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2ortgnt7r2v",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2ortgnt7r2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "89ed3d90a716",
+   "created_at": "2026-11-19T19:15:53Z"
+  },
+  {
+   "id": "8652dedfbc38",
+   "ts": "2026-11-19T19:11:25Z",
+   "headline": "BoE's Greene says the risk of doing too little outweighs doing too much and inflation expectations must be anchored at 2%",
+   "detail": "MPC member Megan Greene said the Bank has a duty to anchor elevated inflation expectations at the 2% target and that people notice when inflation is above 3%. She said the risk of underacting is bigger than the risk of overdoing it.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "15a42b3054ec6c98",
+    "f556649f7178aa0f",
+    "599082014c3d66f1",
+    "2ea6e97091c57c82"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ormhz2ke2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ormhz2ke2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oroly27s2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oroly27s2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2orqp3wf22d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2orqp3wf22d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2orsug6ua2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2orsug6ua2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "89ed3d90a716",
+   "created_at": "2026-11-19T19:15:53Z"
+  },
   {
    "id": "2695409cd57d",
    "ts": "2026-11-19T19:08:40Z",
@@ -6140,48 +6200,6 @@
    "model": "opus",
    "run_id": "dfb54e7ca0cd",
    "created_at": "2026-11-18T12:40:47Z"
-  },
-  {
-   "id": "4b4755294692",
-   "ts": "2026-11-18T12:29:21Z",
-   "headline": "UK PM Burnham says he will keep to Labour's manifesto red lines on the EU",
-   "detail": "UK Prime Minister Burnham said the government will respect the red lines on the EU relationship set out in Labour's manifesto. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "fbb15566f141b86f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lkoly3yj2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lkoly3yj2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6579499b09cf",
-   "created_at": "2026-11-18T12:31:10Z"
-  },
-  {
-   "id": "019e9f81d348",
-   "ts": "2026-11-18T12:21:29Z",
-   "headline": "French foreign minister denies Moscow's claim that France is directly intervening in the war in Ukraine",
-   "detail": "The French foreign minister said French military activity in Ukraine is far from the front lines and does not amount to direct participation in the war, according to reports. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "aa6fe714449cdfc6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lkajvdka2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lkajvdka2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d7d1e7b1c5c6",
-   "created_at": "2026-11-18T12:25:39Z"
   }
  ]
 }
