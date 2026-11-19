@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-19T15:40:52Z",
+ "generated_at": "2026-11-19T15:55:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fd5f12bc8524",
+   "ts": "2026-11-19T15:51:12Z",
+   "headline": "Trump says he agreed with Zelensky that no decisions on Ukraine will be made without Ukraine taking part",
+   "detail": "US President Donald Trump said he and Ukrainian President Volodymyr Zelensky agreed that decisions about Ukraine should not be made unless Ukraine takes part, according to reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "338ffce7126a1a30"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oggh76hj2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oggh76hj2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "855c7d0bc20e",
+   "created_at": "2026-11-19T15:55:44Z"
+  },
+  {
+   "id": "01c1441cebba",
+   "ts": "2026-11-19T15:50:47Z",
+   "headline": "Fed's Jefferson says he has no interest in changing the inflation target",
+   "detail": "Federal Reserve Vice Chair Philip Jefferson said he is not interested in changing the Fed's inflation target. He made the comment in the same appearance as his earlier remarks on AI and energy-driven inflation pressure.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b1eef5a84558ce63"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ogfptad72f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ogfptad72f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "855c7d0bc20e",
+   "created_at": "2026-11-19T15:55:44Z"
+  },
   {
    "id": "a127902690d1",
    "ts": "2026-11-19T15:40:35Z",
@@ -6110,54 +6152,6 @@
    "model": "opus",
    "run_id": "68a86ff51a0b",
    "created_at": "2026-11-18T07:01:10Z"
-  },
-  {
-   "id": "be3f4479d033",
-   "ts": "2026-11-18T06:56:50Z",
-   "headline": "UK PM Burnham pledges sweeping welfare overhaul for young people and hints at changes for older claimants",
-   "detail": "The prime minister committed to reforms following the Milburn review, whose author argued for extending them to over-24s, the FT reports. Labour MPs who led last year's rebellion against £5bn of benefit cuts have backed the proposals.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "d62cccc2b75a6d15"
-   ],
-   "sources": [
-    {
-     "author": "gilesyb.bsky.social",
-     "uri": "at://did:plc:cdklqekun5o7gvz4sbujp3b3/app.bsky.feed.post/3n2ky3zb77k2y",
-     "url": "https://bsky.app/profile/gilesyb.bsky.social/post/3n2ky3zb77k2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "68a86ff51a0b",
-   "created_at": "2026-11-18T07:01:10Z"
-  },
-  {
-   "id": "80842683aa5d",
-   "ts": "2026-11-18T06:39:12Z",
-   "headline": "Germany to cut its electricity tax to the EU minimum for 2027 as a temporary step, with a permanent cut intended",
-   "detail": "The German government says the electricity tax will fall to the European minimum level for 2027 on a temporary basis and that it intends to make the reduction permanent.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "48ed49ffa7efb7be",
-    "f026233da1b6a2b6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kx4inmvo2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kx4inmvo2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2kx5wx7a324",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2kx5wx7a324"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e7be496cc6ff",
-   "created_at": "2026-11-18T06:40:46Z"
   }
  ]
 }
