@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T18:35:59Z",
+ "generated_at": "2026-11-20T18:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ae4a6aa4388e",
+   "ts": "2026-11-20T18:36:12Z",
+   "headline": "Fed's Paulson says investors seem to understand the Fed's communications",
+   "detail": "Federal Reserve official Anna Paulson said investors appear to understand what the Fed is communicating. She spoke on Friday 20 November.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "adbfad70e553a9ca"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ra4g3mqg2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ra4g3mqg2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "778b26e9f960",
+   "created_at": "2026-11-20T18:40:50Z"
+  },
   {
    "id": "7b6551982a80",
    "ts": "2026-11-20T18:33:00Z",
@@ -6359,33 +6380,6 @@
    "model": "opus",
    "run_id": "e7555c6518af",
    "created_at": "2026-11-19T14:41:01Z"
-  },
-  {
-   "id": "9779b93a1830",
-   "ts": "2026-11-19T14:27:36Z",
-   "headline": "Iran's IRGC says there will be no nuclear talks until the Strait of Hormuz issue is resolved",
-   "detail": "A spokesman for Iran's Islamic Revolutionary Guard Corps said Iran will not discuss its nuclear file until the Hormuz issue is settled, Iranian state news agency IRNA reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "00e6fbd078b25c6d",
-    "ce1aabb313aa1354"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2obqy6wsg2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2obqy6wsg2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2obul6smb24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2obul6smb24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ca3f2c25c029",
-   "created_at": "2026-11-19T14:31:06Z"
   }
  ]
 }
