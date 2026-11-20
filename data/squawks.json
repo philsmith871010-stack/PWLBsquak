@@ -1,8 +1,146 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T07:01:08Z",
+ "generated_at": "2026-11-20T07:05:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b7c6d86ded97",
+   "ts": "2026-11-20T07:04:56Z",
+   "headline": "ONS says UK supermarkets reported stronger October sales after government advice to buy long-life items",
+   "detail": "The ONS gave the supermarket comment alongside the October retail sales release.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "57d3a7ab32aa4991",
+    "13c5e51fdce51b77"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzid37wx2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzid37wx2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzbvqrif2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzbvqrif2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2bbb26da099a",
+   "created_at": "2026-11-20T07:05:49Z"
+  },
+  {
+   "id": "fd55f3dce0d5",
+   "ts": "2026-11-20T07:01:20Z",
+   "headline": "German producer prices rise 8.1% year on year in October, above the 7.3% forecast",
+   "detail": "German PPI rose 1.4% on the month against a 1% forecast and 1.9% previously; the annual rate rose from 6.7% in September.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "3dcffc2057b4067c",
+    "673bcfbb233746fa",
+    "921b4bc7b6b956c7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzbvgmc52b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzbvgmc52b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzbv4omq2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzbv4omq2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzic5fep2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzic5fep2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2bbb26da099a",
+   "created_at": "2026-11-20T07:05:49Z"
+  },
+  {
+   "id": "85c2bbca25f3",
+   "ts": "2026-11-20T07:01:19Z",
+   "headline": "Swedish seasonally adjusted unemployment falls to 8.2% in October, below forecasts",
+   "detail": "The seasonally adjusted rate fell from 8.6%, against forecasts of 8.55% to 8.6%; the unadjusted rate was 7.7% against 8.1% previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "987ecd95da0696b6",
+    "a6c72132a131ae51",
+    "ab90a48282019b0d",
+    "5470b45256ae0fc3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzbutqj62f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzbutqj62f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzbujw2o2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzbujw2o2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzicslub2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzicslub2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzichd7d2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzichd7d2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2bbb26da099a",
+   "created_at": "2026-11-20T07:05:49Z"
+  },
+  {
+   "id": "d3fe65384ecd",
+   "ts": "2026-11-20T07:01:18Z",
+   "headline": "UK public sector net borrowing comes in at £17.0bn in October, below the £18bn estimate and down from £24.5bn",
+   "detail": "ONS data show October PSNB ex banking groups at £17.036bn against an estimate of £18bn and £24.52bn the previous month. The public sector net cash requirement was £10.8bn and the central government net cash requirement £15.5bn, both against £16.9bn previously.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "d66d7e261d7cf1ea",
+    "22e5de6c493bc2e5",
+    "3694a21eef0effc1",
+    "13538bca577aadd5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzbu5jtx26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzbu5jtx26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzgrcifc2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzgrcifc2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzgrnb2m2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzgrnb2m2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzidej3z2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzidej3z2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2bbb26da099a",
+   "created_at": "2026-11-20T07:05:49Z"
+  },
   {
    "id": "9b147786aa81",
    "ts": "2026-11-20T07:00:55Z",
@@ -6452,102 +6590,6 @@
    "model": "opus",
    "run_id": "3101757b200b",
    "created_at": "2026-11-18T18:40:50Z"
-  },
-  {
-   "id": "b6014e368781",
-   "ts": "2026-11-18T18:22:17Z",
-   "headline": "US Defense Secretary Hegseth says the oil deal takes the Strait of Hormuz out of the equation",
-   "detail": "US Defense Secretary Pete Hegseth said the oil deal means the Strait of Hormuz is no longer a factor. No further details of the deal or any market reaction were reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9b10e199591d971d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m6fotbyr2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m6fotbyr2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c121d21c5211",
-   "created_at": "2026-11-18T18:25:40Z"
-  },
-  {
-   "id": "e6e5e29d9ae9",
-   "ts": "2026-11-18T18:19:10Z",
-   "headline": "Gold falls 2.9% to $3,737.79/oz, its lowest in more than a year, as hawkish Fed signals lift the dollar",
-   "detail": "Gold fell 2.9% to $3,737.79 an ounce, its lowest level in more than a year. The drop was attributed to hawkish Fed signals and expectations of more aggressive rate hikes, which strengthened the dollar.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e7dc0bea1294c387"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m6a4mv4u2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m6a4mv4u2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "80c16c254b6b",
-   "created_at": "2026-11-18T18:20:48Z"
-  },
-  {
-   "id": "98e9f6718828",
-   "ts": "2026-11-18T18:02:46Z",
-   "headline": "US $16bn 20-year Treasury auction prices at 5.459%, level with when-issued; bid-to-cover falls to 2.63",
-   "detail": "The US Treasury sold $16bn of 20-year bonds at a high yield of 5.459%, against 5.469% at the previous sale, with bid-to-cover at 2.63 versus 2.730 last time. Indirect bidders took 60.2%, directs 26.7% and primary dealers 13.1%, and 70.87% of bids at the high yield were allotted.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "af134176856f3f4d",
-    "abf008fc51967d48",
-    "b178f232bee1f01e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m5csfc7l2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m5csfc7l2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m5eakbaa2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m5eakbaa2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m5foipmo2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m5foipmo2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a48f0df703a8",
-   "created_at": "2026-11-18T18:05:42Z"
-  },
-  {
-   "id": "b3420400625a",
-   "ts": "2026-11-18T18:01:58Z",
-   "headline": "French Senate adopts 2027 social security budget that restores pension reform, BFMTV reports",
-   "detail": "France's Senate has passed the 2027 social security financing bill in a version that restores the pension reform, according to BFMTV.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7370fdf7546e277d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m5beur5y2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m5beur5y2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a48f0df703a8",
-   "created_at": "2026-11-18T18:05:42Z"
   }
  ]
 }
