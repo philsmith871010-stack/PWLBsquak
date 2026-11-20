@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T09:10:51Z",
+ "generated_at": "2026-11-20T09:40:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d0250636f652",
+   "ts": "2026-11-20T09:37:52Z",
+   "headline": "Saudi Arabia starts refilling joint crude storage in Japan, and Japan plans to buy 8m barrels of Saudi oil for its own reserve",
+   "detail": "Saudi state news agency SPA says Japan will offer 16m barrels of oil storage and Saudi Arabia has begun refilling the joint crude storage in Japan. Separately, Japan plans to buy 8m barrels of Saudi crude for its own reserve, and both countries stressed the importance of a stable oil market.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "8120c535da111089",
+    "93937f7d94708d1d",
+    "cfa6729a95f050ad",
+    "65d20ffb816597f3",
+    "ccb1c8a0ea5db34b",
+    "2cf50f09e8036cfd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qbzs5spt24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qbzs5spt24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qc2jlcpf2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qc2jlcpf2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qc2kdfhn2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qc2kdfhn2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qc2l44ak2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qc2l44ak2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qc2kpwtf2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qc2kpwtf2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qc3bv5ac2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qc3bv5ac2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "681520e973af",
+   "created_at": "2026-11-20T09:40:59Z"
+  },
   {
    "id": "f19678cd60e3",
    "ts": "2026-11-20T09:08:44Z",
@@ -6437,39 +6488,6 @@
    "model": "opus",
    "run_id": "1217edfa0c3b",
    "created_at": "2026-11-18T19:51:03Z"
-  },
-  {
-   "id": "818ed9620539",
-   "ts": "2026-11-18T19:37:11Z",
-   "headline": "RBNZ's Breman says inflation expectations are stable and sees risks to inflation and growth on both sides",
-   "detail": "RBNZ official Breman also said New Zealand businesses are finding it hard to pass on higher costs. The remarks were made in further comments on 18 November.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e340fbdb0968a644",
-    "a941335deb338179",
-    "41b69c8a6bfae9ab"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mcjjhqce2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mcjjhqce2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mcjjtwmj2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mcjjtwmj2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mclmpz452m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mclmpz452m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8a84f6742507",
-   "created_at": "2026-11-18T19:40:56Z"
   }
  ]
 }
