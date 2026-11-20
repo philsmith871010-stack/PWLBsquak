@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T10:55:45Z",
+ "generated_at": "2026-11-20T11:16:01Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5ac8cac78c68",
+   "ts": "2026-11-20T11:14:54Z",
+   "headline": "Houthis threaten Saudi Red Sea ports if Hodeidah is bombed and call for evacuations",
+   "detail": "A Houthi spokesman warned that Saudi ports on the Red Sea would be targeted if the Saudi-led coalition bombs Hodeidah, and called for evacuations. The coalition had earlier told civilians to leave Hodeidah port after Houthi attacks on Riyadh.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "b8d1cab440f60d45"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qhhdcash2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qhhdcash2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6e54e09d8599",
+   "created_at": "2026-11-20T11:16:01Z"
+  },
   {
    "id": "06fcdfb3ea09",
    "ts": "2026-11-20T10:54:43Z",
@@ -6419,45 +6440,6 @@
    "model": "opus",
    "run_id": "d903fd77b63e",
    "created_at": "2026-11-19T06:01:08Z"
-  },
-  {
-   "id": "92fcc46c16bf",
-   "ts": "2026-11-18T22:12:35Z",
-   "headline": "Moody's expects the US to keep its record of highly effective monetary policy led by an independent Fed",
-   "detail": "Moody's gave the view in commentary on the US economy, alongside its expectations that 2026 growth beat forecasts and that Congress will raise or suspend the debt limit.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "fde58a527d3f1571",
-    "011b8aff9f4d15a8",
-    "24bece768d8f28dc",
-    "befab8f9c59b0797"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mlbidjqe2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mlbidjqe2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mlaqvueg24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mlaqvueg24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mlbhm5bu2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mlbhm5bu2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mlc7vwwm2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mlc7vwwm2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c3a1927f2378",
-   "created_at": "2026-11-18T22:15:54Z"
   }
  ]
 }
