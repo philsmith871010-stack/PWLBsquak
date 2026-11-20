@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T11:16:01Z",
+ "generated_at": "2026-11-20T11:20:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0cfe7f03f93c",
+   "ts": "2026-11-20T11:19:41Z",
+   "headline": "Russia says EU foreign policy chief Kallas is unsuitable to negotiate with Moscow and her role could collapse talks",
+   "detail": "Russia said EU foreign policy chief Kaja Kallas would be a wholly unsuitable negotiator with Moscow. It added that her involvement in the talks could lead to their breakdown. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "32afca6e37661b8e",
+    "33a9173a1cd6ad2d",
+    "5d31804403c07d8d",
+    "b52e087d7ca1e472"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qhpuuaq72f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qhpuuaq72f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qhqloa7c2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qhqloa7c2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qhrzdoxi2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qhrzdoxi2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qhrzq73y2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qhrzq73y2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8c22e4934859",
+   "created_at": "2026-11-20T11:20:59Z"
+  },
   {
    "id": "5ac8cac78c68",
    "ts": "2026-11-20T11:14:54Z",
@@ -6414,27 +6453,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mxqgl53q2m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mxqgl53q2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d903fd77b63e",
-   "created_at": "2026-11-19T06:01:08Z"
-  },
-  {
-   "id": "195c57f9b15d",
-   "ts": "2026-11-19T00:32:03Z",
-   "headline": "China threatens to retaliate against US curbs on remote access to advanced chips",
-   "detail": "Beijing criticised Washington's moves to restrict remote access to advanced semiconductors and threatened retaliation, Semafor reports. The trade dispute comes ahead of a Trump–Xi–Putin summit in Shenzhen.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5e52cc4678ea43b1"
-   ],
-   "sources": [
-    {
-     "author": "semafor.com",
-     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3n2mt2uuzff2q",
-     "url": "https://bsky.app/profile/semafor.com/post/3n2mt2uuzff2q"
     }
    ],
    "model": "opus",
