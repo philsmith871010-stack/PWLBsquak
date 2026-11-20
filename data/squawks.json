@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T22:05:47Z",
+ "generated_at": "2026-11-20T22:55:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c4e1da1902bd",
+   "ts": "2026-11-20T22:54:59Z",
+   "headline": "Saudi civil defence issues an early warning alert over a possible threat in Riyadh",
+   "detail": "Saudi Arabia's civil defence authority issued an early warning alert over a possible danger in the capital, Riyadh. It came after Houthi attacks on Saudi targets including Jazan and Al-Shuqaiq earlier in the day, and no further details were reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6ce04c7817008159",
+    "05d46844170ae8c6",
+    "94a28471991127d8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rol5tass26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rol5tass26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rolv5wlw2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rolv5wlw2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rolvjrbk26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rolvjrbk26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ea5b31a2e452",
+   "created_at": "2026-11-20T22:55:43Z"
+  },
   {
    "id": "de26572ed102",
    "ts": "2026-11-20T22:05:10Z",
@@ -6329,39 +6362,6 @@
    "model": "opus",
    "run_id": "31e720000792",
    "created_at": "2026-11-19T16:25:45Z"
-  },
-  {
-   "id": "bdad1f73d58f",
-   "ts": "2026-11-19T16:02:54Z",
-   "headline": "Trump says he discussed more Chinese purchases of US farm goods with Xi but is non-committal on soybeans",
-   "detail": "NBC reports that President Trump said he spoke to China's President Xi about buying more US agricultural products. He did not say clearly whether Xi had agreed to buy more soybeans.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b88befe71dd6d1ca",
-    "fdb774c5c246e0c8",
-    "3704de9458b5012b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oh3ev3g724",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oh3ev3g724"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oh3fqlch24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oh3fqlch24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oh3faosi2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oh3faosi2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2cdaa3d84005",
-   "created_at": "2026-11-19T16:05:41Z"
   }
  ]
 }
