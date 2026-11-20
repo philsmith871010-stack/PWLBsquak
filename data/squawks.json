@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T07:25:52Z",
+ "generated_at": "2026-11-20T07:45:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "92cb75a99c3a",
+   "ts": "2026-11-20T07:45:49Z",
+   "headline": "French overall business climate slips to 95 in November, below the 96 forecast, while the manufacturing index reaches 104",
+   "detail": "France's overall business climate index fell to 95 from 97, compared with a forecast of 96. The manufacturing index was 104, down from 105 but above the 103 forecast.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a8fe3f665fe8ffb8",
+    "4bbbf5f228fde831"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2q3rgqeeo2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2q3rgqeeo2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2q3rgzeqm2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2q3rgzeqm2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "293ad0673b2c",
+   "created_at": "2026-11-20T07:45:57Z"
+  },
   {
    "id": "c820d4fa6b49",
    "ts": "2026-11-20T07:25:21Z",
@@ -6545,27 +6572,6 @@
    "model": "opus",
    "run_id": "435ed852b040",
    "created_at": "2026-11-18T18:55:42Z"
-  },
-  {
-   "id": "e8eee30bf10d",
-   "ts": "2026-11-18T18:44:23Z",
-   "headline": "UK government says ministers are working urgently with India to settle dispute over higher tariffs on Scotch whisky",
-   "detail": "The UK government said ministers are working urgently with India on the dispute over Indian demands for higher tariffs on Scotch whisky imports. This follows reports that India is applying an effective 162.5% tariff and tax on bulk Scotch imports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c68ffaf503f6f806"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m7n7i4tl24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m7n7i4tl24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "dc515c2a92af",
-   "created_at": "2026-11-18T18:45:45Z"
   }
  ]
 }
