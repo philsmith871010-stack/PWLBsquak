@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T15:40:55Z",
+ "generated_at": "2026-11-20T15:45:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7c03cd73d2ee",
+   "ts": "2026-11-20T15:41:48Z",
+   "headline": "US 10-year Treasury yield extends its fall to 10bp on the day, at 4.95%",
+   "detail": "A market wire reports the US 10-year Treasury yield down 10bp on the day at 4.95%. Earlier it was reported 8bp lower at 4.9698%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "fa9b75c69c1a91db"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qwel5f3f2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qwel5f3f2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1656b8252f88",
+   "created_at": "2026-11-20T15:45:54Z"
+  },
   {
    "id": "4e50a82b84b3",
    "ts": "2026-11-20T15:38:37Z",
@@ -6185,27 +6206,6 @@
    "model": "opus",
    "run_id": "570261b1cc63",
    "created_at": "2026-11-19T10:55:41Z"
-  },
-  {
-   "id": "f63402b2f4af",
-   "ts": "2026-11-19T10:50:44Z",
-   "headline": "Xi, Trump and Putin agree to increase supply of refined oil products",
-   "detail": "A market news account reports that the Chinese, US and Russian leaders agreed at their three-way meeting to raise supplies of refined oil products. The report gives no figures or details of how this would happen.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "0ae2cde729d35712"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nvn64ulh26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nvn64ulh26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4347b90c3336",
-   "created_at": "2026-11-19T10:50:47Z"
   }
  ]
 }
