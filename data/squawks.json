@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T18:31:11Z",
+ "generated_at": "2026-11-20T18:35:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "7b6551982a80",
+   "ts": "2026-11-20T18:33:00Z",
+   "headline": "Fed's Paulson says she is open to consecutive rate hikes and favours raising rates in a deliberate way",
+   "detail": "Federal Reserve official Paulson said she would consider back-to-back rate increases and prefers a deliberate pace of tightening, according to posts on Friday evening.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c97f22780fd63a2d",
+    "9ee54e8540684e70"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r7wp7rld26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r7wp7rld26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r7ziqvto2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r7ziqvto2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "923413378c7a",
+   "created_at": "2026-11-20T18:35:59Z"
+  },
   {
    "id": "3f77abe50e78",
    "ts": "2026-11-20T18:27:51Z",
@@ -6354,51 +6381,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2obul6smb24",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2obul6smb24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ca3f2c25c029",
-   "created_at": "2026-11-19T14:31:06Z"
-  },
-  {
-   "id": "4e8395b0ff96",
-   "ts": "2026-11-19T14:26:01Z",
-   "headline": "Fed's Jefferson says AI buildout is adding to inflation pressure and an energy shock forces inflation-jobs trade-offs",
-   "detail": "Fed official Philip Jefferson said in prepared remarks that the AI buildout affects both demand and supply, with the current pressure falling on demand, and that the energy cost shock creates trade-offs for central banks between inflation and employment risks. His text did not comment on the interest-rate outlook.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "580a32f257b51385",
-    "1cd5c9f96d51502f",
-    "049d0359b5075164",
-    "f4a4c96212ce1dd4",
-    "578a99fd8ac023ab"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2obo3zvnw2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2obo3zvnw2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2obo4rplt2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2obo4rplt2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2obou43ie2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2obou43ie2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2obotn2w32t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2obotn2w32t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2obouhsu62a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2obouhsu62a"
     }
    ],
    "model": "opus",
