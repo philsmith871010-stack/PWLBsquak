@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T12:10:54Z",
+ "generated_at": "2026-11-20T13:01:27Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "64462260b696",
+   "ts": "2026-11-20T12:59:50Z",
+   "headline": "US 10-year Treasury yield falls 8bp to 4.9698%",
+   "detail": "A market news feed reported the 10-year US Treasury note yield down 8bp at 4.9698% shortly before 13:00 GMT.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "ef3ecced6757ffb1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qncx64rj2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qncx64rj2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e02e755fa2a0",
+   "created_at": "2026-11-20T13:01:27Z"
+  },
   {
    "id": "564db1a8aab9",
    "ts": "2026-11-20T12:10:12Z",
@@ -6077,33 +6098,6 @@
    "model": "opus",
    "run_id": "99728ee3944e",
    "created_at": "2026-11-19T06:40:47Z"
-  },
-  {
-   "id": "c78b4002653e",
-   "ts": "2026-11-19T06:01:57Z",
-   "headline": "Long-dated JGB yields fall, with the 30-year down 6.5bp to 3.990% and the 40-year down 5bp to 4.180%",
-   "detail": "The 30-year Japanese government bond yield declined 6.5bp to 3.990% and the 40-year yield dropped 5bp to 4.180% in Asian trading.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "6d9a51f3cded4141",
-    "45c2a001a111cc9a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nfirquhw2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nfirquhw2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ng2cb6di2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ng2cb6di2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "100d8cd0b30d",
-   "created_at": "2026-11-19T06:20:50Z"
   }
  ]
 }
