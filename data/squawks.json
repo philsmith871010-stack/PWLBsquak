@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T08:35:38Z",
+ "generated_at": "2026-11-20T08:40:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5bafc8d34b23",
+   "ts": "2026-11-20T08:40:22Z",
+   "headline": "EU and UK agree a youth mobility scheme for 100,000 young people from each side, EU official says",
+   "detail": "An EU official says the EU and the UK have agreed a youth mobility scheme for 100,000 young people from both sides. The agreement comes on the day of the UK–EU reset summit.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9511504bbec83fdc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2q6syhar62t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2q6syhar62t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "64f8d32b1ce2",
+   "created_at": "2026-11-20T08:40:48Z"
+  },
   {
    "id": "31c090a35936",
    "ts": "2026-11-20T08:33:18Z",
@@ -6450,45 +6471,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mci4lhuq2p",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mci4lhuq2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4f99bf8c6f63",
-   "created_at": "2026-11-18T19:35:54Z"
-  },
-  {
-   "id": "81f05720e655",
-   "ts": "2026-11-18T19:31:40Z",
-   "headline": "US crude futures settle at $83.26/bbl, down $2.75 or 3.20%",
-   "detail": "NYMEX WTI crude December futures settled at $83.26 a barrel, a fall of $2.75 or 3.20% on the day. December diesel settled at $3.9723 a gallon and gasoline at $2.4819 a gallon.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "31b794472d29c8e7",
-    "fe5183c83c64872c",
-    "86104f08ed9dce69",
-    "62436a124c2da9d7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mcbqs5al2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mcbqs5al2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mcd7c5ct2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mcd7c5ct2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mcchpbeq2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mcchpbeq2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mcbr3dyi2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mcbr3dyi2s"
     }
    ],
    "model": "opus",
