@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T06:40:46Z",
+ "generated_at": "2026-11-20T06:45:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "068615c46770",
+   "ts": "2026-11-20T06:42:55Z",
+   "headline": "Sri Lanka's central bank governor says rate cuts will resume after inflation moves lower",
+   "detail": "Sri Lanka's central bank governor said the bank will go back to cutting rates now that inflation has fallen. No timing or size of cuts was given in the report.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "435793d78e13aba7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pyaxfb6r24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pyaxfb6r24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e15faaf02480",
+   "created_at": "2026-11-20T06:45:46Z"
+  },
   {
    "id": "3d54b598f650",
    "ts": "2026-11-20T06:35:55Z",
@@ -6497,27 +6518,6 @@
    "model": "opus",
    "run_id": "39fff64d3182",
    "created_at": "2026-11-18T18:01:27Z"
-  },
-  {
-   "id": "d2eedfbd1ac1",
-   "ts": "2026-11-18T17:50:15Z",
-   "headline": "UK and EU remove 'trusted partnership' wording from latest draft of joint summit statement, Reuters reports",
-   "detail": "Reuters reports that the latest draft of the UK-European Commission joint summit statement no longer refers to a trusted partnership. It says this suggests talks on special status for the UK under the EU's Made in Europe rules are proving difficult.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f16c85cfe7577d6a"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2m4mfnolx25",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2m4mfnolx25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "520e2bbbc3ee",
-   "created_at": "2026-11-18T17:51:04Z"
   }
  ]
 }
