@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T16:20:52Z",
+ "generated_at": "2026-11-20T16:40:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bc7302b44aeb",
+   "ts": "2026-11-20T16:39:13Z",
+   "headline": "Eurogroup names Germany's Brunnermeier and France's Laurence Boone as candidates for ECB chief economist",
+   "detail": "The Eurogroup named German economist Markus Brunnermeier and French economist and banker Laurence Boone as candidates for the post of ECB chief economist.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "87b085f45cb5d663",
+    "ea7da6eef78d41fc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qzl7yjvg2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qzl7yjvg2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qzladymb2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qzladymb2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9ec781d1fec7",
+   "created_at": "2026-11-20T16:40:56Z"
+  },
   {
    "id": "6815ef337972",
    "ts": "2026-11-20T16:19:37Z",
@@ -6179,27 +6206,6 @@
    "model": "opus",
    "run_id": "1bf28aa30be6",
    "created_at": "2026-11-19T11:35:42Z"
-  },
-  {
-   "id": "83a61dfd4c95",
-   "ts": "2026-11-19T11:23:24Z",
-   "headline": "China-US-Russia leaders' meeting covered Ukraine, Iran, the Korean peninsula and nuclear proliferation, Chinese state media says",
-   "detail": "Chinese state media listed Ukraine, Iran, the Korean peninsula and nuclear proliferation as the topics of the three-way meeting between the leaders of China, the US and Russia. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "eec3b474124425df"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nxhl5ies24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nxhl5ies24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bd3f59cf3649",
-   "created_at": "2026-11-19T11:25:45Z"
   }
  ]
 }
