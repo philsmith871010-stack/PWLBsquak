@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T21:30:59Z",
+ "generated_at": "2026-11-20T21:35:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "136c22608a52",
+   "ts": "2026-11-20T21:35:40Z",
+   "headline": "Iran's foreign minister Araqchi says Tehran still hopes diplomacy can end its war with the US",
+   "detail": "Iran's Foreign Minister Abbas Araqchi made the remarks in an interview with an Iranian newspaper. They come after he said earlier that the US blockade on Iran must be broken.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9b8edf5b5bbe6f82"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rk5do3s424",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rk5do3s424"
+    }
+   ],
+   "model": "opus",
+   "run_id": "78691c4aa203",
+   "created_at": "2026-11-20T21:35:55Z"
+  },
   {
    "id": "d7c8d7128253",
    "ts": "2026-11-20T21:27:08Z",
@@ -6318,27 +6339,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oggh76hj2a",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oggh76hj2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "855c7d0bc20e",
-   "created_at": "2026-11-19T15:55:44Z"
-  },
-  {
-   "id": "01c1441cebba",
-   "ts": "2026-11-19T15:50:47Z",
-   "headline": "Fed's Jefferson says he has no interest in changing the inflation target",
-   "detail": "Federal Reserve Vice Chair Philip Jefferson said he is not interested in changing the Fed's inflation target. He made the comment in the same appearance as his earlier remarks on AI and energy-driven inflation pressure.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b1eef5a84558ce63"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ogfptad72f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ogfptad72f"
     }
    ],
    "model": "opus",
