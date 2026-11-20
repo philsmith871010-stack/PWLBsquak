@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T10:05:40Z",
+ "generated_at": "2026-11-20T10:10:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2ffdc5a0ac14",
+   "ts": "2026-11-20T10:05:48Z",
+   "headline": "Estonia to shut its border crossings with Russia from 1 December and will review the closure after 6 months",
+   "detail": "The Estonian government says its border crossings with Russia will close from 1 December onwards and that it will reconsider the decision in 6 months.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9621a03f8474797f",
+    "d0c96f084270b893"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qdlqul232b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qdlqul232b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qdokdxib2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qdokdxib2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9be8529b90b4",
+   "created_at": "2026-11-20T10:10:54Z"
+  },
   {
    "id": "69a643bf0590",
    "ts": "2026-11-20T10:03:05Z",
@@ -6485,27 +6512,6 @@
    "model": "opus",
    "run_id": "bbc319b1fd96",
    "created_at": "2026-11-18T21:10:47Z"
-  },
-  {
-   "id": "018b98fd1f2f",
-   "ts": "2026-11-18T21:03:24Z",
-   "headline": "US unlikely to take action against China during Trump's Asia trip, ABC reports",
-   "detail": "ABC reports that US action against China is not expected while President Trump is travelling in Asia. This follows an earlier ABC report that Washington was weighing new penalties on China over detained Americans.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5affc3171e28204a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mhfs2yvt24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mhfs2yvt24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "98bf083f494b",
-   "created_at": "2026-11-18T21:05:45Z"
   }
  ]
 }
