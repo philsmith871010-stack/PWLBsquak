@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T10:50:50Z",
+ "generated_at": "2026-11-20T10:55:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "06fcdfb3ea09",
+   "ts": "2026-11-20T10:54:43Z",
+   "headline": "Burnham agrees UK–EU deal to begin reversing parts of Brexit, FT reports",
+   "detail": "The Financial Times reports that Prime Minister Andy Burnham has agreed the long-awaited UK–EU reset deal. No further terms were given in the report.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fd4a9209e5cb5686"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2qgd7oipu2m",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2qgd7oipu2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "25515f0ee319",
+   "created_at": "2026-11-20T10:55:45Z"
+  },
   {
    "id": "7352a8ff1c5c",
    "ts": "2026-11-20T10:50:13Z",
@@ -6437,45 +6458,6 @@
    "model": "opus",
    "run_id": "c3a1927f2378",
    "created_at": "2026-11-18T22:15:54Z"
-  },
-  {
-   "id": "54fe47f84b56",
-   "ts": "2026-11-18T22:01:34Z",
-   "headline": "Poll: 86% of economists expect the BoJ to raise its rate to 1.50% in December",
-   "detail": "In an economists' poll, 86% expect a December hike to 1.50%, and nearly 60% expect a further 25bp rise to 1.75% by end-March 2027. 83% said recent stock market volatility does not change the timing of the next hike.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e0136c47d1dba96c",
-    "dcf5dc0a9db8a15e",
-    "c07c3fd4528ecf04",
-    "facfaa6bbec8c89b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mkns4f3b2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mkns4f3b2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mknrp6cq2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mknrp6cq2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mkn2ymdk2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mkn2ymdk2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mkn2ktq32p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mkn2ktq32p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f35b7996a40a",
-   "created_at": "2026-11-18T22:05:57Z"
   }
  ]
 }
