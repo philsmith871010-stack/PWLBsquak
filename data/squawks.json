@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T16:55:45Z",
+ "generated_at": "2026-11-20T17:01:11Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "30eae49fe76d",
+   "ts": "2026-11-20T17:00:58Z",
+   "headline": "China's $2bn dollar bond draws over $72bn of orders and prices in line with US Treasuries",
+   "detail": "A bookrunner's message seen by Reuters shows China's $2bn bond drew more than $72bn in orders. It priced in line with US Treasuries, not at the 25bp premium first suggested.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "bc5ca5afa06018a4"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2r2s4yzvf25",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2r2s4yzvf25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "872e67551052",
+   "created_at": "2026-11-20T17:01:11Z"
+  },
+  {
+   "id": "931e734f2523",
+   "ts": "2026-11-20T16:57:39Z",
+   "headline": "Russia is considering restarting jet fuel exports, Tass reports",
+   "detail": "Russian state news agency Tass reports that Russia is weighing a resumption of jet fuel exports. No timing or volumes were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "064d7b958830ba1b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r2m74os52p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r2m74os52p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "872e67551052",
+   "created_at": "2026-11-20T17:01:11Z"
+  },
   {
    "id": "3a8d03ecd15d",
    "ts": "2026-11-20T16:51:23Z",
@@ -6116,90 +6158,6 @@
    "model": "opus",
    "run_id": "f39b72094607",
    "created_at": "2026-11-19T12:05:42Z"
-  },
-  {
-   "id": "ad9e7e8aff5d",
-   "ts": "2026-11-19T11:56:03Z",
-   "headline": "Putin says he discussed freedom of navigation with Trump and Xi and sees Trump as committed to settling the Ukraine conflict",
-   "detail": "Speaking after the three-way meeting with the US and Chinese leaders, Russian President Putin called the meeting useful, Interfax and other outlets report. He said he wants better US-Russia ties and that agreements with the US are hard to follow through on, but the Trump administration's approach gives grounds for optimism.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a42e2f802d4193d4",
-    "64b19975f92b7ba1",
-    "47e43c4db044cbf5",
-    "ff0ca46b6759dd55",
-    "de568a3766552fad",
-    "06da25a1b2f41b33"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzbydl4l2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzbydl4l2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzfj526c2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzfj526c2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzgaabha2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzgaabha2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzizx67q2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzizx67q2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzj2i3aa2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzj2i3aa2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzkiwb7s2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzkiwb7s2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3598e824ab12",
-   "created_at": "2026-11-19T12:01:09Z"
-  },
-  {
-   "id": "1176b927ecec",
-   "ts": "2026-11-19T11:54:03Z",
-   "headline": "Putin says he wants the three-way meetings with the Chinese and US leaders to continue",
-   "detail": "At a press briefing, Russian President Putin said he would like the Russia-China-US leaders' meetings to continue and called the trilateral summit a chapter in the history of diplomacy, RIA and Interfax report.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "29421bb716b41c92",
-    "513e8ac032e985ea",
-    "2156c252b6b42300"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nz6fxuuo2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nz6fxuuo2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nz6ggdv42p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nz6ggdv42p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nz2w4wmu2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nz2w4wmu2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "75853cae2cb2",
-   "created_at": "2026-11-19T11:55:38Z"
   }
  ]
 }
