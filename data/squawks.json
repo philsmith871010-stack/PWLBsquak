@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T07:15:47Z",
+ "generated_at": "2026-11-20T07:25:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c820d4fa6b49",
+   "ts": "2026-11-20T07:25:21Z",
+   "headline": "ONS revises UK April–September borrowing down by £3.6bn, citing stronger tax receipts",
+   "detail": "With the October public finances release, the ONS lowered its estimate of the 2026/27 deficit for April to September by £3.6bn. It put the revision down to stronger tax receipts data.",
+   "category": "fiscal",
+   "importance": 2,
+   "source_event_ids": [
+    "599d5776de0f307d"
+   ],
+   "sources": [
+    {
+     "author": "bruceandy.bsky.social",
+     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3n2q2mtnx2c2r",
+     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3n2q2mtnx2c2r"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8f062d203e86",
+   "created_at": "2026-11-20T07:25:52Z"
+  },
   {
    "id": "35c9f018d840",
    "ts": "2026-11-20T07:15:11Z",
@@ -6545,27 +6566,6 @@
    "model": "opus",
    "run_id": "dc515c2a92af",
    "created_at": "2026-11-18T18:45:45Z"
-  },
-  {
-   "id": "46e031e9f643",
-   "ts": "2026-11-18T18:39:16Z",
-   "headline": "BoC Deputy Governor Gravelle says energy price inflation is spreading",
-   "detail": "Bank of Canada Deputy Governor Gravelle said inflation from energy prices is spreading, adding to his earlier remarks on inflation expectations.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "c15940778a5440c5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m7e2n2va2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m7e2n2va2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3101757b200b",
-   "created_at": "2026-11-18T18:40:50Z"
   }
  ]
 }
