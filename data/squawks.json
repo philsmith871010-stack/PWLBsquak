@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T21:35:55Z",
+ "generated_at": "2026-11-20T21:40:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1b175f1f677b",
+   "ts": "2026-11-20T21:36:52Z",
+   "headline": "Iran's foreign minister Araghchi says Iran and the US are still exchanging messages through mediators",
+   "detail": "Iran's foreign minister Abbas Araghchi said messages between Tehran and Washington continue to pass through mediators. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3fababcedf4108c2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rk7hyrdn2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rk7hyrdn2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3df902c381f8",
+   "created_at": "2026-11-20T21:40:47Z"
+  },
   {
    "id": "136c22608a52",
    "ts": "2026-11-20T21:35:40Z",
@@ -6323,27 +6344,6 @@
    "model": "opus",
    "run_id": "4fb703f695bd",
    "created_at": "2026-11-19T16:01:10Z"
-  },
-  {
-   "id": "fd5f12bc8524",
-   "ts": "2026-11-19T15:51:12Z",
-   "headline": "Trump says he agreed with Zelensky that no decisions on Ukraine will be made without Ukraine taking part",
-   "detail": "US President Donald Trump said he and Ukrainian President Volodymyr Zelensky agreed that decisions about Ukraine should not be made unless Ukraine takes part, according to reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "338ffce7126a1a30"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oggh76hj2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oggh76hj2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "855c7d0bc20e",
-   "created_at": "2026-11-19T15:55:44Z"
   }
  ]
 }
