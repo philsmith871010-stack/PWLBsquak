@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T13:10:54Z",
+ "generated_at": "2026-11-20T13:15:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a79ddb27b424",
+   "ts": "2026-11-20T13:11:15Z",
+   "headline": "EU Council President Costa says talks are concluded on a framework for UK participation in EU civil missions",
+   "detail": "Speaking at the UK–EU summit, Costa said the EU respects the UK's 2016 decision to leave and any choice the UK makes on the long-term relationship. He added that the EU remains open to the closest possible relationship with the UK.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a30cbffc97057703",
+    "a9c8f45d822c66e9",
+    "c6ccce6a5900490d",
+    "a3d7f2725176f6cf",
+    "bf4b759fa04ec770",
+    "e1e6853c9f4588d3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qnxe3pjx2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qnxe3pjx2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qo2sxubp2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qo2sxubp2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qo3jktdl24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qo3jktdl24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qo4amhom2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qo4amhom2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qo4xfoh32a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qo4xfoh32a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qo5o4rfl2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qo5o4rfl2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c5c19e5b3069",
+   "created_at": "2026-11-20T13:15:53Z"
+  },
   {
    "id": "6dd9df756a4a",
    "ts": "2026-11-20T13:08:25Z",
@@ -6119,27 +6170,6 @@
    "model": "opus",
    "run_id": "b4d7dbebb3d5",
    "created_at": "2026-11-19T06:50:48Z"
-  },
-  {
-   "id": "2fe6ade93057",
-   "ts": "2026-11-19T06:45:15Z",
-   "headline": "US dollar reaches a 19-month high after Fed minutes point to more hikes; Australian dollar hits 10-month low on soft jobs data",
-   "detail": "Reuters reports the US dollar rose to a fresh 19-month peak on Thursday after Federal Reserve minutes and hawkish remarks from a Fed official signalled further rate rises. The Australian dollar fell to a 10-month low after weak Australian jobs data.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "c6051ff9571adc27"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2nhw7xejt2s",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2nhw7xejt2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8d6f93980ba9",
-   "created_at": "2026-11-19T06:46:00Z"
   }
  ]
 }
