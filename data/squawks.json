@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T18:15:48Z",
+ "generated_at": "2026-11-20T18:20:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d231008ed4dc",
+   "ts": "2026-11-20T18:19:23Z",
+   "headline": "ECB's Moulin says inflation is clearly too high and raising France's retirement age would cut the deficit",
+   "detail": "ECB policymaker Moulin said inflation is currently clearly too high. He also said that raising France's retirement age to match other European countries would lower the deficit.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b98c3609b81e8516",
+    "5255940c6668c43f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r76dovka2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r76dovka2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6zyvqok2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6zyvqok2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2decbad7b22f",
+   "created_at": "2026-11-20T18:20:52Z"
+  },
+  {
+   "id": "98648ce6fb38",
+   "ts": "2026-11-20T18:16:57Z",
+   "headline": "Trump says the US and China are exploring a wide-ranging deal, and wants only older-generation chips sold to China",
+   "detail": "US President Trump said Washington and Beijing are discussing a comprehensive arrangement. He also said he wants restrictions that limit China to previous-generation semiconductors.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "d72337ac5305efdc",
+    "7cbd53e33013b9bf",
+    "4331045ff200a375",
+    "c17aca1204e210a6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6zykuek2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6zykuek2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r72qjztw2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r72qjztw2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r73hcavs2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r73hcavs2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r746yjva2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r746yjva2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2decbad7b22f",
+   "created_at": "2026-11-20T18:20:52Z"
+  },
   {
    "id": "d9062ee3b10f",
    "ts": "2026-11-20T18:13:42Z",
@@ -6326,60 +6392,6 @@
    "model": "opus",
    "run_id": "1b987de7e409",
    "created_at": "2026-11-19T13:50:43Z"
-  },
-  {
-   "id": "af7c5148adba",
-   "ts": "2026-11-19T13:36:10Z",
-   "headline": "US Treasury yields trim gains after data; 10-year up 1.85bp at 5.085%, 2-year up 3.21bp at 4.832%",
-   "detail": "US Treasury yields gave back part of their earlier rise after the release of US economic data. The 10-year yield was 1.85bp higher at 5.085% and the 2-year was up 3.21bp at 4.832%.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "689970c2944cf64c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o6uyxuir2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o6uyxuir2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "85e8b14df937",
-   "created_at": "2026-11-19T13:40:50Z"
-  },
-  {
-   "id": "40a4c47859e0",
-   "ts": "2026-11-19T13:31:05Z",
-   "headline": "US Philadelphia Fed business index falls to 6.3 in November, far below the 20.1 forecast",
-   "detail": "The Philadelphia Fed manufacturing index came in at 6.3 for November, against a forecast of 20.1 and 20.9 the previous month.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "0e13ab9896e1c8de",
-    "ff75c9df53f9dbf6",
-    "75aea810cb39c503"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o6lvbd6p2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o6lvbd6p2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o6mnnqwg2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o6mnnqwg2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o6qtmpih2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o6qtmpih2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7455cdb7e561",
-   "created_at": "2026-11-19T13:35:44Z"
   }
  ]
 }
