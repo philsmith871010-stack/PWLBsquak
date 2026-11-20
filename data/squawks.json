@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T07:05:49Z",
+ "generated_at": "2026-11-20T07:15:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "35c9f018d840",
+   "ts": "2026-11-20T07:15:11Z",
+   "headline": "UK and EU expected to agree easier food trade and youth mobility at Friday's reset summit, with divisions still in place",
+   "detail": "Reuters reports that Britain and the European Union are expected to agree to ease food trade and youth mobility at a summit on Friday as part of a reset of ties. The report adds that the summit is also likely to show disagreements that remain over the longer-term relationship.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "2dc91a5b6e25d948"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2q22nv3to2v",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2q22nv3to2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3629bfb5ba65",
+   "created_at": "2026-11-20T07:15:47Z"
+  },
   {
    "id": "b7c6d86ded97",
    "ts": "2026-11-20T07:04:56Z",
@@ -6540,51 +6561,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m7e2n2va2v",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m7e2n2va2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3101757b200b",
-   "created_at": "2026-11-18T18:40:50Z"
-  },
-  {
-   "id": "131daa0a9437",
-   "ts": "2026-11-18T18:36:03Z",
-   "headline": "Fed's Barr backs further rate rises if the economy performs as expected, calling inflation too high",
-   "detail": "Federal Reserve Governor Barr said inflation is too high and must be brought back to 2% in a timely way, and that the economy is strong with low unemployment. He said he would support further hikes if the economy evolves as expected and will watch the data to decide the Fed's next move.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "104f44ac3ef69537",
-    "e0699d4e90d101c7",
-    "da0d5c54428389ce",
-    "09e303500d106b69",
-    "97fb38ea61fb596a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m76cpyoj2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m76cpyoj2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m76ccnph2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m76ccnph2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m76d373b2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m76d373b2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m76zssa72b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m76zssa72b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m77273o424",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m77273o424"
     }
    ],
    "model": "opus",
