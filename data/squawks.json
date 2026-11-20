@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T10:20:49Z",
+ "generated_at": "2026-11-20T10:25:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "77f9c23552c3",
+   "ts": "2026-11-20T10:24:55Z",
+   "headline": "Traders scale back ECB rate-hike bets and now price only two hikes by the end of 2027",
+   "detail": "Money market traders have reduced their bets on ECB tightening. Pricing now points to two rate hikes by the end of 2027.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "8f68f64e9a6fcd5d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qenwj4zo2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qenwj4zo2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5e8e54b3fb6a",
+   "created_at": "2026-11-20T10:25:40Z"
+  },
   {
    "id": "393ad19c344d",
    "ts": "2026-11-20T10:19:48Z",
@@ -6492,33 +6513,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2miepmrog2w",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2miepmrog2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ca1091373433",
-   "created_at": "2026-11-18T21:20:51Z"
-  },
-  {
-   "id": "36feb31a8ef9",
-   "ts": "2026-11-18T21:18:19Z",
-   "headline": "Iran says it used maximum restraint in defensive strikes and again urges neighbours to block US attacks from their soil",
-   "detail": "Tehran said its defensive strikes were carried out with maximum restraint. It repeated its call for neighbouring states not to let the US launch attacks from their territory.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "ff809749d987388f",
-    "6f1fc51cb7ca4b6a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mi6wx2v22a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mi6wx2v22a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2miahikk42m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2miahikk42m"
     }
    ],
    "model": "opus",
