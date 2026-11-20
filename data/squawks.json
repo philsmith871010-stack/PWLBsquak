@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T08:20:49Z",
+ "generated_at": "2026-11-20T08:35:38Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "31c090a35936",
+   "ts": "2026-11-20T08:33:18Z",
+   "headline": "ECB's Lagarde says the ECB's swap lines will become easier to access",
+   "detail": "ECB President Christine Lagarde said the central bank's swap lines will be made more accessible. No further details were given in the report.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "cd488bfe857e2cd0"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2q6ge6tfv2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2q6ge6tfv2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "94c49e06aa21",
+   "created_at": "2026-11-20T08:35:38Z"
+  },
+  {
+   "id": "a4783e1f4cd9",
+   "ts": "2026-11-20T08:31:44Z",
+   "headline": "European bond sales go above €2 trillion for the first time",
+   "detail": "Bond issuance in Europe has passed €2 trillion for the first time, according to a market newswire report.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "1c0ab6e9f0d08f53"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2q6dk6ufe2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2q6dk6ufe2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "94c49e06aa21",
+   "created_at": "2026-11-20T08:35:38Z"
+  },
   {
    "id": "50a260b61723",
    "ts": "2026-11-20T08:18:52Z",
@@ -6452,66 +6494,6 @@
    "model": "opus",
    "run_id": "4f99bf8c6f63",
    "created_at": "2026-11-18T19:35:54Z"
-  },
-  {
-   "id": "6f3ef5130023",
-   "ts": "2026-11-18T19:14:11Z",
-   "headline": "Iran's foreign minister Araghchi says Oman talks covered a regional security framework and steps to stop the war resuming",
-   "detail": "Iranian Foreign Minister Araghchi said the talks in Oman covered a regional security framework, US actions and efforts to prevent the war from returning. The posts did not report any market reaction.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9e65915260e3c3ef"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mbcitdws2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mbcitdws2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e5a2dcc1075b",
-   "created_at": "2026-11-18T19:15:50Z"
-  },
-  {
-   "id": "b37cb66f3a7b",
-   "ts": "2026-11-18T19:09:04Z",
-   "headline": "Fed minutes show some officials wanted a 25bp hike in October; staff see a slightly stronger growth outlook",
-   "detail": "Minutes of the Fed's 27-28 October meeting show some participants favoured a 25bp hike, citing high inflation with few signs of easing. A few of those said they could have accepted no change if markets clearly understood more tightening was likely. Staff kept their inflation forecast close to September's, upgraded the growth outlook slightly, and officials discussed the AI buildout at length.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "5d073b3abe6a16b0",
-    "07d175ea76961d2d",
-    "88ae386383da0a42",
-    "1f8ce4ecc0147327"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mazdrjjr26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mazdrjjr26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mazf5afi2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mazf5afi2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mazcryp22d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mazcryp22d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mazdb7n22j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mazdb7n22j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "705c7d99ab3f",
-   "created_at": "2026-11-18T19:10:52Z"
   }
  ]
 }
