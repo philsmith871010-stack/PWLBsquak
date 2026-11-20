@@ -1,8 +1,50 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T11:45:50Z",
+ "generated_at": "2026-11-20T11:55:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5da546e2f6cc",
+   "ts": "2026-11-20T11:54:11Z",
+   "headline": "France seeks a UN Security Council meeting after Russian strikes on Kyiv that hit the Austrian and Dutch embassies",
+   "detail": "France's foreign minister called for the Security Council meeting after the latest Russian strikes on Kyiv, which included hits on the Austrian and Dutch embassies.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "716e61ba79daa276"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qjnkypg42m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qjnkypg42m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "517e7db04793",
+   "created_at": "2026-11-20T11:55:44Z"
+  },
+  {
+   "id": "9c995a8b3746",
+   "ts": "2026-11-20T11:52:14Z",
+   "headline": "Houthis say they will target Saudi Arabia's Shuqaiq power plant within hours in retaliation for strikes on Yemeni power stations",
+   "detail": "In a statement, Yemen's Houthis said the attack on Saudi Arabia's Shuqaiq power plant was retaliation for strikes on the Saada and Mocha power stations. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "17453f79b3e4e7a9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qjk3fyyx26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qjk3fyyx26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "517e7db04793",
+   "created_at": "2026-11-20T11:55:44Z"
+  },
   {
    "id": "034c476657f0",
    "ts": "2026-11-20T11:44:03Z",
@@ -6218,108 +6260,6 @@
    "model": "opus",
    "run_id": "a62590a917b0",
    "created_at": "2026-11-19T06:15:50Z"
-  },
-  {
-   "id": "b32268cbc5bb",
-   "ts": "2026-11-19T03:27:08Z",
-   "headline": "Saudi Arabia launches airstrikes on Sanaa after a Houthi missile threat causes damage in Riyadh",
-   "detail": "The Saudi-led coalition said it had dealt with a Houthi missile aimed at Riyadh and that falling debris caused material damage. The Houthi-run Saba news agency then reported Saudi airstrikes on Yemen's capital.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5195b359ffecc1b3",
-    "e7dfadd5ee3f30c3",
-    "cc2bbc9ecbd6df2d",
-    "cd2e190f477f8672"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2n4txevl32v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2n4txevl32v"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2n4zv6bjs25",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2n4zv6bjs25"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mztiha332b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mztiha332b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mzyiysef2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mzyiysef2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5f6f07f2dcc8",
-   "created_at": "2026-11-19T06:10:46Z"
-  },
-  {
-   "id": "925b3a073913",
-   "ts": "2026-11-19T03:08:34Z",
-   "headline": "BoJ Governor Ueda says deflation risk is lower and the Bank's JGB holdings should fall steadily as purchases taper",
-   "detail": "Ueda said rates need to reach positive levels so that real rates can fall in a downturn, and that next year's wage talks are key to judging whether core inflation stays at 2%. He also said strong global demand is lifting Japan's exports and capital spending, and pushing up prices across a wide range of goods.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "2d272c44bb00f9da",
-    "5f2be3a082f7e480",
-    "e624f6c9c81ff3cc",
-    "5984183b4df25ce7",
-    "48cc1bda1236ad2a",
-    "08bd32013d810259",
-    "491d71001396fefe",
-    "0a3447c69ee565ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2n2fwxjgl2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2n2fwxjgl2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2n2gnoaj32t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2n2gnoaj32t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2n3cp6ccv2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2n3cp6ccv2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2n3dg7yr524",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2n3dg7yr524"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2n3l3xyiq2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2n3l3xyiq2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2n3lt3iiy2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2n3lt3iiy2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2n3srjks52t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2n3srjks52t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2n3tijuym2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2n3tijuym2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5f6f07f2dcc8",
-   "created_at": "2026-11-19T06:10:46Z"
   }
  ]
 }
