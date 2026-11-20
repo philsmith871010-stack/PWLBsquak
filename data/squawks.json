@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T21:40:47Z",
+ "generated_at": "2026-11-20T21:45:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6cf9917c7099",
+   "ts": "2026-11-20T21:40:45Z",
+   "headline": "Iran's foreign minister Araghchi says Tehran sees no reason to replace the intermediaries in its peace talks with the US",
+   "detail": "Iran's foreign minister Araghchi said Iran does not need to change the mediators used in the peace talks. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ebc0aa7e2c84227e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rkgg3y5c2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rkgg3y5c2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ee4e4ea194ba",
+   "created_at": "2026-11-20T21:45:48Z"
+  },
   {
    "id": "1b175f1f677b",
    "ts": "2026-11-20T21:36:52Z",
@@ -6318,27 +6339,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ogvrli6x2p",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ogvrli6x2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4fb703f695bd",
-   "created_at": "2026-11-19T16:01:10Z"
-  },
-  {
-   "id": "86bc6ae199de",
-   "ts": "2026-11-19T15:59:22Z",
-   "headline": "Trump says Putin told him he is angry about the Crimean Bridge attack",
-   "detail": "US President Trump said Putin had expressed anger over the bridge attack, according to NBC. Putin earlier ruled out negotiations after the attack.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "43b1cfd7f3e8c1ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ogv2iaso2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ogv2iaso2w"
     }
    ],
    "model": "opus",
