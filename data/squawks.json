@@ -1,8 +1,47 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T21:45:48Z",
+ "generated_at": "2026-11-20T21:50:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b369b5eb280a",
+   "ts": "2026-11-20T21:46:57Z",
+   "headline": "Iran's Araghchi wants Trump to say explicitly he seeks a deal and says the two-day Hormuz plan remains on offer",
+   "detail": "Iran's foreign minister said Tehran needs confidence-building steps showing the US will not resume strikes. He said enriched uranium staying in Iran is a red line but he believes a fair solution is possible.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "02e63b4dd16be31f",
+    "9ceb58c260da22e8",
+    "bf5be89e3824ac50",
+    "af10f1ca2b607331"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rkrit6cj2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rkrit6cj2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rktmfjnn2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rktmfjnn2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rkvpmuhg24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rkvpmuhg24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rkvpyuzd26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rkvpyuzd26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7ace7657247a",
+   "created_at": "2026-11-20T21:50:48Z"
+  },
   {
    "id": "6cf9917c7099",
    "ts": "2026-11-20T21:40:45Z",
@@ -6323,27 +6362,6 @@
    "model": "opus",
    "run_id": "2cdaa3d84005",
    "created_at": "2026-11-19T16:05:41Z"
-  },
-  {
-   "id": "67b66daee53d",
-   "ts": "2026-11-19T15:59:46Z",
-   "headline": "US Kansas City Fed composite index rises to 18 in November, above the 10.5 forecast",
-   "detail": "The Kansas City Fed manufacturing composite index came in at 18, against a forecast of 10.5 and a previous reading of 11.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "dac86c1fa4015e38"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ogvrli6x2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ogvrli6x2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4fb703f695bd",
-   "created_at": "2026-11-19T16:01:10Z"
   }
  ]
 }
