@@ -1,8 +1,53 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T15:15:58Z",
+ "generated_at": "2026-11-20T15:20:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "20e7db806f32",
+   "ts": "2026-11-20T15:18:21Z",
+   "headline": "US Treasury Secretary Bessent says Trump's China trip included in-depth talks on trade policy and AI",
+   "detail": "Speaking to CNBC, Bessent said Trump and Xi agreed that humans should stay involved in any military decisions made by AI. He also said AI-based attacks come from Chinese models.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "269e57817ef42836",
+    "b37a90274a5efd8f",
+    "051c30ca6003b4e4",
+    "e886e1ea0d2cf4bb",
+    "62fc8a2e97215d6d"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qv2ndyz32f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qv2ndyz32f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qv3e4c2w2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qv3e4c2w2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qv43aipn26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qv43aipn26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qv4si2632f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qv4si2632f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qv67wluw2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qv67wluw2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e938544ef27d",
+   "created_at": "2026-11-20T15:20:59Z"
+  },
   {
    "id": "4cc39ff73766",
    "ts": "2026-11-20T15:15:17Z",
@@ -6167,27 +6212,6 @@
    "model": "opus",
    "run_id": "c407d54a75f2",
    "created_at": "2026-11-19T10:01:08Z"
-  },
-  {
-   "id": "9295e8a29224",
-   "ts": "2026-11-19T09:45:25Z",
-   "headline": "ECB's Moulin says there are no signs of second-round inflation effects so far",
-   "detail": "ECB policymaker Moulin said he does not yet see second-round effects in inflation. This follows his earlier remarks that eurozone inflation is still too high and that oil is pushing it up.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "542787b510a75253"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nryfcfdf2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nryfcfdf2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c9d8ce5d65cf",
-   "created_at": "2026-11-19T09:45:50Z"
   }
  ]
 }
