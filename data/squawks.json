@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T10:10:54Z",
+ "generated_at": "2026-11-20T10:20:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "393ad19c344d",
+   "ts": "2026-11-20T10:19:48Z",
+   "headline": "No.10 says UK–EU summit negotiations have concluded and the deal is done, with talks continuing in some areas",
+   "detail": "Downing Street said the UK–EU summit deal has been agreed and both sides have settled when it will come into force, with the dates set out in a joint statement. Talks will continue on some areas.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "2fa3a9514ded95b6",
+    "0ce62bdc1bc0d7f6",
+    "c8bb28925a49c03e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qees5zqo2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qees5zqo2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qeg7pkmz2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qeg7pkmz2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qeg7dc6n2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qeg7dc6n2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6d2a4239d652",
+   "created_at": "2026-11-20T10:20:49Z"
+  },
   {
    "id": "2ffdc5a0ac14",
    "ts": "2026-11-20T10:05:48Z",
@@ -6491,27 +6524,6 @@
    "model": "opus",
    "run_id": "ca1091373433",
    "created_at": "2026-11-18T21:20:51Z"
-  },
-  {
-   "id": "2fae8b81933d",
-   "ts": "2026-11-18T21:10:18Z",
-   "headline": "Fed minutes flag financial stability risks from heavy AI investment and elevated asset prices",
-   "detail": "Minutes of the Federal Reserve's policy meeting last month, released on Wednesday, show policymakers were concerned about financial system risks linked to aggressive artificial intelligence investment and high asset prices, Reuters reports.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8aa82cee0daba7be"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2mhs55bx72a",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2mhs55bx72a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bbc319b1fd96",
-   "created_at": "2026-11-18T21:10:47Z"
   }
  ]
 }
