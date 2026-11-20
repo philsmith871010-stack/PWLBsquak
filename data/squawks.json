@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T21:50:48Z",
+ "generated_at": "2026-11-20T22:05:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "de26572ed102",
+   "ts": "2026-11-20T22:05:10Z",
+   "headline": "Trump says more work is needed before the US can reach a fair trade deal with Canada",
+   "detail": "US President Donald Trump said on Friday that he is working on a fair trade deal with Canada but that more work remains before it can be agreed, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "27783836aa1d227a"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2rls2ur3g2a",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2rls2ur3g2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ef835bba4b6e",
+   "created_at": "2026-11-20T22:05:47Z"
+  },
   {
    "id": "b369b5eb280a",
    "ts": "2026-11-20T21:46:57Z",
@@ -6336,27 +6357,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oh3faosi2p",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oh3faosi2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2cdaa3d84005",
-   "created_at": "2026-11-19T16:05:41Z"
-  },
-  {
-   "id": "8d9f0891bc50",
-   "ts": "2026-11-19T16:01:21Z",
-   "headline": "US Kansas City Fed manufacturing index rises to 23 in November from 16",
-   "detail": "The Kansas City Fed's manufacturing index came in at 23, up from 16 the previous month. No forecast was given.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "fd9924f7b6769181"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ogylsxpe2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ogylsxpe2v"
     }
    ],
    "model": "opus",
