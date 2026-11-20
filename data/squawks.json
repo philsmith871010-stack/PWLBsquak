@@ -1,8 +1,89 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T13:25:43Z",
+ "generated_at": "2026-11-20T13:31:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5bc96479dd89",
+   "ts": "2026-11-20T13:30:37Z",
+   "headline": "Canadian retail sales rise 0.8% on the month, above the 0.7% forecast",
+   "detail": "Canadian retail sales grew 0.8% month on month, against a 0.7% forecast and down from 1.2% previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8832ac34c4a78fa6"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qozyjiqx2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qozyjiqx2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "29b39773cf74",
+   "created_at": "2026-11-20T13:31:04Z"
+  },
+  {
+   "id": "bece3b5a6e1c",
+   "ts": "2026-11-20T13:26:41Z",
+   "headline": "Burnham says the Treasury puts the UK–EU deal's boost at up to 0.5% of GDP, or £17bn, with a bill due next week",
+   "detail": "Speaking after the Brussels summit, Burnham said the Treasury estimates the reset deal will add up to 0.5% of UK GDP, a £17bn boost to the economy. He said legislation to implement the deal will be brought forward next week.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "355be49a9fbdfed4",
+    "24245d3d24013d0a",
+    "68268edddcee060b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qosxxeed2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qosxxeed2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qozy5tci2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qozy5tci2j"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2qotnqovc2p",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2qotnqovc2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "29b39773cf74",
+   "created_at": "2026-11-20T13:31:04Z"
+  },
+  {
+   "id": "4a15a0a3d94a",
+   "ts": "2026-11-20T13:25:53Z",
+   "headline": "ECB's Nagel says the ECB needs to act at its December meeting",
+   "detail": "ECB Governing Council member Nagel said he believes the ECB has to do something at the December meeting. He added that this would put policy in slightly restrictive territory.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "0f894cba6a1f8e8e",
+    "d5a329d8f95b4df3"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qork54kl2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qork54kl2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qosb7ur22t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qosb7ur22t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "29b39773cf74",
+   "created_at": "2026-11-20T13:31:04Z"
+  },
   {
    "id": "481997846194",
    "ts": "2026-11-20T13:25:30Z",
@@ -6107,87 +6188,6 @@
    "model": "opus",
    "run_id": "2fc4e27659f9",
    "created_at": "2026-11-19T08:25:42Z"
-  },
-  {
-   "id": "255a343780ac",
-   "ts": "2026-11-19T08:16:55Z",
-   "headline": "Xi says China will step up communication with the US on trade and AI",
-   "detail": "Chinese President Xi said China would strengthen communication with the US on trade and artificial intelligence, Xinhua reported. The remarks follow his meeting with President Trump on the sidelines of the APEC summit.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0e7a9288d4d783d9"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nn25gecj2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nn25gecj2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c16bcb77b7c9",
-   "created_at": "2026-11-19T08:20:51Z"
-  },
-  {
-   "id": "4dc193e19924",
-   "ts": "2026-11-19T08:15:44Z",
-   "headline": "Xi tells Trump that China and the US agree to draw up an action plan for a constructive, stable strategic relationship",
-   "detail": "At his meeting with the US President, China's President Xi called for more cooperation and fewer disputes between the two countries, and for the recent positive momentum in relations to continue, according to Xinhua. He also said the two countries will cooperate on AI safety risks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f04cd383ac7aa17b",
-    "598b5b3486fd2afb",
-    "49b2ff574d349aa8",
-    "a5ee88bcac5f4550"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nmxztkmr2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nmxztkmr2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nmwlikkz2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nmwlikkz2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nmvucxwk2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nmvucxwk2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nmy2abkp2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nmy2abkp2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "44f88cae36e6",
-   "created_at": "2026-11-19T08:15:55Z"
-  },
-  {
-   "id": "252867c19d77",
-   "ts": "2026-11-19T08:10:37Z",
-   "headline": "German government confirms it has reached an agreement with UniCredit on Commerzbank",
-   "detail": "Germany confirmed an agreement with UniCredit over Commerzbank on Thursday morning. No terms were given in the report.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8f62852b1595a0ab"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nmoune2s2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nmoune2s2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "21fee9fb2046",
-   "created_at": "2026-11-19T08:10:52Z"
   }
  ]
 }
