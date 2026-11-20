@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T20:31:07Z",
+ "generated_at": "2026-11-20T20:35:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "555617eecec0",
+   "ts": "2026-11-20T20:31:27Z",
+   "headline": "Trump threatens a heavy tax on data centres built outside the US, citing competition with China over AI",
+   "detail": "The Financial Times reports that the US president threatened a 'tremendous' tax on data centres built abroad, saying the aim is to stop Beijing taking the lead in AI development.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0de64240fedd55a8"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2rgkihl7f2u",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2rgkihl7f2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "89549478dd31",
+   "created_at": "2026-11-20T20:35:44Z"
+  },
   {
    "id": "d480858c652f",
    "ts": "2026-11-20T20:28:17Z",
@@ -6354,33 +6375,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2odrei3252t",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2odrei3252t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "54ce1da30df5",
-   "created_at": "2026-11-19T15:05:41Z"
-  },
-  {
-   "id": "df04adb14ab6",
-   "ts": "2026-11-19T15:01:36Z",
-   "headline": "US leading economic indicators fall 0.3% in October against expectations of no change",
-   "detail": "The Conference Board's US leading economic index fell 0.3% month on month in October to 99.3, against a consensus of no change and an unchanged reading the previous month.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4bf3bc9acfd3d7eb",
-    "88ad4d097edbeea4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2odnprrio2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2odnprrio2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2odnqjqze2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2odnqjqze2f"
     }
    ],
    "model": "opus",
