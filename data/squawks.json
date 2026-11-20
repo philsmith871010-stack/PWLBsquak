@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T15:35:42Z",
+ "generated_at": "2026-11-20T15:40:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4e50a82b84b3",
+   "ts": "2026-11-20T15:38:37Z",
+   "headline": "Bessent says Iran's threats show US sanctions are putting it under pressure",
+   "detail": "US Treasury Secretary Bessent said Iran's threats suggest US sanctions are squeezing the country. He made the remarks while also commenting on the Fed.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a5f116a1747eef54"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qw6ulu762w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qw6ulu762w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4168629916db",
+   "created_at": "2026-11-20T15:40:55Z"
+  },
   {
    "id": "1a827ebc1822",
    "ts": "2026-11-20T15:32:45Z",
@@ -6185,27 +6206,6 @@
    "model": "opus",
    "run_id": "4347b90c3336",
    "created_at": "2026-11-19T10:50:47Z"
-  },
-  {
-   "id": "04c01839bba0",
-   "ts": "2026-11-19T10:37:50Z",
-   "headline": "Russia, US and China leaders are due to issue a joint statement within the hour, Interfax reports",
-   "detail": "Interfax reports that the leaders of Russia, the US and China are expected to release a joint statement within an hour, following their three-way meeting at the APEC summit.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "cafa705fd4a470fa"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nuw3z2dr2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nuw3z2dr2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7ef1685e0985",
-   "created_at": "2026-11-19T10:40:52Z"
   }
  ]
 }
