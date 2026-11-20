@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T17:01:11Z",
+ "generated_at": "2026-11-20T17:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e67b11423d1a",
+   "ts": "2026-11-20T17:01:33Z",
+   "headline": "Citigroup's UK subsidiary underreported $35bn of assets, WSJ reports",
+   "detail": "The Wall Street Journal reports that Citigroup's UK subsidiary underreported its assets by $35bn. The report gives no market reaction.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "3476a8a8ab440d0a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r2t5vnef26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r2t5vnef26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "df387035fa20",
+   "created_at": "2026-11-20T17:05:42Z"
+  },
   {
    "id": "30eae49fe76d",
    "ts": "2026-11-20T17:00:58Z",
@@ -6113,51 +6134,6 @@
    "model": "opus",
    "run_id": "5783fc7d86e5",
    "created_at": "2026-11-19T12:15:46Z"
-  },
-  {
-   "id": "0603a1812eb5",
-   "ts": "2026-11-19T12:04:48Z",
-   "headline": "Putin expects Russia-US moves to restore relations to continue and says a partly implemented deal beats having no deal",
-   "detail": "Russian President Putin said he expects the momentum towards restoring Russia-US relations to continue and that some decisions will also be taken in other formats. He also said an agreement that is not fully implemented is better than none, and that Russia's demands on European security are legitimate even though they have not been clearly set out.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "143f8171faabcf29",
-    "626be70ef7cfc9be",
-    "81d28ce2b11bce39",
-    "7e5e366d3b2a22c8",
-    "a0a250c298bc5712"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzrmycdj2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzrmycdj2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzlammyk26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzlammyk26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzo3ctjq2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzo3ctjq2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzpjsbkj2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzpjsbkj2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzt2tkyw2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzt2tkyw2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f39b72094607",
-   "created_at": "2026-11-19T12:05:42Z"
   }
  ]
 }
