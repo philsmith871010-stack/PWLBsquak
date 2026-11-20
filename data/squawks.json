@@ -1,8 +1,143 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T06:15:47Z",
+ "generated_at": "2026-11-20T06:20:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3e30f54f8f89",
+   "ts": "2026-11-20T06:10:12Z",
+   "headline": "Oil rises on supply worries after Houthi attacks on Riyadh and reported tanker disruption in Hormuz",
+   "detail": "Reuters reports that oil prices rose on Friday after Houthi attacks on the Saudi capital and reports of tanker disruption in the Strait of Hormuz. Prices were still on course for a weekly fall.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "237cc4a25f96a868"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2pwghcw7j2b",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2pwghcw7j2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "48a38424e270",
+   "created_at": "2026-11-20T06:20:48Z"
+  },
+  {
+   "id": "f29e8f125763",
+   "ts": "2026-11-20T06:05:11Z",
+   "headline": "BoJ policymakers mostly agree a rate hike is needed next month but differ on how far rates should rise, Reuters reports",
+   "detail": "Reuters reports that Bank of Japan policymakers broadly back a rate rise next month. They are split on where rates should eventually peak.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "b0f761596eb4a053"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2pw5io3rd2y",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2pw5io3rd2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "48a38424e270",
+   "created_at": "2026-11-20T06:20:48Z"
+  },
+  {
+   "id": "aa3de47c358d",
+   "ts": "2026-11-20T06:00:25Z",
+   "headline": "Russia carries out its biggest strikes on Kyiv's bridges of the war and hits energy infrastructure, and Kyiv brings in emergency blackouts",
+   "detail": "Kyiv's mayor said a Russian ballistic missile attack hit three bridges over the Dnipro and killed three people. Russia's defence ministry said it had targeted energy and transport infrastructure, and city officials introduced emergency blackouts.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "108535068f0fabc1",
+    "b0424ac5d57b4835",
+    "2b2fe4af5911a499",
+    "b30358c32eeca592"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2pvuxv2pd26",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2pvuxv2pd26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pubri2d224",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pubri2d224"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pucimrh52f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pucimrh52f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pvqiwwxd26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pvqiwwxd26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "48a38424e270",
+   "created_at": "2026-11-20T06:20:48Z"
+  },
+  {
+   "id": "bd6a84f7daa3",
+   "ts": "2026-11-20T05:52:52Z",
+   "headline": "Japan's 40-year government bond yield falls to 4.150%",
+   "detail": "The 40-year JGB yield fell to 4.150% during the Asian session as Japanese equities sold off.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "96d75e37865378fb"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pvhhassq2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pvhhassq2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "48a38424e270",
+   "created_at": "2026-11-20T06:20:48Z"
+  },
+  {
+   "id": "05238a3869c1",
+   "ts": "2026-11-20T05:50:13Z",
+   "headline": "Asian shares head for worst week since 2020 and the Nikkei falls 5% as the dollar holds near a 19-month high",
+   "detail": "Reuters reports that Asian shares fell on Friday as the AI sell-off deepened, and Japan's Nikkei fell 5%. The dollar has risen for eight sessions on safe-haven flows and is near a 19-month high.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "95e7ba5de29f7f25",
+    "935c22052a3976b7",
+    "25870e29c533255e"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2pu77tgjs2q",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2pu77tgjs2q"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2puzkeugp2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2puzkeugp2f"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2pvcqg7uj2y",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2pvcqg7uj2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "48a38424e270",
+   "created_at": "2026-11-20T06:20:48Z"
+  },
   {
    "id": "8fe0c7068d8a",
    "ts": "2026-11-20T04:31:36Z",
@@ -6419,111 +6554,6 @@
    "model": "opus",
    "run_id": "bb72ce36139c",
    "created_at": "2026-11-18T17:31:06Z"
-  },
-  {
-   "id": "1079d7abcfac",
-   "ts": "2026-11-18T17:11:16Z",
-   "headline": "Yemeni forces carry out drone attacks on Riyadh and southern Saudi Arabia, reports say",
-   "detail": "Reports say Yemeni forces launched drone attacks on targets in the Saudi capital, Riyadh, and in southern parts of the country. This follows Western officials saying Saudi Arabia expects its war with the Houthis to run well into 2027.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0d732d1e1ea8f7c5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m2gpdgf22b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m2gpdgf22b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d3019e8b52f8",
-   "created_at": "2026-11-18T17:15:46Z"
-  },
-  {
-   "id": "b8b4e381e58e",
-   "ts": "2026-11-18T16:58:18Z",
-   "headline": "US crude futures extend losses to more than $3/bbl on supply surplus outlook",
-   "detail": "US crude futures are reported down by more than $3 a barrel, extending the earlier drop of more than $2. The move is put down to the outlook for surplus supply.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "af20f3a6cbf62978"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lzpjo7n22f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lzpjo7n22f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ff44edb85c4d",
-   "created_at": "2026-11-18T17:01:16Z"
-  },
-  {
-   "id": "c8ef836a2e4c",
-   "ts": "2026-11-18T16:46:04Z",
-   "headline": "US crude futures drop more than $2/bbl to their lowest since 28 August on supply surplus outlook",
-   "detail": "Front-month US crude futures fell by more than $2 a barrel to the lowest level since 28 August, with the move attributed to expectations of a supply surplus.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "09fb560372269755"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lyzndrt32f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lyzndrt32f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a10e592add0b",
-   "created_at": "2026-11-18T16:51:00Z"
-  },
-  {
-   "id": "d4e4ce0351fc",
-   "ts": "2026-11-18T16:43:18Z",
-   "headline": "EU Council authorises signing of trade and investment agreements with Indonesia",
-   "detail": "The EU Council has given formal authorisation for the EU-Indonesia trade and investment agreements to be signed.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6cc0bfe3294594bc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lyup3dtl2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lyup3dtl2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e8ed4a18b9e1",
-   "created_at": "2026-11-18T16:45:52Z"
-  },
-  {
-   "id": "9b2f0cbedde6",
-   "ts": "2026-11-18T16:15:21Z",
-   "headline": "German coalition agrees one-year cut to electricity taxes for consumers and small businesses",
-   "detail": "Reuters reports that Germany's ruling coalition agreed on Wednesday to cut electricity taxes for consumers and small businesses for one year, settling a dispute between Chancellor Merz's conservatives and the SPD. Economists have warned about fiscal discipline.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "f89be753520d6bf1"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2lxcpf3mc2v",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2lxcpf3mc2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9b8a06a16d28",
-   "created_at": "2026-11-18T16:16:04Z"
   }
  ]
 }
