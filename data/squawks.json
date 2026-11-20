@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T20:35:44Z",
+ "generated_at": "2026-11-20T20:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "87d1d1ab7f47",
+   "ts": "2026-11-20T20:45:48Z",
+   "headline": "US military flags strain on its operations as Trump considers fresh strikes on Iran, FT reports",
+   "detail": "The Financial Times reports that US military officials have warned of operational pressure while President Trump weighs renewed attacks on Iran. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "72a2ac71566e7854"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rhe6fml72d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rhe6fml72d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "87278ba927ea",
+   "created_at": "2026-11-20T20:45:51Z"
+  },
   {
    "id": "555617eecec0",
    "ts": "2026-11-20T20:31:27Z",
@@ -6347,39 +6368,6 @@
    "model": "opus",
    "run_id": "6b6ae8f72603",
    "created_at": "2026-11-19T15:40:52Z"
-  },
-  {
-   "id": "27371f813b88",
-   "ts": "2026-11-19T15:03:13Z",
-   "headline": "Saudi civil defence says a Houthi attack hit a tower in Riyadh's financial centre, damaging several floors",
-   "detail": "Saudi civil defence attributed Thursday's attack on a tower in the Riyadh financial centre to the Houthis and said it damaged several floors and nearby buildings, with no injuries reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "18d046689f3e7f16",
-    "7c296cc58f8424e7",
-    "7016517342177f2b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2odqnny2d2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2odqnny2d2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2odqn3gj22v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2odqn3gj22v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2odrei3252t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2odrei3252t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "54ce1da30df5",
-   "created_at": "2026-11-19T15:05:41Z"
   }
  ]
 }
