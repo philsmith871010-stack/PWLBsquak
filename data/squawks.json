@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T17:05:42Z",
+ "generated_at": "2026-11-20T17:10:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "89e5d5f1bccc",
+   "ts": "2026-11-20T17:07:56Z",
+   "headline": "Houthis say they have attacked Saudi Arabia's Al-Shuqaiq power station and Jazan port",
+   "detail": "The Houthis announced attacks on the Al-Shuqaiq power station and Jazan port in Saudi Arabia, after earlier threatening to strike the plant. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f0d11d3b79d50084"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r36kybvj2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r36kybvj2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ea88070199e4",
+   "created_at": "2026-11-20T17:10:48Z"
+  },
   {
    "id": "e67b11423d1a",
    "ts": "2026-11-20T17:01:33Z",
@@ -6089,51 +6110,6 @@
    "model": "opus",
    "run_id": "ebd20928c256",
    "created_at": "2026-11-19T12:20:51Z"
-  },
-  {
-   "id": "442a5a73d5d7",
-   "ts": "2026-11-19T12:07:16Z",
-   "headline": "Putin says Ukraine and Europe are not yet ready to compromise on a settlement and Russia accepted US proposals in Anchorage",
-   "detail": "Russian President Putin said Russia agreed in Anchorage to compromises proposed by the US on Ukraine, but Kyiv and Europe are not yet willing to make concessions, although that could change later. He added that Russia is ready to discuss settlement terms with its partners, Interfax reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c8f9b3647a507d6e",
-    "647bba2a9d27caac",
-    "2aa3bbdc99bd16b5",
-    "7684f7febec96be6",
-    "0391cf12dbcf0631"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzvzulv624",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzvzulv624"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzy6pt252v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzy6pt252v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o22cms2b2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o22cms2b2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2o2dfj55w24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2o2dfj55w24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nzvbixnh2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nzvbixnh2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5783fc7d86e5",
-   "created_at": "2026-11-19T12:15:46Z"
   }
  ]
 }
