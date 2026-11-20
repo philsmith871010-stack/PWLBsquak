@@ -1,8 +1,83 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T06:10:48Z",
+ "generated_at": "2026-11-20T06:15:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8fe0c7068d8a",
+   "ts": "2026-11-20T04:31:36Z",
+   "headline": "Japan's 2-year government bond yield slips to 1.835%",
+   "detail": "The 2-year JGB yield fell to 1.835% in Asian trading. A JGB re-offer auction earlier produced a highest yield spread of -0.017%.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "d45c488ce31388bb",
+    "1f0f696064bcdede"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pqw5tm6b2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pqw5tm6b2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pnu623hz2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pnu623hz2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "15d1cd08fea1",
+   "created_at": "2026-11-20T06:15:47Z"
+  },
+  {
+   "id": "93610288995b",
+   "ts": "2026-11-20T04:30:22Z",
+   "headline": "Fed's Paulson says shared understanding of the outlook matters more than explicit rate guidance",
+   "detail": "Philadelphia Fed President Anna Paulson repeated on Thursday that the Fed will need to raise rates again because inflation is too high. She also argued that a shared understanding of the outlook matters more than explicit guidance on rates, Reuters reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "937ce638a4e439e0"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2pqtxjdkn2u",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2pqtxjdkn2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "15d1cd08fea1",
+   "created_at": "2026-11-20T06:15:47Z"
+  },
+  {
+   "id": "46d09ab65b5a",
+   "ts": "2026-11-20T04:05:10Z",
+   "headline": "China, Russia and the US are linked to a proposed joint declaration on global peace, SCMP reports",
+   "detail": "The South China Morning Post reports that Beijing, Moscow and Washington are linked to a proposed joint declaration on global peace. Singapore's prime minister separately praised Xi after what was described as a landmark trilateral summit with Washington and Moscow.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3bff6faf8efb76f1",
+    "556abb1f3f3c51a7"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ppgvdeh32b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ppgvdeh32b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ppuvw4ye2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ppuvw4ye2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "15d1cd08fea1",
+   "created_at": "2026-11-20T06:15:47Z"
+  },
   {
    "id": "8e26b6a12e53",
    "ts": "2026-11-20T03:20:14Z",
@@ -6449,69 +6524,6 @@
    "model": "opus",
    "run_id": "9b8a06a16d28",
    "created_at": "2026-11-18T16:16:04Z"
-  },
-  {
-   "id": "e9afd1a393c2",
-   "ts": "2026-11-18T16:03:37Z",
-   "headline": "Brent extends losses after official US inventory data; January contract at $91.95/bbl",
-   "detail": "Oil prices kept falling on Wednesday evening after the official US inventory figures were released, according to reports. January Brent crude futures on ICE stood at $91.95 per barrel.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "150458b9964ba682"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lwnqecbw2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lwnqecbw2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6fec283d62d2",
-   "created_at": "2026-11-18T16:05:43Z"
-  },
-  {
-   "id": "f4ff4be0349f",
-   "ts": "2026-11-18T14:06:27Z",
-   "headline": "UK PM Burnham declines to commit to welfare savings by 2030, a day after saying he would",
-   "detail": "City AM reports that at PMQs, when Conservative leader Kemi Badenoch asked whether he would deliver welfare savings in the near term after backing the Alan Milburn review, the Prime Minister said only that he would do everything he could. A day earlier he had said he would make the savings by 2030.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "337c5a58a1a56993"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3n2lwgn4kj5i2",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3n2lwgn4kj5i2"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2c2bc688c3a2",
-   "created_at": "2026-11-18T16:01:13Z"
-  },
-  {
-   "id": "2bb5632d98ac",
-   "ts": "2026-11-18T15:47:19Z",
-   "headline": "Trump's envoys tell Russia it is running out of time to reach a Ukraine deal, Kyiv Independent reports",
-   "detail": "The Kyiv Independent reports that US President Trump's envoys have warned Moscow that time to secure an agreement on Ukraine is running short. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b4a6e3321dbfa9b8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lvqlqt7y2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lvqlqt7y2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e9e151b9b3d6",
-   "created_at": "2026-11-18T15:50:51Z"
   }
  ]
 }
