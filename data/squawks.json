@@ -1,8 +1,80 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T06:45:46Z",
+ "generated_at": "2026-11-20T07:01:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9b147786aa81",
+   "ts": "2026-11-20T07:00:55Z",
+   "headline": "UK retail sales rise 0.7% on the month against a flat forecast, and core sales gain 0.9%",
+   "detail": "Headline UK retail sales rose 0.7% month on month, against a 0% forecast and -0.4% previously, and were up 2.3% year on year, against 1.7% forecast and 0.8% previously. Core sales rose 0.9% on the month, against 0.1% forecast and -0.7% previously, and 2.5% on the year, against 1.8% forecast and 0.8% previously.",
+   "category": "data",
+   "importance": 3,
+   "source_event_ids": [
+    "7710473fab3052b1",
+    "a78758c0c4e6ef93",
+    "8a0923f4831c6b64",
+    "6cddab5cc0790882"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzb53abi2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzb53abi2j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzb5ftga2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzb5ftga2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzb4rf7c2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzb4rf7c2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzb4g5nu2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzb4g5nu2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6ee7914b981c",
+   "created_at": "2026-11-20T07:01:08Z"
+  },
+  {
+   "id": "c2386d3b68d9",
+   "ts": "2026-11-20T06:58:31Z",
+   "headline": "Russia's foreign ministry says there is no agreement yet on the next round of Ukraine talks",
+   "detail": "Russia's foreign ministry said no date has been agreed for further Ukraine negotiations, according to Interfax. Separately, the ministry said Moscow is preparing to host European Union representatives.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0a03a5cd7860bdb0",
+    "88b6fffe793d0267",
+    "a9b152f57f29214a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pz4um35m2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pz4um35m2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pz4vbqzr2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pz4vbqzr2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pz45wley2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pz45wley2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6ee7914b981c",
+   "created_at": "2026-11-20T07:01:08Z"
+  },
   {
    "id": "068615c46770",
    "ts": "2026-11-20T06:42:55Z",
@@ -6476,48 +6548,6 @@
    "model": "opus",
    "run_id": "a48f0df703a8",
    "created_at": "2026-11-18T18:05:42Z"
-  },
-  {
-   "id": "274201ea9231",
-   "ts": "2026-11-18T18:01:10Z",
-   "headline": "US 20-year Treasury trades at 5.459% when-issued ahead of $16bn auction",
-   "detail": "The when-issued 20-year US Treasury yield was 5.459% shortly before the $16 billion auction.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "131d7f57323f45b4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2m57wrowp2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2m57wrowp2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "39fff64d3182",
-   "created_at": "2026-11-18T18:01:27Z"
-  },
-  {
-   "id": "c95dbaee24b0",
-   "ts": "2026-11-18T16:57:24Z",
-   "headline": "BoE Governor Bailey signals further rate hikes are likely if the Iran war continues and the labour market firms",
-   "detail": "Speaking at the Institute of Economic Development Conference in London, the Governor said a continuing Iran war and a firming labour market were likely to lead to more interest rate rises, City AM reports. He referred to nine months of conflict in the Middle East.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "59625efadcc23c8e"
-   ],
-   "sources": [
-    {
-     "author": "cityam.com.web.brid.gy",
-     "uri": "at://did:plc:nnaxwirbqywidimahadp42bj/app.bsky.feed.post/3n2m552p5nb42",
-     "url": "https://bsky.app/profile/cityam.com.web.brid.gy/post/3n2m552p5nb42"
-    }
-   ],
-   "model": "opus",
-   "run_id": "39fff64d3182",
-   "created_at": "2026-11-18T18:01:27Z"
   }
  ]
 }
