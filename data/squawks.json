@@ -1,8 +1,59 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T17:25:40Z",
+ "generated_at": "2026-11-20T17:31:07Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "244da61ae1d3",
+   "ts": "2026-11-20T17:30:41Z",
+   "headline": "Trump says Iran will not offer a deal he can accept and US fuel prices depend on how the Iran dispute is settled",
+   "detail": "At a press conference, US President Trump said crude oil prices have fallen 20% since the start of November, to close to $80 a barrel. He also said 10 more trade deals will be announced soon after his Asia trip.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "276f3316afd15705",
+    "2cfdff492508f721",
+    "a00ab0f78fe9dc42",
+    "c99a7a0be1ef7d79",
+    "ed1d5d4601b0f446",
+    "5db08fc925dadf0b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r4haxpy22w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r4haxpy22w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r4hbesvs2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r4hbesvs2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r4fsp54v2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r4fsp54v2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r4cxfylw2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r4cxfylw2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r4dpn7w52j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r4dpn7w52j"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r4dpaxbc2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r4dpaxbc2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9169d87c396d",
+   "created_at": "2026-11-20T17:31:07Z"
+  },
   {
    "id": "b582dd1fb82b",
    "ts": "2026-11-20T17:25:10Z",
@@ -6161,27 +6212,6 @@
    "model": "opus",
    "run_id": "f48ff34651ee",
    "created_at": "2026-11-19T12:31:03Z"
-  },
-  {
-   "id": "222efd3fb7ea",
-   "ts": "2026-11-19T12:25:11Z",
-   "headline": "Trump says the US will see what happens in its conflict with Iran after 1 January",
-   "detail": "US President Trump made the comments in remarks broadcast on Thursday, Reuters reports. He did not say why the date mattered.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "12532ae3b595eac7"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2o2w2i2yn2a",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2o2w2i2yn2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fbd21af37e45",
-   "created_at": "2026-11-19T12:25:45Z"
   }
  ]
 }
