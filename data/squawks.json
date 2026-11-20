@@ -1,8 +1,74 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T13:45:54Z",
+ "generated_at": "2026-11-20T15:01:19Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "69603fe31b2c",
+   "ts": "2026-11-20T15:01:05Z",
+   "headline": "Eurozone flash consumer confidence rises to -16.9, beating the -18 forecast",
+   "detail": "The flash eurozone consumer confidence reading was -16.9, compared with a -18 forecast and -17.9 previously.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "5a89e9ab4554ccff"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qu3qlck726",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qu3qlck726"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9b5a3a4945e1",
+   "created_at": "2026-11-20T15:01:19Z"
+  },
+  {
+   "id": "bc9b3f6090a6",
+   "ts": "2026-11-20T15:01:03Z",
+   "headline": "University of Michigan final sentiment comes in at 51.5, and 1-year inflation expectations ease to 3.7% from 4.3%",
+   "detail": "In the final University of Michigan survey, sentiment was 51.5 against a 51.6 forecast and 51.0 previously. Expectations rose to 52.9 against a 51.2 forecast, and current conditions fell to 49.4 against a 52.3 forecast. 1-year inflation expectations were 3.7% against a 4.2% forecast, and 5-year expectations were 3.3% against a 3.4% forecast and 3.4% previously.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "524f533dc8cc53df",
+    "1e92a6090f5e55c4",
+    "658fa898eeca2972",
+    "960eedf2c5c6bdda",
+    "72d963092b173693"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qu3ouix42p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qu3ouix42p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qu2xmmzz2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qu2xmmzz2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qu3oewvr2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qu3oewvr2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qu3p6pvj2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qu3p6pvj2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qu3pwtrb24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qu3pwtrb24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9b5a3a4945e1",
+   "created_at": "2026-11-20T15:01:19Z"
+  },
   {
    "id": "bccfca6ec6af",
    "ts": "2026-11-20T13:43:08Z",
@@ -6146,54 +6212,6 @@
    "model": "opus",
    "run_id": "7fe04113f70c",
    "created_at": "2026-11-19T09:10:51Z"
-  },
-  {
-   "id": "55354ca09202",
-   "ts": "2026-11-19T09:04:17Z",
-   "headline": "Xi tells Putin and Trump that nuclear war cannot be won and calls for a full ban on nuclear weapons",
-   "detail": "China's president made the remarks at the three-way meeting with the US and Russian leaders, Xinhua reports. He called for nuclear weapons to be comprehensively banned and destroyed.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0f0253c75e64223e",
-    "9d5141dc77679cf7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2npo4b2fg2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2npo4b2fg2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2npot2qcw2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2npot2qcw2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8de7c2c74d4b",
-   "created_at": "2026-11-19T09:05:43Z"
-  },
-  {
-   "id": "811982ce9f5e",
-   "ts": "2026-11-19T09:02:39Z",
-   "headline": "OBR chair Haskel says UK labour market weakness stems mainly from falling labour demand and global instability, not AI",
-   "detail": "The Office for Budget Responsibility chair said this in an interview clip published by the IFS. He said AI could bring significant change in future but is not the main cause of the current weakening in the UK jobs market.",
-   "category": "fiscal",
-   "importance": 1,
-   "source_event_ids": [
-    "05838d211929d0c8"
-   ],
-   "sources": [
-    {
-     "author": "theifs.bsky.social",
-     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3n2nplvyqoh2f",
-     "url": "https://bsky.app/profile/theifs.bsky.social/post/3n2nplvyqoh2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8de7c2c74d4b",
-   "created_at": "2026-11-19T09:05:43Z"
   }
  ]
 }
