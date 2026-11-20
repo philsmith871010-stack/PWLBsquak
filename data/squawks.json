@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T11:35:46Z",
+ "generated_at": "2026-11-20T11:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "034c476657f0",
+   "ts": "2026-11-20T11:44:03Z",
+   "headline": "Poland's Tusk asks NATO for an immediate boost to air defences after Russian missiles land on Polish territory",
+   "detail": "Polish Prime Minister Donald Tusk called for NATO to strengthen Poland's air defences without delay. The request follows the day's incident in which Poland said Russian missiles and a drone came down on its territory.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "cadaf2c35ffe7d13"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qj3hbrzq2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qj3hbrzq2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d950d07bfa34",
+   "created_at": "2026-11-20T11:45:50Z"
+  },
   {
    "id": "a85994236378",
    "ts": "2026-11-20T11:33:08Z",
@@ -6294,33 +6315,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2n3tijuym2t",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2n3tijuym2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5f6f07f2dcc8",
-   "created_at": "2026-11-19T06:10:46Z"
-  },
-  {
-   "id": "0a0a4df4622d",
-   "ts": "2026-11-19T02:48:36Z",
-   "headline": "EU Parliament and Council agree to delay methane monitoring and reporting rules for fossil fuel importers by two years",
-   "detail": "The European Parliament said it had agreed with the Council to push back the methane monitoring and reporting deadlines that apply to energy importers by two years.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "6172ac692c4ac93e",
-    "a9f06a41c0c36f3c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2n2ocfa662p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2n2ocfa662p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2n2ozzqtx2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2n2ozzqtx2a"
     }
    ],
    "model": "opus",
