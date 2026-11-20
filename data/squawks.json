@@ -1,8 +1,62 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T15:25:44Z",
+ "generated_at": "2026-11-20T15:31:06Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0129964ea8d5",
+   "ts": "2026-11-20T15:29:07Z",
+   "headline": "US Treasury Secretary Bessent questions the case for a bigger Fed hike and says the Fed should focus on the outlook",
+   "detail": "In a CNBC interview, US Treasury Secretary Bessent said it seemed erratic for the Fed to want a larger rate hike. He said the Fed should look ahead rather than at past data.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "66963b758df98ac1",
+    "d41e4d84e3694ba0",
+    "ae33f00a8e783690"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qvnv3rht2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qvnv3rht2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qvnvhwkr2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qvnvhwkr2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qvomb7oo2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qvomb7oo2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b24208e8f241",
+   "created_at": "2026-11-20T15:31:06Z"
+  },
+  {
+   "id": "76b84f93be53",
+   "ts": "2026-11-20T15:26:19Z",
+   "headline": "US 5-year Treasury yield drops 10bp on the day to 4.75%",
+   "detail": "The US 5-year Treasury yield is reported 10bp lower on the day at 4.75%. Earlier, the 10-year yield was reported down 8bp.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "90beb9ab818fbbae"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qviv6aq32s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qviv6aq32s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b24208e8f241",
+   "created_at": "2026-11-20T15:31:06Z"
+  },
   {
    "id": "5fdc6e2c204b",
    "ts": "2026-11-20T15:24:20Z",
@@ -6122,84 +6176,6 @@
    "model": "opus",
    "run_id": "903c4ad56e9a",
    "created_at": "2026-11-19T10:31:00Z"
-  },
-  {
-   "id": "7f4c4e35a917",
-   "ts": "2026-11-19T10:24:51Z",
-   "headline": "ECB's Nagel says a rate hike would send a clear signal and sees no wage-price spiral",
-   "detail": "Bundesbank President and ECB Governing Council member Joachim Nagel also said he is confident the ECB will reach its 2% inflation target.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "ca60e48c1785dd15",
-    "9e19e1ce6df040bb",
-    "c6b53f9201a13f01"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nu42enul24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nu42enul24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nu5ibrjp2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nu5ibrjp2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nu6vqsbf2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nu6vqsbf2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b9a28fd85ecb",
-   "created_at": "2026-11-19T10:25:43Z"
-  },
-  {
-   "id": "cdeb9d5cc44e",
-   "ts": "2026-11-19T10:23:15Z",
-   "headline": "TSMC and Samsung suspend some chip shipments to Chinese customers under a new US rule, FT reports",
-   "detail": "According to the FT, the two chipmakers have paused some shipments while they apply for US Commerce Department licences. Projects for ByteDance and Kunlun at Samsung Foundry and production of Xiaomi consumer chips at TSMC are reported to be on hold.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b0bf9549021b832e",
-    "b2414d529da9d35b",
-    "7287bd31f3726c6b",
-    "c227c1e820ca9b23",
-    "7d3862672a171f64"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nu42qaly2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nu42qaly2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nu4rn4sh2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nu4rn4sh2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nu66wwbi2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nu66wwbi2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nu6w377i2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nu6w377i2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nuadcaww2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nuadcaww2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b9a28fd85ecb",
-   "created_at": "2026-11-19T10:25:43Z"
   }
  ]
 }
