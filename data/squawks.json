@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T15:45:54Z",
+ "generated_at": "2026-11-20T16:01:14Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6238ab93551c",
+   "ts": "2026-11-20T15:58:38Z",
+   "headline": "European gas futures climb as much as 5% to €88.7/MWh",
+   "detail": "European gas futures were reported up by as much as 5% on the day, reaching €88.7/MWh.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "ca94c5b1ae2467ac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qxco46wp2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qxco46wp2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9e70b6522d9d",
+   "created_at": "2026-11-20T16:01:14Z"
+  },
   {
    "id": "7c03cd73d2ee",
    "ts": "2026-11-20T15:41:48Z",
@@ -6179,33 +6200,6 @@
    "model": "opus",
    "run_id": "44269a857ade",
    "created_at": "2026-11-19T11:05:41Z"
-  },
-  {
-   "id": "4eaaf6a397c6",
-   "ts": "2026-11-19T10:51:54Z",
-   "headline": "China, US and Russia issue joint peace declaration that includes a plan to raise refined fuel production and supply",
-   "detail": "Chinese state media report that the joint statement from the three leaders sets out plans to increase both production and supply of refined petroleum products. The statement also restates that a nuclear war cannot be won and must never be fought.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1c61a799208988ac",
-    "ee59bfb13a38e40f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nvpbmdwj2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nvpbmdwj2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nvs2xedq2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nvs2xedq2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "570261b1cc63",
-   "created_at": "2026-11-19T10:55:41Z"
   }
  ]
 }
