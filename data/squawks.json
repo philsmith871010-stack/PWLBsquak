@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T11:55:44Z",
+ "generated_at": "2026-11-20T12:01:16Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2150b8657229",
+   "ts": "2026-11-20T11:56:36Z",
+   "headline": "Burnham calls the UK–EU reset deal a landmark agreement and a good day for Britain and Europe",
+   "detail": "The Prime Minister spoke on the agreement reached at Friday's UK–EU summit. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "95372ce8ceeda041",
+    "d79f1b98940cfdee"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qjqgmhka2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qjqgmhka2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qjrv6g452j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qjrv6g452j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4ce658e39c90",
+   "created_at": "2026-11-20T12:01:16Z"
+  },
   {
    "id": "5da546e2f6cc",
    "ts": "2026-11-20T11:54:11Z",
@@ -6228,33 +6255,6 @@
      "author": "financialtimes.com",
      "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2ndav54um2p",
      "url": "https://bsky.app/profile/financialtimes.com/post/3n2ndav54um2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a62590a917b0",
-   "created_at": "2026-11-19T06:15:50Z"
-  },
-  {
-   "id": "f5351cf7946f",
-   "ts": "2026-11-19T05:20:14Z",
-   "headline": "IEA calls the Iran war the largest oil supply shock since 1970 and says the policy response could cut oil demand by 4% by 2035",
-   "detail": "The International Energy Agency said on Thursday that the Middle East conflict has caused the biggest disruption ever to global oil and gas trade. It said world oil demand could fall by more than 4% by 2035 if governments speed up electrification, efficiency and fuel-switching in response.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "c684c10d50af61b1",
-    "5fe3d760c25f709a"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2nd66julc22",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2nd66julc22"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nc2omant2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nc2omant2a"
     }
    ],
    "model": "opus",
