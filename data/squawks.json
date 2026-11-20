@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T19:50:50Z",
+ "generated_at": "2026-11-20T20:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "92bb0b91b64e",
+   "ts": "2026-11-20T20:23:15Z",
+   "headline": "Trump weighs new strikes on Iran as hawkish US and Israeli officials push for action, FT reports",
+   "detail": "The Financial Times reports that President Trump is considering fresh strikes on Iran, with hawkish officials in Washington and Israel urging him to act. The same report says the US military has warned of strain on its forces.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "799e8f5cd7eb9e6d",
+    "7768e3326805eafe"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rg3t35ir2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rg3t35ir2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rg33sty52v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rg33sty52v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "29f09bf4e7ba",
+   "created_at": "2026-11-20T20:25:41Z"
+  },
   {
    "id": "0610323799c6",
    "ts": "2026-11-20T19:50:15Z",
@@ -6354,27 +6381,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oczfnabo2p",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oczfnabo2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2314f8d29007",
-   "created_at": "2026-11-19T14:50:50Z"
-  },
-  {
-   "id": "1081fc0109c0",
-   "ts": "2026-11-19T14:49:01Z",
-   "headline": "US extends deadline for talks on sale of Lukoil International's foreign assets to 19 December",
-   "detail": "A US statement extended until 19 December the deadline for talks on selling the foreign assets of sanctioned Russian oil producer Lukoil's international unit, Lukoil International GmbH. This follows the US Treasury's earlier Russia-related general licence covering dealings with the company.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5d2fc4bed3a8b2bd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ocxbfjhv2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ocxbfjhv2m"
     }
    ],
    "model": "opus",
