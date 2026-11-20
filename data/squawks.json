@@ -1,8 +1,212 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T06:01:09Z",
+ "generated_at": "2026-11-20T06:05:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "136da58eeb88",
+   "ts": "2026-11-20T01:02:06Z",
+   "headline": "China leaves its 1-year and 5-year loan prime rates at 3.00% and 3.50%, in line with forecasts",
+   "detail": "The People's Bank of China kept both benchmark lending rates unchanged for an 18th consecutive month, matching expectations. The central bank also added 379.5bn yuan through overnight reverse repos at 1.25%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "eacab5ccf21fd7a9",
+    "baa695bedee6698b",
+    "3b229163a1877b7c",
+    "8c9cea940a3150b5",
+    "eb37cf2da4d162ef",
+    "fb7fbe94c8bdf06b",
+    "a9e875b82f352e42",
+    "49f2659a5cd8afd5"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pf7kku722f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pf7kku722f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pfcgbxfi2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pfcgbxfi2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pfcfxhzw24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pfcfxhzw24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pf5hjza32d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pf5hjza32d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pf5h76p72b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pf5h76p72b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pgb4bjoq24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pgb4bjoq24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pgciwpv62a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pgciwpv62a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pgd7xxua24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pgd7xxua24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ae27f0b9abec",
+   "created_at": "2026-11-20T06:05:46Z"
+  },
+  {
+   "id": "dc8c30e30a14",
+   "ts": "2026-11-20T01:00:21Z",
+   "headline": "Fed's Barr warns that regulatory changes underway at the Fed may raise financial sector risks",
+   "detail": "Fed Governor Michael Barr said on Thursday that changes to US financial regulation could make it harder to spot and respond to future market stress, Reuters reported.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "10785a7ade3c9f29"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2pf4fzhes2l",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2pf4fzhes2l"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ae27f0b9abec",
+   "created_at": "2026-11-20T06:05:46Z"
+  },
+  {
+   "id": "1d53c85413f7",
+   "ts": "2026-11-20T00:53:09Z",
+   "headline": "JGB yields fall, with the 20-year down 3.5bp at 3.685%, as the Nikkei drops 4.5%",
+   "detail": "The 5-year JGB yield fell 2.5bp to 2.195%, and Japanese bonds were reported to be tracking strength in US Treasuries. Asian equities opened lower amid global risk aversion, and Taiwan's benchmark index fell more than 4%.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "e971314b9e44004c",
+    "129e8ef0b299f276",
+    "b5dfe0acbbc5ed6f",
+    "0424f955fcb2cb0c",
+    "bdf3f79e941c4343",
+    "e03abaa5fa174a5c",
+    "135114ba1b5e9910",
+    "d849755d29cd9f4c",
+    "86f3adc60cf7c87b",
+    "eac4cc5797cfad88",
+    "969fef6641459053"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pepjd3ce2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pepjd3ce2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2peqa5r542t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2peqa5r542t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pdlgcolw2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pdlgcolw2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pe43fiu32d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pe43fiu32d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pebocmxh2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pebocmxh2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pdf6qyp726",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pdf6qyp726"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pdtrwx5d2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pdtrwx5d2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pdd377es2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pdd377es2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pd4rzknz2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pd4rzknz2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pfjjwiby2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pfjjwiby2a"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pfhehsva2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pfhehsva2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ae27f0b9abec",
+   "created_at": "2026-11-20T06:05:46Z"
+  },
+  {
+   "id": "dc2483eddf13",
+   "ts": "2026-11-20T00:23:35Z",
+   "headline": "Fed's Paulson says steady long-term inflation expectations reflect Fed credibility and wage growth is consistent with 2% inflation",
+   "detail": "Paulson described wage growth that fits with 2% inflation as a positive sign. These remarks follow her earlier call for more tightening.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "b50c4e3cd460240b",
+    "3cc9202c0587fdfc",
+    "1da16d362e1436eb",
+    "42d7ca46df2f718a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pczbnnp626",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pczbnnp626"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pd2oaeu62m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pd2oaeu62m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pd67ngqg2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pd67ngqg2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pd6adjmb24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pd6adjmb24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ae27f0b9abec",
+   "created_at": "2026-11-20T06:05:46Z"
+  },
   {
    "id": "02828e3bd7e1",
    "ts": "2026-11-20T00:18:50Z",
@@ -6242,114 +6446,6 @@
    "model": "opus",
    "run_id": "dfc6dfeeb862",
    "created_at": "2026-11-18T15:35:39Z"
-  },
-  {
-   "id": "b5f75c8bcefb",
-   "ts": "2026-11-18T15:29:19Z",
-   "headline": "BoE Governor Bailey says inflation will rise further and calls the rise very frustrating; stronger food inflation has not materialised",
-   "detail": "The Bank of England Governor said, when asked about rising inflation, that it was enormously frustrating and that he expects inflation to go up further. He also said the expected pick-up in food inflation has not happened.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "599449d5bb960ff6",
-    "cd5f5ff9b36a966a",
-    "d4e776c753e64aea"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lupokwfg2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lupokwfg2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2luqg663n2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2luqg663n2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lur5axkr24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lur5axkr24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "286c46fd690e",
-   "created_at": "2026-11-18T15:31:14Z"
-  },
-  {
-   "id": "3366480d30c0",
-   "ts": "2026-11-18T15:21:49Z",
-   "headline": "Czech LNG deal with the US will cover 20% of the country's LNG consumption, industry and trade minister says",
-   "detail": "Czech Minister of Industry and Trade Havlicek gave the figure in Warsaw. It refers to the long-term US LNG purchase deal the Czech Republic is finalising.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "ab9fe5eed8c0145d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lucyqnmd2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lucyqnmd2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e7095fd34ac2",
-   "created_at": "2026-11-18T15:25:39Z"
-  },
-  {
-   "id": "dda1c03c531a",
-   "ts": "2026-11-18T15:19:00Z",
-   "headline": "Czechia is finalising a 15-20 year deal with the US to buy 1.4 bcm of LNG, industry and trade minister says",
-   "detail": "Czech Minister of Industry and Trade Havlicek said in Warsaw that the country is completing a long-term contract with the US, lasting 15 to 20 years, for 1.4 bcm of LNG.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "126e1897b845d89a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lu5xeeqg2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lu5xeeqg2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8406a8aa0155",
-   "created_at": "2026-11-18T15:20:57Z"
-  },
-  {
-   "id": "7883786d464e",
-   "ts": "2026-11-18T15:06:41Z",
-   "headline": "China and South Korea finish the second phase of free-trade talks; Beijing says it will boost investment between the two countries",
-   "detail": "China published a statement on progress towards a trade agreement with South Korea. The statement said the second phase of talks was complete and that both sides would expand investment in each other.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a9b48fd6cddf7e25",
-    "414a1b4af9cb1c24",
-    "374a5c767e9d6308"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lth7dbvl2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lth7dbvl2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lthwpy3f26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lthwpy3f26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2lthx3smz24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2lthx3smz24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "12df9c0e160c",
-   "created_at": "2026-11-18T15:10:49Z"
   }
  ]
 }
