@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T10:40:50Z",
+ "generated_at": "2026-11-20T10:45:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bebdb6697906",
+   "ts": "2026-11-20T10:45:34Z",
+   "headline": "Zelenskiy says Russia fired more than 110 missiles and 400 drones at Ukraine in one of its largest attacks",
+   "detail": "Ukraine's President Zelenskiy gave the figures for the latest Russian attack and called it one of the most massive of the war. Earlier reports said the strikes hit Kyiv's bridges and energy infrastructure, and Kyiv brought in emergency blackouts.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "71bb76b954cf9cbb",
+    "46b9e09bda80a43e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qfsuohjn2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qfsuohjn2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qfsv2prk2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qfsv2prk2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "81c9e57d6f33",
+   "created_at": "2026-11-20T10:45:52Z"
+  },
   {
    "id": "9782dc822d71",
    "ts": "2026-11-20T10:40:29Z",
@@ -6449,39 +6476,6 @@
    "model": "opus",
    "run_id": "2645467927aa",
    "created_at": "2026-11-18T22:01:11Z"
-  },
-  {
-   "id": "9537550e8332",
-   "ts": "2026-11-18T21:54:10Z",
-   "headline": "Moody's says US growth in 2026 beat its expectations and expects Congress to raise or suspend the debt limit in time",
-   "detail": "Moody's said the US economy has grown more strongly in 2026 than it first expected, and that it expects Congress to raise or suspend the debt limit before the Treasury runs out of borrowing capacity, possibly after long negotiations. It also said it expects the US to keep its record of effective monetary policy under an independent Fed.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "3bf2ed91f9888087",
-    "7854ce515300ad88",
-    "ae9a29a423d908c8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mkaktqiy2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mkaktqiy2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mkbxlh3g2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mkbxlh3g2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mkdevsws2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mkdevsws2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c5f27de1ea76",
-   "created_at": "2026-11-18T21:55:46Z"
   }
  ]
 }
