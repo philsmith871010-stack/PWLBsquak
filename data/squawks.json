@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T10:01:11Z",
+ "generated_at": "2026-11-20T10:05:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "69a643bf0590",
+   "ts": "2026-11-20T10:03:05Z",
+   "headline": "Polish general says 11 objects threatened Polish airspace and 3 of them crossed into it",
+   "detail": "General Nowak of Poland's military gave the figures on Friday as the incursion story continued, after Poland said missiles and a drone that came down on its territory came from Russia.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "8c81dbcda8e407c2"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qdgvs3xz24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qdgvs3xz24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cf1d6d4d9a2e",
+   "created_at": "2026-11-20T10:05:40Z"
+  },
   {
    "id": "9bcfb0c0a6b6",
    "ts": "2026-11-20T10:00:18Z",
@@ -6485,33 +6506,6 @@
    "model": "opus",
    "run_id": "98bf083f494b",
    "created_at": "2026-11-18T21:05:45Z"
-  },
-  {
-   "id": "89b1425ca2c0",
-   "ts": "2026-11-18T21:00:38Z",
-   "headline": "US TIC long-term net inflows slow to $155.3B; overall net capital flows rise to $261.0B",
-   "detail": "US Treasury International Capital data show net long-term transactions of $155.3B, down from a revised $285.0B. Overall net capital flows were $261.0B, up from a revised $203.0B.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1c89d017fc2a4fe1",
-    "6fb3ae503e188974"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mhatexxr2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mhatexxr2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mhbka2h42w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mhbka2h42w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fa05b7ac6b9a",
-   "created_at": "2026-11-18T21:01:14Z"
   }
  ]
 }
