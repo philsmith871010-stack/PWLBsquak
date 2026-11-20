@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T16:01:14Z",
+ "generated_at": "2026-11-20T16:05:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "02047235403d",
+   "ts": "2026-11-20T16:04:15Z",
+   "headline": "Missile strikes Iran's Qeshm Island in the south, Tasnim reports, with no details yet on damage",
+   "detail": "Iran's Tasnim News Agency reported a missile hit Qeshm Island in southern Iran and gave no information on any damage. The report did not say who fired the missile.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "169cb63875359c5e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qxmpls6z2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qxmpls6z2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "19201d841725",
+   "created_at": "2026-11-20T16:05:50Z"
+  },
   {
    "id": "6238ab93551c",
    "ts": "2026-11-20T15:58:38Z",
@@ -6173,33 +6194,6 @@
    "model": "opus",
    "run_id": "0d030f6a7ad8",
    "created_at": "2026-11-19T11:15:46Z"
-  },
-  {
-   "id": "05ee1beece2a",
-   "ts": "2026-11-19T11:01:16Z",
-   "headline": "Bundesbank expects German growth to pick up in the fourth quarter and says higher rates will weigh on investment and construction",
-   "detail": "The Bundesbank says German economic growth should speed up in the fourth quarter. It also says higher interest rates will hold back investment and construction.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "65aa35577aa57f92",
-    "8dd95700cd803196"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nw7zk7gy2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nw7zk7gy2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2nw7zuad62v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2nw7zuad62v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "44269a857ade",
-   "created_at": "2026-11-19T11:05:41Z"
   }
  ]
 }
