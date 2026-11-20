@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-20T08:01:13Z",
+ "generated_at": "2026-11-20T08:20:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "50a260b61723",
+   "ts": "2026-11-20T08:18:52Z",
+   "headline": "Ukraine's nuclear plants reduce output after Russian strikes on energy grid, with outages in Kyiv and ten regions",
+   "detail": "Ukraine's deputy energy minister says the nuclear power plants cut output after Russian attacks on energy distribution. He says the overnight strikes caused power cuts in Kyiv and ten regions.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "934409d485a5535c",
+    "c3df43b0e7c5d459"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2q5mk4j3e2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2q5mk4j3e2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2q5pelhpo2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2q5pelhpo2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d1ec70f98eb8",
+   "created_at": "2026-11-20T08:20:49Z"
+  },
   {
    "id": "12b241be1323",
    "ts": "2026-11-20T08:00:22Z",
@@ -6485,69 +6512,6 @@
    "model": "opus",
    "run_id": "705c7d99ab3f",
    "created_at": "2026-11-18T19:10:52Z"
-  },
-  {
-   "id": "2ab46b42e0ac",
-   "ts": "2026-11-18T19:01:35Z",
-   "headline": "Fed minutes show a couple of officials saw a December hike of more than 25bp as possibly warranted; some called the hold a close call",
-   "detail": "Minutes of the Fed's October meeting show that a few officials who backed no change called it a close call. A few who favoured a hike said they could have accepted a hold if markets clearly understood more tightening was likely. Many stressed that the hold did not weaken their commitment to the 2% target, and staff saw a similar inflation outlook to September with slightly stronger growth.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "4e3bd16b493d76fa",
-    "403dde24a19e6ed3",
-    "5ca5d2f347d91e0f",
-    "d31fd5b2d956b42c",
-    "9ed246385cdc7fa1",
-    "a4da1c4702b3657f",
-    "004347bf58b48d0b",
-    "4d0c9730e8319a8b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2malx4no62t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2malx4no62t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2malwck7n2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2malwck7n2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mampq7xi2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mampq7xi2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mamovnsx2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mamovnsx2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mani7u6m24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mani7u6m24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2malxiwk42w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2malxiwk42w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2manh3yz52f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2manh3yz52f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2mapkxbtg2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2mapkxbtg2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "41dd9a74f3c1",
-   "created_at": "2026-11-18T19:05:52Z"
   }
  ]
 }
