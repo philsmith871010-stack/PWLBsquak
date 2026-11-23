@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T14:01:19Z",
+ "generated_at": "2026-11-23T14:05:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "17b61908a1e7",
+   "ts": "2026-11-23T14:01:33Z",
+   "headline": "Bank of Israel leaves its interest rate unchanged, Israeli reports say",
+   "detail": "Reports in Israel say the Bank of Israel has kept its policy rate unchanged. The reports did not give the rate level.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "88c0a3f950a5c276"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yc63dapi2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yc63dapi2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "55ba51dc2ba1",
+   "created_at": "2026-11-23T14:05:42Z"
+  },
   {
    "id": "4ceac02ae771",
    "ts": "2026-11-23T13:58:17Z",
@@ -6095,27 +6116,6 @@
    "model": "opus",
    "run_id": "bc0c39ad2dcf",
    "created_at": "2026-11-19T20:35:44Z"
-  },
-  {
-   "id": "aa9ca92157c9",
-   "ts": "2026-11-19T20:31:02Z",
-   "headline": "Fed's Goolsbee says services inflation is key to judging whether price pressures come from demand or energy costs",
-   "detail": "Chicago Fed President Goolsbee said in remarks on Thursday that services inflation trends help show whether price pressures come from demand or from factors such as energy costs.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "a15096aef9bde298"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ow2tg4jz2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ow2tg4jz2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4d764505bba7",
-   "created_at": "2026-11-19T20:31:07Z"
   }
  ]
 }
