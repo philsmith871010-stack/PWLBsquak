@@ -1,8 +1,116 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T06:25:46Z",
+ "generated_at": "2026-11-23T06:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fa50a0150e5e",
+   "ts": "2026-11-22T23:58:48Z",
+   "headline": "Libya's NOC says pipeline valve closure will cut Sharara output by about 350,000 bpd",
+   "detail": "Libya's National Oil Corporation said an unlawful group had closed a valve on the Sharara oil pipeline, causing a loss of around 350,000 barrels per day of production. Separately, Brent crude futures were reported down $1 at $91.57 a barrel in early trading.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "13c894664b3ad062",
+    "f47a4877192d4b2c",
+    "44c02569a4597715"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wt34q66624",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wt34q66624"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wt6lqfln2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wt6lqfln2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wswxf5an24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wswxf5an24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5d96acd4b430",
+   "created_at": "2026-11-23T06:31:03Z"
+  },
+  {
+   "id": "a039eb12ccb8",
+   "ts": "2026-11-22T23:55:40Z",
+   "headline": "Trump says Iran fired more drones and missiles last week than at any time in over a year, all intercepted",
+   "detail": "In a Truth Social post, the US president said Iran had launched more drones and missiles in the past week than at any point in more than a year, adding that all had been shot down without causing damage.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "31fa7d695768d991"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wsvjbds42t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wsvjbds42t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5d96acd4b430",
+   "created_at": "2026-11-23T06:31:03Z"
+  },
+  {
+   "id": "c00d7c21dacd",
+   "ts": "2026-11-22T23:19:46Z",
+   "headline": "European gas futures jump as much as 6.4% as trading opens for the week",
+   "detail": "European natural gas prices rose as much as 6.4% at the start of Monday trading.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "e7a27d32e89a6457"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wqvcxddm2a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wqvcxddm2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5d96acd4b430",
+   "created_at": "2026-11-23T06:31:03Z"
+  },
+  {
+   "id": "9a86e46b432b",
+   "ts": "2026-11-22T22:00:40Z",
+   "headline": "Australia's flash composite PMI falls to 46.1 from 48.2",
+   "detail": "Australia's flash services PMI fell to 46.2 from 48.5 and the flash manufacturing PMI fell to 48.7 from 49.6.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "34a2d44b884a1393",
+    "5e92be33b232a773",
+    "fc5324cbf2abf707"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wmhutq3n2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wmhutq3n2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wmiltywe2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wmiltywe2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2wmilizmh2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2wmilizmh2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5d96acd4b430",
+   "created_at": "2026-11-23T06:31:03Z"
+  },
   {
    "id": "26cbf3106fd0",
    "ts": "2026-11-22T21:30:50Z",
@@ -6236,138 +6344,6 @@
    "model": "opus",
    "run_id": "4d09a2c49650",
    "created_at": "2026-11-19T17:05:43Z"
-  },
-  {
-   "id": "b8cda2288932",
-   "ts": "2026-11-19T17:00:11Z",
-   "headline": "France's Macron says Ukraine's allies must give Kyiv what it needs now and work on helping to protect the capital",
-   "detail": "French President Macron said leaders gathered in Berlin spoke with Trump through his envoys on Thursday. He said Ukraine's allies must do everything they can now to supply what it needs and must work on helping to protect Kyiv.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5ac4a5dde4ddb297",
-    "4fbc50163d74b541",
-    "7ec7418a0d7102df"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2okbsxcz52v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2okbsxcz52v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2okbtbkkr2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2okbtbkkr2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ok7oqgyq2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ok7oqgyq2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d4bd27d859da",
-   "created_at": "2026-11-19T17:01:14Z"
-  },
-  {
-   "id": "28f04d2b713e",
-   "ts": "2026-11-19T16:55:53Z",
-   "headline": "Ukraine's Zelensky says Europe must take part in the next round of talks with Russia",
-   "detail": "Ukrainian President Zelensky said on Thursday that the next round of talks with Russia has to include Europe.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "f10351a7ed5b800c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ok24fxup2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ok24fxup2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d4bd27d859da",
-   "created_at": "2026-11-19T17:01:14Z"
-  },
-  {
-   "id": "c41183e45b9a",
-   "ts": "2026-11-19T16:47:39Z",
-   "headline": "Germany's Merz says sanctions on Russia could be lifted on conditions if progress is made, and calls Moscow's maximalist demands unrealistic",
-   "detail": "German Chancellor Merz said Russia knows its maximalist demands are not realistic and that sanctions could be lifted conditionally if there is progress. He also said Washington can rely on Germany's cooperation as long as their goals stay the same.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0efd11efa670f68a",
-    "ebd6216dee805efd",
-    "dbdd206548e16c5e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ojleensl2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ojleensl2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ojlesbhb2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ojlesbhb2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ojqbl62s24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ojqbl62s24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c9ddd39a23b7",
-   "created_at": "2026-11-19T16:50:51Z"
-  },
-  {
-   "id": "7fa55fd65b89",
-   "ts": "2026-11-19T16:44:30Z",
-   "headline": "Germany's Merz says Europe broadly agrees on financial backing for Ukraine and rejects a Yalta-style format for peace",
-   "detail": "German Chancellor Merz said Europe has wide consensus on financially backing Ukraine and that Germany will support it for as long as needed. He also said a Yalta format would not bring peace to Europe and described the leaders' meeting in Shenzhen as mainly a photo opportunity.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "99ac316e890a1cdc",
-    "2ce309437f33a692",
-    "d53db84ac05149c8",
-    "65bbf745277d0b54",
-    "49baa4c8c268c7e1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ojcaqd2s2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ojcaqd2s2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ojcb2ehf26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ojcb2ehf26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ojdolupw2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ojdolupw2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ojfrlu5g2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ojfrlu5g2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ojh6tyta2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ojh6tyta2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9ccd66738858",
-   "created_at": "2026-11-19T16:45:48Z"
   }
  ]
 }
