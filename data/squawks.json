@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T14:10:48Z",
+ "generated_at": "2026-11-23T14:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "beaa03bc3891",
+   "ts": "2026-11-23T14:23:01Z",
+   "headline": "BoE chief economist Pill says action is needed now to keep prices stable",
+   "detail": "Bank of England chief economist and MPC member Huw Pill said policy action should be taken now to preserve price stability, according to a market news feed. No further detail on the occasion or any market reaction was given.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "a9bc3c703a7e8e8c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ydegwife2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ydegwife2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ab933222f4c2",
+   "created_at": "2026-11-23T14:25:42Z"
+  },
   {
    "id": "14519dea7d6e",
    "ts": "2026-11-23T14:07:08Z",
@@ -6041,27 +6062,6 @@
    "model": "opus",
    "run_id": "a0f3193cdb0d",
    "created_at": "2026-11-19T20:50:47Z"
-  },
-  {
-   "id": "b879cac4eda4",
-   "ts": "2026-11-19T20:36:11Z",
-   "headline": "Iran's foreign ministry says US claims about Iranian chemical and biological weapons are meant to justify military action",
-   "detail": "A spokesman for Iran's foreign ministry said on X that US accusations of chemical and biological weapons development aim to spread fear and build a case for military action against Tehran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b4d04b301f8d9f77"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2owe27ido26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2owe27ido26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "be6d7c3dafd7",
-   "created_at": "2026-11-19T20:40:51Z"
   }
  ]
 }
