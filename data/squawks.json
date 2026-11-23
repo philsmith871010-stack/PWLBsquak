@@ -1,8 +1,83 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T14:40:51Z",
+ "generated_at": "2026-11-23T14:45:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "359dc2c05a9c",
+   "ts": "2026-11-23T14:45:41Z",
+   "headline": "US flash composite PMI falls to 54.6 from 55.9, below the 55.6 forecast, as manufacturing eases to 54.5",
+   "detail": "The S&P Global flash composite PMI for the US came in at 54.6 against a forecast of 55.6 and a previous reading of 55.9. The flash manufacturing PMI was 54.5, matching the forecast and down from 54.9.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "f6d8d25d813ee961",
+    "9b3bb5fb6272c29b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yemxovck2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yemxovck2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yemy2png2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yemy2png2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c5ad5949fc0f",
+   "created_at": "2026-11-23T14:45:57Z"
+  },
+  {
+   "id": "080264a395dd",
+   "ts": "2026-11-23T14:44:04Z",
+   "headline": "Merz calls reports of a Russian nuclear-armed satellite shocking and says NATO's eastern flank needs stronger defence",
+   "detail": "Germany's chancellor said the reports that Russia is ready to launch a nuclear-armed satellite were not new but still shocking. He said defence of NATO's eastern flank will be discussed this week and must be stronger than before.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "028ab71b634bdff2",
+    "8f48d22381c6971f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yek3qjhi2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yek3qjhi2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yemaj4sw24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yemaj4sw24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c5ad5949fc0f",
+   "created_at": "2026-11-23T14:45:57Z"
+  },
+  {
+   "id": "4423fd45d098",
+   "ts": "2026-11-23T14:41:34Z",
+   "headline": "Macron proposes a constitutional 'golden rule' to cap French government spending and contain deficits",
+   "detail": "The FT reports that the French president has suggested a constitutional reform to limit government spending and keep future deficits in check. The proposal is similar to ones put forward by his opponents.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "dec720f19a08fda5"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2yefmlfkp2b",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2yefmlfkp2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c5ad5949fc0f",
+   "created_at": "2026-11-23T14:45:57Z"
+  },
   {
    "id": "79226ce4081c",
    "ts": "2026-11-23T14:36:05Z",
@@ -5993,69 +6068,6 @@
    "model": "opus",
    "run_id": "d9166fd99c4c",
    "created_at": "2026-11-20T06:01:09Z"
-  },
-  {
-   "id": "727143a539d5",
-   "ts": "2026-11-19T22:32:23Z",
-   "headline": "Canada's LeBlanc expects US tariffs on autos and steel to remain as Ottawa pursues a comprehensive trade deal",
-   "detail": "Canadian minister Dominic LeBlanc said he expects the US tariffs on autos and steel to stay in place while Ottawa seeks a comprehensive trade solution with Washington.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "aabd59832025134b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2p4tt6aei24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2p4tt6aei24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "0f82278b5ded",
-   "created_at": "2026-11-19T22:35:50Z"
-  },
-  {
-   "id": "4e154224f679",
-   "ts": "2026-11-19T21:33:28Z",
-   "headline": "Israel's spy chief reportedly urged renewed strikes on Iran during a visit to the US, WSJ says",
-   "detail": "The Wall Street Journal reports that Israel's intelligence chief pressed for fresh strikes on Iran while visiting the US. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d177299ff276df2c"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ozki3ulj2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ozki3ulj2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "13866c82ce45",
-   "created_at": "2026-11-19T21:35:43Z"
-  },
-  {
-   "id": "c312d8c65d3b",
-   "ts": "2026-11-19T20:53:02Z",
-   "headline": "Putin invites European leaders to Moscow for talks on ending the Ukraine war but signals no softening of Russia's demands",
-   "detail": "The Financial Times reports that Russian President Vladimir Putin has invited European leaders to Moscow to discuss a resolution to the war in Ukraine. His remarks indicated that Russia is not prepared to ease its hardline conditions for ending the conflict.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "cfe8d8e5b38e06b9"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2oxc6dols2v",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n2oxc6dols2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c45d4ef38d11",
-   "created_at": "2026-11-19T20:55:41Z"
   }
  ]
 }
