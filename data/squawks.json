@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T09:55:43Z",
+ "generated_at": "2026-11-23T10:01:18Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9a2e5aedf494",
+   "ts": "2026-11-23T09:55:58Z",
+   "headline": "Haigh says UK reindustrialisation depends on lowering energy costs and pledges to stop payments for unused power",
+   "detail": "First Secretary Haigh said bringing industry back to the UK requires action on energy costs. He also said consumers should no longer pay for electricity that cannot be used.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "46ec1f6be68cdcd7",
+    "d6176c12f11ddaac"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xugxcinx2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xugxcinx2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xukhth2w2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xukhth2w2d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5998b660598e",
+   "created_at": "2026-11-23T10:01:18Z"
+  },
   {
    "id": "066ef4850e89",
    "ts": "2026-11-23T09:52:52Z",
@@ -6227,51 +6254,6 @@
    "model": "opus",
    "run_id": "40467416c1e4",
    "created_at": "2026-11-19T18:10:55Z"
-  },
-  {
-   "id": "db31d661751c",
-   "ts": "2026-11-19T18:03:58Z",
-   "headline": "US 10-year TIPS auction tails by 0.3bp at a 2.903% high yield, with bid-to-cover at 2.43",
-   "detail": "The US Treasury sold $19bn of 10-year TIPS at a high yield of 2.903%, up from 2.653% at the previous sale. The when-issued yield was about 2.90% before the auction. Bid-to-cover was 2.43 against 2.240 last time, and 90.74% of bids were awarded at the high; primary dealers took 6.03%, direct bidders 25.41% and indirect bidders 68.56%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "bff42dcba353f32c",
-    "6077569842cbe07e",
-    "ae0bdad19e5926e2",
-    "fb9a2ddd188b8c4d",
-    "49aa3f555cb127c2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onttxluf2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onttxluf2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onwnihi624",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onwnihi624"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onrn7xwa2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onrn7xwa2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onrmupyj2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onrmupyj2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onoqgzp62v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onoqgzp62v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "935c9b6153a0",
-   "created_at": "2026-11-19T18:05:40Z"
   }
  ]
 }
