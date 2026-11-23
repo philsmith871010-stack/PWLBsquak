@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T17:35:41Z",
+ "generated_at": "2026-11-23T17:40:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d5be8d4949aa",
+   "ts": "2026-11-23T17:36:14Z",
+   "headline": "US Treasury announces new sanctions linked to Iran",
+   "detail": "The US Treasury has posted a new set of Iran-related sanctions on its website. No further details or market reaction were reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "75d82c4f54c573e4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yo5ww6wr2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yo5ww6wr2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8e61b33b9bea",
+   "created_at": "2026-11-23T17:40:52Z"
+  },
   {
    "id": "6a84316d2024",
    "ts": "2026-11-23T17:35:10Z",
@@ -5934,45 +5955,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2pw5io3rd2y",
      "url": "https://bsky.app/profile/reuters.com/post/3n2pw5io3rd2y"
-    }
-   ],
-   "model": "opus",
-   "run_id": "48a38424e270",
-   "created_at": "2026-11-20T06:20:48Z"
-  },
-  {
-   "id": "aa3de47c358d",
-   "ts": "2026-11-20T06:00:25Z",
-   "headline": "Russia carries out its biggest strikes on Kyiv's bridges of the war and hits energy infrastructure, and Kyiv brings in emergency blackouts",
-   "detail": "Kyiv's mayor said a Russian ballistic missile attack hit three bridges over the Dnipro and killed three people. Russia's defence ministry said it had targeted energy and transport infrastructure, and city officials introduced emergency blackouts.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "108535068f0fabc1",
-    "b0424ac5d57b4835",
-    "2b2fe4af5911a499",
-    "b30358c32eeca592"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2pvuxv2pd26",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2pvuxv2pd26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pubri2d224",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pubri2d224"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pucimrh52f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pucimrh52f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pvqiwwxd26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pvqiwwxd26"
     }
    ],
    "model": "opus",
