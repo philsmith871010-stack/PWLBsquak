@@ -1,8 +1,98 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T06:35:40Z",
+ "generated_at": "2026-11-23T06:40:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "feafca4fde7b",
+   "ts": "2026-11-23T05:01:42Z",
+   "headline": "India's November HSBC composite PMI edges up to 56.3 from 56.2 as manufacturing rises and services slow",
+   "detail": "The manufacturing PMI rose to 56 from 54.7, while the services PMI fell to 55.3 from 55.8.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6960e2d5cf6d3eaa",
+    "7b41810f8ee28791",
+    "c44e8d6921d55bed",
+    "8bbd20b22285b02f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xdypu6nl24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xdypu6nl24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xdxyhary2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xdxyhary2p"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xdxxuznz2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xdxxuznz2m"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2xezs6v3q2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2xezs6v3q2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b095f6c6c50e",
+   "created_at": "2026-11-23T06:40:59Z"
+  },
+  {
+   "id": "b526c406a215",
+   "ts": "2026-11-23T05:01:34Z",
+   "headline": "Asian regulators step up action to steady markets as AI-led selloff hits regional stocks",
+   "detail": "The FT and WSJ report that regulators across Asia are increasing intervention to calm markets hit by the selloff in AI-related shares. Taiwan's stock exchange has asked listed companies to buy back shares and hold investor meetings.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "36d410ee0429d786",
+    "0462a80b6f2d4622",
+    "6ded8c1fb033358f",
+    "bfec6ac5c342ae1b",
+    "bcc5fa21a867a35a",
+    "af70aeb329c42b9e"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2xdyiufyp22",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2xdyiufyp22"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xeimo63l24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xeimo63l24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xfov5h6g2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xfov5h6g2m"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xgtohodb26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xgtohodb26"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xgv42jfq2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xgv42jfq2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xgwj67xe2j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xgwj67xe2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b095f6c6c50e",
+   "created_at": "2026-11-23T06:40:59Z"
+  },
   {
    "id": "fde9dbea86ca",
    "ts": "2026-11-23T03:12:11Z",
@@ -6278,66 +6368,6 @@
    "model": "opus",
    "run_id": "7fa9cca342cf",
    "created_at": "2026-11-19T17:15:50Z"
-  },
-  {
-   "id": "42245b744417",
-   "ts": "2026-11-19T17:06:59Z",
-   "headline": "Pentagon official puts the cost of the Iran war at more than $48bn",
-   "detail": "A Pentagon official said the US conflict with Iran has cost more than $48bn so far.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5b572f005f78997e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2okny7v7d2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2okny7v7d2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "24e74577dc2d",
-   "created_at": "2026-11-19T17:10:55Z"
-  },
-  {
-   "id": "d46b758ceab0",
-   "ts": "2026-11-19T17:05:48Z",
-   "headline": "UK PM Burnham says Russia's demands are unrealistic, pledges lasting support for Ukraine and calls for a push to peace with US involvement",
-   "detail": "UK Prime Minister Burnham said the aggressor should not be setting wide-ranging demands, that the UK will step up again and stay at Ukraine's side for as long as it takes. He said this should be a moment to move towards peace with US involvement.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c8e35c3a42978fb8",
-    "2850a55d4d3bd69e",
-    "2c64e783d2b27f68",
-    "2ea82a70adc83ea5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oklu3el32a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oklu3el32a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oknykxp72b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oknykxp72b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2okq4mpvv2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2okq4mpvv2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oksw7md62p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oksw7md62p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "24e74577dc2d",
-   "created_at": "2026-11-19T17:10:55Z"
   }
  ]
 }
