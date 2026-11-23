@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T13:01:13Z",
+ "generated_at": "2026-11-23T13:25:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "30b384913da6",
+   "ts": "2026-11-23T13:22:26Z",
+   "headline": "India's trade secretary says India is sticking to its commitments under the India-UK trade agreement",
+   "detail": "India's trade secretary said India continues to honour its commitments under the India-UK trade agreement. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "4dc7813d08a6c106"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2y7y4uik32m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2y7y4uik32m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "05098cc27a9c",
+   "created_at": "2026-11-23T13:25:47Z"
+  },
   {
    "id": "d8529238ab63",
    "ts": "2026-11-23T12:55:42Z",
@@ -6162,33 +6183,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2osoj3crs26",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2osoj3crs26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e1327b03b743",
-   "created_at": "2026-11-19T19:31:06Z"
-  },
-  {
-   "id": "e78f494dadf5",
-   "ts": "2026-11-19T19:26:03Z",
-   "headline": "BoE's Greene says second-round inflation effects are likely and the Bank must shore up its inflation credibility",
-   "detail": "Bank of England MPC member Megan Greene said second-round effects on inflation will probably occur and that the Bank needs to strengthen its credibility on inflation. The remarks add to her earlier comments today on the labour market and policy restrictiveness.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "e1e4ea1081617721",
-    "82be52951bb57cf2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2osgnkrni2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2osgnkrni2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2osmey7fl2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2osmey7fl2b"
     }
    ],
    "model": "opus",
