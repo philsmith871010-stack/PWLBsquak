@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T10:55:39Z",
+ "generated_at": "2026-11-23T11:01:25Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "dfcaad7f827f",
+   "ts": "2026-11-23T10:55:39Z",
+   "headline": "EU Council approves the EU's 2027 budget",
+   "detail": "The EU Council announced it has given final approval to the bloc's budget for 2027.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ebf2e1127cef8aa1"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xxrnyroy2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xxrnyroy2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9c178adba814",
+   "created_at": "2026-11-23T11:01:25Z"
+  },
   {
    "id": "1fa685c80dce",
    "ts": "2026-11-23T10:54:29Z",
@@ -6245,27 +6266,6 @@
    "model": "opus",
    "run_id": "cca419d8c44e",
    "created_at": "2026-11-19T18:40:50Z"
-  },
-  {
-   "id": "2323960083bd",
-   "ts": "2026-11-19T18:30:27Z",
-   "headline": "Houthis claim several high-profile military operations deep inside Saudi Arabia",
-   "detail": "Yemen's Houthis announced a number of high-profile military operations deep inside Saudi Arabia. This follows an earlier Houthi attack on Riyadh's financial centre, which Saudi Arabia condemned.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "8b973ea1118335f2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2opd7qf7r2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2opd7qf7r2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "15cb6f99d256",
-   "created_at": "2026-11-19T18:31:00Z"
   }
  ]
 }
