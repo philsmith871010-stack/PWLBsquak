@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T09:01:22Z",
+ "generated_at": "2026-11-23T09:31:08Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "45ee25a1e666",
+   "ts": "2026-11-23T09:30:41Z",
+   "headline": "UK flash composite PMI falls to 52.3 from 52.9 as services slip to 52 and manufacturing to 52.7, all below forecasts",
+   "detail": "The UK flash PMIs for November show the composite at 52.3 against a 52.8 forecast and 52.9 previously. Services came in at 52 (forecast 53, previous 52.8) and manufacturing at 52.7 (forecast 53, previous 52.8).",
+   "category": "data",
+   "importance": 3,
+   "source_event_ids": [
+    "172fabd8bd1f321a",
+    "b93b23906300fdd3",
+    "3cc0be04229c85f9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xszqc2xw2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xszqc2xw2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xt2gyyow2f",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xt2gyyow2f"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xt2hewg32b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xt2hewg32b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "22303d096225",
+   "created_at": "2026-11-23T09:31:08Z"
+  },
   {
    "id": "cf0e58701bb7",
    "ts": "2026-11-23T09:00:44Z",
@@ -6251,27 +6284,6 @@
    "model": "opus",
    "run_id": "935c9b6153a0",
    "created_at": "2026-11-19T18:05:40Z"
-  },
-  {
-   "id": "922142884b93",
-   "ts": "2026-11-19T18:00:17Z",
-   "headline": "US gas exporters grow more willing to sign long-term European deals after EU delays methane law",
-   "detail": "A senior US gas industry official told Reuters that exporters are more comfortable signing long-term contracts with European buyers. This follows EU lawmakers agreeing to delay a new methane emissions law further.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "4f1d989abcade9d9"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2onnbkkkq25",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2onnbkkkq25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5ad3cfc95fbe",
-   "created_at": "2026-11-19T18:01:07Z"
   }
  ]
 }
