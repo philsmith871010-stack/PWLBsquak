@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T17:40:52Z",
+ "generated_at": "2026-11-23T18:10:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "22771d1f6f45",
+   "ts": "2026-11-23T18:10:14Z",
+   "headline": "Brazil central bank chief Galipolo says government spending growth in a fully employed economy can add to inflation",
+   "detail": "In unusual remarks on fiscal policy on Monday, Brazil's central bank governor Gabriel Galipolo said changes to the country's fiscal rules are possible and necessary, Reuters reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "6d8c46bc9b855310"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2yq2qfc5w2u",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2yq2qfc5w2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "781226829598",
+   "created_at": "2026-11-23T18:10:50Z"
+  },
   {
    "id": "d5be8d4949aa",
    "ts": "2026-11-23T17:36:14Z",
@@ -5934,27 +5955,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2pwghcw7j2b",
      "url": "https://bsky.app/profile/reuters.com/post/3n2pwghcw7j2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "48a38424e270",
-   "created_at": "2026-11-20T06:20:48Z"
-  },
-  {
-   "id": "f29e8f125763",
-   "ts": "2026-11-20T06:05:11Z",
-   "headline": "BoJ policymakers mostly agree a rate hike is needed next month but differ on how far rates should rise, Reuters reports",
-   "detail": "Reuters reports that Bank of Japan policymakers broadly back a rate rise next month. They are split on where rates should eventually peak.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "b0f761596eb4a053"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2pw5io3rd2y",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2pw5io3rd2y"
     }
    ],
    "model": "opus",
