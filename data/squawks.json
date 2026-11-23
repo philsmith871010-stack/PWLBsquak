@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T10:31:02Z",
+ "generated_at": "2026-11-23T10:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5c780d1556e9",
+   "ts": "2026-11-23T10:31:49Z",
+   "headline": "Hungary's PM Magyar rejects EU budget draft and says Costa's latest proposal does not bring a deal closer",
+   "detail": "Hungarian Prime Minister Magyar said Hungary cannot accept the previously published EU budget version and that European Council President Costa's new proposal from Saturday does not move the sides closer to agreement. He also said the EU budget and financial support for Ukraine should be handled separately.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "23c52b0a9f3c303a",
+    "9adc926c97afdcf6",
+    "8c522e77c417ce9f"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xwh26nkh24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xwh26nkh24"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xwhqwkc62d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xwhqwkc62d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xwlekut72t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xwlekut72t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a5210c60d424",
+   "created_at": "2026-11-23T10:35:41Z"
+  },
   {
    "id": "e9a6485c6665",
    "ts": "2026-11-23T10:25:56Z",
@@ -6233,39 +6266,6 @@
    "model": "opus",
    "run_id": "15cb6f99d256",
    "created_at": "2026-11-19T18:31:00Z"
-  },
-  {
-   "id": "04491467715b",
-   "ts": "2026-11-19T18:11:46Z",
-   "headline": "Fed's Goolsbee says the Fed still wants evidence that AI productivity gains are spreading beyond tech",
-   "detail": "Chicago Fed President Goolsbee said the Fed is still looking for signs that AI-driven productivity gains are reaching beyond the tech sector. He said that if they do not, AI could turn out to be a short-lived boost.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "d1a56c5759639ef0",
-    "c1a8e759a1c14b50",
-    "371c9226f50d9c95"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oobsrsm22a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oobsrsm22a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oockibgu2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oockibgu2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oodzbinq26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oodzbinq26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "75f7fcd6f622",
-   "created_at": "2026-11-19T18:15:49Z"
   }
  ]
 }
