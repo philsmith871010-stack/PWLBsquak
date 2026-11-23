@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T11:15:49Z",
+ "generated_at": "2026-11-23T11:31:13Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8b970ddee999",
+   "ts": "2026-11-23T11:30:44Z",
+   "headline": "NATO's Rutte calls Russian missiles entering Poland a dangerous incident and says it must be established whether it was intentional",
+   "detail": "NATO Secretary General Mark Rutte said Russian missiles had entered Polish territory and called it a dangerous incident. He said the authorities need to establish whether it was intentional.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c89134b5b8a88891",
+    "cc5b12aaf51bf48e"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xzqf3rbc2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xzqf3rbc2b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xzr3rnff2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xzr3rnff2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b6663ae39cd8",
+   "created_at": "2026-11-23T11:31:13Z"
+  },
   {
    "id": "ef9404a3efbd",
    "ts": "2026-11-23T11:14:18Z",
@@ -6209,51 +6236,6 @@
    "model": "opus",
    "run_id": "f490e97f6537",
    "created_at": "2026-11-19T19:01:10Z"
-  },
-  {
-   "id": "30455b3d71c8",
-   "ts": "2026-11-19T18:46:16Z",
-   "headline": "Ukraine's Zelensky sees a real opportunity to end the war but warns this winter could be the hardest yet",
-   "detail": "Ukraine's President Zelensky said any Russian discussion of territory must be held with him directly, and that a deal requires a peaceful Europe. The remarks came as the leaders of Germany, France, the UK and Ukraine issued a joint statement calling on Russia to agree to a winter energy ceasefire.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1f7aa547b68d592d",
-    "778078468910070b",
-    "e9d7deb8fbd673b0",
-    "bdcb1ceff9c5c88f",
-    "ed280fb7b63222f1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oq7iqowd2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oq7iqowd2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oqa7vhn22a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oqa7vhn22a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oqdrqn3g26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oqdrqn3g26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oqeifp6i2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oqeifp6i2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oqawptug2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oqawptug2w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "57ba72904db3",
-   "created_at": "2026-11-19T18:50:45Z"
   }
  ]
 }
