@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T15:10:54Z",
+ "generated_at": "2026-11-23T15:15:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b6b7e3081fad",
+   "ts": "2026-11-23T15:14:59Z",
+   "headline": "Fitch says the outlook for US banks in 2027 is deteriorating as risks rise",
+   "detail": "Fitch Ratings published a weaker 2027 outlook for the US banking sector, pointing to rising risks.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "8258302c1fdcb4e8"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ygbfdfm72t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ygbfdfm72t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a4c521a4e531",
+   "created_at": "2026-11-23T15:15:51Z"
+  },
   {
    "id": "089807e6b35f",
    "ts": "2026-11-23T15:06:26Z",
@@ -5975,69 +5996,6 @@
    "model": "opus",
    "run_id": "5341fd0d8d8e",
    "created_at": "2026-11-20T06:10:48Z"
-  },
-  {
-   "id": "136da58eeb88",
-   "ts": "2026-11-20T01:02:06Z",
-   "headline": "China leaves its 1-year and 5-year loan prime rates at 3.00% and 3.50%, in line with forecasts",
-   "detail": "The People's Bank of China kept both benchmark lending rates unchanged for an 18th consecutive month, matching expectations. The central bank also added 379.5bn yuan through overnight reverse repos at 1.25%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "eacab5ccf21fd7a9",
-    "baa695bedee6698b",
-    "3b229163a1877b7c",
-    "8c9cea940a3150b5",
-    "eb37cf2da4d162ef",
-    "fb7fbe94c8bdf06b",
-    "a9e875b82f352e42",
-    "49f2659a5cd8afd5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pf7kku722f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pf7kku722f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pfcgbxfi2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pfcgbxfi2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pfcfxhzw24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pfcfxhzw24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pf5hjza32d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pf5hjza32d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pf5h76p72b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pf5h76p72b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pgb4bjoq24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pgb4bjoq24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pgciwpv62a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pgciwpv62a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pgd7xxua24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pgd7xxua24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ae27f0b9abec",
-   "created_at": "2026-11-20T06:05:46Z"
   }
  ]
 }
