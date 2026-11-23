@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T15:45:58Z",
+ "generated_at": "2026-11-23T15:50:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a50cd7276307",
+   "ts": "2026-11-23T15:47:16Z",
+   "headline": "UK PM Burnham says the EU deal is worth up to 0.5% of the UK economy and both sides will avoid policies that hurt each other's industries",
+   "detail": "UK Prime Minister Burnham put the value of the EU deal at up to 0.5% of the British economy. He also said the UK and the EU will avoid policies that harm each other's industries.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "c5bef8f7cc9d7e84",
+    "f0968fdd206b7352"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yi345ir52b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yi345ir52b"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yi5apbhb2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yi5apbhb2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "215e440c7fc0",
+   "created_at": "2026-11-23T15:50:52Z"
+  },
   {
    "id": "5145ca5453e4",
    "ts": "2026-11-23T15:43:18Z",
@@ -5952,45 +5979,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2pmemtwej2b",
      "url": "https://bsky.app/profile/reuters.com/post/3n2pmemtwej2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5341fd0d8d8e",
-   "created_at": "2026-11-20T06:10:48Z"
-  },
-  {
-   "id": "d920e02f1b65",
-   "ts": "2026-11-20T03:09:38Z",
-   "headline": "US Senate passes a bipartisan energy permitting bill by 62 votes to 33",
-   "detail": "The US Senate approved the cross-party energy permitting legislation 62-33.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "3039f0e1d475ea0d",
-    "87d243f73c5d2d1b",
-    "150c197b089a929b",
-    "8bb11dabb8c494f5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pmdldios2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pmdldios2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pmecpvu42s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pmecpvu42s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pljr4bww2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pljr4bww2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pll7q5ax2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pll7q5ax2p"
     }
    ],
    "model": "opus",
