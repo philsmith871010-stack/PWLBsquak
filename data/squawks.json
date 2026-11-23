@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T11:01:25Z",
+ "generated_at": "2026-11-23T11:10:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0b4c9fc0ce40",
+   "ts": "2026-11-23T11:10:11Z",
+   "headline": "ECB's Simkus says a December hike may not fully contain inflation but sees no urgency for a follow-up move",
+   "detail": "Lithuanian ECB policymaker Gediminas Simkus said a rate rise next month may fall short of fully containing inflation, but a further move is not urgent as second-round effects are building only gradually, Reuters reports.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c3daf1fa85ca63cf"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2xylmthau2s",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2xylmthau2s"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c20cf9044feb",
+   "created_at": "2026-11-23T11:10:50Z"
+  },
   {
    "id": "dfcaad7f827f",
    "ts": "2026-11-23T10:55:39Z",
@@ -6233,39 +6254,6 @@
    "model": "opus",
    "run_id": "744490fc1599",
    "created_at": "2026-11-19T18:45:48Z"
-  },
-  {
-   "id": "30211e049167",
-   "ts": "2026-11-19T18:37:56Z",
-   "headline": "UK, German, French and Ukrainian leaders pledge extra missile defence for Ukraine before winter and binding security guarantees",
-   "detail": "In a joint statement, the leaders of Germany, France, the UK and Ukraine say Russia cannot outlast the coalition's support. They pledge extra efforts to supply Ukraine with more missile defence before winter, and say robust, legally binding security guarantees must be in place once a ceasefire takes effect.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "06221e22726991ee",
-    "504dd61fef6d7ae9",
-    "7909c0d32e7adf75"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2opqm3vh32j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2opqm3vh32j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oprzsjmp2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oprzsjmp2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oputxxp32b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oputxxp32b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cca419d8c44e",
-   "created_at": "2026-11-19T18:40:50Z"
   }
  ]
 }
