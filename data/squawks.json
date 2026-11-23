@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T11:31:13Z",
+ "generated_at": "2026-11-23T11:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1b18c4986284",
+   "ts": "2026-11-23T11:45:11Z",
+   "headline": "NATO's Rutte says the alliance would defend itself if attacked, after Russian missiles entered Polish airspace",
+   "detail": "NATO Secretary General Mark Rutte said members would have to defend themselves in the event of an attack. He spoke after earlier calling the Russian missile incursion into Poland a dangerous incident. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "944e01ca0f52833a"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2y2k7zpjg2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2y2k7zpjg2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9076c4e72a69",
+   "created_at": "2026-11-23T11:45:50Z"
+  },
   {
    "id": "8b970ddee999",
    "ts": "2026-11-23T11:30:44Z",
@@ -6197,45 +6218,6 @@
    "model": "opus",
    "run_id": "404274bb13c5",
    "created_at": "2026-11-19T19:10:57Z"
-  },
-  {
-   "id": "95d39ad4282d",
-   "ts": "2026-11-19T18:58:03Z",
-   "headline": "Ukraine's Zelensky says Kyiv needs 70bn more in financing and hopes the war ends before 2028",
-   "detail": "Ukraine's President Zelensky said Kyiv needs a further 70bn in financing and dozens of F-16 jets, and that no date or venue has been set for the next round of talks. He said he hopes the war will end before 2028.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0d94c2304151c323",
-    "814a60b33128c446",
-    "b52db43295dd50ee",
-    "813bc7432129d3b5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oqul5ijk2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oqul5ijk2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oqwozz6d2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oqwozz6d2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oqtuhkgd2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oqtuhkgd2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oqrrcoq32v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oqrrcoq32v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f490e97f6537",
-   "created_at": "2026-11-19T19:01:10Z"
   }
  ]
 }
