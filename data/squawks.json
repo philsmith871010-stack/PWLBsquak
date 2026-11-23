@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T06:31:03Z",
+ "generated_at": "2026-11-23T06:35:40Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fde9dbea86ca",
+   "ts": "2026-11-23T03:12:11Z",
+   "headline": "Sterling rises above $1.3100 after strong UK retail sales and as expectations of a hawkish Fed fade",
+   "detail": "A market commentary feed reported that sterling moved past 1.3100 against the dollar in Asian trading on Monday. It linked the rise to upbeat UK retail sales figures and to fading expectations of hawkish Federal Reserve policy.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "3420d1bda6502cfd"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2x5uvbtwi2p",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2x5uvbtwi2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9629f74ba7ee",
+   "created_at": "2026-11-23T06:35:40Z"
+  },
   {
    "id": "fa50a0150e5e",
    "ts": "2026-11-22T23:58:48Z",
@@ -6317,33 +6338,6 @@
    "model": "opus",
    "run_id": "24e74577dc2d",
    "created_at": "2026-11-19T17:10:55Z"
-  },
-  {
-   "id": "db108e2e7a23",
-   "ts": "2026-11-19T17:02:37Z",
-   "headline": "France's Macron calls for reopening the question of Ukraine's NATO membership and says the coming weeks are critical for Kyiv",
-   "detail": "French President Macron said the issue of Ukraine's place in NATO must be put back on the table, and described the next few weeks as critical for Ukraine. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "fa6900fc0b19b21a",
-    "da5a5c6408c12895"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2okg62zz52f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2okg62zz52f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2okidegze2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2okidegze2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4d09a2c49650",
-   "created_at": "2026-11-19T17:05:43Z"
   }
  ]
 }
