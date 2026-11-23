@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T11:10:50Z",
+ "generated_at": "2026-11-23T11:15:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ef9404a3efbd",
+   "ts": "2026-11-23T11:14:18Z",
+   "headline": "German government condemns Russian airspace violations over Poland and calls Moscow's tougher stance on NATO unacceptable",
+   "detail": "A German government spokesperson strongly condemned Russian violations of Polish airspace. The spokesperson said Russia's more aggressive posture towards NATO was unacceptable.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3ee4023ed680f565"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xysyt4o72j",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xysyt4o72j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2b24d5620246",
+   "created_at": "2026-11-23T11:15:49Z"
+  },
   {
    "id": "0b4c9fc0ce40",
    "ts": "2026-11-23T11:10:11Z",
@@ -6233,27 +6254,6 @@
    "model": "opus",
    "run_id": "57ba72904db3",
    "created_at": "2026-11-19T18:50:45Z"
-  },
-  {
-   "id": "178710f008e2",
-   "ts": "2026-11-19T18:41:31Z",
-   "headline": "UK, German, French and Ukrainian leaders urge Russia to accept a winter energy ceasefire as a first step to ending hostilities",
-   "detail": "A joint statement from the leaders of Germany, France, the UK and Ukraine asks Russia to agree to an energy ceasefire lasting through the winter, as a first step towards a cessation of hostilities. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3a456fa0964af6f3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2opwymcnn2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2opwymcnn2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "744490fc1599",
-   "created_at": "2026-11-19T18:45:48Z"
   }
  ]
 }
