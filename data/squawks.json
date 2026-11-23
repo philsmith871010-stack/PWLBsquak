@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T07:01:15Z",
+ "generated_at": "2026-11-23T07:20:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bc7976431bd4",
+   "ts": "2026-11-23T07:16:17Z",
+   "headline": "CBI warns public control talk deters investors as First Secretary Haigh moves to scrap some quangos",
+   "detail": "The CBI business lobby group cautioned that government talk of public ownership puts investors off, the FT reports. Its warning comes as First Secretary Louise Haigh sets out plans to abolish some quangos.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "aad32fca5de5e214"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2xljfa2yu2b",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2xljfa2yu2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "77f8ea9b4f85",
+   "created_at": "2026-11-23T07:20:52Z"
+  },
   {
    "id": "70317d595916",
    "ts": "2026-11-23T06:58:58Z",
@@ -6263,27 +6284,6 @@
    "model": "opus",
    "run_id": "51ac1701f195",
    "created_at": "2026-11-19T17:25:54Z"
-  },
-  {
-   "id": "cd1f1866fc15",
-   "ts": "2026-11-19T17:18:35Z",
-   "headline": "EU's von der Leyen says a 22nd package of Russia sanctions is coming and points to a new €45bn loan for Ukraine",
-   "detail": "The European Commission President spoke after the Coalition of the Willing meeting. She said the EU will keep increasing pressure on Russia until it comes to negotiations.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "dc49650c86d5c253"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2olcpgccp2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2olcpgccp2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7f305af87855",
-   "created_at": "2026-11-19T17:20:46Z"
   }
  ]
 }
