@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T18:10:50Z",
+ "generated_at": "2026-11-23T18:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "70c7f36f6833",
+   "ts": "2026-11-23T18:45:15Z",
+   "headline": "Estonia closes its land border with Russia as Moscow says Tallinn's hostile actions are close to triggering open war",
+   "detail": "Russia's Foreign Ministry on Monday said Estonia's actions were nearing the point of open war, according to Reuters. It made the accusation after Estonia announced it was closing their land border. Estonia is a member of both NATO and the EU.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "399de88461b7c3a6"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2yrzduv4e22",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2yrzduv4e22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7f9b126540fe",
+   "created_at": "2026-11-23T18:45:51Z"
+  },
   {
    "id": "22771d1f6f45",
    "ts": "2026-11-23T18:10:14Z",
@@ -5939,27 +5960,6 @@
    "model": "opus",
    "run_id": "05903eb4d9a3",
    "created_at": "2026-11-20T06:25:46Z"
-  },
-  {
-   "id": "3e30f54f8f89",
-   "ts": "2026-11-20T06:10:12Z",
-   "headline": "Oil rises on supply worries after Houthi attacks on Riyadh and reported tanker disruption in Hormuz",
-   "detail": "Reuters reports that oil prices rose on Friday after Houthi attacks on the Saudi capital and reports of tanker disruption in the Strait of Hormuz. Prices were still on course for a weekly fall.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "237cc4a25f96a868"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2pwghcw7j2b",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2pwghcw7j2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "48a38424e270",
-   "created_at": "2026-11-20T06:20:48Z"
   }
  ]
 }
