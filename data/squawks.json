@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T11:50:59Z",
+ "generated_at": "2026-11-23T12:16:02Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "cc82f4b0f0d6",
+   "ts": "2026-11-23T12:15:26Z",
+   "headline": "Allies warn Russia may launch a nuclear space weapon as soon as next month",
+   "detail": "Western allies have warned that Russia may launch a nuclear-armed space weapon next month, according to a market news feed. This follows the German government saying it takes reports of such a satellite very seriously.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "0e1424015bc9a090"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2y4ackyi32d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2y4ackyi32d"
+    }
+   ],
+   "model": "opus",
+   "run_id": "18462fef4cab",
+   "created_at": "2026-11-23T12:16:02Z"
+  },
   {
    "id": "f1fba289da7b",
    "ts": "2026-11-23T11:49:57Z",
@@ -6180,45 +6201,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2ortgnt7r2v",
      "url": "https://bsky.app/profile/reuters.com/post/3n2ortgnt7r2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "89ed3d90a716",
-   "created_at": "2026-11-19T19:15:53Z"
-  },
-  {
-   "id": "8652dedfbc38",
-   "ts": "2026-11-19T19:11:25Z",
-   "headline": "BoE's Greene says the risk of doing too little outweighs doing too much and inflation expectations must be anchored at 2%",
-   "detail": "MPC member Megan Greene said the Bank has a duty to anchor elevated inflation expectations at the 2% target and that people notice when inflation is above 3%. She said the risk of underacting is bigger than the risk of overdoing it.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "15a42b3054ec6c98",
-    "f556649f7178aa0f",
-    "599082014c3d66f1",
-    "2ea6e97091c57c82"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ormhz2ke2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ormhz2ke2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oroly27s2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oroly27s2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2orqp3wf22d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2orqp3wf22d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2orsug6ua2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2orsug6ua2w"
     }
    ],
    "model": "opus",
