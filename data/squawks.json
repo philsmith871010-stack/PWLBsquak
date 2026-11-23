@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T13:25:47Z",
+ "generated_at": "2026-11-23T13:31:04Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0b1b05ef7d19",
+   "ts": "2026-11-23T13:29:51Z",
+   "headline": "India seeks legal opinion to resolve a dispute over tariffs on bulk Scotch under the UK trade pact",
+   "detail": "India's trade secretary says the trade ministry is working with the finance ministry on technical solutions to the tariff issue on bulk Scotch. He says differing court orders and legal interpretations have complicated the issue.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6e96fbd3a7ce4904",
+    "d98bab5d57d204d4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ya7rqk7b2w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ya7rqk7b2w"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yaffieri2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yaffieri2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c6b942c82ffe",
+   "created_at": "2026-11-23T13:31:04Z"
+  },
   {
    "id": "30b384913da6",
    "ts": "2026-11-23T13:22:26Z",
@@ -6161,33 +6188,6 @@
    "model": "opus",
    "run_id": "d89d7cd8d51d",
    "created_at": "2026-11-19T19:35:44Z"
-  },
-  {
-   "id": "23efd80cd8f4",
-   "ts": "2026-11-19T19:26:28Z",
-   "headline": "Fed's Barr says AI may raise the risk of faster bank runs",
-   "detail": "Federal Reserve Governor Michael Barr said AI could widen access to financial services but must comply with financial sector rules, and may increase the risk of faster bank runs.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "f067d3772bc33502",
-    "46e7c7b1b2c1f8e6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2oshekhwr2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2oshekhwr2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2osoj3crs26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2osoj3crs26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e1327b03b743",
-   "created_at": "2026-11-19T19:31:06Z"
   }
  ]
 }
