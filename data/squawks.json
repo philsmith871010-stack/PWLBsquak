@@ -1,8 +1,71 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T14:55:40Z",
+ "generated_at": "2026-11-23T15:01:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1762c5b6164c",
+   "ts": "2026-11-23T15:01:08Z",
+   "headline": "EU presents its 22nd package of sanctions on Russia",
+   "detail": "A market news feed reports that the EU has presented its 22nd sanctions package against Russia. No details of the measures were given.",
+   "category": "geopolitics",
+   "importance": 2,
+   "source_event_ids": [
+    "c81cb182688ea31c"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfimbw762a",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfimbw762a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a8a34ba6cd6f",
+   "created_at": "2026-11-23T15:01:15Z"
+  },
+  {
+   "id": "f6821e55565c",
+   "ts": "2026-11-23T15:00:54Z",
+   "headline": "ECB's Panetta warns that fragmenting payment systems risk raising costs and weakening economic ties",
+   "detail": "ECB policymaker Fabio Panetta said on Monday that payment systems are becoming tools of geopolitical power, and that a push for national autonomy could fragment networks, Reuters reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "864dada2d8662706"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2yfi75wjp25",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2yfi75wjp25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a8a34ba6cd6f",
+   "created_at": "2026-11-23T15:01:15Z"
+  },
+  {
+   "id": "fdc7a928fe5b",
+   "ts": "2026-11-23T14:58:37Z",
+   "headline": "UK PM Burnham to use Henry VIII powers to fast-track adoption of EU rules, Telegraph reports",
+   "detail": "The Telegraph reports that the government plans to use Henry VIII clauses so the Prime Minister can amend legislation to bring in EU rules with minimal Commons scrutiny.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "6a39753306472d40"
+   ],
+   "sources": [
+    {
+     "author": "matthewholehouse.bsky.social",
+     "uri": "at://did:plc:phrwhxykvoi3zwiasdcaijyi/app.bsky.feed.post/3n2yfe45oak2u",
+     "url": "https://bsky.app/profile/matthewholehouse.bsky.social/post/3n2yfe45oak2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a8a34ba6cd6f",
+   "created_at": "2026-11-23T15:01:15Z"
+  },
   {
    "id": "c3896dd50672",
    "ts": "2026-11-23T14:51:39Z",
@@ -5957,111 +6020,6 @@
    "model": "opus",
    "run_id": "ae27f0b9abec",
    "created_at": "2026-11-20T06:05:46Z"
-  },
-  {
-   "id": "dc2483eddf13",
-   "ts": "2026-11-20T00:23:35Z",
-   "headline": "Fed's Paulson says steady long-term inflation expectations reflect Fed credibility and wage growth is consistent with 2% inflation",
-   "detail": "Paulson described wage growth that fits with 2% inflation as a positive sign. These remarks follow her earlier call for more tightening.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b50c4e3cd460240b",
-    "3cc9202c0587fdfc",
-    "1da16d362e1436eb",
-    "42d7ca46df2f718a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pczbnnp626",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pczbnnp626"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pd2oaeu62m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pd2oaeu62m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pd67ngqg2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pd67ngqg2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pd6adjmb24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pd6adjmb24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ae27f0b9abec",
-   "created_at": "2026-11-20T06:05:46Z"
-  },
-  {
-   "id": "02828e3bd7e1",
-   "ts": "2026-11-20T00:18:50Z",
-   "headline": "RBA's Fry-McKibbin sees pockets of strong Australian demand alongside weakness amid a large global oil supply shock",
-   "detail": "Reserve Bank of Australia monetary policy board member Fry-McKibbin made the remarks, describing the global oil supply shock as huge.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4b4329d4c5141a75"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pcs5qnko2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pcs5qnko2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d9166fd99c4c",
-   "created_at": "2026-11-20T06:01:09Z"
-  },
-  {
-   "id": "63b51cf47e34",
-   "ts": "2026-11-20T00:03:04Z",
-   "headline": "Fed's Paulson says more tightening is needed and calls cutting inflation the top priority",
-   "detail": "The Philadelphia Fed President said inflation remains elevated with the labour market at full employment, and that a gradual pace of rate increases gives the economy time to adapt.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "1217186b02a7db99",
-    "fd60f840368d37e9",
-    "d77d957b34583036",
-    "febd56db53322780",
-    "ccfb98917c544e2a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pbvyhm6n2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pbvyhm6n2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pbwptfe42b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pbwptfe42b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pbzkvfyp2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pbzkvfyp2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pbzl7ty72w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pbzl7ty72w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pcpcpd6f2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pcpcpd6f2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d9166fd99c4c",
-   "created_at": "2026-11-20T06:01:09Z"
   }
  ]
 }
