@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T12:55:41Z",
+ "generated_at": "2026-11-23T13:01:13Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d8529238ab63",
+   "ts": "2026-11-23T12:55:42Z",
+   "headline": "Iran's Araghchi says the foreign ministry must pursue talks and seek to have sanctions lifted through dialogue",
+   "detail": "Iran's foreign minister Abbas Araghchi said his ministry is responsible for pursuing negotiations and trying to get sanctions lifted through dialogue, according to reports. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "37d9623b65777b51"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2y6idhjhi2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2y6idhjhi2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d19a954d2892",
+   "created_at": "2026-11-23T13:01:13Z"
+  },
   {
    "id": "549b020f00b2",
    "ts": "2026-11-23T12:53:45Z",
@@ -6173,33 +6194,6 @@
    "model": "opus",
    "run_id": "e1327b03b743",
    "created_at": "2026-11-19T19:31:06Z"
-  },
-  {
-   "id": "246e480bf92e",
-   "ts": "2026-11-19T19:21:45Z",
-   "headline": "BoE's Greene says labour data point to slower disinflation and the labour market is less weak than thought",
-   "detail": "Bank of England MPC member Megan Greene said labour market data indicate disinflation is slowing. She added that the labour market has not been as weak as the Bank had thought.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "90d9e76c033b8ac0",
-    "c58673accaeb82e8"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2os6wzskq2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2os6wzskq2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2osadntq524",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2osadntq524"
-    }
-   ],
-   "model": "opus",
-   "run_id": "597bd06a24f2",
-   "created_at": "2026-11-19T19:25:41Z"
   }
  ]
 }
