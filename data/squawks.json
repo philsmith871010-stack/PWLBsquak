@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T10:01:18Z",
+ "generated_at": "2026-11-23T10:25:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "980a9b4d5d71",
+   "ts": "2026-11-23T10:20:53Z",
+   "headline": "Libya's Sharara oil pipeline reopens and crude pumping resumes, NOC chairman says",
+   "detail": "The chairman of Libya's National Oil Corporation says the Sharara pipeline has reopened and crude is flowing again. The NOC had earlier said a pipeline valve closure would cut Sharara output by about 350,000 bpd.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "b1d89106a80aedd4"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xvti3cgt2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xvti3cgt2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "2757fcc72e6e",
+   "created_at": "2026-11-23T10:25:41Z"
+  },
   {
    "id": "9a2e5aedf494",
    "ts": "2026-11-23T09:55:58Z",
@@ -6233,27 +6254,6 @@
    "model": "opus",
    "run_id": "75f7fcd6f622",
    "created_at": "2026-11-19T18:15:49Z"
-  },
-  {
-   "id": "a56ce76015d4",
-   "ts": "2026-11-19T18:07:05Z",
-   "headline": "Trump says he is in no hurry to decide on Iran, Israel's Channel 12 reports",
-   "detail": "Israel's Channel 12 reports that US President Trump said he is in no rush to make a decision on Iran. The same outlet earlier reported that he had discussed the possibility of an attack on Iran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6ee4960a7f579dc4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onzgmeiw2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onzgmeiw2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "40467416c1e4",
-   "created_at": "2026-11-19T18:10:55Z"
   }
  ]
 }
