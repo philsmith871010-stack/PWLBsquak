@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T14:05:42Z",
+ "generated_at": "2026-11-23T14:10:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "14519dea7d6e",
+   "ts": "2026-11-23T14:07:08Z",
+   "headline": "Traders increase bets on BoE and ECB rate hikes after Nvidia reinstates Jensen Huang as chief executive",
+   "detail": "Market reports say traders added to BoE and ECB rate-hike bets after the Nvidia news. Nvidia's board voted unanimously to reinstate Huang with immediate effect, and its shares rose more than 30% in pre-market trading, according to the FT.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "48d9e25fdd46244f",
+    "d9e9297c9c6463c4",
+    "79c345732fd280bc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yci2wsb72w",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yci2wsb72w"
+    },
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2ycmr3dcx2b",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2ycmr3dcx2b"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2ycoczeo22b",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2ycoczeo22b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "32c0286767d5",
+   "created_at": "2026-11-23T14:10:48Z"
+  },
   {
    "id": "17b61908a1e7",
    "ts": "2026-11-23T14:01:33Z",
@@ -6029,93 +6062,6 @@
    "model": "opus",
    "run_id": "be6d7c3dafd7",
    "created_at": "2026-11-19T20:40:51Z"
-  },
-  {
-   "id": "8119478d7d65",
-   "ts": "2026-11-19T20:31:50Z",
-   "headline": "Fed's Goolsbee says he does not see US inflation on a path back to 2% and links the rate path's steepness to that return",
-   "detail": "Chicago Fed President Goolsbee said inflation has been far more persistent than thought in 2025, with demand adding to oil and tariff shocks, and that the past few months have not brought good news on inflation. He said he is not concerned about wages adding to inflation and warned that the current level of business investment carries a high risk of overheating.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "e01acf1fe40e9d16",
-    "96f367cae93992c6",
-    "a20a7e774b31fcaa",
-    "fb34eea4c2b50bc7",
-    "c708cf064bab6cf1",
-    "6a2d7667fff8f4ad",
-    "c6bf141b1c8962f4",
-    "2425ac9ebac1fa3e",
-    "2e415fe8228a77da",
-    "c7214aeac913799a",
-    "f072432b0c22bde3",
-    "02296993f2b71c4a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ow3kkqgn2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ow3kkqgn2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ow3k7cuo24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ow3k7cuo24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ow4bgz2f2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ow4bgz2f2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ow4brhx626",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ow4brhx626"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ow4yhvgj2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ow4yhvgj2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ow5pzuez2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ow5pzuez2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ow5ppe3g26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ow5ppe3g26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ow6hlhmj2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ow6hlhmj2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ow76cy3t2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ow76cy3t2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ow76nk4w24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ow76nk4w24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ow5ped532a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ow5ped532a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ow6h6kz42m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ow6h6kz42m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "bc0c39ad2dcf",
-   "created_at": "2026-11-19T20:35:44Z"
   }
  ]
 }
