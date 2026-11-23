@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T08:15:48Z",
+ "generated_at": "2026-11-23T08:20:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "868f96e993f7",
+   "ts": "2026-11-23T08:15:59Z",
+   "headline": "France's flash manufacturing PMI drops to 47.9 from 49.5 and the composite slips to 46.2, both below forecasts",
+   "detail": "France's November flash manufacturing PMI came in at 47.9, against a 49.8 forecast and 49.5 previously. The flash composite PMI fell to 46.2 from 46.6, against a forecast of 47.9.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "564d16e019064212",
+    "dffe6414b34e5ff6",
+    "e31db19a493d47cc"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xou5wc5j2d",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xou5wc5j2d"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xou6bnpd2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xou6bnpd2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xoyz5fdr26",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xoyz5fdr26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f6dc714dfbb0",
+   "created_at": "2026-11-23T08:20:57Z"
+  },
   {
    "id": "86d2b0829eb2",
    "ts": "2026-11-23T08:15:36Z",
@@ -6245,33 +6278,6 @@
    "model": "opus",
    "run_id": "bc8cdd4de3e4",
    "created_at": "2026-11-19T17:55:42Z"
-  },
-  {
-   "id": "54f4cf67c4ed",
-   "ts": "2026-11-19T17:44:57Z",
-   "headline": "Fed's Goolsbee says US consumer demand has been very strong and solid",
-   "detail": "Chicago Fed President Austan Goolsbee made the remark in the same comments in which he said the job market is stable and inflation is well above the 2% target.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "582794ae3a5eeba3",
-    "a9857740442d4a6a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2omrtqvwd2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2omrtqvwd2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2omrtfan22w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2omrtfan22w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f8df9490cb78",
-   "created_at": "2026-11-19T17:45:49Z"
   }
  ]
 }
