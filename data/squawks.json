@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T09:31:08Z",
+ "generated_at": "2026-11-23T09:51:01Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4971c2f7b3f7",
+   "ts": "2026-11-23T09:50:11Z",
+   "headline": "Russian oil exports from Baltic and Black Sea terminals face growing delays from bad weather and Ukrainian drone attacks",
+   "detail": "Reuters reports that loadings at Russia's main western oil export terminals are being held up by bad weather and repeated Ukrainian drone strikes. Its sources are traders, people with direct knowledge of loading schedules, and shipping data.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "aa4e72a4098199fe"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2xu4lfgq72b",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2xu4lfgq72b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5005d5fbfec7",
+   "created_at": "2026-11-23T09:51:01Z"
+  },
   {
    "id": "45ee25a1e666",
    "ts": "2026-11-23T09:30:41Z",
@@ -6234,51 +6255,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onphuxlx2p",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onphuxlx2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "935c9b6153a0",
-   "created_at": "2026-11-19T18:05:40Z"
-  },
-  {
-   "id": "404163430a6b",
-   "ts": "2026-11-19T18:02:18Z",
-   "headline": "Fed's Goolsbee says the Fed cannot look through tariffs if they persist and sees no stagflation for now",
-   "detail": "Chicago Fed President Goolsbee said the Fed's failure has been on inflation rather than the job market, and that he does not currently see stagflation. He also said shifts in immigration policy mean the Fed should give monthly jobs data less weight as a signal of the business cycle.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "92470c08bd629eb7",
-    "8af2d921f878f328",
-    "5770155dac9a0ba4",
-    "1f27a86e860806f5",
-    "e7fd1eed1ce70cc6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onqvdjlt2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onqvdjlt2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onsfmvsa2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onsfmvsa2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onqw5kdr2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onqw5kdr2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ont56wkh2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ont56wkh2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onqvpgin2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onqvpgin2m"
     }
    ],
    "model": "opus",
