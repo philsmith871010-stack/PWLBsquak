@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T12:31:02Z",
+ "generated_at": "2026-11-23T12:55:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "549b020f00b2",
+   "ts": "2026-11-23T12:53:45Z",
+   "headline": "Dollar index climbs to a fresh 19-month high",
+   "detail": "A market newswire reports the US dollar index has reached its highest level in 19 months. No figure for the index level was given.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d3d081d4c395ad91"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2y6etgsaz2m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2y6etgsaz2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "734edeb01989",
+   "created_at": "2026-11-23T12:55:41Z"
+  },
   {
    "id": "79c3233a9200",
    "ts": "2026-11-23T12:26:19Z",
@@ -6179,39 +6200,6 @@
    "model": "opus",
    "run_id": "597bd06a24f2",
    "created_at": "2026-11-19T19:25:41Z"
-  },
-  {
-   "id": "7e38bec15d9f",
-   "ts": "2026-11-19T19:18:59Z",
-   "headline": "BoE's Greene says policy has been less restrictive than thought, pointing to above-target inflation and a resilient economy",
-   "detail": "Bank of England MPC member Megan Greene said there is a question over how restrictive monetary policy has been and that it has not been as tight as previously thought. She cited inflation running above target and economic resilience.",
-   "category": "boe",
-   "importance": 2,
-   "source_event_ids": [
-    "0d2ce07bc482c083",
-    "18bc8ec25cda3066",
-    "b53e012b75a14ec5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2orwftsco2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2orwftsco2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2orzypqha26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2orzypqha26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2os3fqgpu2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2os3fqgpu2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c8261a3fb84c",
-   "created_at": "2026-11-19T19:20:55Z"
   }
  ]
 }
