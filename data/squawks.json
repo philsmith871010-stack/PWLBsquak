@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T15:50:52Z",
+ "generated_at": "2026-11-23T15:55:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "203351603137",
+   "ts": "2026-11-23T15:54:23Z",
+   "headline": "US crude oil drops below $80 a barrel for the first time since August",
+   "detail": "US crude futures fell under $80 per barrel on Monday afternoon, their lowest level since August, according to a market newswire report.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "72f67636934931c9"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yihtlpw22t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yihtlpw22t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0ae90dd8998b",
+   "created_at": "2026-11-23T15:55:43Z"
+  },
   {
    "id": "a50cd7276307",
    "ts": "2026-11-23T15:47:16Z",
@@ -5958,27 +5979,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2phz4zwdw2j",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2phz4zwdw2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5341fd0d8d8e",
-   "created_at": "2026-11-20T06:10:48Z"
-  },
-  {
-   "id": "ac5ef70ebfac",
-   "ts": "2026-11-20T03:10:13Z",
-   "headline": "Citi underestimated its risk-weighted assets by $35bn after a trade-recording error, Reuters reports",
-   "detail": "Reuters cites sources as saying the error in recording some trades forced Citigroup to inject capital into a subsidiary.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "e3107f45f1012c0e"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2pmemtwej2b",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2pmemtwej2b"
     }
    ],
    "model": "opus",
