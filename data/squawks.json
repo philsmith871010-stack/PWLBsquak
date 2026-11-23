@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T07:50:47Z",
+ "generated_at": "2026-11-23T08:06:02Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "41c1eb14c17d",
+   "ts": "2026-11-23T08:03:35Z",
+   "headline": "Ukraine sinks a Russian warship off Libya in a sea drone attack, FT reports",
+   "detail": "The Financial Times reports that Ukraine sank a Russian warship off the Libyan coast. President Zelenskyy called the sea drone operation exemplary.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "72be8d3507c92fb0"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2xo5xci5h2z",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n2xo5xci5h2z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "85994afc17f7",
+   "created_at": "2026-11-23T08:06:02Z"
+  },
   {
    "id": "771689722af5",
    "ts": "2026-11-23T07:50:26Z",
@@ -6251,27 +6272,6 @@
    "model": "opus",
    "run_id": "f8df9490cb78",
    "created_at": "2026-11-19T17:45:49Z"
-  },
-  {
-   "id": "127ecd9b9793",
-   "ts": "2026-11-19T17:40:33Z",
-   "headline": "Fed's Goolsbee says the US job market is stable but inflation is well above the Fed's 2% target",
-   "detail": "Chicago Fed President Austan Goolsbee said the labour market is steady while inflation remains far higher than the 2% target, according to a market newsfeed.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "cfe88a011eb11b40"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2omjymxd72b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2omjymxd72b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7edf3b7e0405",
-   "created_at": "2026-11-19T17:40:51Z"
   }
  ]
 }
