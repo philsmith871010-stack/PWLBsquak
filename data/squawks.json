@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T08:06:02Z",
+ "generated_at": "2026-11-23T08:15:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "86d2b0829eb2",
+   "ts": "2026-11-23T08:15:36Z",
+   "headline": "France's flash services PMI rises to 46.6 from 46.2 but misses the 47.5 forecast",
+   "detail": "France's November flash services PMI came in at 46.6, against a forecast of 47.5 and up from 46.2 the previous month.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "623e4be4a3e7fb6b"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xothaull2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xothaull2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fe628e0552dc",
+   "created_at": "2026-11-23T08:15:48Z"
+  },
   {
    "id": "41c1eb14c17d",
    "ts": "2026-11-23T08:03:35Z",
@@ -6246,27 +6267,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2omrtfan22w",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2omrtfan22w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "f8df9490cb78",
-   "created_at": "2026-11-19T17:45:49Z"
-  },
-  {
-   "id": "b48124d2f044",
-   "ts": "2026-11-19T17:43:44Z",
-   "headline": "Polish PM Tusk says Poland will not send troops to Ukraine after hostilities end under the coalition of the willing plan",
-   "detail": "Russian media reported the remarks. Tusk was commenting on NATO exercises currently taking place in Poland.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b61144378c9ee989"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ompohcja2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ompohcja2a"
     }
    ],
    "model": "opus",
