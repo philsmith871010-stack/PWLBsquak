@@ -1,8 +1,41 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T15:05:50Z",
+ "generated_at": "2026-11-23T15:10:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "089807e6b35f",
+   "ts": "2026-11-23T15:06:26Z",
+   "headline": "Libya's Tripoli government condemns Ukraine's announced operations against Russian naval vessels off Benghazi",
+   "detail": "Libya's Tripoli-based Government of National Unity says it rejects any foreign military operations on its territory or in its waters, and says it has authorised none. It also warns against any use of Libyan ports and facilities for military purposes.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "59bd06e7c6b24007",
+    "2d935d259de0c42d",
+    "98de8236125e0f66"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfs3rzzm2t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfs3rzzm2t"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfssqysg2v",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfssqysg2v"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2yfylvre42t",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2yfylvre42t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ba179d0671ad",
+   "created_at": "2026-11-23T15:10:54Z"
+  },
   {
    "id": "be4cf3b3f7d3",
    "ts": "2026-11-23T15:04:25Z",
@@ -6000,27 +6033,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pgd7xxua24",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pgd7xxua24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "ae27f0b9abec",
-   "created_at": "2026-11-20T06:05:46Z"
-  },
-  {
-   "id": "dc8c30e30a14",
-   "ts": "2026-11-20T01:00:21Z",
-   "headline": "Fed's Barr warns that regulatory changes underway at the Fed may raise financial sector risks",
-   "detail": "Fed Governor Michael Barr said on Thursday that changes to US financial regulation could make it harder to spot and respond to future market stress, Reuters reported.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "10785a7ade3c9f29"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2pf4fzhes2l",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2pf4fzhes2l"
     }
    ],
    "model": "opus",
