@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T16:45:49Z",
+ "generated_at": "2026-11-23T17:35:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6a84316d2024",
+   "ts": "2026-11-23T17:35:10Z",
+   "headline": "China's central bank governor Pan calls for cooperation with the EU as officials discuss exchange rates",
+   "detail": "Chinese and EU officials discussed exchange rates on Monday, and PBOC Governor Pan called for dialogue and cooperation with the bloc, Reuters reports. European officials had raised their concerns about the yuan's value and China's trade surplus with the EU.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "5bef9f04ec69f8b4"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2yo3zwigc2a",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2yo3zwigc2a"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e0ee05db4d62",
+   "created_at": "2026-11-23T17:35:41Z"
+  },
   {
    "id": "23af8f8707d6",
    "ts": "2026-11-23T16:43:05Z",
@@ -5952,27 +5973,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pvqiwwxd26",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pvqiwwxd26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "48a38424e270",
-   "created_at": "2026-11-20T06:20:48Z"
-  },
-  {
-   "id": "bd6a84f7daa3",
-   "ts": "2026-11-20T05:52:52Z",
-   "headline": "Japan's 40-year government bond yield falls to 4.150%",
-   "detail": "The 40-year JGB yield fell to 4.150% during the Asian session as Japanese equities sold off.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "96d75e37865378fb"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pvhhassq2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pvhhassq2j"
     }
    ],
    "model": "opus",
