@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T08:31:09Z",
+ "generated_at": "2026-11-23T08:56:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "26bad777e9f1",
+   "ts": "2026-11-23T08:51:43Z",
+   "headline": "Iran dismisses reports that its oil tankers are being loaded as speculation",
+   "detail": "Iran called reports about the loading of its oil tankers speculation, according to a market news feed. The statement comes while the US naval blockade of Iran remains in place.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "428da9a6ab51fc82"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xqtztwgz2b",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xqtztwgz2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0d444d46d140",
+   "created_at": "2026-11-23T08:56:00Z"
+  },
   {
    "id": "16aac700ad01",
    "ts": "2026-11-23T08:30:44Z",
@@ -6246,27 +6267,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onjslo5t2t",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onjslo5t2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5ad3cfc95fbe",
-   "created_at": "2026-11-19T18:01:07Z"
-  },
-  {
-   "id": "e025e488d909",
-   "ts": "2026-11-19T17:55:57Z",
-   "headline": "ECB's Panetta says inflation must be stopped from becoming entrenched",
-   "detail": "ECB Governing Council member Fabio Panetta said policy must prevent inflation from taking root. He gave no further detail in the reported remarks.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1bfb3f056333e008"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2onfjm3bh2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2onfjm3bh2t"
     }
    ],
    "model": "opus",
