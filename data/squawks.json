@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T07:31:09Z",
+ "generated_at": "2026-11-23T07:50:47Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "771689722af5",
+   "ts": "2026-11-23T07:50:26Z",
+   "headline": "Iran's foreign ministry says Tehran will use every available means to counter the US naval blockade",
+   "detail": "A spokesperson for Iran's foreign ministry said on Monday that Iran would use all the tools it has against the US naval blockade. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "86e254098b127304"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2xnghu5p72m",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2xnghu5p72m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "45310b38bc42",
+   "created_at": "2026-11-23T07:50:47Z"
+  },
   {
    "id": "0b88ce1afc6a",
    "ts": "2026-11-23T07:26:29Z",
@@ -6251,45 +6272,6 @@
    "model": "opus",
    "run_id": "7edf3b7e0405",
    "created_at": "2026-11-19T17:40:51Z"
-  },
-  {
-   "id": "aee78e36f72f",
-   "ts": "2026-11-19T17:26:05Z",
-   "headline": "US envoy Kushner says Ukraine's security guarantees will be Article Five-based and Russia has been made comfortable with that",
-   "detail": "Speaking in Berlin, US peace envoy Kushner said an Article Five-like guarantee is a big deal that Trump is open to, provided it is in the US interest. He also stressed the importance of having the right communication channels.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4ae37cc00b120c87",
-    "71acd35329a44bc8",
-    "66399dd79d46947d",
-    "39cf4cf40f3034bc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2olq475yk2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2olq475yk2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2olqsxsdj2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2olqsxsdj2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2olrjp6bd2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2olrjp6bd2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2olsas6ak2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2olsas6ak2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a830a0a1b2a4",
-   "created_at": "2026-11-19T17:31:04Z"
   }
  ]
 }
