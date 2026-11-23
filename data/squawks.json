@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T16:25:42Z",
+ "generated_at": "2026-11-23T16:35:43Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1d196a10d0e0",
+   "ts": "2026-11-23T16:35:09Z",
+   "headline": "Sterling edges up against the dollar but gives back some earlier gains as the dollar steadies",
+   "detail": "Reuters reports the pound edged higher against the dollar on Monday, paring some earlier gains as the dollar steadied and investors assessed new signals on the economic outlook. No levels were given.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "7ba1abe22583fefa"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2ykqqcn6r26",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2ykqqcn6r26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "61483f73ed81",
+   "created_at": "2026-11-23T16:35:43Z"
+  },
   {
    "id": "2c2cdd4ff108",
    "ts": "2026-11-23T16:25:30Z",
@@ -5946,33 +5967,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2pqtxjdkn2u",
      "url": "https://bsky.app/profile/reuters.com/post/3n2pqtxjdkn2u"
-    }
-   ],
-   "model": "opus",
-   "run_id": "15d1cd08fea1",
-   "created_at": "2026-11-20T06:15:47Z"
-  },
-  {
-   "id": "46d09ab65b5a",
-   "ts": "2026-11-20T04:05:10Z",
-   "headline": "China, Russia and the US are linked to a proposed joint declaration on global peace, SCMP reports",
-   "detail": "The South China Morning Post reports that Beijing, Moscow and Washington are linked to a proposed joint declaration on global peace. Singapore's prime minister separately praised Xi after what was described as a landmark trilateral summit with Washington and Moscow.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "3bff6faf8efb76f1",
-    "556abb1f3f3c51a7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ppgvdeh32b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ppgvdeh32b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2ppuvw4ye2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2ppuvw4ye2b"
     }
    ],
    "model": "opus",
