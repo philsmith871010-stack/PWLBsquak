@@ -1,8 +1,35 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T12:16:02Z",
+ "generated_at": "2026-11-23T12:31:02Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "79c3233a9200",
+   "ts": "2026-11-23T12:26:19Z",
+   "headline": "UK PM's spokesman says talks with the EU on options for ties are starting, with no commitment to tariffs on Chinese EVs",
+   "detail": "The Prime Minister's spokesman said the UK is opening talks with the EU on realistic options for the relationship. He added that the UK has made no commitment to the EU to impose tariffs on electric vehicles from China.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "7bfa687882254a35",
+    "fe1a795beddbc911"
+   ],
+   "sources": [
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2y4trygnr2s",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2y4trygnr2s"
+    },
+    {
+     "author": "fintwitter.bsky.social",
+     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2y522zg4m24",
+     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2y522zg4m24"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d453a8542a82",
+   "created_at": "2026-11-23T12:31:02Z"
+  },
   {
    "id": "cc82f4b0f0d6",
    "ts": "2026-11-23T12:15:26Z",
@@ -6185,27 +6212,6 @@
    "model": "opus",
    "run_id": "c8261a3fb84c",
    "created_at": "2026-11-19T19:20:55Z"
-  },
-  {
-   "id": "0ddb007d6944",
-   "ts": "2026-11-19T19:15:19Z",
-   "headline": "South Africa's central bank keeps its key rate on hold in a split decision",
-   "detail": "The South African Reserve Bank held its key interest rate on Thursday in a split vote, Reuters reports. Its governor said policy was tight enough after two hikes this year.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "ce15fcaacc22f8b6"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2ortgnt7r2v",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2ortgnt7r2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "89ed3d90a716",
-   "created_at": "2026-11-19T19:15:53Z"
   }
  ]
 }
