@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T06:01:12Z",
+ "generated_at": "2026-11-24T06:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9c6499eea7dd",
+   "ts": "2026-11-24T06:25:12Z",
+   "headline": "Oil falls for a second day to trade near three-month lows on rising supply despite Hormuz shipping risks",
+   "detail": "Reuters reports that oil prices fell further on Tuesday to trade near three-month lows, citing signs of rising crude supply and a possible market surplus. Risks to shipping through the Strait of Hormuz remain, the report says.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "2904f897bb67f1bf"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2zz4xs7mo2u",
+     "url": "https://bsky.app/profile/reuters.com/post/3n2zz4xs7mo2u"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bf0a9e29b716",
+   "created_at": "2026-11-24T06:25:42Z"
+  },
   {
    "id": "0e07f9249307",
    "ts": "2026-11-24T05:22:38Z",
@@ -5903,45 +5924,6 @@
    "model": "opus",
    "run_id": "2bbb26da099a",
    "created_at": "2026-11-20T07:05:49Z"
-  },
-  {
-   "id": "9b147786aa81",
-   "ts": "2026-11-20T07:00:55Z",
-   "headline": "UK retail sales rise 0.7% on the month against a flat forecast, and core sales gain 0.9%",
-   "detail": "Headline UK retail sales rose 0.7% month on month, against a 0% forecast and -0.4% previously, and were up 2.3% year on year, against 1.7% forecast and 0.8% previously. Core sales rose 0.9% on the month, against 0.1% forecast and -0.7% previously, and 2.5% on the year, against 1.8% forecast and 0.8% previously.",
-   "category": "data",
-   "importance": 3,
-   "source_event_ids": [
-    "7710473fab3052b1",
-    "a78758c0c4e6ef93",
-    "8a0923f4831c6b64",
-    "6cddab5cc0790882"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzb53abi2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzb53abi2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzb5ftga2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzb5ftga2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzb4rf7c2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzb4rf7c2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzb4g5nu2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzb4g5nu2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6ee7914b981c",
-   "created_at": "2026-11-20T07:01:08Z"
   }
  ]
 }
