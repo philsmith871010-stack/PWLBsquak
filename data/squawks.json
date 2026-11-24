@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T15:10:55Z",
+ "generated_at": "2026-11-24T16:10:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "a9c85e862808",
+   "ts": "2026-11-24T16:09:24Z",
+   "headline": "CBI survey shows UK retailers had their best month for sales since late 2022",
+   "detail": "A CBI business survey published on Tuesday showed British retailers reporting their strongest sales month in almost four years. Retailers also said they were optimistic about sales in the coming month, Reuters reports.",
+   "category": "data",
+   "importance": 2,
+   "source_event_ids": [
+    "9be2051ffc23f02f"
+   ],
+   "sources": [
+    {
+     "author": "bruceandy.bsky.social",
+     "uri": "at://did:plc:zpgmsa7eo63jbc57nd5gbr2c/app.bsky.feed.post/3n32zrm7uj22v",
+     "url": "https://bsky.app/profile/bruceandy.bsky.social/post/3n32zrm7uj22v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7edef1b66ba0",
+   "created_at": "2026-11-24T16:10:53Z"
+  },
   {
    "id": "9b2afa5b736f",
    "ts": "2026-11-24T15:05:44Z",
@@ -5832,27 +5853,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2q6ge6tfv2s",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2q6ge6tfv2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "94c49e06aa21",
-   "created_at": "2026-11-20T08:35:38Z"
-  },
-  {
-   "id": "a4783e1f4cd9",
-   "ts": "2026-11-20T08:31:44Z",
-   "headline": "European bond sales go above €2 trillion for the first time",
-   "detail": "Bond issuance in Europe has passed €2 trillion for the first time, according to a market newswire report.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1c0ab6e9f0d08f53"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2q6dk6ufe2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2q6dk6ufe2f"
     }
    ],
    "model": "opus",
