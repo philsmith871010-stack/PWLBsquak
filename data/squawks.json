@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T14:15:50Z",
+ "generated_at": "2026-11-24T14:25:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ce3761b52df7",
+   "ts": "2026-11-24T14:25:10Z",
+   "headline": "Brazil's lower house passes a government-backed fiscal package aimed at shoring up public finances",
+   "detail": "Reuters reports that Brazil's lower house of Congress approved the package late on Monday. Investors regard the measures as falling short of what is needed to deal with the country's worsening debt outlook.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "eef02265ac194a99"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n32tx7gsss22",
+     "url": "https://bsky.app/profile/reuters.com/post/3n32tx7gsss22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bbbcebe93a1e",
+   "created_at": "2026-11-24T14:25:54Z"
+  },
   {
    "id": "acfc3deb0b5d",
    "ts": "2026-11-24T14:13:29Z",
@@ -5843,27 +5864,6 @@
    "model": "opus",
    "run_id": "d1ec70f98eb8",
    "created_at": "2026-11-20T08:20:49Z"
-  },
-  {
-   "id": "12b241be1323",
-   "ts": "2026-11-20T08:00:22Z",
-   "headline": "Burnham is set to sign the UK–EU reset deal in Brussels, covering freer food and drink trade and a youth scheme",
-   "detail": "The Financial Times reports that Burnham will sign the UK–EU reset agreement in Brussels. The deal provides for closer ties, including freer trade in food and drink and a youth experience scheme.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "5a1fb24f759cff2c"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2q4lgx2fg22",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n2q4lgx2fg22"
-    }
-   ],
-   "model": "opus",
-   "run_id": "7fc68ce6cc8a",
-   "created_at": "2026-11-20T08:01:13Z"
   }
  ]
 }
