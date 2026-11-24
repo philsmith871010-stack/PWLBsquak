@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T16:46:01Z",
+ "generated_at": "2026-11-24T17:55:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "38a5b4b3f1d8",
+   "ts": "2026-11-24T17:54:51Z",
+   "headline": "Timms Review of PIP sets out no plan to curb welfare spending and leaves cost questions to the government",
+   "detail": "Reuters reports that the UK government's review of the main disability benefit recommended easier claims for people with the most severe conditions but offered no measures to reduce spending. Decisions on eligibility and cost are left to the government early next year.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "f723736176f7fae3"
+   ],
+   "sources": [
+    {
+     "author": "davidmilliken.bsky.social",
+     "uri": "at://did:plc:cnkav2txgxnskbjf2f564bjl/app.bsky.feed.post/3n337o57rl22c",
+     "url": "https://bsky.app/profile/davidmilliken.bsky.social/post/3n337o57rl22c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9080c5300a02",
+   "created_at": "2026-11-24T17:55:44Z"
+  },
   {
    "id": "68261af47194",
    "ts": "2026-11-24T16:42:11Z",
@@ -5837,27 +5858,6 @@
    "model": "opus",
    "run_id": "011d6ea38b0b",
    "created_at": "2026-11-20T09:10:51Z"
-  },
-  {
-   "id": "5bafc8d34b23",
-   "ts": "2026-11-20T08:40:22Z",
-   "headline": "EU and UK agree a youth mobility scheme for 100,000 young people from each side, EU official says",
-   "detail": "An EU official says the EU and the UK have agreed a youth mobility scheme for 100,000 young people from both sides. The agreement comes on the day of the UK–EU reset summit.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9511504bbec83fdc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2q6syhar62t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2q6syhar62t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "64f8d32b1ce2",
-   "created_at": "2026-11-20T08:40:48Z"
   }
  ]
 }
