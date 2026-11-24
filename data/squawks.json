@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T06:25:42Z",
+ "generated_at": "2026-11-24T10:40:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "c0ddb9a12280",
+   "ts": "2026-11-24T10:40:13Z",
+   "headline": "Iraq's PM orders the oil ministry to take over management of oilfields in Kurdish-controlled areas",
+   "detail": "Reuters reports that Prime Minister Ali al-Zaidi issued the order during a crackdown on Iran's most powerful militia ally in Iraq and on senior officials accused of running an oil-smuggling ring worth hundreds of millions of dollars. No market reaction was reported.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "90d9a5894c35cf39"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n32hexykgy22",
+     "url": "https://bsky.app/profile/reuters.com/post/3n32hexykgy22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "26d7f415f8dd",
+   "created_at": "2026-11-24T10:40:56Z"
+  },
   {
    "id": "9c6499eea7dd",
    "ts": "2026-11-24T06:25:12Z",
@@ -5880,45 +5901,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzichd7d2s",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzichd7d2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2bbb26da099a",
-   "created_at": "2026-11-20T07:05:49Z"
-  },
-  {
-   "id": "d3fe65384ecd",
-   "ts": "2026-11-20T07:01:18Z",
-   "headline": "UK public sector net borrowing comes in at £17.0bn in October, below the £18bn estimate and down from £24.5bn",
-   "detail": "ONS data show October PSNB ex banking groups at £17.036bn against an estimate of £18bn and £24.52bn the previous month. The public sector net cash requirement was £10.8bn and the central government net cash requirement £15.5bn, both against £16.9bn previously.",
-   "category": "fiscal",
-   "importance": 2,
-   "source_event_ids": [
-    "d66d7e261d7cf1ea",
-    "22e5de6c493bc2e5",
-    "3694a21eef0effc1",
-    "13538bca577aadd5"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzbu5jtx26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzbu5jtx26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzgrcifc2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzgrcifc2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzgrnb2m2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzgrnb2m2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzidej3z2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzidej3z2m"
     }
    ],
    "model": "opus",
