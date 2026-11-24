@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T17:55:44Z",
+ "generated_at": "2026-11-24T18:10:58Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b6fc662ef78d",
+   "ts": "2026-11-24T18:07:39Z",
+   "headline": "Saudi Arabia seeks help from allies in the US and Asia to restock its missile defences, Semafor reports",
+   "detail": "Semafor reports that Saudi Arabia has asked allies from the US to Asia for help replenishing its missile defence stocks. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "21ed8c5f49ea207a"
+   ],
+   "sources": [
+    {
+     "author": "semafor.com",
+     "uri": "at://did:plc:2jwxoziacifmtqa5felhqms6/app.bsky.feed.post/3n33af2kl642n",
+     "url": "https://bsky.app/profile/semafor.com/post/3n33af2kl642n"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e0d059b1b5d5",
+   "created_at": "2026-11-24T18:10:58Z"
+  },
   {
    "id": "38a5b4b3f1d8",
    "ts": "2026-11-24T17:54:51Z",
@@ -5837,27 +5858,6 @@
    "model": "opus",
    "run_id": "681520e973af",
    "created_at": "2026-11-20T09:40:59Z"
-  },
-  {
-   "id": "f19678cd60e3",
-   "ts": "2026-11-20T09:08:44Z",
-   "headline": "ECB's Lagarde names AI combined with cyber threats as the challenge that worries her most",
-   "detail": "ECB President Lagarde said the combination of artificial intelligence and cyber threats is the challenge that concerns her most. She made no reference to rates in the reported remarks.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "7410f04e6d3f4689"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qafpemi72s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qafpemi72s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "011d6ea38b0b",
-   "created_at": "2026-11-20T09:10:51Z"
   }
  ]
 }
