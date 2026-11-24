@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T16:10:53Z",
+ "generated_at": "2026-11-24T16:46:01Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "68261af47194",
+   "ts": "2026-11-24T16:42:11Z",
+   "headline": "Trump prepares a new round of tariffs on China, the EU, Japan and South Korea, FT reports",
+   "detail": "The Financial Times reports that the US president is preparing new tariffs that are expected to hit China, the EU, Japan and South Korea. The report presents this as Trump doubling down on his trade strategy.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "615b875e0baafb74"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n333m7vg2q2b",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n333m7vg2q2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "7adadb369e44",
+   "created_at": "2026-11-24T16:46:01Z"
+  },
   {
    "id": "a9c85e862808",
    "ts": "2026-11-24T16:09:24Z",
@@ -5837,27 +5858,6 @@
    "model": "opus",
    "run_id": "64f8d32b1ce2",
    "created_at": "2026-11-20T08:40:48Z"
-  },
-  {
-   "id": "31c090a35936",
-   "ts": "2026-11-20T08:33:18Z",
-   "headline": "ECB's Lagarde says the ECB's swap lines will become easier to access",
-   "detail": "ECB President Christine Lagarde said the central bank's swap lines will be made more accessible. No further details were given in the report.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "cd488bfe857e2cd0"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2q6ge6tfv2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2q6ge6tfv2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "94c49e06aa21",
-   "created_at": "2026-11-20T08:35:38Z"
   }
  ]
 }
