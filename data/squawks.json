@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T12:01:19Z",
+ "generated_at": "2026-11-24T12:25:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b7aa5e5e9779",
+   "ts": "2026-11-24T12:21:09Z",
+   "headline": "EU moves closer to letting UK cars into its Made in Europe subsidy scheme, FT reports",
+   "detail": "The Financial Times reports that the EU is nearing a deal to include UK-made cars in the bloc's Made in Europe subsidy scheme. The FT describes this as a significant diplomatic win for PM Andy Burnham.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "ced8377d48505652"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n32mzhig472z",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n32mzhig472z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "66af603b0f31",
+   "created_at": "2026-11-24T12:25:44Z"
+  },
   {
    "id": "3d5c5bce8c47",
    "ts": "2026-11-24T12:00:20Z",
@@ -5849,33 +5870,6 @@
    "model": "opus",
    "run_id": "3629bfb5ba65",
    "created_at": "2026-11-20T07:15:47Z"
-  },
-  {
-   "id": "b7c6d86ded97",
-   "ts": "2026-11-20T07:04:56Z",
-   "headline": "ONS says UK supermarkets reported stronger October sales after government advice to buy long-life items",
-   "detail": "The ONS gave the supermarket comment alongside the October retail sales release.",
-   "category": "data",
-   "importance": 1,
-   "source_event_ids": [
-    "57d3a7ab32aa4991",
-    "13c5e51fdce51b77"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzid37wx2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzid37wx2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzbvqrif2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzbvqrif2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2bbb26da099a",
-   "created_at": "2026-11-20T07:05:49Z"
   }
  ]
 }
