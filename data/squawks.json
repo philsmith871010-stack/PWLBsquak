@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T11:25:45Z",
+ "generated_at": "2026-11-24T12:01:19Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3d5c5bce8c47",
+   "ts": "2026-11-24T12:00:20Z",
+   "headline": "EU imposes temporary limits on hybrid vehicle imports from China, Japan, Turkey, Britain and other countries",
+   "detail": "Reuters reports that the European Union has set temporary caps on hybrid vehicle imports to protect EU carmakers. For most countries the limits are high enough to cover existing shipments.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f6b49d180570a660"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n32luafh772b",
+     "url": "https://bsky.app/profile/reuters.com/post/3n32luafh772b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b868f996d5b5",
+   "created_at": "2026-11-24T12:01:19Z"
+  },
   {
    "id": "f6c8539009dd",
    "ts": "2026-11-24T11:25:10Z",
@@ -5850,39 +5871,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzbvqrif2b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzbvqrif2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2bbb26da099a",
-   "created_at": "2026-11-20T07:05:49Z"
-  },
-  {
-   "id": "fd55f3dce0d5",
-   "ts": "2026-11-20T07:01:20Z",
-   "headline": "German producer prices rise 8.1% year on year in October, above the 7.3% forecast",
-   "detail": "German PPI rose 1.4% on the month against a 1% forecast and 1.9% previously; the annual rate rose from 6.7% in September.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "3dcffc2057b4067c",
-    "673bcfbb233746fa",
-    "921b4bc7b6b956c7"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzbvgmc52b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzbvgmc52b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzbv4omq2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzbv4omq2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzic5fep2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzic5fep2t"
     }
    ],
    "model": "opus",
