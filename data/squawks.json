@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T12:50:49Z",
+ "generated_at": "2026-11-24T14:15:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "acfc3deb0b5d",
+   "ts": "2026-11-24T14:13:29Z",
+   "headline": "Timms Review proposes simpler PIP applications now and a longer-term overhaul of the disability benefit",
+   "detail": "The Institute for Fiscal Studies reports that the Timms Review recommends making it easier to apply for Personal Independence Payment in the short term and reforming the benefit in the long term. The IFS says setting the entitlement criteria remains the main challenge.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "62860a9395216f29"
+   ],
+   "sources": [
+    {
+     "author": "theifs.bsky.social",
+     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3n32tcdghz72i",
+     "url": "https://bsky.app/profile/theifs.bsky.social/post/3n32tcdghz72i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bc0c75def844",
+   "created_at": "2026-11-24T14:15:50Z"
+  },
   {
    "id": "ba35daf60012",
    "ts": "2026-11-24T12:50:16Z",
@@ -5843,27 +5864,6 @@
    "model": "opus",
    "run_id": "7fc68ce6cc8a",
    "created_at": "2026-11-20T08:01:13Z"
-  },
-  {
-   "id": "89379a3819ad",
-   "ts": "2026-11-20T07:53:13Z",
-   "headline": "French Budget Minister Amiel says an extra €6bn budget effort is only a starting point for 2027",
-   "detail": "France's Budget Minister Amiel described the additional €6bn of budget effort as a starting point for 2027 fiscal plans. No market reaction was reported.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b5377402714e6694"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2q46om3xa26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2q46om3xa26"
-    }
-   ],
-   "model": "opus",
-   "run_id": "c6aa432d8e18",
-   "created_at": "2026-11-20T07:55:39Z"
   }
  ]
 }
