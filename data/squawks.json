@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T10:40:56Z",
+ "generated_at": "2026-11-24T11:25:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f6c8539009dd",
+   "ts": "2026-11-24T11:25:10Z",
+   "headline": "Japan downgrades its assessment of consumer spending for the first time since 2024",
+   "detail": "Japan's government cut its view on consumer spending in its November assessment, the first downgrade in more than two and a half years, Reuters reports. It said rising prices were weighing on consumer sentiment.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "4a786d910f1396c9"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n32jvdrfjs26",
+     "url": "https://bsky.app/profile/reuters.com/post/3n32jvdrfjs26"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8823e9044ed0",
+   "created_at": "2026-11-24T11:25:45Z"
+  },
   {
    "id": "c0ddb9a12280",
    "ts": "2026-11-24T10:40:13Z",
@@ -5862,45 +5883,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzic5fep2t",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzic5fep2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2bbb26da099a",
-   "created_at": "2026-11-20T07:05:49Z"
-  },
-  {
-   "id": "85c2bbca25f3",
-   "ts": "2026-11-20T07:01:19Z",
-   "headline": "Swedish seasonally adjusted unemployment falls to 8.2% in October, below forecasts",
-   "detail": "The seasonally adjusted rate fell from 8.6%, against forecasts of 8.55% to 8.6%; the unadjusted rate was 7.7% against 8.1% previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "987ecd95da0696b6",
-    "a6c72132a131ae51",
-    "ab90a48282019b0d",
-    "5470b45256ae0fc3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzbutqj62f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzbutqj62f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzbujw2o2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzbujw2o2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzicslub2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzicslub2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2pzichd7d2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2pzichd7d2s"
     }
    ],
    "model": "opus",
