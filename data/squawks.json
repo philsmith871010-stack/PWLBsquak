@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T06:10:49Z",
+ "generated_at": "2026-11-25T06:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8b6463a5083a",
+   "ts": "2026-11-25T06:45:10Z",
+   "headline": "NAO says MoD's £298bn Defence Investment Plan underpins the Strategic Defence Review but cost pressures persist",
+   "detail": "The National Audit Office said the Ministry of Defence's £298bn Defence Investment Plan lays the groundwork for delivering the Strategic Defence Review, though cost pressures remain. It called for close monitoring and transparency as the plan is carried out.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "63bdcbfcc9bec605"
+   ],
+   "sources": [
+    {
+     "author": "nao.org.uk",
+     "uri": "at://did:plc:zl6coddye75giblpxli7r7zr/app.bsky.feed.post/3n34kpo5yck2v",
+     "url": "https://bsky.app/profile/nao.org.uk/post/3n34kpo5yck2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0039f1da593f",
+   "created_at": "2026-11-25T06:45:51Z"
+  },
   {
    "id": "d4e462da87c3",
    "ts": "2026-11-25T06:10:11Z",
@@ -5730,27 +5751,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qfjqsjlv2f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qfjqsjlv2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "53f8be559a29",
-   "created_at": "2026-11-20T10:40:50Z"
-  },
-  {
-   "id": "5a3f23ff98ea",
-   "ts": "2026-11-20T10:36:04Z",
-   "headline": "EU says terms of UK reset deal depend on UK charging EU students the same tuition fees as British students",
-   "detail": "The Financial Times reports that Andy Burnham is set to agree the deal, while the EU says its terms depend on the UK giving European students the same tuition fees as UK students.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c275ddf144366283"
-   ],
-   "sources": [
-    {
-     "author": "financialtimes.com",
-     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n2qfburfat2u",
-     "url": "https://bsky.app/profile/financialtimes.com/post/3n2qfburfat2u"
     }
    ],
    "model": "opus",
