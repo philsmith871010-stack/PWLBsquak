@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T14:15:59Z",
+ "generated_at": "2026-11-25T14:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "593c9987b110",
+   "ts": "2026-11-25T14:21:26Z",
+   "headline": "Ofgem's January price cap rise takes the typical household energy bill to £2,166 a year from 1 January",
+   "detail": "The Institute for Government says Ofgem's new cap level of £2,166 applies from 1 January. It links the rise to higher gas prices caused by the conflicts in Ukraine and Iran.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "525cfc46cdd7def0"
+   ],
+   "sources": [
+    {
+     "author": "instituteforgovernment.org.uk",
+     "uri": "at://did:plc:d656x5rt365ylfpbzpwgpl4i/app.bsky.feed.post/3n35e7hqars27",
+     "url": "https://bsky.app/profile/instituteforgovernment.org.uk/post/3n35e7hqars27"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a441582c7a6f",
+   "created_at": "2026-11-25T14:25:42Z"
+  },
   {
    "id": "21597477afd5",
    "ts": "2026-11-25T14:15:21Z",
@@ -5675,27 +5696,6 @@
    "model": "opus",
    "run_id": "d950d07bfa34",
    "created_at": "2026-11-20T11:45:50Z"
-  },
-  {
-   "id": "a85994236378",
-   "ts": "2026-11-20T11:33:08Z",
-   "headline": "Poland's Tusk says the day's airspace incident shows Poland must take part in Ukraine peace talks",
-   "detail": "Polish Prime Minister Donald Tusk said the incident involving Russian missiles landing on Polish territory showed why Poland needs a place in the Ukraine peace talks.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "82b71a93f7c91f46"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qihwhcyi2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qihwhcyi2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3ae84a173050",
-   "created_at": "2026-11-20T11:35:46Z"
   }
  ]
 }
