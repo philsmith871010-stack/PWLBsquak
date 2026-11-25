@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T17:31:02Z",
+ "generated_at": "2026-11-25T17:50:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "651e1541cc45",
+   "ts": "2026-11-25T17:50:17Z",
+   "headline": "US will cap its tariff on Indian imports at 17% if a trade deal is reached, USTR says",
+   "detail": "US Trade Representative Jamieson Greer said on Wednesday that tariffs on goods from India would be capped at 17% if Washington and New Delhi reach a trade deal, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9f9709048cae9d16"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35puvm2vy23",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35puvm2vy23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "02c998edc7af",
+   "created_at": "2026-11-25T17:50:53Z"
+  },
   {
    "id": "7c69df4185e5",
    "ts": "2026-11-25T17:30:31Z",
@@ -5669,27 +5690,6 @@
    "model": "opus",
    "run_id": "a51231624095",
    "created_at": "2026-11-20T12:10:54Z"
-  },
-  {
-   "id": "e41837e7c79f",
-   "ts": "2026-11-20T12:03:43Z",
-   "headline": "European Commission President von der Leyen calls the UK–EU reset deal a turning point in relations",
-   "detail": "Von der Leyen welcomed the agreement reached at Friday's UK–EU summit, describing it as a turning point for EU–UK relations.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0b5a95d3db3dfe87"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qk6m4pge2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qk6m4pge2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "8c690ab6f81a",
-   "created_at": "2026-11-20T12:05:44Z"
   }
  ]
 }
