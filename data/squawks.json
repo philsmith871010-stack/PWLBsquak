@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T06:05:40Z",
+ "generated_at": "2026-11-25T06:10:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d4e462da87c3",
+   "ts": "2026-11-25T06:10:11Z",
+   "headline": "Houthis threaten to target Jeddah and all Saudi Red Sea ports if Saudi Arabia attacks Yemen's Hodeidah port",
+   "detail": "Reuters reports that Yemen's Houthis said on Wednesday they would target Jeddah and every other Saudi port on the Red Sea coast if Saudi Arabia acts on its threats to attack Hodeidah. No market reaction was reported.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "3542f590ed7f71bd"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n34ir277sl2m",
+     "url": "https://bsky.app/profile/reuters.com/post/3n34ir277sl2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d463711df680",
+   "created_at": "2026-11-25T06:10:49Z"
+  },
   {
    "id": "96d97d012481",
    "ts": "2026-11-25T05:20:13Z",
@@ -5735,27 +5756,6 @@
    "model": "opus",
    "run_id": "53f8be559a29",
    "created_at": "2026-11-20T10:40:50Z"
-  },
-  {
-   "id": "e7b40fcca98e",
-   "ts": "2026-11-20T10:26:28Z",
-   "headline": "Hungary reportedly lifts its veto, letting Ukraine open the last two EU accession clusters",
-   "detail": "Market reports say Hungary has withdrawn its veto, allowing Ukraine to open the final two clusters of its EU accession negotiations. No official confirmation was included in the reports.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b45786fcd886407d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qeqpvprg2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qeqpvprg2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "30e3df74bd65",
-   "created_at": "2026-11-20T10:30:56Z"
   }
  ]
 }
