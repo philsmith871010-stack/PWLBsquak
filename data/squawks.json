@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T18:40:50Z",
+ "generated_at": "2026-11-25T19:01:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0a26733ffdb4",
+   "ts": "2026-11-25T19:00:51Z",
+   "headline": "US consortium led by Todd Boehly signs share swap deal to buy sanctioned Lukoil's international energy assets",
+   "detail": "Reuters reports that US billionaire Todd Boehly said on Wednesday he had signed a deal with Lukoil for a consortium that includes the US International Development Finance Corp to acquire the sanctioned Russian oil company's international energy assets.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "18573ca94e0b4d92"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35tt3xkb32y",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35tt3xkb32y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ba7f9e372d2a",
+   "created_at": "2026-11-25T19:01:17Z"
+  },
   {
    "id": "b45636f8d8f0",
    "ts": "2026-11-25T18:40:20Z",
@@ -5669,27 +5690,6 @@
    "model": "opus",
    "run_id": "e02e755fa2a0",
    "created_at": "2026-11-20T13:01:27Z"
-  },
-  {
-   "id": "564db1a8aab9",
-   "ts": "2026-11-20T12:10:12Z",
-   "headline": "Ukrainian drone strikes cut Russian refinery crude processing by 45% since late October, and more regions limit fuel sales",
-   "detail": "Reuters reported, citing industry sources, that Ukrainian drone attacks have cut Russian refineries' combined crude processing by 45% since late October. More Russian regions are now limiting fuel sales.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "31a2abcdd09c92ea"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2qkk72ngv2s",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2qkk72ngv2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a51231624095",
-   "created_at": "2026-11-20T12:10:54Z"
   }
  ]
 }
