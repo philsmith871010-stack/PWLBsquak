@@ -1,8 +1,77 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-24T21:05:44Z",
+ "generated_at": "2026-11-25T06:01:15Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "9b50d7896285",
+   "ts": "2026-11-25T04:20:14Z",
+   "headline": "Japan's services inflation gauge rises 4.2% in October, the fastest annual pace since 1990",
+   "detail": "Data released on Wednesday show a key gauge of Japanese service-sector inflation rose 4.2% year on year in October. Reuters reports the reading adds to the case for a near-term BOJ rate hike.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "c710b4cdd981b1d3"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n34cmgdklf2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n34cmgdklf2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "645256944735",
+   "created_at": "2026-11-25T06:01:15Z"
+  },
+  {
+   "id": "0787ee37b601",
+   "ts": "2026-11-25T00:00:24Z",
+   "headline": "Canadian dollar reaches an 11-day high as investors add to bets on a Bank of Canada rate hike after Macklem's speech",
+   "detail": "Investors raised bets on a Bank of Canada rate hike next month after a speech by Governor Tiff Macklem, and the Canadian dollar hit an 11-day high against the US dollar. Reuters separately reports the Bank of Canada says end-year inflation could come in below forecast.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "5b46a0893b4d15ab",
+    "9dfd26523dde6c38"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n33u3sog6m2b",
+     "url": "https://bsky.app/profile/reuters.com/post/3n33u3sog6m2b"
+    },
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n33s4snkys2v",
+     "url": "https://bsky.app/profile/reuters.com/post/3n33s4snkys2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "645256944735",
+   "created_at": "2026-11-25T06:01:15Z"
+  },
+  {
+   "id": "65d16f7afdb9",
+   "ts": "2026-11-24T23:15:15Z",
+   "headline": "Iraq presses OPEC+ to raise its crude capacity estimate ahead of the 2027 quota review, sources say",
+   "detail": "Reuters cites four sources as saying Iraq wants OPEC+ to lift its estimate of the country's crude production capacity. The review will help set how much each member may pump next year, and the push is raising tensions within the group.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "a16e5ccf7bad97df"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n33rl3m3q22v",
+     "url": "https://bsky.app/profile/reuters.com/post/3n33rl3m3q22v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "645256944735",
+   "created_at": "2026-11-25T06:01:15Z"
+  },
   {
    "id": "92b9dae2961f",
    "ts": "2026-11-24T21:05:09Z",
@@ -5699,105 +5768,6 @@
    "model": "opus",
    "run_id": "6d2a4239d652",
    "created_at": "2026-11-20T10:20:49Z"
-  },
-  {
-   "id": "2ffdc5a0ac14",
-   "ts": "2026-11-20T10:05:48Z",
-   "headline": "Estonia to shut its border crossings with Russia from 1 December and will review the closure after 6 months",
-   "detail": "The Estonian government says its border crossings with Russia will close from 1 December onwards and that it will reconsider the decision in 6 months.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "9621a03f8474797f",
-    "d0c96f084270b893"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qdlqul232b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qdlqul232b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qdokdxib2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qdokdxib2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9be8529b90b4",
-   "created_at": "2026-11-20T10:10:54Z"
-  },
-  {
-   "id": "69a643bf0590",
-   "ts": "2026-11-20T10:03:05Z",
-   "headline": "Polish general says 11 objects threatened Polish airspace and 3 of them crossed into it",
-   "detail": "General Nowak of Poland's military gave the figures on Friday as the incursion story continued, after Poland said missiles and a drone that came down on its territory came from Russia.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "8c81dbcda8e407c2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qdgvs3xz24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qdgvs3xz24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cf1d6d4d9a2e",
-   "created_at": "2026-11-20T10:05:40Z"
-  },
-  {
-   "id": "9bcfb0c0a6b6",
-   "ts": "2026-11-20T10:00:18Z",
-   "headline": "Poland says two missiles and a drone that came down on its territory came from Russia and will ask NATO for more support",
-   "detail": "Poland's defence minister said a Russian KH-101 cruise missile likely fell in Poland, called it another Russian provocation and linked its timing to a meeting of the coalition of the willing. He said Poland will ask NATO for additional support.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "17caec672f9b417e",
-    "7a05619337edbb1b",
-    "41e7c4822d4641ac",
-    "91270ea1736d996d",
-    "e3c75778e215b10f",
-    "7e38c98781c1f692"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qd3jroug2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qd3jroug2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qd6df4r724",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qd6df4r724"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qdbv62gw2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qdbv62gw2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qdbvxrfg2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qdbvxrfg2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qdbvnd4b26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qdbvnd4b26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qdcmpnmp2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qdcmpnmp2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "129cad1232d8",
-   "created_at": "2026-11-20T10:01:11Z"
   }
  ]
 }
