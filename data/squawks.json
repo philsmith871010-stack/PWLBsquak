@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T12:15:51Z",
+ "generated_at": "2026-11-25T14:05:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2975fa3b6c76",
+   "ts": "2026-11-25T14:05:08Z",
+   "headline": "US proposes higher tariffs on China, India and other major trading partners, with the steepest rates on China",
+   "detail": "Reuters reports that Washington has proposed raising duties on several major trading partners. The highest rates would apply to China, which the US blames most for flooding world markets with cheap exports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9eb3f1571a8e6259"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35dcd53k52m",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35dcd53k52m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0420de8c13d0",
+   "created_at": "2026-11-25T14:05:44Z"
+  },
   {
    "id": "593d1c185009",
    "ts": "2026-11-25T12:14:06Z",
@@ -5675,27 +5696,6 @@
    "model": "opus",
    "run_id": "3ae84a173050",
    "created_at": "2026-11-20T11:35:46Z"
-  },
-  {
-   "id": "81c1472eaa9a",
-   "ts": "2026-11-20T11:29:36Z",
-   "headline": "Houthis warn airlines that Saudi airspace is unsafe ahead of planned operations in the coming hours",
-   "detail": "The Yemen-based Houthi movement told all aviation companies that airspace over Saudi Arabia would be the scene of its operations in the coming hours, excluding the airspace over Mecca and Medina. No market reaction was reported in the posts.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c241eec5f2cc1a85"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qiblmjw32p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qiblmjw32p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a52196feba47",
-   "created_at": "2026-11-20T11:31:17Z"
   }
  ]
 }
