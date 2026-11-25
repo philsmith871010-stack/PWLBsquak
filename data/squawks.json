@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T14:25:42Z",
+ "generated_at": "2026-11-25T14:45:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "18458b1124e9",
+   "ts": "2026-11-25T14:45:17Z",
+   "headline": "Swiss regulator FINMA says UBS has strengthened its crisis readiness and its resolution strategy is executable in principle",
+   "detail": "FINMA said on Wednesday that UBS had made progress on crisis preparedness and that the regulator's preferred strategy for resolving the bank could in principle be carried out.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "f6252722fe01e683"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35fk3siji2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35fk3siji2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "625e23f24c54",
+   "created_at": "2026-11-25T14:45:55Z"
+  },
   {
    "id": "593c9987b110",
    "ts": "2026-11-25T14:21:26Z",
@@ -5675,27 +5696,6 @@
    "model": "opus",
    "run_id": "517e7db04793",
    "created_at": "2026-11-20T11:55:44Z"
-  },
-  {
-   "id": "034c476657f0",
-   "ts": "2026-11-20T11:44:03Z",
-   "headline": "Poland's Tusk asks NATO for an immediate boost to air defences after Russian missiles land on Polish territory",
-   "detail": "Polish Prime Minister Donald Tusk called for NATO to strengthen Poland's air defences without delay. The request follows the day's incident in which Poland said Russian missiles and a drone came down on its territory.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "cadaf2c35ffe7d13"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qj3hbrzq2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qj3hbrzq2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d950d07bfa34",
-   "created_at": "2026-11-20T11:45:50Z"
   }
  ]
 }
