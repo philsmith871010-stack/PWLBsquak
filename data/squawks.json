@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T10:05:46Z",
+ "generated_at": "2026-11-25T11:05:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "55f790cccb47",
+   "ts": "2026-11-25T11:05:10Z",
+   "headline": "Iran's first vice president says Tehran can withstand a US naval blockade and is moving to curb price rises",
+   "detail": "Iran's first vice president said Tehran was not worried about a US naval blockade because cargo through other borders had risen significantly, Reuters reports. He said the government is seeking to limit price increases.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9f1f1072446ae3ba"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n34zaiop3w23",
+     "url": "https://bsky.app/profile/reuters.com/post/3n34zaiop3w23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "acf4b428340c",
+   "created_at": "2026-11-25T11:05:44Z"
+  },
   {
    "id": "4b55b313f42e",
    "ts": "2026-11-25T10:05:10Z",
@@ -5729,27 +5750,6 @@
    "model": "opus",
    "run_id": "8c22e4934859",
    "created_at": "2026-11-20T11:20:59Z"
-  },
-  {
-   "id": "5ac8cac78c68",
-   "ts": "2026-11-20T11:14:54Z",
-   "headline": "Houthis threaten Saudi Red Sea ports if Hodeidah is bombed and call for evacuations",
-   "detail": "A Houthi spokesman warned that Saudi ports on the Red Sea would be targeted if the Saudi-led coalition bombs Hodeidah, and called for evacuations. The coalition had earlier told civilians to leave Hodeidah port after Houthi attacks on Riyadh.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b8d1cab440f60d45"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qhhdcash2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qhhdcash2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6e54e09d8599",
-   "created_at": "2026-11-20T11:16:01Z"
   }
  ]
 }
