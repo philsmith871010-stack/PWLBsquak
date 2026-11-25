@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T16:41:00Z",
+ "generated_at": "2026-11-25T17:15:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "22ae28ee7ca0",
+   "ts": "2026-11-25T17:15:13Z",
+   "headline": "US proposes new tariffs on imports from Brazil, including a 10% duty on finished aircraft",
+   "detail": "Reuters reports that the US proposed the tariffs on Wednesday. Washington says Brasilia has not corrected what it calls unreasonable acts, policies and practices.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "a6d7461c4bac494d"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35nw7deyo2e",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35nw7deyo2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f28df9b0c6c4",
+   "created_at": "2026-11-25T17:15:57Z"
+  },
   {
    "id": "bc5dc709ea18",
    "ts": "2026-11-25T16:40:17Z",
@@ -5669,33 +5690,6 @@
    "model": "opus",
    "run_id": "8c690ab6f81a",
    "created_at": "2026-11-20T12:05:44Z"
-  },
-  {
-   "id": "2150b8657229",
-   "ts": "2026-11-20T11:56:36Z",
-   "headline": "Burnham calls the UK–EU reset deal a landmark agreement and a good day for Britain and Europe",
-   "detail": "The Prime Minister spoke on the agreement reached at Friday's UK–EU summit. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "95372ce8ceeda041",
-    "d79f1b98940cfdee"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qjqgmhka2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qjqgmhka2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qjrv6g452j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qjrv6g452j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4ce658e39c90",
-   "created_at": "2026-11-20T12:01:16Z"
   }
  ]
 }
