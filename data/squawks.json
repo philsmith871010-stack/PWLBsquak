@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T19:01:17Z",
+ "generated_at": "2026-11-25T20:45:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b4e83c2e46af",
+   "ts": "2026-11-25T20:45:18Z",
+   "headline": "BoE's Bailey says UK inflation may peak lower than forecast if energy prices stay at current levels",
+   "detail": "Bank of England Governor Andrew Bailey said on Wednesday that UK inflation may not rise as high as the Bank forecast earlier this month if international energy prices settle at current levels after recent falls, Reuters reports.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "b740a4cb482dc270"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35znufidu2j",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35znufidu2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b088d026d130",
+   "created_at": "2026-11-25T20:45:57Z"
+  },
   {
    "id": "0a26733ffdb4",
    "ts": "2026-11-25T19:00:51Z",
@@ -5669,27 +5690,6 @@
    "model": "opus",
    "run_id": "40486fef48a5",
    "created_at": "2026-11-20T13:10:54Z"
-  },
-  {
-   "id": "64462260b696",
-   "ts": "2026-11-20T12:59:50Z",
-   "headline": "US 10-year Treasury yield falls 8bp to 4.9698%",
-   "detail": "A market news feed reported the 10-year US Treasury note yield down 8bp at 4.9698% shortly before 13:00 GMT.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "ef3ecced6757ffb1"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qncx64rj2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qncx64rj2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e02e755fa2a0",
-   "created_at": "2026-11-20T13:01:27Z"
   }
  ]
 }
