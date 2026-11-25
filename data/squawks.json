@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T16:25:43Z",
+ "generated_at": "2026-11-25T16:41:00Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bc5dc709ea18",
+   "ts": "2026-11-25T16:40:17Z",
+   "headline": "US inflation rises further in October, adding to expectations of a Fed rate hike next month, Reuters reports",
+   "detail": "Reuters reports that US inflation increased again in October and is broadening out. It says this came alongside the upward revision to Q3 growth and is strengthening expectations that the Federal Reserve will raise rates next month and again in early 2027.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "a889f424e4d17993"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35lxq62kh2g",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35lxq62kh2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0df3232dd88a",
+   "created_at": "2026-11-25T16:41:00Z"
+  },
   {
    "id": "9d7b65d8ffd6",
    "ts": "2026-11-25T16:21:18Z",
@@ -5675,27 +5696,6 @@
    "model": "opus",
    "run_id": "4ce658e39c90",
    "created_at": "2026-11-20T12:01:16Z"
-  },
-  {
-   "id": "5da546e2f6cc",
-   "ts": "2026-11-20T11:54:11Z",
-   "headline": "France seeks a UN Security Council meeting after Russian strikes on Kyiv that hit the Austrian and Dutch embassies",
-   "detail": "France's foreign minister called for the Security Council meeting after the latest Russian strikes on Kyiv, which included hits on the Austrian and Dutch embassies.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "716e61ba79daa276"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qjnkypg42m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qjnkypg42m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "517e7db04793",
-   "created_at": "2026-11-20T11:55:44Z"
   }
  ]
 }
