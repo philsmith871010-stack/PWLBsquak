@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T11:45:51Z",
+ "generated_at": "2026-11-25T12:15:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "593d1c185009",
+   "ts": "2026-11-25T12:14:06Z",
+   "headline": "Germany's Merz warns that Russia is escalating its conflict in Europe and in space",
+   "detail": "The German chancellor issued the warning while trying to keep up public support for Ukraine among an increasingly sceptical German population, the FT reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "1c48a2ccc55088c7"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n3553rh7s622",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n3553rh7s622"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d9ee4bcc4fe6",
+   "created_at": "2026-11-25T12:15:51Z"
+  },
   {
    "id": "d4e9c3e2a09e",
    "ts": "2026-11-25T11:45:14Z",
@@ -5670,27 +5691,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qiblmjw32p",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qiblmjw32p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a52196feba47",
-   "created_at": "2026-11-20T11:31:17Z"
-  },
-  {
-   "id": "f28d75dce37a",
-   "ts": "2026-11-20T11:27:37Z",
-   "headline": "EU pays out €7.9bn to Ukraine",
-   "detail": "The European Union has disbursed €7.9bn to Ukraine, according to a market news feed. No further details were given.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "cd924c3dc983dcfe"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qi622atd2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qi622atd2t"
     }
    ],
    "model": "opus",
