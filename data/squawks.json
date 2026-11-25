@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T11:35:39Z",
+ "generated_at": "2026-11-25T11:45:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d4e9c3e2a09e",
+   "ts": "2026-11-25T11:45:14Z",
+   "headline": "Resolution Foundation says OBR forecasts put 2020s income growth on course to be the weakest of any decade on record",
+   "detail": "The Resolution Foundation, citing the latest OBR forecasts, said incomes are set to be 1.4% higher in 2030 than in 2020.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "66d5285ac8bc584b"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3n353i5t4wq2m",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3n353i5t4wq2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "706bcd564179",
+   "created_at": "2026-11-25T11:45:51Z"
+  },
   {
    "id": "bae62c800a86",
    "ts": "2026-11-25T11:35:10Z",
@@ -5675,63 +5696,6 @@
    "model": "opus",
    "run_id": "a52196feba47",
    "created_at": "2026-11-20T11:31:17Z"
-  },
-  {
-   "id": "d90af749bbc5",
-   "ts": "2026-11-20T11:24:04Z",
-   "headline": "Poland's Tusk calls the Russian missiles that fell on Polish territory a deliberate provocation and an escalation",
-   "detail": "Polish Prime Minister Donald Tusk said Poland is certain the objects that came down on its territory were Russian, that the incident does not look accidental, and that it is the latest example of Russian escalation. He said he had spoken with NATO Secretary General Mark Rutte.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "48701b2ca2282384",
-    "d823b6d63d008700",
-    "155f68c5d59c6a85",
-    "e415219eda82cdf9",
-    "b3533fbee532cf3b",
-    "1c9c56e0316cb1b4",
-    "2fcc80295fe698cd"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qhu5r7xu2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qhu5r7xu2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qhwxht6v2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qhwxht6v2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qhxombx22v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qhxombx22v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qhxoupox2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qhxoupox2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qhyfhbpa2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qhyfhbpa2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qhwxpjma2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qhwxpjma2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qhwxxszx2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qhwxxszx2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "6743fe8dfe63",
-   "created_at": "2026-11-20T11:25:44Z"
   }
  ]
 }
