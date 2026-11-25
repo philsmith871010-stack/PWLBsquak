@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T07:31:03Z",
+ "generated_at": "2026-11-25T07:35:46Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "d86bebaa2300",
+   "ts": "2026-11-25T07:33:50Z",
+   "headline": "Resolution Foundation says January's 26% price cap rise puts typical bills £50 above the peak of the last energy crisis",
+   "detail": "The Resolution Foundation said Ofgem's confirmed 26% rise in the energy price cap from January will leave typical family bills £50 higher than at the peak of the previous energy crisis. It added that the government's £100 support payment will miss one in eight of England's poorest families.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "b1b710c25d567620"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3n34ngme74v2f",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3n34ngme74v2f"
+    }
+   ],
+   "model": "opus",
+   "run_id": "23c53d1cd908",
+   "created_at": "2026-11-25T07:35:46Z"
+  },
   {
    "id": "fee36e6a1888",
    "ts": "2026-11-25T07:26:00Z",
@@ -5729,33 +5750,6 @@
    "model": "opus",
    "run_id": "4c71d3688cab",
    "created_at": "2026-11-20T10:50:50Z"
-  },
-  {
-   "id": "bebdb6697906",
-   "ts": "2026-11-20T10:45:34Z",
-   "headline": "Zelenskiy says Russia fired more than 110 missiles and 400 drones at Ukraine in one of its largest attacks",
-   "detail": "Ukraine's President Zelenskiy gave the figures for the latest Russian attack and called it one of the most massive of the war. Earlier reports said the strikes hit Kyiv's bridges and energy infrastructure, and Kyiv brought in emergency blackouts.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "71bb76b954cf9cbb",
-    "46b9e09bda80a43e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qfsuohjn2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qfsuohjn2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qfsv2prk2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qfsv2prk2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "81c9e57d6f33",
-   "created_at": "2026-11-20T10:45:52Z"
   }
  ]
 }
