@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T06:45:51Z",
+ "generated_at": "2026-11-25T07:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fee36e6a1888",
+   "ts": "2026-11-25T07:26:00Z",
+   "headline": "Ofgem sets a 26% rise in the UK household energy price cap from January, citing a jump in wholesale gas costs",
+   "detail": "Energy regulator Ofgem says the new three-month price cap, which takes effect in January, reflects a surge in wholesale gas prices, the FT reports.",
+   "category": "energy",
+   "importance": 3,
+   "source_event_ids": [
+    "8e530fa4f0ff8014"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n34mylr45k2t",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n34mylr45k2t"
+    }
+   ],
+   "model": "opus",
+   "run_id": "5c4949f46f5b",
+   "created_at": "2026-11-25T07:31:03Z"
+  },
   {
    "id": "8b6463a5083a",
    "ts": "2026-11-25T06:45:10Z",
@@ -5735,27 +5756,6 @@
    "model": "opus",
    "run_id": "81c9e57d6f33",
    "created_at": "2026-11-20T10:45:52Z"
-  },
-  {
-   "id": "9782dc822d71",
-   "ts": "2026-11-20T10:40:29Z",
-   "headline": "Saudi-led coalition tells civilians to leave Yemen's Hodeidah port after Houthi attacks on Riyadh",
-   "detail": "The coalition's Joint Forces Command published a call for civilians to evacuate the Red Sea port of Hodeidah, citing their safety. No market reaction was reported.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "aa91858bd9bf8ba4"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qfjqsjlv2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qfjqsjlv2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "53f8be559a29",
-   "created_at": "2026-11-20T10:40:50Z"
   }
  ]
 }
