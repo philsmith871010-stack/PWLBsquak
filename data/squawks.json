@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T14:05:44Z",
+ "generated_at": "2026-11-25T14:15:59Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "21597477afd5",
+   "ts": "2026-11-25T14:15:21Z",
+   "headline": "Iran says two oil tankers hit naval mines and caught fire in the Strait of Hormuz, tells ships to coordinate passage",
+   "detail": "Iran's Revolutionary Guards Navy said in a statement carried by state media on Wednesday that two oil tankers struck naval mines in the Strait of Hormuz, exploded and caught fire. It warned vessels to coordinate their passage through the strait.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "8bb27eae32fb8459"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35duljy5423",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35duljy5423"
+    }
+   ],
+   "model": "opus",
+   "run_id": "0e59786f8250",
+   "created_at": "2026-11-25T14:15:59Z"
+  },
   {
    "id": "2975fa3b6c76",
    "ts": "2026-11-25T14:05:08Z",
@@ -5670,27 +5691,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qihwhcyi2d",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qihwhcyi2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3ae84a173050",
-   "created_at": "2026-11-20T11:35:46Z"
-  },
-  {
-   "id": "2de2e24a9709",
-   "ts": "2026-11-20T11:32:45Z",
-   "headline": "Russia's foreign ministry says Moscow will respond with diplomatic countermeasures to Estonia's border closure",
-   "detail": "Russia's foreign ministry said Moscow will take diplomatic countermeasures after Estonia announced it will close its border crossings with Russia. The ministry did not give details of the measures.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0eb68ff0ea25ec28"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qih7q5hi2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qih7q5hi2d"
     }
    ],
    "model": "opus",
