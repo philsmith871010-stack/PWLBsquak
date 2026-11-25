@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T17:50:53Z",
+ "generated_at": "2026-11-25T18:40:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b45636f8d8f0",
+   "ts": "2026-11-25T18:40:20Z",
+   "headline": "RBI bulletin says India's food inflation pressures remain broad-based and shows it was a net dollar buyer in September",
+   "detail": "The Reserve Bank of India's monthly bulletin, reported by Reuters, comes days before its policy review. Reuters says the central bank is widely expected to raise rates for a second meeting in a row.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "85bd6af81c9cb3b3"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n35soffggw2g",
+     "url": "https://bsky.app/profile/reuters.com/post/3n35soffggw2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "cdf2a047289e",
+   "created_at": "2026-11-25T18:40:50Z"
+  },
   {
    "id": "651e1541cc45",
    "ts": "2026-11-25T17:50:17Z",
@@ -5664,27 +5685,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2qkk72ngv2s",
      "url": "https://bsky.app/profile/reuters.com/post/3n2qkk72ngv2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a51231624095",
-   "created_at": "2026-11-20T12:10:54Z"
-  },
-  {
-   "id": "f1a14adf016a",
-   "ts": "2026-11-20T12:07:14Z",
-   "headline": "US and Israel are weighing a fresh assault on Iran in the near term, CBS reports, citing sources",
-   "detail": "CBS reported, citing unnamed sources, that the US and Israel are considering a new attack on Iran in the short term. No market reaction was reported in the posts.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1d25443157016d96"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qkevpruj2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qkevpruj2f"
     }
    ],
    "model": "opus",
