@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T12:10:48Z",
+ "generated_at": "2026-11-26T12:31:05Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "fddcb3815cba",
+   "ts": "2026-11-26T12:30:38Z",
+   "headline": "IFS says the Welsh Government's draft Budget gives an overly optimistic picture of spending, especially capital investment",
+   "detail": "The Institute for Fiscal Studies has published a comment on Welsh Government funding. It says the spending figures in the draft Budget make the outlook for services, and capital investment in particular, look better than it is.",
+   "category": "fiscal",
+   "importance": 1,
+   "source_event_ids": [
+    "da3049558e88e51c"
+   ],
+   "sources": [
+    {
+     "author": "theifs.bsky.social",
+     "uri": "at://did:plc:migxim34fyw7yvdbzw5maym5/app.bsky.feed.post/3n37oib3mms2p",
+     "url": "https://bsky.app/profile/theifs.bsky.social/post/3n37oib3mms2p"
+    }
+   ],
+   "model": "opus",
+   "run_id": "e383c97469b2",
+   "created_at": "2026-11-26T12:31:05Z"
+  },
   {
    "id": "3177fa0b6fd6",
    "ts": "2026-11-26T12:10:14Z",
@@ -5358,51 +5379,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qu3qlck726",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qu3qlck726"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9b5a3a4945e1",
-   "created_at": "2026-11-20T15:01:19Z"
-  },
-  {
-   "id": "bc9b3f6090a6",
-   "ts": "2026-11-20T15:01:03Z",
-   "headline": "University of Michigan final sentiment comes in at 51.5, and 1-year inflation expectations ease to 3.7% from 4.3%",
-   "detail": "In the final University of Michigan survey, sentiment was 51.5 against a 51.6 forecast and 51.0 previously. Expectations rose to 52.9 against a 51.2 forecast, and current conditions fell to 49.4 against a 52.3 forecast. 1-year inflation expectations were 3.7% against a 4.2% forecast, and 5-year expectations were 3.3% against a 3.4% forecast and 3.4% previously.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "524f533dc8cc53df",
-    "1e92a6090f5e55c4",
-    "658fa898eeca2972",
-    "960eedf2c5c6bdda",
-    "72d963092b173693"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qu3ouix42p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qu3ouix42p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qu2xmmzz2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qu2xmmzz2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qu3oewvr2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qu3oewvr2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qu3p6pvj2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qu3p6pvj2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qu3pwtrb24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qu3pwtrb24"
     }
    ],
    "model": "opus",
