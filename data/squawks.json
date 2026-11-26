@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T16:25:44Z",
+ "generated_at": "2026-11-26T16:35:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8056a859c4cd",
+   "ts": "2026-11-26T16:32:25Z",
+   "headline": "Resolution Foundation says UK has had five years of inflation equal to 13 years at a normal pace",
+   "detail": "The Resolution Foundation says the UK has seen inflation over five years equivalent to 13 years of normal inflation. It also says the cost of living crisis hit the UK harder than other countries.",
+   "category": "data",
+   "importance": 1,
+   "source_event_ids": [
+    "4c1eec406b111ba9"
+   ],
+   "sources": [
+    {
+     "author": "resolutionfoundation.org",
+     "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3n3a3ylmeby2m",
+     "url": "https://bsky.app/profile/resolutionfoundation.org/post/3n3a3ylmeby2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "61ff5e46d290",
+   "created_at": "2026-11-26T16:35:50Z"
+  },
   {
    "id": "0a31900f99de",
    "ts": "2026-11-26T16:25:10Z",
@@ -5279,27 +5300,6 @@
    "model": "opus",
    "run_id": "fb770e508021",
    "created_at": "2026-11-20T16:20:52Z"
-  },
-  {
-   "id": "02047235403d",
-   "ts": "2026-11-20T16:04:15Z",
-   "headline": "Missile strikes Iran's Qeshm Island in the south, Tasnim reports, with no details yet on damage",
-   "detail": "Iran's Tasnim News Agency reported a missile hit Qeshm Island in southern Iran and gave no information on any damage. The report did not say who fired the missile.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "169cb63875359c5e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qxmpls6z2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qxmpls6z2b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "19201d841725",
-   "created_at": "2026-11-20T16:05:50Z"
   }
  ]
 }
