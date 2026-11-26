@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T06:25:45Z",
+ "generated_at": "2026-11-26T06:50:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ed10268db334",
+   "ts": "2026-11-26T06:50:11Z",
+   "headline": "South Korea plans further talks with the US to protect its interests after new US tariffs",
+   "detail": "South Korea said on Thursday that its manufacturing sector is an integral part of US supply chains and that it will hold more talks with Washington, Reuters reports. The US announced the new tariffs under a probe into unfair trade practices.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "f8029e1df4640a86"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n373hi6t2z23",
+     "url": "https://bsky.app/profile/reuters.com/post/3n373hi6t2z23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b55d5f06dd10",
+   "created_at": "2026-11-26T06:50:56Z"
+  },
   {
    "id": "110c578b1051",
    "ts": "2026-11-26T06:25:10Z",
@@ -5496,33 +5517,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qpah7bpk2t",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qpah7bpk2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e290afeb0df7",
-   "created_at": "2026-11-20T13:36:16Z"
-  },
-  {
-   "id": "e79f800ebbe1",
-   "ts": "2026-11-20T13:31:01Z",
-   "headline": "Canadian core retail sales rise 1.0% on the month, above the 0.7% forecast",
-   "detail": "Canadian core retail sales rose 1.0% month on month in September, against a 0.7% forecast and 1.2% previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "4e292ac95efdff88",
-    "a12ee1175d27a26b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qp2pwnbh2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qp2pwnbh2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qp4uy74t2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qp4uy74t2a"
     }
    ],
    "model": "opus",
