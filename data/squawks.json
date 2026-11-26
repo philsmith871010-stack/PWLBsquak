@@ -1,8 +1,92 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T21:35:49Z",
+ "generated_at": "2026-11-26T06:01:12Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "94c03742d095",
+   "ts": "2026-11-26T03:40:13Z",
+   "headline": "Vietnam says it is working with the US to finish a trade deal as soon as possible after the new US tariffs",
+   "detail": "Vietnam's trade ministry made the statement hours after the Trump administration announced new tariffs on 14 trading partners over excess factory capacity, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "e7f872061d53a0c7"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n36qtsqoiz2c",
+     "url": "https://bsky.app/profile/reuters.com/post/3n36qtsqoiz2c"
+    }
+   ],
+   "model": "opus",
+   "run_id": "640b86aec6cd",
+   "created_at": "2026-11-26T06:01:12Z"
+  },
+  {
+   "id": "e45bcc3a1c52",
+   "ts": "2026-11-26T03:10:12Z",
+   "headline": "Taiwan says it expects to keep its existing 15% US tariff rate after Trump's new tariffs on 14 trading partners",
+   "detail": "Taiwan's government said on Thursday it was confident of keeping the tariff rate it had already agreed with the US, Reuters reports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9e1c3269d47286af"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n36p64titp2i",
+     "url": "https://bsky.app/profile/reuters.com/post/3n36p64titp2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "640b86aec6cd",
+   "created_at": "2026-11-26T06:01:12Z"
+  },
+  {
+   "id": "62404bba72ac",
+   "ts": "2026-11-26T02:07:54Z",
+   "headline": "Bank of Korea raises its benchmark rate to 3.25%, its third quarter-point hike this year",
+   "detail": "The FT reports that the Bank of Korea raised rates amid a boom in AI chips. This is the third quarter-point increase this year.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "aeb8b9654472b7a2"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n36loq5on52j",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n36loq5on52j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "640b86aec6cd",
+   "created_at": "2026-11-26T06:01:12Z"
+  },
+  {
+   "id": "7a3d68d2ce53",
+   "ts": "2026-11-25T23:25:10Z",
+   "headline": "Fed Beige Book shows US growth continuing at a slight to moderate pace, with inflation still sticky",
+   "detail": "The Federal Reserve survey published on Wednesday found growth across most of the US, sticky inflation and rising employment in recent weeks, Reuters reports. It comes two weeks before Fed policymakers decide whether to raise rates.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "7ce786b014b346a3"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n36clpmbly2m",
+     "url": "https://bsky.app/profile/reuters.com/post/3n36clpmbly2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "640b86aec6cd",
+   "created_at": "2026-11-26T06:01:12Z"
+  },
   {
    "id": "0f8170cf75f9",
    "ts": "2026-11-25T21:35:12Z",
@@ -5456,120 +5540,6 @@
    "model": "opus",
    "run_id": "29b39773cf74",
    "created_at": "2026-11-20T13:31:04Z"
-  },
-  {
-   "id": "4a15a0a3d94a",
-   "ts": "2026-11-20T13:25:53Z",
-   "headline": "ECB's Nagel says the ECB needs to act at its December meeting",
-   "detail": "ECB Governing Council member Nagel said he believes the ECB has to do something at the December meeting. He added that this would put policy in slightly restrictive territory.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "0f894cba6a1f8e8e",
-    "d5a329d8f95b4df3"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qork54kl2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qork54kl2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qosb7ur22t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qosb7ur22t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "29b39773cf74",
-   "created_at": "2026-11-20T13:31:04Z"
-  },
-  {
-   "id": "481997846194",
-   "ts": "2026-11-20T13:25:30Z",
-   "headline": "UK officials say the EU reset deal could lead the UK to mirror EU tariffs on Chinese electric vehicles, FT reports",
-   "detail": "The Financial Times reports the comments from UK officials after the UK–EU summit. Earlier, Business Secretary Reynolds said UK tariff decisions would serve UK industry and would not simply follow the EU's lead.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "4c5ffb3a5727a8dc"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qoqtaj732d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qoqtaj732d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fb32d51c3f4d",
-   "created_at": "2026-11-20T13:25:43Z"
-  },
-  {
-   "id": "ee34e4c660f5",
-   "ts": "2026-11-20T13:24:18Z",
-   "headline": "ECB's Nagel says inflation is too high and policy is slightly restrictive, with inflation expectations well anchored",
-   "detail": "ECB Governing Council member Nagel also said German GDP should grow 1.3% this year and about the same in 2027. In an earlier remark in the same appearance he put this year's growth at around 1.2%.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "7506896bd62c42df",
-    "6bf95ced1861949d",
-    "b6b03af02f94cb83",
-    "6fb6e3f1e470cbec",
-    "e22b7bd83fdc6f8d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qomkj2ns2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qomkj2ns2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qooousx526",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qooousx526"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qoqsrgs52p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qoqsrgs52p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qopfjkql2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qopfjkql2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qolttzlv2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qolttzlv2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fb32d51c3f4d",
-   "created_at": "2026-11-20T13:25:43Z"
-  },
-  {
-   "id": "3d493e0f37c4",
-   "ts": "2026-11-20T13:19:08Z",
-   "headline": "Europe's STOXX 600 is down 5.58% this week, on track for its biggest weekly fall since March–April 2025",
-   "detail": "A market wire reports that the pan-European STOXX 600 index has lost 5.58% so far this week.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "76371b28ea7a773b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qofgzq5m2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qofgzq5m2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4e896c75bc52",
-   "created_at": "2026-11-20T13:20:50Z"
   }
  ]
 }
