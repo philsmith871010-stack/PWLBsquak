@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T12:45:49Z",
+ "generated_at": "2026-11-26T13:25:42Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e3929e6fadc0",
+   "ts": "2026-11-26T13:24:34Z",
+   "headline": "UK to pay an extra participation fee to the EU under its reset deal, FT reports",
+   "detail": "The Financial Times reports that the terms of the agreement the UK signed with Brussels last week include a financial settlement, which EU diplomats call a pay-to-play arrangement. The report gives no amount.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "140f29c9c46c216b"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n37riojaiy2o",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n37riojaiy2o"
+    }
+   ],
+   "model": "opus",
+   "run_id": "30a853a43e23",
+   "created_at": "2026-11-26T13:25:42Z"
+  },
   {
    "id": "322e7454c76c",
    "ts": "2026-11-26T12:45:13Z",
@@ -5358,27 +5379,6 @@
      "author": "resolutionfoundation.org",
      "uri": "at://did:plc:v2gvr3pl2uwqxues3xqs7ycj/app.bsky.feed.post/3n2quv56u6q2t",
      "url": "https://bsky.app/profile/resolutionfoundation.org/post/3n2quv56u6q2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "cc386c2f4d1f",
-   "created_at": "2026-11-20T15:15:58Z"
-  },
-  {
-   "id": "8ccb22b5877a",
-   "ts": "2026-11-20T15:11:45Z",
-   "headline": "EU commits a further €1bn through the European Peace Facility for Ukraine's armed forces",
-   "detail": "The EU says the money will go on joint procurement of lethal and non-lethal equipment for Ukraine's armed forces.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "0a2703c4b98b68e6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2quou4nrb2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2quou4nrb2v"
     }
    ],
    "model": "opus",
