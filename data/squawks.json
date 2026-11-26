@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T12:31:05Z",
+ "generated_at": "2026-11-26T12:45:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "322e7454c76c",
+   "ts": "2026-11-26T12:45:13Z",
+   "headline": "German consumer sentiment rises slightly going into December but stays low",
+   "detail": "A survey published on Thursday shows German consumer sentiment rising a little going into December, helped by slightly better income expectations, Reuters reports. Sentiment remains at a low level.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "a4d0e6a130367d42"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n37pcczno42k",
+     "url": "https://bsky.app/profile/reuters.com/post/3n37pcczno42k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bcd916c88035",
+   "created_at": "2026-11-26T12:45:49Z"
+  },
   {
    "id": "fddcb3815cba",
    "ts": "2026-11-26T12:30:38Z",
@@ -5363,27 +5384,6 @@
    "model": "opus",
    "run_id": "cc386c2f4d1f",
    "created_at": "2026-11-20T15:15:58Z"
-  },
-  {
-   "id": "69603fe31b2c",
-   "ts": "2026-11-20T15:01:05Z",
-   "headline": "Eurozone flash consumer confidence rises to -16.9, beating the -18 forecast",
-   "detail": "The flash eurozone consumer confidence reading was -16.9, compared with a -18 forecast and -17.9 previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "5a89e9ab4554ccff"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qu3qlck726",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qu3qlck726"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9b5a3a4945e1",
-   "created_at": "2026-11-20T15:01:19Z"
   }
  ]
 }
