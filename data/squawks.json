@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T18:25:44Z",
+ "generated_at": "2026-11-26T18:50:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2658b1e282d5",
+   "ts": "2026-11-26T18:50:14Z",
+   "headline": "BoE says global financial system risks have intensified as Middle East conflict drags on and AI firms borrow heavily",
+   "detail": "The Bank of England said on Thursday that risks in the global financial system have grown in recent months as the Middle East conflict has pushed up inflation and interest rates. It pointed to heavy borrowing by AI companies and by governments, Reuters reports.",
+   "category": "boe",
+   "importance": 2,
+   "source_event_ids": [
+    "3787059fad00a70b"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3adp22e762h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3adp22e762h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "58f89467d7eb",
+   "created_at": "2026-11-26T18:50:56Z"
+  },
   {
    "id": "980e3b4018ad",
    "ts": "2026-11-26T18:25:11Z",
@@ -5267,27 +5288,6 @@
    "model": "opus",
    "run_id": "872e67551052",
    "created_at": "2026-11-20T17:01:11Z"
-  },
-  {
-   "id": "3a8d03ecd15d",
-   "ts": "2026-11-20T16:51:23Z",
-   "headline": "Iranian official says Qeshm Island blast came from disposal of unexploded munitions, after earlier missile attack report",
-   "detail": "Tasnim, which had earlier reported a missile strike on Iran's Qeshm Island, quoted an official who said the explosion and smoke came from the disposal of unexploded munitions.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7ced030109bdcf7a"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r2ayaoez2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r2ayaoez2d"
-    }
-   ],
-   "model": "opus",
-   "run_id": "3446cbd9409d",
-   "created_at": "2026-11-20T16:55:45Z"
   }
  ]
 }
