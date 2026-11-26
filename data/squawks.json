@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T13:45:54Z",
+ "generated_at": "2026-11-26T13:51:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "f4947d15ba47",
+   "ts": "2026-11-26T13:50:18Z",
+   "headline": "Most Gulf stock markets close lower after reported attacks on Saudi energy assets and continuing shipping risks",
+   "detail": "Reuters reports that most Gulf bourses ended Thursday lower as investors assessed reported strikes on Saudi energy facilities and continuing dangers to shipping in the region.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "9dba22546335745a"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n37swphtni2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n37swphtni2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ecdf768ab935",
+   "created_at": "2026-11-26T13:51:03Z"
+  },
   {
    "id": "2554cabe3b37",
    "ts": "2026-11-26T13:44:47Z",
@@ -5309,39 +5330,6 @@
    "model": "opus",
    "run_id": "039cad083e57",
    "created_at": "2026-11-20T15:35:42Z"
-  },
-  {
-   "id": "0129964ea8d5",
-   "ts": "2026-11-20T15:29:07Z",
-   "headline": "US Treasury Secretary Bessent questions the case for a bigger Fed hike and says the Fed should focus on the outlook",
-   "detail": "In a CNBC interview, US Treasury Secretary Bessent said it seemed erratic for the Fed to want a larger rate hike. He said the Fed should look ahead rather than at past data.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "66963b758df98ac1",
-    "d41e4d84e3694ba0",
-    "ae33f00a8e783690"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qvnv3rht2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qvnv3rht2s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qvnvhwkr2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qvnvhwkr2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qvomb7oo2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qvomb7oo2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b24208e8f241",
-   "created_at": "2026-11-20T15:31:06Z"
   }
  ]
 }
