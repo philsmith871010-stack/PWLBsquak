@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T06:01:12Z",
+ "generated_at": "2026-11-26T06:05:41Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "557667b53304",
+   "ts": "2026-11-26T05:20:14Z",
+   "headline": "BoJ board member Tamura says the bank may need to speed up rate hikes if inflation overshoots",
+   "detail": "Bank of Japan board member Naoki Tamura said on Thursday that the bank must respond quickly to signs of an inflation overshoot, including by raising rates faster. Reuters reports that his comments keep a possible December rate rise in play.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "6ed066061b456bde"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n36wgms7e22e",
+     "url": "https://bsky.app/profile/reuters.com/post/3n36wgms7e22e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "363e56e0995d",
+   "created_at": "2026-11-26T06:05:41Z"
+  },
   {
    "id": "94c03742d095",
    "ts": "2026-11-26T03:40:13Z",
@@ -5502,39 +5523,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qozyjiqx2v",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qozyjiqx2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "29b39773cf74",
-   "created_at": "2026-11-20T13:31:04Z"
-  },
-  {
-   "id": "bece3b5a6e1c",
-   "ts": "2026-11-20T13:26:41Z",
-   "headline": "Burnham says the Treasury puts the UK–EU deal's boost at up to 0.5% of GDP, or £17bn, with a bill due next week",
-   "detail": "Speaking after the Brussels summit, Burnham said the Treasury estimates the reset deal will add up to 0.5% of UK GDP, a £17bn boost to the economy. He said legislation to implement the deal will be brought forward next week.",
-   "category": "geopolitics",
-   "importance": 2,
-   "source_event_ids": [
-    "355be49a9fbdfed4",
-    "24245d3d24013d0a",
-    "68268edddcee060b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qosxxeed2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qosxxeed2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qozy5tci2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qozy5tci2j"
-    },
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2qotnqovc2p",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2qotnqovc2p"
     }
    ],
    "model": "opus",
