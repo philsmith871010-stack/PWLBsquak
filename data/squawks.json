@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T14:50:59Z",
+ "generated_at": "2026-11-26T15:20:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "8a673cadaccf",
+   "ts": "2026-11-26T15:19:16Z",
+   "headline": "Fed is set to raise rates despite the stock market sell-off, with inflation officials' main worry, FT reports",
+   "detail": "The Financial Times reports that US Federal Reserve officials see inflation as their top concern, even though a tech-led equity sell-off has raised fears about the economy.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "4b7cf6e497ca0afe"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n37xvs7q242z",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n37xvs7q242z"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f5cc959739e6",
+   "created_at": "2026-11-26T15:20:55Z"
+  },
   {
    "id": "d424e7c64f28",
    "ts": "2026-11-26T14:50:15Z",
@@ -5279,27 +5300,6 @@
    "model": "opus",
    "run_id": "1656b8252f88",
    "created_at": "2026-11-20T15:45:54Z"
-  },
-  {
-   "id": "4e50a82b84b3",
-   "ts": "2026-11-20T15:38:37Z",
-   "headline": "Bessent says Iran's threats show US sanctions are putting it under pressure",
-   "detail": "US Treasury Secretary Bessent said Iran's threats suggest US sanctions are squeezing the country. He made the remarks while also commenting on the Fed.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "a5f116a1747eef54"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qw6ulu762w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qw6ulu762w"
-    }
-   ],
-   "model": "opus",
-   "run_id": "4168629916db",
-   "created_at": "2026-11-20T15:40:55Z"
   }
  ]
 }
