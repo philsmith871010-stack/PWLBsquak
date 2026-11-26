@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T06:50:56Z",
+ "generated_at": "2026-11-26T07:15:56Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "46f93a95079b",
+   "ts": "2026-11-26T07:15:11Z",
+   "headline": "Singapore says it is very disappointed by the new US tariffs and asks Washington to reconsider",
+   "detail": "Singapore's government said on Thursday the latest US tariffs on the city-state did not take account of the structure of its economy, Reuters reports. It asked the United States to reconsider the decision.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "265e22a0e8e7405b"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n374u6jccw2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n374u6jccw2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d7900dbcad3b",
+   "created_at": "2026-11-26T07:15:56Z"
+  },
   {
    "id": "ed10268db334",
    "ts": "2026-11-26T06:50:11Z",
@@ -5490,33 +5511,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qp7qcbcm2f",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qp7qcbcm2f"
-    }
-   ],
-   "model": "opus",
-   "run_id": "e290afeb0df7",
-   "created_at": "2026-11-20T13:36:16Z"
-  },
-  {
-   "id": "66536e682e9c",
-   "ts": "2026-11-20T13:33:49Z",
-   "headline": "Saudi-led coalition launches an operation against Houthi threat sources in Yemen",
-   "detail": "The Saudi-led coalition said it has begun an operation to neutralise sources of threats used to target civilians in Yemen and Saudi Arabia, including vital sources supporting the Houthis' military efforts. This follows Houthi threats against Saudi infrastructure.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "b383b5a5a3b57efd",
-    "d854bac5fefe9880"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qp7pw2ed2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qp7pw2ed2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qpah7bpk2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qpah7bpk2t"
     }
    ],
    "model": "opus",
