@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T06:05:41Z",
+ "generated_at": "2026-11-26T06:25:45Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "110c578b1051",
+   "ts": "2026-11-26T06:25:10Z",
+   "headline": "Oil rises in early Asian trade on supply worries after Houthi refinery strike claim and Hormuz mine incidents",
+   "detail": "Reuters reports crude prices rose in early Asian trading on Thursday, adding to gains from the previous session. The move followed a Houthi claim to have hit Saudi Arabia's largest oil refinery and reports that at least two ships struck Iranian mines in the Strait of Hormuz; Reuters gave no percentage move.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "e80958edd7792abb"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3722qw4xv2x",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3722qw4xv2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "c983e89da64c",
+   "created_at": "2026-11-26T06:25:45Z"
+  },
   {
    "id": "557667b53304",
    "ts": "2026-11-26T05:20:14Z",
@@ -5507,27 +5528,6 @@
    "model": "opus",
    "run_id": "e290afeb0df7",
    "created_at": "2026-11-20T13:36:16Z"
-  },
-  {
-   "id": "5bc96479dd89",
-   "ts": "2026-11-20T13:30:37Z",
-   "headline": "Canadian retail sales rise 0.8% on the month, above the 0.7% forecast",
-   "detail": "Canadian retail sales grew 0.8% month on month, against a 0.7% forecast and down from 1.2% previously.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8832ac34c4a78fa6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qozyjiqx2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qozyjiqx2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "29b39773cf74",
-   "created_at": "2026-11-20T13:31:04Z"
   }
  ]
 }
