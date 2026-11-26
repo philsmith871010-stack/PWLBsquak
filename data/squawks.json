@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T11:46:22Z",
+ "generated_at": "2026-11-26T12:10:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3177fa0b6fd6",
+   "ts": "2026-11-26T12:10:14Z",
+   "headline": "Rwanda's central bank raises its benchmark rate by 75bp to 9.5%, its fourth hike this year",
+   "detail": "Reuters reports that the National Bank of Rwanda raised its benchmark lending rate on Thursday, with inflation well above its target.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "158a0947893e2e62"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n37ndrjcrx2k",
+     "url": "https://bsky.app/profile/reuters.com/post/3n37ndrjcrx2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "095f5771b12f",
+   "created_at": "2026-11-26T12:10:48Z"
+  },
   {
    "id": "c51ed6f367f3",
    "ts": "2026-11-26T11:45:14Z",
@@ -5387,57 +5408,6 @@
    "model": "opus",
    "run_id": "9b5a3a4945e1",
    "created_at": "2026-11-20T15:01:19Z"
-  },
-  {
-   "id": "bccfca6ec6af",
-   "ts": "2026-11-20T13:43:08Z",
-   "headline": "UK PM Burnham and EU's von der Leyen and Costa condemn Russian violation of Polish airspace",
-   "detail": "UK Prime Minister Burnham said the incursion into Poland was unacceptable. European Commission President von der Leyen condemned the violation and expressed solidarity with Poland, and EU Council President Costa said Russia was going in the wrong direction.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "2e5dff5f697a0467",
-    "ecfd30fb2abda07d",
-    "3464a31030a81ebf",
-    "cd9d11f1ff33b378",
-    "5d06f3a83da99bbb",
-    "412ef6bff78e560d"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qpqe3mmd2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qpqe3mmd2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qpo7fqwv2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qpo7fqwv2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qpqdsdya2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qpqdsdya2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qpow47u62p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qpow47u62p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qpo73iko2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qpo73iko2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qpnhjlhd2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qpnhjlhd2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9b81fd36bc5d",
-   "created_at": "2026-11-20T13:45:54Z"
   }
  ]
 }
