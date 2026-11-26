@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T19:45:57Z",
+ "generated_at": "2026-11-26T20:15:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4c1ac2d30f63",
+   "ts": "2026-11-26T20:15:13Z",
+   "headline": "Saudi Energy Ministry says aerial strike on Aramco's Jazan refinery halts some operations and kills a worker",
+   "detail": "Saudi Arabia's Energy Ministry said a hostile aerial projectile hit Saudi Aramco's Jazan refinery on Thursday, temporarily halting some operations, killing one worker and wounding several others, Reuters reports. The Houthis had earlier said they struck a Saudi oil refinery.",
+   "category": "energy",
+   "importance": 2,
+   "source_event_ids": [
+    "13da2daacbbbfebf"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3aigygu3e2e",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3aigygu3e2e"
+    }
+   ],
+   "model": "opus",
+   "run_id": "a37ba3e61a19",
+   "created_at": "2026-11-26T20:15:55Z"
+  },
   {
    "id": "6d133ae483a3",
    "ts": "2026-11-26T19:45:13Z",
@@ -5267,27 +5288,6 @@
    "model": "opus",
    "run_id": "df387035fa20",
    "created_at": "2026-11-20T17:05:42Z"
-  },
-  {
-   "id": "30eae49fe76d",
-   "ts": "2026-11-20T17:00:58Z",
-   "headline": "China's $2bn dollar bond draws over $72bn of orders and prices in line with US Treasuries",
-   "detail": "A bookrunner's message seen by Reuters shows China's $2bn bond drew more than $72bn in orders. It priced in line with US Treasuries, not at the 25bp premium first suggested.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "bc5ca5afa06018a4"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2r2s4yzvf25",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2r2s4yzvf25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "872e67551052",
-   "created_at": "2026-11-20T17:01:11Z"
   }
  ]
 }
