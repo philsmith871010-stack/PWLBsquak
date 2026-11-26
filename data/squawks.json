@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T16:35:50Z",
+ "generated_at": "2026-11-26T17:31:02Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ef45ff8430c7",
+   "ts": "2026-11-26T17:29:56Z",
+   "headline": "BoE's Bailey says AI models not yet released have raised concerns about encryption",
+   "detail": "The FT reports the Bank of England Governor's remarks, which follow breakthroughs in mathematics that have raised fears about the security of data across financial systems.",
+   "category": "boe",
+   "importance": 1,
+   "source_event_ids": [
+    "fdd7dab06dc3a4d0"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n3a77h564f22",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n3a77h564f22"
+    }
+   ],
+   "model": "opus",
+   "run_id": "29d5b8afb17b",
+   "created_at": "2026-11-26T17:31:02Z"
+  },
   {
    "id": "8056a859c4cd",
    "ts": "2026-11-26T16:32:25Z",
@@ -5273,33 +5294,6 @@
    "model": "opus",
    "run_id": "9ec781d1fec7",
    "created_at": "2026-11-20T16:40:56Z"
-  },
-  {
-   "id": "6815ef337972",
-   "ts": "2026-11-20T16:19:37Z",
-   "headline": "Trump administration tells European and Ukrainian officials it wants a Ukraine–Russia peace deal by early January, reports say",
-   "detail": "Reports, including the FT, say the Trump administration has told European and Ukrainian officials it wants Kyiv to reach a peace deal with Russia before January. No market reaction was reported in the posts.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "88eaace512519930",
-    "0ec99330300eb530"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qyi6sagc2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qyi6sagc2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qyiwjgek2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qyiwjgek2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "fb770e508021",
-   "created_at": "2026-11-20T16:20:52Z"
   }
  ]
 }
