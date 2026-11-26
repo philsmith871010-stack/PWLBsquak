@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T18:50:56Z",
+ "generated_at": "2026-11-26T19:45:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6d133ae483a3",
+   "ts": "2026-11-26T19:45:13Z",
+   "headline": "Germany's IG Metall agrees a pay deal with metal and electrical industry employers",
+   "detail": "Reuters reports that the German trade union IG Metall reached a pay agreement with employers in the struggling metal and electrical industry on Thursday, after a fourth round of talks that lasted 26 hours. The report gives no pay figures.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "cacfba6dc5633397"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3agrdq6v32h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3agrdq6v32h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "8e7dae01d9a4",
+   "created_at": "2026-11-26T19:45:57Z"
+  },
   {
    "id": "2658b1e282d5",
    "ts": "2026-11-26T18:50:14Z",
@@ -5262,27 +5283,6 @@
      "author": "reuters.com",
      "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2r2s4yzvf25",
      "url": "https://bsky.app/profile/reuters.com/post/3n2r2s4yzvf25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "872e67551052",
-   "created_at": "2026-11-20T17:01:11Z"
-  },
-  {
-   "id": "931e734f2523",
-   "ts": "2026-11-20T16:57:39Z",
-   "headline": "Russia is considering restarting jet fuel exports, Tass reports",
-   "detail": "Russian state news agency Tass reports that Russia is weighing a resumption of jet fuel exports. No timing or volumes were given.",
-   "category": "energy",
-   "importance": 1,
-   "source_event_ids": [
-    "064d7b958830ba1b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r2m74os52p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r2m74os52p"
     }
    ],
    "model": "opus",
