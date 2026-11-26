@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-26T15:31:04Z",
+ "generated_at": "2026-11-26T16:25:44Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "0a31900f99de",
+   "ts": "2026-11-26T16:25:10Z",
+   "headline": "ECB accounts show broad support for a rate hike in October, with policymakers delaying to gather more evidence on inflation",
+   "detail": "Accounts of the ECB's 28-29 October meeting, published on Thursday, show policymakers leaned towards raising rates but chose to wait for more evidence on inflation risks, Reuters reports.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "209a0a030acfe585"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3a3lmrlcw23",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3a3lmrlcw23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f9fddebf7878",
+   "created_at": "2026-11-26T16:25:44Z"
+  },
   {
    "id": "0b72a8f4077f",
    "ts": "2026-11-26T15:30:28Z",
@@ -5279,27 +5300,6 @@
    "model": "opus",
    "run_id": "19201d841725",
    "created_at": "2026-11-20T16:05:50Z"
-  },
-  {
-   "id": "6238ab93551c",
-   "ts": "2026-11-20T15:58:38Z",
-   "headline": "European gas futures climb as much as 5% to €88.7/MWh",
-   "detail": "European gas futures were reported up by as much as 5% on the day, reaching €88.7/MWh.",
-   "category": "energy",
-   "importance": 2,
-   "source_event_ids": [
-    "ca94c5b1ae2467ac"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2qxco46wp2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2qxco46wp2t"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9e70b6522d9d",
-   "created_at": "2026-11-20T16:01:14Z"
   }
  ]
 }
