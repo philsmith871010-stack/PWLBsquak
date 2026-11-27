@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T09:20:52Z",
+ "generated_at": "2026-11-27T10:01:16Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2e5adcff665d",
+   "ts": "2026-11-27T10:00:42Z",
+   "headline": "French inflation comes in at 3.2% in November on preliminary data, slower than expected",
+   "detail": "France's INSEE statistics agency published preliminary figures on Friday showing consumer prices rose 3.2% in November, a slower rise than expected, Reuters reports.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "458e14adae74922c"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3bwl2seqs2j",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3bwl2seqs2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "fe7270f47831",
+   "created_at": "2026-11-27T10:01:16Z"
+  },
   {
    "id": "456de2b8ef1c",
    "ts": "2026-11-27T09:16:26Z",
@@ -4931,27 +4952,6 @@
    "model": "opus",
    "run_id": "15e0ab404a34",
    "created_at": "2026-11-20T18:01:14Z"
-  },
-  {
-   "id": "f4ffaf4bcfa4",
-   "ts": "2026-11-20T17:54:02Z",
-   "headline": "Iran's foreign minister says the US blockade on Iran must be broken, Iranian media report",
-   "detail": "Iranian media reported the remarks by Iran's foreign minister on the US blockade. The posts gave no further details.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "6b42c914247ddc58"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r5qzbjns2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r5qzbjns2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "72c25b87cb79",
-   "created_at": "2026-11-20T17:55:43Z"
   }
  ]
 }
