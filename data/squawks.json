@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T14:10:57Z",
+ "generated_at": "2026-11-27T15:05:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "4fe8226137b4",
+   "ts": "2026-11-27T15:05:12Z",
+   "headline": "Iraq says it treats any oil exports that bypass state marketer SOMO as smuggling",
+   "detail": "An Iraqi government spokesman told the state news agency on Friday that oil exports outside SOMO count as smuggling because the money does not reach the state treasury, Reuters reports.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "e558bc5118072888"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3chlkvrys2b",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3chlkvrys2b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "44b734015344",
+   "created_at": "2026-11-27T15:05:50Z"
+  },
   {
    "id": "b00b1e276471",
    "ts": "2026-11-27T14:10:12Z",
@@ -4769,33 +4790,6 @@
    "model": "opus",
    "run_id": "5a63ccd1a6c0",
    "created_at": "2026-11-20T18:25:49Z"
-  },
-  {
-   "id": "d231008ed4dc",
-   "ts": "2026-11-20T18:19:23Z",
-   "headline": "ECB's Moulin says inflation is clearly too high and raising France's retirement age would cut the deficit",
-   "detail": "ECB policymaker Moulin said inflation is currently clearly too high. He also said that raising France's retirement age to match other European countries would lower the deficit.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b98c3609b81e8516",
-    "5255940c6668c43f"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r76dovka2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r76dovka2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6zyvqok2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6zyvqok2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2decbad7b22f",
-   "created_at": "2026-11-20T18:20:52Z"
   }
  ]
 }
