@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T07:15:50Z",
+ "generated_at": "2026-11-27T07:31:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "56bdd5198278",
+   "ts": "2026-11-27T07:30:17Z",
+   "headline": "India's trade minister says a trade deal with the US is close to completion as both sides aim to avoid higher US tariffs",
+   "detail": "Indian Trade Minister Piyush Goyal said on Friday that India and the US are near to concluding a long-awaited trade deal, Reuters reports. The talks are aimed at avoiding higher US tariffs on Indian imports.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "fec5d6f77696e589"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3bo643agr2k",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3bo643agr2k"
+    }
+   ],
+   "model": "opus",
+   "run_id": "1afda433833b",
+   "created_at": "2026-11-27T07:31:03Z"
+  },
   {
    "id": "7ddfad5683d0",
    "ts": "2026-11-27T07:15:11Z",
@@ -4979,27 +5000,6 @@
    "model": "opus",
    "run_id": "79f5e57aedf6",
    "created_at": "2026-11-20T17:50:50Z"
-  },
-  {
-   "id": "2834361faa65",
-   "ts": "2026-11-20T17:40:15Z",
-   "headline": "US Treasury warns Singapore and Malaysia of risks if they fail to comply with US sanctions on Iran",
-   "detail": "Reuters reports that US Treasury officials met government authorities in Singapore and Malaysia this week, including regulators and national security bodies, to warn of the risks of not complying with US sanctions on Iran.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "1ee1ef099159e0ff"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2r4yerums2u",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2r4yerums2u"
-    }
-   ],
-   "model": "opus",
-   "run_id": "d0e977d15a0b",
-   "created_at": "2026-11-20T17:40:50Z"
   }
  ]
 }
