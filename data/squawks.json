@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T06:01:19Z",
+ "generated_at": "2026-11-27T06:05:51Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3c770a79404e",
+   "ts": "2026-11-27T05:20:17Z",
+   "headline": "Iran's foreign minister tells South Korea that foreign military forces in the Gulf would raise tensions",
+   "detail": "Iran's foreign minister told his South Korean counterpart that a foreign military presence in the Gulf would increase tensions rather than support peace, Reuters reports. Seoul is preparing to extend a navy unit's operating area to waters south of the Gulf of Oman.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "76c5b9a449cf9a49"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3bgvntkp42b",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3bgvntkp42b"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ceabd4c35760",
+   "created_at": "2026-11-27T06:05:51Z"
+  },
   {
    "id": "111d8d6f8bad",
    "ts": "2026-11-27T00:35:10Z",
@@ -5123,27 +5144,6 @@
    "model": "opus",
    "run_id": "9169d87c396d",
    "created_at": "2026-11-20T17:31:07Z"
-  },
-  {
-   "id": "b582dd1fb82b",
-   "ts": "2026-11-20T17:25:10Z",
-   "headline": "Sterling heads for a third weekly fall against the dollar as the dollar holds near its highest level since April 2025",
-   "detail": "Reuters reports that sterling edged higher against the dollar on Friday but was on course for a third straight weekly loss. It says the dollar is being supported by expectations that the Federal Reserve will tighten policy and by concern about AI.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "56bce142faea5aab"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2r45fiqni25",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2r45fiqni25"
-    }
-   ],
-   "model": "opus",
-   "run_id": "53192849e793",
-   "created_at": "2026-11-20T17:25:40Z"
   }
  ]
 }
