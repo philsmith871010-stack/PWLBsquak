@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T20:45:48Z",
+ "generated_at": "2026-11-27T21:45:50Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "ee855e03bb92",
+   "ts": "2026-11-27T21:42:19Z",
+   "headline": "S&P lowers France's credit rating outlook to negative",
+   "detail": "S&P Global Ratings has moved France's outlook to negative. The agency said political instability will make it harder for France to bring down its public deficit.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "7978a34e161efa67"
+   ],
+   "sources": [
+    {
+     "author": "financialtimes.com",
+     "uri": "at://did:plc:5u54z2qgkq43dh2nzwzdbbhb/app.bsky.feed.post/3n3d5roblpj2g",
+     "url": "https://bsky.app/profile/financialtimes.com/post/3n3d5roblpj2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "bb85f1b7307b",
+   "created_at": "2026-11-27T21:45:50Z"
+  },
   {
    "id": "08ea62323c20",
    "ts": "2026-11-27T20:45:15Z",
@@ -4745,33 +4766,6 @@
    "model": "opus",
    "run_id": "5ffbb1c69fb6",
    "created_at": "2026-11-20T20:31:07Z"
-  },
-  {
-   "id": "92bb0b91b64e",
-   "ts": "2026-11-20T20:23:15Z",
-   "headline": "Trump weighs new strikes on Iran as hawkish US and Israeli officials push for action, FT reports",
-   "detail": "The Financial Times reports that President Trump is considering fresh strikes on Iran, with hawkish officials in Washington and Israel urging him to act. The same report says the US military has warned of strain on its forces.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "799e8f5cd7eb9e6d",
-    "7768e3326805eafe"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rg3t35ir2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rg3t35ir2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rg33sty52v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rg33sty52v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "29f09bf4e7ba",
-   "created_at": "2026-11-20T20:25:41Z"
   }
  ]
 }
