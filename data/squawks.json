@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T13:10:52Z",
+ "generated_at": "2026-11-27T13:45:55Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2e6c99aa2e70",
+   "ts": "2026-11-27T13:45:13Z",
+   "headline": "Russia's Novak says the energy ministry is in contact with the US over its diesel supply deal",
+   "detail": "Russian Deputy Prime Minister Alexander Novak said on Friday that the energy ministry is in contact with the United States about its deal to supply diesel, Reuters reports. No further details were given.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "33b58dc425bdb3c6"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3cd4jsrlb2i",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3cd4jsrlb2i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "4c4facf5e225",
+   "created_at": "2026-11-27T13:45:55Z"
+  },
   {
    "id": "bfa97c25b856",
    "ts": "2026-11-27T13:10:16Z",
@@ -4800,27 +4821,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6u6vbtq2p",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6u6vbtq2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "497474a011a0",
-   "created_at": "2026-11-20T18:15:48Z"
-  },
-  {
-   "id": "cc0e33732049",
-   "ts": "2026-11-20T18:11:38Z",
-   "headline": "Rubio says Trump made progress on trade in talks with Canada's prime minister",
-   "detail": "US Secretary of State Rubio said the president met the Canadian prime minister to discuss trade and that progress was made.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "700bc789fa920400"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6qhzot72b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6qhzot72b"
     }
    ],
    "model": "opus",
