@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T13:01:17Z",
+ "generated_at": "2026-11-27T13:10:52Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "bfa97c25b856",
+   "ts": "2026-11-27T13:10:16Z",
+   "headline": "Zambia's central bank holds its benchmark lending rate and expects inflation to stay within target",
+   "detail": "Reuters reports that the Bank of Zambia left its key lending rate unchanged on Friday. The bank said it forecasts inflation to remain within its target band.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "29a6bd046c483def"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3cb627d3s2m",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3cb627d3s2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "426ffaa4bdae",
+   "created_at": "2026-11-27T13:10:52Z"
+  },
   {
    "id": "55dc1670935b",
    "ts": "2026-11-27T13:00:52Z",
@@ -4800,63 +4821,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6qhzot72b",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6qhzot72b"
-    }
-   ],
-   "model": "opus",
-   "run_id": "497474a011a0",
-   "created_at": "2026-11-20T18:15:48Z"
-  },
-  {
-   "id": "1904670383f6",
-   "ts": "2026-11-20T18:11:37Z",
-   "headline": "ECB's Moulin says France faces a budget crisis but its banks and insurers are sound, and a deficit-cutting budget must pass",
-   "detail": "ECB official Moulin said the French banking sector is not at risk and banks and insurers have solid foundations, while describing France as facing a budget crisis. He said approval of a budget that reduces the deficit is essential.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "092789ba8fd8d848",
-    "3bb56fa0f5fc3816",
-    "3c80fd25c8650ef8",
-    "f23a261239b72c98",
-    "4c0bbc79e459bf1a",
-    "1be2b8393fbc4bfb",
-    "fd4f2feffe36796e"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6ppskcx24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6ppskcx24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6pq4dtf2d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6pq4dtf2d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6qho6up2f",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6qho6up2f"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6qhde622w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6qhde622w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6smv7eo2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6smv7eo2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6uwfqzk2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6uwfqzk2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6voj5n52s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6voj5n52s"
     }
    ],
    "model": "opus",
