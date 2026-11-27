@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T21:45:50Z",
+ "generated_at": "2026-11-27T22:05:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "5bd7c3d13a42",
+   "ts": "2026-11-27T22:05:12Z",
+   "headline": "Canadian dollar heads for a weekly gain as investors keep bets on a December Bank of Canada rate hike",
+   "detail": "Reuters reports the Canadian dollar was on course on Friday to end a three-week losing run against the US dollar. Investors held on to bets that the Bank of Canada will raise rates again next month.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "2dc4501825fd11c1"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3d72lrg7i25",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3d72lrg7i25"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9c331a248d36",
+   "created_at": "2026-11-27T22:05:57Z"
+  },
   {
    "id": "ee855e03bb92",
    "ts": "2026-11-27T21:42:19Z",
@@ -4745,27 +4766,6 @@
    "model": "opus",
    "run_id": "89549478dd31",
    "created_at": "2026-11-20T20:35:44Z"
-  },
-  {
-   "id": "d480858c652f",
-   "ts": "2026-11-20T20:28:17Z",
-   "headline": "US Treasury sanctions four Iranians accused of acting as oil trustees to collect overseas sale proceeds",
-   "detail": "The US Treasury said it has imposed sanctions on four Iranian individuals who allegedly gathered proceeds from Iran's oil sales abroad to get around earlier sanctions.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "7de0cc5341b99137"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rgetzm3f2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rgetzm3f2v"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5ffbb1c69fb6",
-   "created_at": "2026-11-20T20:31:07Z"
   }
  ]
 }
