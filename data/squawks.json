@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T11:45:49Z",
+ "generated_at": "2026-11-27T13:01:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "55dc1670935b",
+   "ts": "2026-11-27T13:00:52Z",
+   "headline": "German unemployment rises more than expected in November and goes above 3 million",
+   "detail": "Labour office figures released on Friday show German unemployment rose by more than expected on a seasonally adjusted basis in November, taking the total above the politically important 3 million mark, Reuters reports.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "11f139763f89a927"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3can7x72n2x",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3can7x72n2x"
+    }
+   ],
+   "model": "opus",
+   "run_id": "f334fa0e92f3",
+   "created_at": "2026-11-27T13:01:17Z"
+  },
   {
    "id": "2e217a1cbf9e",
    "ts": "2026-11-27T11:45:13Z",
@@ -4841,39 +4862,6 @@
    "model": "opus",
    "run_id": "497474a011a0",
    "created_at": "2026-11-20T18:15:48Z"
-  },
-  {
-   "id": "cde55336cd44",
-   "ts": "2026-11-20T18:08:02Z",
-   "headline": "ECB's Moulin says France must address its high debt and deficit and curb spending growth",
-   "detail": "ECB official Moulin said France needs measures to slow spending dynamics, while adding that its position is very different from Greece during its crisis.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "b0063b014d9a65e2",
-    "7c8e85de9ff852b5",
-    "f49f94bc49a37862"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6k2wgvo2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6k2wgvo2m"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6lhowfe2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6lhowfe2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6objdtm2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6objdtm2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "a1977b0309ee",
-   "created_at": "2026-11-20T18:10:45Z"
   }
  ]
 }
