@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T15:05:50Z",
+ "generated_at": "2026-11-27T16:01:17Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "6fde218fe1dc",
+   "ts": "2026-11-27T16:01:03Z",
+   "headline": "EU leaders' talks on the €1.6tn 2028-2034 EU budget collapse amid divisions among member states",
+   "detail": "Reuters reports that the talks among EU leaders on the bloc's 2028-2034 budget collapsed, with divisions between member states deeper than expected.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "bba9125036f756f4"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3ckpgaz6v23",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3ckpgaz6v23"
+    }
+   ],
+   "model": "opus",
+   "run_id": "6e153875f361",
+   "created_at": "2026-11-27T16:01:17Z"
+  },
   {
    "id": "4fe8226137b4",
    "ts": "2026-11-27T15:05:12Z",
@@ -4769,27 +4790,6 @@
    "model": "opus",
    "run_id": "b930c5d25ead",
    "created_at": "2026-11-20T18:31:11Z"
-  },
-  {
-   "id": "24d1cf9f0b79",
-   "ts": "2026-11-20T18:25:10Z",
-   "headline": "Global market selloff deepens this week as worries over AI and US interest rates drive selling across stocks, copper and gold",
-   "detail": "Reuters reports that a global market rout got markedly worse this week. It says concerns about AI and US interest rates set off heavy selling across equities, copper and gold.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "001cb70251a98877"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2r7ioggnz2q",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2r7ioggnz2q"
-    }
-   ],
-   "model": "opus",
-   "run_id": "5a63ccd1a6c0",
-   "created_at": "2026-11-20T18:25:49Z"
   }
  ]
 }
