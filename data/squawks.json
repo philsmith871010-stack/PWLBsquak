@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T11:31:16Z",
+ "generated_at": "2026-11-27T11:45:49Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "2e217a1cbf9e",
+   "ts": "2026-11-27T11:45:13Z",
+   "headline": "ECB survey shows eurozone consumers sharply raised their one-year-ahead inflation expectations last month",
+   "detail": "The European Central Bank's consumer expectations survey, published on Friday, showed a sharp rise in expected inflation for the year ahead and a significant rise in perceived inflation, Reuters reports. Reuters says the results strengthen the case for another ECB rate hike.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "d5b67092a831718b"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3c4fxgmry2j",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3c4fxgmry2j"
+    }
+   ],
+   "model": "opus",
+   "run_id": "ad6fb4b1414f",
+   "created_at": "2026-11-27T11:45:49Z"
+  },
   {
    "id": "6b1c6478a418",
    "ts": "2026-11-27T11:29:09Z",
@@ -4853,69 +4874,6 @@
    "model": "opus",
    "run_id": "a1977b0309ee",
    "created_at": "2026-11-20T18:10:45Z"
-  },
-  {
-   "id": "a5c585c67ad3",
-   "ts": "2026-11-20T18:04:27Z",
-   "headline": "Fed's Cook says the Fed is watching how the AI build-out is financed and must tackle the inflation already present",
-   "detail": "Federal Reserve Governor Lisa Cook said the Fed is cautious about the funding behind the rapid expansion of AI infrastructure and will monitor the financial risks around it. She also said the Fed must deal with the inflation already in the economy, and that AI should support growth in the long run but will take time to raise productivity.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "1eaf960aaed7acd6",
-    "9de31b8e39465226",
-    "100ceef1663ac3e6",
-    "e3df8ed2f2c2f948",
-    "149f6643b9106cd0",
-    "4d7422815ca849dc",
-    "2feab17f6e04ff65",
-    "39d995891af74d86"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6dn6hzm2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6dn6hzm2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6dmty642d",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6dmty642d"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6eeebhr2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6eeebhr2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6eenjf52s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6eenjf52s"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6c76hob2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6c76hob2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r67zo4ok2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r67zo4ok2j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6a2dvsg2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6a2dvsg2t"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6bi7f4g24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6bi7f4g24"
-    }
-   ],
-   "model": "opus",
-   "run_id": "49795b27de90",
-   "created_at": "2026-11-20T18:05:42Z"
   }
  ]
 }
