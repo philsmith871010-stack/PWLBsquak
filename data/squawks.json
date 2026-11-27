@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T20:15:53Z",
+ "generated_at": "2026-11-27T20:45:48Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "08ea62323c20",
+   "ts": "2026-11-27T20:45:15Z",
+   "headline": "US military disables a ship running its Iran blockade as Tehran vows to keep the Strait of Hormuz shut",
+   "detail": "The US military said on Friday that it had disabled a commercial ship trying to break its blockade of Iran, Reuters reports. An adviser to Iran's supreme leader said Tehran would keep the Strait of Hormuz closed and would break the US embargo.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "22da898fdefae1d5"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3d2lmjmnz2m",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3d2lmjmnz2m"
+    }
+   ],
+   "model": "opus",
+   "run_id": "76de4df31d79",
+   "created_at": "2026-11-27T20:45:48Z"
+  },
   {
    "id": "3940f5c24239",
    "ts": "2026-11-27T20:15:16Z",
@@ -4751,27 +4772,6 @@
    "model": "opus",
    "run_id": "29f09bf4e7ba",
    "created_at": "2026-11-20T20:25:41Z"
-  },
-  {
-   "id": "0610323799c6",
-   "ts": "2026-11-20T19:50:15Z",
-   "headline": "Bessent links his call for a smaller Fed hike to the energy supply shock and lower crude delivery prices",
-   "detail": "US Treasury Secretary Scott Bessent pointed to the energy supply shock and a fall in crude delivery prices as reasons the Federal Reserve should avoid a large rate hike, Reuters reports. He said some Fed governors are backing a big hike.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "8f18c03c64d6bf03"
-   ],
-   "sources": [
-    {
-     "author": "reuters.com",
-     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n2reasqihj2h",
-     "url": "https://bsky.app/profile/reuters.com/post/3n2reasqihj2h"
-    }
-   ],
-   "model": "opus",
-   "run_id": "577ebc51e1d6",
-   "created_at": "2026-11-20T19:50:50Z"
   }
  ]
 }
