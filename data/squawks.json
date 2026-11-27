@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T10:01:16Z",
+ "generated_at": "2026-11-27T10:40:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "1e7374a11347",
+   "ts": "2026-11-27T10:40:13Z",
+   "headline": "Spain's EU-harmonised inflation slows to 4.1% in November from 4.9% in October",
+   "detail": "Spain's National Statistics Institute (INE) published preliminary figures on Friday showing the EU-harmonised annual inflation rate fell to 4.1% in November, down from 4.9% in October.",
+   "category": "global_rates",
+   "importance": 2,
+   "source_event_ids": [
+    "aa7ca3e551e791ff"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3byrq7ddf2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3byrq7ddf2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "32137da91bec",
+   "created_at": "2026-11-27T10:40:53Z"
+  },
   {
    "id": "2e5adcff665d",
    "ts": "2026-11-27T10:00:42Z",
@@ -4920,33 +4941,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r63kscz624",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r63kscz624"
-    }
-   ],
-   "model": "opus",
-   "run_id": "15e0ab404a34",
-   "created_at": "2026-11-20T18:01:14Z"
-  },
-  {
-   "id": "df96d72f3551",
-   "ts": "2026-11-20T18:00:20Z",
-   "headline": "Fed's Cook says AI is displacing some jobs in parts of the US labour market",
-   "detail": "Federal Reserve Governor Cook said she sees some job displacement caused by AI in parts of the labour market.",
-   "category": "global_rates",
-   "importance": 1,
-   "source_event_ids": [
-    "9aefa603a2995f1c",
-    "2440eb86e03d64a2"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r64cc7kh2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r64cc7kh2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r655hohw2t",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r655hohw2t"
     }
    ],
    "model": "opus",
