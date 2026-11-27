@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T16:46:03Z",
+ "generated_at": "2026-11-27T16:50:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "553a193ed6ac",
+   "ts": "2026-11-27T16:50:17Z",
+   "headline": "RBI lowers minimum daily cash reserve ratio maintenance requirement to 90% from 99%",
+   "detail": "The Reserve Bank of India said on Friday that the cut to the minimum daily maintenance of the cash reserve ratio takes effect from the fortnight beginning 1 December.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "48b668f61530b523"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3cnhhtla42i",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3cnhhtla42i"
+    }
+   ],
+   "model": "opus",
+   "run_id": "aff59de9e26d",
+   "created_at": "2026-11-27T16:50:57Z"
+  },
   {
    "id": "b3dde65daa69",
    "ts": "2026-11-27T16:45:15Z",
@@ -4751,33 +4772,6 @@
    "model": "opus",
    "run_id": "778b26e9f960",
    "created_at": "2026-11-20T18:40:50Z"
-  },
-  {
-   "id": "7b6551982a80",
-   "ts": "2026-11-20T18:33:00Z",
-   "headline": "Fed's Paulson says she is open to consecutive rate hikes and favours raising rates in a deliberate way",
-   "detail": "Federal Reserve official Paulson said she would consider back-to-back rate increases and prefers a deliberate pace of tightening, according to posts on Friday evening.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "c97f22780fd63a2d",
-    "9ee54e8540684e70"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r7wp7rld26",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r7wp7rld26"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r7ziqvto2m",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r7ziqvto2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "923413378c7a",
-   "created_at": "2026-11-20T18:35:59Z"
   }
  ]
 }
