@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T13:45:55Z",
+ "generated_at": "2026-11-27T13:50:54Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b17d1d82bf36",
+   "ts": "2026-11-27T13:50:15Z",
+   "headline": "Russia's Novak says Novatek has signed a contract to supply LNG to Turkey starting 1 January",
+   "detail": "Russian Deputy Prime Minister Alexander Novak said on Friday that Novatek, Russia's largest LNG producer, has signed a deal to supply liquefied natural gas to Turkey from 1 January. He said volumes would be modest at first.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "7a51aba8fed853a1"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3cdfjz7mx2v",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3cdfjz7mx2v"
+    }
+   ],
+   "model": "opus",
+   "run_id": "3695511501da",
+   "created_at": "2026-11-27T13:50:54Z"
+  },
   {
    "id": "2e6c99aa2e70",
    "ts": "2026-11-27T13:45:13Z",
@@ -4793,39 +4814,6 @@
    "model": "opus",
    "run_id": "2decbad7b22f",
    "created_at": "2026-11-20T18:20:52Z"
-  },
-  {
-   "id": "d9062ee3b10f",
-   "ts": "2026-11-20T18:13:42Z",
-   "headline": "Trump says the Iran war lifted oil far less than he expected, with oil near $80 rather than $300, and claims US control of Hormuz",
-   "detail": "US President Trump said he had expected oil to reach $300 a barrel but it is now near $80, and that a record amount of oil had been taken out through the Strait of Hormuz, which he said the US controls.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "c08b277d126c551c",
-    "e80203449224392d",
-    "cdd54ec1fe1cb33b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6sm6u6c2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6sm6u6c2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6tf4rx52b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6tf4rx52b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6u6vbtq2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6u6vbtq2p"
-    }
-   ],
-   "model": "opus",
-   "run_id": "497474a011a0",
-   "created_at": "2026-11-20T18:15:48Z"
   }
  ]
 }
