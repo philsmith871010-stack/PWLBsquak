@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T16:01:17Z",
+ "generated_at": "2026-11-27T16:46:03Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b3dde65daa69",
+   "ts": "2026-11-27T16:45:15Z",
+   "headline": "US goods trade deficit widens further as imports hit a record high, with AI-related goods contributing",
+   "detail": "Commerce Department data show US imports at a record high. Reuters reports that the rise was driven in part by AI-related goods and also included motor vehicles, industrial supplies and consumer goods.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "582fad156525ddbb"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3cn6hpbiv2g",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3cn6hpbiv2g"
+    }
+   ],
+   "model": "opus",
+   "run_id": "9295dda05c2c",
+   "created_at": "2026-11-27T16:46:03Z"
+  },
   {
    "id": "6fde218fe1dc",
    "ts": "2026-11-27T16:01:03Z",
@@ -4757,39 +4778,6 @@
    "model": "opus",
    "run_id": "923413378c7a",
    "created_at": "2026-11-20T18:35:59Z"
-  },
-  {
-   "id": "3f77abe50e78",
-   "ts": "2026-11-20T18:27:51Z",
-   "headline": "Trump says it is too early to discuss security guarantees for Ukraine before a Russia–Ukraine deal is reached",
-   "detail": "US President Trump said on 20 November that security guarantees for Ukraine will not be discussed until there is a Ukraine–Russia deal, though the US will be involved.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "e25e7930f4f0100e",
-    "bcda4a17632f1ec9",
-    "d6672212b0045797"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r7niqqrq2w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r7niqqrq2w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r7o7pcoi24",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r7o7pcoi24"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r7owxwmc2j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r7owxwmc2j"
-    }
-   ],
-   "model": "opus",
-   "run_id": "b930c5d25ead",
-   "created_at": "2026-11-20T18:31:11Z"
   }
  ]
 }
