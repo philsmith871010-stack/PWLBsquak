@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T17:01:15Z",
+ "generated_at": "2026-11-27T20:15:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "3940f5c24239",
+   "ts": "2026-11-27T20:15:16Z",
+   "headline": "German Bundestag approves €556bn 2027 budget with higher defence spending and heavy new borrowing",
+   "detail": "Reuters reports that Germany's lower house of parliament passed the €556bn ($610bn) 2027 budget on Friday. The budget includes higher defence spending, heavy investment and the second-highest level of new borrowing since the Second World War.",
+   "category": "global_rates",
+   "importance": 1,
+   "source_event_ids": [
+    "81182ee603f6a21d"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3cyvzcpjq2h",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3cyvzcpjq2h"
+    }
+   ],
+   "model": "opus",
+   "run_id": "b32ace6cdd91",
+   "created_at": "2026-11-27T20:15:53Z"
+  },
   {
    "id": "be185e966f20",
    "ts": "2026-11-27T17:00:57Z",
@@ -4751,27 +4772,6 @@
    "model": "opus",
    "run_id": "577ebc51e1d6",
    "created_at": "2026-11-20T19:50:50Z"
-  },
-  {
-   "id": "3c8f934e9484",
-   "ts": "2026-11-20T19:36:36Z",
-   "headline": "Traders stop fully pricing a Fed rate hike in December",
-   "detail": "A market newswire reports that traders no longer fully price a Fed rate rise at the December meeting. This comes on a day when US Treasury yields were reported falling.",
-   "category": "global_rates",
-   "importance": 2,
-   "source_event_ids": [
-    "10971b75aa3b4a7b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2rdifvkuh2s",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2rdifvkuh2s"
-    }
-   ],
-   "model": "opus",
-   "run_id": "696d91207097",
-   "created_at": "2026-11-20T19:40:55Z"
   }
  ]
 }
