@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T13:50:54Z",
+ "generated_at": "2026-11-27T14:10:57Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "b00b1e276471",
+   "ts": "2026-11-27T14:10:12Z",
+   "headline": "Trump backs Iraqi prime minister's push to assert state control, including a halt to Iraqi oil smuggling",
+   "detail": "US President Donald Trump on Friday backed the Iraqi leader's efforts to strengthen state authority, including measures to stop Iraqi oil smuggling, Reuters reports. The moves put Baghdad in direct confrontation with Iran's militia allies and Kurdish authorities.",
+   "category": "geopolitics",
+   "importance": 1,
+   "source_event_ids": [
+    "23f67c01ff1d186a"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3ceja2b6v2w",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3ceja2b6v2w"
+    }
+   ],
+   "model": "opus",
+   "run_id": "704cf829964a",
+   "created_at": "2026-11-27T14:10:57Z"
+  },
   {
    "id": "b17d1d82bf36",
    "ts": "2026-11-27T13:50:15Z",
@@ -4770,45 +4791,6 @@
      "author": "fintwitter.bsky.social",
      "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6zyvqok2m",
      "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6zyvqok2m"
-    }
-   ],
-   "model": "opus",
-   "run_id": "2decbad7b22f",
-   "created_at": "2026-11-20T18:20:52Z"
-  },
-  {
-   "id": "98648ce6fb38",
-   "ts": "2026-11-20T18:16:57Z",
-   "headline": "Trump says the US and China are exploring a wide-ranging deal, and wants only older-generation chips sold to China",
-   "detail": "US President Trump said Washington and Beijing are discussing a comprehensive arrangement. He also said he wants restrictions that limit China to previous-generation semiconductors.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "d72337ac5305efdc",
-    "7cbd53e33013b9bf",
-    "4331045ff200a375",
-    "c17aca1204e210a6"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r6zykuek2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r6zykuek2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r72qjztw2b",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r72qjztw2b"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r73hcavs2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r73hcavs2a"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r746yjva2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r746yjva2p"
     }
    ],
    "model": "opus",
