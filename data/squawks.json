@@ -1,8 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T06:05:51Z",
+ "generated_at": "2026-11-27T06:10:53Z",
  "count": 200,
  "squawks": [
+  {
+   "id": "e03e181a7a6a",
+   "ts": "2026-11-27T06:10:11Z",
+   "headline": "US urged Venezuela and Iraq to consider quitting OPEC earlier this year, Reuters reports",
+   "detail": "Reuters cites ten people familiar with the matter as saying the Trump administration encouraged Venezuela and Iraq to weigh leaving OPEC. The sources also say it stopped Venezuela from paying its annual membership dues to the group.",
+   "category": "energy",
+   "importance": 1,
+   "source_event_ids": [
+    "8f1d2a9b6efd88fe"
+   ],
+   "sources": [
+    {
+     "author": "reuters.com",
+     "uri": "at://did:plc:jbvnehrrdqoulco4rf5gxg5r/app.bsky.feed.post/3n3bjoumsbu2y",
+     "url": "https://bsky.app/profile/reuters.com/post/3n3bjoumsbu2y"
+    }
+   ],
+   "model": "opus",
+   "run_id": "d1837bc7b86e",
+   "created_at": "2026-11-27T06:10:53Z"
+  },
   {
    "id": "3c770a79404e",
    "ts": "2026-11-27T05:20:17Z",
@@ -5093,57 +5114,6 @@
    "model": "opus",
    "run_id": "0069b1925b90",
    "created_at": "2026-11-20T17:35:54Z"
-  },
-  {
-   "id": "244da61ae1d3",
-   "ts": "2026-11-20T17:30:41Z",
-   "headline": "Trump says Iran will not offer a deal he can accept and US fuel prices depend on how the Iran dispute is settled",
-   "detail": "At a press conference, US President Trump said crude oil prices have fallen 20% since the start of November, to close to $80 a barrel. He also said 10 more trade deals will be announced soon after his Asia trip.",
-   "category": "geopolitics",
-   "importance": 1,
-   "source_event_ids": [
-    "276f3316afd15705",
-    "2cfdff492508f721",
-    "a00ab0f78fe9dc42",
-    "c99a7a0be1ef7d79",
-    "ed1d5d4601b0f446",
-    "5db08fc925dadf0b"
-   ],
-   "sources": [
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r4haxpy22w",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r4haxpy22w"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r4hbesvs2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r4hbesvs2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r4fsp54v2p",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r4fsp54v2p"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r4cxfylw2v",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r4cxfylw2v"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r4dpn7w52j",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r4dpn7w52j"
-    },
-    {
-     "author": "fintwitter.bsky.social",
-     "uri": "at://did:plc:43fdk46qa5gsokzygzildsaq/app.bsky.feed.post/3n2r4dpaxbc2a",
-     "url": "https://bsky.app/profile/fintwitter.bsky.social/post/3n2r4dpaxbc2a"
-    }
-   ],
-   "model": "opus",
-   "run_id": "9169d87c396d",
-   "created_at": "2026-11-20T17:31:07Z"
   }
  ]
 }
